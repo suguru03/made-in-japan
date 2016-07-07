@@ -1,0 +1,17 @@
+{
+  "name": "made-in-japan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suguru Motegi",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "made-in": "^1.0.3",
+    "make-function": "^0.1.0",
+    "minimist": "^1.2.0"
+  }
+}

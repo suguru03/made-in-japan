@@ -51,4 +51,3 @@ let madeInJapan = madeIn('Japan');
 madeInJapan.madeIn = madeIn;
 madeInJapan.MadeIn = MadeIn;
 module.exports = madeInJapan;
-

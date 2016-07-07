@@ -13,5 +13,10 @@
     "made-in": "^1.0.3",
     "make-function": "^0.1.0",
     "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "require-dir": "^0.3.0"
   }
 }

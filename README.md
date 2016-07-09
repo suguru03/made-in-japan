@@ -4,34 +4,34 @@
 
  
 ## Link
- - [AGS Script](#AGS Script)
- - [C](#C)
- - [C#](#C#)
- - [C++](#C++)
- - [CSS](#CSS)
- - [Clojure](#Clojure)
- - [CoffeeScript](#CoffeeScript)
- - [Common Lisp](#Common Lisp)
- - [Documents](#Documents)
- - [Emacs Lisp](#Emacs Lisp)
- - [Go](#Go)
- - [Groovy](#Groovy)
- - [HTML](#HTML)
- - [Java](#Java)
- - [JavaScript](#JavaScript)
- - [Kotlin](#Kotlin)
- - [Makefile](#Makefile)
- - [Nginx](#Nginx)
- - [Objective-C](#Objective-C)
- - [PHP](#PHP)
- - [Perl](#Perl)
- - [Perl6](#Perl6)
- - [Python](#Python)
- - [Ruby](#Ruby)
- - [Scala](#Scala)
- - [Shell](#Shell)
- - [Swift](#Swift)
- - [VimL](#VimL)
+ - [AGS Script](#ags-script)
+ - [C](#c)
+ - [C#](#c-1)
+ - [C++](#c-2)
+ - [CSS](#css)
+ - [Clojure](#clojure)
+ - [CoffeeScript](#coffeescript)
+ - [Common Lisp](#common-lisp)
+ - [Documents](#documents)
+ - [Emacs Lisp](#emacs-lisp)
+ - [Go](#go)
+ - [Groovy](#groovy)
+ - [HTML](#html)
+ - [Java](#java)
+ - [JavaScript](#javascript)
+ - [Kotlin](#kotlin)
+ - [Makefile](#makefile)
+ - [Nginx](#nginx)
+ - [Objective-C](#objective-c)
+ - [PHP](#php)
+ - [Perl](#perl)
+ - [Perl6](#perl6)
+ - [Python](#python)
+ - [Ruby](#ruby)
+ - [Scala](#scala)
+ - [Shell](#shell)
+ - [Swift](#swift)
+ - [VimL](#viml)
  
 ## AGS Script 
 
@@ -207,7 +207,7 @@
 
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|15282|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-ui…**](https://github.com/wasabeef/awesome-android-ui)|A curated list of awesome Android UI/UX libraries|[:arrow_upper_right:](https://twitter.com/wasabeef_jp)|
+|15281|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-ui…**](https://github.com/wasabeef/awesome-android-ui)|A curated list of awesome Android UI/UX libraries|[:arrow_upper_right:](https://twitter.com/wasabeef_jp)|
 |2543|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-li…**](https://github.com/wasabeef/awesome-android-libraries)|This is an alphabetical list of libraries for Android development, the majority being actively maintained.|[:arrow_upper_right:](https://twitter.com/wasabeef_jp)|
 |361|[@azu](https://github.com/azu)/[**awesome-commit-eng…**](https://github.com/azu/awesome-commit-english)|コミット英語についての記事まとめ||
 |173|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-to…**](https://github.com/wasabeef/awesome-android-tools)|A curated list of awesome Android Tools.||
@@ -324,11 +324,11 @@
 |1859|[@wasabeef](https://github.com/wasabeef)/[**richeditor-android…**](https://github.com/wasabeef/richeditor-android)|RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.||
 |1829|[@wasabeef](https://github.com/wasabeef)/[**Blurry**](https://github.com/wasabeef/Blurry)|Blurry is an easy blur library for Android||
 |1812|[@yusuke](https://github.com/yusuke)/[**twitter4j**](https://github.com/yusuke/twitter4j)|Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API which is released under the Apache License 2.0.|[:arrow_upper_right:](http://twitter4j.org/)|
-|1582|[@wasabeef](https://github.com/wasabeef)/[**glide-transformati…**](https://github.com/wasabeef/glide-transformations)|An Android transformation library providing a variety of image transformations for Glide.||
+|1583|[@wasabeef](https://github.com/wasabeef)/[**glide-transformati…**](https://github.com/wasabeef/glide-transformations)|An Android transformation library providing a variety of image transformations for Glide.||
 |758|[@wasabeef](https://github.com/wasabeef)/[**picasso-transforma…**](https://github.com/wasabeef/picasso-transformations)|An Android transformation library providing a variety of image transformations for Picasso||
 |512|[@wasabeef](https://github.com/wasabeef)/[**fresco-processors**](https://github.com/wasabeef/fresco-processors)|An Android image processor library providing a variety of image transformations for Fresco.||
 |267|[@wasabeef](https://github.com/wasabeef)/[**Takt**](https://github.com/wasabeef/Takt)|Takt is Android library for measuring the FPS using Choreographer.||
-|250|[@gfx](https://github.com/gfx)/[**Android-Orma**](https://github.com/gfx/Android-Orma)|A lightning-fast ORM for Android as a wrapper of SQLiteDatabase|[:arrow_upper_right:](http://gfx.github.io/Android-Orma)|
+|251|[@gfx](https://github.com/gfx)/[**Android-Orma**](https://github.com/gfx/Android-Orma)|A lightning-fast ORM for Android as a wrapper of SQLiteDatabase|[:arrow_upper_right:](http://gfx.github.io/Android-Orma)|
 |144|[@gfx](https://github.com/gfx)/[**gradle-android-rib…**](https://github.com/gfx/gradle-android-ribbonizer-plugin)|Modifies launcher icons on debug build||
 |89|[@yusuke](https://github.com/yusuke)/[**sign-in-with-twitt…**](https://github.com/yusuke/sign-in-with-twitter)||[:arrow_upper_right:](http://yusuke.homeip.net/twitter4j/)|
 |71|[@ksoichiro](https://github.com/ksoichiro)/[**SimpleAlertDialog-…**](https://github.com/ksoichiro/SimpleAlertDialog-for-Android)|Library for Android DialogFragment.||

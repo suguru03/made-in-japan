@@ -62,8 +62,22 @@ function makeDocs(data) {
   const readmePath = path.resolve(__dirname, '../../', 'README.md');
   let readme = fs.readFileSync(tempPath, 'utf8');
   // make link
+  const memo = {};
+  const resolve = function(name, suffix) {
+    let n = name;
+    suffix = suffix || 0;
+    if (suffix) {
+      n += `-${suffix}`;
+    }
+    if (memo[n]) {
+      return resolve(name, ++suffix);
+    }
+    memo[n] = true;
+    return n;
+  };
   readme = _.reduce(info, (result, str, language) => {
-    return `${result} - [${language}](#${language})\n`;
+    let link = resolve(language.toLowerCase().replace(/\#|\+\+/, '').replace(/ /, '-'));
+    return `${result} - [${language}](#${link})\n`;
   }, `${readme} \n## Link\n`);
 
   // make list

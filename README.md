@@ -52,8 +52,8 @@
 |84|[@hsbt](https://github.com/hsbt)/[**string-scrub**](https://github.com/hsbt/string-scrub)|String#scrub for Ruby 2.0.0 and 1.9.3||
 |79|[@mattn](https://github.com/mattn)/[**mruby-uv**](https://github.com/mattn/mruby-uv)|interface to libuv for mruby(experimental)|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
 |48|[@tokuhirom](https://github.com/tokuhirom)/[**node-perl**](https://github.com/tokuhirom/node-perl)|Node perl wrapper||
-|22|[@mblondel](https://github.com/mblondel)/[**spira**](https://github.com/mblondel/spira)|Recommender systems in Python||
 |22|[@nobu](https://github.com/nobu)/[**io-console**](https://github.com/nobu/io-console)|console access||
+|22|[@mblondel](https://github.com/mblondel)/[**spira**](https://github.com/mblondel/spira)|Recommender systems in Python||
 |18|[@ko1](https://github.com/ko1)/[**ruby-ptrace**](https://github.com/ko1/ruby-ptrace)|ptrace wrapper for ruby||
 |12|[@Constellation](https://github.com/Constellation)/[**console-colors.c**](https://github.com/Constellation/console-colors.c)|Write formatted string to console with colors||
 |5|[@Constellation](https://github.com/Constellation)/[**ruby-cmigemo**](https://github.com/Constellation/ruby-cmigemo)|Ruby binding for C/Migemo|[:arrow_upper_right:](http://d.hatena.ne.jp/Constellation/)|
@@ -72,9 +72,9 @@
 |143|[@keijiro](https://github.com/keijiro)/[**Klak**](https://github.com/keijiro/Klak)|Utilities for creative coding with Unity||
 |139|[@keijiro](https://github.com/keijiro)/[**ChromaPack**](https://github.com/keijiro/ChromaPack)|ChromaPack -- A lossy texture compression plugin for Unity.||
 |114|[@keijiro](https://github.com/keijiro)/[**KvantWall**](https://github.com/keijiro/KvantWall)|GPU accelerated object array animator for Unity||
-|113|[@keijiro](https://github.com/keijiro)/[**Teatro**](https://github.com/keijiro/Teatro)|Visual software made for Takamatsu media art festival||
 |113|[@keijiro](https://github.com/keijiro)/[**KvantSwarm**](https://github.com/keijiro/KvantSwarm)|Flowing line renderer for Unity||
 |113|[@keijiro](https://github.com/keijiro)/[**ColorSuite**](https://github.com/keijiro/ColorSuite)|Multifunctional color adjustment plugin for Unity.||
+|113|[@keijiro](https://github.com/keijiro)/[**Teatro**](https://github.com/keijiro/Teatro)|Visual software made for Takamatsu media art festival||
 |102|[@keijiro](https://github.com/keijiro)/[**KvantGrass**](https://github.com/keijiro/KvantGrass)|Animating grass shader for Unity||
 |97|[@keijiro](https://github.com/keijiro)/[**KinoBloom**](https://github.com/keijiro/KinoBloom)|Bloom filter for Unity||
 |95|[@keijiro](https://github.com/keijiro)/[**KinoMotion**](https://github.com/keijiro/KinoMotion)|Motion blur post-processing effect for Unity||
@@ -107,14 +107,14 @@
 |39|[@tokuhirom](https://github.com/tokuhirom)/[**node-mruby**](https://github.com/tokuhirom/node-mruby)|||
 |21|[@wasabeef](https://github.com/wasabeef)/[**gifflen-sample**](https://github.com/wasabeef/gifflen-sample)|Bitmap color reduction and GIF encoding||
 |18|[@zcbenz](https://github.com/zcbenz)/[**node-fork**](https://github.com/zcbenz/node-fork)|Add concurrency to node.js||
+|8|[@mblondel](https://github.com/mblondel)/[**dot-bench**](https://github.com/mblondel/dot-bench)|Benchmark of different sparse-sparse and sparse-dense dot product implementations.||
 |8|[@zcbenz](https://github.com/zcbenz)/[**native-mate**](https://github.com/zcbenz/native-mate)|||
 |8|[@zcbenz](https://github.com/zcbenz)/[**node-native-mate**](https://github.com/zcbenz/node-native-mate)|A non-intrusive lightweight JS to C++ bindings for node||
-|8|[@mblondel](https://github.com/mblondel)/[**dot-bench**](https://github.com/mblondel/dot-bench)|Benchmark of different sparse-sparse and sparse-dense dot product implementations.||
 |6|[@zcbenz](https://github.com/zcbenz)/[**lexi**](https://github.com/zcbenz/lexi)|A simple implementation of lex in C++||
-|5|[@zcbenz](https://github.com/zcbenz)/[**there-is-a-c-in-java…**](https://github.com/zcbenz/there-is-a-c-in-javascript)|Demo codes for the article: Javascript里有个C|[:arrow_upper_right:](http://cnodejs.org/blog/?tag=javascript%E9%87%8C%E6%9C%89%E4%B8%AAc)|
 |5|[@zcbenz](https://github.com/zcbenz)/[**base-minimal**](https://github.com/zcbenz/base-minimal)|Collections of mostly header-only utility classes from Chromium's base library.||
-|5|[@Constellation](https://github.com/Constellation)/[**iTunesDaemon**](https://github.com/Constellation/iTunesDaemon)|iTunes Daemon for Chromium|[:arrow_upper_right:](http://d.hatena.ne.jp/Constellation/)|
+|5|[@zcbenz](https://github.com/zcbenz)/[**there-is-a-c-in-ja…**](https://github.com/zcbenz/there-is-a-c-in-javascript)|Demo codes for the article: Javascript里有个C|[:arrow_upper_right:](http://cnodejs.org/blog/?tag=javascript%E9%87%8C%E6%9C%89%E4%B8%AAc)|
 |5|[@Constellation](https://github.com/Constellation)/[**az**](https://github.com/Constellation/az)|ECMAScript analyzing tools|[:arrow_upper_right:](http://d.hatena.ne.jp/Constellation/)|
+|5|[@Constellation](https://github.com/Constellation)/[**iTunesDaemon**](https://github.com/Constellation/iTunesDaemon)|iTunes Daemon for Chromium|[:arrow_upper_right:](http://d.hatena.ne.jp/Constellation/)|
 |4|[@Constellation](https://github.com/Constellation)/[**bmalloc-ported**](https://github.com/Constellation/bmalloc-ported)|enjoying bmalloc extracted from the WebKit tree + Linux support||
 |3|[@zcbenz](https://github.com/zcbenz)/[**clip**](https://github.com/zcbenz/clip)|Cloud Clipboard||
 
@@ -124,28 +124,28 @@
 |---|---|---|---|
 |682|[@zzak](https://github.com/zzak)/[**sdoc**](https://github.com/zzak/sdoc)|Standalone sdoc generator|[:arrow_upper_right:](http://api.rubyonrails.org/)|
 |472|[@onevcat](https://github.com/onevcat)/[**vno**](https://github.com/onevcat/vno)|Vno, just another ghost theme||
-|170|[@simurai](https://github.com/simurai)/[**duotone-dark-syntax**](https://github.com/simurai/duotone-dark-syntax)|DuoTone dark - A syntax theme for Atom||
+|170|[@simurai](https://github.com/simurai)/[**duotone-dark-synta…**](https://github.com/simurai/duotone-dark-syntax)|DuoTone dark - A syntax theme for Atom||
 |128|[@simurai](https://github.com/simurai)/[**filter.css**](https://github.com/simurai/filter.css)|A collection of CSS filter combos|[:arrow_upper_right:](http://simurai.com/filter.css/)|
 |86|[@simurai](https://github.com/simurai)/[**ZEN-Player**](https://github.com/simurai/ZEN-Player)|HTML5 Audio player|[:arrow_upper_right:](http://simurai.github.io/ZEN-Player)|
 |59|[@onevcat](https://github.com/onevcat)/[**vno-jekyll**](https://github.com/onevcat/vno-jekyll)|Another ported theme for Jekyll||
 |54|[@simurai](https://github.com/simurai)/[**duotone-syntax**](https://github.com/simurai/duotone-syntax)|Master template for DuoTone syntax themes||
 |49|[@simurai](https://github.com/simurai)/[**umbrUI**](https://github.com/simurai/umbrUI)|appearance:none styling.||
-|43|[@azu](https://github.com/azu)/[**pdf-markdown-annotat…**](https://github.com/azu/pdf-markdown-annotator)|[nw.js] pdf viewer + markdown editor||
-|32|[@simurai](https://github.com/simurai)/[**duotone-dark-sea-syn…**](https://github.com/simurai/duotone-dark-sea-syntax)|A dark blue-green DuoTone syntax theme for Atom||
+|43|[@azu](https://github.com/azu)/[**pdf-markdown-annot…**](https://github.com/azu/pdf-markdown-annotator)|[nw.js] pdf viewer + markdown editor||
+|32|[@simurai](https://github.com/simurai)/[**duotone-dark-sea-s…**](https://github.com/simurai/duotone-dark-sea-syntax)|A dark blue-green DuoTone syntax theme for Atom||
 |29|[@simurai](https://github.com/simurai)/[**cssconf-app**](https://github.com/simurai/cssconf-app)|A totally fake CSSConf app||
 |26|[@yusukebe](https://github.com/yusukebe)/[**Yomico**](https://github.com/yusukebe/Yomico)|Yet Another Markdown Viewer|[:arrow_upper_right:](http://yusukebe.com/)|
 |24|[@onevcat](https://github.com/onevcat)/[**OneV-s-Den**](https://github.com/onevcat/OneV-s-Den)|Blog||
-|22|[@simurai](https://github.com/simurai)/[**duotone-light-syntax…**](https://github.com/simurai/duotone-light-syntax)|DuoTone light - A syntax theme for Atom||
+|22|[@simurai](https://github.com/simurai)/[**duotone-light-synt…**](https://github.com/simurai/duotone-light-syntax)|DuoTone light - A syntax theme for Atom||
 |14|[@simurai](https://github.com/simurai)/[**oak**](https://github.com/simurai/oak)|UI playground||
-|14|[@simurai](https://github.com/simurai)/[**duotone-dark-space-s…**](https://github.com/simurai/duotone-dark-space-syntax)|A dark blue-red DuoTone syntax theme for Atom||
+|14|[@simurai](https://github.com/simurai)/[**duotone-dark-space…**](https://github.com/simurai/duotone-dark-space-syntax)|A dark blue-red DuoTone syntax theme for Atom||
 |12|[@onevcat](https://github.com/onevcat)/[**JekyllScroll**](https://github.com/onevcat/JekyllScroll)|JekyllScroll is a theme for Jekyll.||
-|10|[@simurai](https://github.com/simurai)/[**duotone-dark-forest-…**](https://github.com/simurai/duotone-dark-forest-syntax)|A dark green-yellow DuoTone syntax theme||
 |10|[@SachaG](https://github.com/SachaG)/[**gribbble**](https://github.com/SachaG/gribbble)|null||
+|10|[@simurai](https://github.com/simurai)/[**duotone-dark-fores…**](https://github.com/simurai/duotone-dark-forest-syntax)|A dark green-yellow DuoTone syntax theme||
 |9|[@yusukebe](https://github.com/yusukebe)/[**Podder**](https://github.com/yusukebe/Podder)|Cool and Easy standalone viewer of Perl codes, Pods, and Inao style Texts in local directory.||
-|8|[@simurai](https://github.com/simurai)/[**one-dark-vivid-synta…**](https://github.com/simurai/one-dark-vivid-syntax)|A more vivid One Dark Syntax theme|[:arrow_upper_right:](https://atom.io/themes/one-dark-vivid-syntax)|
-|7|[@naoya](https://github.com/naoya)/[**mh4sim**](https://github.com/naoya/mh4sim)|Monster Hunter 4 Item Simulator (Just Demo for AngularJS)||
+|8|[@simurai](https://github.com/simurai)/[**one-dark-vivid-syn…**](https://github.com/simurai/one-dark-vivid-syntax)|A more vivid One Dark Syntax theme|[:arrow_upper_right:](https://atom.io/themes/one-dark-vivid-syntax)|
+|7|[@simurai](https://github.com/simurai)/[**duotone-dark-earth…**](https://github.com/simurai/duotone-dark-earth-syntax)|A dark brown-orange DuoTone syntax theme||
 |7|[@yusukebe](https://github.com/yusukebe)/[**App-mookview**](https://github.com/yusukebe/App-mookview)|View Markdown texts as a "Mook-Book"||
-|7|[@simurai](https://github.com/simurai)/[**duotone-dark-earth-s…**](https://github.com/simurai/duotone-dark-earth-syntax)|A dark brown-orange DuoTone syntax theme||
+|7|[@naoya](https://github.com/naoya)/[**mh4sim**](https://github.com/naoya/mh4sim)|Monster Hunter 4 Item Simulator (Just Demo for AngularJS)||
 |5|[@yusukebe](https://github.com/yusukebe)/[**FMTube**](https://github.com/yusukebe/FMTube)|Listen and watch YouTube videos with recommendations from Last.fm|[:arrow_upper_right:](http://yusuke.be/FMTube)|
 |4|[@yusukebe](https://github.com/yusukebe)/[**Daramen**](https://github.com/yusukebe/Daramen)|ラーメン画像をひたすらダラダラ見るWebアプリ||
 |4|[@yusukebe](https://github.com/yusukebe)/[**Nopaste**](https://github.com/yusukebe/Nopaste)|Nopaste application making with Mojolicious.||
@@ -187,8 +187,8 @@
 |59|[@fukamachi](https://github.com/fukamachi)/[**shelly**](https://github.com/fukamachi/shelly)|Make Common Lisp shell-friendly.|[:arrow_upper_right:](shlyfile.org)|
 |55|[@fukamachi](https://github.com/fukamachi)/[**integral**](https://github.com/fukamachi/integral)|An object relational mapper for Common Lisp||
 |48|[@fukamachi](https://github.com/fukamachi)/[**dexador**](https://github.com/fukamachi/dexador)|Yet another HTTP client for Common Lisp|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Dexador)|
-|36|[@fukamachi](https://github.com/fukamachi)/[**datafly**](https://github.com/fukamachi/datafly)|A lightweight database library for Common Lisp.||
 |36|[@fukamachi](https://github.com/fukamachi)/[**quri**](https://github.com/fukamachi/quri)|Yet another URI library for Common Lisp||
+|36|[@fukamachi](https://github.com/fukamachi)/[**datafly**](https://github.com/fukamachi/datafly)|A lightweight database library for Common Lisp.||
 |28|[@fukamachi](https://github.com/fukamachi)/[**proc-parse**](https://github.com/fukamachi/proc-parse)|Procedural vector parser||
 |23|[@fukamachi](https://github.com/fukamachi)/[**lack**](https://github.com/fukamachi/lack)|Lack, the core of Clack||
 |23|[@fukamachi](https://github.com/fukamachi)/[**mito**](https://github.com/fukamachi/mito)|An ORM for Common Lisp with migrations, relationships and PostgreSQL support||
@@ -199,45 +199,45 @@
 |18|[@fukamachi](https://github.com/fukamachi)/[**utopian**](https://github.com/fukamachi/utopian)|A web framework for Common Lisp never finished.||
 |17|[@fukamachi](https://github.com/fukamachi)/[**cl-coveralls**](https://github.com/fukamachi/cl-coveralls)|||
 |14|[@fukamachi](https://github.com/fukamachi)/[**legion**](https://github.com/fukamachi/legion)|Simple multithreading worker mechanism.|[:arrow_upper_right:](http://gamera.wikia.com/wiki/Legion)|
-|13|[@fukamachi](https://github.com/fukamachi)/[**psychiq**](https://github.com/fukamachi/psychiq)|Background job processing for Common Lisp||
 |13|[@fukamachi](https://github.com/fukamachi)/[**cl-locale**](https://github.com/fukamachi/cl-locale)|Simple i18n library for Common Lisp||
+|13|[@fukamachi](https://github.com/fukamachi)/[**psychiq**](https://github.com/fukamachi/psychiq)|Background job processing for Common Lisp||
 
 ## Documents 
 
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|15281|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-ui**](https://github.com/wasabeef/awesome-android-ui)|A curated list of awesome Android UI/UX libraries|[:arrow_upper_right:](https://twitter.com/wasabeef_jp)|
-|2543|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-libr…**](https://github.com/wasabeef/awesome-android-libraries)|This is an alphabetical list of libraries for Android development, the majority being actively maintained.|[:arrow_upper_right:](https://twitter.com/wasabeef_jp)|
-|361|[@azu](https://github.com/azu)/[**awesome-commit-engli…**](https://github.com/azu/awesome-commit-english)|コミット英語についての記事まとめ||
-|173|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-tool…**](https://github.com/wasabeef/awesome-android-tools)|A curated list of awesome Android Tools.||
+|15281|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-ui…**](https://github.com/wasabeef/awesome-android-ui)|A curated list of awesome Android UI/UX libraries|[:arrow_upper_right:](https://twitter.com/wasabeef_jp)|
+|2543|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-li…**](https://github.com/wasabeef/awesome-android-libraries)|This is an alphabetical list of libraries for Android development, the majority being actively maintained.|[:arrow_upper_right:](https://twitter.com/wasabeef_jp)|
+|361|[@azu](https://github.com/azu)/[**awesome-commit-eng…**](https://github.com/azu/awesome-commit-english)|コミット英語についての記事まとめ||
+|173|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-to…**](https://github.com/wasabeef/awesome-android-tools)|A curated list of awesome Android Tools.||
 |125|[@onevcat](https://github.com/onevcat)/[**iOSWeekly**](https://github.com/onevcat/iOSWeekly)|iOS Weekly issue for InfoQ CN||
-|91|[@azu](https://github.com/azu)/[**browser-javascript-r…**](https://github.com/azu/browser-javascript-resource)|Browser JavaScript Resource.||
+|91|[@azu](https://github.com/azu)/[**browser-javascript…**](https://github.com/azu/browser-javascript-resource)|Browser JavaScript Resource.||
 |59|[@ko1](https://github.com/ko1)/[**uc_ja**](https://github.com/ko1/uc_ja)|書籍『アンダースタンディング コンピュテーション』のサポートリポジトリです。||
 |57|[@r7kamura](https://github.com/r7kamura)/[**awesome-fantasy**](https://github.com/r7kamura/awesome-fantasy)|A collection of awesome FinalFantasy-ish libraries, tools, frameworks and software.||
-|37|[@gfx](https://github.com/gfx)/[**docker-android-proje…**](https://github.com/gfx/docker-android-project)|Dockerfile for Android projects||
-|31|[@shu223](https://github.com/shu223)/[**APIClientCollection-…**](https://github.com/shu223/APIClientCollection-for-iOS)|A collection of API clients & SDKs for iOS.||
-|26|[@twada](https://github.com/twada)/[**macbook-provisioning…**](https://github.com/twada/macbook-provisioning)|"Mac の開発環境構築を自動化する (2015 年初旬編)" で書いた playbook です|[:arrow_upper_right:](http://t-wada.hatenablog.jp/entry/mac-provisioning-by-ansible)|
+|37|[@gfx](https://github.com/gfx)/[**docker-android-pro…**](https://github.com/gfx/docker-android-project)|Dockerfile for Android projects||
+|31|[@shu223](https://github.com/shu223)/[**APIClientCollectio…**](https://github.com/shu223/APIClientCollection-for-iOS)|A collection of API clients & SDKs for iOS.||
+|26|[@twada](https://github.com/twada)/[**macbook-provisioni…**](https://github.com/twada/macbook-provisioning)|"Mac の開発環境構築を自動化する (2015 年初旬編)" で書いた playbook です|[:arrow_upper_right:](http://t-wada.hatenablog.jp/entry/mac-provisioning-by-ansible)|
 |25|[@gfx](https://github.com/gfx)/[**swift-words**](https://github.com/gfx/swift-words)|Swift訳語集|[:arrow_upper_right:](https://github.com/gfx/swift-words/blob/master/README.md)|
-|20|[@wasabeef](https://github.com/wasabeef)/[**vagrant-kali-linux**](https://github.com/wasabeef/vagrant-kali-linux)|Vagrant Boxes - Kali Linux||
+|20|[@wasabeef](https://github.com/wasabeef)/[**vagrant-kali-linux…**](https://github.com/wasabeef/vagrant-kali-linux)|Vagrant Boxes - Kali Linux||
 |18|[@ksoichiro](https://github.com/ksoichiro)/[**awesome-gradle**](https://github.com/ksoichiro/awesome-gradle)|A curated list of awesome Gradle plugins and resources for a better development workflow automation.||
 |17|[@yusuke](https://github.com/yusuke)/[**twitter4s**](https://github.com/yusuke/twitter4s)|A Scala wrapper for Twitter4J||
 |13|[@onevcat](https://github.com/onevcat)/[**Notes**](https://github.com/onevcat/Notes)|My Notes: http://notes.onevcat.com||
 |11|[@gfx](https://github.com/gfx)/[**swift-resources**](https://github.com/gfx/swift-resources)|List of Resources on the Swift programming language||
-|10|[@ksoichiro](https://github.com/ksoichiro)/[**Android-CodingGuidel…**](https://github.com/ksoichiro/Android-CodingGuideline)|Androidアプリのコーディングガイドライン||
+|10|[@ksoichiro](https://github.com/ksoichiro)/[**Android-CodingGuid…**](https://github.com/ksoichiro/Android-CodingGuideline)|Androidアプリのコーディングガイドライン||
 |8|[@onevcat](https://github.com/onevcat)/[**UniRate**](https://github.com/onevcat/UniRate)|UniRate is a Unity3D package to help you promote you mobile games by prompting users to rate the app after using it for a few days or times.||
-|6|[@wasabeef](https://github.com/wasabeef)/[**java-code-style**](https://github.com/wasabeef/java-code-style)|IntelliJ IDEA code style settings for Wasabeef's Java and Android projects.||
+|6|[@masuidrive](https://github.com/masuidrive)/[**mobiruby-rubyconf2…**](https://github.com/masuidrive/mobiruby-rubyconf2012)|Presentation slides and note for RubyConf 2012 in Denver.||
 |6|[@wasabeef](https://github.com/wasabeef)/[**adball**](https://github.com/wasabeef/adball)|Adb All devices command||
-|6|[@masuidrive](https://github.com/masuidrive)/[**mobiruby-rubyconf201…**](https://github.com/masuidrive/mobiruby-rubyconf2012)|Presentation slides and note for RubyConf 2012 in Denver.||
-|5|[@yusukebe](https://github.com/yusukebe)/[**PerlTamago**](https://github.com/yusukebe/PerlTamago)|Perl初心者向けのごくごくシンプルなサンプルスクリプト集||
+|6|[@wasabeef](https://github.com/wasabeef)/[**java-code-style**](https://github.com/wasabeef/java-code-style)|IntelliJ IDEA code style settings for Wasabeef's Java and Android projects.||
 |5|[@sorah](https://github.com/sorah)/[**termtter-doc**](https://github.com/sorah/termtter-doc)|Termtter document complete project|[:arrow_upper_right:](http://termtter.org/)|
+|5|[@yusukebe](https://github.com/yusukebe)/[**PerlTamago**](https://github.com/yusukebe/PerlTamago)|Perl初心者向けのごくごくシンプルなサンプルスクリプト集||
 |5|[@yusukebe](https://github.com/yusukebe)/[**BigConcept**](https://github.com/yusukebe/BigConcept)|A Big Concept for Next Society. This is just POC.|[:arrow_upper_right:](http://yusukebe.com/)|
 |4|[@masuidrive](https://github.com/masuidrive)/[**mobiruby-ios**](https://github.com/masuidrive/mobiruby-ios)|Moved||
-|2|[@masuidrive](https://github.com/masuidrive)/[**masuidrive-test**](https://github.com/masuidrive/masuidrive-test)|test for me|[:arrow_upper_right:](none)|
 |2|[@masuidrive](https://github.com/masuidrive)/[**masuidrive.jp**](https://github.com/masuidrive/masuidrive.jp)|http://masuidrive.jp/|[:arrow_upper_right:](http://masuidrive.jp/)|
-|2|[@zzak](https://github.com/zzak)/[**doc-ruby-logo**](https://github.com/zzak/doc-ruby-logo)|Logos for documenting-ruby.org project|[:arrow_upper_right:](documenting-ruby.org)|
 |2|[@yusuke](https://github.com/yusuke)/[**twitter-lottery**](https://github.com/yusuke/twitter-lottery)|null||
-|2|[@yusuke](https://github.com/yusuke)/[**heroku-deploy-button…**](https://github.com/yusuke/heroku-deploy-button-java)|||
-|2|[@yusuke](https://github.com/yusuke)/[**multilingual-javadoc…**](https://github.com/yusuke/multilingual-javadoc)|||
+|2|[@yusuke](https://github.com/yusuke)/[**heroku-deploy-butt…**](https://github.com/yusuke/heroku-deploy-button-java)|||
+|2|[@zzak](https://github.com/zzak)/[**doc-ruby-logo**](https://github.com/zzak/doc-ruby-logo)|Logos for documenting-ruby.org project|[:arrow_upper_right:](documenting-ruby.org)|
+|2|[@yusuke](https://github.com/yusuke)/[**multilingual-javad…**](https://github.com/yusuke/multilingual-javadoc)|||
+|2|[@masuidrive](https://github.com/masuidrive)/[**masuidrive-test**](https://github.com/masuidrive/masuidrive-test)|test for me|[:arrow_upper_right:](none)|
 
 ## Emacs Lisp 
 
@@ -245,7 +245,7 @@
 |---|---|---|---|
 |39|[@twada](https://github.com/twada)/[**coverlay.el**](https://github.com/twada/coverlay.el)|Test coverage overlay for Emacs||
 |29|[@fukamachi](https://github.com/fukamachi)/[**redmine-el**](https://github.com/fukamachi/redmine-el)|See Redmine on Emacs||
-|20|[@twada](https://github.com/twada)/[**org-html5presentatio…**](https://github.com/twada/org-html5presentation.el)|HTML5 Presentation export for Org-mode||
+|20|[@twada](https://github.com/twada)/[**org-html5presentat…**](https://github.com/twada/org-html5presentation.el)|HTML5 Presentation export for Org-mode||
 |13|[@fukamachi](https://github.com/fukamachi)/[**emacs-config**](https://github.com/fukamachi/emacs-config)|[OBSOLETE] More simplified version is|[:arrow_upper_right:](https://github.com/fukamachi/.emacs.d)|
 |4|[@hsbt](https://github.com/hsbt)/[**dot.emacs.d**](https://github.com/hsbt/dot.emacs.d)|||
 
@@ -272,31 +272,31 @@
 |84|[@mattn](https://github.com/mattn)/[**go-redmine**](https://github.com/mattn/go-redmine)|null||
 |77|[@mattn](https://github.com/mattn)/[**go-shellwords**](https://github.com/mattn/go-shellwords)|Parse line as shell words||
 |76|[@mattn](https://github.com/mattn)/[**jvgrep**](https://github.com/mattn/jvgrep)|grep for japanese vimmer|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
-|75|[@mattn](https://github.com/mattn)/[**go-pipeline**](https://github.com/mattn/go-pipeline)|null||
 |75|[@mattn](https://github.com/mattn)/[**go-isatty**](https://github.com/mattn/go-isatty)||[:arrow_upper_right:](http://godoc.org/github.com/mattn/go-isatty)|
+|75|[@mattn](https://github.com/mattn)/[**go-pipeline**](https://github.com/mattn/go-pipeline)|null||
 |71|[@r7kamura](https://github.com/r7kamura)/[**gospel**](https://github.com/r7kamura/gospel)|BDD-style testing library for Golang||
 |37|[@tokuhirom](https://github.com/tokuhirom)/[**git-xlsx-textconv**](https://github.com/tokuhirom/git-xlsx-textconv)|||
 |26|[@ksoichiro](https://github.com/ksoichiro)/[**rdotm**](https://github.com/ksoichiro/rdotm)|Objective-C resource definition generator like Android app's R.java.||
-|20|[@ksoichiro](https://github.com/ksoichiro)/[**material-design-colo…**](https://github.com/ksoichiro/material-design-colors)|Palette for Android Material Design colors.||
+|20|[@ksoichiro](https://github.com/ksoichiro)/[**material-design-co…**](https://github.com/ksoichiro/material-design-colors)|Palette for Android Material Design colors.||
 |17|[@sorah](https://github.com/sorah)/[**etcvault**](https://github.com/sorah/etcvault)|proxy for etcd, adding transparent encryption||
 |14|[@sorah](https://github.com/sorah)/[**ec2nm**](https://github.com/sorah/ec2nm)|A DNS server serves  your AWS EC2 instances' IP addresses by Name tag||
 |12|[@naoya](https://github.com/naoya)/[**go-pit**](https://github.com/naoya/go-pit)|||
 |7|[@naoya](https://github.com/naoya)/[**Gozo**](https://github.com/naoya/Gozo)|||
 |4|[@ksoichiro](https://github.com/ksoichiro)/[**adbs**](https://github.com/ksoichiro/adbs)|Small utility for adb(Android Debug Bridge) to choose device easily.||
-|2|[@ksoichiro](https://github.com/ksoichiro)/[**mocker**](https://github.com/ksoichiro/mocker)|Mock up code generator for Android/iOS apps.||
 |2|[@ksoichiro](https://github.com/ksoichiro)/[**fint**](https://github.com/ksoichiro/fint)|A lightweight, simple source code check tool.|[:arrow_upper_right:](http://ksoichiro.github.io/fint/)|
+|2|[@ksoichiro](https://github.com/ksoichiro)/[**mocker**](https://github.com/ksoichiro/mocker)|Mock up code generator for Android/iOS apps.||
 
 ## Groovy 
 
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|90|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-p…**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
-|49|[@gfx](https://github.com/gfx)/[**android-power-assert…**](https://github.com/gfx/android-power-assert-plugin)|Power Assert for Android||
-|14|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-web-resource-…**](https://github.com/ksoichiro/gradle-web-resource-plugin)|Gradle plugin to use CoffeeScript, LESS and Bower libraries without Node.js/npm.||
-|14|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-android-git**](https://github.com/ksoichiro/gradle-android-git)|Gradle plugin for Android apps to manage Git dependency (gag)||
-|9|[@gfx](https://github.com/gfx)/[**gradle-plugin-templa…**](https://github.com/gfx/gradle-plugin-template)|A template project for Gradle plugins||
-|4|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-pl…**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
-|3|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-repor…**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
+|90|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar…**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
+|49|[@gfx](https://github.com/gfx)/[**android-power-asse…**](https://github.com/gfx/android-power-assert-plugin)|Power Assert for Android||
+|14|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-android-git…**](https://github.com/ksoichiro/gradle-android-git)|Gradle plugin for Android apps to manage Git dependency (gag)||
+|14|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-web-resourc…**](https://github.com/ksoichiro/gradle-web-resource-plugin)|Gradle plugin to use CoffeeScript, LESS and Bower libraries without Node.js/npm.||
+|9|[@gfx](https://github.com/gfx)/[**gradle-plugin-temp…**](https://github.com/gfx/gradle-plugin-template)|A template project for Gradle plugins||
+|4|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-…**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
+|3|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-rep…**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
 
 ## HTML 
 
@@ -307,58 +307,58 @@
 |75|[@Constellation](https://github.com/Constellation)/[**ibrik**](https://github.com/Constellation/ibrik)|CoffeeScript meets Istanbul - code coverage tool for CoffeeScript||
 |73|[@kana](https://github.com/kana)/[**config**](https://github.com/kana/config)|My configuration files feat. hardcore Vim scripts|[:arrow_upper_right:](http://kana.github.com/config/vim/)|
 |56|[@gfx](https://github.com/gfx)/[**Android-Helium**](https://github.com/gfx/Android-Helium)|Material Hatena bookmark reader for Android|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.github.gfx.helium&hl=ja)|
-|54|[@zcbenz](https://github.com/zcbenz)/[**chromium-source-tarb…**](https://github.com/zcbenz/chromium-source-tarball)|Generate source tarball of Chromium automatically||
+|54|[@zcbenz](https://github.com/zcbenz)/[**chromium-source-ta…**](https://github.com/zcbenz/chromium-source-tarball)|Generate source tarball of Chromium automatically||
 |25|[@azu](https://github.com/azu)/[**slide**](https://github.com/azu/slide)|スライド置き場|[:arrow_upper_right:](http://azu.github.io/slide/)|
 |18|[@azu](https://github.com/azu)/[**how-to-learn-es6**](https://github.com/azu/how-to-learn-es6)|:memo: How to learn ECMAScript2015 for Beginner?||
-|2|[@masuidrive](https://github.com/masuidrive)/[**journals**](https://github.com/masuidrive/journals)|||
 |2|[@hsbt](https://github.com/hsbt)/[**hsbt.github.io**](https://github.com/hsbt/hsbt.github.io)|Presentation Slides||
+|2|[@masuidrive](https://github.com/masuidrive)/[**journals**](https://github.com/masuidrive/journals)|||
 |2|[@ko1](https://github.com/ko1)/[**tokyo11**](https://github.com/ko1/tokyo11)|Tokyo RubyKaigi 11||
 
 ## Java 
 
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|6049|[@ksoichiro](https://github.com/ksoichiro)/[**Android-ObservableSc…**](https://github.com/ksoichiro/Android-ObservableScrollView)|Android library to observe scroll events on scrollable views.|[:arrow_upper_right:](http://ksoichiro.github.io/Android-ObservableScrollView/)|
-|3898|[@wasabeef](https://github.com/wasabeef)/[**recyclerview-animato…**](https://github.com/wasabeef/recyclerview-animators)|An Android Animation library which easily add itemanimator to RecyclerView items.||
-|1859|[@wasabeef](https://github.com/wasabeef)/[**richeditor-android**](https://github.com/wasabeef/richeditor-android)|RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.||
+|6049|[@ksoichiro](https://github.com/ksoichiro)/[**Android-Observable…**](https://github.com/ksoichiro/Android-ObservableScrollView)|Android library to observe scroll events on scrollable views.|[:arrow_upper_right:](http://ksoichiro.github.io/Android-ObservableScrollView/)|
+|3898|[@wasabeef](https://github.com/wasabeef)/[**recyclerview-anima…**](https://github.com/wasabeef/recyclerview-animators)|An Android Animation library which easily add itemanimator to RecyclerView items.||
+|1859|[@wasabeef](https://github.com/wasabeef)/[**richeditor-android…**](https://github.com/wasabeef/richeditor-android)|RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.||
 |1829|[@wasabeef](https://github.com/wasabeef)/[**Blurry**](https://github.com/wasabeef/Blurry)|Blurry is an easy blur library for Android||
 |1812|[@yusuke](https://github.com/yusuke)/[**twitter4j**](https://github.com/yusuke/twitter4j)|Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API which is released under the Apache License 2.0.|[:arrow_upper_right:](http://twitter4j.org/)|
-|1582|[@wasabeef](https://github.com/wasabeef)/[**glide-transformation…**](https://github.com/wasabeef/glide-transformations)|An Android transformation library providing a variety of image transformations for Glide.||
-|758|[@wasabeef](https://github.com/wasabeef)/[**picasso-transformati…**](https://github.com/wasabeef/picasso-transformations)|An Android transformation library providing a variety of image transformations for Picasso||
+|1582|[@wasabeef](https://github.com/wasabeef)/[**glide-transformati…**](https://github.com/wasabeef/glide-transformations)|An Android transformation library providing a variety of image transformations for Glide.||
+|758|[@wasabeef](https://github.com/wasabeef)/[**picasso-transforma…**](https://github.com/wasabeef/picasso-transformations)|An Android transformation library providing a variety of image transformations for Picasso||
 |512|[@wasabeef](https://github.com/wasabeef)/[**fresco-processors**](https://github.com/wasabeef/fresco-processors)|An Android image processor library providing a variety of image transformations for Fresco.||
 |267|[@wasabeef](https://github.com/wasabeef)/[**Takt**](https://github.com/wasabeef/Takt)|Takt is Android library for measuring the FPS using Choreographer.||
 |250|[@gfx](https://github.com/gfx)/[**Android-Orma**](https://github.com/gfx/Android-Orma)|A lightning-fast ORM for Android as a wrapper of SQLiteDatabase|[:arrow_upper_right:](http://gfx.github.io/Android-Orma)|
-|144|[@gfx](https://github.com/gfx)/[**gradle-android-ribbo…**](https://github.com/gfx/gradle-android-ribbonizer-plugin)|Modifies launcher icons on debug build||
-|89|[@yusuke](https://github.com/yusuke)/[**sign-in-with-twitter…**](https://github.com/yusuke/sign-in-with-twitter)||[:arrow_upper_right:](http://yusuke.homeip.net/twitter4j/)|
-|71|[@ksoichiro](https://github.com/ksoichiro)/[**SimpleAlertDialog-fo…**](https://github.com/ksoichiro/SimpleAlertDialog-for-Android)|Library for Android DialogFragment.||
+|144|[@gfx](https://github.com/gfx)/[**gradle-android-rib…**](https://github.com/gfx/gradle-android-ribbonizer-plugin)|Modifies launcher icons on debug build||
+|89|[@yusuke](https://github.com/yusuke)/[**sign-in-with-twitt…**](https://github.com/yusuke/sign-in-with-twitter)||[:arrow_upper_right:](http://yusuke.homeip.net/twitter4j/)|
+|71|[@ksoichiro](https://github.com/ksoichiro)/[**SimpleAlertDialog-…**](https://github.com/ksoichiro/SimpleAlertDialog-for-Android)|Library for Android DialogFragment.||
 |64|[@tokuhirom](https://github.com/tokuhirom)/[**toydi**](https://github.com/tokuhirom/toydi)|||
-|56|[@ksoichiro](https://github.com/ksoichiro)/[**AndroidFormEnhancer**](https://github.com/ksoichiro/AndroidFormEnhancer)|Form validation library for Android applications.|[:arrow_upper_right:](http://ksoichiro.github.io/AndroidFormEnhancer/)|
+|56|[@ksoichiro](https://github.com/ksoichiro)/[**AndroidFormEnhance…**](https://github.com/ksoichiro/AndroidFormEnhancer)|Form validation library for Android applications.|[:arrow_upper_right:](http://ksoichiro.github.io/AndroidFormEnhancer/)|
 |50|[@yusuke](https://github.com/yusuke)/[**samurai**](https://github.com/yusuke/samurai)|open source thread dump analysis tool|[:arrow_upper_right:](http://samuraism.jp/samurai/)|
 |43|[@tokuhirom](https://github.com/tokuhirom)/[**avans**](https://github.com/tokuhirom/avans)|Tiny thin web application framework for Java 8||
-|24|[@gfx](https://github.com/gfx)/[**Android-EncryptUtils…**](https://github.com/gfx/Android-EncryptUtils)|provides Encryption and EncryptedSharedPreferences||
+|24|[@gfx](https://github.com/gfx)/[**Android-EncryptUti…**](https://github.com/gfx/Android-EncryptUtils)|provides Encryption and EncryptedSharedPreferences||
 |22|[@gfx](https://github.com/gfx)/[**StaticGson**](https://github.com/gfx/StaticGson)|A Gson binding generator with annotation processing||
-|20|[@wasabeef](https://github.com/wasabeef)/[**android-RoundedTextu…**](https://github.com/wasabeef/android-RoundedTextureView)|RoundedTextureView Sample||
+|20|[@wasabeef](https://github.com/wasabeef)/[**android-RoundedTex…**](https://github.com/wasabeef/android-RoundedTextureView)|RoundedTextureView Sample||
 |18|[@ksoichiro](https://github.com/ksoichiro)/[**RichButtons**](https://github.com/ksoichiro/RichButtons)|'RichButtons' is a set of button styles for Android applications.||
-|17|[@gfx](https://github.com/gfx)/[**Robolectric-Instrume…**](https://github.com/gfx/Robolectric-Instrumentation)|Android Instrumentation Framework API wrapper to Robolectric||
+|17|[@gfx](https://github.com/gfx)/[**Robolectric-Instru…**](https://github.com/gfx/Robolectric-Instrumentation)|Android Instrumentation Framework API wrapper to Robolectric||
 |13|[@yusuke](https://github.com/yusuke)/[**ideahandson**](https://github.com/yusuke/ideahandson)|||
-|10|[@gfx](https://github.com/gfx)/[**AndroidLocationClien…**](https://github.com/gfx/AndroidLocationClientExample)|||
-|10|[@gfx](https://github.com/gfx)/[**gradle-android-utils…**](https://github.com/gfx/gradle-android-utils)|||
+|10|[@gfx](https://github.com/gfx)/[**AndroidLocationCli…**](https://github.com/gfx/AndroidLocationClientExample)|||
+|10|[@gfx](https://github.com/gfx)/[**gradle-android-uti…**](https://github.com/gfx/gradle-android-utils)|||
 |9|[@ksoichiro](https://github.com/ksoichiro)/[**android-tests**](https://github.com/ksoichiro/android-tests)|Examples of Android tests.||
 |8|[@gfx](https://github.com/gfx)/[**RxInTheBox**](https://github.com/gfx/RxInTheBox)|Minimum subset of RxJava for Android||
-|7|[@ksoichiro](https://github.com/ksoichiro)/[**Android-ColorfulIcon…**](https://github.com/ksoichiro/Android-ColorfulIcons)|Application icons mainly for Android apps.||
+|7|[@ksoichiro](https://github.com/ksoichiro)/[**Android-ColorfulIc…**](https://github.com/ksoichiro/Android-ColorfulIcons)|Application icons mainly for Android apps.||
 |5|[@yusuke](https://github.com/yusuke)/[**lucene-examples**](https://github.com/yusuke/lucene-examples)|lucene-examples||
+|4|[@yusuke](https://github.com/yusuke)/[**kagechiyo**](https://github.com/yusuke/kagechiyo)|Twitter Bot base||
 |4|[@yusuke](https://github.com/yusuke)/[**java7grammar**](https://github.com/yusuke/java7grammar)|null||
 |4|[@ksoichiro](https://github.com/ksoichiro)/[**md-slide-android**](https://github.com/ksoichiro/md-slide-android)|Android slide viewer app with Markdown||
-|4|[@yusuke](https://github.com/yusuke)/[**kagechiyo**](https://github.com/yusuke/kagechiyo)|Twitter Bot base||
-|3|[@ksoichiro](https://github.com/ksoichiro)/[**android-snippets**](https://github.com/ksoichiro/android-snippets)|Snippet codes for Android apps.||
 |3|[@yusuke](https://github.com/yusuke)/[**hash-count**](https://github.com/yusuke/hash-count)||[:arrow_upper_right:](http://todoke.org/)|
 |3|[@yusuke](https://github.com/yusuke)/[**ideamugen**](https://github.com/yusuke/ideamugen)|||
-|2|[@ksoichiro](https://github.com/ksoichiro)/[**simple-word-book**](https://github.com/ksoichiro/simple-word-book)|Simple Word Book for Android||
-|2|[@ksoichiro](https://github.com/ksoichiro)/[**spring-boot-practice…**](https://github.com/ksoichiro/spring-boot-practice)|Examples of Spring Boot apps.||
-|2|[@ksoichiro](https://github.com/ksoichiro)/[**zubhium.sample**](https://github.com/ksoichiro/zubhium.sample)|Zubhiumを使用したAndroidアプリケーションのサンプルです。||
-|2|[@yusuke](https://github.com/yusuke)/[**waraji**](https://github.com/yusuke/waraji)|waraji|[:arrow_upper_right:](http://samuraism.jp/waraji/)|
+|3|[@ksoichiro](https://github.com/ksoichiro)/[**android-snippets**](https://github.com/ksoichiro/android-snippets)|Snippet codes for Android apps.||
 |2|[@yusuke](https://github.com/yusuke)/[**log4twitter**](https://github.com/yusuke/log4twitter)||[:arrow_upper_right:](http://samuraism.jp/log4twitter/)|
+|2|[@yusuke](https://github.com/yusuke)/[**waraji**](https://github.com/yusuke/waraji)|waraji|[:arrow_upper_right:](http://samuraism.jp/waraji/)|
 |2|[@yusuke](https://github.com/yusuke)/[**javaform**](https://github.com/yusuke/javaform)|javaform||
+|2|[@ksoichiro](https://github.com/ksoichiro)/[**simple-word-book**](https://github.com/ksoichiro/simple-word-book)|Simple Word Book for Android||
+|2|[@ksoichiro](https://github.com/ksoichiro)/[**zubhium.sample**](https://github.com/ksoichiro/zubhium.sample)|Zubhiumを使用したAndroidアプリケーションのサンプルです。||
+|2|[@ksoichiro](https://github.com/ksoichiro)/[**spring-boot-practi…**](https://github.com/ksoichiro/spring-boot-practice)|Examples of Spring Boot apps.||
 
 ## JavaScript 
 
@@ -368,120 +368,120 @@
 |551|[@azu](https://github.com/azu)/[**promises-book**](https://github.com/azu/promises-book)|JavaScript Promiseの本|[:arrow_upper_right:](http://azu.github.io/promises-book/)|
 |310|[@masuidrive](https://github.com/masuidrive)/[**miyamoto**](https://github.com/masuidrive/miyamoto)|Google Apps Scriptで書かれたSlack用勤怠管理Botの「みやもとさん」||
 |240|[@SachaG](https://github.com/SachaG)/[**Void**](https://github.com/SachaG/Void)|A starter template for Meteor, using IronRouter||
-|128|[@keijiro](https://github.com/keijiro)/[**UnitySkyboxShaders**](https://github.com/keijiro/UnitySkyboxShaders)|Custom skybox shaders||
+|128|[@keijiro](https://github.com/keijiro)/[**UnitySkyboxShaders…**](https://github.com/keijiro/UnitySkyboxShaders)|Custom skybox shaders||
 |118|[@SachaG](https://github.com/SachaG)/[**Microscope**](https://github.com/SachaG/Microscope)|||
 |116|[@masuidrive](https://github.com/masuidrive)/[**node-mysql**](https://github.com/masuidrive/node-mysql)|[obsolete] pure Javascript MySQL network driver for node.js||
+|112|[@azu](https://github.com/azu)/[**JavaScript-Plugin-…**](https://github.com/azu/JavaScript-Plugin-Architecture)|JavaScriptプラグインアーキテクチャの本|[:arrow_upper_right:](https://www.gitbook.com/book/azu/javascript-plugin-architecture/details)|
 |112|[@SachaG](https://github.com/SachaG)/[**meteor-spin**](https://github.com/SachaG/meteor-spin)|A simple spinner package for Meteor|[:arrow_upper_right:](https://atmospherejs.com/sacha/spin)|
-|112|[@azu](https://github.com/azu)/[**JavaScript-Plugin-Ar…**](https://github.com/azu/JavaScript-Plugin-Architecture)|JavaScriptプラグインアーキテクチャの本|[:arrow_upper_right:](https://www.gitbook.com/book/azu/javascript-plugin-architecture/details)|
 |111|[@twada](https://github.com/twada)/[**licensify**](https://github.com/twada/licensify)|Browserify plugin to prepend license header to your bundle||
 |109|[@masuidrive](https://github.com/masuidrive)/[**TiStoreKit**](https://github.com/masuidrive/TiStoreKit)|StoreKit(In App Purchase) module for Titanium Mobile iPhone||
 |107|[@azu](https://github.com/azu)/[**github-reader**](https://github.com/azu/github-reader)|[node-webkit] GitHub client app - Viewer for Notifications and News Feed.||
 |89|[@r7kamura](https://github.com/r7kamura)/[**webtail**](https://github.com/r7kamura/webtail)|Stdin to your browser by WebSocket||
-|86|[@r7kamura](https://github.com/r7kamura)/[**retro-twitter-client…**](https://github.com/r7kamura/retro-twitter-client)|A retro twitter client.||
-|84|[@keijiro](https://github.com/keijiro)/[**unity-webview-integr…**](https://github.com/keijiro/unity-webview-integration)|Unity iOS および Android における web view 組み込み例 |[:arrow_upper_right:](http://www.radiumsoftware.com)|
-|74|[@masuidrive](https://github.com/masuidrive)/[**ti-websocket-client**](https://github.com/masuidrive/ti-websocket-client)|WebSocket client for Titanium Mobile 1.7.x+||
-|73|[@azu](https://github.com/azu)/[**multi-stage-sourcema…**](https://github.com/azu/multi-stage-sourcemap)|multi-level source map processing library.|[:arrow_upper_right:](http://efcl.info/2014/09/03/multi-stage-sourcemap/)|
+|86|[@r7kamura](https://github.com/r7kamura)/[**retro-twitter-clie…**](https://github.com/r7kamura/retro-twitter-client)|A retro twitter client.||
+|84|[@keijiro](https://github.com/keijiro)/[**unity-webview-inte…**](https://github.com/keijiro/unity-webview-integration)|Unity iOS および Android における web view 組み込み例 |[:arrow_upper_right:](http://www.radiumsoftware.com)|
+|74|[@masuidrive](https://github.com/masuidrive)/[**ti-websocket-clien…**](https://github.com/masuidrive/ti-websocket-client)|WebSocket client for Titanium Mobile 1.7.x+||
+|73|[@azu](https://github.com/azu)/[**multi-stage-source…**](https://github.com/azu/multi-stage-sourcemap)|multi-level source map processing library.|[:arrow_upper_right:](http://efcl.info/2014/09/03/multi-stage-sourcemap/)|
 |72|[@twada](https://github.com/twada)/[**qunit-tap**](https://github.com/twada/qunit-tap)|A TAP Output Producer Plugin for QUnit||
 |70|[@azu](https://github.com/azu)/[**material-flux**](https://github.com/azu/material-flux)|No magic flux implementation library.||
 |68|[@r7kamura](https://github.com/r7kamura)/[**github-stream**](https://github.com/r7kamura/github-stream)|Stream notifications on GitHub||
 |60|[@twada](https://github.com/twada)/[**type-name**](https://github.com/twada/type-name)|Just a reasonable `typeof`||
 |59|[@twada](https://github.com/twada)/[**unassert**](https://github.com/twada/unassert)|Encourage reliable programming by writing assertions in production code, and compiling them away from release||
-|58|[@azu](https://github.com/azu)/[**gitbook-starter-kit**](https://github.com/azu/gitbook-starter-kit)|GitBook Starter Kit.|[:arrow_upper_right:](https://www.gitbook.com/book/azu/gitbook-starter-kit/details)|
+|58|[@azu](https://github.com/azu)/[**gitbook-starter-ki…**](https://github.com/azu/gitbook-starter-kit)|GitBook Starter Kit.|[:arrow_upper_right:](https://www.gitbook.com/book/azu/gitbook-starter-kit/details)|
 |56|[@r7kamura](https://github.com/r7kamura)/[**gig**](https://github.com/r7kamura/gig)|A blog application using GitHub as a data store.|[:arrow_upper_right:](http://gig.herokuapp.com)|
 |54|[@naoya](https://github.com/naoya)/[**HBFav**](https://github.com/naoya/HBFav)|Hatena Bookmark "Favorite" Reader||
 |48|[@SachaG](https://github.com/SachaG)/[**Autorouter**](https://github.com/SachaG/Autorouter)|A simple package for Meteor prototyping||
 |45|[@tokuhirom](https://github.com/tokuhirom)/[**js-xlsx-demo**](https://github.com/tokuhirom/js-xlsx-demo)|||
 |44|[@naoya](https://github.com/naoya)/[**React-HBFav**](https://github.com/naoya/React-HBFav)|Samle app for React Native||
 |41|[@twada](https://github.com/twada)/[**unassertify**](https://github.com/twada/unassertify)|Browserify transform to encourage reliable programming by writing assertions in production code, and compiling them away from release.||
-|40|[@azu](https://github.com/azu)/[**wait-for-element.js**](https://github.com/azu/wait-for-element.js)|This library provide a function which wait until an element is visible.||
+|40|[@azu](https://github.com/azu)/[**wait-for-element.j…**](https://github.com/azu/wait-for-element.js)|This library provide a function which wait until an element is visible.||
 |39|[@azu](https://github.com/azu)/[**mini-flux**](https://github.com/azu/mini-flux)|mini flux implementation|[:arrow_upper_right:](http://azu.github.io/slide/react-meetup/flux.html)|
 |35|[@tokuhirom](https://github.com/tokuhirom)/[**mobirc**](https://github.com/tokuhirom/mobirc)|IRC Gateway for MobilePhone/iPhone/PC||
 |34|[@tokuhirom](https://github.com/tokuhirom)/[**jsref**](https://github.com/tokuhirom/jsref)|||
 |33|[@r7kamura](https://github.com/r7kamura)/[**mio**](https://github.com/r7kamura/mio)|MicroBlog for Laboratory.||
 |30|[@zcbenz](https://github.com/zcbenz)/[**cefode**](https://github.com/zcbenz/cefode)|Custom CEF build that has node.js API integration.||
-|28|[@azu](https://github.com/azu)/[**textlint-rule-preset…**](https://github.com/azu/textlint-rule-preset-JTF-style)|JTF日本語標準スタイルガイド for textlint.|[:arrow_upper_right:](http://efcl.info/2015/10/19/textlint-plugin-JTF-style/)|
-|28|[@masuidrive](https://github.com/masuidrive)/[**TitaniumSamples**](https://github.com/masuidrive/TitaniumSamples)|||
+|28|[@azu](https://github.com/azu)/[**textlint-rule-pres…**](https://github.com/azu/textlint-rule-preset-JTF-style)|JTF日本語標準スタイルガイド for textlint.|[:arrow_upper_right:](http://efcl.info/2015/10/19/textlint-plugin-JTF-style/)|
 |28|[@naoya](https://github.com/naoya)/[**sukushokun**](https://github.com/naoya/sukushokun)|||
-|27|[@masuidrive](https://github.com/masuidrive)/[**TiHandson**](https://github.com/masuidrive/TiHandson)|||
-|27|[@naoya](https://github.com/naoya)/[**push-to-ios**](https://github.com/naoya/push-to-ios)|Titanium Mobile + socket.io example||
-|27|[@azu](https://github.com/azu)/[**babel-plugin-jsdoc-t…**](https://github.com/azu/babel-plugin-jsdoc-to-assert)|Runtime type checking for JSDoc|[:arrow_upper_right:](https://github.com/azu/jsdoc-to-assert)|
+|28|[@masuidrive](https://github.com/masuidrive)/[**TitaniumSamples**](https://github.com/masuidrive/TitaniumSamples)|||
 |27|[@azu](https://github.com/azu)/[**release-changelog**](https://github.com/azu/release-changelog)|[Deprecated] Easy to use conventional-changelog and release-it.||
+|27|[@naoya](https://github.com/naoya)/[**push-to-ios**](https://github.com/naoya/push-to-ios)|Titanium Mobile + socket.io example||
+|27|[@azu](https://github.com/azu)/[**babel-plugin-jsdoc…**](https://github.com/azu/babel-plugin-jsdoc-to-assert)|Runtime type checking for JSDoc|[:arrow_upper_right:](https://github.com/azu/jsdoc-to-assert)|
+|27|[@masuidrive](https://github.com/masuidrive)/[**TiHandson**](https://github.com/masuidrive/TiHandson)|||
 |25|[@azu](https://github.com/azu)/[**voting-badge**](https://github.com/azu/voting-badge)|:+1: voting badge like Travis CI|[:arrow_upper_right:](https://azu.github.io/voting-badge)|
-|24|[@twada](https://github.com/twada)/[**babel-plugin-unasser…**](https://github.com/twada/babel-plugin-unassert)|Babel plugin to encourage reliable programming by writing assertions in production code, and compiling them away from release.||
-|24|[@shu223](https://github.com/shu223)/[**TwitterArchiveViewer…**](https://github.com/shu223/TwitterArchiveViewer)|A viewer app for twitter archive.||
-|24|[@tokuhirom](https://github.com/tokuhirom)/[**frepan**](https://github.com/tokuhirom/frepan)|freshness mirror of cpan viewer|[:arrow_upper_right:](http://frepan.64p.org/)|
-|24|[@tokuhirom](https://github.com/tokuhirom)/[**strftime-js**](https://github.com/tokuhirom/strftime-js)|||
+|24|[@twada](https://github.com/twada)/[**babel-plugin-unass…**](https://github.com/twada/babel-plugin-unassert)|Babel plugin to encourage reliable programming by writing assertions in production code, and compiling them away from release.||
 |24|[@kana](https://github.com/kana)/[**othello-js**](https://github.com/kana/othello-js)|A quick and dirty implementation of Othello|[:arrow_upper_right:](http://kana.github.com/othello-js/)|
-|22|[@tokuhirom](https://github.com/tokuhirom)/[**micro_dispatcher.js**](https://github.com/tokuhirom/micro_dispatcher.js)|||
+|24|[@shu223](https://github.com/shu223)/[**TwitterArchiveView…**](https://github.com/shu223/TwitterArchiveViewer)|A viewer app for twitter archive.||
+|24|[@tokuhirom](https://github.com/tokuhirom)/[**strftime-js**](https://github.com/tokuhirom/strftime-js)|||
+|24|[@tokuhirom](https://github.com/tokuhirom)/[**frepan**](https://github.com/tokuhirom/frepan)|freshness mirror of cpan viewer|[:arrow_upper_right:](http://frepan.64p.org/)|
 |22|[@azu](https://github.com/azu)/[**power-doctest**](https://github.com/azu/power-doctest)|JavaScript: doctest + power-assert.|[:arrow_upper_right:](http://efcl.info/2013/1201/res3494/)|
+|22|[@tokuhirom](https://github.com/tokuhirom)/[**micro_dispatcher.j…**](https://github.com/tokuhirom/micro_dispatcher.js)|||
 |21|[@azu](https://github.com/azu)/[**reftest-runner**](https://github.com/azu/reftest-runner)|Reftest runner with WebDriver API.||
 |20|[@azu](https://github.com/azu)/[**jsdoc-to-assert**](https://github.com/azu/jsdoc-to-assert)|JSDoc to assert||
-|19|[@azu](https://github.com/azu)/[**power-assert-testem-…**](https://github.com/azu/power-assert-testem-seed)|Example project of power-assert + gulp-espower + testem.|[:arrow_upper_right:](http://efcl.info/2014/0411/res3820/)|
-|19|[@azu](https://github.com/azu)/[**technical-word-rules…**](https://github.com/azu/technical-word-rules)|JavaScript中心のIT技術用語のLint用辞書||
+|19|[@azu](https://github.com/azu)/[**power-assert-teste…**](https://github.com/azu/power-assert-testem-seed)|Example project of power-assert + gulp-espower + testem.|[:arrow_upper_right:](http://efcl.info/2014/0411/res3820/)|
+|19|[@azu](https://github.com/azu)/[**technical-word-rul…**](https://github.com/azu/technical-word-rules)|JavaScript中心のIT技術用語のLint用辞書||
 |19|[@Constellation](https://github.com/Constellation)/[**ldrfullfeed**](https://github.com/Constellation/ldrfullfeed)|greasemonkey userscript for loading full entry on LDR and Fastladder|[:arrow_upper_right:](https://greasyfork.org/ja/scripts/3489-ldr-full-feed)|
-|18|[@twada](https://github.com/twada)/[**universal-deep-stric…**](https://github.com/twada/universal-deep-strict-equal)|A port of Node v6's internal _deepEqual function in a universal style||
 |18|[@gfx](https://github.com/gfx)/[**perl.js**](https://github.com/gfx/perl.js)|emscripten build settings for perl|[:arrow_upper_right:](http://gfx.github.io/perl.js/)|
-|15|[@simurai](https://github.com/simurai)/[**simurai.github.io**](https://github.com/simurai/simurai.github.io)|simurai's site|[:arrow_upper_right:](simurai.com)|
+|18|[@twada](https://github.com/twada)/[**universal-deep-str…**](https://github.com/twada/universal-deep-strict-equal)|A port of Node v6's internal _deepEqual function in a universal style||
 |15|[@SachaG](https://github.com/SachaG)/[**smartquery**](https://github.com/SachaG/smartquery)|null||
-|15|[@twada](https://github.com/twada)/[**power-assert-runtime…**](https://github.com/twada/power-assert-runtime)|monorepo of power-assert runtime side||
+|15|[@simurai](https://github.com/simurai)/[**simurai.github.io**](https://github.com/simurai/simurai.github.io)|simurai's site|[:arrow_upper_right:](simurai.com)|
+|15|[@twada](https://github.com/twada)/[**power-assert-runti…**](https://github.com/twada/power-assert-runtime)|monorepo of power-assert runtime side||
 |13|[@twada](https://github.com/twada)/[**stringifier**](https://github.com/twada/stringifier)|Yet another stringify function||
 |12|[@sorah](https://github.com/sorah)/[**jockey**](https://github.com/sorah/jockey)|alternative for https://github.com/play/play||
 |12|[@Constellation](https://github.com/Constellation)/[**shift-traverse-js**](https://github.com/Constellation/shift-traverse-js)|traversal functionality for the Shift AST format||
-|11|[@naoya](https://github.com/naoya)/[**chrome2ios**](https://github.com/naoya/chrome2ios)|Chrome To iOS||
 |11|[@Constellation](https://github.com/Constellation)/[**shibuya**](https://github.com/Constellation/shibuya)|ES.next engine implemented in ECMA262 5.1th||
-|10|[@gfx](https://github.com/gfx)/[**source-map-inspector…**](https://github.com/gfx/source-map-inspector)|source map visualization|[:arrow_upper_right:](http://gfx.github.com/source-map-inspector/)|
+|11|[@naoya](https://github.com/naoya)/[**chrome2ios**](https://github.com/naoya/chrome2ios)|Chrome To iOS||
+|10|[@gfx](https://github.com/gfx)/[**source-map-inspect…**](https://github.com/gfx/source-map-inspector)|source map visualization|[:arrow_upper_right:](http://gfx.github.com/source-map-inspector/)|
 |10|[@zcbenz](https://github.com/zcbenz)/[**d3-browserify**](https://github.com/zcbenz/d3-browserify)|D3 distribution that used for browserify-like environment||
 |10|[@masuidrive](https://github.com/masuidrive)/[**gae-minwiki**](https://github.com/masuidrive/gae-minwiki)|100 lines WikiEngine on Google App Engine|[:arrow_upper_right:](http://masuidrive-minwiki.appspot.com/FrontPage)|
 |10|[@twada](https://github.com/twada)/[**escallmatch**](https://github.com/twada/escallmatch)|ECMAScript CallExpression matcher made from function/method signature||
-|10|[@naoya](https://github.com/naoya)/[**react-and-immutable-…**](https://github.com/naoya/react-and-immutable-example)|||
+|10|[@naoya](https://github.com/naoya)/[**react-and-immutabl…**](https://github.com/naoya/react-and-immutable-example)|||
 |9|[@Constellation](https://github.com/Constellation)/[**ireader**](https://github.com/Constellation/ireader)|Web Based RSS Reader for iPhone/iPod touch. LDR/FLDR FrontEnd.|[:arrow_upper_right:](http://reader.appjet.net/)|
 |9|[@masuidrive](https://github.com/masuidrive)/[**follow_me_now**](https://github.com/masuidrive/follow_me_now)|||
 |8|[@amatsuda](https://github.com/amatsuda)/[**activecalendar**](https://github.com/amatsuda/activecalendar)|Rails 2.2.2 ready javascript calendar date renderer|[:arrow_upper_right:](http://code.google.com/p/activecalendar/)|
 |8|[@SachaG](https://github.com/SachaG)/[**Patternify**](https://github.com/SachaG/Patternify)|||
-|8|[@twada](https://github.com/twada)/[**unassert-cli**](https://github.com/twada/unassert-cli)|CLI for unassert: encourage reliable programming by writing assertions in production code, and compiling them away from release||
 |8|[@naoya](https://github.com/naoya)/[**flux-mdpreview**](https://github.com/naoya/flux-mdpreview)|||
-|7|[@sorah](https://github.com/sorah)/[**lingr_for_android.js…**](https://github.com/sorah/lingr_for_android.js)|Lingr for Android||
-|7|[@yusukebe](https://github.com/yusukebe)/[**Haartraining-App**](https://github.com/yusukebe/Haartraining-App)|Plack Application For Creating Positive/Negative Collection Files of Haartraning OpenCV.||
-|7|[@twada](https://github.com/twada)/[**battlefield-sourcema…**](https://github.com/twada/battlefield-sourcemaps)|Fighting with multi-stage sourcemaps with power-assert||
-|7|[@yusukebe](https://github.com/yusukebe)/[**Nagare**](https://github.com/yusukebe/Nagare)|IRC Proxy using HTTP Streaming with Tatsumaki||
+|8|[@twada](https://github.com/twada)/[**unassert-cli**](https://github.com/twada/unassert-cli)|CLI for unassert: encourage reliable programming by writing assertions in production code, and compiling them away from release||
 |7|[@twada](https://github.com/twada)/[**gulp-derequire**](https://github.com/twada/gulp-derequire)|A Gulp plugin to apply derequire to target Buffer/Stream||
-|6|[@SachaG](https://github.com/SachaG)/[**meteor101**](https://github.com/SachaG/meteor101)|An introduction to Meteor||
-|6|[@SachaG](https://github.com/SachaG)/[**meteor-juice**](https://github.com/SachaG/meteor-juice)|Wrapper for Juice||
+|7|[@twada](https://github.com/twada)/[**battlefield-source…**](https://github.com/twada/battlefield-sourcemaps)|Fighting with multi-stage sourcemaps with power-assert||
+|7|[@yusukebe](https://github.com/yusukebe)/[**Nagare**](https://github.com/yusukebe/Nagare)|IRC Proxy using HTTP Streaming with Tatsumaki||
+|7|[@sorah](https://github.com/sorah)/[**lingr_for_android.…**](https://github.com/sorah/lingr_for_android.js)|Lingr for Android||
+|7|[@yusukebe](https://github.com/yusukebe)/[**Haartraining-App**](https://github.com/yusukebe/Haartraining-App)|Plack Application For Creating Positive/Negative Collection Files of Haartraning OpenCV.||
 |6|[@twada](https://github.com/twada)/[**array-foreach**](https://github.com/twada/array-foreach)|Array#forEach ponyfill for older browsers||
 |6|[@sorah](https://github.com/sorah)/[**listenize**](https://github.com/sorah/listenize)|可聴化 (kachôka, make listenable to <something>)||
+|6|[@SachaG](https://github.com/SachaG)/[**meteor-juice**](https://github.com/SachaG/meteor-juice)|Wrapper for Juice||
+|6|[@SachaG](https://github.com/SachaG)/[**meteor101**](https://github.com/SachaG/meteor101)|An introduction to Meteor||
 |5|[@twada](https://github.com/twada)/[**power-assert-demo**](https://github.com/twada/power-assert-demo)|Demo project for Power Assert in JavaScript||
 |5|[@Constellation](https://github.com/Constellation)/[**structured-source**](https://github.com/Constellation/structured-source)|Structured Source code||
 |5|[@Constellation](https://github.com/Constellation)/[**gulp-esmangle**](https://github.com/Constellation/gulp-esmangle)|gulp plugin for esmangle minifying task||
 |5|[@SachaG](https://github.com/SachaG)/[**bjjbot**](https://github.com/SachaG/bjjbot)|||
-|4|[@twada](https://github.com/twada)/[**fly-espower**](https://github.com/twada/fly-espower)|power-assert plugin for Fly||
-|4|[@twada](https://github.com/twada)/[**qunit-quickstart**](https://github.com/twada/qunit-quickstart)|A simple QUnit + QUnit-TAP + PhantomJS example.||
 |4|[@masuidrive](https://github.com/masuidrive)/[**tidocs**](https://github.com/masuidrive/tidocs)|tidocs.com|[:arrow_upper_right:](http://tidocs.com)|
-|4|[@zcbenz](https://github.com/zcbenz)/[**chinese-auto-sim-to-…**](https://github.com/zcbenz/chinese-auto-sim-to-trans)|自动繁体转换||
-|4|[@twada](https://github.com/twada)/[**gulp-unassert**](https://github.com/twada/gulp-unassert)|Gulp plugin to encourage reliable programming by writing assertions in production, and compiling them away from release||
-|4|[@yusuke](https://github.com/yusuke)/[**deathmar.ch**](https://github.com/yusuke/deathmar.ch)|||
+|4|[@zcbenz](https://github.com/zcbenz)/[**chinese-auto-sim-t…**](https://github.com/zcbenz/chinese-auto-sim-to-trans)|自动繁体转换||
+|4|[@twada](https://github.com/twada)/[**fly-espower**](https://github.com/twada/fly-espower)|power-assert plugin for Fly||
 |4|[@zzak](https://github.com/zzak)/[**cyan_shoes**](https://github.com/zzak/cyan_shoes)|Let's try to create a Shoes like DSL in JavaScript, using HTML5 Canvas.||
+|4|[@twada](https://github.com/twada)/[**gulp-unassert**](https://github.com/twada/gulp-unassert)|Gulp plugin to encourage reliable programming by writing assertions in production, and compiling them away from release||
+|4|[@twada](https://github.com/twada)/[**qunit-quickstart**](https://github.com/twada/qunit-quickstart)|A simple QUnit + QUnit-TAP + PhantomJS example.||
+|4|[@yusuke](https://github.com/yusuke)/[**deathmar.ch**](https://github.com/yusuke/deathmar.ch)|||
+|3|[@Constellation](https://github.com/Constellation)/[**tea**](https://github.com/Constellation/tea)|tea.js||
+|3|[@SachaG](https://github.com/SachaG)/[**Smart-Todos**](https://github.com/SachaG/Smart-Todos)|||
+|3|[@yusuke](https://github.com/yusuke)/[**avatarotation**](https://github.com/yusuke/avatarotation)|||
 |3|[@SachaG](https://github.com/SachaG)/[**TMB-Middleman**](https://github.com/SachaG/TMB-Middleman)|||
 |3|[@SachaG](https://github.com/SachaG)/[**smartquery-demo**](https://github.com/SachaG/smartquery-demo)|null||
 |3|[@Constellation](https://github.com/Constellation)/[**saten**](https://github.com/Constellation/saten)|saten is RegExp Runtime written in JS. This is ported from AeroHand RegExp Runtime in iv.||
-|3|[@SachaG](https://github.com/SachaG)/[**Smart-Todos**](https://github.com/SachaG/Smart-Todos)|||
 |3|[@Constellation](https://github.com/Constellation)/[**javascript**](https://github.com/Constellation/javascript)|||
-|3|[@Constellation](https://github.com/Constellation)/[**tea**](https://github.com/Constellation/tea)|tea.js||
-|3|[@yusuke](https://github.com/yusuke)/[**avatarotation**](https://github.com/yusuke/avatarotation)|||
 |3|[@SachaG](https://github.com/SachaG)/[**twitterList**](https://github.com/SachaG/twitterList)|A simple Meteor app to list Twitter accounts. ||
 |2|[@twada](https://github.com/twada)/[**dereserve**](https://github.com/twada/dereserve)|Provides dereserve command to recast all ES3 reserved words to their safe alternatives.||
-|2|[@twada](https://github.com/twada)/[**power-assert-rendere…**](https://github.com/twada/power-assert-renderers)|[DEPRECATED] this module is reorganized into https://github.com/twada/power-assert-runtime||
-|2|[@twada](https://github.com/twada)/[**gulp-utf8ize-sourcem…**](https://github.com/twada/gulp-utf8ize-sourcemaps)|A Gulp plugin to apply utf8ize-sourcemaps to target Buffer/Stream||
-|2|[@ksoichiro](https://github.com/ksoichiro)/[**i18n-patch**](https://github.com/ksoichiro/i18n-patch)|Replacing codes for i18n with patterns.||
-|2|[@Constellation](https://github.com/Constellation)/[**coldsite**](https://github.com/Constellation/coldsite)|coldsite, static ES6 template literals||
-|2|[@masuidrive](https://github.com/masuidrive)/[**hatena-bookmark-anyw…**](https://github.com/masuidrive/hatena-bookmark-anywhere)|ブログにはてブのコメントを表示するhatana_bookmark_anywhere.js||
 |2|[@SachaG](https://github.com/SachaG)/[**BetterHN**](https://github.com/SachaG/BetterHN)|BetterHN|[:arrow_upper_right:](Ideas to improve HN)|
+|2|[@twada](https://github.com/twada)/[**gulp-utf8ize-sourc…**](https://github.com/twada/gulp-utf8ize-sourcemaps)|A Gulp plugin to apply utf8ize-sourcemaps to target Buffer/Stream||
+|2|[@masuidrive](https://github.com/masuidrive)/[**hatena-bookmark-an…**](https://github.com/masuidrive/hatena-bookmark-anywhere)|ブログにはてブのコメントを表示するhatana_bookmark_anywhere.js||
+|2|[@Constellation](https://github.com/Constellation)/[**coldsite**](https://github.com/Constellation/coldsite)|coldsite, static ES6 template literals||
 |2|[@Constellation](https://github.com/Constellation)/[**domlike**](https://github.com/Constellation/domlike)|Simple DOMLike parser for AppJet|[:arrow_upper_right:](http://d.hatena.ne.jp/Constellation/)|
+|2|[@ksoichiro](https://github.com/ksoichiro)/[**i18n-patch**](https://github.com/ksoichiro/i18n-patch)|Replacing codes for i18n with patterns.||
+|2|[@twada](https://github.com/twada)/[**power-assert-rende…**](https://github.com/twada/power-assert-renderers)|[DEPRECATED] this module is reorganized into https://github.com/twada/power-assert-runtime||
 
 ## Kotlin 
 
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|17|[@ksoichiro](https://github.com/ksoichiro)/[**Android-PageControl**](https://github.com/ksoichiro/Android-PageControl)|Clickable PageControl for Android apps.||
+|17|[@ksoichiro](https://github.com/ksoichiro)/[**Android-PageContro…**](https://github.com/ksoichiro/Android-PageControl)|Clickable PageControl for Android apps.||
 
 ## Makefile 
 
@@ -499,56 +499,56 @@
 
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|7573|[@onevcat](https://github.com/onevcat)/[**VVDocumenter-Xcode**](https://github.com/onevcat/VVDocumenter-Xcode)|Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift.||
+|7573|[@onevcat](https://github.com/onevcat)/[**VVDocumenter-Xcode…**](https://github.com/onevcat/VVDocumenter-Xcode)|Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift.||
 |3232|[@shu223](https://github.com/shu223)/[**iOS8-Sampler**](https://github.com/shu223/iOS8-Sampler)|Code examples for the new features of iOS 8.||
 |3059|[@shu223](https://github.com/shu223)/[**iOS7-Sampler**](https://github.com/shu223/iOS7-Sampler)|Code examples for the new features of iOS 7.||
-|1792|[@shu223](https://github.com/shu223)/[**AnimatedTransitionGa…**](https://github.com/shu223/AnimatedTransitionGallery)|A gallery app of custom animated transitions for iOS.||
+|1792|[@shu223](https://github.com/shu223)/[**AnimatedTransition…**](https://github.com/shu223/AnimatedTransitionGallery)|A gallery app of custom animated transitions for iOS.||
 |1341|[@shu223](https://github.com/shu223)/[**PulsingHalo**](https://github.com/shu223/PulsingHalo)|iOS Component for creating a pulsing animation.||
-|842|[@onevcat](https://github.com/onevcat)/[**VVBlurPresentation**](https://github.com/onevcat/VVBlurPresentation)|A simple way to present a view controller with keeping the blurred previous one.||
-|490|[@shu223](https://github.com/shu223)/[**UIActivityCollection…**](https://github.com/shu223/UIActivityCollection)|A collection of UIActivity providers.||
-|487|[@onevcat](https://github.com/onevcat)/[**VVSpringCollectionVi…**](https://github.com/onevcat/VVSpringCollectionViewFlowLayout)|A spring-like collection view layout. The same effect like iOS7's Message.app||
-|396|[@shu223](https://github.com/shu223)/[**SlowMotionVideoRecor…**](https://github.com/shu223/SlowMotionVideoRecorder)|120 fps SLO-MO video recorder using AVFoundation. Including convenient wrapper class.  Available on the iPhone5s. ||
+|842|[@onevcat](https://github.com/onevcat)/[**VVBlurPresentation…**](https://github.com/onevcat/VVBlurPresentation)|A simple way to present a view controller with keeping the blurred previous one.||
+|490|[@shu223](https://github.com/shu223)/[**UIActivityCollecti…**](https://github.com/shu223/UIActivityCollection)|A collection of UIActivity providers.||
+|487|[@onevcat](https://github.com/onevcat)/[**VVSpringCollection…**](https://github.com/onevcat/VVSpringCollectionViewFlowLayout)|A spring-like collection view layout. The same effect like iOS7's Message.app||
+|396|[@shu223](https://github.com/shu223)/[**SlowMotionVideoRec…**](https://github.com/shu223/SlowMotionVideoRecorder)|120 fps SLO-MO video recorder using AVFoundation. Including convenient wrapper class.  Available on the iPhone5s. ||
 |233|[@azu](https://github.com/azu)/[**NSDate-Escort**](https://github.com/azu/NSDate-Escort)|NSDate utility library that is compatible with NSDate-Extensions API.|[:arrow_upper_right:](http://efcl.info/2013/0801/res3366/)|
 |168|[@shu223](https://github.com/shu223)/[**vImageCategory**](https://github.com/shu223/vImageCategory)|UIImage category which have vImage wrapper functions and the demo project||
 |125|[@onevcat](https://github.com/onevcat)/[**VCTransitionDemo**](https://github.com/onevcat/VCTransitionDemo)|A simple demo indicates how to make a custom view controller transition in iOS 7||
 |120|[@shu223](https://github.com/shu223)/[**Stats**](https://github.com/shu223/Stats)|In-app memory usage monitoring for iOS||
 |117|[@onevcat](https://github.com/onevcat)/[**VVImageTint**](https://github.com/onevcat/VVImageTint)|UIImage category  for image tint. For my blog post http://onevcat.com/2013/04/using-blending-in-ios/||
-|113|[@shu223](https://github.com/shu223)/[**CoreImageTransition**](https://github.com/shu223/CoreImageTransition)|A sample app for transition effects using Core Image, including a useful helper class.||
+|113|[@shu223](https://github.com/shu223)/[**CoreImageTransitio…**](https://github.com/shu223/CoreImageTransition)|A sample app for transition effects using Core Image, including a useful helper class.||
 |109|[@shu223](https://github.com/shu223)/[**UIKitForGame**](https://github.com/shu223/UIKitForGame)|UIKit subclasses and categories with useful animation functions for game.|[:arrow_upper_right:](http://d.hatena.ne.jp/shu223/20120806/1344151527)|
 |100|[@shu223](https://github.com/shu223)/[**FilterDemo**](https://github.com/shu223/FilterDemo)|A catalogue of all the Core Image Filters.|[:arrow_upper_right:](http://d.hatena.ne.jp/shu223/20121217/1355711014)|
 |59|[@masuidrive](https://github.com/masuidrive)/[**TiAdMob4iPhone**](https://github.com/masuidrive/TiAdMob4iPhone)|AdMob module for Titanium Mobile iPhone||
 |40|[@masuidrive](https://github.com/masuidrive)/[**ti-evernote-api**](https://github.com/masuidrive/ti-evernote-api)|Evernote API bridge for Titanium Mobile||
-|39|[@azu](https://github.com/azu)/[**MarkdownSyntaxEditor…**](https://github.com/azu/MarkdownSyntaxEditor)|[iOS] NSAttributedString + UITextView + Markdown Syntax highlighting.||
-|32|[@azu](https://github.com/azu)/[**NumericKeypad**](https://github.com/azu/NumericKeypad)|NumericKeypad for iPad|[:arrow_upper_right:](http://efcl.info/)|
+|39|[@azu](https://github.com/azu)/[**MarkdownSyntaxEdit…**](https://github.com/azu/MarkdownSyntaxEditor)|[iOS] NSAttributedString + UITextView + Markdown Syntax highlighting.||
 |32|[@azu](https://github.com/azu)/[**OperationPromise**](https://github.com/azu/OperationPromise)|NSOperation(NSOperationQueue) dependency manager library.||
+|32|[@azu](https://github.com/azu)/[**NumericKeypad**](https://github.com/azu/NumericKeypad)|NumericKeypad for iPad|[:arrow_upper_right:](http://efcl.info/)|
 |31|[@masuidrive](https://github.com/masuidrive)/[**TiMultitouch**](https://github.com/masuidrive/TiMultitouch)|Multitouch module for Titanium Mobile||
 |24|[@azu](https://github.com/azu)/[**ios-practice**](https://github.com/azu/ios-practice)|iOSアプリ開発におけるプラクティス|[:arrow_upper_right:](http://ios-practice.readthedocs.org/)|
-|21|[@shu223](https://github.com/shu223)/[**LinguisticTaggerSamp…**](https://github.com/shu223/LinguisticTaggerSample)|A sample app for Natural Language Processing using NSLinguisticTagger.||
+|21|[@shu223](https://github.com/shu223)/[**LinguisticTaggerSa…**](https://github.com/shu223/LinguisticTaggerSample)|A sample app for Natural Language Processing using NSLinguisticTagger.||
 |20|[@azu](https://github.com/azu)/[**Podfile**](https://github.com/azu/Podfile)|普段良く使うライブラリとPodfile||
-|19|[@azu](https://github.com/azu)/[**SimpleUserDefaults**](https://github.com/azu/SimpleUserDefaults)|Simple NSUserDefaults manager library -  Access NSUserDefaults key using property.||
-|18|[@shu223](https://github.com/shu223)/[**TweenDemo**](https://github.com/shu223/TweenDemo)|Simple app demonstrating some tween libralies.|[:arrow_upper_right:](http://gihyo.jp/dev/serial/01/ios_oss/0001)|
-|18|[@onevcat](https://github.com/onevcat)/[**SpriteKitSimpleGame**](https://github.com/onevcat/SpriteKitSimpleGame)|A demo for starting using SpriteKit. Port famous Cocos2DSimpleGame to SpriteKit.||
+|19|[@azu](https://github.com/azu)/[**SimpleUserDefaults…**](https://github.com/azu/SimpleUserDefaults)|Simple NSUserDefaults manager library -  Access NSUserDefaults key using property.||
+|18|[@onevcat](https://github.com/onevcat)/[**SpriteKitSimpleGam…**](https://github.com/onevcat/SpriteKitSimpleGame)|A demo for starting using SpriteKit. Port famous Cocos2DSimpleGame to SpriteKit.||
 |18|[@onevcat](https://github.com/onevcat)/[**VVBorderTimer**](https://github.com/onevcat/VVBorderTimer)|An easy border timer with configurable time, corner radius, line width and colors.||
+|18|[@shu223](https://github.com/shu223)/[**TweenDemo**](https://github.com/shu223/TweenDemo)|Simple app demonstrating some tween libralies.|[:arrow_upper_right:](http://gihyo.jp/dev/serial/01/ios_oss/0001)|
 |16|[@shu223](https://github.com/shu223)/[**SocialAPIHelpers**](https://github.com/shu223/SocialAPIHelpers)|Twitter and Facebook API Helper classes for iOS using Social.framework||
-|12|[@onevcat](https://github.com/onevcat)/[**VVStack**](https://github.com/onevcat/VVStack)|Just a TDD demo with XCTest and Kiwi||
-|12|[@shu223](https://github.com/shu223)/[**CAEmitterSample**](https://github.com/shu223/CAEmitterSample)|A sample app for Particle Effects using Core Animation (CAEmitterLayer and CAEmitterCell).||
 |12|[@shu223](https://github.com/shu223)/[**NYXImagesKitDemo**](https://github.com/shu223/NYXImagesKitDemo)|||
-|10|[@onevcat](https://github.com/onevcat)/[**PhotoData_Kiwi**](https://github.com/onevcat/PhotoData_Kiwi)|Use Kiwi to replace objc.io's first issue. Just a demo for Kiwi and my post.|[:arrow_upper_right:](onevcat.com/2014/05/kiwi-mock-stub-test/)|
+|12|[@shu223](https://github.com/shu223)/[**CAEmitterSample**](https://github.com/shu223/CAEmitterSample)|A sample app for Particle Effects using Core Animation (CAEmitterLayer and CAEmitterCell).||
+|12|[@onevcat](https://github.com/onevcat)/[**VVStack**](https://github.com/onevcat/VVStack)|Just a TDD demo with XCTest and Kiwi||
 |10|[@masuidrive](https://github.com/masuidrive)/[**TiCustomCamera**](https://github.com/masuidrive/TiCustomCamera)|||
-|10|[@shu223](https://github.com/shu223)/[**CCTransitionHelper**](https://github.com/shu223/CCTransitionHelper)|cocos2d transition helper|[:arrow_upper_right:](http://d.hatena.ne.jp/shu223/20110329/1301396786)|
+|10|[@onevcat](https://github.com/onevcat)/[**PhotoData_Kiwi**](https://github.com/onevcat/PhotoData_Kiwi)|Use Kiwi to replace objc.io's first issue. Just a demo for Kiwi and my post.|[:arrow_upper_right:](onevcat.com/2014/05/kiwi-mock-stub-test/)|
+|10|[@shu223](https://github.com/shu223)/[**CCTransitionHelper…**](https://github.com/shu223/CCTransitionHelper)|cocos2d transition helper|[:arrow_upper_right:](http://d.hatena.ne.jp/shu223/20110329/1301396786)|
 |9|[@sorah](https://github.com/sorah)/[**udon_tairiku**](https://github.com/sorah/udon_tairiku)|Clone of ra-men tairiku, designed for iPhone. UNMAINTAINED.|[:arrow_upper_right:](http://d.hatena.ne.jp/codnote/20100519/1274246643)|
 |9|[@onevcat](https://github.com/onevcat)/[**VVPluginDemo**](https://github.com/onevcat/VVPluginDemo)|A demo for how to make a simple Xcode 4 plug-in.|[:arrow_upper_right:](http://www.onevcat.com/2013/02/xcode-plugin/)|
 |8|[@onevcat](https://github.com/onevcat)/[**TexasPoker**](https://github.com/onevcat/TexasPoker)|A client of Texas Poker||
-|6|[@shu223](https://github.com/shu223)/[**Remote-Video-Recorde…**](https://github.com/shu223/Remote-Video-Recorder-for-iOS)|||
-|6|[@shu223](https://github.com/shu223)/[**CrunchBase-API-Clien…**](https://github.com/shu223/CrunchBase-API-Client-for-iOS)|CrunchBase API Client for iOS.|[:arrow_upper_right:](http://developer.crunchbase.com/)|
-|5|[@shu223](https://github.com/shu223)/[**Klout-API-Client-for…**](https://github.com/shu223/Klout-API-Client-for-iOS)|Klout API Client for iOS.||
+|6|[@shu223](https://github.com/shu223)/[**Remote-Video-Recor…**](https://github.com/shu223/Remote-Video-Recorder-for-iOS)|||
+|6|[@shu223](https://github.com/shu223)/[**CrunchBase-API-Cli…**](https://github.com/shu223/CrunchBase-API-Client-for-iOS)|CrunchBase API Client for iOS.|[:arrow_upper_right:](http://developer.crunchbase.com/)|
+|5|[@shu223](https://github.com/shu223)/[**Klout-API-Client-f…**](https://github.com/shu223/Klout-API-Client-for-iOS)|Klout API Client for iOS.||
 |3|[@shu223](https://github.com/shu223)/[**PeripheralLogger**](https://github.com/shu223/PeripheralLogger)|Logger for Core Bluetooth development.||
 
 ## PHP 
 
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|14|[@yusuke](https://github.com/yusuke)/[**twtr-api-pocket-refe…**](https://github.com/yusuke/twtr-api-pocket-reference)|||
+|14|[@yusuke](https://github.com/yusuke)/[**twtr-api-pocket-re…**](https://github.com/yusuke/twtr-api-pocket-reference)|||
 |10|[@shu223](https://github.com/shu223)/[**csv2plist**](https://github.com/shu223/csv2plist)|Script to convert CSV file to plist file.|[:arrow_upper_right:](http://d.hatena.ne.jp/shu223/20110511/1305129443)|
 |8|[@naoya](https://github.com/naoya)/[**PQ**](https://github.com/naoya/PQ)|||
 |5|[@naoya](https://github.com/naoya)/[**php-List_RubyLike**](https://github.com/naoya/php-List_RubyLike)|Array iterator like Ruby for PHP||
@@ -568,12 +568,12 @@
 |38|[@tokuhirom](https://github.com/tokuhirom)/[**teng-handbook**](https://github.com/tokuhirom/teng-handbook)|||
 |34|[@tokuhirom](https://github.com/tokuhirom)/[**Daiku**](https://github.com/tokuhirom/Daiku)|Yet another build tool on Perl5||
 |34|[@yusukebe](https://github.com/yusukebe)/[**App-revealup**](https://github.com/yusukebe/App-revealup)|HTTP Server app for viewing Markdown formatted text as slides|[:arrow_upper_right:](https://metacpan.org/pod/App::revealup)|
-|32|[@gfx](https://github.com/gfx)/[**p5-Data-Validator**](https://github.com/gfx/p5-Data-Validator)|Type constraints based data validator for Perl5||
 |32|[@tokuhirom](https://github.com/tokuhirom)/[**p5-router-simple**](https://github.com/tokuhirom/p5-router-simple)|simple http router||
+|32|[@gfx](https://github.com/gfx)/[**p5-Data-Validator**](https://github.com/gfx/p5-Data-Validator)|Type constraints based data validator for Perl5||
 |28|[@tokuhirom](https://github.com/tokuhirom)/[**p5-psgiref**](https://github.com/tokuhirom/p5-psgiref)|(DEPRECATED)just a prototype!||
 |27|[@tokuhirom](https://github.com/tokuhirom)/[**Test-TCP**](https://github.com/tokuhirom/Test-TCP)|Test::TCP for perl||
-|26|[@tokuhirom](https://github.com/tokuhirom)/[**optimize-perl-doc**](https://github.com/tokuhirom/optimize-perl-doc)|how to optimize your perl code?||
 |26|[@tokuhirom](https://github.com/tokuhirom)/[**Web-Query**](https://github.com/tokuhirom/Web-Query)|||
+|26|[@tokuhirom](https://github.com/tokuhirom)/[**optimize-perl-doc**](https://github.com/tokuhirom/optimize-perl-doc)|how to optimize your perl code?||
 |25|[@tokuhirom](https://github.com/tokuhirom)/[**OrePAN**](https://github.com/tokuhirom/OrePAN)|||
 |25|[@tokuhirom](https://github.com/tokuhirom)/[**menta**](https://github.com/tokuhirom/menta)|General extlib/ for CGI applications.||
 |24|[@gfx](https://github.com/gfx)/[**p5-Mouse**](https://github.com/gfx/p5-Mouse)|Lightweight class builder as a subset of Moose|[:arrow_upper_right:](https://metacpan.org/release/Mouse)|
@@ -588,25 +588,25 @@
 |11|[@yusukebe](https://github.com/yusukebe)/[**Dropdown**](https://github.com/yusukebe/Dropdown)|Display Markdown on Dropbox as cool HTML.|[:arrow_upper_right:](http://yusukebe.com/)|
 |11|[@yusukebe](https://github.com/yusukebe)/[**Acme-Porn-JP**](https://github.com/yusukebe/Acme-Porn-JP)|Porn terms in Japan.|[:arrow_upper_right:](http://yusukebe.com/)|
 |11|[@yusukebe](https://github.com/yusukebe)/[**TailF**](https://github.com/yusukebe/TailF)|Web Application like a "tail -f xxx" command for Twitter etc.|[:arrow_upper_right:](http://tail-f.net/)|
-|10|[@naoya](https://github.com/naoya)/[**hadoop-streaming-fro…**](https://github.com/naoya/hadoop-streaming-frontend)|A frontend framework of Hadoop-Streaming for perl||
-|10|[@yusukebe](https://github.com/yusukebe)/[**Shiori**](https://github.com/yusukebe/Shiori)|Yet another Perl implementation of Shiori web-app.||
+|10|[@naoya](https://github.com/naoya)/[**hadoop-streaming-f…**](https://github.com/naoya/hadoop-streaming-frontend)|A frontend framework of Hadoop-Streaming for perl||
 |10|[@gfx](https://github.com/gfx)/[**App-test-travis**](https://github.com/gfx/App-test-travis)|Simulates Travis-CI environments|[:arrow_upper_right:](https://metacpan.org/release/App-test-travis)|
+|10|[@yusukebe](https://github.com/yusukebe)/[**Shiori**](https://github.com/yusukebe/Shiori)|Yet another Perl implementation of Shiori web-app.||
 |9|[@gfx](https://github.com/gfx)/[**p5-POSIX-AtFork**](https://github.com/gfx/p5-POSIX-AtFork)|Perl5 interfafce to pthread_atfork()|[:arrow_upper_right:](http://search.cpan.org/dist/POSIX-AtFork/)|
-|9|[@gfx](https://github.com/gfx)/[**Perl-Module-Install-…**](https://github.com/gfx/Perl-Module-Install-XSUtil)|Support XS-based modules in the term of Module::Install|[:arrow_upper_right:](http://search.cpan.org/dist/Module-Install-XSUtil/)|
+|9|[@naoya](https://github.com/naoya)/[**perl-thrift-server…**](https://github.com/naoya/perl-thrift-server)|Thrift server implementation for perl||
+|9|[@gfx](https://github.com/gfx)/[**Perl-Module-Instal…**](https://github.com/gfx/Perl-Module-Install-XSUtil)|Support XS-based modules in the term of Module::Install|[:arrow_upper_right:](http://search.cpan.org/dist/Module-Install-XSUtil/)|
 |9|[@gfx](https://github.com/gfx)/[**Acme-Perl-VM**](https://github.com/gfx/Acme-Perl-VM)|A Perl5 Virtual Machine in Pure Perl|[:arrow_upper_right:](http://search.cpan.org/dist/Acme-Perl-VM/)|
-|9|[@naoya](https://github.com/naoya)/[**perl-thrift-server**](https://github.com/naoya/perl-thrift-server)|Thrift server implementation for perl||
 |8|[@gfx](https://github.com/gfx)/[**p5-Acme-Hidek**](https://github.com/gfx/p5-Acme-Hidek)|Happy birthday hidek!||
 |7|[@gfx](https://github.com/gfx)/[**mousex-getopt**](https://github.com/gfx/mousex-getopt)|MooseX::Getopt for Mouse|[:arrow_upper_right:](http://search.cpan.org/dist/MouseX-Getopt/)|
-|7|[@yusukebe](https://github.com/yusukebe)/[**Acme-Zenra**](https://github.com/yusukebe/Acme-Zenra)|zenrize Japanese sentence.|[:arrow_upper_right:](http://twitter.com/sugyan)|
-|7|[@zcbenz](https://github.com/zcbenz)/[**dotfiles**](https://github.com/zcbenz/dotfiles)|My dotfiles for POSIX systems and cygwin.||
-|7|[@yusukebe](https://github.com/yusukebe)/[**ListPod-App-Lite**](https://github.com/yusukebe/ListPod-App-Lite)|Convert YouTube Playlist to Podcast feed. It is branche of listpod.tv.|[:arrow_upper_right:](http://listpod.tv/)|
 |7|[@yusukebe](https://github.com/yusukebe)/[**WWW-Veoh-Download**](https://github.com/yusukebe/WWW-Veoh-Download)|WWW::Veoh::Download is module to get and download mp4 files for iPod etc. from Veoh Video Network.||
 |7|[@naoya](https://github.com/naoya)/[**list-rubylike**](https://github.com/naoya/list-rubylike)|Ruby-like list operations for perl||
+|7|[@yusukebe](https://github.com/yusukebe)/[**ListPod-App-Lite**](https://github.com/yusukebe/ListPod-App-Lite)|Convert YouTube Playlist to Podcast feed. It is branche of listpod.tv.|[:arrow_upper_right:](http://listpod.tv/)|
+|7|[@zcbenz](https://github.com/zcbenz)/[**dotfiles**](https://github.com/zcbenz/dotfiles)|My dotfiles for POSIX systems and cygwin.||
+|7|[@yusukebe](https://github.com/yusukebe)/[**Acme-Zenra**](https://github.com/yusukebe/Acme-Zenra)|zenrize Japanese sentence.|[:arrow_upper_right:](http://twitter.com/sugyan)|
+|6|[@yusukebe](https://github.com/yusukebe)/[**Plagger-Plugin-Not…**](https://github.com/yusukebe/Plagger-Plugin-Notify-XMPP-AnyEvent)|Yet Another XMPP Notify Plagger Plugin using AnyEvent::*||
 |6|[@yusukebe](https://github.com/yusukebe)/[**miyagawanize**](https://github.com/yusukebe/miyagawanize)|Any Perl Mongers can be like Miyagawa-San with a "Purple Thing" !|[:arrow_upper_right:](http://yusukebe.com/archives/09/09/13/184216.html)|
-|6|[@yusukebe](https://github.com/yusukebe)/[**Plagger-Plugin-Notif…**](https://github.com/yusukebe/Plagger-Plugin-Notify-XMPP-AnyEvent)|Yet Another XMPP Notify Plagger Plugin using AnyEvent::*||
+|5|[@yusukebe](https://github.com/yusukebe)/[**miyagawanize2**](https://github.com/yusukebe/miyagawanize2)|about purple thing||
 |5|[@yusukebe](https://github.com/yusukebe)/[**WebService-Simple**](https://github.com/yusukebe/WebService-Simple)|Simple Interface To Web Services APIs|[:arrow_upper_right:](http://search.cpan.org/dist/WebService-Simple/)|
 |5|[@yusukebe](https://github.com/yusukebe)/[**Rumi**](https://github.com/yusukebe/Rumi)|Yet Anothor Girl, just web application framework.|[:arrow_upper_right:](http://yusukebe.com/)|
-|5|[@yusukebe](https://github.com/yusukebe)/[**miyagawanize2**](https://github.com/yusukebe/miyagawanize2)|about purple thing||
 |4|[@yusukebe](https://github.com/yusukebe)/[**Shodo**](https://github.com/yusukebe/Shodo)|Auto-generate documents from HTTP::Request and HTTP::Response||
 |3|[@hsbt](https://github.com/hsbt)/[**zsh-svk**](https://github.com/hsbt/zsh-svk)|forked zsh-svk|[:arrow_upper_right:](git://gaffer.ptitcanardnoir.org/zsh-svk.git)|
 
@@ -622,12 +622,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |38|[@mblondel](https://github.com/mblondel)/[**ivalice**](https://github.com/mblondel/ivalice)|Boosting and ensemble learning in Python.||
-|14|[@kana](https://github.com/kana)/[**vim-version-manager**](https://github.com/kana/vim-version-manager)|curl https://raw.github.com/kana/vim-version-manager/master/bin/vvm | python - setup||
+|14|[@kana](https://github.com/kana)/[**vim-version-manage…**](https://github.com/kana/vim-version-manager)|curl https://raw.github.com/kana/vim-version-manager/master/bin/vvm | python - setup||
 |10|[@masuidrive](https://github.com/masuidrive)/[**TiFacebookExt**](https://github.com/masuidrive/TiFacebookExt)|Titanium.Facebook extension module for Titanium Mobile for iPhone||
 |8|[@masuidrive](https://github.com/masuidrive)/[**TiInAppPurchase**](https://github.com/masuidrive/TiInAppPurchase)|InAppPurchase for Titanium mobile iphone|[:arrow_upper_right:](none)|
 |6|[@sorah](https://github.com/sorah)/[**skype-irc-bridge**](https://github.com/sorah/skype-irc-bridge)|||
 |5|[@mblondel](https://github.com/mblondel)/[**iphoto2html**](https://github.com/mblondel/iphoto2html)|Generate a static html gallery for your iPhoto library.||
-|3|[@masuidrive](https://github.com/masuidrive)/[**juno-with-user-auth-…**](https://github.com/masuidrive/juno-with-user-auth-on-gae)|juno-with-user-auth-on-gae|[:arrow_upper_right:](none)|
+|3|[@masuidrive](https://github.com/masuidrive)/[**juno-with-user-aut…**](https://github.com/masuidrive/juno-with-user-auth-on-gae)|juno-with-user-auth-on-gae|[:arrow_upper_right:](none)|
 
 ## Ruby 
 
@@ -652,8 +652,8 @@
 |114|[@amatsuda](https://github.com/amatsuda)/[**gem-src**](https://github.com/amatsuda/gem-src)|Gem.post_install { `git clone gem_source src` }||
 |108|[@r7kamura](https://github.com/r7kamura)/[**rack-json_schema**](https://github.com/r7kamura/rack-json_schema)|JSON Schema based Rack middlewares||
 |105|[@amatsuda](https://github.com/amatsuda)/[**kawaii_validation**](https://github.com/amatsuda/kawaii_validation)|An ActiveRecord extension that adds more kawaii validation syntax||
-|103|[@r7kamura](https://github.com/r7kamura)/[**rspec-json_matcher**](https://github.com/r7kamura/rspec-json_matcher)|RSpec matcher for testing JSON string||
 |103|[@amatsuda](https://github.com/amatsuda)/[**rfd**](https://github.com/amatsuda/rfd)|Ruby on Files & Directories||
+|103|[@r7kamura](https://github.com/r7kamura)/[**rspec-json_matcher…**](https://github.com/r7kamura/rspec-json_matcher)|RSpec matcher for testing JSON string||
 |100|[@amatsuda](https://github.com/amatsuda)/[**jb**](https://github.com/amatsuda/jb)|A simple and fast JSON API template engine for Ruby on Rails||
 |98|[@amatsuda](https://github.com/amatsuda)/[**nested_scaffold**](https://github.com/amatsuda/nested_scaffold)|Nested scaffold generator for Rails 4.2 and 5||
 |91|[@r7kamura](https://github.com/r7kamura)/[**view_source_map**](https://github.com/r7kamura/view_source_map)|Rails plugin to view source map||
@@ -662,32 +662,32 @@
 |83|[@r7kamura](https://github.com/r7kamura)/[**jdoc**](https://github.com/r7kamura/jdoc)|Generate API documentation from JSON Schema.||
 |79|[@kana](https://github.com/kana)/[**vim-flavor**](https://github.com/kana/vim-flavor)|Taste the difference.|[:arrow_upper_right:](https://www.relishapp.com/kana/vim-flavor)|
 |78|[@r7kamura](https://github.com/r7kamura)/[**replicat**](https://github.com/r7kamura/replicat)|master-slave replication helper for ActiveRecord.||
-|75|[@hsbt](https://github.com/hsbt)/[**minitest-power_asser…**](https://github.com/hsbt/minitest-power_assert)|Power Assert for Minitest||
+|75|[@hsbt](https://github.com/hsbt)/[**minitest-power_ass…**](https://github.com/hsbt/minitest-power_assert)|Power Assert for Minitest||
 |73|[@naoya](https://github.com/naoya)/[**boilerplate**](https://github.com/naoya/boilerplate)|Application boilerplate for something||
 |73|[@r7kamura](https://github.com/r7kamura)/[**scheman**](https://github.com/r7kamura/scheman)|SQL schema parser.||
 |70|[@r7kamura](https://github.com/r7kamura)/[**guideline**](https://github.com/r7kamura/guideline)|The guideline of your code||
-|68|[@r7kamura](https://github.com/r7kamura)/[**rspec-request_descri…**](https://github.com/r7kamura/rspec-request_describer)|Force some rules to write self-documenting request spec.||
+|68|[@r7kamura](https://github.com/r7kamura)/[**rspec-request_desc…**](https://github.com/r7kamura/rspec-request_describer)|Force some rules to write self-documenting request spec.||
 |67|[@amatsuda](https://github.com/amatsuda)/[**ljax_rails**](https://github.com/amatsuda/ljax_rails)|render :partial lazy-loader for Rails||
 |66|[@amatsuda](https://github.com/amatsuda)/[**hocus_pocus**](https://github.com/amatsuda/hocus_pocus)|A magical isolated engine gem for Rails 3.1+||
 |62|[@amatsuda](https://github.com/amatsuda)/[**everywhere**](https://github.com/amatsuda/everywhere)|Hash condition syntax for AR query everywhere!||
 |60|[@r7kamura](https://github.com/r7kamura)/[**sitespec**](https://github.com/r7kamura/sitespec)|Generate static site from your rack application & test files||
 |57|[@r7kamura](https://github.com/r7kamura)/[**ikku**](https://github.com/r7kamura/ikku)|Discover haiku from text.||
-|54|[@naoya](https://github.com/naoya)/[**circleci-serverspec**](https://github.com/naoya/circleci-serverspec)|Example: Continuous Integration using vagrant-aws, Chef, serverspec and CircleCI||
+|54|[@naoya](https://github.com/naoya)/[**circleci-serverspe…**](https://github.com/naoya/circleci-serverspec)|Example: Continuous Integration using vagrant-aws, Chef, serverspec and CircleCI||
 |52|[@Constellation](https://github.com/Constellation)/[**ruby-jsonchema**](https://github.com/Constellation/ruby-jsonchema)|json schema library ruby porting from http://code.google.com/p/jsonschema/|[:arrow_upper_right:](http://github.com/Constellation/jsonschema)|
-|51|[@masuidrive](https://github.com/masuidrive)/[**pr_geohash**](https://github.com/masuidrive/pr_geohash)|GeoHash library for pure Ruby|[:arrow_upper_right:](http://masuidrive.jp)|
 |51|[@r7kamura](https://github.com/r7kamura)/[**markdiff**](https://github.com/r7kamura/markdiff)|Rendered Markdown differ.||
-|49|[@sorah](https://github.com/sorah)/[**itamae-secrets**](https://github.com/sorah/itamae-secrets)|Encrypted Data Bag for Itamae||
+|51|[@masuidrive](https://github.com/masuidrive)/[**pr_geohash**](https://github.com/masuidrive/pr_geohash)|GeoHash library for pure Ruby|[:arrow_upper_right:](http://masuidrive.jp)|
 |49|[@r7kamura](https://github.com/r7kamura)/[**code_hunter**](https://github.com/r7kamura/code_hunter)|Hunt out weak spots in your rails application||
-|45|[@sorah](https://github.com/sorah)/[**niconico**](https://github.com/sorah/niconico)|wrapper of Mechanize, optimized for nicovideo.||
+|49|[@sorah](https://github.com/sorah)/[**itamae-secrets**](https://github.com/sorah/itamae-secrets)|Encrypted Data Bag for Itamae||
 |45|[@r7kamura](https://github.com/r7kamura)/[**chatroid**](https://github.com/r7kamura/chatroid)|Chatterbot builder||
-|44|[@r7kamura](https://github.com/r7kamura)/[**response_code_matche…**](https://github.com/r7kamura/response_code_matchers)|Provide rspec matchers to match http response code||
+|45|[@sorah](https://github.com/sorah)/[**niconico**](https://github.com/sorah/niconico)|wrapper of Mechanize, optimized for nicovideo.||
+|44|[@r7kamura](https://github.com/r7kamura)/[**response_code_matc…**](https://github.com/r7kamura/response_code_matchers)|Provide rspec matchers to match http response code||
 |44|[@zzak](https://github.com/zzak)/[**glorify**](https://github.com/zzak/glorify)|Sinatra helper to parse markdown with syntax highlighting like the pros|[:arrow_upper_right:](zzak.io/glorify)|
 |43|[@amatsuda](https://github.com/amatsuda)/[**kaminari_example**](https://github.com/amatsuda/kaminari_example)|A tutorial project for the basic and advanced usage of Kaminari paginator||
-|41|[@sorah](https://github.com/sorah)/[**nginx_omniauth_adapt…**](https://github.com/sorah/nginx_omniauth_adapter)|Use omniauth for nginx auth_request||
+|41|[@sorah](https://github.com/sorah)/[**nginx_omniauth_ada…**](https://github.com/sorah/nginx_omniauth_adapter)|Use omniauth for nginx auth_request||
 |40|[@ko1](https://github.com/ko1)/[**yomikomu**](https://github.com/ko1/yomikomu)|Dump compiled iseq by binary (kakidasu) and load binary (yomidasu)||
-|38|[@naoya](https://github.com/naoya)/[**vagrant-centos-rbenv…**](https://github.com/naoya/vagrant-centos-rbenv_chef)|||
 |38|[@sorah](https://github.com/sorah)/[**acmesmith**](https://github.com/sorah/acmesmith)|An effective ACME client: Manage keys on the cloud (e.g. S3)||
 |38|[@r7kamura](https://github.com/r7kamura)/[**json_world**](https://github.com/r7kamura/json_world)|Provides DSL to define JSON Schema representation of your class.||
+|38|[@naoya](https://github.com/naoya)/[**vagrant-centos-rbe…**](https://github.com/naoya/vagrant-centos-rbenv_chef)|||
 |37|[@r7kamura](https://github.com/r7kamura)/[**chrono**](https://github.com/r7kamura/chrono)|A chain of logics about chronology.||
 |34|[@r7kamura](https://github.com/r7kamura)/[**jsonism**](https://github.com/r7kamura/jsonism)|Generate HTTP Client from JSON Schema.||
 |30|[@sorah](https://github.com/sorah)/[**villein**](https://github.com/sorah/villein)|Control serf agents from Ruby||
@@ -697,65 +697,65 @@
 |27|[@sorah](https://github.com/sorah)/[**days**](https://github.com/sorah/days)|Simple blog system built up with Sinatra||
 |26|[@sorah](https://github.com/sorah)/[**infra_operator**](https://github.com/sorah/infra_operator)|what replaces specinfra (it's a goal...)||
 |23|[@amatsuda](https://github.com/amatsuda)/[**teriyaki**](https://github.com/amatsuda/teriyaki)|Automatically imports *_path definitions from config/routes.rb for acceptance testing||
-|22|[@amatsuda](https://github.com/amatsuda)/[**activerecord-refinem…**](https://github.com/amatsuda/activerecord-refinements)|ActiveRecord + Ruby 2.0 refinements||
-|20|[@hsbt](https://github.com/hsbt)/[**ngx_mruby-package-bu…**](https://github.com/hsbt/ngx_mruby-package-builder)|Package Builder of ngx_mruby with Docker||
+|22|[@amatsuda](https://github.com/amatsuda)/[**activerecord-refin…**](https://github.com/amatsuda/activerecord-refinements)|ActiveRecord + Ruby 2.0 refinements||
+|20|[@hsbt](https://github.com/hsbt)/[**ngx_mruby-package-…**](https://github.com/hsbt/ngx_mruby-package-builder)|Package Builder of ngx_mruby with Docker||
+|20|[@Constellation](https://github.com/Constellation)/[**ruby-net-github-up…**](https://github.com/Constellation/ruby-net-github-upload)|Ruby Net::GitHub::Upload|[:arrow_upper_right:](http://d.hatena.ne.jp/Constellation/)|
 |20|[@amatsuda](https://github.com/amatsuda)/[**arel_ruby**](https://github.com/amatsuda/arel_ruby)|ARel Ruby visitor||
-|20|[@Constellation](https://github.com/Constellation)/[**ruby-net-github-uplo…**](https://github.com/Constellation/ruby-net-github-upload)|Ruby Net::GitHub::Upload|[:arrow_upper_right:](http://d.hatena.ne.jp/Constellation/)|
 |19|[@ko1](https://github.com/ko1)/[**nakayoshi_fork**](https://github.com/ko1/nakayoshi_fork)|||
-|18|[@naoya](https://github.com/naoya)/[**docker-paas-example**](https://github.com/naoya/docker-paas-example)|||
+|18|[@naoya](https://github.com/naoya)/[**docker-paas-exampl…**](https://github.com/naoya/docker-paas-example)|||
 |18|[@sorah](https://github.com/sorah)/[**config**](https://github.com/sorah/config)|config||
+|17|[@amatsuda](https://github.com/amatsuda)/[**polymorphic_url_ca…**](https://github.com/amatsuda/polymorphic_url_cache)|null||
 |17|[@amatsuda](https://github.com/amatsuda)/[**turbo_urls**](https://github.com/amatsuda/turbo_urls)|||
-|17|[@amatsuda](https://github.com/amatsuda)/[**polymorphic_url_cach…**](https://github.com/amatsuda/polymorphic_url_cache)|null||
 |17|[@gfx](https://github.com/gfx)/[**rack-devfavicon**](https://github.com/gfx/rack-devfavicon)|A rack middleware to show gray-scaled favicon on development||
-|16|[@kana](https://github.com/kana)/[**vim-doc**](https://github.com/kana/vim-doc)|An online viewer for Vim :help documents|[:arrow_upper_right:](http://vim-doc.herokuapp.com/)|
 |16|[@kana](https://github.com/kana)/[**vimup**](https://github.com/kana/vimup)|Tool to automate to upload vim scripts to www.vim.org|[:arrow_upper_right:](http://whileimautomaton.net/)|
-|16|[@amatsuda](https://github.com/amatsuda)/[**more_optimized_resol…**](https://github.com/amatsuda/more_optimized_resolver)|null||
+|16|[@kana](https://github.com/kana)/[**vim-doc**](https://github.com/kana/vim-doc)|An online viewer for Vim :help documents|[:arrow_upper_right:](http://vim-doc.herokuapp.com/)|
+|16|[@amatsuda](https://github.com/amatsuda)/[**more_optimized_res…**](https://github.com/amatsuda/more_optimized_resolver)|null||
 |15|[@sorah](https://github.com/sorah)/[**etcenv**](https://github.com/sorah/etcenv)|Dump etcd keys into dotenv file or docker env file||
-|14|[@amatsuda](https://github.com/amatsuda)/[**gem_i**](https://github.com/amatsuda/gem_i)|A RubyGems plugin that explicitly aliases `gem i` to `gem install` to avoid ambiguity||
 |14|[@hsbt](https://github.com/hsbt)/[**heroku-mongodb**](https://github.com/hsbt/heroku-mongodb)|Heroku mongodb plugin||
+|14|[@amatsuda](https://github.com/amatsuda)/[**gem_i**](https://github.com/amatsuda/gem_i)|A RubyGems plugin that explicitly aliases `gem i` to `gem install` to avoid ambiguity||
 |14|[@naoya](https://github.com/naoya)/[**Motion-Diablo3**](https://github.com/naoya/Motion-Diablo3)|Diablo3 Web API wrapper for RubyMotion||
-|13|[@hsbt](https://github.com/hsbt)/[**whispered**](https://github.com/hsbt/whispered)|||
 |13|[@amatsuda](https://github.com/amatsuda)/[**nested_layouts**](https://github.com/amatsuda/nested_layouts)|The only fork of "nested_layouts" Rails plugin in Github that correctly bug fixed for Rails 2.3|[:arrow_upper_right:](http://nested-layouts.rubyforge.org/)|
+|13|[@hsbt](https://github.com/hsbt)/[**whispered**](https://github.com/hsbt/whispered)|||
+|11|[@naoya](https://github.com/naoya)/[**jenkins-vagrant-te…**](https://github.com/naoya/jenkins-vagrant-test)|||
 |11|[@sorah](https://github.com/sorah)/[**revision_plate**](https://github.com/sorah/revision_plate)|Rack application and middleware that serves endpoint returns application's REVISION.||
-|11|[@naoya](https://github.com/naoya)/[**jenkins-vagrant-test…**](https://github.com/naoya/jenkins-vagrant-test)|||
 |10|[@hsbt](https://github.com/hsbt)/[**heroku-invoice**](https://github.com/hsbt/heroku-invoice)|Invoice plugin for heroku||
 |10|[@zzak](https://github.com/zzak)/[**shoes-contrib**](https://github.com/zzak/shoes-contrib)|Shoes examples and samples|[:arrow_upper_right:](http://shoesrb.com/)|
 |10|[@hsbt](https://github.com/hsbt)/[**rake-confirm**](https://github.com/hsbt/rake-confirm)|Confirmation for destructive Rails task.||
-|8|[@sorah](https://github.com/sorah)/[**s3_proxy**](https://github.com/sorah/s3_proxy)|simple rack app, proxies to Amazon S3||
-|8|[@hsbt](https://github.com/hsbt)/[**rubygems-yomikomu**](https://github.com/hsbt/rubygems-yomikomu)|||
 |8|[@zzak](https://github.com/zzak)/[**mruby-build**](https://github.com/zzak/mruby-build)|||
-|8|[@hsbt](https://github.com/hsbt)/[**mackerel-plugin-side…**](https://github.com/hsbt/mackerel-plugin-sidekiq-job-count)|sidekiq job counts for mackerel plugin||
+|8|[@hsbt](https://github.com/hsbt)/[**mackerel-plugin-si…**](https://github.com/hsbt/mackerel-plugin-sidekiq-job-count)|sidekiq job counts for mackerel plugin||
+|8|[@sorah](https://github.com/sorah)/[**s3_proxy**](https://github.com/sorah/s3_proxy)|simple rack app, proxies to Amazon S3||
 |8|[@zzak](https://github.com/zzak)/[**mruby-static**](https://github.com/zzak/mruby-static)|||
-|7|[@hsbt](https://github.com/hsbt)/[**heroku_scale_schedul…**](https://github.com/hsbt/heroku_scale_scheduler)|||
-|7|[@naoya](https://github.com/naoya)/[**perl-webapp**](https://github.com/naoya/perl-webapp)|Example for perl-webapp deployment||
+|8|[@hsbt](https://github.com/hsbt)/[**rubygems-yomikomu**](https://github.com/hsbt/rubygems-yomikomu)|||
+|7|[@hsbt](https://github.com/hsbt)/[**heroku_scale_sched…**](https://github.com/hsbt/heroku_scale_scheduler)|||
 |7|[@naoya](https://github.com/naoya)/[**RssProMotion**](https://github.com/naoya/RssProMotion)|RSS Reader App with RubyMotion and ProMotion||
 |7|[@hsbt](https://github.com/hsbt)/[**boxes**](https://github.com/hsbt/boxes)|linux build environment||
+|7|[@naoya](https://github.com/naoya)/[**perl-webapp**](https://github.com/naoya/perl-webapp)|Example for perl-webapp deployment||
 |6|[@ko1](https://github.com/ko1)/[**prsnt**](https://github.com/ko1/prsnt)|プレゼントを提供するためのウェブアプリケーション|[:arrow_upper_right:](prsnt.org)|
-|6|[@zzak](https://github.com/zzak)/[**endless-kaminari-dem…**](https://github.com/zzak/endless-kaminari-demo)|||
-|6|[@sorah](https://github.com/sorah)/[**tinatra**](https://github.com/sorah/tinatra)|Ruby powered DSL, which designed for making twitter bots.||
-|6|[@sorah](https://github.com/sorah)/[**etcweb**](https://github.com/sorah/etcweb)|null||
 |6|[@sorah](https://github.com/sorah)/[**akane**](https://github.com/sorah/akane)|your timeline logger.||
-|5|[@sorah](https://github.com/sorah)/[**codily**](https://github.com/sorah/codily)|Codificate your Fastly configuration in Ruby DSL||
-|5|[@hsbt](https://github.com/hsbt)/[**auto_truncated_logge…**](https://github.com/hsbt/auto_truncated_logger)|||
+|6|[@zzak](https://github.com/zzak)/[**endless-kaminari-d…**](https://github.com/zzak/endless-kaminari-demo)|||
+|6|[@sorah](https://github.com/sorah)/[**etcweb**](https://github.com/sorah/etcweb)|null||
+|6|[@sorah](https://github.com/sorah)/[**tinatra**](https://github.com/sorah/tinatra)|Ruby powered DSL, which designed for making twitter bots.||
 |5|[@yusukebe](https://github.com/yusukebe)/[**plainrouter**](https://github.com/yusukebe/plainrouter)|Fast and simple routing engine for Ruby||
-|5|[@masuidrive](https://github.com/masuidrive)/[**mruby-mindstorms-ev3…**](https://github.com/masuidrive/mruby-mindstorms-ev3)|mrbgems MINDSTORMS EV3||
 |5|[@ko1](https://github.com/ko1)/[**simplepaste**](https://github.com/ko1/simplepaste)|SimplePaste web application|[:arrow_upper_right:](http://atdot.net/sp)|
+|5|[@hsbt](https://github.com/hsbt)/[**auto_truncated_log…**](https://github.com/hsbt/auto_truncated_logger)|||
+|5|[@sorah](https://github.com/sorah)/[**codily**](https://github.com/sorah/codily)|Codificate your Fastly configuration in Ruby DSL||
+|5|[@masuidrive](https://github.com/masuidrive)/[**mruby-mindstorms-e…**](https://github.com/masuidrive/mruby-mindstorms-ev3)|mrbgems MINDSTORMS EV3||
 |4|[@hsbt](https://github.com/hsbt)/[**dotfiles**](https://github.com/hsbt/dotfiles)|||
 |4|[@masuidrive](https://github.com/masuidrive)/[**oauth2_provider**](https://github.com/masuidrive/oauth2_provider)|||
-|3|[@hsbt](https://github.com/hsbt)/[**scripts**](https://github.com/hsbt/scripts)|雑なスクリプト置き場||
-|3|[@zzak](https://github.com/zzak)/[**mruby-uri**](https://github.com/zzak/mruby-uri)|A spike to port uri to mruby||
 |3|[@zzak](https://github.com/zzak)/[**blarghhhh**](https://github.com/zzak/blarghhhh)|blogging system built on github api||
 |3|[@hsbt](https://github.com/hsbt)/[**bakagaiku**](https://github.com/hsbt/bakagaiku)|Baka ga iku on rails||
-|2|[@masuidrive](https://github.com/masuidrive)/[**mrbgems-example**](https://github.com/masuidrive/mrbgems-example)|mrbgems-example||
-|2|[@masuidrive](https://github.com/masuidrive)/[**object_extender_rb**](https://github.com/masuidrive/object_extender_rb)|Call class statements with extended object. It's without class pollution.|[:arrow_upper_right:](https://rubygems.org/gems/object_extender)|
-|2|[@hsbt](https://github.com/hsbt)/[**heroku-invoice-remin…**](https://github.com/hsbt/heroku-invoice-reminder)|||
+|3|[@hsbt](https://github.com/hsbt)/[**scripts**](https://github.com/hsbt/scripts)|雑なスクリプト置き場||
+|3|[@zzak](https://github.com/zzak)/[**mruby-uri**](https://github.com/zzak/mruby-uri)|A spike to port uri to mruby||
 |2|[@hsbt](https://github.com/hsbt)/[**whispered-puppet**](https://github.com/hsbt/whispered-puppet)|||
-|2|[@hsbt](https://github.com/hsbt)/[**rails_carrierwave_sa…**](https://github.com/hsbt/rails_carrierwave_sample)|||
-|2|[@zzak](https://github.com/zzak)/[**rdoc-rouge**](https://github.com/zzak/rdoc-rouge)|Syntax highlighting for RDoc using the pygments friendly Rouge.||
-|2|[@zzak](https://github.com/zzak)/[**mruby-optparse**](https://github.com/zzak/mruby-optparse)|A spike to port optparse to mruby||
-|2|[@hsbt](https://github.com/hsbt)/[**delayed_job_slack_no…**](https://github.com/hsbt/delayed_job_slack_notification)|Delayed Job notification on slack||
-|2|[@mblondel](https://github.com/mblondel)/[**fantasdic**](https://github.com/mblondel/fantasdic)|Versatile dictionary application for GNOME.|[:arrow_upper_right:](http://projects.gnome.org/fantasdic/)|
+|2|[@hsbt](https://github.com/hsbt)/[**rails_carrierwave_…**](https://github.com/hsbt/rails_carrierwave_sample)|||
+|2|[@hsbt](https://github.com/hsbt)/[**delayed_job_slack_…**](https://github.com/hsbt/delayed_job_slack_notification)|Delayed Job notification on slack||
+|2|[@masuidrive](https://github.com/masuidrive)/[**mrbgems-example**](https://github.com/masuidrive/mrbgems-example)|mrbgems-example||
+|2|[@hsbt](https://github.com/hsbt)/[**heroku-invoice-rem…**](https://github.com/hsbt/heroku-invoice-reminder)|||
 |2|[@Constellation](https://github.com/Constellation)/[**rhythm**](https://github.com/Constellation/rhythm)|deprecated. MIT License||
+|2|[@zzak](https://github.com/zzak)/[**mruby-optparse**](https://github.com/zzak/mruby-optparse)|A spike to port optparse to mruby||
+|2|[@zzak](https://github.com/zzak)/[**rdoc-rouge**](https://github.com/zzak/rdoc-rouge)|Syntax highlighting for RDoc using the pygments friendly Rouge.||
+|2|[@mblondel](https://github.com/mblondel)/[**fantasdic**](https://github.com/mblondel/fantasdic)|Versatile dictionary application for GNOME.|[:arrow_upper_right:](http://projects.gnome.org/fantasdic/)|
+|2|[@masuidrive](https://github.com/masuidrive)/[**object_extender_rb…**](https://github.com/masuidrive/object_extender_rb)|Call class statements with extended object. It's without class pollution.|[:arrow_upper_right:](https://rubygems.org/gems/object_extender)|
 
 ## Scala 
 
@@ -774,15 +774,15 @@
 |11|[@sorah](https://github.com/sorah)/[**gentoo-build**](https://github.com/sorah/gentoo-build)|shell scripts that builds systemd based gentoo box for x86_64 platform||
 |10|[@gfx](https://github.com/gfx)/[**LambdaAndroid**](https://github.com/gfx/LambdaAndroid)|||
 |8|[@wasabeef](https://github.com/wasabeef)/[**dockerfiles**](https://github.com/wasabeef/dockerfiles)| A collection of Dockerfiles||
+|6|[@zzak](https://github.com/zzak)/[**ruby-openssl-docke…**](https://github.com/zzak/ruby-openssl-docker)|A docker container for testing openssl against various versions of ruby and openssl||
 |6|[@masuidrive](https://github.com/masuidrive)/[**vagrant-remote**](https://github.com/masuidrive/vagrant-remote)|||
-|6|[@zzak](https://github.com/zzak)/[**ruby-openssl-docker**](https://github.com/zzak/ruby-openssl-docker)|A docker container for testing openssl against various versions of ruby and openssl||
-|5|[@Constellation](https://github.com/Constellation)/[**portable**](https://github.com/Constellation/portable)|shipping executables||
 |5|[@ksoichiro](https://github.com/ksoichiro)/[**vagrant-templates**](https://github.com/ksoichiro/vagrant-templates)|Vagrantfile and provisioning scripts templates.||
-|2|[@ksoichiro](https://github.com/ksoichiro)/[**export_icons**](https://github.com/ksoichiro/export_icons)|Inkscape Icon Export Script for Mobile Apps||
-|2|[@ksoichiro](https://github.com/ksoichiro)/[**ProjectTemplate-for-…**](https://github.com/ksoichiro/ProjectTemplate-for-Android)|Android application project template files for both Android Studio and Eclipse ADT.||
+|5|[@Constellation](https://github.com/Constellation)/[**portable**](https://github.com/Constellation/portable)|shipping executables||
 |2|[@zcbenz](https://github.com/zcbenz)/[**brasd**](https://github.com/zcbenz/brasd)|||
-|2|[@zzak](https://github.com/zzak)/[**nginx-mruby-buildpac…**](https://github.com/zzak/nginx-mruby-buildpack)|||
 |2|[@zzak](https://github.com/zzak)/[**shoes-deb**](https://github.com/zzak/shoes-deb)|||
+|2|[@ksoichiro](https://github.com/ksoichiro)/[**export_icons**](https://github.com/ksoichiro/export_icons)|Inkscape Icon Export Script for Mobile Apps||
+|2|[@zzak](https://github.com/zzak)/[**nginx-mruby-buildp…**](https://github.com/zzak/nginx-mruby-buildpack)|||
+|2|[@ksoichiro](https://github.com/ksoichiro)/[**ProjectTemplate-fo…**](https://github.com/ksoichiro/ProjectTemplate-for-Android)|Android application project template files for both Android Studio and Eclipse ADT.||
 
 ## Swift 
 
@@ -796,14 +796,14 @@
 |435|[@shu223](https://github.com/shu223)/[**Pulsator**](https://github.com/shu223/Pulsator)|Pulse animation for iOS||
 |351|[@onevcat](https://github.com/onevcat)/[**RandomColorSwift**](https://github.com/onevcat/RandomColorSwift)|An attractive color generator for Swift. Ported from randomColor.js.||
 |269|[@onevcat](https://github.com/onevcat)/[**Easy-Cal-Swift**](https://github.com/onevcat/Easy-Cal-Swift)|Overload +-*/ operator for Swift, make it easier to use (and not so strict)||
-|107|[@gfx](https://github.com/gfx)/[**Swift-PureJsonSerial…**](https://github.com/gfx/Swift-PureJsonSerializer)|a pure-Swift JSON serializer and deserializer||
+|107|[@gfx](https://github.com/gfx)/[**Swift-PureJsonSeri…**](https://github.com/gfx/Swift-PureJsonSerializer)|a pure-Swift JSON serializer and deserializer||
 |41|[@onevcat](https://github.com/onevcat)/[**WatchWeather**](https://github.com/onevcat/WatchWeather)|||
-|32|[@onevcat](https://github.com/onevcat)/[**TimerExtensionDemo**](https://github.com/onevcat/TimerExtensionDemo)|A demo to show how to write a today extension.||
+|32|[@onevcat](https://github.com/onevcat)/[**TimerExtensionDemo…**](https://github.com/onevcat/TimerExtensionDemo)|A demo to show how to write a today extension.||
 |30|[@onevcat](https://github.com/onevcat)/[**ClockFaceView**](https://github.com/onevcat/ClockFaceView)|A demo project for my blog post||
-|19|[@onevcat](https://github.com/onevcat)/[**DispatchMemoryLeakDe…**](https://github.com/onevcat/DispatchMemoryLeakDemo)|A demo that reproduce memory leak in iOS 9.2||
+|19|[@onevcat](https://github.com/onevcat)/[**DispatchMemoryLeak…**](https://github.com/onevcat/DispatchMemoryLeakDemo)|A demo that reproduce memory leak in iOS 9.2||
 |12|[@onevcat](https://github.com/onevcat)/[**UITestDemo**](https://github.com/onevcat/UITestDemo)|UITestDemo||
-|10|[@gfx](https://github.com/gfx)/[**Swift-MultiThreading…**](https://github.com/gfx/Swift-MultiThreading)|A demo code for synchronization in Swift|[:arrow_upper_right:](http://qiita.com/gfx/items/532f9f975de5a965c58a)|
-|9|[@shu223](https://github.com/shu223)/[**TokyoOlympicEmblem-f…**](https://github.com/shu223/TokyoOlympicEmblem-for-iOS)|||
+|10|[@gfx](https://github.com/gfx)/[**Swift-MultiThreadi…**](https://github.com/gfx/Swift-MultiThreading)|A demo code for synchronization in Swift|[:arrow_upper_right:](http://qiita.com/gfx/items/532f9f975de5a965c58a)|
+|9|[@shu223](https://github.com/shu223)/[**TokyoOlympicEmblem…**](https://github.com/shu223/TokyoOlympicEmblem-for-iOS)|||
 
 ## VimL 
 
@@ -818,29 +818,29 @@
 |153|[@kana](https://github.com/kana)/[**vim-vspec**](https://github.com/kana/vim-vspec)|Vim plugin: Testing framework for Vim script|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3012)|
 |108|[@kana](https://github.com/kana)/[**vim-arpeggio**](https://github.com/kana/vim-arpeggio)|Vim plugin: Mappings for simultaneously pressed keys|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2425)|
 |104|[@mattn](https://github.com/mattn)/[**livestyle-vim**](https://github.com/mattn/livestyle-vim)|Emmet LiveStyle for Vim|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
-|98|[@kana](https://github.com/kana)/[**vim-textobj-entire**](https://github.com/kana/vim-textobj-entire)|Vim plugin: Text objects for entire buffer|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2610)|
+|98|[@kana](https://github.com/kana)/[**vim-textobj-entire…**](https://github.com/kana/vim-textobj-entire)|Vim plugin: Text objects for entire buffer|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2610)|
 |97|[@kana](https://github.com/kana)/[**vim-fakeclip**](https://github.com/kana/vim-fakeclip)|Vim plugin: Provide pseudo "clipboard" registers|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2098)|
 |93|[@mattn](https://github.com/mattn)/[**sonictemplate-vim**](https://github.com/mattn/sonictemplate-vim)|Easy and high speed coding method|[:arrow_upper_right:](http://mattn.github.com/sonictemplate-vim)|
 |82|[@kana](https://github.com/kana)/[**vim-operator-user**](https://github.com/kana/vim-operator-user)|Vim plugin: Define your own operator easily|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2692)|
 |80|[@kana](https://github.com/kana)/[**vim-submode**](https://github.com/kana/vim-submode)|Vim plugin: Create your own submodes|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2467)|
-|72|[@kana](https://github.com/kana)/[**vim-textobj-indent**](https://github.com/kana/vim-textobj-indent)|Vim plugin: Text objects for indented blocks of lines|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2484)|
-|59|[@kana](https://github.com/kana)/[**vim-textobj-function…**](https://github.com/kana/vim-textobj-function)|Vim plugin: Text objects for functions|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2619)|
+|72|[@kana](https://github.com/kana)/[**vim-textobj-indent…**](https://github.com/kana/vim-textobj-indent)|Vim plugin: Text objects for indented blocks of lines|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2484)|
+|59|[@kana](https://github.com/kana)/[**vim-textobj-functi…**](https://github.com/kana/vim-textobj-function)|Vim plugin: Text objects for functions|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2619)|
 |54|[@kana](https://github.com/kana)/[**vim-textobj-line**](https://github.com/kana/vim-textobj-line)|Vim plugin: Text objects for the current line|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3886)|
 |43|[@r7kamura](https://github.com/r7kamura)/[**dotfiles**](https://github.com/r7kamura/dotfiles)|A chain of configurations for my laptop.||
 |41|[@kana](https://github.com/kana)/[**vim-altr**](https://github.com/kana/vim-altr)|Vim plugin: Switch to the missing file without interaction|[:arrow_upper_right:](https://github.com/kana/vim-altr/blob/master/doc/altr.txt)|
 |39|[@kana](https://github.com/kana)/[**vim-tabpagecd**](https://github.com/kana/vim-tabpagecd)|Vim plugin: Turn :cd into :tabpagecd, to use one tab page per project|[:arrow_upper_right:](http://vim-doc.heroku.com/view?https://raw.github.com/kana/vim-tabpagecd/master/doc/tabpagecd.txt)|
-|37|[@kana](https://github.com/kana)/[**vim-operator-replace…**](https://github.com/kana/vim-operator-replace)|Vim plugin: Operator to replace text with register content|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2782)|
-|30|[@sorah](https://github.com/sorah)/[**unite-ghq**](https://github.com/sorah/unite-ghq)|null||
+|37|[@kana](https://github.com/kana)/[**vim-operator-repla…**](https://github.com/kana/vim-operator-replace)|Vim plugin: Operator to replace text with register content|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2782)|
 |30|[@kana](https://github.com/kana)/[**vim-niceblock**](https://github.com/kana/vim-niceblock)|Vim plugin: Make blockwise Visual mode more useful||
-|27|[@kana](https://github.com/kana)/[**vim-smartword**](https://github.com/kana/vim-smartword)|Vim plugin: Smart motions on words|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2470)|
+|30|[@sorah](https://github.com/sorah)/[**unite-ghq**](https://github.com/sorah/unite-ghq)|null||
 |27|[@kana](https://github.com/kana)/[**vim-gf-user**](https://github.com/kana/vim-gf-user)|Vim plugin: A framework to open a file by context||
-|26|[@kana](https://github.com/kana)/[**vim-filetype-haskell…**](https://github.com/kana/vim-filetype-haskell)|Vim configuration files for Haskell code||
-|23|[@kana](https://github.com/kana)/[**vim-smartchr**](https://github.com/kana/vim-smartchr)|Vim plugin: Insert several candidates with a single key|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2290)|
-|23|[@kana](https://github.com/kana)/[**vim-textobj-lastpat**](https://github.com/kana/vim-textobj-lastpat)|Vim plugin: Text objects for the last searched pattern|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2355)|
+|27|[@kana](https://github.com/kana)/[**vim-smartword**](https://github.com/kana/vim-smartword)|Vim plugin: Smart motions on words|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2470)|
+|26|[@kana](https://github.com/kana)/[**vim-filetype-haske…**](https://github.com/kana/vim-filetype-haskell)|Vim configuration files for Haskell code||
 |23|[@kana](https://github.com/kana)/[**vim-metarw**](https://github.com/kana/vim-metarw)|Vim plugin: A framework to read/write fake:path|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2335)|
+|23|[@kana](https://github.com/kana)/[**vim-smartchr**](https://github.com/kana/vim-smartchr)|Vim plugin: Insert several candidates with a single key|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2290)|
+|23|[@kana](https://github.com/kana)/[**vim-textobj-lastpa…**](https://github.com/kana/vim-textobj-lastpat)|Vim plugin: Text objects for the last searched pattern|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2355)|
 |19|[@kana](https://github.com/kana)/[**vim-flymake**](https://github.com/kana/vim-flymake)|My own version of flymake.vim originally written by Daisuke Ikegami|[:arrow_upper_right:](http://madscientist.jp/~ikegami/diary/20080515.html#p01)|
 |16|[@kana](https://github.com/kana)/[**vim-scratch**](https://github.com/kana/vim-scratch)|Vim plugin: Emacs like scratch buffer|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2107)|
-|15|[@kana](https://github.com/kana)/[**vim-textobj-syntax**](https://github.com/kana/vim-textobj-syntax)|Vim plugin: Text objects for syntax highlighted items|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2716)|
+|15|[@kana](https://github.com/kana)/[**vim-textobj-syntax…**](https://github.com/kana/vim-textobj-syntax)|Vim plugin: Text objects for syntax highlighted items|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2716)|
 |9|[@sorah](https://github.com/sorah)/[**presen.vim**](https://github.com/sorah/presen.vim)|presentation software for Vim. Use markdown for presentation-file.||
 |3|[@mblondel](https://github.com/mblondel)/[**dotfiles**](https://github.com/mblondel/dotfiles)|My dot files!||
 

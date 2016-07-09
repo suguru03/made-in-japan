@@ -47,7 +47,7 @@ function makeDocs(data) {
         .sortBy('stars')
         .reverse()
         .map(r => {
-          const name = r.name.length >= 20 ? r.name.slice(0, 20) + '…' : r.name;
+          const name = r.name.length >= 18 ? r.name.slice(0, 18) + '…' : r.name;
           const homepage = r.homepage ? `[:arrow_upper_right:](${r.homepage})` : '';
           return `|${r.stars}|[@${r.owner.login}](${r.owner.html_url})/[**${name}**](${r.html_url})|${r.desc}|${homepage}|`;
         })

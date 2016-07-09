@@ -32,8 +32,7 @@ function makeDocs(data) {
       return {
         name: repo.name,
         owner: repo.owner,
-        // TODO
-        language: repo.language || 'Awesome',
+        language: repo.language || 'Documents',
         full_name: repo.full_name,
         desc: repo.description,
         html_url: repo.html_url,

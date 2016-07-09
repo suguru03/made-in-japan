@@ -40,6 +40,8 @@ function makeDocs(data) {
         homepage: repo.homepage
       };
     })
+    .sortBy(['owner.login', 'name'])
+    .reverse()
     .sortBy('language')
     .groupBy('language')
     .mapValues(repos => {
@@ -62,7 +64,7 @@ function makeDocs(data) {
   // make link
   readme = _.reduce(info, (result, str, language) => {
     return `${result} - [${language}](#${language})\n`;
-  }, `${readme} ## Link\n`);
+  }, `${readme} \n## Link\n`);
 
   // make list
   readme = _.reduce(info, (result, str, language) => {

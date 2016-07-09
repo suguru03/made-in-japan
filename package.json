@@ -1,11 +1,8 @@
 {
   "name": "made-in-japan",
   "version": "0.1.0",
-  "description": "",
+  "description": "A list of cool projects made in Japan. ",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Suguru Motegi",
   "license": "MIT",
   "dependencies": {

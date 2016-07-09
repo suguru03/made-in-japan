@@ -30,7 +30,7 @@ function makeDocs(data) {
   const info = _.chain(data)
     .map(repo => {
       return {
-        name: repo.name,
+        name: repo.name || '',
         owner: repo.owner,
         language: repo.language || 'Documents',
         full_name: repo.full_name,
@@ -47,8 +47,9 @@ function makeDocs(data) {
         .sortBy('stars')
         .reverse()
         .map(r => {
+          const name = r.name.length >= 20 ? r.name.slice(0, 20) + '…' : r.name;
           const homepage = r.homepage ? `[:arrow_upper_right:](${r.homepage})` : '';
-          return `|${r.stars}|[@${r.owner.login}](${r.owner.html_url})[**${r.name}**](${r.html_url})|${r.desc}|${homepage}|`;
+          return `|${r.stars}|[@${r.owner.login}](${r.owner.html_url})/[**${name}**](${r.html_url})|${r.desc}|${homepage}|`;
         })
         .value()
         .join('\n');

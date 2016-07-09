@@ -2,7 +2,6 @@
 
 const _ = require('lodash');
 const _madeIn = require('made-in');
-const makeFunc = require('make-function');
 
 class MadeIn {
 
@@ -38,7 +37,11 @@ class MadeIn {
 }
 
 function madeIn(loc) {
-  return function madeIn(token, language, callback) {
+  return function make(token, language, callback) {
+    if (typeof language === 'function') {
+      callback = language;
+      language = '';
+    }
     new MadeIn()
       .loc(loc)
       .token(token)

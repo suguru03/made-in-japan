@@ -10,13 +10,11 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.13.1",
-    "made-in": "^1.0.3",
-    "make-function": "^0.1.0",
-    "minimist": "^1.2.0"
+    "made-in": "^1.0.3"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-util": "^3.0.7",
+    "minimist": "^1.2.0",
     "require-dir": "^0.3.0"
   }
 }

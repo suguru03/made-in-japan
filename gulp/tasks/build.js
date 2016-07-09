@@ -58,7 +58,7 @@ function makeDocs(data) {
     })
     .value();
 
-  const tempPath = path.resolve(__dirname, 'templete.md');
+  const tempPath = path.resolve(__dirname, '..', 'templete.md');
   const readmePath = path.resolve(__dirname, '../../', 'README.md');
   let readme = fs.readFileSync(tempPath, 'utf8');
   // make link

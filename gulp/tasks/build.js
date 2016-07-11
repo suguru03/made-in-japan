@@ -5,17 +5,12 @@ const path = require('path');
 
 const _ = require('lodash');
 const gulp = require('gulp');
-const minimist = require('minimist');
 
-const argv = minimist(process.argv.slice(2));
 const madeInJapan = require('../../');
 
-gulp.task('build', done => {
+gulp.task('build', ['validate'], done => {
 
-  const token = argv.t || argv.token;
-  if (!token) {
-    return done(new Error('token is required.'));
-  }
+  const token = process.env.token;
   madeInJapan(token, (err, res) => {
     if (err) {
       return done(err);

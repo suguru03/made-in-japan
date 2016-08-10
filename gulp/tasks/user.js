@@ -4,10 +4,10 @@ const gulp = require('gulp');
 
 const madeInJapan = require('../../');
 
-gulp.task('user:save', ['validate'], done => {
+gulp.task('user:save', ['validate'], () => {
 
   const token = process.env.token;
   madeInJapan(token)
-    .readCache(false)
-    .saveCache();
+    .readUser(false)
+    .saveUser();
 });

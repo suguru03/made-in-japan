@@ -60,7 +60,7 @@ function makeDocs(data) {
   let readme = fs.readFileSync(tempPath, 'utf8');
   // make link
   readme = _.reduce(info, (result, str, language) => {
-    let link = `${basePath}/docs/${language}.md`;
+    let link = `${basePath}/blob/master/docs/${language}.md`;
     return `${result} - [${language}](${link})\n`;
   }, `${readme} \n## Link\n`);
 

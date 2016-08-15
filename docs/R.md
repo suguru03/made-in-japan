@@ -1,5 +1,3 @@
-## R 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |204|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||

@@ -1,5 +1,3 @@
-## VHDL 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |15|[@chenxiao07](https://github.com/chenxiao07)/[**vhdl-nes**](https://github.com/chenxiao07/vhdl-nes)|nes emulator based on VHDL||

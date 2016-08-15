@@ -1,5 +1,3 @@
-## Emacs Lisp 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |821|[@mooz](https://github.com/mooz)/[**js2-mode**](https://github.com/mooz/js2-mode)|Improved JavaScript editing mode for GNU Emacs||

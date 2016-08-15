@@ -1,5 +1,3 @@
-## Scala 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |383|[@seratch](https://github.com/seratch)/[**AWScala**](https://github.com/seratch/AWScala)|Using AWS SDK on the Scala REPL||

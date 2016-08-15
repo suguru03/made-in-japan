@@ -1,5 +1,3 @@
-## Go 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |1608|[@motemen](https://github.com/motemen)/[**gore**](https://github.com/motemen/gore)|  Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.||

@@ -1,5 +1,3 @@
-## Gosu 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |73|[@kazunori279](https://github.com/kazunori279)/[**Fluent-Dashboard**](https://github.com/kazunori279/Fluent-Dashboard)|A Google Spreadsheet designed to receive Fluentd event logs and display charts from them.||

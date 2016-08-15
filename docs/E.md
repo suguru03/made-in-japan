@@ -1,5 +1,3 @@
-## E 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |157|[@MakeNowJust](https://github.com/MakeNowJust)/[**quine**](https://github.com/MakeNowJust/quine)|Quine Museum||

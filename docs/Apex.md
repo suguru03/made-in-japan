@@ -1,5 +1,3 @@
-## Apex 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |14|[@stomita](https://github.com/stomita)/[**soql-secure**](https://github.com/stomita/soql-secure)|A library to build/execute SOQL from JSON definition in Apex with secure FLS check||

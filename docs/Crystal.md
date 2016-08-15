@@ -1,5 +1,3 @@
-## Crystal 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |36|[@rosylilly](https://github.com/rosylilly)/[**power_assert.cr**](https://github.com/rosylilly/power_assert.cr)|PowerAssert provides the more powerful assertion to you.|[:arrow_upper_right:](https://github.com/rosylilly/power_assert.cr)|

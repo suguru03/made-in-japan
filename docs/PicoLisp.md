@@ -1,5 +1,3 @@
-## PicoLisp 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |6|[@aw](https://github.com/aw)/[**picolisp-nanomsg**](https://github.com/aw/picolisp-nanomsg)|Nanomsg FFI Bindings for PicoLisp||

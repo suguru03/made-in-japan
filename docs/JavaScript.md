@@ -1,5 +1,3 @@
-## JavaScript 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |3688|[@noraesae](https://github.com/noraesae)/[**perfect-scrollbar**](https://github.com/noraesae/perfect-scrollbar)|Minimalistic but perfect custom scrollbar plugin|[:arrow_upper_right:](http://noraesae.github.io/perfect-scrollbar)|

@@ -1,5 +1,3 @@
-## Arduino 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |14|[@shokai](https://github.com/shokai)/[**node-ble-firmata**](https://github.com/shokai/node-ble-firmata)|BlendMicro & Arduino BLE-Shield Firmata implementation for Node.js|[:arrow_upper_right:](https://www.npmjs.org/package/ble-firmata)|

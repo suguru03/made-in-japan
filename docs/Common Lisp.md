@@ -1,5 +1,3 @@
-## Common Lisp 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |532|[@fukamachi](https://github.com/fukamachi)/[**clack**](https://github.com/fukamachi/clack)|Web application environment for Common Lisp|[:arrow_upper_right:](clacklisp.org)|

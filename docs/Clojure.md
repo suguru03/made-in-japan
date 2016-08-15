@@ -1,5 +1,3 @@
-## Clojure 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |316|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|

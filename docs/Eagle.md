@@ -1,5 +1,3 @@
-## Eagle 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |5|[@kairyu](https://github.com/kairyu)/[**kimera**](https://github.com/kairyu/kimera)|Kimera Board||

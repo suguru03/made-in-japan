@@ -1,5 +1,3 @@
-## Assembly 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |1393|[@nemasu](https://github.com/nemasu)/[**asmttpd**](https://github.com/nemasu/asmttpd)|Web server for Linux written in amd64 assembly.||

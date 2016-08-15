@@ -1,5 +1,3 @@
-## Swift 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |5391|[@onevcat](https://github.com/onevcat)/[**Kingfisher**](https://github.com/onevcat/Kingfisher)|A lightweight and pure Swift implemented library for downloading and caching image from the web.||

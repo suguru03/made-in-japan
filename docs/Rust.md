@@ -1,5 +1,3 @@
-## Rust 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |1380|[@Kintaro](https://github.com/Kintaro)/[**wtftw**](https://github.com/Kintaro/wtftw)|Window Tiling For The Win. A tiling window manager written in Rust||

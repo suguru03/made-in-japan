@@ -1,5 +1,3 @@
-## F# 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |36|[@pocketberserker](https://github.com/pocketberserker)/[**FsMachines**](https://github.com/pocketberserker/FsMachines)|A stream processing library for F#||

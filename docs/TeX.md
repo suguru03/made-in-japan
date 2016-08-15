@@ -1,5 +1,3 @@
-## TeX 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |71|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hy…**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||

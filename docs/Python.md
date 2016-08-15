@@ -1,5 +1,3 @@
-## Python 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |2120|[@mooz](https://github.com/mooz)/[**percol**](https://github.com/mooz/percol)|adds flavor of interactive filtering to the traditional pipe concept of UNIX shell||

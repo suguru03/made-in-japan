@@ -1,5 +1,3 @@
-## CSS 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |688|[@zzak](https://github.com/zzak)/[**sdoc**](https://github.com/zzak/sdoc)|Standalone sdoc generator|[:arrow_upper_right:](http://api.rubyonrails.org/)|

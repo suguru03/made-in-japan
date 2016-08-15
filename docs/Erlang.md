@@ -1,5 +1,3 @@
-## Erlang 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |185|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||

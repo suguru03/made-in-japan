@@ -1,5 +1,3 @@
-## Scheme 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |45|[@ympbyc](https://github.com/ympbyc)/[**Carrot**](https://github.com/ympbyc/Carrot)|Purely functional lisp featuring: default currying, left-associative s-expression, lazy evaluation, static type system, and statically determined multimethods.||

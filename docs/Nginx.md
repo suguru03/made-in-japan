@@ -1,5 +1,3 @@
-## Nginx 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |23|[@yanana](https://github.com/yanana)/[**docker-nginx-consu…**](https://github.com/yanana/docker-nginx-consul-template)|A consul-template powered Nginx container.||

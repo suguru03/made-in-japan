@@ -1,5 +1,3 @@
-## Makefile 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |24|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||

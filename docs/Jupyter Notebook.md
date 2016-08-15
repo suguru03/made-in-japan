@@ -1,5 +1,3 @@
-## Jupyter Notebook 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |73|[@chezou](https://github.com/chezou)/[**julia-100-exercise…**](https://github.com/chezou/julia-100-exercises)|julia version of 100 numpy exercises||

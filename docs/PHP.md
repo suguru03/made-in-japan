@@ -1,5 +1,3 @@
-## PHP 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |1964|[@hirak](https://github.com/hirak)/[**prestissimo**](https://github.com/hirak/prestissimo)|composer parallel install plugin||

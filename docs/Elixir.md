@@ -1,5 +1,3 @@
-## Elixir 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |188|[@parroty](https://github.com/parroty)/[**extwitter**](https://github.com/parroty/extwitter)|Twitter client library for elixir. ||

@@ -1,5 +1,3 @@
-## Lua 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |6328|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||

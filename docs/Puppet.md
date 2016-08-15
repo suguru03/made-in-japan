@@ -1,5 +1,3 @@
-## Puppet 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |12|[@kentaro](https://github.com/kentaro)/[**puppet-book-suppor…**](https://github.com/kentaro/puppet-book-support)|『入門Puppet』のサポートページです。||

@@ -1,5 +1,3 @@
-## D 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |33|[@repeatedly](https://github.com/repeatedly)/[**mustache-d**](https://github.com/repeatedly/mustache-d)|Mustache template engine for D|[:arrow_upper_right:](http://mustache.github.com/)|

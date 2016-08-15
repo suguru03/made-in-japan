@@ -1,5 +1,3 @@
-## Julia 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |19|[@r9y9](https://github.com/r9y9)/[**VoiceConversion.jl…**](https://github.com/r9y9/VoiceConversion.jl)|Statistical Voice Conversion in Julia||

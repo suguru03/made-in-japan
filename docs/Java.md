@@ -1,5 +1,3 @@
-## Java 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |6205|[@ksoichiro](https://github.com/ksoichiro)/[**Android-Observable…**](https://github.com/ksoichiro/Android-ObservableScrollView)|Android library to observe scroll events on scrollable views.|[:arrow_upper_right:](http://ksoichiro.github.io/Android-ObservableScrollView/)|

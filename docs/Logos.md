@@ -1,5 +1,3 @@
-## Logos 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |34|[@r-plus](https://github.com/r-plus)/[**SwipeShiftCaret**](https://github.com/r-plus/SwipeShiftCaret)|Caret micromanager shift the caret via swipe.||

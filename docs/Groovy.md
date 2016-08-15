@@ -1,5 +1,3 @@
-## Groovy 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |163|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-p…**](https://github.com/kt3k/coveralls-gradle-plugin)|:hatched_chick: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|

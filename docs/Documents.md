@@ -1,5 +1,3 @@
-## Documents 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |16443|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-ui…**](https://github.com/wasabeef/awesome-android-ui)|A curated list of awesome Android UI/UX libraries|[:arrow_upper_right:](https://twitter.com/wasabeef_jp)|

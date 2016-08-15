@@ -1,5 +1,3 @@
-## C++ 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |2189|[@tekezo](https://github.com/tekezo)/[**Karabiner**](https://github.com/tekezo/Karabiner)|Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.|[:arrow_upper_right:](https://pqrs.org/osx/karabiner/)|

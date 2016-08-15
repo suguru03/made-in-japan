@@ -1,5 +1,3 @@
-## Coq 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |45|[@sfja](https://github.com/sfja)/[**sfja**](https://github.com/sfja/sfja)|SoftwareFoundations(Ja)|[:arrow_upper_right:](http://proofcafe.org/sf/)|

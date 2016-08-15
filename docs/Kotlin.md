@@ -1,5 +1,3 @@
-## Kotlin 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |403|[@shiraji](https://github.com/shiraji)/[**permissions-dispat…**](https://github.com/shiraji/permissions-dispatcher-plugin)|IntelliJ plugin for supporting PermissionsDispatcher|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/8349)|

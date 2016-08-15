@@ -1,5 +1,3 @@
-## Verilog 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |8|[@kazunori279](https://github.com/kazunori279)/[**CPU32**](https://github.com/kazunori279/CPU32)|Tiny MIPS for Terasic DE0||

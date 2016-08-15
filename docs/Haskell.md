@@ -1,5 +1,3 @@
-## Haskell 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |207|[@itchyny](https://github.com/itchyny)/[**sjsp**](https://github.com/itchyny/sjsp)|Simple JavaScript Profiler|[:arrow_upper_right:](https://hackage.haskell.org/package/sjsp)|

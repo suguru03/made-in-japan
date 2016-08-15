@@ -1,5 +1,3 @@
-## TypeScript 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |1218|[@rhysd](https://github.com/rhysd)/[**NyaoVim**](https://github.com/rhysd/NyaoVim)|Web-enhanced Extensible Neovim Frontend||

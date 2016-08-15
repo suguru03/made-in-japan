@@ -1,5 +1,3 @@
-## Ruby 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |5921|[@amatsuda](https://github.com/amatsuda)/[**kaminari**](https://github.com/amatsuda/kaminari)|A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Rails 3 and 4|[:arrow_upper_right:](https://github.com/amatsuda/kaminari/wiki)|

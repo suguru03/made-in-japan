@@ -1,5 +1,3 @@
-## ApacheConf 
-
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |77|[@kamipo](https://github.com/kamipo)/[**etcfiles**](https://github.com/kamipo/etcfiles)|||

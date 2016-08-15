@@ -75,7 +75,7 @@ function makeDocs(data) {
     })
     .forOwn((text, language) => {
       const filepath = path.resolve(__dirname, '../..', 'docs', `${language}.md`);
-      fs.writeFileSync(filepath, text, 'uft8');
+      fs.writeFileSync(filepath, text, 'utf8');
     })
     .value();
 

@@ -30,9 +30,9 @@ function makeDocs(data) {
         owner: repo.owner,
         language: repo.language || 'Documents',
         full_name: repo.full_name,
-        desc: repo.description,
+        desc: repo.desc,
         html_url: repo.html_url,
-        stars: repo.stargazers_count,
+        stars: repo.stars,
         homepage: repo.homepage
       };
     })
@@ -60,7 +60,7 @@ function makeDocs(data) {
   let readme = fs.readFileSync(tempPath, 'utf8');
   // make link
   readme = _.reduce(info, (result, str, language) => {
-    let link = path.resolve(basePath, 'docs', `${language}.md`);
+    let link = `${basePath}/docs/${language}.md`;
     return `${result} - [${language}](#${link})\n`;
   }, `${readme} \n## Link\n`);
 

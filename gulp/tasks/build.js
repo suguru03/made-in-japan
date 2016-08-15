@@ -61,14 +61,13 @@ function makeDocs(data) {
   // make link
   readme = _.reduce(info, (result, str, language) => {
     let link = `${basePath}/docs/${language}.md`;
-    return `${result} - [${language}](#${link})\n`;
+    return `${result} - [${language}](${link})\n`;
   }, `${readme} \n## Link\n`);
 
   // make list
   _.chain(info)
-    .mapValues((str, language) => {
-      return `\## ${language} \n\n` +
-        `|:star2: | Name | Description | 🌍|\n` +
+    .mapValues(str => {
+      return `|:star2: | Name | Description | 🌍|\n` +
         `|---|---|---|---|\n` +
         `${str}` +
         `\n\n`;

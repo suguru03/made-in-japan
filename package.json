@@ -4,9 +4,11 @@
   "description": "A list of cool projects made in Japan. ",
   "main": "index.js",
   "author": "Suguru Motegi",
+  "homepage": "https://github.com/suguru03/made-in-japan",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.13.1"
+    "lodash": "^4.13.1",
+    "neo-async": "^2.0.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",

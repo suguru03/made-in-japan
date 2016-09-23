@@ -7,7 +7,9 @@ const madeInJapan = require('../../');
 gulp.task('user:save', ['validate'], () => {
 
   const token = process.env.token;
+  const loc = process.env.location;
   madeInJapan(token)
-    .readUser(false)
-    .saveUser();
+    .location(loc)
+    .readEngineer(false)
+    .saveEngineer();
 });

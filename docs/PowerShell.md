@@ -7,5 +7,6 @@
 |5|[@runceel](https://github.com/runceel)/[**uwptodoapp**](https://github.com/runceel/uwptodoapp)|todo app||
 |4|[@guitarrapc](https://github.com/guitarrapc)/[**WinCredManager**](https://github.com/guitarrapc/WinCredManager)|PowerShell Credential Store wrapper to use Windows Credential Manager||
 |4|[@guitarrapc](https://github.com/guitarrapc)/[**WindowsCredentialV…**](https://github.com/guitarrapc/WindowsCredentialVault)|Windows 8 Store App style Windows Credential Management Module for Windows PowerShell||
+|3|[@eldhoabe](https://github.com/eldhoabe)/[**ElasticSearch_Redi…**](https://github.com/eldhoabe/ElasticSearch_Redis_Mvc)|A sample project with elastic search and redis ||
 |3|[@guitarrapc](https://github.com/guitarrapc)/[**PS-Linux**](https://github.com/guitarrapc/PS-Linux)|Linux Command alter by PowerShell||
 

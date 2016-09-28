@@ -28,6 +28,7 @@
 |4|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-…**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
 |4|[@nobeans](https://github.com/nobeans)/[**grails-request-tra…**](https://github.com/nobeans/grails-request-tracelog)|Grails 3 plugin to get info logs of request||
 |4|[@nobeans](https://github.com/nobeans)/[**javaone-tokyo-2012…**](https://github.com/nobeans/javaone-tokyo-2012-jvm-bof)|||
+|3|[@emanon001](https://github.com/emanon001)/[**tddbc-vending-mach…**](https://github.com/emanon001/tddbc-vending-machine)|TDDBC Osaka 2.0||
 |3|[@fumokmm](https://github.com/fumokmm)/[**groovy-gdkpp**](https://github.com/fumokmm/groovy-gdkpp)|Groovy GDK++ is extends Java & Groovy default libraries using Category class.|[:arrow_upper_right:](http://d.hatena.ne.jp/fumokmm/20110326/1301139722)|
 |3|[@fumokmm](https://github.com/fumokmm)/[**groovy-logo-adder**](https://github.com/fumokmm/groovy-logo-adder)|Add groovy's logo to your icon file.|[:arrow_upper_right:](http://d.hatena.ne.jp/fumokmm+en/20110526/1306421368)|
 |3|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-rep…**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||

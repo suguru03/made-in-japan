@@ -6,5 +6,6 @@
 |6|[@amutake](https://github.com/amutake)/[**coq-extensible-eff…**](https://github.com/amutake/coq-extensible-effects)|Extensible Effects in Coq||
 |4|[@amutake](https://github.com/amutake)/[**a-pi**](https://github.com/amutake/a-pi)|Formalization of Aπ-calculus in Coq||
 |4|[@yoshihiro503](https://github.com/yoshihiro503)/[**coqQuickCheck**](https://github.com/yoshihiro503/coqQuickCheck)|QuickCheck for Coq||
+|3|[@OKU1987](https://github.com/OKU1987)/[**FJ_whoas**](https://github.com/OKU1987/FJ_whoas)|||
 |3|[@pi8027](https://github.com/pi8027)/[**sandpit**](https://github.com/pi8027/sandpit)|||
 

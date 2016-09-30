@@ -10,4 +10,5 @@
 |5|[@2bbb](https://github.com/2bbb)/[**ofxBonjour**](https://github.com/2bbb/ofxBonjour)|use Bonjour in openFrameowkrs||
 |4|[@ashikase](https://github.com/ashikase)/[**libcrashreport**](https://github.com/ashikase/libcrashreport)|Library for parsing and symbolicating iOS crash log files.||
 |3|[@2bbb](https://github.com/2bbb)/[**ofxMioAlpha**](https://github.com/2bbb/ofxMioAlpha)|Receive data from Mio Alpha in openFrameworks (only OS X 10.7- / iOS 5-)||
+|3|[@kapsy](https://github.com/kapsy)/[**MidiMasher**](https://github.com/kapsy/MidiMasher)|A remote keyboard controller that sends MIDI information over WiFi.||
 

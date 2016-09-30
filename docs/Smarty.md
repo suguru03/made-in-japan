@@ -1,5 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |23|[@clicktx](https://github.com/clicktx)/[**eccube-on-bootstra…**](https://github.com/clicktx/eccube-on-bootstrap3)|Bootstrap3を使ったEC-CUBE用のデザインテンプレート||
+|10|[@jhorology](https://github.com/jhorology)/[**nks-presets-collec…**](https://github.com/jhorology/nks-presets-collection)|NKS(Native Kontrol Standard) presets collection||
 |3|[@Jeemusu](https://github.com/Jeemusu)/[**EC-Cube-Admin-Boot…**](https://github.com/Jeemusu/EC-Cube-Admin-Bootstrap)|EC-CUBE管理画面用のBOOTSTRAPテーマです。||
 

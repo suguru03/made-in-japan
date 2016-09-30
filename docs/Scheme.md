@@ -18,7 +18,9 @@
 |3|[@1995hnagamin](https://github.com/1995hnagamin)/[**yaoytoolkit**](https://github.com/1995hnagamin/yaoytoolkit)|Yet Another OpenYo Toolkit||
 |3|[@arika](https://github.com/arika)/[**jisuiutils**](https://github.com/arika/jisuiutils)|||
 |3|[@dpwright](https://github.com/dpwright)/[**lp.scm**](https://github.com/dpwright/lp.scm)|Simple module to add literate programming support to Scheme||
+|3|[@hi104](https://github.com/hi104)/[**sicp_lesson**](https://github.com/hi104/sicp_lesson)|||
 |3|[@leque](https://github.com/leque)/[**paradoc**](https://github.com/leque/paradoc)|A Scribble to HTML/LaTeX converter.||
+|3|[@masaedw](https://github.com/masaedw)/[**sicp**](https://github.com/masaedw/sicp)|Try answering all questions||
 |3|[@mokehehe](https://github.com/mokehehe)/[**3imp**](https://github.com/mokehehe/3imp)|Three Implementation Models for Scheme by R. Kent Dybvig||
 |3|[@takano32](https://github.com/takano32)/[**scheme**](https://github.com/takano32/scheme)|My Scheme Scripts|[:arrow_upper_right:](http://taka.no32.tk/)|
 |3|[@tom-lpsd](https://github.com/tom-lpsd)/[**gs3**](https://github.com/tom-lpsd/gs3)|Amazon S3 client written in scheme||

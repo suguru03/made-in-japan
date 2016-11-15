@@ -5,14 +5,18 @@
 |315|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
 |250|[@kawasima](https://github.com/kawasima)/[**jagrid**](https://github.com/kawasima/jagrid)|Japanese-styled grid framework.||
 |231|[@karad](https://github.com/karad)/[**lein_template_desc…**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
+|148|[@runexec](https://github.com/runexec)/[**chp**](https://github.com/runexec/chp)|ClojureHomePage is a Compojure based web framework that allows you to write the backend and frontend with Clojure.|[:arrow_upper_right:](https://github.com/runexec/chp/)|
+|88|[@runexec](https://github.com/runexec)/[**Static-Prime**](https://github.com/runexec/Static-Prime)|A static website editor and server written in Clojure and ClojureScript.||
 |80|[@liquidz](https://github.com/liquidz)/[**clj-jwt**](https://github.com/liquidz/clj-jwt)|Clojure library for JSON Web Token(JWT)||
 |55|[@kawasima](https://github.com/kawasima)/[**back-channeling**](https://github.com/kawasima/back-channeling)|A thread floating typed chat system.||
+|49|[@runexec](https://github.com/runexec)/[**equate**](https://github.com/runexec/equate)|A Clojure fact management library||
 |46|[@liquidz](https://github.com/liquidz)/[**jubot**](https://github.com/liquidz/jubot)|Chatbot framework in Clojure||
 |27|[@liquidz](https://github.com/liquidz)/[**cuma**](https://github.com/liquidz/cuma)|Extensible micro template engine for Clojure||
 |24|[@fukamachi](https://github.com/fukamachi)/[**L5**](https://github.com/fukamachi/L5)|Yet Another Presentation Tool for Lispers|[:arrow_upper_right:](http://e-arrows.sakura.ne.jp/l5/)|
 |22|[@kawasima](https://github.com/kawasima)/[**axebomber-clj**](https://github.com/kawasima/axebomber-clj)|The generator for Excel grid sheet (so-called Excel方眼紙).||
 |22|[@making](https://github.com/making)/[**clj-gae-ds**](https://github.com/making/clj-gae-ds)|a Datastore library on Google App Engine for Clojure|[:arrow_upper_right:](http://clojars.org/am.ik/clj-gae-ds)|
 |21|[@kawasima](https://github.com/kawasima)/[**teslogger**](https://github.com/kawasima/teslogger)|A tool for taking screenshots. It's usable for logging tests.||
+|20|[@runexec](https://github.com/runexec)/[**porta**](https://github.com/runexec/porta)| Clojure utility that generates a Clojure abstraction for an existing Java Class.||
 |19|[@ayamada](https://github.com/ayamada)/[**clan**](https://github.com/ayamada/clan)|CLAN : Clojure, LibGDX, Android, Neko application construct kit||
 |18|[@dvcrn](https://github.com/dvcrn)/[**ajom**](https://github.com/dvcrn/ajom)|atom plugins in clojurescript||
 |18|[@kawasima](https://github.com/kawasima)/[**supreme-uploading**](https://github.com/kawasima/supreme-uploading)|至高のアップロード機能づくり||
@@ -33,12 +37,15 @@
 |8|[@k2nr](https://github.com/k2nr)/[**docker-clj**](https://github.com/k2nr/docker-clj)|Docker Remote API client library for Clojure||
 |8|[@liquidz](https://github.com/liquidz)/[**clj-gravatar**](https://github.com/liquidz/clj-gravatar)|gravatar api wrapper for clojure|[:arrow_upper_right:](http://clojars.org/org.clojars.liquidz/clj-gravatar)|
 |8|[@pasberth](https://github.com/pasberth)/[**infixing**](https://github.com/pasberth/infixing)|infixing Lisp||
+|8|[@runexec](https://github.com/runexec)/[**H2H**](https://github.com/runexec/H2H)|HTML to Hiccup with one function||
 |8|[@syou6162](https://github.com/syou6162)/[**fobos_clj**](https://github.com/syou6162/fobos_clj)|||
 |7|[@athos](https://github.com/athos)/[**symbol-analyzer**](https://github.com/athos/symbol-analyzer)|Clojure code analyzer that tells us how each symbol is being used in the code||
 |7|[@boxp](https://github.com/boxp)/[**Grimoire-cli**](https://github.com/boxp/Grimoire-cli)|A clojure platform for twitter.||
+|7|[@tnoda](https://github.com/tnoda)/[**rashinban**](https://github.com/tnoda/rashinban)|A Clojure library designed to work with R||
 |6|[@athos](https://github.com/athos)/[**tetrlang**](https://github.com/athos/tetrlang)|an esoteric language inspired by Tetris||
 |6|[@halcat0x15a](https://github.com/halcat0x15a)/[**cljmacs**](https://github.com/halcat0x15a/cljmacs)|Emacs like editor.||
 |6|[@minikomi](https://github.com/minikomi)/[**patatap-quil**](https://github.com/minikomi/patatap-quil)|Quil version of patatap web app||
+|6|[@rmoehn](https://github.com/rmoehn)/[**theatralia**](https://github.com/rmoehn/theatralia)|A research notebook for the humanities (discontinued)||
 |6|[@syou6162](https://github.com/syou6162)/[**lda_clj**](https://github.com/syou6162/lda_clj)|Latent Dirichlet Allocation library written in clojure||
 |5|[@KeenS](https://github.com/KeenS)/[**s7p**](https://github.com/KeenS/s7p)|sexp version of s6p; a toy SSP.||
 |5|[@athos](https://github.com/athos)/[**parabola**](https://github.com/athos/parabola)|Hubot-like chatbot framework powered by Clojure/core.async||
@@ -49,11 +56,19 @@
 |5|[@kaosf](https://github.com/kaosf)/[**clocure**](https://github.com/kaosf/clocure)|||
 |5|[@kawasima](https://github.com/kawasima)/[**clj-jpa**](https://github.com/kawasima/clj-jpa)|The JPA library in the Clojure way||
 |5|[@liquidz](https://github.com/liquidz)/[**clj-text-decoratio…**](https://github.com/liquidz/clj-text-decoration)|Text decoration library||
+|5|[@nyampass](https://github.com/nyampass)/[**appollo**](https://github.com/nyampass/appollo)|The HTTP API server for push notification||
+|5|[@nyampass](https://github.com/nyampass)/[**conceit**](https://github.com/nyampass/conceit)|A full stack web framework for Clojure.||
+|5|[@runexec](https://github.com/runexec)/[**Moov**](https://github.com/runexec/Moov)|(TMDB)The Movie Database API Wrapper||
+|5|[@runexec](https://github.com/runexec)/[**ffmpeg-clj**](https://github.com/runexec/ffmpeg-clj)|FFmpeg wrapper for Clojure||
 |5|[@syou6162](https://github.com/syou6162)/[**hmm-clj**](https://github.com/syou6162/hmm-clj)|||
 |4|[@athos](https://github.com/athos)/[**iasm**](https://github.com/athos/iasm)|inline assembly macros for Clojure||
 |4|[@gpsoft](https://github.com/gpsoft)/[**othe**](https://github.com/gpsoft/othe)|An Othello-like board game in Clojure.||
 |4|[@k2nr](https://github.com/k2nr)/[**dokkaa-builder**](https://github.com/k2nr/dokkaa-builder)|null||
 |4|[@liquidz](https://github.com/liquidz)/[**misaki-markdown**](https://github.com/liquidz/misaki-markdown)|Markdown Compiler for Misaki|[:arrow_upper_right:](http://liquidz.github.io/misaki/)|
+|4|[@nyampass](https://github.com/nyampass)/[**BeginningClojure**](https://github.com/nyampass/BeginningClojure)|工学社「はじめてのClojure」のサンプルソースです||
+|4|[@nyampass](https://github.com/nyampass)/[**halake-api**](https://github.com/nyampass/halake-api)|HaLake API server||
+|4|[@runexec](https://github.com/runexec)/[**reaction**](https://github.com/runexec/reaction)|reactive programming library for Clojure||
+|4|[@runexec](https://github.com/runexec)/[**ufc-clojure**](https://github.com/runexec/ufc-clojure)|UFC Dataset + Clojure||
 |4|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**argparse4clj**](https://github.com/tatsuhiro-t/argparse4clj)|The command line argument parser library for Clojure|[:arrow_upper_right:](http://argparse4clj.sourceforge.net/)|
 |4|[@ympbyc](https://github.com/ympbyc)/[**reductor**](https://github.com/ympbyc/reductor)|A toy language that shows how simple and elegant the concepts behind concatenative languages are.||
 |3|[@KeenS](https://github.com/KeenS)/[**b11d**](https://github.com/KeenS/b11d)|A toy DSP|[:arrow_upper_right:](http://keens.github.io/slide/ClojuredeDSPwotsukuttahanashi/)|
@@ -71,6 +86,10 @@
 |3|[@liquidz](https://github.com/liquidz)/[**misaki-clostache**](https://github.com/liquidz/misaki-clostache)|misaki compiler using Clostache|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
 |3|[@maoe](https://github.com/maoe)/[**funky**](https://github.com/maoe/funky)|Miscellaneous macros for keyword (and optional) parameter handling in Clojure|[:arrow_upper_right:](http://maoe.github.com/funky/)|
 |3|[@maoe](https://github.com/maoe)/[**snmp4clj**](https://github.com/maoe/snmp4clj)|SNMP API for Clojure based on SNMP4J|[:arrow_upper_right:](http://d.hatena.ne.jp/maoe/)|
+|3|[@mopemope](https://github.com/mopemope)/[**watchdog**](https://github.com/mopemope/watchdog)|Simple Filesystem Event Monitoring||
+|3|[@runexec](https://github.com/runexec)/[**concrete**](https://github.com/runexec/concrete)|Clojure symbol to source utility||
+|3|[@runexec](https://github.com/runexec)/[**paramount**](https://github.com/runexec/paramount)|Paramount is a superiority sorter for the Clojure language.||
 |3|[@tnoborio](https://github.com/tnoborio)/[**gomitoban**](https://github.com/tnoborio/gomitoban)|Clojure twitter bot using Google App Engine||
+|3|[@tnoda](https://github.com/tnoda)/[**simple-crypto**](https://github.com/tnoda/simple-crypto)|A Clojure library designed to perform weak string encryption, based on 128-bit AES.||
 |3|[@ympbyc](https://github.com/ympbyc)/[**iclojure-notebook**](https://github.com/ympbyc/iclojure-notebook)|Totally unofficial Clojure/conj hackathon||
 

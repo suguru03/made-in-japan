@@ -5,11 +5,11 @@
 |24|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
 |23|[@thorikawa](https://github.com/thorikawa)/[**AndroidObjectRecog…**](https://github.com/thorikawa/AndroidObjectRecognition)|App to demo using android camera and recognize specific object.||
 |12|[@repeatedly](https://github.com/repeatedly)/[**yajl-d**](https://github.com/repeatedly/yajl-d)|YAJL binding for D||
-|10|[@repeatedly](https://github.com/repeatedly)/[**xxhash-d**](https://github.com/repeatedly/xxhash-d)|D implementation of xxhash||
-|9|[@repeatedly](https://github.com/repeatedly)/[**reed**](https://github.com/repeatedly/reed)|Arango Driver for D||
+|9|[@repeatedly](https://github.com/repeatedly)/[**xxhash-d**](https://github.com/repeatedly/xxhash-d)|D implementation of xxhash||
+|9|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.|[:arrow_upper_right:](http://tanitta.github.io/armos/reference.html)|
 |8|[@repeatedly](https://github.com/repeatedly)/[**Mongo-D-Driver**](https://github.com/repeatedly/Mongo-D-Driver)|Mongo Driver for D|[:arrow_upper_right:](http://www.mongodb.org/)|
 |8|[@repeatedly](https://github.com/repeatedly)/[**d-volkswagen**](https://github.com/repeatedly/d-volkswagen)|Volkswagen detects when your tests are being run in a CI server, and makes them pass.||
-|7|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.|[:arrow_upper_right:](http://tanitta.github.io/armos/reference.html)|
+|8|[@repeatedly](https://github.com/repeatedly)/[**reed**](https://github.com/repeatedly/reed)|Arango Driver for D||
 |6|[@repeatedly](https://github.com/repeatedly)/[**ltsv-d**](https://github.com/repeatedly/ltsv-d)|LTSV implemetation for D||
 |6|[@shawnps](https://github.com/shawnps)/[**kanjihub**](https://github.com/shawnps/kanjihub)|a hub for kanji||
 |5|[@karahiyo](https://github.com/karahiyo)/[**btrace**](https://github.com/karahiyo/btrace)|[https://kenai.com/projects/btrace/]'s project.||
@@ -22,6 +22,7 @@
 |4|[@kazoo04](https://github.com/kazoo04)/[**progress-d**](https://github.com/kazoo04/progress-d)|||
 |4|[@kubo39](https://github.com/kubo39)/[**rikka**](https://github.com/kubo39/rikka)|anothor document database written in D||
 |4|[@repeatedly](https://github.com/repeatedly)/[**siphash-d**](https://github.com/repeatedly/siphash-d)|D implementation of SipHash||
+|4|[@repeatedly](https://github.com/repeatedly)/[**zstd-d**](https://github.com/repeatedly/zstd-d)|D binding for Zstandard||
 |3|[@Pctg-x8](https://github.com/Pctg-x8)/[**objective-gl**](https://github.com/Pctg-x8/objective-gl)|High-level OpenGL Wrapper/Helper||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**jsonParser**](https://github.com/alphaKAI/jsonParser)|Yet Another JSON parser for D.||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**xhvm**](https://github.com/alphaKAI/xhvm)|The Xhyve VM Manager||

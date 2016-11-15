@@ -16,8 +16,9 @@
 |5|[@bleis-tift](https://github.com/bleis-tift)/[**TypeProviderSample…**](https://github.com/bleis-tift/TypeProviderSample)|あわせて読んでほしい： http://d.hatena.ne.jp/bleis-tift/20110922/1316626354|[:arrow_upper_right:](http://d.hatena.ne.jp/bleis-tift/20110922/1316626354)|
 |5|[@moonmile](https://github.com/moonmile)/[**SampleFSharpUI**](https://github.com/moonmile/SampleFSharpUI)|F#でWPF+MVVMをするサンプルコード||
 |5|[@pocketberserker](https://github.com/pocketberserker)/[**free-monad-fsharp**](https://github.com/pocketberserker/free-monad-fsharp)|||
+|4|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Object.Diff…**](https://github.com/pocketberserker/FSharp.Object.Diff)|||
 |4|[@pocketberserker](https://github.com/pocketberserker)/[**PEGStudy**](https://github.com/pocketberserker/PEGStudy)|PEGと構文解析に関するアレコレの勉強会 Vol.1用に作ったもの置き場||
+|4|[@teramonagi](https://github.com/teramonagi)/[**ArithmeticEvaluati…**](https://github.com/teramonagi/ArithmeticEvaluation)|Simple Calculator||
 |3|[@pocketberserker](https://github.com/pocketberserker)/[**ContMonadStudy**](https://github.com/pocketberserker/ContMonadStudy)|継続モナド勉強用のなんとか||
-|3|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Object.Diff…**](https://github.com/pocketberserker/FSharp.Object.Diff)|||
 |3|[@pocketberserker](https://github.com/pocketberserker)/[**FsSampleKinectAppl…**](https://github.com/pocketberserker/FsSampleKinectApplication)|||
 

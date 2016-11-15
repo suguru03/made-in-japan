@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |189|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
-|74|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
-|59|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
+|76|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
+|66|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |56|[@jj1bdx](https://github.com/jj1bdx)/[**sfmt-erlang**](https://github.com/jj1bdx/sfmt-erlang)|sfmt-erlang: SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang|[:arrow_upper_right:](http://jj1bdx.github.io/sfmt-erlang/)|
 |33|[@jj1bdx](https://github.com/jj1bdx)/[**sshrpc**](https://github.com/jj1bdx/sshrpc)|Erlang SSH RPC module (experimental)||
 |31|[@iij](https://github.com/iij)/[**lmq**](https://github.com/iij/lmq)|Lightweight Message Queue||
@@ -29,10 +29,12 @@
 |9|[@kuenishi](https://github.com/kuenishi)/[**poolcat**](https://github.com/kuenishi/poolcat)|Active worker pool in OTP manner||
 |9|[@leo-project](https://github.com/leo-project)/[**leo_object_storage…**](https://github.com/leo-project/leo_object_storage)|leo_object_storage is a log-structured object/BLOB storage.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |9|[@leo-project](https://github.com/leo-project)/[**leo_rpc**](https://github.com/leo-project/leo_rpc)|An original RPC library written in Erlang whose interface is similar to Erlang's buildin RPC.|[:arrow_upper_right:](http://leo-project.net/leofs)|
+|9|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
 |8|[@cooldaemon](https://github.com/cooldaemon)/[**erljob**](https://github.com/cooldaemon/erljob)|Job Scheduler for Erlang.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/)|
 |8|[@cooldaemon](https://github.com/cooldaemon)/[**gen_paxos**](https://github.com/cooldaemon/gen_paxos)|generic paxos module written in erlang|[:arrow_upper_right:](http://d.hatena.ne.jp/kuenishi)|
 |8|[@jj1bdx](https://github.com/jj1bdx)/[**exs64**](https://github.com/jj1bdx/exs64)|Xorshift64star for Erlang||
 |8|[@rramsden](https://github.com/rramsden)/[**sassy**](https://github.com/rramsden/sassy)|Sass stylesheet compilation for Erlang||
+|8|[@sile](https://github.com/sile)/[**ppg**](https://github.com/sile/ppg)|Plumtree based Distributed Process Group||
 |7|[@cooldaemon](https://github.com/cooldaemon)/[**BasicStudyForErlan…**](https://github.com/cooldaemon/BasicStudyForErlang)|I study the Erlang over from the basics.||
 |7|[@everpeace](https://github.com/everpeace)/[**programming-erlang…**](https://github.com/everpeace/programming-erlang-code)|erlang codes in "Programming Erlang" http://pragprog.com/book/jaerlang/programming-erlang||
 |7|[@hibari](https://github.com/hibari)/[**cluster-info**](https://github.com/hibari/cluster-info)||[:arrow_upper_right:](http://hibari.github.com/hibari-doc/)|
@@ -40,8 +42,6 @@
 |7|[@leo-project](https://github.com/leo-project)/[**leo_pod**](https://github.com/leo-project/leo_pod)|leo_pod - A Fast Erlang worker pool manager|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |7|[@leo-project](https://github.com/leo-project)/[**leo_redundant_mana…**](https://github.com/leo-project/leo_redundant_manager)|leo_redundant_manager monitors Gateway-node(s) and Storage-node(s) to keep availability and consistency. leo_redundant_manager also manages and provides routing-table(RING).|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |7|[@sile](https://github.com/sile)/[**evel**](https://github.com/sile/evel)|An Eventual Leader Election Library for Erlang||
-|7|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
-|7|[@sile](https://github.com/sile)/[**ppg**](https://github.com/sile/ppg)|Plumtree based Distributed Process Group||
 |7|[@yoichiro](https://github.com/yoichiro)/[**mixi-staging**](https://github.com/yoichiro/mixi-staging)|||
 |6|[@cooldaemon](https://github.com/cooldaemon)/[**rabbitmq-http-prox…**](https://github.com/cooldaemon/rabbitmq-http-proxy)|HTTP Proxy in RabbitMQ.||
 |6|[@leo-project](https://github.com/leo-project)/[**leo_backend_db**](https://github.com/leo-project/leo_backend_db)|leo_backend_db is a wrapper library for Basho bitcask, Basho eleveldb and Erlang ETS. They are used as local KVS in LeoFS.|[:arrow_upper_right:](http://leo-project.net/leofs)|
@@ -54,6 +54,7 @@
 |5|[@kuenishi](https://github.com/kuenishi)/[**colloxy**](https://github.com/kuenishi/colloxy)|Pluggable http proxy. Write your filter and hooks.||
 |5|[@leo-project](https://github.com/leo-project)/[**leo_commons**](https://github.com/leo-project/leo_commons)|leo_commons include common modules for LeoFS and other Erlang applications.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |5|[@leo-project](https://github.com/leo-project)/[**leo_mcerl**](https://github.com/leo-project/leo_mcerl)|leo_mcerl is a memory cache lib for Erlang|[:arrow_upper_right:](http://leo-project.net/leofs)|
+|5|[@shirou](https://github.com/shirou)/[**erlang-ltsv**](https://github.com/shirou/erlang-ltsv)|Labeled Tab-separated Values Parser for Erlang ||
 |5|[@sile](https://github.com/sile)/[**erl-splay-tree**](https://github.com/sile/erl-splay-tree)|A splay-tree implementation in Erlang||
 |5|[@ytakano](https://github.com/ytakano)/[**ermdia**](https://github.com/ytakano/ermdia)|An implementation of DHT in Erlang.||
 |4|[@cooldaemon](https://github.com/cooldaemon)/[**ssd**](https://github.com/cooldaemon/ssd)|The Simple Storage Daemon. It has a RESTfull I/F.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/20080206/1202265372)|
@@ -66,6 +67,7 @@
 |4|[@leo-project](https://github.com/leo-project)/[**simplenfs**](https://github.com/leo-project/simplenfs)|NFS implementation by Erlang||
 |4|[@rramsden](https://github.com/rramsden)/[**experiments**](https://github.com/rramsden/experiments)|||
 |4|[@sile](https://github.com/sile)/[**erl_pfds**](https://github.com/sile/erl_pfds)|An Erlang implementation of the data structures described in 『Purely Functional Data Structures』||
+|4|[@sile](https://github.com/sile)/[**logi**](https://github.com/sile/logi)|A Logger Interface Library for Erlang/OTP||
 |4|[@tkyk](https://github.com/tkyk)/[**erlang-exercise---…**](https://github.com/tkyk/erlang-exercise---)|Programing Erlang 8.１１ exercise|[:arrow_upper_right:](http://wp.serpere.info/)|
 |4|[@voluntas](https://github.com/voluntas)/[**kappa**](https://github.com/voluntas/kappa)|kappa ("河童") is erlang hook application.||
 |4|[@voluntas](https://github.com/voluntas)/[**yet-another-msgpac…**](https://github.com/voluntas/yet-another-msgpack-erlang)|Yet another MessagePack Erlang library (Original https://github.com/msgpack/msgpack-erlang)||
@@ -82,10 +84,10 @@
 |3|[@norton](https://github.com/norton)/[**gen-ets**](https://github.com/norton/gen-ets)|GEN_ETS is an generic wrapper for Erlang Term Storage with a callback interface for a backend implementation.||
 |3|[@otphub](https://github.com/otphub)/[**mnesia**](https://github.com/otphub/mnesia)|||
 |3|[@sile](https://github.com/sile)/[**erl-creole**](https://github.com/sile/erl-creole)|Converting strings between multibyte encodings and Unicode.||
-|3|[@sile](https://github.com/sile)/[**logi**](https://github.com/sile/logi)|A Logger Interface Library for Erlang/OTP||
 |3|[@sile](https://github.com/sile)/[**pfun**](https://github.com/sile/pfun)|Erlang Portable Functions||
 |3|[@sile](https://github.com/sile)/[**recvbench**](https://github.com/sile/recvbench)|gen_tcp:recv banchmark ( Erlang)||
 |3|[@simulacre](https://github.com/simulacre)/[**rabbitmq-events**](https://github.com/simulacre/rabbitmq-events)|RabbitMQ plugin that publishes internal events||
+|3|[@siritori](https://github.com/siritori)/[**recrio**](https://github.com/siritori/recrio)|An open implementation MIPS R3000 in Erlang||
 |3|[@voluntas](https://github.com/voluntas)/[**mnesia_key_cache**](https://github.com/voluntas/mnesia_key_cache)|Mnesia Key Cache||
 |3|[@voluntas](https://github.com/voluntas)/[**satori**](https://github.com/voluntas/satori)|satori(覚) is type base binary converter.||
 

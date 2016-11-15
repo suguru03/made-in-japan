@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|41|[@tokuhirom](https://github.com/tokuhirom)/[**p6-Crust**](https://github.com/tokuhirom/p6-Crust)|PSGI library stack for Perl6||
-|16|[@skaji](https://github.com/skaji)/[**mi6**](https://github.com/skaji/mi6)|minimal authoring tool for Perl6||
+|43|[@tokuhirom](https://github.com/tokuhirom)/[**p6-Crust**](https://github.com/tokuhirom/p6-Crust)|PSGI library stack for Perl6||
+|18|[@skaji](https://github.com/skaji)/[**mi6**](https://github.com/skaji/mi6)|minimal authoring tool for Perl6||
 |14|[@skaji](https://github.com/skaji)/[**Frinfon**](https://github.com/skaji/Frinfon)|minimal sinatra for perl6||
 |9|[@lopnor](https://github.com/lopnor)/[**p6-plackdo**](https://github.com/lopnor/p6-plackdo)|plack-like web interface for perl6||
 |5|[@uasi](https://github.com/uasi)/[**messagepack-pm6**](https://github.com/uasi/messagepack-pm6)|A MessagePack implementation written in Perl 6||

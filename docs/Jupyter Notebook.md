@@ -19,6 +19,7 @@
 |3|[@hagino3000](https://github.com/hagino3000)/[**notebooks**](https://github.com/hagino3000/notebooks)|My Jupyter notebooks||
 |3|[@himkt](https://github.com/himkt)/[**notebooks**](https://github.com/himkt/notebooks)|||
 |3|[@mrkn](https://github.com/mrkn)/[**typical_colors**](https://github.com/mrkn/typical_colors)|Extracting typical colors from images||
+|3|[@naotokui](https://github.com/naotokui)/[**ChainerPainter**](https://github.com/naotokui/ChainerPainter)|Image Regression in Chainer||
 |3|[@sinhrks](https://github.com/sinhrks)/[**chainer-parallel-e…**](https://github.com/sinhrks/chainer-parallel-examples)|||
 |3|[@takuti](https://github.com/takuti)/[**factorization-mach…**](https://github.com/takuti/factorization-machines)|:slot_machine: Implementation of Factorization Machines [S. Rendle, 2012]||
 

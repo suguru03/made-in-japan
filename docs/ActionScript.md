@@ -2,6 +2,7 @@
 |---|---|---|---|
 |292|[@glassesfactory](https://github.com/glassesfactory)/[**glassesfactory**](https://github.com/glassesfactory/glassesfactory)|俺々ライブラリ|[:arrow_upper_right:](http://blog.glasses-factory.net)|
 |50|[@Saqoosha](https://github.com/Saqoosha)/[**SAQAS3**](https://github.com/Saqoosha/SAQAS3)|Saqoosha's AS3 Library|[:arrow_upper_right:](http://saqoo.sh/a/)|
+|36|[@susisu](https://github.com/susisu)/[**Twitter-for-AS3**](https://github.com/susisu/Twitter-for-AS3)|ActionScript3 library for Twitter API v1.1||
 |32|[@euske](https://github.com/euske)/[**planpathplat**](https://github.com/euske/planpathplat)|Experimental Path Planning for Platformer||
 |24|[@yanbe](https://github.com/yanbe)/[**qrcode-as**](https://github.com/yanbe/qrcode-as)|QR Code reader written in ActionScript 3 which supports webcam on Windows, Mac and Linux by default||
 |18|[@nihen](https://github.com/nihen)/[**JSocket**](https://github.com/nihen/JSocket)|Socket on Javascript(use flash)||
@@ -11,7 +12,7 @@
 |13|[@hanamura](https://github.com/hanamura)/[**as3tf**](https://github.com/hanamura/as3tf)|Various classes and functions for Flash/ActionScript programming.||
 |11|[@akio0911](https://github.com/akio0911)/[**hcrepos**](https://github.com/akio0911/hcrepos)|Hacker's Cafe Repository|[:arrow_upper_right:](http://blog.hackers-cafe.net/)|
 |11|[@juwalbose](https://github.com/juwalbose)/[**DynamicAtlasCreato…**](https://github.com/juwalbose/DynamicAtlasCreator)|Helps create Starling Texture Atlas dynamically from a single super atlas (2048, ipad retina screen width based)||
-|9|[@wellflat](https://github.com/wellflat)/[**actionscript-labs**](https://github.com/wellflat/actionscript-labs)|my actionscript practice||
+|9|[@wellflat](https://github.com/wellflat)/[**actionscript-labs**](https://github.com/wellflat/actionscript-labs)|my actionscript practice|[:arrow_upper_right:](http://rest-term.com)|
 |8|[@glassesfactory](https://github.com/glassesfactory)/[**GFS.I.OAS3**](https://github.com/glassesfactory/GFS.I.OAS3)|Socket.IO <-> AS3 with WebSocket|[:arrow_upper_right:](http://blog.glasses-factory.net)|
 |8|[@hotchpotch](https://github.com/hotchpotch)/[**uffy**](https://github.com/hotchpotch/uffy)|AS3 <-> JS||
 |8|[@kota](https://github.com/kota)/[**81SquareShogi**](https://github.com/kota/81SquareShogi)|online shogi playing site||
@@ -24,11 +25,15 @@
 |6|[@cellfusion](https://github.com/cellfusion)/[**cellfusionAS3**](https://github.com/cellfusion/cellfusionAS3)|いままで作ったクラスを適当にまとめるリポジトリ||
 |6|[@itoz](https://github.com/itoz)/[**romaticaAS3**](https://github.com/itoz/romaticaAS3)|オレオレAS3クラス|[:arrow_upper_right:](http://www.romatica.com/)|
 |6|[@lyokato](https://github.com/lyokato)/[**as3saxparser**](https://github.com/lyokato/as3saxparser)|XML SAX Parser for ActionScript3||
+|6|[@nariyu](https://github.com/nariyu)/[**as3twitterlib**](https://github.com/nariyu/as3twitterlib)|Twitter API wrapper library for ActionScript 3.0||
+|6|[@ppworks](https://github.com/ppworks)/[**as3paintoco**](https://github.com/ppworks/as3paintoco)|paint tool for as3||
 |6|[@umhr](https://github.com/umhr)/[**VideoChatMobile**](https://github.com/umhr/VideoChatMobile)|null||
 |5|[@Saqoosha](https://github.com/Saqoosha)/[**FLARToolKit**](https://github.com/Saqoosha/FLARToolKit)|null||
 |5|[@YusukeKokubo](https://github.com/YusukeKokubo)/[**redmineair**](https://github.com/YusukeKokubo/redmineair)|redmine client soch as a desktop stickey application.|[:arrow_upper_right:](http://www.r-labs.org/projects/redmineair/)|
 |5|[@itoz](https://github.com/itoz)/[**itoz.jp_RTMFP-serv…**](https://github.com/itoz/itoz.jp_RTMFP-serverless-)|サーバーレスモードRTMFPライブラリ||
 |5|[@juwalbose](https://github.com/juwalbose)/[**DynamicAtlasCeator…**](https://github.com/juwalbose/DynamicAtlasCeatorAirDemo)|AIR version of Dynamic Texture Atlas with saving to ApplicationStorageDirectory for reuse||
+|5|[@nulab](https://github.com/nulab)/[**asclip**](https://github.com/nulab/asclip)|ActionScript library for clipboard copy||
+|5|[@takumus](https://github.com/takumus)/[**ListUI-for-as3**](https://github.com/takumus/ListUI-for-as3)|||
 |4|[@024t910](https://github.com/024t910)/[**yc2013**](https://github.com/024t910/yc2013)|||
 |4|[@Saqoosha](https://github.com/Saqoosha)/[**SimpleHTTPServer**](https://github.com/Saqoosha/SimpleHTTPServer)|GUI Frontend for python's SimpleHTTPServer module.|[:arrow_upper_right:](http://saqoo.sh/a)|
 |4|[@glassesfactory](https://github.com/glassesfactory)/[**GFWindowObserver**](https://github.com/glassesfactory/GFWindowObserver)|SWF が本当に非アクティブになったかどうか調べるクラス|[:arrow_upper_right:](http://blog.glasses-factory.net/2010/11/14/GFWindowObserver)|

@@ -1,9 +1,11 @@
 'use strict';
 
-const path = require('path');
+const _ = require('lodash');
 const gulp = require('gulp');
 const async = require('neo-async');
 
+const info = require('../../data/info.json');
+const locations = require('../../data/japan.json');
 const madeInJapan = require('../../');
 
 gulp.task('user:save', ['validate'], () => {
@@ -19,9 +21,11 @@ gulp.task('user:save', ['validate'], () => {
 gulp.task('user:save:all', ['validate'], done => {
 
   const token = process.env.token;
-  const filepath = path.resolve(__dirname, '..', '..', 'data', 'japan.json');
-  const locations = require(filepath);
-  async.eachSeries(locations, (loc, next) => {
+  const currentLoc = _.get(info, 'current_location');
+  const index = _.indexOf(locations, currentLoc);
+  const locs = index < 0 ? locations : locations.slice(index);
+  async.eachSeries(locs, (loc, next) => {
+    info.current_location = loc;
     console.log(`location:${loc}`);
     madeInJapan(token)
       .location(loc)

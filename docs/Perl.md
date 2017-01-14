@@ -146,6 +146,7 @@
 |16|[@nekokak](https://github.com/nekokak)/[**p5-Jonk**](https://github.com/nekokak/p5-Jonk)|simple job tank system|[:arrow_upper_right:](http://nekokak.org/)|
 |16|[@tomill](https://github.com/tomill)/[**Acme-Perlingual**](https://github.com/tomill/Acme-Perlingual)|Acme::Perlingual - Convert perl code to php or something.|[:arrow_upper_right:](http://perlingual.koneta.org/)|
 |16|[@typester](https://github.com/typester)/[**anyevent-jsonrpc-l…**](https://github.com/typester/anyevent-jsonrpc-lite-perl)|AnyEvent::JSONRPC::Lite||
+|15|[@Kazu-zamasu](https://github.com/Kazu-zamasu)/[**PQIAirCard_Script**](https://github.com/Kazu-zamasu/PQIAirCard_Script)|null||
 |15|[@hakobe](https://github.com/hakobe)/[**WebService-SyoboiC…**](https://github.com/hakobe/WebService-SyoboiCalendar)|||
 |15|[@kamipo](https://github.com/kamipo)/[**dotfiles**](https://github.com/kamipo/dotfiles)|kamipo's dotfiles||
 |15|[@kazeburo](https://github.com/kazeburo)/[**DBIx-Sunny**](https://github.com/kazeburo/DBIx-Sunny)|||
@@ -155,7 +156,6 @@
 |15|[@okinawarb](https://github.com/okinawarb)/[**faker-okinawa**](https://github.com/okinawarb/faker-okinawa)|Faker::Okinawa generates Okinawa fake data.||
 |15|[@typester](https://github.com/typester)/[**ark-document-ja**](https://github.com/typester/ark-document-ja)|Japanese ark documentation||
 |15|[@typester](https://github.com/typester)/[**github-ircbot-perl…**](https://github.com/typester/github-ircbot-perl)|ircbot to broadcast github post-receive message to irc||
-|14|[@Kazu-zamasu](https://github.com/Kazu-zamasu)/[**PQIAirCard_Script**](https://github.com/Kazu-zamasu/PQIAirCard_Script)|||
 |14|[@cho45](https://github.com/cho45)/[**Chord**](https://github.com/cho45/Chord)|Chord is Application framework for web (now sketching)||
 |14|[@cho45](https://github.com/cho45)/[**Text-Xatena**](https://github.com/cho45/Text-Xatena)|Perl module for parsing Xatena syntax (like Hatena syntax)||
 |14|[@gfx](https://github.com/gfx)/[**Dist-Maker**](https://github.com/gfx/Dist-Maker)|Yet another distribution maker||
@@ -329,7 +329,7 @@
 |8|[@yuki-kimoto](https://github.com/yuki-kimoto)/[**taskdeal**](https://github.com/yuki-kimoto/taskdeal)|Setup or deploy multiple environments from web browser.||
 |8|[@zcbenz](https://github.com/zcbenz)/[**dotfiles**](https://github.com/zcbenz/dotfiles)|My dotfiles for POSIX systems and cygwin.||
 |8|[@zigorou](https://github.com/zigorou)/[**perl-json-pointer**](https://github.com/zigorou/perl-json-pointer)|A JSON Pointer implementation for Perl||
-|7|[@Cside](https://github.com/Cside)/[**YouTube-to-MP3**](https://github.com/Cside/YouTube-to-MP3)|||
+|7|[@Cside](https://github.com/Cside)/[**YouTube-to-MP3**](https://github.com/Cside/YouTube-to-MP3)|null||
 |7|[@aklaswad](https://github.com/aklaswad)/[**mt-plugin-include-…**](https://github.com/aklaswad/mt-plugin-include-map)||[:arrow_upper_right:](http://blog.aklaswad.com/)|
 |7|[@alfasado](https://github.com/alfasado)/[**mt-plugin-asset2re…**](https://github.com/alfasado/mt-plugin-asset2relative)|Insert asset with relative path.||
 |7|[@dann](https://github.com/dann)/[**p5-perl-metrics-li…**](https://github.com/dann/p5-perl-metrics-lite)|Pluggable Perl Metrics System||

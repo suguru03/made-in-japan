@@ -19,13 +19,13 @@
 |202|[@mururu](https://github.com/mururu)/[**exenv**](https://github.com/mururu/exenv)|Elixir versions management tool||
 |136|[@kazeburo](https://github.com/kazeburo)/[**mysetup**](https://github.com/kazeburo/mysetup)|my setup scripts repository||
 |135|[@tagomoris](https://github.com/tagomoris)/[**xbuild**](https://github.com/tagomoris/xbuild)|Language runtimes installer for production environment||
+|130|[@Gnurou](https://github.com/Gnurou)/[**busybox-android**](https://github.com/Gnurou/busybox-android)|A Busybox binary that is ready to be integrated into your Android project||
 |124|[@tcnksm](https://github.com/tcnksm)/[**docker-alias**](https://github.com/tcnksm/docker-alias)|My Docker alias and functions||
 |123|[@bleis-tift](https://github.com/bleis-tift)/[**Git-Hooks**](https://github.com/bleis-tift/Git-Hooks)|Redmine等のITS/BTSとGitとCIツールを使った開発を支援するためのフックスクリプト集・・・になる予定||
-|122|[@Gnurou](https://github.com/Gnurou)/[**busybox-android**](https://github.com/Gnurou/busybox-android)|A Busybox binary that is ready to be integrated into your Android project||
 |109|[@pine](https://github.com/pine)/[**crenv**](https://github.com/pine/crenv)|:gem: Crystal version manager like rbenv.|[:arrow_upper_right:](http://crystal-lang.org/)|
 |108|[@tuvistavie](https://github.com/tuvistavie)/[**fundle**](https://github.com/tuvistavie/fundle)|A minimalist package manager for fish shell||
 |106|[@suin](https://github.com/suin)/[**iptables**](https://github.com/suin/iptables)|⚙ 俺史上最強のiptablesをさらす|[:arrow_upper_right:](http://qiita.com/suin/items/5c4e21fa284497782f71)|
-|90|[@KeenS](https://github.com/KeenS)/[**CIM**](https://github.com/KeenS/CIM)|Common Lisp Implementation Manager||
+|94|[@KeenS](https://github.com/KeenS)/[**CIM**](https://github.com/KeenS/CIM)|Common Lisp Implementation Manager||
 |89|[@taku910](https://github.com/taku910)/[**crfpp**](https://github.com/taku910/crfpp)|CRF++: Yet Another CRF toolkit||
 |88|[@making](https://github.com/making)/[**hajiboot-samples**](https://github.com/making/hajiboot-samples)|書籍「はじめてのSpring Boot」のサポートページ||
 |86|[@kamipo](https://github.com/kamipo)/[**mysql-build**](https://github.com/kamipo/mysql-build)|Compile and install MySQL||
@@ -135,7 +135,7 @@
 |13|[@riywo](https://github.com/riywo)/[**vagrant-docker-td-…**](https://github.com/riywo/vagrant-docker-td-es-kibana-sample)|vagrant, docker, td-agent, elasticsearch, kibana||
 |13|[@shigeki](https://github.com/shigeki)/[**uv_webserver**](https://github.com/shigeki/uv_webserver)|Hello World  WebServer with libuv||
 |13|[@sorah](https://github.com/sorah)/[**gentoo-build**](https://github.com/sorah/gentoo-build)|shell scripts that builds systemd based gentoo box for x86_64 platform||
-|12|[@1syo](https://github.com/1syo)/[**wercker-step-idoba…**](https://github.com/1syo/wercker-step-idobata-notify)|||
+|12|[@1syo](https://github.com/1syo)/[**wercker-step-idoba…**](https://github.com/1syo/wercker-step-idobata-notify)|null||
 |12|[@aw](https://github.com/aw)/[**nodejs-debian**](https://github.com/aw/nodejs-debian)|Automatically build node.js debian packages||
 |12|[@boj](https://github.com/boj)/[**boj.github.com**](https://github.com/boj/boj.github.com)|mojobojo generated github page|[:arrow_upper_right:](http://www.mojobojo.com)|
 |12|[@glidenote](https://github.com/glidenote)/[**serf-web-load-bala…**](https://github.com/glidenote/serf-web-load-balancer)|null||
@@ -205,8 +205,6 @@
 |8|[@uchida](https://github.com/uchida)/[**ansible-miniconda-…**](https://github.com/uchida/ansible-miniconda-role)|ansible role to install miniconda, Python-agnostic binary package manager|[:arrow_upper_right:](https://galaxy.ansible.com/uchida/miniconda)|
 |8|[@vvakame](https://github.com/vvakame)/[**dotfiles**](https://github.com/vvakame/dotfiles)|||
 |8|[@zembutsu](https://github.com/zembutsu)/[**AWS-EstimateCharge…**](https://github.com/zembutsu/AWS-EstimateCharge)|Munin plugins for "AWS EstimateCharge". to get monthly estimated charge; total charge and each services||
-|7|[@DQNEO](https://github.com/DQNEO)/[**Vagrantfile-php7**](https://github.com/DQNEO/Vagrantfile-php7)|Vagrantfiles to build and run php7||
-|7|[@DQNEO](https://github.com/DQNEO)/[**rsolo**](https://github.com/DQNEO/rsolo)|rsolo is a simple shell-script which runs chef-solo on remote hosts.||
 |7|[@Wizcorp](https://github.com/Wizcorp)/[**libbash**](https://github.com/Wizcorp/libbash)|Collection of bash libraries aimed at making your life easier|[:arrow_upper_right:](http://www.wizcorp.jp)|
 |7|[@ainoya](https://github.com/ainoya)/[**docker-sixpack**](https://github.com/ainoya/docker-sixpack)|Dockerized sixpack server||
 |7|[@aminaura](https://github.com/aminaura)/[**AURUnlockSlider**](https://github.com/aminaura/AURUnlockSlider)|Simple Unlock Slider View||
@@ -240,6 +238,9 @@
 |7|[@visualive](https://github.com/visualive)/[**retort-wp**](https://github.com/visualive/retort-wp)|WordPress development environment based on PHP built-in server + WP-CLI.||
 |7|[@xinqiyang](https://github.com/xinqiyang)/[**opshell**](https://github.com/xinqiyang/opshell)|some good operation and maintenance scripts.||
 |7|[@yuuki](https://github.com/yuuki)/[**opstools**](https://github.com/yuuki/opstools)|Tools for fast server operation||
+|6|[@844196](https://github.com/844196)/[**Renge**](https://github.com/844196/Renge)|そしてもっかい実行すれば、うちがしゃべるのん！||
+|6|[@DQNEO](https://github.com/DQNEO)/[**Vagrantfile-php7**](https://github.com/DQNEO/Vagrantfile-php7)|Vagrantfiles to build and run php7||
+|6|[@DQNEO](https://github.com/DQNEO)/[**rsolo**](https://github.com/DQNEO/rsolo)|rsolo is a simple shell-script which runs chef-solo on remote hosts.||
 |6|[@MakeNowJust](https://github.com/MakeNowJust)/[**nyanpass-cli**](https://github.com/MakeNowJust/nyanpass-cli)|(๑¯Δ¯๑) ＜ nyanpass.comの非公式コマンドラインツールなのん|[:arrow_upper_right:](http://nyanpass.com)|
 |6|[@Nyoho](https://github.com/Nyoho)/[**gitconfig**](https://github.com/Nyoho/gitconfig)|.gitconfig||
 |6|[@ada-u](https://github.com/ada-u)/[**brewery**](https://github.com/ada-u/brewery)|Brewery is a simple Brewfile dumper.||
@@ -281,7 +282,6 @@
 |6|[@zembutsu](https://github.com/zembutsu)/[**munin-plugin-httpi…**](https://github.com/zembutsu/munin-plugin-httping_)|httping (measure the latency and throghput of HTTP) plugin for munin||
 |6|[@zembutsu](https://github.com/zembutsu)/[**serf-munin**](https://github.com/zembutsu/serf-munin)|serf event handler that manage auto add/delete munin nodes||
 |6|[@zzak](https://github.com/zzak)/[**ruby-openssl-docke…**](https://github.com/zzak/ruby-openssl-docker)|A docker container for testing openssl against various versions of ruby and openssl||
-|5|[@844196](https://github.com/844196)/[**Renge**](https://github.com/844196/Renge)|そしてもっかい実行すれば、うちがしゃべるのん！||
 |5|[@Constellation](https://github.com/Constellation)/[**portable**](https://github.com/Constellation/portable)|shipping executables||
 |5|[@Kimtaro](https://github.com/Kimtaro)/[**ready_milord**](https://github.com/Kimtaro/ready_milord)|Know when Terminal.app is done working.||
 |5|[@b4b4r07](https://github.com/b4b4r07)/[**favdir**](https://github.com/b4b4r07/favdir)|Save favorite directory on bash and zsh||
@@ -390,7 +390,7 @@
 |4|[@zchee](https://github.com/zchee)/[**deoplete-zsh**](https://github.com/zchee/deoplete-zsh)|null||
 |4|[@zh](https://github.com/zh)/[**virgo**](https://github.com/zh/virgo)|Create Golang virtual environments||
 |4|[@znz](https://github.com/znz)/[**dot-shell**](https://github.com/znz/dot-shell)|.bashrc and .zshrc||
-|3|[@2get](https://github.com/2get)/[**wercker-step-ikach…**](https://github.com/2get/wercker-step-ikachan-notify)|||
+|3|[@2get](https://github.com/2get)/[**wercker-step-ikach…**](https://github.com/2get/wercker-step-ikachan-notify)|null||
 |3|[@AkihiroSuda](https://github.com/AkihiroSuda)/[**test18180**](https://github.com/AkihiroSuda/test18180)|Checker for docker/docker#18180||
 |3|[@Cryolite](https://github.com/Cryolite)/[**intro**](https://github.com/Cryolite/intro)|To build C++ development environment and track which C++ features are supported on GCC snapshot and Clang SVN trunk.||
 |3|[@DQNEO](https://github.com/DQNEO)/[**vagrant-php55-apac…**](https://github.com/DQNEO/vagrant-php55-apache)|a Vagrantfile to install php5.5 and apache using VirtualBox||

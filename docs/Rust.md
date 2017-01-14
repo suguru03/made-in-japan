@@ -8,6 +8,7 @@
 |9|[@Kintaro](https://github.com/Kintaro)/[**wtftw-contrib**](https://github.com/Kintaro/wtftw-contrib)|A repository for additional wtftw modules||
 |8|[@faultier](https://github.com/faultier)/[**bee**](https://github.com/faultier/bee)|HTTP request/response parser written in Rust||
 |6|[@KeenS](https://github.com/KeenS)/[**kappaLisp**](https://github.com/KeenS/kappaLisp)|SKK Lisp intepreter||
+|6|[@KeenS](https://github.com/KeenS)/[**rustlisp**](https://github.com/KeenS/rustlisp)|a type level lisp interpreter on Rust's type system||
 |6|[@azyobuzin](https://github.com/azyobuzin)/[**rust-oauthcli**](https://github.com/azyobuzin/rust-oauthcli)|Yet Another OAuth 1.0 Client Library for Rust|[:arrow_upper_right:](http://azyobuzin.github.io/rust-oauthcli/oauthcli/)|
 |6|[@nocotan](https://github.com/nocotan)/[**rmessenger**](https://github.com/nocotan/rmessenger)|A Rust Wrapper for the FaceBook Messenger Bot API||
 |5|[@cosmo0920](https://github.com/cosmo0920)/[**ruroonga**](https://github.com/cosmo0920/ruroonga)|A Rust language binding for Groonga.||
@@ -19,6 +20,7 @@
 |4|[@hhatto](https://github.com/hhatto)/[**boom-rust**](https://github.com/hhatto/boom-rust)|Rust implementation of boom||
 |4|[@rejasupotaro](https://github.com/rejasupotaro)/[**gimei-rust**](https://github.com/rejasupotaro/gimei-rust)|Random Japanese name and address generator (Port of gem's gimei to Rust).||
 |4|[@usagi](https://github.com/usagi)/[**usagi-rust-referen…**](https://github.com/usagi/usagi-rust-reference)|うさぎさんでもわかるRustプログラミング言語リファレンス||
+|3|[@Constellation](https://github.com/Constellation)/[**rust-jsc**](https://github.com/Constellation/rust-jsc)|WebKit JavaScriptCore rust binding||
 |3|[@azyobuzin](https://github.com/azyobuzin)/[**tweetust**](https://github.com/azyobuzin/tweetust)|Experimental Twitter Library for Rust (Now Working...)|[:arrow_upper_right:](http://azyobuzin.github.io/tweetust/tweetust/)|
 |3|[@banyan](https://github.com/banyan)/[**rust-pretty-bytes**](https://github.com/banyan/rust-pretty-bytes)|Convert bytes to a human readable string: 1337 → 1.34 kB||
 |3|[@hibariya](https://github.com/hibariya)/[**pty-shell**](https://github.com/hibariya/pty-shell)|Spawn a shell and control it through pty||

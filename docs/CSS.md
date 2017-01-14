@@ -74,6 +74,7 @@
 |17|[@yang-wei](https://github.com/yang-wei)/[**simplified**](https://github.com/yang-wei/simplified)|Simple Octopress Theme|[:arrow_upper_right:](http://yangweilim.com/)|
 |17|[@yterajima](https://github.com/yterajima)/[**middleman-pure**](https://github.com/yterajima/middleman-pure)|middleman-pure||
 |17|[@yuku-t](https://github.com/yuku-t)/[**qiita-notification…**](https://github.com/yuku-t/qiita-notifications)|Keep up with Qiita, anywhere on the web.|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/hcnchocfgcldaldkchelnhpidgmfaocc)|
+|16|[@JunichiIto](https://github.com/JunichiIto)/[**cb**](https://github.com/JunichiIto/cb)|for cb site.||
 |16|[@pocotan001](https://github.com/pocotan001)/[**ptan-no-css**](https://github.com/pocotan001/ptan-no-css)|||
 |15|[@myakura](https://github.com/myakura)/[**n**](https://github.com/myakura/n)|Notes about Web development stuff.||
 |15|[@onevcat](https://github.com/onevcat)/[**JekyllScroll**](https://github.com/onevcat/JekyllScroll)|JekyllScroll is a theme for Jekyll.||
@@ -171,7 +172,7 @@
 |5|[@nekokak](https://github.com/nekokak)/[**p5-Idiot**](https://github.com/nekokak/p5-Idiot)|p5-Kamui sample no paste!|[:arrow_upper_right:](http://nekokak.org/blog.cgi)|
 |5|[@tyabe](https://github.com/tyabe)/[**kaja-nomination**](https://github.com/tyabe/kaja-nomination)|WEB applications for voting RubyKaja||
 |5|[@yusukebe](https://github.com/yusukebe)/[**FMTube**](https://github.com/yusukebe/FMTube)|Listen and watch YouTube videos with recommendations from Last.fm|[:arrow_upper_right:](http://yusuke.be/FMTube)|
-|4|[@7kaji](https://github.com/7kaji)/[**practice_social_co…**](https://github.com/7kaji/practice_social_coding)|||
+|4|[@7kaji](https://github.com/7kaji)/[**practice_social_co…**](https://github.com/7kaji/practice_social_coding)|null||
 |4|[@Kazuma](https://github.com/Kazuma)/[**sparkly**](https://github.com/Kazuma/sparkly)|沖縄で星空撮影するための情報|[:arrow_upper_right:](http://sparkly.herokuapp.com)|
 |4|[@NunetInc](https://github.com/NunetInc)/[**redmine_nu_mobile_…**](https://github.com/NunetInc/redmine_nu_mobile_viewer)|Mobile UI for Redmine|[:arrow_upper_right:](http://www.redmine.org/plugins/nu_mobile_viewer)|
 |4|[@concrete5japan](https://github.com/concrete5japan)/[**sakan**](https://github.com/concrete5japan/sakan)|Free open source base theme package for concrete5.7||
@@ -206,6 +207,7 @@
 |4|[@yuuki](https://github.com/yuuki)/[**Monitorel**](https://github.com/yuuki/Monitorel)|A Web API providing server performance metrics graphs||
 |4|[@yyuu](https://github.com/yyuu)/[**yyuu.github.com**](https://github.com/yyuu/yyuu.github.com)|yyuu.github.io|[:arrow_upper_right:](http://yyuu.github.io/)|
 |3|[@HiroKws](https://github.com/HiroKws)/[**LaraFun**](https://github.com/HiroKws/LaraFun)|||
+|3|[@JakeJP](https://github.com/JakeJP)/[**FlashAirList**](https://github.com/JakeJP/FlashAirList)|FlashAir List.htm responsive alternative||
 |3|[@JohannesFischer](https://github.com/JohannesFischer)/[**my-fabulous-ss-log…**](https://github.com/JohannesFischer/my-fabulous-ss-login)|An alternative SilverStripe login page layout||
 |3|[@MaxMEllon](https://github.com/MaxMEllon)/[**GithubSignature**](https://github.com/MaxMEllon/GithubSignature)|:credit_card: Signature of Github with react||
 |3|[@Rokt33r](https://github.com/Rokt33r)/[**emoji-magic-box**](https://github.com/Rokt33r/emoji-magic-box)|(WIP) Dead-simple toolkit to build emoji stuff||

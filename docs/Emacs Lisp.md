@@ -156,6 +156,7 @@
 |10|[@mhayashi1120](https://github.com/mhayashi1120)/[**Emacs-erefactor**](https://github.com/mhayashi1120/Emacs-erefactor)|Emacs-Lisp refactoring utilities||
 |10|[@mooz](https://github.com/mooz)/[**shadow.el**](https://github.com/mooz/shadow.el)|That's not the file. That's shadow.||
 |10|[@zk-phi](https://github.com/zk-phi)/[**jaword**](https://github.com/zk-phi/jaword)|[emacs] minor-mode for handling Japanese words better||
+|9|[@KeenS](https://github.com/KeenS)/[**stylefmt.el**](https://github.com/KeenS/stylefmt.el)|cssfmt wrapper for emacs,which is a gofmt like code formatter||
 |9|[@ainame](https://github.com/ainame)/[**emacs-d**](https://github.com/ainame/emacs-d)|my emacs configuration||
 |9|[@gongo](https://github.com/gongo)/[**elfactory**](https://github.com/gongo/elfactory)|.emacs.d deploy system for gongo||
 |9|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**Goby**](https://github.com/kazu-yamamoto/Goby)|Goby is a WYSIWYG presentation tool, which runs on Emacs 22 or later|[:arrow_upper_right:](http://www.mew.org/~kazu/proj/goby/)|

@@ -47,7 +47,6 @@
 |6|[@minikomi](https://github.com/minikomi)/[**patatap-quil**](https://github.com/minikomi/patatap-quil)|Quil version of patatap web app||
 |6|[@rmoehn](https://github.com/rmoehn)/[**theatralia**](https://github.com/rmoehn/theatralia)|A research notebook for the humanities (discontinued)||
 |6|[@syou6162](https://github.com/syou6162)/[**lda_clj**](https://github.com/syou6162/lda_clj)|Latent Dirichlet Allocation library written in clojure||
-|5|[@KeenS](https://github.com/KeenS)/[**s7p**](https://github.com/KeenS/s7p)|sexp version of s6p; a toy SSP.||
 |5|[@athos](https://github.com/athos)/[**parabola**](https://github.com/athos/parabola)|Hubot-like chatbot framework powered by Clojure/core.async||
 |5|[@ayamada](https://github.com/ayamada)/[**vnctst-audio3**](https://github.com/ayamada/vnctst-audio3)|audio playback library for html5 game||
 |5|[@halcat0x15a](https://github.com/halcat0x15a)/[**emerald**](https://github.com/halcat0x15a/emerald)|protocol based monad library||
@@ -61,6 +60,7 @@
 |5|[@runexec](https://github.com/runexec)/[**Moov**](https://github.com/runexec/Moov)|(TMDB)The Movie Database API Wrapper||
 |5|[@runexec](https://github.com/runexec)/[**ffmpeg-clj**](https://github.com/runexec/ffmpeg-clj)|FFmpeg wrapper for Clojure||
 |5|[@syou6162](https://github.com/syou6162)/[**hmm-clj**](https://github.com/syou6162/hmm-clj)|||
+|4|[@KeenS](https://github.com/KeenS)/[**s7p**](https://github.com/KeenS/s7p)|sexp version of s6p; a toy SSP.||
 |4|[@athos](https://github.com/athos)/[**iasm**](https://github.com/athos/iasm)|inline assembly macros for Clojure||
 |4|[@gpsoft](https://github.com/gpsoft)/[**othe**](https://github.com/gpsoft/othe)|An Othello-like board game in Clojure.||
 |4|[@k2nr](https://github.com/k2nr)/[**dokkaa-builder**](https://github.com/k2nr/dokkaa-builder)|null||

@@ -10,7 +10,7 @@
 |122|[@chobie](https://github.com/chobie)/[**php-sundown**](https://github.com/chobie/php-sundown)|php-sundown is just simple wrapper of sundown||
 |120|[@fujimoto](https://github.com/fujimoto)/[**php-skype**](https://github.com/fujimoto/php-skype)|PHP Skype API wrapper class|[:arrow_upper_right:](http://labs.gree.jp/Top/OpenSource/Skype.html)|
 |106|[@kohkimakimoto](https://github.com/kohkimakimoto)/[**workerphp**](https://github.com/kohkimakimoto/workerphp)|A PHP micro job scheduler framework like cron.||
-|104|[@KLab](https://github.com/KLab)/[**emlauncher**](https://github.com/KLab/emlauncher)|||
+|105|[@KLab](https://github.com/KLab)/[**emlauncher**](https://github.com/KLab/emlauncher)|null||
 |96|[@dounokouno](https://github.com/dounokouno)/[**TransmitMail**](https://github.com/dounokouno/TransmitMail)|Copyright表示不要のPHP製汎用メールフォームシステム|[:arrow_upper_right:](http://etc.dounokouno.com/TransmitMail/)|
 |92|[@makotokw](https://github.com/makotokw)/[**wp-gfm**](https://github.com/makotokw/wp-gfm)|WordPress Plugin for PHP-Markdown and GitHub Flavored Markdown||
 |86|[@ichikaway](https://github.com/ichikaway)/[**mongoDB-Datasource…**](https://github.com/ichikaway/mongoDB-Datasource)|Old and Historical repository. Please use new repository at: http://github.com/ichikaway/cakephp-mongodb||
@@ -58,13 +58,13 @@
 |30|[@sizuhiko](https://github.com/sizuhiko)/[**Bdd**](https://github.com/sizuhiko/Bdd)|BDD(Behavior Driven Development) integration plugin for CakePHP2||
 |29|[@kohkimakimoto](https://github.com/kohkimakimoto)/[**BackgroundProcess**](https://github.com/kohkimakimoto/BackgroundProcess)|BackgroundProcess is a PHP library to run background processes asynchronously on your system.||
 |28|[@chobie](https://github.com/chobie)/[**protoc-gen-php**](https://github.com/chobie/protoc-gen-php)|protoc plugin for PECL ProtocolBuffers||
-|27|[@77web](https://github.com/77web)/[**my-silex-examples**](https://github.com/77web/my-silex-examples)|how to work with Silex php framework in typical cases||
 |27|[@brtriver](https://github.com/brtriver)/[**silex-sample-appli…**](https://github.com/brtriver/silex-sample-application)|silex sample blog application with tests||
 |27|[@chomado](https://github.com/chomado)/[**chomado_bot**](https://github.com/chomado/chomado_bot)|Twitter の @chomado_bot を作っていきます||
 |27|[@client9](https://github.com/client9)/[**snowflake2time**](https://github.com/client9/snowflake2time)|Converts twitter snowflake ids to UTC timestamps (unix epoch seconds or milliseconds) and back in php and python||
 |27|[@makotokw](https://github.com/makotokw)/[**php-twient**](https://github.com/makotokw/php-twient)|php-twient is a php twitter client library. require PHP5.3+, supports OAuth and should work without curl.||
 |27|[@tototoshi](https://github.com/tototoshi)/[**staticmock**](https://github.com/tototoshi/staticmock)|A mockery-like DSL to replace static method in test.||
 |26|[@miya0001](https://github.com/miya0001)/[**wp-total-hacks**](https://github.com/miya0001/wp-total-hacks)|WP Total Hacks can customize more than 20 settings on your WordPress Site.|[:arrow_upper_right:](http://firegoby.jp/wp/wp-total-hacks)|
+|25|[@77web](https://github.com/77web)/[**my-silex-examples**](https://github.com/77web/my-silex-examples)|how to work with Silex php framework in typical cases||
 |25|[@predominant](https://github.com/predominant)/[**goodies**](https://github.com/predominant/goodies)|Goodies plugin for CakePHP - Gravatar helper, AutoJavascript includer.|[:arrow_upper_right:](http://grahamweldon.com)|
 |25|[@suin](https://github.com/suin)/[**php-ftp-client**](https://github.com/suin/php-ftp-client)|📦 A simple PHP FTP client library working without FTP extension.||
 |24|[@inc2734](https://github.com/inc2734)/[**smart-custom-field…**](https://github.com/inc2734/smart-custom-fields)|||
@@ -121,7 +121,7 @@
 |16|[@slywalker](https://github.com/slywalker)/[**account_manager**](https://github.com/slywalker/account_manager)|CakePHP AccountManager Plugin||
 |16|[@slywalker](https://github.com/slywalker)/[**pdf**](https://github.com/slywalker/pdf)|CakePHP PDF Plugin||
 |16|[@tkyk](https://github.com/tkyk)/[**cakephp-search-pag…**](https://github.com/tkyk/cakephp-search-pagination)|Appending search parameters to patination links.||
-|15|[@AtsushiM](https://github.com/AtsushiM)/[**Facebook-WallSearc…**](https://github.com/AtsushiM/Facebook-WallSearch)|||
+|15|[@AtsushiM](https://github.com/AtsushiM)/[**Facebook-WallSearc…**](https://github.com/AtsushiM/Facebook-WallSearch)|null||
 |15|[@balibali](https://github.com/balibali)/[**opDiaryPlugin**](https://github.com/balibali/opDiaryPlugin)|Diary plugin for OpenPNE3|[:arrow_upper_right:](http://redmine.openpne.jp/projects/plg-diary)|
 |15|[@hiroy](https://github.com/hiroy)/[**lune**](https://github.com/hiroy/lune)|a PHP minimal framework|[:arrow_upper_right:](http://twitter.com/hiro_y)|
 |15|[@matsubo](https://github.com/matsubo)/[**redis-ranking**](https://github.com/matsubo/redis-ranking)|Wrapping Redis's sorted set APIs for specializing ranking operations.||
@@ -159,6 +159,7 @@
 |13|[@nojimage](https://github.com/nojimage)/[**CakePHP-skel**](https://github.com/nojimage/CakePHP-skel)|CakePHP アプリケーションスケルトンの建設中。fork me!||
 |13|[@shin1x1](https://github.com/shin1x1)/[**gihyo-laravel-book…**](https://github.com/shin1x1/gihyo-laravel-book-reservation)|Laravelエキスパート養成読本 chapter5. サンプルコード|[:arrow_upper_right:](http://www.amazon.co.jp/dp/4774173134)|
 |13|[@ttskch](https://github.com/ttskch)/[**php-abc-quests**](https://github.com/ttskch/php-abc-quests)|順番に課題をこなしていけばそれなりに今風な PHP 開発の入門ができるコンテンツ||
+|12|[@77web](https://github.com/77web)/[**Japanese.Holiday**](https://github.com/77web/Japanese.Holiday)|calculates holidays in Japan||
 |12|[@brtriver](https://github.com/brtriver)/[**karen**](https://github.com/brtriver/karen)|Karen is a simple PSR-7 micro framework with PHP7||
 |12|[@hiromi2424](https://github.com/hiromi2424)/[**ninja**](https://github.com/hiromi2424/ninja)|miscellaneous libraries for (cake)php||
 |12|[@ichikaway](https://github.com/ichikaway)/[**AutoAppBuild**](https://github.com/ichikaway/AutoAppBuild)|AutoAppBuild finds sub directories in Controller/Model directory and executes App::build()||
@@ -186,8 +187,7 @@
 |11|[@suin](https://github.com/suin)/[**phpstorm-yaf-doc**](https://github.com/suin/phpstorm-yaf-doc)|📕 php-yaf API documentation for PhpStrom||
 |11|[@takuro](https://github.com/takuro)/[**manga_server**](https://github.com/takuro/manga_server)|ブラウザで漫画を見るためのアプリケーションです。PHP製。デモは下記URLから。|[:arrow_upper_right:](http://manga.isitkr.org/)|
 |11|[@tkyk](https://github.com/tkyk)/[**cakephp-key-value-…**](https://github.com/tkyk/cakephp-key-value-source)|CakePHP's DataSource for simple key-value stores.|[:arrow_upper_right:](http://wp.serpere.info)|
-|10|[@77web](https://github.com/77web)/[**Japanese.Holiday**](https://github.com/77web/Japanese.Holiday)|calculates holidays in Japan||
-|10|[@KLab](https://github.com/KLab)/[**metahub**](https://github.com/KLab/metahub)|||
+|10|[@KLab](https://github.com/KLab)/[**metahub**](https://github.com/KLab/metahub)|null||
 |10|[@KitaitiMakoto](https://github.com/KitaitiMakoto)/[**PHP-EPUBParser**](https://github.com/KitaitiMakoto/PHP-EPUBParser)|EPUB Parser for PHP||
 |10|[@gong023](https://github.com/gong023)/[**Ayaml**](https://github.com/gong023/Ayaml)|php fixture library by yaml.||
 |10|[@hiroy](https://github.com/hiroy)/[**clover-text-ltsv**](https://github.com/hiroy/clover-text-ltsv)|Labeled Tab-separated Values (LTSV; cf. http://ltsv.org/) parser for PHP.||
@@ -203,6 +203,7 @@
 |10|[@vishnugopal](https://github.com/vishnugopal)/[**active-record-php**](https://github.com/vishnugopal/active-record-php)|This is a POC clone of Rails' active_record in PHP 5.3||
 |10|[@vishnugopal](https://github.com/vishnugopal)/[**purl**](https://github.com/vishnugopal/purl)|Purl is a hurl.it clone in PHP||
 |10|[@wokamoto](https://github.com/wokamoto)/[**nephila-clavata**](https://github.com/wokamoto/nephila-clavata)|WordPress media uploader for AWS S3. Allows you to mirror your WordPress media uploads over to Amazon S3 for storage and delivery.||
+|9|[@HoshinoTouko](https://github.com/HoshinoTouko)/[**NHentaiAPI**](https://github.com/HoshinoTouko/NHentaiAPI)|NHentaiAPI||
 |9|[@ashiina](https://github.com/ashiina)/[**php-apns-queueserv…**](https://github.com/ashiina/php-apns-queueserver)|APNS server with a queue system.||
 |9|[@dakatsuka](https://github.com/dakatsuka)/[**MonologFluentHandl…**](https://github.com/dakatsuka/MonologFluentHandler)|Fluentd Handler for Monolog||
 |9|[@dit-rohm](https://github.com/dit-rohm)/[**textbook**](https://github.com/dit-rohm/textbook)|Web development tutorials for beginners||
@@ -340,7 +341,6 @@
 |5|[@77web](https://github.com/77web)/[**opTagPlugin**](https://github.com/77web/opTagPlugin)|詳細はwikiページに。provides OpenPNE3.x tag entry&save interface, tag cloud, tag search.||
 |5|[@Akkiesoft](https://github.com/Akkiesoft)/[**airpippi**](https://github.com/Akkiesoft/airpippi)|エアコンの電源をおしてもらったりするやつ||
 |5|[@Frost-Dev](https://github.com/Frost-Dev)/[**Frost-Web**](https://github.com/Frost-Dev/Frost-Web)|Cool and cool SNS|[:arrow_upper_right:](https://frost-sns.ml/)|
-|5|[@HoshinoTouko](https://github.com/HoshinoTouko)/[**NHentaiAPI**](https://github.com/HoshinoTouko/NHentaiAPI)|NHentaiAPI||
 |5|[@Jeemusu](https://github.com/Jeemusu)/[**alfred-jisho-workf…**](https://github.com/Jeemusu/alfred-jisho-workflow)|Alfred v2 workflow for searching beta.jisho.org||
 |5|[@Nully](https://github.com/Nully)/[**Jobeet-For-ZendFra…**](https://github.com/Nully/Jobeet-For-ZendFramework)|symfony tutorial 'Jobeet' For Zend Framework !|[:arrow_upper_right:](http://blog.nully.org/)|
 |5|[@alfasado](https://github.com/alfasado)/[**mt-plugin-countgro…**](https://github.com/alfasado/mt-plugin-countgroupby)|Counting groups of objects.||
@@ -413,7 +413,7 @@
 |5|[@yuya-takeyama](https://github.com/yuya-takeyama)/[**async_mysql**](https://github.com/yuya-takeyama/async_mysql)|Example project to execute MySQL queries asynchronously||
 |5|[@yuya-takeyama](https://github.com/yuya-takeyama)/[**php5-Text_Ngram**](https://github.com/yuya-takeyama/php5-Text_Ngram)|An implementation of N-gram in PHP.||
 |5|[@zcbenz](https://github.com/zcbenz)/[**sbbs-search**](https://github.com/zcbenz/sbbs-search)|虎踞龙蟠BBS全文检索|[:arrow_upper_right:](http://bbs.seu.edu.cn/s)|
-|4|[@2843](https://github.com/2843)/[**ablogcms**](https://github.com/2843/ablogcms)|||
+|4|[@2843](https://github.com/2843)/[**ablogcms**](https://github.com/2843/ablogcms)|null||
 |4|[@Felli](https://github.com/Felli)/[**flarum-japanese**](https://github.com/Felli/flarum-japanese)|Flarum 日本語拡張機能||
 |4|[@HotaruCMS](https://github.com/HotaruCMS)/[**BookmarkingPlugins…**](https://github.com/HotaruCMS/BookmarkingPlugins)|Quickstart pack of Social Bookmarking Plugins for HotaruCMS||
 |4|[@KitaitiMakoto](https://github.com/KitaitiMakoto)/[**PHP-Castanet-Useri…**](https://github.com/KitaitiMakoto/PHP-Castanet-Userid)|||

@@ -79,16 +79,16 @@
 |41|[@mitsuse](https://github.com/mitsuse)/[**autocomplete-swift…**](https://github.com/mitsuse/autocomplete-swift)|Autocompletion for Swift in Vim, especially with neocomplete / deoplete.||
 |40|[@moznion](https://github.com/moznion)/[**hateblo.vim**](https://github.com/moznion/hateblo.vim)|This plugin provides some functions of Hatena-Blog by using AtomPub API.||
 |40|[@sgur](https://github.com/sgur)/[**ctrlp-extensions.v…**](https://github.com/sgur/ctrlp-extensions.vim)|Plugins for ctrlp.vim||
+|39|[@Jxck](https://github.com/Jxck)/[**dotfiles**](https://github.com/Jxck/dotfiles)|dotfiles||
 |39|[@kana](https://github.com/kana)/[**vim-operator-repla…**](https://github.com/kana/vim-operator-replace)|Vim plugin: Operator to replace text with register content|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2782)|
 |39|[@kana](https://github.com/kana)/[**vim-tabpagecd**](https://github.com/kana/vim-tabpagecd)|Vim plugin: Turn :cd into :tabpagecd, to use one tab page per project|[:arrow_upper_right:](http://vim-doc.heroku.com/view?https://raw.github.com/kana/vim-tabpagecd/master/doc/tabpagecd.txt)|
 |39|[@rhysd](https://github.com/rhysd)/[**conflict-marker.vi…**](https://github.com/rhysd/conflict-marker.vim)|Weapon to fight against conflicts in Vim.||
 |38|[@tyru](https://github.com/tyru)/[**open-browser-githu…**](https://github.com/tyru/open-browser-github.vim)|Open GitHub URL of current file, etc. from Vim editor (supported GitHub Enterprise)||
 |38|[@tyru](https://github.com/tyru)/[**skk.vim**](https://github.com/tyru/skk.vim)|skk.vim with miscellaneous hacks. patches/forks are welcome. if you are insterested in improving skk.vim, please contact me by twitter, email, and so on.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3118)|
-|37|[@Jxck](https://github.com/Jxck)/[**dotfiles**](https://github.com/Jxck/dotfiles)|dotfiles||
+|37|[@JunichiIto](https://github.com/JunichiIto)/[**dotfiles**](https://github.com/JunichiIto/dotfiles)|My dotfiles||
 |37|[@koron](https://github.com/koron)/[**codic-vim**](https://github.com/koron/codic-vim)|Codic vim plugin|[:arrow_upper_right:](http://www.kaoriya.net/blog/2014/01/04/)|
 |36|[@haya14busa](https://github.com/haya14busa)/[**vim-debugger**](https://github.com/haya14busa/vim-debugger)|:feet: Vim script debugger :bug:||
 |36|[@moznion](https://github.com/moznion)/[**github-commit-comm…**](https://github.com/moznion/github-commit-comment.vim)|Vim Plugin for Commit Comment of GitHub||
-|34|[@JunichiIto](https://github.com/JunichiIto)/[**dotfiles**](https://github.com/JunichiIto/dotfiles)|My dotfiles||
 |34|[@itchyny](https://github.com/itchyny)/[**screensaver.vim**](https://github.com/itchyny/screensaver.vim)|Screensavers for Vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5092)|
 |34|[@violetyk](https://github.com/violetyk)/[**cake.vim**](https://github.com/violetyk/cake.vim)|Utility for CakePHP developers.||
 |33|[@deris](https://github.com/deris)/[**vim-shot-f**](https://github.com/deris/vim-shot-f)|highlight the character which can move directly to (by `f`,`F`,`t`,`T`)||
@@ -176,10 +176,10 @@
 |16|[@kana](https://github.com/kana)/[**vim-textobj-syntax…**](https://github.com/kana/vim-textobj-syntax)|Vim plugin: Text objects for syntax highlighted items|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2716)|
 |16|[@sgur](https://github.com/sgur)/[**unite-qf**](https://github.com/sgur/unite-qf)|quickfix source for unite.vim|[:arrow_upper_right:](http://sgur.tumblr.com/post/20964494874/quickfix-unite-vim-source)|
 |16|[@tacahiroy](https://github.com/tacahiroy)/[**ctrlp-ssh**](https://github.com/tacahiroy/ctrlp-ssh)|a ctrlp.vim extension - open a new SSH connection via ctrlp.vim interface|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4665)|
+|15|[@AtsushiM](https://github.com/AtsushiM)/[**sass-compile.vim**](https://github.com/AtsushiM/sass-compile.vim)|Add Sass compile & utility commands.||
 |15|[@MaxMEllon](https://github.com/MaxMEllon)/[**vim-jsx-pretty**](https://github.com/MaxMEllon/vim-jsx-pretty)|:flashlight: [VimL] React JSX syntax pretty highlighting for vim.||
 |15|[@haya14busa](https://github.com/haya14busa)/[**dotfiles**](https://github.com/haya14busa/dotfiles)|||
 |15|[@pepabo](https://github.com/pepabo)/[**sekigae2013**](https://github.com/pepabo/sekigae2013)|席替えスクリプト||
-|14|[@AtsushiM](https://github.com/AtsushiM)/[**sass-compile.vim**](https://github.com/AtsushiM/sass-compile.vim)|Add Sass compile & utility commands.||
 |14|[@Sixeight](https://github.com/Sixeight)/[**unite-grep**](https://github.com/Sixeight/unite-grep)|grep source for unite.vim||
 |14|[@cocopon](https://github.com/cocopon)/[**lightline-hybrid.v…**](https://github.com/cocopon/lightline-hybrid.vim)|Bring awesome color scheme 'hybrid' into lightline.vim||
 |14|[@glidenote](https://github.com/glidenote)/[**octoeditor.vim**](https://github.com/glidenote/octoeditor.vim)|vim for octopress||
@@ -343,6 +343,7 @@
 |5|[@ursm](https://github.com/ursm)/[**config**](https://github.com/ursm/config)|||
 |5|[@yosssi](https://github.com/yosssi)/[**vim-gcss**](https://github.com/yosssi/vim-gcss)|Vim syntax highlighting for GCSS||
 |5|[@zaki](https://github.com/zaki)/[**zazen**](https://github.com/zaki/zazen)|zazen vim color scheme (a personalized version of zenesque)|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3413)|
+|4|[@Code-Hex](https://github.com/Code-Hex)/[**dotfiles**](https://github.com/Code-Hex/dotfiles)|大事なdotを管理してます:+1:||
 |4|[@MaxMEllon](https://github.com/MaxMEllon)/[**vim-tmng**](https://github.com/MaxMEllon/vim-tmng)|:flashlight: [VimL] tmng format to highlight for vim ||
 |4|[@Sixeight](https://github.com/Sixeight)/[**mode-vim**](https://github.com/Sixeight/mode-vim)|TDD mode control script for vim||
 |4|[@b4b4r07](https://github.com/b4b4r07)/[**vim-autocdls**](https://github.com/b4b4r07/vim-autocdls)|:paw_prints: A Vim plugin to run shell like ls command after :cd, :lcd and so on||
@@ -394,6 +395,8 @@
 |3|[@8maki](https://github.com/8maki)/[**.vim**](https://github.com/8maki/.vim)|management my .vim||
 |3|[@AtsushiM](https://github.com/AtsushiM)/[**RetinaResize**](https://github.com/AtsushiM/RetinaResize)|Retinaディスプレイ対応として、 html,cssのプロパティを1/2に指定する作業は何度も発生します。このプラグインを導入すれば、それらの数値の上でコマンドを実行するだけで1/2にした数値に書き換えを行えます。||
 |3|[@AtsushiM](https://github.com/AtsushiM)/[**grunt-default.vim**](https://github.com/AtsushiM/grunt-default.vim)|grunt.js utility.||
+|3|[@DeaR](https://github.com/DeaR)/[**vim-tabpagebuffer-…**](https://github.com/DeaR/vim-tabpagebuffer-misc)|To control the buffer belonging to the tab page||
+|3|[@JugglerShu](https://github.com/JugglerShu)/[**dotfiles**](https://github.com/JugglerShu/dotfiles)|My dotfiles||
 |3|[@Kuniwak](https://github.com/Kuniwak)/[**dotfiles**](https://github.com/Kuniwak/dotfiles)|My dotfiles.||
 |3|[@Kuniwak](https://github.com/Kuniwak)/[**vim-qrcode**](https://github.com/Kuniwak/vim-qrcode)|VIM meets QR Code.||
 |3|[@aereal](https://github.com/aereal)/[**vim-magica-colors**](https://github.com/aereal/vim-magica-colors)|null||

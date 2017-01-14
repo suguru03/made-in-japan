@@ -9,11 +9,11 @@
 |18|[@ikegami-yukino](https://github.com/ikegami-yukino)/[**misc**](https://github.com/ikegami-yukino/misc)|Machine Learning / Randomized Algorithm and more||
 |13|[@c-bata](https://github.com/c-bata)/[**datascience-notebo…**](https://github.com/c-bata/datascience-notebook)|Data Science Notebooks in Python3||
 |12|[@chezou](https://github.com/chezou)/[**ibis-demo**](https://github.com/chezou/ibis-demo)|Demo notebook of Ibis for "Spark + Python + Dita science Festival"||
+|5|[@IanLewis](https://github.com/IanLewis)/[**tensorflow-example…**](https://github.com/IanLewis/tensorflow-examples)|Some Tensorflow examples and Jupyter notebooks||
 |5|[@grimrose](https://github.com/grimrose)/[**JJUG-CCC-2016-Spri…**](https://github.com/grimrose/JJUG-CCC-2016-Spring)|JJUG CCC 2016 Spring http://www.java-users.jp/?page_id=2377 #jjug_ccc #ccc_m61||
+|4|[@FCH808](https://github.com/FCH808)/[**Machine_Learning_E…**](https://github.com/FCH808/Machine_Learning_Engineer_Nanodegree)|Machine_Learning_Engineer_Nanodegree repo||
 |4|[@airtoxin](https://github.com/airtoxin)/[**ipython-animated-a…**](https://github.com/airtoxin/ipython-animated-array)|render animated array on ipython-notebook (jupyter)||
 |4|[@kasajei](https://github.com/kasajei)/[**PythonMachineLearn…**](https://github.com/kasajei/PythonMachineLearning)|PythonMachineLearningを学んでいこうと思います||
-|3|[@FCH808](https://github.com/FCH808)/[**Machine_Learning_E…**](https://github.com/FCH808/Machine_Learning_Engineer_Nanodegree)|Machine_Learning_Engineer_Nanodegree repo||
-|3|[@IanLewis](https://github.com/IanLewis)/[**tensorflow-example…**](https://github.com/IanLewis/tensorflow-examples)|Some Tensorflow examples and Jupyter notebooks||
 |3|[@domitry](https://github.com/domitry)/[**matascii**](https://github.com/domitry/matascii)|ASCII back-end for matplotlib||
 |3|[@domitry](https://github.com/domitry)/[**nyaplot-notebooks**](https://github.com/domitry/nyaplot-notebooks)|examples of nyaplot||
 |3|[@hagino3000](https://github.com/hagino3000)/[**notebooks**](https://github.com/hagino3000/notebooks)|My Jupyter notebooks||

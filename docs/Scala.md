@@ -73,6 +73,7 @@
 |10|[@taisukeoe](https://github.com/taisukeoe)/[**scalikejdbc-on-and…**](https://github.com/taisukeoe/scalikejdbc-on-android)|ScalikeJDBC demo on Android SQLite.||
 |10|[@tototoshi](https://github.com/tototoshi)/[**scala-base64**](https://github.com/tototoshi/scala-base64)|BASE64エンコーダ||
 |10|[@ymnk](https://github.com/ymnk)/[**websocket-in-scala…**](https://github.com/ymnk/websocket-in-scala)|||
+|9|[@AKB428](https://github.com/AKB428)/[**inazuma**](https://github.com/AKB428/inazuma)|spark + kuromoji + d3.js = 誰でも簡単できる「つぶやきビッグデータ」||
 |9|[@Lewuathe](https://github.com/Lewuathe)/[**dllib**](https://github.com/Lewuathe/dllib)|dllib is a deep learning module running on Apache Spark||
 |9|[@akiomik](https://github.com/akiomik)/[**stanford-corenlp-s…**](https://github.com/akiomik/stanford-corenlp-server)|Scala JSON-RPC server for Stanford CoreNLP||
 |9|[@haruyama](https://github.com/haruyama)/[**ssh_client_sample**](https://github.com/haruyama/ssh_client_sample)|SSH Client Sample|[:arrow_upper_right:](http://wiki.livedoor.jp/haruyama_seigo/d/ssh/SSH%a5%d7%a5%ed%a5%c8%a5%b3%a5%eb%b3%b5%cd%d7)|
@@ -83,7 +84,7 @@
 |9|[@tototoshi](https://github.com/tototoshi)/[**play-reactjs-examp…**](https://github.com/tototoshi/play-reactjs-example)|Simple Twitter App with Play2 and React.js||
 |9|[@tototoshi](https://github.com/tototoshi)/[**scala-base62**](https://github.com/tototoshi/scala-base62)|Base62 encode/decoder for Scala||
 |9|[@yasuoza](https://github.com/yasuoza)/[**play2-redis**](https://github.com/yasuoza/play2-redis)|Redis store plugin for play framework 2.1||
-|8|[@AKB428](https://github.com/AKB428)/[**inazuma**](https://github.com/AKB428/inazuma)|spark + kuromoji + d3.js = 誰でも簡単できる「つぶやきビッグデータ」||
+|8|[@193s](https://github.com/193s)/[**margn**](https://github.com/193s/margn)|JVM-based scripting language||
 |8|[@everpeace](https://github.com/everpeace)/[**scalamata**](https://github.com/everpeace/scalamata)|Automata in Scala|[:arrow_upper_right:](https://github.com/everpeace/scalamata)|
 |8|[@lloydmeta](https://github.com/lloydmeta)/[**sbt-opencv**](https://github.com/lloydmeta/sbt-opencv)|Start using OpenCV in your JVM project in just 1 line, no separate compiling, installing OpenCV, or fussing with your system required.||
 |8|[@okomok](https://github.com/okomok)/[**ken**](https://github.com/okomok/ken)|DSL like Haskell in Scala (toy)||

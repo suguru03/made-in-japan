@@ -123,6 +123,8 @@
 |9|[@noraesae](https://github.com/noraesae)/[**party-hard**](https://github.com/noraesae/party-hard)|Yet another useless Atom package to literally *party hard*|[:arrow_upper_right:](https://atom.io/packages/party-hard)|
 |9|[@shiwano](https://github.com/shiwano)/[**2ch**](https://github.com/shiwano/2ch)|A JavaScript library for comfortable 2ch watching.||
 |9|[@tsuyoshiwada](https://github.com/tsuyoshiwada)/[**sequential-number**](https://github.com/tsuyoshiwada/sequential-number)|An Atom package, to inputs sequential numbers across multiple cursors.|[:arrow_upper_right:](https://atom.io/packages/sequential-number)|
+|8|[@59naga](https://github.com/59naga)/[**jaggy**](https://github.com/59naga/jaggy)|Keep the sharpness for Pixel-Art.||
+|8|[@59naga](https://github.com/59naga)/[**pixel**](https://github.com/59naga/pixel)|Parse file to ImageData in cross-platform||
 |8|[@aki77](https://github.com/aki77)/[**atom-source-previe…**](https://github.com/aki77/atom-source-preview)|Source Preview for Atom|[:arrow_upper_right:](https://atom.io/packages/source-preview)|
 |8|[@ashchan](https://github.com/ashchan)/[**japanese-coffee-ki…**](https://github.com/ashchan/japanese-coffee-kit)|Tools for Japanese romanization, verb deinflection, etc.||
 |8|[@bouzuya](https://github.com/bouzuya)/[**hubot-lgtm**](https://github.com/bouzuya/hubot-lgtm)|A Hubot script for fetching an image from www.lgtm.in||
@@ -147,8 +149,7 @@
 |8|[@t9md](https://github.com/t9md)/[**atom-open-this**](https://github.com/t9md/atom-open-this)|Open file under cursor like `gf`(Vim), `C-x C-f`(Emacs)|[:arrow_upper_right:](https://atom.io/packages/open-this)|
 |8|[@tuvistavie](https://github.com/tuvistavie)/[**node-git-cli**](https://github.com/tuvistavie/node-git-cli)|Simple CLI like git interface for Node.|[:arrow_upper_right:](https://www.npmjs.org/package/git-cli)|
 |8|[@ympbyc](https://github.com/ympbyc)/[**coffeehack**](https://github.com/ympbyc/coffeehack)|nethack-like game in browser. writing from scratch.||
-|7|[@59naga](https://github.com/59naga)/[**jaggy**](https://github.com/59naga/jaggy)|Keep the sharpness for Pixel-Art.||
-|7|[@59naga](https://github.com/59naga)/[**pixel**](https://github.com/59naga/pixel)|Parse file to ImageData in cross-platform||
+|7|[@59naga](https://github.com/59naga)/[**nicolive**](https://github.com/59naga/nicolive)|Command Line Comment Viewer||
 |7|[@Hypercubed](https://github.com/Hypercubed)/[**docpad-plugin-raw**](https://github.com/Hypercubed/docpad-plugin-raw)|Moved to |[:arrow_upper_right:](https://github.com/docpad/docpad-plugin-raw)|
 |7|[@aki77](https://github.com/aki77)/[**atom-clipboard-plu…**](https://github.com/aki77/atom-clipboard-plus)|Keeps your clipboard history.|[:arrow_upper_right:](https://atom.io/packages/clipboard-plus)|
 |7|[@cognitom](https://github.com/cognitom)/[**electron-starter**](https://github.com/cognitom/electron-starter)|Electron Sample Application||
@@ -164,7 +165,6 @@
 |7|[@uiureo](https://github.com/uiureo)/[**hubot-gyazo**](https://github.com/uiureo/hubot-gyazo)|hubot scripts for gyazo||
 |7|[@unasuke](https://github.com/unasuke)/[**do-not-use-atom**](https://github.com/unasuke/do-not-use-atom)|DO NOT USE ATOM! You should use vim or emacs. OK?||
 |7|[@uraway](https://github.com/uraway)/[**hatena-blog-and-fo…**](https://github.com/uraway/hatena-blog-and-fotolife)|This is the best way to POST / UPDATE / DELETE your Hatena Blog entry and upload an image to your fotolife from Atom Editor.|[:arrow_upper_right:](https://atom.io/packages/hatena-blog-and-fotolife)|
-|6|[@59naga](https://github.com/59naga)/[**nicolive**](https://github.com/59naga/nicolive)|Command Line Comment Viewer||
 |6|[@KOBA789](https://github.com/KOBA789)/[**regent**](https://github.com/KOBA789/regent)|Makes test case string from regex pattern.||
 |6|[@Sixeight](https://github.com/Sixeight)/[**douglas**](https://github.com/Sixeight/douglas)|the ghq interface for Atom.|[:arrow_upper_right:](https://atom.io/packages/douglas)|
 |6|[@Takazudo](https://github.com/Takazudo)/[**coffeeTutorial**](https://github.com/Takazudo/coffeeTutorial)|CoffeeScript examples|[:arrow_upper_right:](http://takazudo.github.com/coffeeTutorial/)|
@@ -272,7 +272,6 @@
 |3|[@59naga](https://github.com/59naga)/[**nicolive.io**](https://github.com/59naga/nicolive.io)|socket.io wrapper for live.nicovideo.jp||
 |3|[@59naga](https://github.com/59naga)/[**onefile**](https://github.com/59naga/onefile)|bower_components compressor||
 |3|[@59naga](https://github.com/59naga)/[**pixel-util**](https://github.com/59naga/pixel-util)|Utilities of pixel||
-|3|[@CALIL](https://github.com/CALIL)/[**Kanikama**](https://github.com/CALIL/Kanikama)|iBeacon based micro location library||
 |3|[@Layzie](https://github.com/Layzie)/[**md2conf-watcher**](https://github.com/Layzie/md2conf-watcher)|markdown2conflucence watcher command|[:arrow_upper_right:](https://npmjs.org/package/md2conf-watcher)|
 |3|[@Nodeclipse](https://github.com/Nodeclipse)/[**Bintray-Upload**](https://github.com/Nodeclipse/Bintray-Upload)|automate [Bintray](http://bintray.com) file upload for many files||
 |3|[@Takazudo](https://github.com/Takazudo)/[**EveEve**](https://github.com/Takazudo/EveEve)|event module||

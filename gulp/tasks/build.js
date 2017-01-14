@@ -67,10 +67,10 @@ function makeDocs(data) {
   // make list
   _.chain(info)
     .mapValues(str => {
-      return `|:star2: | Name | Description | 🌍|\n` +
-        `|---|---|---|---|\n` +
+      return '|:star2: | Name | Description | 🌍|\n' +
+        '|---|---|---|---|\n' +
         `${str}` +
-        `\n\n`;
+        '\n\n';
     })
     .forOwn((text, language) => {
       const filepath = path.resolve(__dirname, '../..', 'docs', `${language}.md`);

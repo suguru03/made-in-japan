@@ -379,7 +379,7 @@
 |12|[@ishida](https://github.com/ishida)/[**android-studio-pro…**](https://github.com/ishida/android-studio-project-with-lvl-sample)|Android Studio project sample with LVL (License Verification Library / play_licensing)||
 |12|[@isis](https://github.com/isis)/[**SpeechRecognizer-M…**](https://github.com/isis/SpeechRecognizer-Module)|Titanium Mobile Module for Android to use SpeechRecognizer API (support device installed multi languages)||
 |12|[@kaelaela](https://github.com/kaelaela)/[**FindNoUsages**](https://github.com/kaelaela/FindNoUsages)|An Intellij IDEA plugin.||
-|12|[@kenju](https://github.com/kenju)/[**FragmentLifecycleS…**](https://github.com/kenju/FragmentLifecycleSample)|null||
+|12|[@kenju](https://github.com/kenju)/[**FragmentLifecycleS…**](https://github.com/kenju/FragmentLifecycleSample)|||
 |12|[@ninjinkun](https://github.com/ninjinkun)/[**ScrollFullScreen**](https://github.com/ninjinkun/ScrollFullScreen)|Scroll to full screen for Android||
 |12|[@nokok](https://github.com/nokok)/[**TwitDuke**](https://github.com/nokok/TwitDuke)|Twitter client||
 |12|[@ryugoo](https://github.com/ryugoo)/[**design-support-lib…**](https://github.com/ryugoo/design-support-library-sample)|Small sample of Android Design Support Library|[:arrow_upper_right:](http://blog.384ta.com/android-design-support-library)|
@@ -479,11 +479,11 @@
 |8|[@taichi](https://github.com/taichi)/[**aptcombo**](https://github.com/taichi/aptcombo)|Doma2 + lombok + Dagger2 + HikariCP + JUnit4 + gradle + eclipse + siden||
 |8|[@thorikawa](https://github.com/thorikawa)/[**AndroidWearSampleJ…**](https://github.com/thorikawa/AndroidWearSampleJp)|||
 |8|[@tricreo](https://github.com/tricreo)/[**schema-generator**](https://github.com/tricreo/schema-generator)|DDDを採用して設計した簡単にスキーマを作成するためのツール。|[:arrow_upper_right:](http://earth.tricreo.jp/maven2-site/schema-generator/0.0.1/apidocs/index.html)|
-|7|[@KLab](https://github.com/KLab)/[**emlauncher-jenkins…**](https://github.com/KLab/emlauncher-jenkins-plugin)|null||
+|7|[@KLab](https://github.com/KLab)/[**emlauncher-jenkins…**](https://github.com/KLab/emlauncher-jenkins-plugin)|||
 |7|[@KLab](https://github.com/KLab)/[**iPhoroidUI-demo**](https://github.com/KLab/iPhoroidUI-demo)|KLab iPhoroid UI Demo|[:arrow_upper_right:](http://lab.klab.org/young/2012/02/iphoroid/)|
 |7|[@TakahikoKawasaki](https://github.com/TakahikoKawasaki)/[**Android-OpenGL-Fri…**](https://github.com/TakahikoKawasaki/Android-OpenGL-Friendly-API)|||
 |7|[@antonyt](https://github.com/antonyt)/[**CoveredImageView**](https://github.com/antonyt/CoveredImageView)|http://stackoverflow.com/questions/13860780/animate-imageview-width-without-scaling/13917048||
-|7|[@choplin](https://github.com/choplin)/[**embulk-output-parq…**](https://github.com/choplin/embulk-output-parquet)|null||
+|7|[@choplin](https://github.com/choplin)/[**embulk-output-parq…**](https://github.com/choplin/embulk-output-parquet)|||
 |7|[@codelibs](https://github.com/codelibs)/[**elasticsearch-anal…**](https://github.com/codelibs/elasticsearch-analysis-synonym)|NGramSynonymTokenizer for Elasticsearch||
 |7|[@codelibs](https://github.com/codelibs)/[**sastruts-html5**](https://github.com/codelibs/sastruts-html5)|||
 |7|[@defeatedcrow](https://github.com/defeatedcrow)/[**AppleMilkTea_1.6.X…**](https://github.com/defeatedcrow/AppleMilkTea_1.6.X)|AppleMIlkTea Mod for Minecraft 1.6.X||
@@ -638,7 +638,7 @@
 |5|[@nobuoka](https://github.com/nobuoka)/[**ComponentsRecycler…**](https://github.com/nobuoka/ComponentsRecyclerAdapter)|This library provides `ComponentsRecyclerAdapter`, the subclass of `RecyclerView.Adapter`. Using it, you can easily create RecyclerView with multiple view types, or with complex data hierarchy (e.g. list composed of multiple sublists, list having “read more" buttons or progress bars, etc.).|[:arrow_upper_right:](https://bintray.com/nobuoka/maven/components-recycler-adapter/view)|
 |5|[@nobuoka](https://github.com/nobuoka)/[**android-sample-Pre…**](https://github.com/nobuoka/android-sample-PreferenceActivityUITestWithEspresso)|||
 |5|[@nowelium](https://github.com/nowelium)/[**TiMob-Module-Andro…**](https://github.com/nowelium/TiMob-Module-Android-Thumbnail)|android thumbnail module||
-|5|[@numa08](https://github.com/numa08)/[**Android-testing-bo…**](https://github.com/numa08/Android-testing-bootcamp-3)|null||
+|5|[@numa08](https://github.com/numa08)/[**Android-testing-bo…**](https://github.com/numa08/Android-testing-bootcamp-3)|||
 |5|[@philipperemy](https://github.com/philipperemy)/[**Leboncoin**](https://github.com/philipperemy/Leboncoin)|Management of small ads (editing, publishing, deleting, re-publishing)||
 |5|[@rinrinne](https://github.com/rinrinne)/[**gerrit-rabbitmq-pl…**](https://github.com/rinrinne/gerrit-rabbitmq-plugin)|Development by owner was freezed. Please contact me if you want to get ownership or you want to continue development on your forked public repository.||
 |5|[@s-aska](https://github.com/s-aska)/[**Justaway-for-Andro…**](https://github.com/s-aska/Justaway-for-Android-Original)|Lightweight Twitter Client for Android|[:arrow_upper_right:](http://justaway.info/)|
@@ -649,7 +649,7 @@
 |5|[@shuhei](https://github.com/shuhei)/[**Rectify**](https://github.com/shuhei/Rectify)|[WIP] A sample Android application that performs perspective correction||
 |5|[@studio-ousia](https://github.com/studio-ousia)/[**linkify-sample-and…**](https://github.com/studio-ousia/linkify-sample-android)|A sample application of Linkify for Android|[:arrow_upper_right:](http://www.linkify.mobi)|
 |5|[@sugarsweetrobotics](https://github.com/sugarsweetrobotics)/[**astaros**](https://github.com/sugarsweetrobotics/astaros)|astah ROS (robot operating system) plugin (this allows to export ROS system from astah-sysml diagram)||
-|5|[@supermomonga](https://github.com/supermomonga)/[**rukkit**](https://github.com/supermomonga/rukkit)|null||
+|5|[@supermomonga](https://github.com/supermomonga)/[**rukkit**](https://github.com/supermomonga/rukkit)|||
 |5|[@sys1yagi](https://github.com/sys1yagi)/[**DropboxPrintServic…**](https://github.com/sys1yagi/DropboxPrintService)|kitkat!||
 |5|[@sys1yagi](https://github.com/sys1yagi)/[**PrintingFrameworkS…**](https://github.com/sys1yagi/PrintingFrameworkSample)|Android 4.4 Kitat!||
 |5|[@taichi](https://github.com/taichi)/[**joa**](https://github.com/taichi/joa)|analyze jvm options from openJDK||
@@ -770,7 +770,7 @@
 |4|[@shuji](https://github.com/shuji)/[**demo-refactering-u…**](https://github.com/shuji/demo-refactering-unittest)|JJUG CCC 2012 fall「テストコードのリファクタリング」で使ったサンプルコード|[:arrow_upper_right:](http://www.java-users.jp/?page_id=94#r3-3)|
 |4|[@shunirr](https://github.com/shunirr)/[**allegro**](https://github.com/shunirr/allegro)|apk install manager for debug and development.|[:arrow_upper_right:](https://github.com/shunirr/allegro)|
 |4|[@shunirr](https://github.com/shunirr)/[**android-grist-view…**](https://github.com/shunirr/android-grist-view)|名状しがたい GridView のようなもの|[:arrow_upper_right:](http://s5r.jp)|
-|4|[@sideroad](https://github.com/sideroad)/[**selenium-qunit-ada…**](https://github.com/sideroad/selenium-qunit-adapter)|null||
+|4|[@sideroad](https://github.com/sideroad)/[**selenium-qunit-ada…**](https://github.com/sideroad/selenium-qunit-adapter)|||
 |4|[@sifue](https://github.com/sifue)/[**ff14repbouyomi**](https://github.com/sifue/ff14repbouyomi)|FF14Repの出力ログを棒読みちゃんで読み上げさせるツール||
 |4|[@sinmetal](https://github.com/sinmetal)/[**gaejava_handson**](https://github.com/sinmetal/gaejava_handson)|||
 |4|[@sue445](https://github.com/sue445)/[**s3tiger**](https://github.com/sue445/s3tiger)|"S3 Tiger" is test utility for Slim3|[:arrow_upper_right:](http://www.sue445.bet/)|
@@ -807,7 +807,7 @@
 |4|[@yoggy](https://github.com/yoggy)/[**p5_remote**](https://github.com/yoggy/p5_remote)|p5_remote is simple remote display library for Processing, like AirPlay, Miracast...||
 |4|[@yoichiro](https://github.com/yoichiro)/[**mixiAndroidSDKWrap…**](https://github.com/yoichiro/mixiAndroidSDKWrapperTest)|このプロジェクトは、mixi API SDK for Android(TM) をより便利に利用できるように機能拡張を行う ためのプロジェクトである「mixiAndroidSDKWrapper」のテストプロジェクトです。|[:arrow_upper_right:](https://github.com/yoichiro/mixiAndroidSDKWrapper)|
 |4|[@ypresto](https://github.com/ypresto)/[**RecyclerView-Absol…**](https://github.com/ypresto/RecyclerView-AbsoluteLayoutManager)|Implement RecyclerView custom layout as easy as UICollectionViewLayout.||
-|4|[@yusuke](https://github.com/yusuke)/[**java7grammar**](https://github.com/yusuke/java7grammar)|null||
+|4|[@yusuke](https://github.com/yusuke)/[**java7grammar**](https://github.com/yusuke/java7grammar)|||
 |4|[@yusuke](https://github.com/yusuke)/[**kagechiyo**](https://github.com/yusuke/kagechiyo)|Twitter Bot base||
 |4|[@zaki50](https://github.com/zaki50)/[**ListUsbDevices**](https://github.com/zaki50/ListUsbDevices)|||
 |4|[@zaki50](https://github.com/zaki50)/[**StickyShortcut**](https://github.com/zaki50/StickyShortcut)|||
@@ -892,7 +892,7 @@
 |3|[@ksoichiro](https://github.com/ksoichiro)/[**android-snippets**](https://github.com/ksoichiro/android-snippets)|Snippet codes for Android apps.||
 |3|[@kui](https://github.com/kui)/[**LastfmRadio**](https://github.com/kui/LastfmRadio)|a LastFM radio client||
 |3|[@kumabuchi](https://github.com/kumabuchi)/[**NewsRecommendation…**](https://github.com/kumabuchi/NewsRecommendation)|News Recommendation Program using TF-IDF||
-|3|[@laysakura](https://github.com/laysakura)/[**Java-mangling-prob…**](https://github.com/laysakura/Java-mangling-problem-when-calling-from-Scala)|null||
+|3|[@laysakura](https://github.com/laysakura)/[**Java-mangling-prob…**](https://github.com/laysakura/Java-mangling-problem-when-calling-from-Scala)|||
 |3|[@lbtc-xxx](https://github.com/lbtc-xxx)/[**arquillian-ear**](https://github.com/lbtc-xxx/arquillian-ear)|Arquillian EJB-JAR/EAR testing example|[:arrow_upper_right:](http://www.nailedtothex.org/roller/kyle/entry/arquillian-ejb-jar-ear-testing)|
 |3|[@lipoyang](https://github.com/lipoyang)/[**BluePropo**](https://github.com/lipoyang/BluePropo)|BluetoothのSPPを使ったAndroid用ラジコンプロポアプリ、およびArduino用スケッチ||
 |3|[@macc704](https://github.com/macc704)/[**KBDeX**](https://github.com/macc704/KBDeX)|||
@@ -982,7 +982,7 @@ This plug-in, can preview the contents of the template.||
 |3|[@withgod](https://github.com/withgod)/[**java-Mention2Lingr…**](https://github.com/withgod/java-Mention2Lingr)|||
 |3|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiAudioRecorder**](https://github.com/yagitoshiro/TiAudioRecorder)|Audio Recorder for Titanium Mobile (Android)||
 |3|[@yagitoshiro](https://github.com/yagitoshiro)/[**tiaudiomanager**](https://github.com/yagitoshiro/tiaudiomanager)|||
-|3|[@yoggy](https://github.com/yoggy)/[**ColorPickerCamera**](https://github.com/yoggy/ColorPickerCamera)|null||
+|3|[@yoggy](https://github.com/yoggy)/[**ColorPickerCamera**](https://github.com/yoggy/ColorPickerCamera)|||
 |3|[@yoggy](https://github.com/yoggy)/[**SimpleMQTTViewer**](https://github.com/yoggy/SimpleMQTTViewer)|||
 |3|[@yoggy](https://github.com/yoggy)/[**p5_qx10**](https://github.com/yoggy/p5_qx10)|Sony DSC-QX10 remote control library for Processsing.||
 |3|[@yoggy](https://github.com/yoggy)/[**simplepinboard**](https://github.com/yoggy/simplepinboard)|SimplePinboard is an application for pinboard.in.|[:arrow_upper_right:](https://market.android.com/search?q=net.sabamiso.android.simplepinboard)|

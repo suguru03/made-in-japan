@@ -163,7 +163,7 @@
 |28|[@morizotter](https://github.com/morizotter)/[**xcmultilingual**](https://github.com/morizotter/xcmultilingual)|Command line tool for generating Swift localization complements.|[:arrow_upper_right:](https://rubygems.org/gems/xcmultilingual)|
 |28|[@novi](https://github.com/novi)/[**mecab-swift**](https://github.com/novi/mecab-swift)|MeCab(Japanese Morphological Analyzer) wrapper for Swift||
 |27|[@szk-atmosphere](https://github.com/szk-atmosphere)/[**SAWaveToast**](https://github.com/szk-atmosphere/SAWaveToast)|Show text with wave animated background and floating animation.||
-|26|[@1234224576](https://github.com/1234224576)/[**WheelSlider**](https://github.com/1234224576/WheelSlider)|null||
+|26|[@1234224576](https://github.com/1234224576)/[**WheelSlider**](https://github.com/1234224576/WheelSlider)|||
 |26|[@inamiy](https://github.com/inamiy)/[**Swizzle**](https://github.com/inamiy/Swizzle)|Method-Swizzling for Swift.||
 |26|[@koogawa](https://github.com/koogawa)/[**iSensorSwift**](https://github.com/koogawa/iSensorSwift)|Sense a lot of things. (Swift ver)||
 |26|[@masuhara](https://github.com/masuhara)/[**DMStoryboardHelper…**](https://github.com/masuhara/DMStoryboardHelper)|The helper to adjust Storyboards to any displays written in Swift.||
@@ -306,7 +306,7 @@
 |5|[@jollyjoester](https://github.com/jollyjoester)/[**SwiftTrial**](https://github.com/jollyjoester/SwiftTrial)|||
 |5|[@joshpc](https://github.com/joshpc)/[**ElasticPullToRefre…**](https://github.com/joshpc/ElasticPullToRefresh)|A pull to refresh control that has a simple, elegant spinner||
 |5|[@kaneshin](https://github.com/kaneshin)/[**EasyInstagramViewe…**](https://github.com/kaneshin/EasyInstagramViewer-Swift)|||
-|5|[@katryo](https://github.com/katryo)/[**Chorister**](https://github.com/katryo/Chorister)|null||
+|5|[@katryo](https://github.com/katryo)/[**Chorister**](https://github.com/katryo/Chorister)|||
 |5|[@manchan](https://github.com/manchan)/[**JinsMeme-Swift-Sam…**](https://github.com/manchan/JinsMeme-Swift-Sample)|Code examples for J!NS MEME Realtime data display.||
 |5|[@masanori840816](https://github.com/masanori840816)/[**PutYourRiceCakes**](https://github.com/masanori840816/PutYourRiceCakes)|Show a 3D object by SceneKit of iOS. and show camera view and get showing positions by OpenCV||
 |5|[@masuhara](https://github.com/masuhara)/[**DMTabbarSampler**](https://github.com/masuhara/DMTabbarSampler)|Basic UITabbar customize sample written in Swift.||
@@ -375,7 +375,7 @@
 |3|[@krimpedance](https://github.com/krimpedance)/[**KRActivityIndicato…**](https://github.com/krimpedance/KRActivityIndicator)|A simple and customizable activity indicator written in Swift2.||
 |3|[@ktsn](https://github.com/ktsn)/[**float-behind-osx**](https://github.com/ktsn/float-behind-osx)|||
 |3|[@kurotaky](https://github.com/kurotaky)/[**ShibuyaLunch**](https://github.com/kurotaky/ShibuyaLunch)|Yo||
-|3|[@marty-suzuki](https://github.com/marty-suzuki)/[**Connpass**](https://github.com/marty-suzuki/Connpass)|null||
+|3|[@marty-suzuki](https://github.com/marty-suzuki)/[**Connpass**](https://github.com/marty-suzuki/Connpass)|||
 |3|[@masuhara](https://github.com/masuhara)/[**AppAnnie-Sampler**](https://github.com/masuhara/AppAnnie-Sampler)|||
 |3|[@moongift](https://github.com/moongift)/[**NCMBiOSCamera**](https://github.com/moongift/NCMBiOSCamera)|ニフティクラウド mobile backendのファイルストアを使ったデモアプリです。||
 |3|[@moongift](https://github.com/moongift)/[**NCMBiOSTodo**](https://github.com/moongift/NCMBiOSTodo)|NCMBを使ったTodoアプリのデモです。||

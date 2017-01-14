@@ -227,12 +227,12 @@
 |5|[@hadashiA](https://github.com/hadashiA)/[**testkick**](https://github.com/hadashiA/testkick)|Emacs Lisp command that find the test code and run it.||
 |5|[@hakobe](https://github.com/hakobe)/[**dotfiles**](https://github.com/hakobe/dotfiles)|my new dotfiles||
 |5|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**mew-contrib**](https://github.com/kazu-yamamoto/mew-contrib)|Mew contribution||
-|5|[@kyanny](https://github.com/kyanny)/[**markdown-highlight…**](https://github.com/kyanny/markdown-highlight-mode)|null||
+|5|[@kyanny](https://github.com/kyanny)/[**markdown-highlight…**](https://github.com/kyanny/markdown-highlight-mode)|||
 |5|[@laysakura](https://github.com/laysakura)/[**doc-view-fit-to-pa…**](https://github.com/laysakura/doc-view-fit-to-page)|Fit-to-page extension for DocViewMode.|[:arrow_upper_right:](http://d.hatena.ne.jp/laysakura/)|
 |5|[@masui](https://github.com/masui)/[**DynamicMacro**](https://github.com/masui/DynamicMacro)|Predictive interface for Emacs||
 |5|[@masutaka](https://github.com/masutaka)/[**emacs-helm-hatena-…**](https://github.com/masutaka/emacs-helm-hatena-bookmark)|Hatena::Bookmark with helm interface||
 |5|[@mhayashi1120](https://github.com/mhayashi1120)/[**Emacs-shelldoc**](https://github.com/mhayashi1120/Emacs-shelldoc)|Shell command editing support with man page.||
-|5|[@mugijiru](https://github.com/mugijiru)/[**fuelphp-mode**](https://github.com/mugijiru/fuelphp-mode)|null||
+|5|[@mugijiru](https://github.com/mugijiru)/[**fuelphp-mode**](https://github.com/mugijiru/fuelphp-mode)|||
 |5|[@ongaeshi](https://github.com/ongaeshi)/[**emacs-brave**](https://github.com/ongaeshi/emacs-brave)|Modern Emacs distribution||
 |5|[@takaishi](https://github.com/takaishi)/[**.emacs.d**](https://github.com/takaishi/.emacs.d)|||
 |5|[@tarao](https://github.com/tarao)/[**term-plus-mux-el**](https://github.com/tarao/term-plus-mux-el)|A terminal multiplexer module for term+.el||
@@ -273,7 +273,7 @@
 |4|[@ponpoko1968](https://github.com/ponpoko1968)/[**auto-complete-swif…**](https://github.com/ponpoko1968/auto-complete-swift)|||
 |4|[@rust](https://github.com/rust)/[**dotemacs**](https://github.com/rust/dotemacs)|My emacs lisp files.||
 |4|[@shinnya](https://github.com/shinnya)/[**dotfiles**](https://github.com/shinnya/dotfiles)|My dotfiles.||
-|4|[@supermomonga](https://github.com/supermomonga)/[**dockerfile-emacs-d…**](https://github.com/supermomonga/dockerfile-emacs-daemon)|null||
+|4|[@supermomonga](https://github.com/supermomonga)/[**dockerfile-emacs-d…**](https://github.com/supermomonga/dockerfile-emacs-daemon)|||
 |4|[@takaishi](https://github.com/takaishi)/[**succor**](https://github.com/takaishi/succor)|Support your source reading life !||
 |4|[@tarao](https://github.com/tarao)/[**el-get-cli**](https://github.com/tarao/el-get-cli)|||
 |4|[@tarao](https://github.com/tarao)/[**key-intercept-el**](https://github.com/tarao/key-intercept-el)|||
@@ -315,7 +315,7 @@
 |3|[@narusemotoki](https://github.com/narusemotoki)/[**.emacs.d.old**](https://github.com/narusemotoki/.emacs.d.old)|Ubuntu14.04のEmacs24で使用している設定です。||
 |3|[@nyarla](https://github.com/nyarla)/[**config**](https://github.com/nyarla/config)|(OBSOLETED) This code is no longer maintaince: my dotfiles and configuration file repository||
 |3|[@ongaeshi](https://github.com/ongaeshi)/[**emacs-vim-region**](https://github.com/ongaeshi/emacs-vim-region)|Select region as vim||
-|3|[@seijiro](https://github.com/seijiro)/[**dotfiles**](https://github.com/seijiro/dotfiles)|null||
+|3|[@seijiro](https://github.com/seijiro)/[**dotfiles**](https://github.com/seijiro/dotfiles)|||
 |3|[@snj14](https://github.com/snj14)/[**active-region**](https://github.com/snj14/active-region)|emacs lisp||
 |3|[@tabe](https://github.com/tabe)/[**libo-basic-mode**](https://github.com/tabe/libo-basic-mode)|A major mode for editing LibreOffice/OpenOffice.org Basic programs|[:arrow_upper_right:](http://fixedpoint.jp/)|
 |3|[@takaishi](https://github.com/takaishi)/[**org-export-hatena**](https://github.com/takaishi/org-export-hatena)|org記法をはてな記法にexportする||

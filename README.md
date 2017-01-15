@@ -3,7 +3,7 @@
 > A list of cool projects in Japan. (This repo is inspired by [@IonicaBizau/made-in](https://github.com/IonicaBizau/made-in))
 
  
-## Top 10 (2017/01/15)
+## Top 10 Developers (2017/01/15)
 |Rank|Name|:star2:|
 |---|---|---|
 |1|[wasabeef](https://github.com/wasabeef)|33841|
@@ -17,9 +17,9 @@
 |9|[yyuu](https://github.com/yyuu)|6989|
 |10|[ksoichiro](https://github.com/ksoichiro)|6976|
 
---> [top 1000](https://github.com/suguru03/made-in-japan/blob/master/docs/rank.md)
+-> [Top 1000 Developers](https://github.com/suguru03/made-in-japan/blob/master/docs/rank.md)
  
-## Link
+## Languages
 |Rank|Language|:star2:|Number of Repositories|
 |---|---|---|---|
 |1|[JavaScript](https://github.com/suguru03/made-in-japan/blob/master/docs/JavaScript.md)|95018|2857|

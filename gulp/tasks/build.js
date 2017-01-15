@@ -95,17 +95,17 @@ function makeDocs(data) {
     .slice(0, limit)
     .reduce((result, { text }) => {
       return `${result}${text}`;
-    }, `${readme} \n## Top ${limit} (${nowStr})\n|Rank|Name|:star2:|\n|---|---|---|\n`)
+    }, `${readme} \n## Top ${limit} Developers (${nowStr})\n|Rank|Name|:star2:|\n|---|---|---|\n`)
     .value();
 
   // make top 1000
   const rankLimit = 1000;
-  readme += `\n--> [top 1000](${basePath}/blob/master/docs/rank.md)\n`;
+  readme += `\n-> [Top 1000 Developers](${basePath}/blob/master/docs/rank.md)\n`;
   const rankDoc = _.chain(rankInfo)
     .slice(0, rankLimit)
     .reduce((result, { text }) => {
       return `${result}${text}`;
-    }, `## Top ${rankLimit} (${nowStr})\n\n|Rank|Name|:star2:|\n|---|---|---|\n`)
+    }, `## Top ${rankLimit} Developers (${nowStr})\n\n|Rank|Name|:star2:|\n|---|---|---|\n`)
     .value();
   const rankpath = path.resolve(__dirname, '../..', 'docs', 'rank.md');
   fs.writeFileSync(rankpath, rankDoc, 'utf8');
@@ -132,7 +132,7 @@ function makeDocs(data) {
         prevStars = stars;
       }
       return `${result}|${rank}${text}`;
-    }, `${readme} \n## Link\n|Rank|Language|:star2:|Number of Repositories|\n|---|---|---|---|\n`)
+    }, `${readme} \n## Languages\n|Rank|Language|:star2:|Number of Repositories|\n|---|---|---|---|\n`)
     .value();
 
   // make list

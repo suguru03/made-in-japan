@@ -100,12 +100,12 @@ function makeDocs(data) {
 
   // make top 1000
   const rankLimit = 1000;
-  readme += `\n[rank](${basePath}/blob/master/docs/rank.md)\n`;
+  readme += `\n--> [top 1000](${basePath}/blob/master/docs/rank.md)\n`;
   const rankDoc = _.chain(rankInfo)
     .slice(0, rankLimit)
     .reduce((result, { text }) => {
       return `${result}${text}`;
-    }, `## Top ${rankLimit} (${nowStr})\n\n|Rank|Name|:star2:|---|\n`)
+    }, `## Top ${rankLimit} (${nowStr})\n\n|Rank|Name|:star2:|\n|---|---|---|\n`)
     .value();
   const rankpath = path.resolve(__dirname, '../..', 'docs', 'rank.md');
   fs.writeFileSync(rankpath, rankDoc, 'utf8');

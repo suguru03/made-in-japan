@@ -17,7 +17,7 @@
 |9|[yyuu](https://github.com/yyuu)|6989|
 |10|[ksoichiro](https://github.com/ksoichiro)|6976|
 
-[rank](https://github.com/suguru03/made-in-japan/blob/master/docs/rank.md)
+--> [top 1000](https://github.com/suguru03/made-in-japan/blob/master/docs/rank.md)
  
 ## Link
  - [AGS Script](https://github.com/suguru03/made-in-japan/blob/master/docs/AGS Script.md)

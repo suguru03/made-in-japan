@@ -1,6 +1,7 @@
 ## Top 1000 (2017/01/15)
 
-|Rank|Name|:star2:|---|
+|Rank|Name|:star2:|
+|---|---|---|
 |1|[wasabeef](https://github.com/wasabeef)|33841|
 |2|[onevcat](https://github.com/onevcat)|19197|
 |3|[shu223](https://github.com/shu223)|18599|

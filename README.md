@@ -4,18 +4,20 @@
 
  
 ## Top 10 (2017/01/15)
-|Name|:star2:|
-|---|---|
-|[wasabeef](https://github.com/wasabeef)|33841|
-|[onevcat](https://github.com/onevcat)|19197|
-|[shu223](https://github.com/shu223)|18599|
-|[mattn](https://github.com/mattn)|12461|
-|[amatsuda](https://github.com/amatsuda)|10155|
-|[cjwirth](https://github.com/cjwirth)|9305|
-|[kishikawakatsumi](https://github.com/kishikawakatsumi)|9214|
-|[nagadomi](https://github.com/nagadomi)|7215|
-|[yyuu](https://github.com/yyuu)|6989|
-|[ksoichiro](https://github.com/ksoichiro)|6976|
+|Rank|Name|:star2:|
+|---|---|---|
+|1|[wasabeef](https://github.com/wasabeef)|33841|
+|2|[onevcat](https://github.com/onevcat)|19197|
+|3|[shu223](https://github.com/shu223)|18599|
+|4|[mattn](https://github.com/mattn)|12461|
+|5|[amatsuda](https://github.com/amatsuda)|10155|
+|6|[cjwirth](https://github.com/cjwirth)|9305|
+|7|[kishikawakatsumi](https://github.com/kishikawakatsumi)|9214|
+|8|[nagadomi](https://github.com/nagadomi)|7215|
+|9|[yyuu](https://github.com/yyuu)|6989|
+|10|[ksoichiro](https://github.com/ksoichiro)|6976|
+
+[rank](https://github.com/suguru03/made-in-japan/blob/master/docs/rank.md)
  
 ## Link
  - [AGS Script](https://github.com/suguru03/made-in-japan/blob/master/docs/AGS Script.md)

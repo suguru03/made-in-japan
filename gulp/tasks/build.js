@@ -40,15 +40,25 @@ function makeDocs(data) {
     .reverse()
     .value();
 
-  const limit = 10;
+  let prevRank;
+  let prevStars;
   const rankInfo = _.chain(info)
     .transform((result, { owner, stars }) => {
       const { login: name } = owner;
       const info = result[name] = result[name] || { name, stars: 0 };
       info.stars += stars;
     }, {})
-    .orderBy('stars', 'desc')
-    .slice(0, limit)
+    .orderBy(['stars', 'name'], ['desc', 'asc'])
+    .map(({ name, stars }, rank) => {
+      if (stars === prevStars) {
+        rank = prevRank;
+      } else {
+        prevRank = ++rank;
+        prevStars = stars;
+      }
+      const text = `|${rank}|[${name}](https://github.com/${name})|${stars}|\n`;
+      return { rank, name, stars, text };
+    })
     .value();
 
   const linkInfo = _.chain(info)
@@ -73,24 +83,38 @@ function makeDocs(data) {
   const readmePath = path.resolve(__dirname, '../../', 'README.md');
   let readme = fs.readFileSync(tempPath, 'utf8');
 
-  // make top ${limit}
+  // make top 10
+  const limit = 10;
   const now = new Date();
   const month = (now.getMonth() + 1);
   const date = now.getDate();
   const monthStr = (month / 10 | 0 ? '' : '0') + month;
   const dateStr = (date / 10 | 0 ? '' : '0') + date;
   const nowStr = `${now.getFullYear()}/${monthStr}/${dateStr}`;
-  readme = _.reduce(rankInfo, (result, { name, stars }) => {
-    return `${result}|[${name}](https://github.com/${name})|${stars}|\n`;
-  }, `${readme} \n## Top ${limit} (${nowStr})\n|Name|:star2:|\n|---|---|\n`);
+  readme = _.chain(rankInfo)
+    .slice(0, limit)
+    .reduce((result, { text }) => {
+      return `${result}${text}`;
+    }, `${readme} \n## Top ${limit} (${nowStr})\n|Rank|Name|:star2:|\n|---|---|---|\n`)
+    .value();
+
+  // make top 1000
+  const rankLimit = 1000;
+  readme += `\n[rank](${basePath}/blob/master/docs/rank.md)\n`;
+  const rankDoc = _.chain(rankInfo)
+    .slice(0, rankLimit)
+    .reduce((result, { text }) => {
+      return `${result}${text}`;
+    }, `## Top ${rankLimit} (${nowStr})\n\n|Rank|Name|:star2:|---|\n`)
+    .value();
+  const rankpath = path.resolve(__dirname, '../..', 'docs', 'rank.md');
+  fs.writeFileSync(rankpath, rankDoc, 'utf8');
 
   // make link
   readme = _.reduce(linkInfo, (result, str, language) => {
     let link = `${basePath}/blob/master/docs/${language}.md`;
     return `${result} - [${language}](${link})\n`;
   }, `${readme} \n## Link\n`);
-
-
 
   // make list
   _.chain(linkInfo)

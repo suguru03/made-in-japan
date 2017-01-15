@@ -71,10 +71,10 @@ function makeDocs(data) {
         .map(r => {
           const name = r.name.length >= 18 ? r.name.slice(0, 18) + '…' : r.name;
           const homepage = r.homepage ? `[:arrow_upper_right:](${r.homepage})` : '';
-          return `|${r.stars}|[@${r.owner.login}](${r.owner.html_url})/[**${name}**](${r.html_url})|${r.desc}|${homepage}|`;
+          r.str = `|${r.stars}|[@${r.owner.login}](${r.owner.html_url})/[**${name}**](${r.html_url})|${r.desc}|${homepage}|`;
+          return r;
         })
-        .value()
-        .join('\n');
+        .value();
     })
     .value();
 
@@ -111,14 +111,34 @@ function makeDocs(data) {
   fs.writeFileSync(rankpath, rankDoc, 'utf8');
 
   // make link
-  readme = _.reduce(linkInfo, (result, str, language) => {
-    let link = `${basePath}/blob/master/docs/${language}.md`;
-    return `${result} - [${language}](${link})\n`;
-  }, `${readme} \n## Link\n`);
+  prevRank = undefined;
+  prevStars = undefined;
+  readme = _.chain(linkInfo)
+    .map((info, language) => {
+      const link = `${basePath}/blob/master/docs/${language}.md`;
+      const stars = _.chain(info)
+        .map('stars')
+        .sum()
+        .value();
+      const text = `|[${language}](${link})|${stars}|${_.size(info)}|\n`;
+      return { language, link, stars, text };
+    })
+    .orderBy(['stars', 'language'], ['desc', 'asc'])
+    .reduce((result, { language, stars, text }, rank) => {
+      if (stars === prevStars) {
+        rank = prevRank;
+      } else {
+        prevRank = ++rank;
+        prevStars = stars;
+      }
+      return `${result}|${rank}${text}`;
+    }, `${readme} \n## Link\n|Rank|Language|:star2:|Number of Repositories|\n|---|---|---|---|\n`)
+    .value();
 
   // make list
   _.chain(linkInfo)
-    .mapValues(str => {
+    .mapValues(info => {
+      const str = _.map(info, 'str').join('\n');
       return '|:star2: | Name | Description | 🌍|\n' +
         '|---|---|---|---|\n' +
         `${str}` +

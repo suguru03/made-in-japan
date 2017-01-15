@@ -38,6 +38,20 @@ function makeDocs(data) {
     })
     .sortBy(['owner.login', 'name'])
     .reverse()
+    .value();
+
+  const limit = 10;
+  const rankInfo = _.chain(info)
+    .transform((result, { owner, stars }) => {
+      const { login: name } = owner;
+      const info = result[name] = result[name] || { name, stars: 0 };
+      info.stars += stars;
+    }, {})
+    .orderBy('stars', 'desc')
+    .slice(0, limit)
+    .value();
+
+  const linkInfo = _.chain(info)
     .sortBy('language')
     .groupBy('language')
     .mapValues(repos => {
@@ -58,14 +72,28 @@ function makeDocs(data) {
   const tempPath = path.resolve(__dirname, '..', 'templete.md');
   const readmePath = path.resolve(__dirname, '../../', 'README.md');
   let readme = fs.readFileSync(tempPath, 'utf8');
+
+  // make top ${limit}
+  const now = new Date();
+  const month = (now.getMonth() + 1);
+  const date = now.getDate();
+  const monthStr = (month / 10 | 0 ? '' : '0') + month;
+  const dateStr = (date / 10 | 0 ? '' : '0') + date;
+  const nowStr = `${now.getFullYear()}/${monthStr}/${dateStr}`;
+  readme = _.reduce(rankInfo, (result, { name, stars }) => {
+    return `${result}|[${name}](https://github.com/${name})|${stars}|\n`;
+  }, `${readme} \n## Top ${limit} (${nowStr})\n|Name|:star2:|\n|---|---|\n`);
+
   // make link
-  readme = _.reduce(info, (result, str, language) => {
+  readme = _.reduce(linkInfo, (result, str, language) => {
     let link = `${basePath}/blob/master/docs/${language}.md`;
     return `${result} - [${language}](${link})\n`;
   }, `${readme} \n## Link\n`);
 
+
+
   // make list
-  _.chain(info)
+  _.chain(linkInfo)
     .mapValues(str => {
       return '|:star2: | Name | Description | 🌍|\n' +
         '|---|---|---|---|\n' +

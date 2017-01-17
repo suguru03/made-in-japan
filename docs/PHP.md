@@ -420,7 +420,6 @@
 |4|[@MASA-P](https://github.com/MASA-P)/[**lib3gk**](https://github.com/MASA-P/lib3gk)|Japanese mobile phone library for PHP|[:arrow_upper_right:](http://www.ktailibrary.org/)|
 |4|[@MagicalTux](https://github.com/MagicalTux)/[**mintchip**](https://github.com/MagicalTux/mintchip)|MintChip tests & code||
 |4|[@MagicalTux](https://github.com/MagicalTux)/[**pinetd2**](https://github.com/MagicalTux/pinetd2)|Portable Inet Daemon||
-|4|[@Ranyuen](https://github.com/Ranyuen)/[**Di**](https://github.com/Ranyuen/Di)|Annotation based simple DI & AOP at PHP.|[:arrow_upper_right:](https://packagist.org/packages/ranyuen/di)|
 |4|[@Sankame](https://github.com/Sankame)/[**ga-help**](https://github.com/Sankame/ga-help)|||
 |4|[@Tomvictor](https://github.com/Tomvictor)/[**flowershop**](https://github.com/Tomvictor/flowershop)|fully responsive mobile first design for a flower shop||
 |4|[@akiyan](https://github.com/akiyan)/[**php-checkpad-api**](https://github.com/akiyan/php-checkpad-api)||[:arrow_upper_right:](http://sites.google.com/a/akiyan.com/public/pear-services-checkpad)|
@@ -522,6 +521,7 @@
 |3|[@HiroKws](https://github.com/HiroKws)/[**laravel-checker**](https://github.com/HiroKws/laravel-checker)|Environment checker for Laravel PHP framewrok for version 3...||
 |3|[@HiroKws](https://github.com/HiroKws)/[**syncle**](https://github.com/HiroKws/syncle)|Laravel 4 deploy Artisan command by execute a command line.||
 |3|[@JohannesFischer](https://github.com/JohannesFischer)/[**adora-gallery**](https://github.com/JohannesFischer/adora-gallery)|work in progress||
+|3|[@Ranyuen](https://github.com/Ranyuen)/[**Di**](https://github.com/Ranyuen/Di)|Annotation based simple DI & AOP at PHP.|[:arrow_upper_right:](https://packagist.org/packages/ranyuen/di)|
 |3|[@Rokt33r](https://github.com/Rokt33r)/[**laravel-angular-jw…**](https://github.com/Rokt33r/laravel-angular-jwt-auth-example)|Laravel Tokyo LT #1 - Laravel x Angular アプリケーションでのJWT認証||
 |3|[@Tak0002](https://github.com/Tak0002)/[**eventshare**](https://github.com/Tak0002/eventshare)|興味あるタグをフォローしてイベントを共有できるSNSです||
 |3|[@YuzuruS](https://github.com/YuzuruS)/[**Markovchain**](https://github.com/YuzuruS/Markovchain)|MeCabを使用したマルコフ連鎖のPHPライブラリ||

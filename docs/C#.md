@@ -121,6 +121,7 @@
 |10|[@sugi-cho](https://github.com/sugi-cho)/[**Unity-GPU-Particle…**](https://github.com/sugi-cho/Unity-GPU-Particle)|gpu particle for unity||
 |10|[@tmyt](https://github.com/tmyt)/[**AmazingPullToRefre…**](https://github.com/tmyt/AmazingPullToRefresh)|Enables PullToRefresh to ListView, GridView, and more.||
 |10|[@ugaya40](https://github.com/ugaya40)/[**Livet2**](https://github.com/ugaya40/Livet2)|WPF4.6 MVVM Infrastructure||
+|9|[@Mazyod](https://github.com/Mazyod)/[**PhoenixSharp**](https://github.com/Mazyod/PhoenixSharp)|C# Phoenix Channels client. Unity Compatible.||
 |9|[@abarth500](https://github.com/abarth500)/[**websocket4net-exam…**](https://github.com/abarth500/websocket4net-example)|||
 |9|[@harujoh](https://github.com/harujoh)/[**Kelp.Net**](https://github.com/harujoh/Kelp.Net)|Kelp.NetはC#で実装された深層学習の学習用ライブラリです||
 |9|[@kazuki](https://github.com/kazuki)/[**httpserver**](https://github.com/kazuki/httpserver)|||
@@ -170,7 +171,6 @@
 |6|[@takeshik](https://github.com/takeshik)/[**metatweet-old**](https://github.com/takeshik/metatweet-old)|Hub system for micro-blog communication services|[:arrow_upper_right:](http://www.metatweet.org/)|
 |6|[@takezoux2](https://github.com/takezoux2)/[**unity-future**](https://github.com/takezoux2/unity-future)|Future implementation for unity.Support async programming.||
 |5|[@LeonAkasaka](https://github.com/LeonAkasaka)/[**PronamaSamples**](https://github.com/LeonAkasaka/PronamaSamples)|＼ばばーん／|[:arrow_upper_right:](http://pronama.github.io/mascot-apps-contest/2014/)|
-|5|[@LeonAkasaka](https://github.com/LeonAkasaka)/[**Vantan.PS14A**](https://github.com/LeonAkasaka/Vantan.PS14A)|||
 |5|[@Vaikesh](https://github.com/Vaikesh)/[**CustomKeyboard**](https://github.com/Vaikesh/CustomKeyboard)|Custom Keyboard created by Xamarin.Android.||
 |5|[@asus4](https://github.com/asus4)/[**UnityDiskSpacePlug…**](https://github.com/asus4/UnityDiskSpacePlugin)|return true disk space for iOS/Android||
 |5|[@atsushieno](https://github.com/atsushieno)/[**managed-midi**](https://github.com/atsushieno/managed-midi)|a set of managed code (C#) for MIDI processing||
@@ -200,6 +200,8 @@
 |4|[@GRGSIBERIA](https://github.com/GRGSIBERIA)/[**utf8-sjis-encoder**](https://github.com/GRGSIBERIA/utf8-sjis-encoder)|C#でSJIS-Unicodeの相互変換をするためのエンコーダです．SJISでの運用が前提で，なおかつGetEncoding(932)の使えない環境で幸せになれます．||
 |4|[@JakeJP](https://github.com/JakeJP)/[**FlashAir.NET**](https://github.com/JakeJP/FlashAir.NET)|||
 |4|[@Kintaro](https://github.com/Kintaro)/[**Hyperion**](https://github.com/Kintaro/Hyperion)|A managed raytracer based on pbrt v2|[:arrow_upper_right:](http://think-in-co.de)|
+|4|[@LeonAkasaka](https://github.com/LeonAkasaka)/[**Vantan.PS14A**](https://github.com/LeonAkasaka/Vantan.PS14A)|||
+|4|[@Siketyan](https://github.com/Siketyan)/[**osu-Player**](https://github.com/Siketyan/osu-Player)|リズムゲーム「osu!」の譜面に使用されている楽曲を一覧表示して、再生できるソフトウェアです。||
 |4|[@alfa-jpn](https://github.com/alfa-jpn)/[**UniDeferred**](https://github.com/alfa-jpn/UniDeferred)|JQuery.Deferred-like AsyncLibrary for Unity.||
 |4|[@amay077](https://github.com/amay077)/[**DroidKaigi2016Xama…**](https://github.com/amay077/DroidKaigi2016Xamarin)|DroidKaigi2016 アプリをこっそりXamarinに移植||
 |4|[@amay077](https://github.com/amay077)/[**XamarinAndroid_RxS…**](https://github.com/amay077/XamarinAndroid_RxSample)|Xamarin.Android で Reactive Extensions を使うサンプルです。||
@@ -242,6 +244,7 @@
 |3|[@KLab](https://github.com/KLab)/[**DotNetZip**](https://github.com/KLab/DotNetZip)|Forked from http://dotnetzip.codeplex.com/ (Compact Framework only) for using in the Unity iOS/Android platform.||
 |3|[@Kintaro](https://github.com/Kintaro)/[**Art**](https://github.com/Kintaro/Art)|Async Ray Tracer|[:arrow_upper_right:](http://github.com/Kintaro/Art)|
 |3|[@LeonAkasaka](https://github.com/LeonAkasaka)/[**Vantan.PS14B**](https://github.com/LeonAkasaka/Vantan.PS14B)|||
+|3|[@Siketyan](https://github.com/Siketyan)/[**Screenshotter**](https://github.com/Siketyan/Screenshotter)|Windows標準のSnipping Tool風にスクリーンショットを取得し、メッセージとともにツイートします。||
 |3|[@Tsutomu-KKE](https://github.com/Tsutomu-KKE)/[**SpeechTest**](https://github.com/Tsutomu-KKE/SpeechTest)|無料でできる音声合成のやり方を紹介||
 |3|[@Vaikesh](https://github.com/Vaikesh)/[**Face_Detection_Xam…**](https://github.com/Vaikesh/Face_Detection_Xamarin.Android)|A small application to take a picture using camera and process that image to identify the faces in the corresponding image.||
 |3|[@akuukka](https://github.com/akuukka)/[**ExpressionSolver**](https://github.com/akuukka/ExpressionSolver)|A C# mathematical expression solver with Unity3D compatibility||

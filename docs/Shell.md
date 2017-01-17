@@ -12,6 +12,7 @@
 |301|[@tokuhirom](https://github.com/tokuhirom)/[**plenv**](https://github.com/tokuhirom/plenv)|Perl binary manager||
 |277|[@tenntenn](https://github.com/tenntenn)/[**gopher-stickers**](https://github.com/tenntenn/gopher-stickers)|gopher stickers||
 |276|[@b4b4r07](https://github.com/b4b4r07)/[**dotfiles**](https://github.com/b4b4r07/dotfiles)|:octocat: dotfiles ❤ Testing my dotfiles repo on OS X to get my work environment ready in just a few moments. #VIM + #ZSH + #TMUX = Best Developer Environment|[:arrow_upper_right:](http://b4b4r07.com/dotfiles)|
+|252|[@MakeNowJust](https://github.com/MakeNowJust)/[**bashcached**](https://github.com/MakeNowJust/bashcached)|memcached built on bash + socat||
 |224|[@hchbaw](https://github.com/hchbaw)/[**opp.zsh**](https://github.com/hchbaw/opp.zsh)|# Vim's text-objects-ish for zsh (obsolete for zsh-5.0.8)||
 |213|[@yyuu](https://github.com/yyuu)/[**pyenv-virtualenvwr…**](https://github.com/yyuu/pyenv-virtualenvwrapper)|an alternative approach to manage virtualenvs from pyenv.||
 |207|[@riywo](https://github.com/riywo)/[**ndenv**](https://github.com/riywo/ndenv)|node.js version manager based on rbenv||
@@ -99,6 +100,7 @@
 |20|[@znz](https://github.com/znz)/[**anyenv-git**](https://github.com/znz/anyenv-git)|anyenv plugin that provides `anyenv git` command to run `git` in directories of all **env and all plugins||
 |19|[@key-amb](https://github.com/key-amb)/[**shove**](https://github.com/key-amb/shove)|Prove-like Test Tool for Shell Scripts||
 |19|[@making](https://github.com/making)/[**concourse-ci-demo**](https://github.com/making/concourse-ci-demo)|Concourse CI + GitHub + Pivotal Tracker + Cloud Foundry Integration Demo||
+|18|[@Lewuathe](https://github.com/Lewuathe)/[**docker-hadoop-clus…**](https://github.com/Lewuathe/docker-hadoop-cluster)|Multiple node cluster on Docker for self development.||
 |18|[@esminc](https://github.com/esminc)/[**esm-overlay**](https://github.com/esminc/esm-overlay)|ESM's portage overlay. It's useful for especially Ruby/Rails application development.||
 |18|[@pepabo](https://github.com/pepabo)/[**anybuild**](https://github.com/pepabo/anybuild)|xbuildを更にラップして、複数バージョンやモジュールの管理もできる君||
 |17|[@glidenote](https://github.com/glidenote)/[**paperboy.el**](https://github.com/glidenote/paperboy.el)|change your life.||
@@ -126,7 +128,6 @@
 |14|[@runexec](https://github.com/runexec)/[**Video2NFO**](https://github.com/runexec/Video2NFO)|Turns any video into a screenshot palette ||
 |14|[@uasi](https://github.com/uasi)/[**boot2docker-powify…**](https://github.com/uasi/boot2docker-powify)|Boot2docker :heart: Pow||
 |13|[@HiroKws](https://github.com/HiroKws)/[**ArtisanBashComplet…**](https://github.com/HiroKws/ArtisanBashCompletion)|Completion for Laravel Artisan commands with bash.||
-|13|[@Lewuathe](https://github.com/Lewuathe)/[**docker-hadoop-clus…**](https://github.com/Lewuathe/docker-hadoop-cluster)|Multiple node cluster on Docker for self development.||
 |13|[@borh](https://github.com/borh)/[**nexus-7-2013-arch-…**](https://github.com/borh/nexus-7-2013-arch-scripts)|A set of scripts to manage an Arch Linux chroot on the 2013 model Nexus 7||
 |13|[@kazu69](https://github.com/kazu69)/[**docker-efk**](https://github.com/kazu69/docker-efk)|Elasticsearch + Fluentd + Kibana with Docker and Docker-compose.||
 |13|[@making](https://github.com/making)/[**travis-ci-maven-de…**](https://github.com/making/travis-ci-maven-deploy-skelton)|How to deploy to Maven Central by Travis CI||
@@ -171,6 +172,7 @@
 |10|[@y-ken](https://github.com/y-ken)/[**mysql-udf-http**](https://github.com/y-ken/mysql-udf-http)|fork of MySQL User-defined function (UDF) for HTTP REST||
 |10|[@y-ken](https://github.com/y-ken)/[**setup-sentry-cento…**](https://github.com/y-ken/setup-sentry-centos)|Setup Sentry on CentOS 6.x with MySQL and Redis as Queue/Buffer/Cache so quickly.||
 |10|[@yyuu](https://github.com/yyuu)/[**rbenv-which-ext**](https://github.com/yyuu/rbenv-which-ext)|Integrate rbenv and system commands.||
+|9|[@STAR-ZERO](https://github.com/STAR-ZERO)/[**DottedLineView**](https://github.com/STAR-ZERO/DottedLineView)|Draw horizontal or vertical dotted line for iOS||
 |9|[@b4b4r07](https://github.com/b4b4r07)/[**ssh-keyreg**](https://github.com/b4b4r07/ssh-keyreg)|A CLI tool add ssh key to github.com user account||
 |9|[@id774](https://github.com/id774)/[**dot_zsh**](https://github.com/id774/dot_zsh)|The zsh pluggable framework||
 |9|[@jedahan](https://github.com/jedahan)/[**raspberry-pico-8**](https://github.com/jedahan/raspberry-pico-8)|really alpha||
@@ -185,7 +187,6 @@
 |9|[@wasabeef](https://github.com/wasabeef)/[**dockerfiles**](https://github.com/wasabeef/dockerfiles)| A collection of Dockerfiles||
 |9|[@yyuu](https://github.com/yyuu)/[**pyenv-ccache**](https://github.com/yyuu/pyenv-ccache)|Make Python build faster, with using the leverage of `ccache`.||
 |8|[@Kimtaro](https://github.com/Kimtaro)/[**docker-mecab**](https://github.com/Kimtaro/docker-mecab)|Dockerfile with MeCab, the Japanese morphological analyzer and IPADIC||
-|8|[@STAR-ZERO](https://github.com/STAR-ZERO)/[**DottedLineView**](https://github.com/STAR-ZERO/DottedLineView)|Draw horizontal or vertical dotted line for iOS||
 |8|[@higebu](https://github.com/higebu)/[**packer-templates**](https://github.com/higebu/packer-templates)|Templates for use with Packer.||
 |8|[@hnw](https://github.com/hnw)/[**fakegit**](https://github.com/hnw/fakegit)|Emulating "git clone" with other tools||
 |8|[@imos](https://github.com/imos)/[**imos-lambda**](https://github.com/imos/imos-lambda)|Command to run a command on Amazon Lambda.||

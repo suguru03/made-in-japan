@@ -19,11 +19,11 @@
 |242|[@skoczen](https://github.com/skoczen)/[**will**](https://github.com/skoczen/will)|Will is a simple, beautiful-to-code python hipchat bot.|[:arrow_upper_right:](http://skoczen.github.io/will)|
 |234|[@studio-ousia](https://github.com/studio-ousia)/[**mprpc**](https://github.com/studio-ousia/mprpc)|A fast MessagePack RPC library|[:arrow_upper_right:](http://mprpc.readthedocs.org)|
 |230|[@doloopwhile](https://github.com/doloopwhile)/[**PyExecJS**](https://github.com/doloopwhile/PyExecJS)|Run JavaScript code from Python||
+|211|[@Kuniwak](https://github.com/Kuniwak)/[**vint**](https://github.com/Kuniwak/vint)|Fast and Highly Extensible Vim script Language Lint implemented by Python.||
 |203|[@nagadomi](https://github.com/nagadomi)/[**lbpcascade_animefa…**](https://github.com/nagadomi/lbpcascade_animeface)|The face detector for anime/manga using OpenCV.||
 |192|[@thombashi](https://github.com/thombashi)/[**sqlitebiter**](https://github.com/thombashi/sqlitebiter)|sqlitebiter is a CLI tool to convert CSV/Excel/HTML/JSON/Google-Sheets to a SQLite database file|[:arrow_upper_right:](http://sqlitebiter.readthedocs.io/en/latest/)|
 |188|[@lambdalisue](https://github.com/lambdalisue)/[**django-permission**](https://github.com/lambdalisue/django-permission)|An enhanced permission system which support object permission in Django|[:arrow_upper_right:](http://pypi.python.org/pypi/django-permission/)|
 |187|[@kfdm](https://github.com/kfdm)/[**gntp**](https://github.com/kfdm/gntp)|GNTP Python Library - #growl #gntp|[:arrow_upper_right:](http://packages.python.org/gntp/)|
-|162|[@Kuniwak](https://github.com/Kuniwak)/[**vint**](https://github.com/Kuniwak/vint)|Fast and Highly Extensible Vim script Language Lint implemented by Python.||
 |160|[@mitmul](https://github.com/mitmul)/[**deeppose**](https://github.com/mitmul/deeppose)|DeepPose implementation in Chainer|[:arrow_upper_right:](http://static.googleusercontent.com/media/research.google.com/ja//pubs/archive/42237.pdf)|
 |151|[@rcmdnk](https://github.com/rcmdnk)/[**homebrew-file**](https://github.com/rcmdnk/homebrew-file)|Brewfile manager for  Homebrew|[:arrow_upper_right:](http://homebrew-file.readthedocs.io/)|
 |151|[@ugo-nama-kun](https://github.com/ugo-nama-kun)/[**DQN-chainer**](https://github.com/ugo-nama-kun/DQN-chainer)|||
@@ -103,6 +103,7 @@
 |29|[@farseerfc](https://github.com/farseerfc)/[**pacvis**](https://github.com/farseerfc/pacvis)|Visualize pacman local database using Vis.js, inspired by pacgraph.|[:arrow_upper_right:](https://pacvis.farseerfc.me/)|
 |29|[@sinhrks](https://github.com/sinhrks)/[**japandas**](https://github.com/sinhrks/japandas)|pandas japanese extension||
 |28|[@ayato-p](https://github.com/ayato-p)/[**clojure-beginner**](https://github.com/ayato-p/clojure-beginner)|Clojure 初心者のためのドキュメント||
+|27|[@MiCHiLU](https://github.com/MiCHiLU)/[**python-functools32…**](https://github.com/MiCHiLU/python-functools32)|Backport of the functools module from Python 3.2.3 for use with Python 2.7 and PyPy. Includes `lru_cache` (Least-recently-used cache decorator)|[:arrow_upper_right:](http://pypi.python.org/pypi/functools32)|
 |27|[@achiku](https://github.com/achiku)/[**pgpart**](https://github.com/achiku/pgpart)|Creating PostgreSQL partitioned table DDL should be easier.||
 |27|[@myuon](https://github.com/myuon)/[**AI**](https://github.com/myuon/AI)|artificial intelligence on python!||
 |27|[@non117](https://github.com/non117)/[**Boxnya**](https://github.com/non117/Boxnya)|twitter等の通知システム|[:arrow_upper_right:](http://non117.com)|
@@ -117,7 +118,6 @@
 |25|[@jrjohansson](https://github.com/jrjohansson)/[**version_informatio…**](https://github.com/jrjohansson/version_information)|IPython magic command for showing version information for dependency modules in a notebook.||
 |25|[@nus](https://github.com/nus)/[**web2py-for-fluxfle…**](https://github.com/nus/web2py-for-fluxflex)|web2py for fluxflex package.|[:arrow_upper_right:](http://www.fluxflex.com/library/47)|
 |25|[@sugyan](https://github.com/sugyan)/[**Zenra**](https://github.com/sugyan/Zenra)|全裸にする|[:arrow_upper_right:](http://d.hatena.ne.jp/sugyan/)|
-|24|[@MiCHiLU](https://github.com/MiCHiLU)/[**python-functools32…**](https://github.com/MiCHiLU/python-functools32)|Backport of the functools module from Python 3.2.3 for use with Python 2.7 and PyPy. Includes `lru_cache` (Least-recently-used cache decorator)|[:arrow_upper_right:](http://pypi.python.org/pypi/functools32)|
 |24|[@gengo](https://github.com/gengo)/[**decanter**](https://github.com/gengo/decanter)|A web framework based on bottle|[:arrow_upper_right:](http://gengo.github.io/decanter/)|
 |24|[@k0sukey](https://github.com/k0sukey)/[**TiDKLiveBlur**](https://github.com/k0sukey/TiDKLiveBlur)|Frosted glass effect in TiUITableView and TiUIListView||
 |24|[@lambdalisue](https://github.com/lambdalisue)/[**django-mfw**](https://github.com/lambdalisue/django-mfw)|Django framework for developing mobile site.|[:arrow_upper_right:](http://demos.django-mfw.hashnote.net/)|
@@ -146,6 +146,7 @@
 |19|[@r9y9](https://github.com/r9y9)/[**pysptk**](https://github.com/r9y9/pysptk)|A python wrapper for Speech Signal Processing Toolkit (SPTK).|[:arrow_upper_right:](http://pysptk.readthedocs.org)|
 |19|[@ryuji](https://github.com/ryuji)/[**peep**](https://github.com/ryuji/peep)|This software is a TUI front-end for Google Reader|[:arrow_upper_right:](http://mgiken.com/tag/peep)|
 |19|[@sgk](https://github.com/sgk)/[**tepco-usage-api**](https://github.com/sgk/tepco-usage-api)|Tepco power usage API|[:arrow_upper_right:](http://tepco-usage-api.appspot.com/)|
+|18|[@Makopo](https://github.com/Makopo)/[**sublime-text-lsl**](https://github.com/Makopo/sublime-text-lsl)|Syntax definitions for LSL(Linden Scripting Language) in Second Life and OSSL(OpenSimulator Scripting Language) in OpenSimulator.||
 |18|[@c-bata](https://github.com/c-bata)/[**feedy**](https://github.com/c-bata/feedy)|RSS Feed Fetching Framework for Python||
 |18|[@c-bata](https://github.com/c-bata)/[**pandas-validator**](https://github.com/c-bata/pandas-validator)|Validation Library for pandas' DataFrame and Series.|[:arrow_upper_right:](https://pypi.python.org/pypi/pandas_validator)|
 |18|[@jrjohansson](https://github.com/jrjohansson)/[**enplot**](https://github.com/jrjohansson/enplot)|one-line plotting tool||
@@ -177,6 +178,7 @@
 |16|[@timakin](https://github.com/timakin)/[**qunosy**](https://github.com/timakin/qunosy)|Personal Gunosy for Qiita||
 |16|[@yono](https://github.com/yono)/[**gae-twibot**](https://github.com/yono/gae-twibot)|GAE/P 上で動作する TwitterBot です||
 |15|[@IanLewis](https://github.com/IanLewis)/[**django-lifestream**](https://github.com/IanLewis/django-lifestream)|django-lifestream is a full featured lifestream application that you can use with django. Please see the wiki and issues at bitbucket.|[:arrow_upper_right:](http://bitbucket.org/IanLewis/django-lifestream/)|
+|15|[@Surgo](https://github.com/Surgo)/[**aws_emojipacks**](https://github.com/Surgo/aws_emojipacks)|Slack emojis of AWS services||
 |15|[@hhatto](https://github.com/hhatto)/[**gruffy**](https://github.com/hhatto/gruffy)|Gruffy is Python implemetation of Gruff(Ruby's Graphing Library http://nubyonrails.com/pages/gruff) |[:arrow_upper_right:](http://pypi.python.org/pypi/gruffy/)|
 |15|[@hirose31](https://github.com/hirose31)/[**ganglia-pymodule_s…**](https://github.com/hirose31/ganglia-pymodule_skeleton)|skeleton code for python module of Ganglia||
 |15|[@kana](https://github.com/kana)/[**vim-version-manage…**](https://github.com/kana/vim-version-manager)|curl https://raw.githubusercontent.com/kana/vim-version-manager/master/bin/vvm | python - setup||
@@ -603,6 +605,7 @@
 |3|[@KLab](https://github.com/KLab)/[**rlogger-py**](https://github.com/KLab/rlogger-py)|python logging handler with rlogd's rlogger||
 |3|[@KUT-ProgrammingGrup](https://github.com/KUT-ProgrammingGrup)/[**KOJ_System**](https://github.com/KUT-ProgrammingGrup/KOJ_System)|KOJ is a online judge system to learn computer programs.|[:arrow_upper_right:](http://kut-oj.appspot.com/page/index/)|
 |3|[@MiCHiLU](https://github.com/MiCHiLU)/[**watchlion**](https://github.com/MiCHiLU/watchlion)|A simple shell utility to monitor file system events on Mac OS X 10.7+ (Lion or newer).|[:arrow_upper_right:](https://pypi.python.org/pypi/watchlion)|
+|3|[@MoriKen254](https://github.com/MoriKen254)/[**DeepLearningWithPy…**](https://github.com/MoriKen254/DeepLearningWithPython)|Implementation of Deep Learning Algorithm with Python from scratch.||
 |3|[@PEmugi](https://github.com/PEmugi)/[**geohex3**](https://github.com/PEmugi/geohex3)|||
 |3|[@YukiSakamoto](https://github.com/YukiSakamoto)/[**Starbucks_Japan**](https://github.com/YukiSakamoto/Starbucks_Japan)|||
 |3|[@a-yasui](https://github.com/a-yasui)/[**atysPy**](https://github.com/a-yasui/atysPy)|self Python scripts||

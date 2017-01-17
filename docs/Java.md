@@ -9,11 +9,11 @@
 |2242|[@wasabeef](https://github.com/wasabeef)/[**richeditor-android…**](https://github.com/wasabeef/richeditor-android)|RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.||
 |2089|[@wasabeef](https://github.com/wasabeef)/[**glide-transformati…**](https://github.com/wasabeef/glide-transformations)|An Android transformation library providing a variety of image transformations for Glide.||
 |2076|[@wasabeef](https://github.com/wasabeef)/[**Blurry**](https://github.com/wasabeef/Blurry)|Blurry is an easy blur library for Android||
+|1959|[@Manabu-GT](https://github.com/Manabu-GT)/[**ExpandableTextView…**](https://github.com/Manabu-GT/ExpandableTextView)|Android's TextView that can expand/collapse like the Google Play's app description||
 |1876|[@Wizcorp](https://github.com/Wizcorp)/[**phonegap-facebook-…**](https://github.com/Wizcorp/phonegap-facebook-plugin)|The official plugin for Facebook in Apache Cordova/PhoneGap||
 |1837|[@yusuke](https://github.com/yusuke)/[**twitter4j**](https://github.com/yusuke/twitter4j)|Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API which is released under the Apache License 2.0.|[:arrow_upper_right:](http://twitter4j.org/)|
 |1786|[@worker8](https://github.com/worker8)/[**TourGuide**](https://github.com/worker8/TourGuide)|TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View||
 |1664|[@yusugomori](https://github.com/yusugomori)/[**DeepLearning**](https://github.com/yusugomori/DeepLearning)|Deep Learning (Python, C, C++, Java, Scala, Go)|[:arrow_upper_right:](http://yusugomori.com)|
-|1640|[@Manabu-GT](https://github.com/Manabu-GT)/[**ExpandableTextView…**](https://github.com/Manabu-GT/ExpandableTextView)|Android's TextView that can expand/collapse like the Google Play's app description||
 |1498|[@konifar](https://github.com/konifar)/[**android-material-d…**](https://github.com/konifar/android-material-design-icon-generator-plugin)|This plugin help you to set material design icon to your project.||
 |1485|[@IsseiAoki](https://github.com/IsseiAoki)/[**SimpleCropView**](https://github.com/IsseiAoki/SimpleCropView)|A simple image cropping library for Android.||
 |1256|[@eoinfogarty](https://github.com/eoinfogarty)/[**Onboarding**](https://github.com/eoinfogarty/Onboarding)|A beautiful way to introduce users to your app||
@@ -22,22 +22,22 @@
 |905|[@AAkira](https://github.com/AAkira)/[**ExpandableLayout**](https://github.com/AAkira/ExpandableLayout)|An android library that brings the expandable layout with various animation. You can include optional contents and use everywhere.||
 |869|[@ogaclejapan](https://github.com/ogaclejapan)/[**ArcLayout**](https://github.com/ogaclejapan/ArcLayout)|A very simple arc layout library for Android||
 |854|[@wasabeef](https://github.com/wasabeef)/[**picasso-transforma…**](https://github.com/wasabeef/picasso-transformations)|An Android transformation library providing a variety of image transformations for Picasso||
+|779|[@MasayukiSuda](https://github.com/MasayukiSuda)/[**EasingInterpolator…**](https://github.com/MasayukiSuda/EasingInterpolator)|Twenty-eight different easing animation interpolators for Android.||
 |751|[@nshmura](https://github.com/nshmura)/[**RecyclerTabLayout**](https://github.com/nshmura/RecyclerTabLayout)|An efficient TabLayout library implemented with RecyclerView.||
-|746|[@MasayukiSuda](https://github.com/MasayukiSuda)/[**EasingInterpolator…**](https://github.com/MasayukiSuda/EasingInterpolator)|Twenty-eight different easing animation interpolators for Android.||
 |726|[@kakajika](https://github.com/kakajika)/[**FragmentAnimations…**](https://github.com/kakajika/FragmentAnimations)|3D animations for support-v4 Fragment transition.||
 |691|[@kaelaela](https://github.com/kaelaela)/[**VerticalViewPager**](https://github.com/kaelaela/VerticalViewPager)|Vertically ViewPager and vertically transformer for Android.||
 |643|[@yqritc](https://github.com/yqritc)/[**Android-ScalableVi…**](https://github.com/yqritc/Android-ScalableVideoView)|Android Texture VideoView having a variety of scale types like the scale types of ImageView such as fitCenter, centerCrop, centerTopCrop and more||
 |612|[@kakajika](https://github.com/kakajika)/[**SwipeAwayDialog**](https://github.com/kakajika/SwipeAwayDialog)|DialogFragment swipeable away like Tinder UI.||
 |600|[@konifar](https://github.com/konifar)/[**droidkaigi2016**](https://github.com/konifar/droidkaigi2016)|DroidKaigi 2016 official Android conference app in Tokyo.|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=io.github.droidkaigi.confsched)|
 |581|[@wasabeef](https://github.com/wasabeef)/[**fresco-processors**](https://github.com/wasabeef/fresco-processors)|An Android image processor library providing a variety of image transformations for Fresco.||
+|554|[@MasayukiSuda](https://github.com/MasayukiSuda)/[**FPSAnimator**](https://github.com/MasayukiSuda/FPSAnimator)|FPSAnimator is very easy animation library for Android TextureView and SurfaceView.||
 |552|[@satorufujiwara](https://github.com/satorufujiwara)/[**material-scrolling…**](https://github.com/satorufujiwara/material-scrolling)|Android library for material scrolling techniques.||
 |544|[@konifar](https://github.com/konifar)/[**fab-transformation…**](https://github.com/konifar/fab-transformation)|Support Floating Action Button transformation for Android||
-|532|[@MasayukiSuda](https://github.com/MasayukiSuda)/[**FPSAnimator**](https://github.com/MasayukiSuda/FPSAnimator)|FPSAnimator is very easy animation library for Android TextureView and SurfaceView.||
 |531|[@antonyt](https://github.com/antonyt)/[**InfiniteViewPager**](https://github.com/antonyt/InfiniteViewPager)|Augment Android's ViewPager with wrap-around functionality.||
-|466|[@Manabu-GT](https://github.com/Manabu-GT)/[**EtsyBlur**](https://github.com/Manabu-GT/EtsyBlur)|EtsyBlur is an Android library that allows developers to easily add a glass-like effect implemented in the  Etsy app.||
+|492|[@MasayukiSuda](https://github.com/MasayukiSuda)/[**BubbleLayout**](https://github.com/MasayukiSuda/BubbleLayout)|Bubble View for Android.||
+|488|[@Manabu-GT](https://github.com/Manabu-GT)/[**EtsyBlur**](https://github.com/Manabu-GT/EtsyBlur)|EtsyBlur is an Android library that allows developers to easily add a glass-like effect implemented in the  Etsy app.||
 |462|[@eneim](https://github.com/eneim)/[**Toro**](https://github.com/eneim/Toro)|Video list auto playback made simple, specially built for RecyclerView||
 |458|[@myui](https://github.com/myui)/[**hivemall**](https://github.com/myui/hivemall)|Scalable machine learning library for Hive/Hadoop||
-|449|[@MasayukiSuda](https://github.com/MasayukiSuda)/[**BubbleLayout**](https://github.com/MasayukiSuda/BubbleLayout)|Bubble View for Android.||
 |437|[@gotokatsuya](https://github.com/gotokatsuya)/[**BlurredGridMenu**](https://github.com/gotokatsuya/BlurredGridMenu)|Cool blurred grid menu for Android.||
 |413|[@kakajika](https://github.com/kakajika)/[**RelativePopupWindo…**](https://github.com/kakajika/RelativePopupWindow)|Android PopupWindow that can be easily located relative to anchor View.||
 |399|[@h6ah4i](https://github.com/h6ah4i)/[**android-materialsh…**](https://github.com/h6ah4i/android-materialshadowninepatch)|Provides 9-patch based drop shadow for view elements. Works on API level 9 or later.||
@@ -46,6 +46,7 @@
 |369|[@tyorikan](https://github.com/tyorikan)/[**voice-recording-vi…**](https://github.com/tyorikan/voice-recording-visualizer)|Simple Visualizer from mic input for Android.||
 |368|[@cookpad](https://github.com/cookpad)/[**puree-android**](https://github.com/cookpad/puree-android)|A log collector for Android|[:arrow_upper_right:](http://cookpad.github.io/puree-android/)|
 |363|[@hotchemi](https://github.com/hotchemi)/[**Android-Rate**](https://github.com/hotchemi/Android-Rate)|Android-Rate is a library to help you promote your android app by prompting users to rate the app after using it for a few days.|[:arrow_upper_right:](http://hotchemi.github.io/Android-Rate)|
+|362|[@NikoYuwono](https://github.com/NikoYuwono)/[**ToolbarPanel**](https://github.com/NikoYuwono/ToolbarPanel)|Toolbar that can be slided down to show a panel||
 |342|[@rejasupotaro](https://github.com/rejasupotaro)/[**MaterialDesignSamp…**](https://github.com/rejasupotaro/MaterialDesignSample)|||
 |328|[@TakahikoKawasaki](https://github.com/TakahikoKawasaki)/[**nv-websocket-clien…**](https://github.com/TakahikoKawasaki/nv-websocket-client)|High-quality WebSocket client implementation in Java.||
 |309|[@yqritc](https://github.com/yqritc)/[**RecyclerView-Multi…**](https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter)|Android library defining adapter classes of RecyclerView to manage multiple view types||
@@ -68,15 +69,15 @@
 |205|[@ksksue](https://github.com/ksksue)/[**PhysicaloidLibrary…**](https://github.com/ksksue/PhysicaloidLibrary)|Android Library for communicating with physical-computing boards (e.g.Arduino, mbed)|[:arrow_upper_right:](http://www.physicaloid.com/)|
 |197|[@kaelaela](https://github.com/kaelaela)/[**OpenGraphView**](https://github.com/kaelaela/OpenGraphView)|Rich url link view for Android.||
 |197|[@konifar](https://github.com/konifar)/[**android-strings-se…**](https://github.com/konifar/android-strings-search-plugin)|This plugin makes it easy to search text in strings resources.|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/8550)|
+|196|[@MasayukiSuda](https://github.com/MasayukiSuda)/[**AnimateHorizontalP…**](https://github.com/MasayukiSuda/AnimateHorizontalProgressBar)|A tiny customView makes very easier ProgressBar anitmation horizontal. ||
 |190|[@gotokatsuya](https://github.com/gotokatsuya)/[**ParkedTextView**](https://github.com/gotokatsuya/ParkedTextView)|A editable text with a constant text/placeholder for Android.||
 |189|[@h6ah4i](https://github.com/h6ah4i)/[**android-verticalse…**](https://github.com/h6ah4i/android-verticalseekbar)|Vertical SeekBar class which supports Android 2.3 - 6.0.||
-|186|[@MasayukiSuda](https://github.com/MasayukiSuda)/[**AnimateHorizontalP…**](https://github.com/MasayukiSuda/AnimateHorizontalProgressBar)|A tiny customView makes very easier ProgressBar anitmation horizontal. ||
 |185|[@ogaclejapan](https://github.com/ogaclejapan)/[**RxBinding**](https://github.com/ogaclejapan/RxBinding)|Easy oneway bindings for Android, which is based on RxJava.||
+|180|[@Manabu-GT](https://github.com/Manabu-GT)/[**DesignOverlay-Andr…**](https://github.com/Manabu-GT/DesignOverlay-Android)|Android app which displays design image with grid lines to facilitate the tedious design implementation process||
+|180|[@MasayukiSuda](https://github.com/MasayukiSuda)/[**CountAnimationText…**](https://github.com/MasayukiSuda/CountAnimationTextView)|A tiny Android library makes very easier count animation of TextView.||
 |178|[@rejasupotaro](https://github.com/rejasupotaro)/[**Rebuild**](https://github.com/rejasupotaro/Rebuild)|Rebuild.fm for Android||
 |177|[@magiepooh](https://github.com/magiepooh)/[**RecyclerItemDecora…**](https://github.com/magiepooh/RecyclerItemDecoration)|ItemDecoration for RecyclerView using LinearLayoutManager for Android||
-|176|[@Manabu-GT](https://github.com/Manabu-GT)/[**DesignOverlay-Andr…**](https://github.com/Manabu-GT/DesignOverlay-Android)|Android app which displays design image with grid lines to facilitate the tedious design implementation process||
 |176|[@codelibs](https://github.com/codelibs)/[**elasticsearch-rive…**](https://github.com/codelibs/elasticsearch-river-web)|Web Crawler for Elasticsearch||
-|168|[@MasayukiSuda](https://github.com/MasayukiSuda)/[**CountAnimationText…**](https://github.com/MasayukiSuda/CountAnimationTextView)|A tiny Android library makes very easier count animation of TextView.||
 |167|[@uPhyca](https://github.com/uPhyca)/[**gradle-android-asp…**](https://github.com/uPhyca/gradle-android-aspectj-plugin)|A Gradle plugin which enables AspectJ for Android builds. ||
 |164|[@gfx](https://github.com/gfx)/[**gradle-android-rib…**](https://github.com/gfx/gradle-android-ribbonizer-plugin)|Modifies launcher icons on debug build||
 |163|[@u1aryz](https://github.com/u1aryz)/[**Android-NewPopupMe…**](https://github.com/u1aryz/Android-NewPopupMenu)|||
@@ -92,10 +93,10 @@
 |145|[@satorufujiwara](https://github.com/satorufujiwara)/[**recyclerview-binde…**](https://github.com/satorufujiwara/recyclerview-binder)|Android library for RecyclerView to manage order of items and multiple view types.||
 |142|[@gotokatsuya](https://github.com/gotokatsuya)/[**FlickableView**](https://github.com/gotokatsuya/FlickableView)|Flickable ImageView for Android. It's like a view of twitter's detail image.||
 |142|[@gotokatsuya](https://github.com/gotokatsuya)/[**KenBurnsView**](https://github.com/gotokatsuya/KenBurnsView)|Slideshow. Android ImageViews are animated by Ken Burns Effect. (Inspired by Heyday)||
+|140|[@Nodeclipse](https://github.com/Nodeclipse)/[**nodeclipse-1**](https://github.com/Nodeclipse/nodeclipse-1)|:tennis: Nodeclipse-1 : Eclipse plugin for Node.js, PhantomJS and Nashorn JJS development (Nodeclipse core plugin); Maven and Gradle (with Android) plugins|[:arrow_upper_right:](http://www.nodeclipse.org/)|
 |140|[@yshrsmz](https://github.com/yshrsmz)/[**LicenseAdapter**](https://github.com/yshrsmz/LicenseAdapter)|adapter for RecyclerView to display app's oss dependencies' license||
 |134|[@kgmyshin](https://github.com/kgmyshin)/[**eventbus3-intellij…**](https://github.com/kgmyshin/eventbus3-intellij-plugin)|||
 |131|[@yqritc](https://github.com/yqritc)/[**Android-ScalableIm…**](https://github.com/yqritc/Android-ScalableImageView)|ScalableImageView has extra scale types of ImageView. Supported scale types are fitXY, fitStart, fitCenter, fitEnd, leftTop, leftCenter, leftBottom, centerTop, center, centerBottom, rightTop, rightCenter, rightBottom, leftTopCrop, leftCenterCrop, leftBottomCrop, centerTopCrop, centerCrop, centerBottomCrop, rightTopCrop, rightCenterCrop, rightBottomCrop, startInside, centerInside and endInside.||
-|130|[@Nodeclipse](https://github.com/Nodeclipse)/[**nodeclipse-1**](https://github.com/Nodeclipse/nodeclipse-1)|:tennis: Nodeclipse-1 : Eclipse plugin for Node.js, PhantomJS and Nashorn JJS development (Nodeclipse core plugin); Maven and Gradle (with Android) plugins|[:arrow_upper_right:](http://www.nodeclipse.org/)|
 |117|[@AAkira](https://github.com/AAkira)/[**OkWear**](https://github.com/AAkira/OkWear)|Easily connection between Android wear and Handheld (Mobile device)||
 |117|[@rjyo](https://github.com/rjyo)/[**twitter-2-weibo**](https://github.com/rjyo/twitter-2-weibo)|An app runs in a stand java J2EE server that syncs tweets from Twitter to Weibo|[:arrow_upper_right:](h2weibo.cloudfoundry.com)|
 |116|[@vvakame](https://github.com/vvakame)/[**JsonPullParser**](https://github.com/vvakame/JsonPullParser)|compiler time JSON-POJO Mapper for Java||
@@ -125,6 +126,7 @@
 |79|[@vmi](https://github.com/vmi)/[**selenese-runner-ja…**](https://github.com/vmi/selenese-runner-java)|Selenium IDE native format interpreter.||
 |78|[@itog](https://github.com/itog)/[**Twitter4j-android-…**](https://github.com/itog/Twitter4j-android-Sample)|||
 |78|[@shiitakeo](https://github.com/shiitakeo)/[**android_wear_for_i…**](https://github.com/shiitakeo/android_wear_for_ios)|android wear works with iOS/iPhone||
+|77|[@Korilakkuma](https://github.com/Korilakkuma)/[**CanvasView**](https://github.com/Korilakkuma/CanvasView)|Android Application Library||
 |77|[@brettwooldridge](https://github.com/brettwooldridge)/[**SansOrm**](https://github.com/brettwooldridge/SansOrm)|A "No-ORM" sane SQL ←→ Java object mapping library||
 |77|[@codelibs](https://github.com/codelibs)/[**elasticsearch-rein…**](https://github.com/codelibs/elasticsearch-reindexing)|Elasticsearch plugin for reindexing||
 |76|[@cookpad](https://github.com/cookpad)/[**android-code-style…**](https://github.com/cookpad/android-code-style)|Cookpad Android Code Style|[:arrow_upper_right:](https://github.com/cookpad/styleguide)|
@@ -140,11 +142,11 @@
 |67|[@esmasui](https://github.com/esmasui)/[**AndroidJUnit4**](https://github.com/esmasui/AndroidJUnit4)|Tools for Android testing with JUnit4.||
 |64|[@tokuhirom](https://github.com/tokuhirom)/[**toydi**](https://github.com/tokuhirom/toydi)|||
 |64|[@zaki50](https://github.com/zaki50)/[**android_gradle_tem…**](https://github.com/zaki50/android_gradle_template)|Gradle を使った Android 用のプロジェクトのひな形||
-|62|[@Korilakkuma](https://github.com/Korilakkuma)/[**CanvasView**](https://github.com/Korilakkuma/CanvasView)|Android Application Library||
+|63|[@NikoYuwono](https://github.com/NikoYuwono)/[**static-progress-ba…**](https://github.com/NikoYuwono/static-progress-bar)|Custom static progress bar for Android where you can set your own shape and color.||
 |61|[@takawitter](https://github.com/takawitter)/[**trie4j**](https://github.com/takawitter/trie4j)|Trie implementation for Java||
 |60|[@gotokatsuya](https://github.com/gotokatsuya)/[**walker**](https://github.com/gotokatsuya/walker)|Cool walkthrough has good animation for Android.||
+|59|[@Manabu-GT](https://github.com/Manabu-GT)/[**GlassView**](https://github.com/Manabu-GT/GlassView)|GlassView is an Android library that allows developers to easily add a glass-like effect on the parent view.||
 |59|[@komiya-atsushi](https://github.com/komiya-atsushi)/[**darts-java**](https://github.com/komiya-atsushi/darts-java)|Java porting of Darts (Double ARray Trie System)||
-|58|[@Manabu-GT](https://github.com/Manabu-GT)/[**GlassView**](https://github.com/Manabu-GT/GlassView)|GlassView is an Android library that allows developers to easily add a glass-like effect on the parent view.||
 |58|[@codelibs](https://github.com/codelibs)/[**elasticsearch-data…**](https://github.com/codelibs/elasticsearch-dataformat)|Excel/CSV/BulkJSON downloads on Elasticsearch.||
 |58|[@cookpad](https://github.com/cookpad)/[**issue-reporter-and…**](https://github.com/cookpad/issue-reporter-android)|||
 |57|[@ksoichiro](https://github.com/ksoichiro)/[**AndroidFormEnhance…**](https://github.com/ksoichiro/AndroidFormEnhancer)|Form validation library for Android applications.|[:arrow_upper_right:](http://ksoichiro.github.io/AndroidFormEnhancer/)|
@@ -215,6 +217,7 @@
 |30|[@KeithYokoma](https://github.com/KeithYokoma)/[**CompoundContainers…**](https://github.com/KeithYokoma/CompoundContainers)|Checkable implementation for various view groups and RadioGroup optimization for them.||
 |30|[@brettwooldridge](https://github.com/brettwooldridge)/[**HikariCP-benchmark…**](https://github.com/brettwooldridge/HikariCP-benchmark)|JHM benchmarks for JDBC Connection Pools||
 |30|[@hotchpotch](https://github.com/hotchpotch)/[**android-IconicFont…**](https://github.com/hotchpotch/android-IconicFontEngine)|||
+|29|[@NikoYuwono](https://github.com/NikoYuwono)/[**realm-browser-andr…**](https://github.com/NikoYuwono/realm-browser-android)|Realm database browser for Android||
 |29|[@h6ah4i](https://github.com/h6ah4i)/[**mulsellistprefcomp…**](https://github.com/h6ah4i/mulsellistprefcompat)|Backport MultiSelectListPreference class to older android devices||
 |29|[@jfsso](https://github.com/jfsso)/[**nirai**](https://github.com/jfsso/nirai)|[Deprecated] A job queue for Android||
 |29|[@kshoji](https://github.com/kshoji)/[**JFugue-for-Android…**](https://github.com/kshoji/JFugue-for-Android)|Music library JFugue porting for Android||
@@ -250,10 +253,11 @@
 |24|[@ogaclejapan](https://github.com/ogaclejapan)/[**FluxArchitectureSa…**](https://github.com/ogaclejapan/FluxArchitectureSample)|Sample app for Flux Architecture||
 |24|[@wasabeef](https://github.com/wasabeef)/[**android-RoundedTex…**](https://github.com/wasabeef/android-RoundedTextureView)|RoundedTextureView Sample||
 |23|[@Nkzn](https://github.com/Nkzn)/[**android-menudrawer…**](https://github.com/Nkzn/android-menudrawer-abs-sample)|menudrawer & ActionBarSherlock Sample||
-|23|[@Nodeclipse](https://github.com/Nodeclipse)/[**nodeclipse-bak**](https://github.com/Nodeclipse/nodeclipse-bak)|nodeclipse (old 0.1.8 version)|[:arrow_upper_right:](http://www.nodeclipse.org/)|
 |23|[@gotokatsuya](https://github.com/gotokatsuya)/[**RSSTS**](https://github.com/gotokatsuya/RSSTS)|Report Screenshot To Slack for Android||
 |23|[@mhidaka](https://github.com/mhidaka)/[**EventApp**](https://github.com/mhidaka/EventApp)|ABC2013a用に作ったカンファレンス一覧アプリです。じんわりメンテしていく予定だよ |[:arrow_upper_right:](https://play.google.com/store/apps/details?id=org.techbooster.app.abc2013autumn)|
 |23|[@mopemope](https://github.com/mopemope)/[**meghanada-server**](https://github.com/mopemope/meghanada-server)|A Java IDE Server for your editor. Java IDE-like features to your favourite text editor.||
+|22|[@Nodeclipse](https://github.com/Nodeclipse)/[**nodeclipse-bak**](https://github.com/Nodeclipse/nodeclipse-bak)|nodeclipse (old 0.1.8 version)|[:arrow_upper_right:](http://www.nodeclipse.org/)|
+|22|[@Reyurnible](https://github.com/Reyurnible)/[**RxAnimation**](https://github.com/Reyurnible/RxAnimation)|RxJava binding APIs for Android's animations.||
 |22|[@bowyer-app](https://github.com/bowyer-app)/[**StorePreview**](https://github.com/bowyer-app/StorePreview)|This app helps your apps ASO(App Store Optimization) operation.||
 |22|[@izumin5210](https://github.com/izumin5210)/[**Bletia**](https://github.com/izumin5210/Bletia)|Promisified BLE library for Android.|[:arrow_upper_right:](https://github.com/izumin5210/Bletia)|
 |22|[@kobakei](https://github.com/kobakei)/[**grenade**](https://github.com/kobakei/grenade)|Annotation based intent builder for Android activities and services||
@@ -302,7 +306,6 @@
 |18|[@nmerouze](https://github.com/nmerouze)/[**qtjruby-core**](https://github.com/nmerouze/qtjruby-core)||[:arrow_upper_right:](http://qtjruby.org)|
 |18|[@nobunobuta](https://github.com/nobunobuta)/[**android_packages_a…**](https://github.com/nobunobuta/android_packages_apps_Browser)|Android Web Browser (cyanogenmod)|[:arrow_upper_right:](http://forum.xda-developers.com/showthread.php?t=518851)|
 |18|[@nulab](https://github.com/nulab)/[**backlog4j**](https://github.com/nulab/backlog4j)|Java library for Backlog API version 2||
-|17|[@Reyurnible](https://github.com/Reyurnible)/[**RxAnimation**](https://github.com/Reyurnible/RxAnimation)|RxJava binding APIs for Android's animations.||
 |17|[@amay077](https://github.com/amay077)/[**android-wheel-date…**](https://github.com/amay077/android-wheel-datetime-picker)|based on http://code.google.com/p/android-wheel/||
 |17|[@codelibs](https://github.com/codelibs)/[**elasticsearch-clus…**](https://github.com/codelibs/elasticsearch-cluster-runner)| Elasticsearch Cluster Launcher on One JVM Instance||
 |17|[@hotchemi](https://github.com/hotchemi)/[**wearzaim**](https://github.com/hotchemi/wearzaim)|Zaim Android Wear Client.|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=wearable.android.zaim.net)|
@@ -335,6 +338,7 @@
 |15|[@suguru](https://github.com/suguru)/[**mongo-java-async-d…**](https://github.com/suguru/mongo-java-async-driver)|Java Asynchronous MongoDB Driver||
 |15|[@zaki50](https://github.com/zaki50)/[**realm_template**](https://github.com/zaki50/realm_template)|||
 |15|[@zoonooz](https://github.com/zoonooz)/[**Android-Beam-NFC-N…**](https://github.com/zoonooz/Android-Beam-NFC-NDEF-Push-to-Reader)|Send and Receive NDEF message from Android ICS P2P with "Touch to Beam" function test on ACR122u Reader and Nexus S ||
+|14|[@Manabu-GT](https://github.com/Manabu-GT)/[**android-multi-vide…**](https://github.com/Manabu-GT/android-multi-videoview)|Test App which displays&plays multiple VideoView widgets on a Fragment||
 |14|[@WaterCell](https://github.com/WaterCell)/[**android-app-templa…**](https://github.com/WaterCell/android-app-template)|Androidアプリのひな形||
 |14|[@codelibs](https://github.com/codelibs)/[**elasticsearch-quar…**](https://github.com/codelibs/elasticsearch-quartz)|Scheduler for Elasticsearch plugins||
 |14|[@eneim](https://github.com/eneim)/[**Attiq**](https://github.com/eneim/Attiq)|Qiita.com + Material Design||
@@ -370,7 +374,6 @@
 |13|[@vvakame](https://github.com/vvakame)/[**memvache**](https://github.com/vvakame/memvache)|||
 |13|[@yusuke](https://github.com/yusuke)/[**ideahandson**](https://github.com/yusuke/ideahandson)|||
 |12|[@Hiroki11x](https://github.com/Hiroki11x)/[**ViewOptionAnimatio…**](https://github.com/Hiroki11x/ViewOptionAnimation)|Android Library View whitch have option button and animation.||
-|12|[@Manabu-GT](https://github.com/Manabu-GT)/[**android-multi-vide…**](https://github.com/Manabu-GT/android-multi-videoview)|Test App which displays&plays multiple VideoView widgets on a Fragment||
 |12|[@YuuichiAkagawa](https://github.com/YuuichiAkagawa)/[**HelloADK**](https://github.com/YuuichiAkagawa/HelloADK)|||
 |12|[@aidiary](https://github.com/aidiary)/[**javagame**](https://github.com/aidiary/javagame)|Javaでゲーム作りますが何か？の全ソースコード||
 |12|[@chototsu](https://github.com/chototsu)/[**MikuMikuStudio**](https://github.com/chototsu/MikuMikuStudio)|MikuMikuDance library||
@@ -447,6 +450,7 @@
 |9|[@soundTricker](https://github.com/soundTricker)/[**backlog-android-cl…**](https://github.com/soundTricker/backlog-android-client)|backlogのAndroidクライアント androidannotations ormlite roboguice の組み合わせ||
 |9|[@yagince](https://github.com/yagince)/[**hipchat-notifier-p…**](https://github.com/yagince/hipchat-notifier-plugin)|HipChatNotifier Plugin for Jenkins||
 |8|[@KeithYokoma](https://github.com/KeithYokoma)/[**AutoValidationEdit…**](https://github.com/KeithYokoma/AutoValidationEditText)|Simple extension for validate and alert function on edit text||
+|8|[@Nodeclipse](https://github.com/Nodeclipse)/[**restclient-tool**](https://github.com/Nodeclipse/restclient-tool)|restclient-tool|[:arrow_upper_right:](http://www.nodeclipse.org/restclient-tool/)|
 |8|[@akiroom](https://github.com/akiroom)/[**JimiCity**](https://github.com/akiroom/JimiCity)|SimCityっぽい感じのJavaアプリケーションです。||
 |8|[@cattaka](https://github.com/cattaka)/[**AdapterToolbox**](https://github.com/cattaka/AdapterToolbox)|This is utility classes for RecyclerView and classic AdapterView(such as ListView, Spinner).||
 |8|[@cattaka](https://github.com/cattaka)/[**AndroidSnippets**](https://github.com/cattaka/AndroidSnippets)|Cattaka's snippets for Android||
@@ -527,7 +531,6 @@
 |7|[@zaki50](https://github.com/zaki50)/[**MemoPad**](https://github.com/zaki50/MemoPad)|||
 |6|[@173210](https://github.com/173210)/[**photovision_tv_fun…**](https://github.com/173210/photovision_tv_function_unlocker)|Photovision TV 202HW 機能制限解除ツールです。||
 |6|[@Nkzn](https://github.com/Nkzn)/[**RxJavaExercise**](https://github.com/Nkzn/RxJavaExercise)|Exercise for RxJava functions about collections||
-|6|[@Nodeclipse](https://github.com/Nodeclipse)/[**restclient-tool**](https://github.com/Nodeclipse/restclient-tool)|restclient-tool|[:arrow_upper_right:](http://www.nodeclipse.org/restclient-tool/)|
 |6|[@STAR-ZERO](https://github.com/STAR-ZERO)/[**ImageInEdit-androi…**](https://github.com/STAR-ZERO/ImageInEdit-android)|画像挿入可能なEditText||
 |6|[@STAR-ZERO](https://github.com/STAR-ZERO)/[**SampleFragmentTab**](https://github.com/STAR-ZERO/SampleFragmentTab)|Fragment + TabHostのサンプル||
 |6|[@STAR-ZERO](https://github.com/STAR-ZERO)/[**TabNyan**](https://github.com/STAR-ZERO/TabNyan)|Android tab UI||
@@ -593,6 +596,7 @@
 |6|[@zoonooz](https://github.com/zoonooz)/[**PolyImageView**](https://github.com/zoonooz/PolyImageView)|Custom UIView class that mask UIImageView with dynamic polygon|[:arrow_upper_right:](http://zoonref.com/blog/howto-make-polygon-image-mask/)|
 |5|[@AKB428](https://github.com/AKB428)/[**maki**](https://github.com/AKB428/maki)|TwitterのデータをHadoop上で解析するソフトのプロトタイプ||
 |5|[@KUT-ProgrammingGrup](https://github.com/KUT-ProgrammingGrup)/[**ICPC**](https://github.com/KUT-ProgrammingGrup/ICPC)|ICPC Sources|[:arrow_upper_right:](http://wikiwiki.jp/kut-pg/)|
+|5|[@Nodeclipse](https://github.com/Nodeclipse)/[**GradleEditor**](https://github.com/Nodeclipse/GradleEditor)|Gradle Editor for Eclipse IDE & Enide Studio|[:arrow_upper_right:](http://www.nodeclipse.org/enide/editors/gradle)|
 |5|[@acourreges](https://github.com/acourreges)/[**minicopier**](https://github.com/acourreges/minicopier)|Multiplatform Graphical Copy Manager||
 |5|[@alkber](https://github.com/alkber)/[**Android-Microsoft-…**](https://github.com/alkber/Android-Microsoft-SQL-2008)|Some not so obvious android snippets ||
 |5|[@binil1931](https://github.com/binil1931)/[**Android-List-view-…**](https://github.com/binil1931/Android-List-view-with-Filter--Search-)|Android Sampple source code for the custom list view adapter with the filter||
@@ -673,7 +677,7 @@
 |4|[@FBergeron](https://github.com/FBergeron)/[**javasol**](https://github.com/FBergeron/javasol)|A Java implementation of the famous Klondike solitaire game.It's available in English and French. |[:arrow_upper_right:](http://javasol.sourceforge.net/)|
 |4|[@KeithYokoma](https://github.com/KeithYokoma)/[**LicenseCreditView**](https://github.com/KeithYokoma/LicenseCreditView)|Utility view for creating a simple credit for acknowledgement of the library license.||
 |4|[@Mayomi](https://github.com/Mayomi)/[**PlotSquared-Chines…**](https://github.com/Mayomi/PlotSquared-Chinese)|PlotSquared Chinese Ver. 最好用的地皮插件||
-|4|[@Nodeclipse](https://github.com/Nodeclipse)/[**GradleEditor**](https://github.com/Nodeclipse/GradleEditor)|Gradle Editor for Eclipse IDE & Enide Studio|[:arrow_upper_right:](http://www.nodeclipse.org/enide/editors/gradle)|
+|4|[@NikoYuwono](https://github.com/NikoYuwono)/[**android-dragview**](https://github.com/NikoYuwono/android-dragview)|Dragview Example For Android||
 |4|[@TakashiSasaki](https://github.com/TakashiSasaki)/[**An-experent-toolki…**](https://github.com/TakashiSasaki/An-experent-toolkit-for-ad-hoc-overlay-communications)|||
 |4|[@YukiMatsumura](https://github.com/YukiMatsumura)/[**ActionBarProgress**](https://github.com/YukiMatsumura/ActionBarProgress)|ActionBar直下にProgressBarを表示。||
 |4|[@YusukeKokubo](https://github.com/YusukeKokubo)/[**SkillMaps**](https://github.com/YusukeKokubo/SkillMaps)|social skill maps|[:arrow_upper_right:](http://skillmaps.appspot.com/)|

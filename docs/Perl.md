@@ -434,7 +434,6 @@
 |6|[@zigorou](https://github.com/zigorou)/[**perl-json-patch**](https://github.com/zigorou/perl-json-patch)|A Perl implementation of JSON Patch||
 |5|[@Craftworks](https://github.com/Craftworks)/[**Engage**](https://github.com/Craftworks/Engage)|Application Framework that includes Catalyst, TheSchwartz and App::Cmd||
 |5|[@Kovensky](https://github.com/Kovensky)/[**foo_spam**](https://github.com/Kovensky/foo_spam)|X-Chat / Irssi / WeeChat script for showing the currently playing song on foobar2000 or Banshee||
-|5|[@Songmu](https://github.com/Songmu)/[**Puncheur**](https://github.com/Songmu/Puncheur)|||
 |5|[@Songmu](https://github.com/Songmu)/[**p5-Const-Common**](https://github.com/Songmu/p5-Const-Common)|||
 |5|[@Songmu](https://github.com/Songmu)/[**p5-L**](https://github.com/Songmu/p5-L)|perl module loader for oneliner||
 |5|[@Songmu](https://github.com/Songmu)/[**p5-Mackerel-Webhoo…**](https://github.com/Songmu/p5-Mackerel-Webhook-Receiver)|||
@@ -519,6 +518,7 @@
 |4|[@Craftworks](https://github.com/Craftworks)/[**Airy**](https://github.com/Craftworks/Airy)|Lightweight application framework||
 |4|[@Cside](https://github.com/Cside)/[**Filt**](https://github.com/Cside/Filt)|「お気に入り」ページの閾値反映版 RSS||
 |4|[@DQNEO](https://github.com/DQNEO)/[**Amazon-S3-Thin**](https://github.com/DQNEO/Amazon-S3-Thin)|A thin, lightweight, low-level Amazon S3 client|[:arrow_upper_right:](http://search.cpan.org/dist/Amazon-S3-Thin/)|
+|4|[@Songmu](https://github.com/Songmu)/[**Puncheur**](https://github.com/Songmu/Puncheur)|||
 |4|[@Songmu](https://github.com/Songmu)/[**p5-Plack-App-Direc…**](https://github.com/Songmu/p5-Plack-App-Directory-Markdown)|||
 |4|[@Songmu](https://github.com/Songmu)/[**p5-Text-Markdown-G…**](https://github.com/Songmu/p5-Text-Markdown-GitHubAPI)|||
 |4|[@aereal](https://github.com/aereal)/[**Plack-Middleware-G…**](https://github.com/aereal/Plack-Middleware-GitPunchCard)|Visualize Git commits distribution||
@@ -617,6 +617,7 @@
 |4|[@zigorou](https://github.com/zigorou)/[**p5-mysql-partition…**](https://github.com/zigorou/p5-mysql-partitioning)|Utility for MySQL Partitioning|[:arrow_upper_right:](http://d.hatena.ne.jp/ZIGOROu/)|
 |4|[@zigorou](https://github.com/zigorou)/[**p5-sql-builder**](https://github.com/zigorou/p5-sql-builder)|Builde sql query by perl structure|[:arrow_upper_right:](http://d.hatena.ne.jp/ZIGOROu/)|
 |3|[@Cside](https://github.com/Cside)/[**Selenium-WebDriver…**](https://github.com/Cside/Selenium-WebDriver)|Perl bindings for Selenium WebDriver||
+|3|[@NoritomoTaba](https://github.com/NoritomoTaba)/[**everyday**](https://github.com/NoritomoTaba/everyday)|Learning programming's log||
 |3|[@Shinpeim](https://github.com/Shinpeim)/[**Image-Glitch**](https://github.com/Shinpeim/Image-Glitch)|perl module for glitch image||
 |3|[@Shinpeim](https://github.com/Shinpeim)/[**genetic_arpeggiato…**](https://github.com/Shinpeim/genetic_arpeggiator)|GAでアルペジエーター||
 |3|[@Shinpeim](https://github.com/Shinpeim)/[**p5-Acme-Text-Glitc…**](https://github.com/Shinpeim/p5-Acme-Text-Glitch)|Glitch your text||

@@ -58,6 +58,7 @@
 |20|[@inc2734](https://github.com/inc2734)/[**habakiri**](https://github.com/inc2734/habakiri)|||
 |20|[@kentaro](https://github.com/kentaro)/[**puppet-book**](https://github.com/kentaro/puppet-book)|||
 |20|[@simurai](https://github.com/simurai)/[**duotone-light-synt…**](https://github.com/simurai/duotone-light-syntax)|DuoTone light - A syntax theme for Atom||
+|19|[@Lewuathe](https://github.com/Lewuathe)/[**dllib**](https://github.com/Lewuathe/dllib)|dllib is a distributed deep learning library running on Apache Spark||
 |19|[@kevincobain2000](https://github.com/kevincobain2000)/[**instagram-bot-api**](https://github.com/kevincobain2000/instagram-bot-api)|Instagram Bot using Nodejs and instagram api||
 |19|[@key-amb](https://github.com/key-amb)/[**hugo-theme-bootie-…**](https://github.com/key-amb/hugo-theme-bootie-docs)|A simple Hugo theme for documentation|[:arrow_upper_right:](http://key-amb.github.io/bootie-docs-demo/)|
 |19|[@making](https://github.com/making)/[**jsug-shop**](https://github.com/making/jsug-shop)||[:arrow_upper_right:](http://jsug-shop.cfapps.io/)|
@@ -210,6 +211,7 @@
 |3|[@JakeJP](https://github.com/JakeJP)/[**FlashAirList**](https://github.com/JakeJP/FlashAirList)|FlashAir List.htm responsive alternative||
 |3|[@JohannesFischer](https://github.com/JohannesFischer)/[**my-fabulous-ss-log…**](https://github.com/JohannesFischer/my-fabulous-ss-login)|An alternative SilverStripe login page layout||
 |3|[@MaxMEllon](https://github.com/MaxMEllon)/[**GithubSignature**](https://github.com/MaxMEllon/GithubSignature)|:credit_card: Signature of Github with react||
+|3|[@Mazyod](https://github.com/Mazyod)/[**Mazyod.github.io**](https://github.com/Mazyod/Mazyod.github.io)|Developer's blog. Elixir, Phoenix, Game development, Swift, Unity, and rants. Check it out!|[:arrow_upper_right:](http://mazyod.com)|
 |3|[@Rokt33r](https://github.com/Rokt33r)/[**emoji-magic-box**](https://github.com/Rokt33r/emoji-magic-box)|(WIP) Dead-simple toolkit to build emoji stuff||
 |3|[@Taishi-Y](https://github.com/Taishi-Y)/[**Taishi-Y.github.io…**](https://github.com/Taishi-Y/Taishi-Y.github.io2)|This is my resume and portfolio.|[:arrow_upper_right:](https://taishi-y.github.io)|
 |3|[@Tedko](https://github.com/Tedko)/[**OtakuFonts**](https://github.com/Tedko/OtakuFonts)|图标字体，提供宅向 App、网站的徽标 SVG 源文件。||

@@ -9,10 +9,10 @@
 |542|[@kana](https://github.com/kana)/[**vim-textobj-user**](https://github.com/kana/vim-textobj-user)|Vim plugin: Create your own text objects|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2100)|
 |382|[@hail2u](https://github.com/hail2u)/[**vim-css3-syntax**](https://github.com/hail2u/vim-css3-syntax)|Add CSS3 syntax support to vim's built-in `syntax/css.vim`.||
 |366|[@eagletmt](https://github.com/eagletmt)/[**ghcmod-vim**](https://github.com/eagletmt/ghcmod-vim)|Happy Haskell programming on Vim, powered by ghc-mod|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4473)|
+|363|[@Quramy](https://github.com/Quramy)/[**tsuquyomi**](https://github.com/Quramy/tsuquyomi)|A Vim plugin for TypeScript|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5151)|
 |355|[@toyamarinyon](https://github.com/toyamarinyon)/[**vim-swift**](https://github.com/toyamarinyon/vim-swift)|Adds Swift support to vim. It covers syntax, intenting, and more.||
 |348|[@mattn](https://github.com/mattn)/[**webapi-vim**](https://github.com/mattn/webapi-vim)|vim interface to Web API|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4019)|
 |280|[@kana](https://github.com/kana)/[**vim-smartinput**](https://github.com/kana/vim-smartinput)|Vim plugin: Provide smart input assistant||
-|275|[@Quramy](https://github.com/Quramy)/[**tsuquyomi**](https://github.com/Quramy/tsuquyomi)|A Vim plugin for TypeScript|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5151)|
 |266|[@eagletmt](https://github.com/eagletmt)/[**neco-ghc**](https://github.com/eagletmt/neco-ghc)|A completion plugin for Haskell, using ghc-mod|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3423)|
 |257|[@rhysd](https://github.com/rhysd)/[**vim-clang-format**](https://github.com/rhysd/vim-clang-format)|Vim plugin for clang-format, a formatter for C, C++, Obj-C, Java, JavaScript and TypeScript.||
 |250|[@rhysd](https://github.com/rhysd)/[**clever-f.vim**](https://github.com/rhysd/clever-f.vim)|Extended f, F, t and T key mappings for Vim.|[:arrow_upper_right:](https://rhysd.github.io/clever-f.vim)|
@@ -83,6 +83,7 @@
 |39|[@kana](https://github.com/kana)/[**vim-operator-repla…**](https://github.com/kana/vim-operator-replace)|Vim plugin: Operator to replace text with register content|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2782)|
 |39|[@kana](https://github.com/kana)/[**vim-tabpagecd**](https://github.com/kana/vim-tabpagecd)|Vim plugin: Turn :cd into :tabpagecd, to use one tab page per project|[:arrow_upper_right:](http://vim-doc.heroku.com/view?https://raw.github.com/kana/vim-tabpagecd/master/doc/tabpagecd.txt)|
 |39|[@rhysd](https://github.com/rhysd)/[**conflict-marker.vi…**](https://github.com/rhysd/conflict-marker.vim)|Weapon to fight against conflicts in Vim.||
+|38|[@MaxMEllon](https://github.com/MaxMEllon)/[**vim-jsx-pretty**](https://github.com/MaxMEllon/vim-jsx-pretty)|:flashlight: [VimL] React JSX syntax pretty highlighting for vim.||
 |38|[@tyru](https://github.com/tyru)/[**open-browser-githu…**](https://github.com/tyru/open-browser-github.vim)|Open GitHub URL of current file, etc. from Vim editor (supported GitHub Enterprise)||
 |38|[@tyru](https://github.com/tyru)/[**skk.vim**](https://github.com/tyru/skk.vim)|skk.vim with miscellaneous hacks. patches/forks are welcome. if you are insterested in improving skk.vim, please contact me by twitter, email, and so on.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3118)|
 |37|[@JunichiIto](https://github.com/JunichiIto)/[**dotfiles**](https://github.com/JunichiIto/dotfiles)|My dotfiles||
@@ -98,6 +99,7 @@
 |33|[@rhysd](https://github.com/rhysd)/[**devdocs.vim**](https://github.com/rhysd/devdocs.vim)|Open devdocs.io from Vim||
 |33|[@rhysd](https://github.com/rhysd)/[**vim-go-impl**](https://github.com/rhysd/vim-go-impl)|A Vim plugin to use `impl`|[:arrow_upper_right:](https://github.com/josharian/impl)|
 |33|[@rhysd](https://github.com/rhysd)/[**vim-textobj-ruby**](https://github.com/rhysd/vim-textobj-ruby)|Make text objects with various ruby block structures.||
+|32|[@Quramy](https://github.com/Quramy)/[**vim-js-pretty-temp…**](https://github.com/Quramy/vim-js-pretty-template)|highlights JavaScript's Template Strings in other FileType syntax rule|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5222)|
 |31|[@koron](https://github.com/koron)/[**vim-ario**](https://github.com/koron/vim-ario)||[:arrow_upper_right:](http://www.kaoriya.net/blog/2015/12/13/)|
 |30|[@haya14busa](https://github.com/haya14busa)/[**go-vimlparser**](https://github.com/haya14busa/go-vimlparser)|:zap: Vim Script Parser written in Go|[:arrow_upper_right:](https://medium.com/@haya14busa/vim-script-parser-written-in-go-4d0296782a14#.tf52lht5h)|
 |30|[@joker1007](https://github.com/joker1007)/[**vim-markdown-quote…**](https://github.com/joker1007/vim-markdown-quote-syntax)|vim plugin for highliting code in markdown quote||
@@ -118,7 +120,6 @@
 |26|[@kana](https://github.com/kana)/[**vim-filetype-haske…**](https://github.com/kana/vim-filetype-haskell)|Vim configuration files for Haskell code||
 |26|[@kana](https://github.com/kana)/[**vim-gf-user**](https://github.com/kana/vim-gf-user)|Vim plugin: A framework to open a file by context||
 |26|[@nishigori](https://github.com/nishigori)/[**increment-activato…**](https://github.com/nishigori/increment-activator)|[Vim] Enhance to increment candidates U have defined |[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4817)|
-|25|[@Quramy](https://github.com/Quramy)/[**vim-js-pretty-temp…**](https://github.com/Quramy/vim-js-pretty-template)|highlights JavaScript's Template Strings in other FileType syntax rule|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5222)|
 |25|[@kana](https://github.com/kana)/[**vim-textobj-lastpa…**](https://github.com/kana/vim-textobj-lastpat)|Vim plugin: Text objects for the last searched pattern|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2355)|
 |25|[@lambdalisue](https://github.com/lambdalisue)/[**vim-unified-diff**](https://github.com/lambdalisue/vim-unified-diff)|[Obsolute: See vim-diffa] A library for using unified diff in vimdiff||
 |24|[@haya14busa](https://github.com/haya14busa)/[**vim-easyoperator-l…**](https://github.com/haya14busa/vim-easyoperator-line)|Select, yank, paste, delete, or other operation of lines.||
@@ -177,7 +178,6 @@
 |16|[@sgur](https://github.com/sgur)/[**unite-qf**](https://github.com/sgur/unite-qf)|quickfix source for unite.vim|[:arrow_upper_right:](http://sgur.tumblr.com/post/20964494874/quickfix-unite-vim-source)|
 |16|[@tacahiroy](https://github.com/tacahiroy)/[**ctrlp-ssh**](https://github.com/tacahiroy/ctrlp-ssh)|a ctrlp.vim extension - open a new SSH connection via ctrlp.vim interface|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4665)|
 |15|[@AtsushiM](https://github.com/AtsushiM)/[**sass-compile.vim**](https://github.com/AtsushiM/sass-compile.vim)|Add Sass compile & utility commands.||
-|15|[@MaxMEllon](https://github.com/MaxMEllon)/[**vim-jsx-pretty**](https://github.com/MaxMEllon/vim-jsx-pretty)|:flashlight: [VimL] React JSX syntax pretty highlighting for vim.||
 |15|[@haya14busa](https://github.com/haya14busa)/[**dotfiles**](https://github.com/haya14busa/dotfiles)|||
 |15|[@pepabo](https://github.com/pepabo)/[**sekigae2013**](https://github.com/pepabo/sekigae2013)|席替えスクリプト||
 |14|[@Sixeight](https://github.com/Sixeight)/[**unite-grep**](https://github.com/Sixeight/unite-grep)|grep source for unite.vim||

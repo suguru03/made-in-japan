@@ -141,6 +141,7 @@
 |24|[@youpy](https://github.com/youpy)/[**ruby-spotlight**](https://github.com/youpy/ruby-spotlight)|Library to use Spotlight from Ruby||
 |23|[@hetima](https://github.com/hetima)/[**HetimaZip-qlgenera…**](https://github.com/hetima/HetimaZip-qlgenerator)|Quick Look plugin for zip http://hetima.com/hetimazipql/||
 |23|[@shugo](https://github.com/shugo)/[**mod_ruby**](https://github.com/shugo/mod_ruby)|Embedding Ruby in the Apache web server|[:arrow_upper_right:](http://modruby.net/)|
+|22|[@RKX1209](https://github.com/RKX1209)/[**TinyLinux**](https://github.com/RKX1209/TinyLinux)|TinyLinux is a tiny kernel.||
 |22|[@authorNari](https://github.com/authorNari)/[**objspace-age**](https://github.com/authorNari/objspace-age)|Show stats on object's age.||
 |22|[@fjolnir](https://github.com/fjolnir)/[**CoreFoundation-Lit…**](https://github.com/fjolnir/CoreFoundation-Lite-Linux)|CFLite fixed to build correctly on linux (Tested on debian with clang 3.0)||
 |22|[@iwiwi](https://github.com/iwiwi)/[**pruned-landmark-la…**](https://github.com/iwiwi/pruned-landmark-labeling)|Fast and exact shortest-path distance querying index|[:arrow_upper_right:](http://www-imai.is.s.u-tokyo.ac.jp/~takiba/index_e.html)|
@@ -153,12 +154,12 @@
 |21|[@iwiwi](https://github.com/iwiwi)/[**parallel-string-ra…**](https://github.com/iwiwi/parallel-string-radix-sort)|A parallelized implementation of optimized MSD radix sort for strings||
 |21|[@kyamagu](https://github.com/kyamagu)/[**matlab-lmdb**](https://github.com/kyamagu/matlab-lmdb)|Matlab LMDB wrapper||
 |21|[@tmurakam](https://github.com/tmurakam)/[**4msysgit-utf8-file…**](https://github.com/tmurakam/4msysgit-utf8-filepath)|Git for Windows support utf-8 filepath|[:arrow_upper_right:](http://tmurakam.org/git/)|
-|20|[@Plemling138](https://github.com/Plemling138)/[**Twitter4C**](https://github.com/Plemling138/Twitter4C)|Using Twitter API with "The C Programming Language"|[:arrow_upper_right:](http://twitter.com/#!/Plemling138)|
 |20|[@lyokato](https://github.com/lyokato)/[**libgeohash**](https://github.com/lyokato/libgeohash)|GeoHash C Library||
 |20|[@mkasa](https://github.com/mkasa)/[**cpas**](https://github.com/mkasa/cpas)|Tool to run C++ script||
 |20|[@mopemope](https://github.com/mopemope)/[**jega**](https://github.com/mopemope/jega)|Jega is a concurrent networking and cooperative multitasking library for Python3.||
 |20|[@nobonobo](https://github.com/nobonobo)/[**unqlitepy**](https://github.com/nobonobo/unqlitepy)|UnQLite for Python Binding||
 |19|[@KLab](https://github.com/KLab)/[**recaro**](https://github.com/KLab/recaro)|Isucon用Webサーバー||
+|19|[@Plemling138](https://github.com/Plemling138)/[**Twitter4C**](https://github.com/Plemling138/Twitter4C)|Using Twitter API with "The C Programming Language"|[:arrow_upper_right:](http://twitter.com/#!/Plemling138)|
 |19|[@cubicdaiya](https://github.com/cubicdaiya)/[**mpool**](https://github.com/cubicdaiya/mpool)|memory pool implimentation by C with C99 style||
 |18|[@bobbens](https://github.com/bobbens)/[**libdq**](https://github.com/bobbens/libdq)|Library for creating and manipulating dual quaternions.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/code/libdq/)|
 |18|[@cubicdaiya](https://github.com/cubicdaiya)/[**ngx_http_hello_wor…**](https://github.com/cubicdaiya/ngx_http_hello_world)|Hello, World with nginx||
@@ -546,6 +547,7 @@
 |3|[@Hiroyuki-Nagata](https://github.com/Hiroyuki-Nagata)/[**XrossBoard**](https://github.com/Hiroyuki-Nagata/XrossBoard)|クロスプラットフォームで動作する汎用掲示板クライアント　協力してくれる方歓迎|[:arrow_upper_right:](http://hiroyuki-nagata.github.io/XrossBoard)|
 |3|[@PyYoshi](https://github.com/PyYoshi)/[**android_device_pan…**](https://github.com/PyYoshi/android_device_panasonic_ponyo)|Cyanogenmod for P-01D||
 |3|[@PyYoshi](https://github.com/PyYoshi)/[**is01_froyo_kernel**](https://github.com/PyYoshi/is01_froyo_kernel)|CyanogenMod for IS01です。略してCM4IS01。 基本的にmasterブランチでよろしくお願いします。 |[:arrow_upper_right:](http://cm4is01.remu.biz/cm4is01nobirudo-zhun-beitobirudo-fang-fa)|
+|3|[@RobotClubKut](https://github.com/RobotClubKut)/[**MatrixLED**](https://github.com/RobotClubKut/MatrixLED)|16x32x3マトリクスLEDパネル||
 |3|[@Saqoosha](https://github.com/Saqoosha)/[**OSC-Broadcaster**](https://github.com/Saqoosha/OSC-Broadcaster)|UDP repeater app for re-broadcasting OSC packets.||
 |3|[@SatoshiShimada](https://github.com/SatoshiShimada)/[**os**](https://github.com/SatoshiShimada/os)|My Original OperationgSystem (x86 32bit)||
 |3|[@Terminus-IMRC](https://github.com/Terminus-IMRC)/[**framebuffer2image**](https://github.com/Terminus-IMRC/framebuffer2image)|Extracts image file from framebuffer device||

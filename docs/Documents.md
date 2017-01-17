@@ -6,11 +6,11 @@
 |1439|[@hatena](https://github.com/hatena)/[**Hatena-Textbook**](https://github.com/hatena/Hatena-Textbook)|はてな研修用教科書||
 |730|[@cookpad](https://github.com/cookpad)/[**styleguide**](https://github.com/cookpad/styleguide)|Cookpad's coding style guides||
 |726|[@diasks2](https://github.com/diasks2)/[**ruby-nlp**](https://github.com/diasks2/ruby-nlp)|A collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software||
+|683|[@ShingoFukuyama](https://github.com/ShingoFukuyama)/[**WKWebViewTips**](https://github.com/ShingoFukuyama/WKWebViewTips)|WKWebView Tips (iOS 8.1.0)||
 |623|[@sotayamashita](https://github.com/sotayamashita)/[**awesome-css**](https://github.com/sotayamashita/awesome-css)|:thumbsup: A curated contents of amazing CSS Ever :)||
 |564|[@coliff](https://github.com/coliff)/[**bootstrap-ie7**](https://github.com/coliff/bootstrap-ie7)|Bootstrap 3 CSS for IE7||
 |558|[@hail2u](https://github.com/hail2u)/[**html-best-practice…**](https://github.com/hail2u/html-best-practices)|For writing maintainable and scalable HTML documents||
 |521|[@hotchemi](https://github.com/hotchemi)/[**awesome-android-te…**](https://github.com/hotchemi/awesome-android-testing)|A curated list of awesome android testing libraries.||
-|520|[@ShingoFukuyama](https://github.com/ShingoFukuyama)/[**WKWebViewTips**](https://github.com/ShingoFukuyama/WKWebViewTips)|WKWebView Tips (iOS 8.1.0)||
 |509|[@yusukekamiyamane](https://github.com/yusukekamiyamane)/[**fugue-icons**](https://github.com/yusukekamiyamane/fugue-icons)|Free stock icons.|[:arrow_upper_right:](http://p.yusukekamiyamane.com/)|
 |476|[@hackerkid](https://github.com/hackerkid)/[**Mind-Expanding-Boo…**](https://github.com/hackerkid/Mind-Expanding-Books)| :books: Curated list of mind expanding books||
 |383|[@azu](https://github.com/azu)/[**awesome-commit-eng…**](https://github.com/azu/awesome-commit-english)|コミット英語についての記事まとめ||
@@ -21,10 +21,10 @@
 |245|[@kudakurage](https://github.com/kudakurage)/[**LigatureSymbols**](https://github.com/kudakurage/LigatureSymbols)|Ligature Symbols is WebFont project to display the symbol with a ligature features. This Font is licensed under the SIL Open Font License.|[:arrow_upper_right:](http://kudakurage.com/ligature_symbols/)|
 |220|[@hatena](https://github.com/hatena)/[**Git-for-Designers**](https://github.com/hatena/Git-for-Designers)|はてなのデザイナ向けの Git 入門ドキュメントです。||
 |211|[@recurser](https://github.com/recurser)/[**exif-orientation-e…**](https://github.com/recurser/exif-orientation-examples)|Example images for the various EXIF orientation flags, in both landscape and portrait orientation.|[:arrow_upper_right:](http://www.daveperrett.com/articles/2012/07/28/exif-orientation-handling-is-a-ghetto/)|
+|202|[@Shinpeim](https://github.com/Shinpeim)/[**introduction-to-gi…**](https://github.com/Shinpeim/introduction-to-git)|Gitをはじめからていねいに||
 |194|[@hackerkid](https://github.com/hackerkid)/[**bots**](https://github.com/hackerkid/bots)| :zap: Tools and resources for building bots||
 |193|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-to…**](https://github.com/wasabeef/awesome-android-tools)|A curated list of awesome Android Tools.||
 |189|[@sanographix](https://github.com/sanographix)/[**azusa-colors**](https://github.com/sanographix/azusa-colors)|Keynote template|[:arrow_upper_right:](http://sanographix.github.io/azusa-colors/)|
-|182|[@Shinpeim](https://github.com/Shinpeim)/[**introduction-to-gi…**](https://github.com/Shinpeim/introduction-to-git)|Gitをはじめからていねいに||
 |158|[@linyows](https://github.com/linyows)/[**github-wiki-search…**](https://github.com/linyows/github-wiki-search)|Search wiki of the repository on Github|[:arrow_upper_right:](http://userscripts.org/scripts/show/129930)|
 |132|[@mitsuruog](https://github.com/mitsuruog)/[**javascript-style-g…**](https://github.com/mitsuruog/javascript-style-guide)|常に気をつけたい、JavaScriptへの正しい接し方|[:arrow_upper_right:](http://mitsuruog.github.com/javascript-style-guide)|
 |131|[@onevcat](https://github.com/onevcat)/[**iOSWeekly**](https://github.com/onevcat/iOSWeekly)|iOS Weekly issue for InfoQ CN||
@@ -196,6 +196,7 @@
 |14|[@ukstudio](https://github.com/ukstudio)/[**ngtyk**](https://github.com/ukstudio/ngtyk)||[:arrow_upper_right:](http://ngtyk.super-beauty.com/)|
 |13|[@DQNEO](https://github.com/DQNEO)/[**Renshu**](https://github.com/DQNEO/Renshu)|練習用です。ご自由にforkしてPull Requestを送ってください。↓ 「Git/Github超入門：猿でもできるPull Request」|[:arrow_upper_right:](http://dqn.sakusakutto.jp/2011/10/git_github_pull_request.html)|
 |13|[@Echos](https://github.com/Echos)/[**maven-zsh-completi…**](https://github.com/Echos/maven-zsh-completion)|Zsh completion for Maven.||
+|13|[@MakeNowJust](https://github.com/MakeNowJust)/[**sushi-ware**](https://github.com/MakeNowJust/sushi-ware)|:sushi: "THE SUSHI-WARE LICENSE"|[:arrow_upper_right:](https://git.io/sushi-ware)|
 |13|[@csakatoku](https://github.com/csakatoku)/[**ganglia-pymodule_n…**](https://github.com/csakatoku/ganglia-pymodule_nginx_status)|Ganglia python module for nginx||
 |13|[@dnpp73](https://github.com/dnpp73)/[**try-Swift-Report**](https://github.com/dnpp73/try-Swift-Report)|try! Swift カンファレンスに参加してきたので簡単にまとめ||
 |13|[@hitode909](https://github.com/hitode909)/[**jquery-lazylist**](https://github.com/hitode909/jquery-lazylist)|Lazy list built on jQuery Deferred||
@@ -270,6 +271,7 @@
 |9|[@Hironsan](https://github.com/Hironsan)/[**awesome-embedding-…**](https://github.com/Hironsan/awesome-embedding-models)|A curated list of awesome embedding models tutorials, projects and communities.||
 |9|[@IAMAS](https://github.com/IAMAS)/[**co-creation_projec…**](https://github.com/IAMAS/co-creation_project_agreement)|||
 |9|[@Saqoosha](https://github.com/Saqoosha)/[**PixelBender3D-tmbu…**](https://github.com/Saqoosha/PixelBender3D-tmbundle)|TextMate bundle for Pixel Bender 3D.|[:arrow_upper_right:](http://saqoo.sh/a/)|
+|9|[@ScratchBuild](https://github.com/ScratchBuild)/[**MIUI8-XML-Japanese…**](https://github.com/ScratchBuild/MIUI8-XML-Japanese)|Japanese MIUI 8 translation for xiaomi.eu||
 |9|[@ashikase](https://github.com/ashikase)/[**Localization**](https://github.com/ashikase/Localization)|Localizations for my iOS projects.||
 |9|[@atotto](https://github.com/atotto)/[**yasnippet-golang**](https://github.com/atotto/yasnippet-golang)|emacs snippet (yasnippets) for golang||
 |9|[@cognitom](https://github.com/cognitom)/[**Qiita**](https://github.com/cognitom/Qiita)|Articles on Qiita||
@@ -298,9 +300,7 @@
 |8|[@Hypercubed](https://github.com/Hypercubed)/[**javascript-the-eso…**](https://github.com/Hypercubed/javascript-the-esoteric-parts)|JavaScript: The Esoteric Parts||
 |8|[@KeithYokoma](https://github.com/KeithYokoma)/[**wercker-container-…**](https://github.com/KeithYokoma/wercker-container-android)|Docker container for wercker to build android app||
 |8|[@Kinokkory](https://github.com/Kinokkory)/[**fp-blogs**](https://github.com/Kinokkory/fp-blogs)|関数型プログラミング界隈のブログの非公式日本語訳||
-|8|[@MakeNowJust](https://github.com/MakeNowJust)/[**sushi-ware**](https://github.com/MakeNowJust/sushi-ware)|:sushi: "THE SUSHI-WARE LICENSE"|[:arrow_upper_right:](https://git.io/sushi-ware)|
 |8|[@STAR-ZERO](https://github.com/STAR-ZERO)/[**necomimi**](https://github.com/STAR-ZERO/necomimi)|#scmbc 2012/07/22||
-|8|[@ScratchBuild](https://github.com/ScratchBuild)/[**MIUI8-XML-Japanese…**](https://github.com/ScratchBuild/MIUI8-XML-Japanese)|Japanese MIUI 8 translation for xiaomi.eu||
 |8|[@Takazudo](https://github.com/Takazudo)/[**outline.vim**](https://github.com/Takazudo/outline.vim)|create outline window for commented source code.||
 |8|[@alfasado](https://github.com/alfasado)/[**mt-tools-rebuild-a…**](https://github.com/alfasado/mt-tools-rebuild-archives)|The rebuild-archives script can be rebuild archives from the command line.||
 |8|[@amyu](https://github.com/amyu)/[**DroidKaigiMasterOf…**](https://github.com/amyu/DroidKaigiMasterOfCanvas)|||
@@ -437,6 +437,7 @@
 |5|[@DQNEO](https://github.com/DQNEO)/[**ansible-role-php7**](https://github.com/DQNEO/ansible-role-php7)|||
 |5|[@Harurow](https://github.com/Harurow)/[**Hidemaru-Settings**](https://github.com/Harurow/Hidemaru-Settings)|秀丸の設定||
 |5|[@Hironsan](https://github.com/Hironsan)/[**IOB2Corpus**](https://github.com/Hironsan/IOB2Corpus)|Japanese IOB2 tagged corpus for Named Entity Recognition.||
+|5|[@Kumikomi](https://github.com/Kumikomi)/[**OpenReroc**](https://github.com/Kumikomi/OpenReroc)|OpenReroc (Open source Reconfigurable robot component)|[:arrow_upper_right:](http://kumikomi.github.io/OpenReroc/)|
 |5|[@MakeNowJust](https://github.com/MakeNowJust)/[**commlog**](https://github.com/MakeNowJust/commlog)|Commit Log as a Blog|[:arrow_upper_right:](https://makenowjust.github.io/commlog)|
 |5|[@Nodeclipse](https://github.com/Nodeclipse)/[**nodeclipse-blog**](https://github.com/Nodeclipse/nodeclipse-blog)|Nodeclipse team old blog|[:arrow_upper_right:](http://www.nodeclipse.org/share.html)|
 |5|[@Takazudo](https://github.com/Takazudo)/[**jQuery.ui.swipable…**](https://github.com/Takazudo/jQuery.ui.swipable)|This was iPad, iPhone swipe event handling... BUT NOTE! USE jQuery mobile instead! This project is out of maintenance now.||
@@ -666,8 +667,8 @@
 |3|[@Fandekasp](https://github.com/Fandekasp)/[**reinforcement_lear…**](https://github.com/Fandekasp/reinforcement_learning_exercices)|Training on AI / ML / RL||
 |3|[@Genki-S](https://github.com/Genki-S)/[**gsoc2015**](https://github.com/Genki-S/gsoc2015)|||
 |3|[@KinkumaDesign](https://github.com/KinkumaDesign)/[**ImageSnippet**](https://github.com/KinkumaDesign/ImageSnippet)|Command Pannel for Fireworks extension. ||
-|3|[@Kumikomi](https://github.com/Kumikomi)/[**OpenReroc**](https://github.com/Kumikomi/OpenReroc)|OpenReroc (Open source Reconfigurable robot component)|[:arrow_upper_right:](http://kumikomi.github.io/OpenReroc/)|
 |3|[@KxNxT](https://github.com/KxNxT)/[**jisha-bukkaku**](https://github.com/KxNxT/jisha-bukkaku)|寺社仏閣の説明 資料||
+|3|[@LoliGothick](https://github.com/LoliGothick)/[**cpprefjp-draft**](https://github.com/LoliGothick/cpprefjp-draft)|||
 |3|[@MSakamaki](https://github.com/MSakamaki)/[**javascript-handson…**](https://github.com/MSakamaki/javascript-handson-beginner-21cafe)|はじめてのプログラミングの資料です。||
 |3|[@MihailJP](https://github.com/MihailJP)/[**Russkopis**](https://github.com/MihailJP/Russkopis)|a free Cyrillic cursive font|[:arrow_upper_right:](http://mihafont.seesaa.net/article/194464604.html)|
 |3|[@Nodeclipse](https://github.com/Nodeclipse)/[**JavaScriptContaine…**](https://github.com/Nodeclipse/JavaScriptContainer)|Container for JavaScript components to be used inside Eclipse||

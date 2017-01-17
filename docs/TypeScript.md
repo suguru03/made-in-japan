@@ -17,6 +17,7 @@
 |33|[@kazuki](https://github.com/kazuki)/[**video-codec.js**](https://github.com/kazuki/video-codec.js)|JavaScript Video Encoder/Decoder Sample (daala/libvpx/openH264 compiled with emscripten to JavaScript)||
 |29|[@nobuoka](https://github.com/nobuoka)/[**GifWriter.js**](https://github.com/nobuoka/GifWriter.js)|GIF (version 89a) Encoder written in TypeScript|[:arrow_upper_right:](http://nobuoka.github.io/GifWriter.js/)|
 |22|[@shiwano](https://github.com/shiwano)/[**typhen**](https://github.com/shiwano/typhen)|:cyclone: Generates code or documentation from TypeScript.||
+|19|[@Quramy](https://github.com/Quramy)/[**ng2-lazy-load-demo…**](https://github.com/Quramy/ng2-lazy-load-demo)|A sample repository for Angular2 lazy module loading||
 |19|[@vvakame](https://github.com/vvakame)/[**language-review**](https://github.com/vvakame/language-review)|Re:VIEW support for Atom|[:arrow_upper_right:](https://atom.io/packages/language-review)|
 |17|[@laco0416](https://github.com/laco0416)/[**angular2-component…**](https://github.com/laco0416/angular2-component-outlet)|Angular2 dynamic component outlet||
 |16|[@likr](https://github.com/likr)/[**interactive-sem**](https://github.com/likr/interactive-sem)|Interactive SEM|[:arrow_upper_right:](http://likr.github.io/interactive-sem/)|
@@ -24,7 +25,10 @@
 |13|[@bouzuya](https://github.com/bouzuya)/[**beater**](https://github.com/bouzuya/beater)|bouzuya's easy test runner (beta)|[:arrow_upper_right:](https://www.npmjs.com/package/beater)|
 |13|[@seanchas116](https://github.com/seanchas116)/[**sketch-glass**](https://github.com/seanchas116/sketch-glass)|Simple & fast realtime online whiteboard powered by WebGL and Google Drive|[:arrow_upper_right:](https://draw.sketch-glass.io/)|
 |12|[@JakeJP](https://github.com/JakeJP)/[**FlashAirJS**](https://github.com/JakeJP/FlashAirJS)|FlashAir(TM) Javascript Client Library||
+|12|[@Kuniwak](https://github.com/Kuniwak)/[**html-dnd**](https://github.com/Kuniwak/html-dnd)|HTML Drag and Drop Simulator for E2E testing||
+|12|[@Quramy](https://github.com/Quramy)/[**graphql-decorator**](https://github.com/Quramy/graphql-decorator)|||
 |11|[@vvakame](https://github.com/vvakame)/[**gapidts**](https://github.com/vvakame/gapidts)|TypeScript definition file generator for Google APIs Discovery Service||
+|10|[@Quramy](https://github.com/Quramy)/[**typescript-css-mod…**](https://github.com/Quramy/typescript-css-modules-demo)|A working demo of CSS Modules, using TypeScript, css-modulesify and typed-css-modules|[:arrow_upper_right:](http://quramy.github.io/typescript-css-modules-demo/)|
 |10|[@frontainer](https://github.com/frontainer)/[**ng2-start**](https://github.com/frontainer/ng2-start)|Angular2をとりあえず始めてみたい人向けのスターターキット(TypeScript & Webpack)||
 |10|[@laco0416](https://github.com/laco0416)/[**angular2-testing-l…**](https://github.com/laco0416/angular2-testing-lite)|Jasmine-free Angular 2 Testing Library||
 |10|[@noraesae](https://github.com/noraesae)/[**express-formidable…**](https://github.com/noraesae/express-formidable)|An Express middleware of Formidable that just works.|[:arrow_upper_right:](https://github.com/noraesae/express-formidable)|
@@ -33,10 +37,9 @@
 |9|[@kubosho](https://github.com/kubosho)/[**ano-gakki**](https://github.com/kubosho/ano-gakki)|:musical_note: Implement the "Ano Gakki" (That Instrument) for Web Audio API.|[:arrow_upper_right:](http://kubosho.github.io/ano-gakki)|
 |9|[@pokutuna](https://github.com/pokutuna)/[**chrome-github-comp…**](https://github.com/pokutuna/chrome-github-compaito)|a chrome extension for jumping to compare view||
 |8|[@Jxck](https://github.com/Jxck)/[**utf8-encoding**](https://github.com/Jxck/utf8-encoding)|utf8 encoder/decoder of whatwg Encoding Living Standard https://encoding.spec.whatwg.org/||
-|8|[@Kuniwak](https://github.com/Kuniwak)/[**html-dnd**](https://github.com/Kuniwak/html-dnd)|HTML Drag and Drop Simulator for E2E testing||
 |8|[@argelius](https://github.com/argelius)/[**angular2-pokedex**](https://github.com/argelius/angular2-pokedex)|Angular 2 RC5 sample Pokémon app||
 |7|[@Jxck](https://github.com/Jxck)/[**fetch**](https://github.com/Jxck/fetch)|isomorphic fetch implementation.||
-|7|[@Quramy](https://github.com/Quramy)/[**ng2-lazy-load-demo…**](https://github.com/Quramy/ng2-lazy-load-demo)|A sample repository for Angular2 lazy module loading||
+|7|[@MSakamaki](https://github.com/MSakamaki)/[**rxjs-handson**](https://github.com/MSakamaki/rxjs-handson)|||
 |7|[@bouzuya](https://github.com/bouzuya)/[**bath**](https://github.com/bouzuya/bath)|A simple path template engine|[:arrow_upper_right:](https://www.npmjs.com/package/bath)|
 |7|[@kotas](https://github.com/kotas)/[**niconico-favlist**](https://github.com/kotas/niconico-favlist)|NicoNicoFavlist UserScript||
 |7|[@laco0416](https://github.com/laco0416)/[**angular2-example**](https://github.com/laco0416/angular2-example)||[:arrow_upper_right:](https://angular2-example.firebaseapp.com)|
@@ -47,7 +50,6 @@
 |6|[@ohac](https://github.com/ohac)/[**sha1coin**](https://github.com/ohac/sha1coin)|Finding 2ch tripcode with mining||
 |6|[@wadahiro](https://github.com/wadahiro)/[**bitbucket-browser**](https://github.com/wadahiro/bitbucket-browser)|Viewer for Atlassian Bitbucket (formerly Stash).||
 |6|[@wadahiro](https://github.com/wadahiro)/[**griddle-react-boot…**](https://github.com/wadahiro/griddle-react-bootstrap)|Bootstrap style for griddle-react|[:arrow_upper_right:](http://wadahiro.github.io/griddle-react-bootstrap/)|
-|5|[@MSakamaki](https://github.com/MSakamaki)/[**rxjs-handson**](https://github.com/MSakamaki/rxjs-handson)|||
 |5|[@bouzuya](https://github.com/bouzuya)/[**cookie-storage**](https://github.com/bouzuya/cookie-storage)|A Web Storage interface for Cookie|[:arrow_upper_right:](https://www.npmjs.com/package/cookie-storage)|
 |5|[@bouzuya](https://github.com/bouzuya)/[**ts-redux-saga-ssr**](https://github.com/bouzuya/ts-redux-saga-ssr)|||
 |5|[@ktsn](https://github.com/ktsn)/[**hawkeye**](https://github.com/ktsn/hawkeye)|Intuitive tab manager for Google Chrome||
@@ -63,7 +65,6 @@
 |4|[@nulab](https://github.com/nulab)/[**botbuilder-typetal…**](https://github.com/nulab/botbuilder-typetalk)|Typetalk bot connector for Microsoft BotBuilder.||
 |4|[@seanchas116](https://github.com/seanchas116)/[**macaron**](https://github.com/seanchas116/macaron)|[WIP] A JavaScript alternative with static typing||
 |4|[@seanchas116](https://github.com/seanchas116)/[**tparse**](https://github.com/seanchas116/tparse)|A Parser Combinator for JavaScript/TypeScript||
-|3|[@Quramy](https://github.com/Quramy)/[**typescript-css-mod…**](https://github.com/Quramy/typescript-css-modules-demo)|A working demo of CSS Modules, using TypeScript, css-modulesify and typed-css-modules|[:arrow_upper_right:](http://quramy.github.io/typescript-css-modules-demo/)|
 |3|[@albatrosary](https://github.com/albatrosary)/[**angular2-lite-star…**](https://github.com/albatrosary/angular2-lite-start)|Angular2 Lite Start||
 |3|[@c-bata](https://github.com/c-bata)/[**ng2-card**](https://github.com/c-bata/ng2-card)|Card view component for angular2|[:arrow_upper_right:](https://www.npmjs.com/package/ng2-card)|
 |3|[@emonkak](https://github.com/emonkak)/[**feedpon**](https://github.com/emonkak/feedpon)|The feed reader for me||

@@ -33,13 +33,13 @@
 |103|[@r-plus](https://github.com/r-plus)/[**substrate**](https://github.com/r-plus/substrate)|mirror of git://git.saurik.com/substrate.git||
 |99|[@kyab](https://github.com/kyab)/[**mruby-arduino**](https://github.com/kyab/mruby-arduino)|Arduino API(a.k.a Wiring) wrapper for mruby.||
 |96|[@hagino3000](https://github.com/hagino3000)/[**KinectJesture**](https://github.com/hagino3000/KinectJesture)|Control mouse by Kinect for Mac||
+|93|[@PyYoshi](https://github.com/PyYoshi)/[**cChardet**](https://github.com/PyYoshi/cChardet)|universal character encoding detector||
 |93|[@neubig](https://github.com/neubig)/[**kytea**](https://github.com/neubig/kytea)|The Kyoto Text Analysis Toolkit for word segmentation and pronunciation estimation, etc.|[:arrow_upper_right:](http://www.phontron.com/kytea)|
 |87|[@recotana](https://github.com/recotana)/[**ArdOSC**](https://github.com/recotana/ArdOSC)|Open Sound Control(OSC) Library for Arduino (tested Arduino 1.0-rc1 & Arduino Ethernet)||
 |86|[@tado](https://github.com/tado)/[**BeyondInteraction**](https://github.com/tado/BeyondInteraction)|openFrameworks examples for the book "Beyond Interaction".||
 |84|[@yusuketomoto](https://github.com/yusuketomoto)/[**ofxEvm**](https://github.com/yusuketomoto/ofxEvm)|EVM(Eulerian Video Magnification) addon for openFrameworks||
 |83|[@UnaNancyOwen](https://github.com/UnaNancyOwen)/[**Kinect2Sample**](https://github.com/UnaNancyOwen/Kinect2Sample)|Kinect for Windows SDK v2 Sample Program||
 |79|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxInkSim**](https://github.com/Akira-Hayasaka/ofxInkSim)|openFrameworks ink/fluid deposition simulator addon.||
-|79|[@PyYoshi](https://github.com/PyYoshi)/[**cChardet**](https://github.com/PyYoshi/cChardet)|This library is high speed universal character encoding detector. - binding to libcharsetdetect|[:arrow_upper_right:](http://pypi.python.org/pypi/cchardet/)|
 |76|[@mooz](https://github.com/mooz)/[**node-icu-charset-d…**](https://github.com/mooz/node-icu-charset-detector)|A simple binding of ICU character set detection for Node.js||
 |75|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxGLEditor**](https://github.com/Akira-Hayasaka/ofxGLEditor)|Script editor for oF Live Coding||
 |72|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**RAMDanceToolkit**](https://github.com/YCAMInterlab/RAMDanceToolkit)| ||
@@ -269,6 +269,7 @@
 |10|[@wellflat](https://github.com/wellflat)/[**opencv-samples**](https://github.com/wellflat/opencv-samples)|OpenCV sample codes (C++/Python)|[:arrow_upper_right:](http://opencv.org/)|
 |9|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxMeCab**](https://github.com/Akira-Hayasaka/ofxMeCab)|openFrameworks Japanese morphological analyzer MeCab||
 |9|[@Hieromon](https://github.com/Hieromon)/[**ESP8266**](https://github.com/Hieromon/ESP8266)|ESP8266 WiFi module Library for Arduino||
+|9|[@MihailJP](https://github.com/MihailJP)/[**MiHaJong**](https://github.com/MihailJP/MiHaJong)|ローカルルールを大量搭載した四人打ち＆三人打ち麻雀|[:arrow_upper_right:](http://www14.atwiki.jp/mihajong/)|
 |9|[@ahiguti](https://github.com/ahiguti)/[**bulkdbg**](https://github.com/ahiguti/bulkdbg)|||
 |9|[@chikuzen](https://github.com/chikuzen)/[**TCannyMod**](https://github.com/chikuzen/TCannyMod)|Canny edge detection filter for Avisynth2.6||
 |9|[@giginet](https://github.com/giginet)/[**KawazJet**](https://github.com/giginet/KawazJet)|||
@@ -297,7 +298,6 @@
 |8|[@DaikiMaekawa](https://github.com/DaikiMaekawa)/[**quadrotor_moveit_n…**](https://github.com/DaikiMaekawa/quadrotor_moveit_nav)|This packages provide path planner for moving the quadrotor in 3D using ROS.||
 |8|[@Gnurou](https://github.com/Gnurou)/[**kdevelop**](https://github.com/Gnurou/kdevelop)|Some experiments with KDevelop||
 |8|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**RMeCab**](https://github.com/IshidaMotohiro/RMeCab)|Interface to MeCab||
-|8|[@MihailJP](https://github.com/MihailJP)/[**MiHaJong**](https://github.com/MihailJP/MiHaJong)|ローカルルールを大量搭載した四人打ち＆三人打ち麻雀|[:arrow_upper_right:](http://www14.atwiki.jp/mihajong/)|
 |8|[@VFR-maniac](https://github.com/VFR-maniac)/[**VapourSynth-FFT3DF…**](https://github.com/VFR-maniac/VapourSynth-FFT3DFilter)|VapourSynth port of FFT3DFilter||
 |8|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**mapamok**](https://github.com/YCAMInterlab/mapamok)|||
 |8|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**ofxSubtitles**](https://github.com/YCAMInterlab/ofxSubtitles)|an addon for displaying a subtitle track along with a video or audio file||
@@ -334,6 +334,7 @@
 |8|[@zcbenz](https://github.com/zcbenz)/[**native-mate**](https://github.com/zcbenz/native-mate)|||
 |8|[@zcbenz](https://github.com/zcbenz)/[**node-native-mate**](https://github.com/zcbenz/node-native-mate)|A non-intrusive lightweight JS to C++ bindings for node||
 |7|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofAnimatedCrowdRen…**](https://github.com/Akira-Hayasaka/ofAnimatedCrowdRenderingExample)|openFrameworks Animated Crowd Rendering Example||
+|7|[@LoliGothick](https://github.com/LoliGothick)/[**Interval-Analysis**](https://github.com/LoliGothick/Interval-Analysis)|||
 |7|[@SakuragiYoshimasa](https://github.com/SakuragiYoshimasa)/[**ofxSpline**](https://github.com/SakuragiYoshimasa/ofxSpline)|||
 |7|[@Saqoosha](https://github.com/Saqoosha)/[**Match-3-Games-Solv…**](https://github.com/Saqoosha/Match-3-Games-Solver)|||
 |7|[@alumican](https://github.com/alumican)/[**JPPEvent.cpp**](https://github.com/alumican/JPPEvent.cpp)|JPPEvent provides event system like ActionScript3.0 on C++.|[:arrow_upper_right:](http://alumican.net/)|
@@ -371,7 +372,6 @@
 |6|[@2bbb](https://github.com/2bbb)/[**ofxQuadTree**](https://github.com/2bbb/ofxQuadTree)|generate quadtree from image/texture||
 |6|[@DaikiMaekawa](https://github.com/DaikiMaekawa)/[**RoboticsProject**](https://github.com/DaikiMaekawa/RoboticsProject)|千葉工業大学　ロボティクスディベロップメントプロジェクト　参考資料||
 |6|[@KageKirin](https://github.com/KageKirin)/[**KaniTexTool**](https://github.com/KageKirin/KaniTexTool)|Multi-format texture conversion tool||
-|6|[@LoliGothick](https://github.com/LoliGothick)/[**Interval-Analysis**](https://github.com/LoliGothick/Interval-Analysis)|||
 |6|[@Saqoosha](https://github.com/Saqoosha)/[**OculusWS**](https://github.com/Saqoosha/OculusWS)|WebSocket server for sending Oculus Rift's orientation data||
 |6|[@VFR-maniac](https://github.com/VFR-maniac)/[**VapourSynth-TNLMea…**](https://github.com/VFR-maniac/VapourSynth-TNLMeans)|VapourSynth port of TNLMeans||
 |6|[@baku89](https://github.com/baku89)/[**ofxAEKeyframe**](https://github.com/baku89/ofxAEKeyframe)|An addon encodes oF animations into After Effects's keyframe data.||
@@ -500,6 +500,7 @@
 |4|[@MagicalTux](https://github.com/MagicalTux)/[**btclib**](https://github.com/MagicalTux/btclib)|quick'n'dirty bitcoin signing lib because too lazy to reimplement ECDSA in pure PHP||
 |4|[@MagicalTux](https://github.com/MagicalTux)/[**invpn**](https://github.com/MagicalTux/invpn)|invpn is a decentralized vpn server aimed at high availability server architectures on multiple sites.||
 |4|[@MagicalTux](https://github.com/MagicalTux)/[**s3clfs**](https://github.com/MagicalTux/s3clfs)|S3 Cluster FS||
+|4|[@RKX1209](https://github.com/RKX1209)/[**Dnscript**](https://github.com/RKX1209/Dnscript)|Dnscript is specific scripting language specializing to build the "danmaku" in shooting game.||
 |4|[@RobotClubKut](https://github.com/RobotClubKut)/[**RobotClubRepeat**](https://github.com/RobotClubKut/RobotClubRepeat)|ろぼっとくらぶ りぴ～と||
 |4|[@SatoshiRobatoFujimoto](https://github.com/SatoshiRobatoFujimoto)/[**KinectFusionV2**](https://github.com/SatoshiRobatoFujimoto/KinectFusionV2)|||
 |4|[@TNCT-SYSKEN](https://github.com/TNCT-SYSKEN)/[**C-Tutorial**](https://github.com/TNCT-SYSKEN/C-Tutorial)|C++でゲームを作ってみる||
@@ -581,7 +582,6 @@
 |3|[@CAFxX](https://github.com/CAFxX)/[**cgf**](https://github.com/CAFxX/cgf)|Call-graph flattening transform for LLVM 2.8||
 |3|[@Flast](https://github.com/Flast)/[**trance**](https://github.com/Flast/trance)|||
 |3|[@PyYoshi](https://github.com/PyYoshi)/[**PeerCastIM-Mod**](https://github.com/PyYoshi/PeerCastIM-Mod)|PeerCastIMのOSX/Linuxサポート版 WinはこれまでどおりIMのGUIを利用できます.||
-|3|[@RobotClubKut](https://github.com/RobotClubKut)/[**MatrixLED**](https://github.com/RobotClubKut/MatrixLED)|16x32x3マトリクスLEDパネル||
 |3|[@RyuYamamoto](https://github.com/RyuYamamoto)/[**Choreonoid_Module**](https://github.com/RyuYamamoto/Choreonoid_Module)|||
 |3|[@Saqoosha](https://github.com/Saqoosha)/[**FaceTrackerJS**](https://github.com/Saqoosha/FaceTrackerJS)|Port of Jason Saragih's FaceTracker library to JavaScript using Emscripten||
 |3|[@TNCT-SYSKEN](https://github.com/TNCT-SYSKEN)/[**git_test**](https://github.com/TNCT-SYSKEN/git_test)|GitとGitHubの講習用||

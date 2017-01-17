@@ -28,6 +28,7 @@
 |6|[@sys1yagi](https://github.com/sys1yagi)/[**goat-reader-2-andr…**](https://github.com/sys1yagi/goat-reader-2-android-prototype)|RSSリーダです。Kotlinで書いています。||
 |5|[@Reyurnible](https://github.com/Reyurnible)/[**kodic**](https://github.com/Reyurnible/kodic)|CodecのAndroidアプリ||
 |5|[@kmizu](https://github.com/kmizu)/[**kotbinator**](https://github.com/kmizu/kotbinator)|Parser Combinator Library in Kotlin||
+|4|[@Reyurnible](https://github.com/Reyurnible)/[**RxDownloader**](https://github.com/Reyurnible/RxDownloader)|||
 |4|[@sys1yagi](https://github.com/sys1yagi)/[**swipe-android**](https://github.com/sys1yagi/swipe-android)|It is implementation of the swipe on android.|[:arrow_upper_right:](https://github.com/snakajima/swipe/)|
 |4|[@zick](https://github.com/zick)/[**KotlinLisp**](https://github.com/zick/KotlinLisp)|Lisp implementation in Kotlin||
 |3|[@kt3k](https://github.com/kt3k)/[**ebean-enhance-plug…**](https://github.com/kt3k/ebean-enhance-plugin)|A gradle plugin for enhancing ebean entities.||

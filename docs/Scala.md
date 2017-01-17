@@ -74,7 +74,6 @@
 |10|[@tototoshi](https://github.com/tototoshi)/[**scala-base64**](https://github.com/tototoshi/scala-base64)|BASE64エンコーダ||
 |10|[@ymnk](https://github.com/ymnk)/[**websocket-in-scala…**](https://github.com/ymnk/websocket-in-scala)|||
 |9|[@AKB428](https://github.com/AKB428)/[**inazuma**](https://github.com/AKB428/inazuma)|spark + kuromoji + d3.js = 誰でも簡単できる「つぶやきビッグデータ」||
-|9|[@Lewuathe](https://github.com/Lewuathe)/[**dllib**](https://github.com/Lewuathe/dllib)|dllib is a deep learning module running on Apache Spark||
 |9|[@akiomik](https://github.com/akiomik)/[**stanford-corenlp-s…**](https://github.com/akiomik/stanford-corenlp-server)|Scala JSON-RPC server for Stanford CoreNLP||
 |9|[@haruyama](https://github.com/haruyama)/[**ssh_client_sample**](https://github.com/haruyama/ssh_client_sample)|SSH Client Sample|[:arrow_upper_right:](http://wiki.livedoor.jp/haruyama_seigo/d/ssh/SSH%a5%d7%a5%ed%a5%c8%a5%b3%a5%eb%b3%b5%cd%d7)|
 |9|[@j5ik2o](https://github.com/j5ik2o)/[**spetstore-cqrs-es-…**](https://github.com/j5ik2o/spetstore-cqrs-es-akka)|||
@@ -141,6 +140,7 @@
 |5|[@ymnk](https://github.com/ymnk)/[**tdd-with-scala-sam…**](https://github.com/ymnk/tdd-with-scala-sample)|This project will demonstrate TDD with scala.||
 |5|[@yoshiori](https://github.com/yoshiori)/[**akemi**](https://github.com/yoshiori/akemi)|||
 |5|[@zentooo](https://github.com/zentooo)/[**gae-scala-twitter-…**](https://github.com/zentooo/gae-scala-twitter-bot)|scala twitter bot||
+|4|[@Lewuathe](https://github.com/Lewuathe)/[**spark-kaggle-examp…**](https://github.com/Lewuathe/spark-kaggle-examples)|Kaggle Job repository||
 |4|[@Yasushi](https://github.com/Yasushi)/[**metascala**](https://github.com/Yasushi/metascala)|unofficial metascala repository|[:arrow_upper_right:](http://www.assembla.com/wiki/show/metascala)|
 |4|[@akihiro4chawon](https://github.com/akihiro4chawon)/[**gist4z**](https://github.com/akihiro4chawon/gist4z)|gist api||
 |4|[@akr4](https://github.com/akr4)/[**backbone-cellar-pl…**](https://github.com/akr4/backbone-cellar-play2)|||

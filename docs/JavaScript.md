@@ -263,8 +263,8 @@
 |53|[@ikikko](https://github.com/ikikko)/[**backlog-template-i…**](https://github.com/ikikko/backlog-template-issue-gas)|Googleドキュメント（スプレッドシート）を基に、Backlogへ課題を一括登録する |[:arrow_upper_right:](http://wiki.github.com/ikikko/backlog-template-issue-gas/)|
 |53|[@nulltask](https://github.com/nulltask)/[**express-csv**](https://github.com/nulltask/express-csv)|Express CSV provides response CSV easily to Express.||
 |53|[@tkengo](https://github.com/tkengo)/[**hometype**](https://github.com/tkengo/hometype)|:ab: Provide keyboard manipulation for Hackers|[:arrow_upper_right:](http://tkengo.github.io/hometype/ja)|
-|52|[@Takazudo](https://github.com/Takazudo)/[**gruntExamples**](https://github.com/Takazudo/gruntExamples)|Grunt examples for me or someone else|[:arrow_upper_right:](http://gruntjs.com)|
 |51|[@Hypercubed](https://github.com/Hypercubed)/[**todo-md**](https://github.com/Hypercubed/todo-md)|Manage your GitHub Flavored Markdown todo list from the command line|[:arrow_upper_right:](https://hypercubed.github.io/todo-md/)|
+|51|[@Takazudo](https://github.com/Takazudo)/[**gruntExamples**](https://github.com/Takazudo/gruntExamples)|Grunt examples for me or someone else|[:arrow_upper_right:](http://gruntjs.com)|
 |51|[@darashi](https://github.com/darashi)/[**rubyistokei**](https://github.com/darashi/rubyistokei)|Introduce your ruby heroes with the clock|[:arrow_upper_right:](http://rubyistokei.herokuapp.com)|
 |51|[@morishitter](https://github.com/morishitter)/[**YACP**](https://github.com/morishitter/YACP)|Yet Another CSS Preprocessor||
 |51|[@shimobayashi](https://github.com/shimobayashi)/[**pull-req-label**](https://github.com/shimobayashi/pull-req-label)|pull-reqにレビュー中とかラベルを設定する。||
@@ -467,6 +467,7 @@
 |28|[@tejitak](https://github.com/tejitak)/[**react-state-animat…**](https://github.com/tejitak/react-state-animation)|Simple lightweight React animation library|[:arrow_upper_right:](http://tejitak.github.io/react-state-animation/examples/demo/)|
 |28|[@totocaster](https://github.com/totocaster)/[**metalsmith-tags**](https://github.com/totocaster/metalsmith-tags)| A metalsmith plugin to create dedicated pages for tags in posts or pages.||
 |28|[@ukyo](https://github.com/ukyo)/[**mp4.js**](https://github.com/ukyo/mp4.js)|mp4 parser||
+|27|[@Tedko](https://github.com/Tedko)/[**CHN-Ver-of-ADarkRo…**](https://github.com/Tedko/CHN-Ver-of-ADarkRoom)|CHN Ver of ADarkRoom|[:arrow_upper_right:](http://www.u77.com/game/1254)|
 |27|[@azu](https://github.com/azu)/[**release-changelog**](https://github.com/azu/release-changelog)|[Deprecated] Easy to use conventional-changelog and release-it.||
 |27|[@hnakamur](https://github.com/hnakamur)/[**vue.tag-editor.js**](https://github.com/hnakamur/vue.tag-editor.js)|a tag editor component for vue.js||
 |27|[@jmettraux](https://github.com/jmettraux)/[**ruote-fluo**](https://github.com/jmettraux/ruote-fluo)|javascript SVG  for graphically rendering ruote process definitions|[:arrow_upper_right:](http://ruote.rubyforge.org)|
@@ -484,7 +485,6 @@
 |27|[@twada](https://github.com/twada)/[**babel-plugin-unass…**](https://github.com/twada/babel-plugin-unassert)|Babel plugin to encourage reliable programming by writing assertions in production code, and compiling them away from release.||
 |27|[@uupaa](https://github.com/uupaa)/[**UserAgent.js**](https://github.com/uupaa/UserAgent.js)|Detect the OS, Browser and WebView from UserAgent String.||
 |26|[@5509](https://github.com/5509)/[**jQselectable**](https://github.com/5509/jQselectable)|||
-|26|[@Tedko](https://github.com/Tedko)/[**CHN-Ver-of-ADarkRo…**](https://github.com/Tedko/CHN-Ver-of-ADarkRoom)|CHN Ver of ADarkRoom|[:arrow_upper_right:](http://www.u77.com/game/1254)|
 |26|[@ashiina](https://github.com/ashiina)/[**aws-lambda-rds-sam…**](https://github.com/ashiina/aws-lambda-rds-sample)|sample for S3 -> RDS data transfer with Amazon Lambda||
 |26|[@cocopon](https://github.com/cocopon)/[**aislice**](https://github.com/cocopon/aislice)|Batch export script for iOS developers who use Adobe Illustrator||
 |26|[@kairyu](https://github.com/kairyu)/[**tkg**](https://github.com/kairyu/tkg)|TMK Keymap Generator|[:arrow_upper_right:](http://tkg.io)|
@@ -1340,6 +1340,7 @@
 |7|[@Rokt33r](https://github.com/Rokt33r)/[**electron-react-hmr…**](https://github.com/Rokt33r/electron-react-hmr-example)|electron-react-hmr-example||
 |7|[@SachaG](https://github.com/SachaG)/[**GitHunt-Meteor**](https://github.com/SachaG/GitHunt-Meteor)|||
 |7|[@SachaG](https://github.com/SachaG)/[**meteor-juice**](https://github.com/SachaG/meteor-juice)|Wrapper for Juice||
+|7|[@Takazudo](https://github.com/Takazudo)/[**jQuery.tabify**](https://github.com/Takazudo/jQuery.tabify)|just a tab||
 |7|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**sps.js**](https://github.com/YCAMInterlab/sps.js)|Particle System & Simulation Helpers in Javascript||
 |7|[@ahomu](https://github.com/ahomu)/[**Actinium**](https://github.com/ahomu/Actinium)|Common components & providers for AngularJS||
 |7|[@aike](https://github.com/aike)/[**VisibleTouch.js**](https://github.com/aike/VisibleTouch.js)|Mouse click visualizer written in JavaScript||
@@ -1494,7 +1495,6 @@
 |6|[@Quramy](https://github.com/Quramy)/[**tsc-react-example**](https://github.com/Quramy/tsc-react-example)|Example to compile React JSX with TypeScript||
 |6|[@SachaG](https://github.com/SachaG)/[**meteor101**](https://github.com/SachaG/meteor101)|An introduction to Meteor||
 |6|[@Shinsuke-Abe](https://github.com/Shinsuke-Abe)/[**dropbox4s**](https://github.com/Shinsuke-Abe/dropbox4s)|A Scala library for Dropbox API(Datastore API and Core API)||
-|6|[@Takazudo](https://github.com/Takazudo)/[**jQuery.tabify**](https://github.com/Takazudo/jQuery.tabify)|just a tab||
 |6|[@Wizcorp](https://github.com/Wizcorp)/[**component-uglifyjs…**](https://github.com/Wizcorp/component-uglifyjs)|UglifyJS plugin for component-builder||
 |6|[@Wizcorp](https://github.com/Wizcorp)/[**tina.js**](https://github.com/Wizcorp/tina.js)|Tweening and INterpolations for Animation||
 |6|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**gaf.js**](https://github.com/YCAMInterlab/gaf.js)|A Minimal WebGL Application Framework||

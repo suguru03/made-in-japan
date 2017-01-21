@@ -89,7 +89,6 @@
 |10|[@punchdrunker](https://github.com/punchdrunker)/[**kansou**](https://github.com/punchdrunker/kansou)|||
 |10|[@zaki50](https://github.com/zaki50)/[**Realm-Hands-On2_an…**](https://github.com/zaki50/Realm-Hands-On2_android)|||
 |9|[@1000ch](https://github.com/1000ch)/[**social-button**](https://github.com/1000ch/social-button)|Social Buttons as Web Components|[:arrow_upper_right:](https://1000ch.github.io/social-button/)|
-|9|[@Takazudo](https://github.com/Takazudo)/[**jQuery.EaseScrolle…**](https://github.com/Takazudo/jQuery.EaseScroller)|||
 |9|[@html5j](https://github.com/html5j)/[**html5j.github.io**](https://github.com/html5j/html5j.github.io)|html5jのWebサイト||
 |9|[@kyuridenamida](https://github.com/kyuridenamida)/[**ToolsForAtCoder**](https://github.com/kyuridenamida/ToolsForAtCoder)|Convenient modules for AtCoder users, written in Python 3.4||
 |9|[@lestrrat](https://github.com/lestrrat)/[**go-mechanize**](https://github.com/lestrrat/go-mechanize)|WWW::Mechanize for Go||
@@ -99,6 +98,7 @@
 |9|[@tdtds](https://github.com/tdtds)/[**gracoro-union**](https://github.com/tdtds/gracoro-union)|Web Service of Gracoro Union|[:arrow_upper_right:](http://gracoro.tdtds.jp)|
 |9|[@wakayama-pref-org](https://github.com/wakayama-pref-org)/[**list-of-refuge-are…**](https://github.com/wakayama-pref-org/list-of-refuge-area)|和歌山県内の避難先情報一覧です。http://www.pref.wakayama.lg.jp/prefg/011400/info/index5.html||
 |8|[@1000ch](https://github.com/1000ch)/[**hugo-boilerplate**](https://github.com/1000ch/hugo-boilerplate)|Minimum structure for Hugo|[:arrow_upper_right:](http://gohugo.io/overview/introduction/)|
+|8|[@Takazudo](https://github.com/Takazudo)/[**jQuery.EaseScrolle…**](https://github.com/Takazudo/jQuery.EaseScroller)|||
 |8|[@Yellowen](https://github.com/Yellowen)/[**AdminLTE-rtl**](https://github.com/Yellowen/AdminLTE-rtl)|THIS REPOSITORY IS DEPRECATED IN FAVOR OF https://github.com/Yellowen/admin_lte|[:arrow_upper_right:](https://github.com/Yellowen/admin_lte)|
 |8|[@agektmr](https://github.com/agektmr)/[**idb-node**](https://github.com/agektmr/idb-node)|Polymer Indexed DB element||
 |8|[@mohayonao](https://github.com/mohayonao)/[**waa-lab**](https://github.com/mohayonao/waa-lab)|||

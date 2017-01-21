@@ -607,6 +607,7 @@
 |3|[@MiCHiLU](https://github.com/MiCHiLU)/[**watchlion**](https://github.com/MiCHiLU/watchlion)|A simple shell utility to monitor file system events on Mac OS X 10.7+ (Lion or newer).|[:arrow_upper_right:](https://pypi.python.org/pypi/watchlion)|
 |3|[@MoriKen254](https://github.com/MoriKen254)/[**DeepLearningWithPy…**](https://github.com/MoriKen254/DeepLearningWithPython)|Implementation of Deep Learning Algorithm with Python from scratch.||
 |3|[@PEmugi](https://github.com/PEmugi)/[**geohex3**](https://github.com/PEmugi/geohex3)|||
+|3|[@TakesxiSximada](https://github.com/TakesxiSximada)/[**django-rest-swagge…**](https://github.com/TakesxiSximada/django-rest-swagger-swaggerdoc)|||
 |3|[@YukiSakamoto](https://github.com/YukiSakamoto)/[**Starbucks_Japan**](https://github.com/YukiSakamoto/Starbucks_Japan)|||
 |3|[@a-yasui](https://github.com/a-yasui)/[**atysPy**](https://github.com/a-yasui/atysPy)|self Python scripts||
 |3|[@achiku](https://github.com/achiku)/[**sample-uwsgi-pypy**](https://github.com/achiku/sample-uwsgi-pypy)|Sample setup for uwsgi + pypy||

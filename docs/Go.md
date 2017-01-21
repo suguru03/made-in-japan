@@ -449,6 +449,7 @@
 |6|[@yutopp](https://github.com/yutopp)/[**torigoya_cage**](https://github.com/yutopp/torigoya_cage)|sandbox hosting server for Torigoya...||
 |5|[@Code-Hex](https://github.com/Code-Hex)/[**go-version-update**](https://github.com/Code-Hex/go-version-update)|Update the version string of your go project.||
 |5|[@Kovensky](https://github.com/Kovensky)/[**go-ed2k**](https://github.com/Kovensky/go-ed2k)|ED2k hasher in Go||
+|5|[@Tomohiro](https://github.com/Tomohiro)/[**go-gyazo**](https://github.com/Tomohiro/go-gyazo)|:camera: Go library for accessing the Gyazo API|[:arrow_upper_right:](http://tomohiro.me/go-gyazo)|
 |5|[@akiym](https://github.com/akiym)/[**go-skkserv**](https://github.com/akiym/go-skkserv)|Lightweight skkserv implementation for golang||
 |5|[@atotto](https://github.com/atotto)/[**encoding**](https://github.com/atotto/encoding)|extended encoding package for golang||
 |5|[@chiepomme](https://github.com/chiepomme)/[**chienote**](https://github.com/chiepomme/chienote)|An evernote-to-jekyll post synchronizer, heavily inspired by postach.io.|[:arrow_upper_right:](http://chiepom.me/)|
@@ -574,7 +575,6 @@
 |3|[@MakeNowJust](https://github.com/MakeNowJust)/[**hotkey**](https://github.com/MakeNowJust/hotkey)|This library provides HotKey for Go Language on Windows.||
 |3|[@PyYoshi](https://github.com/PyYoshi)/[**UnityAssetTools**](https://github.com/PyYoshi/UnityAssetTools)|Work In Progress||
 |3|[@Songmu](https://github.com/Songmu)/[**go-memcached-tool**](https://github.com/Songmu/go-memcached-tool)|||
-|3|[@Tomohiro](https://github.com/Tomohiro)/[**go-gyazo**](https://github.com/Tomohiro/go-gyazo)|:camera: Go library for accessing the Gyazo API|[:arrow_upper_right:](http://tomohiro.me/go-gyazo)|
 |3|[@achiku](https://github.com/achiku)/[**testsvr**](https://github.com/achiku/testsvr)|Make httptest generated test server aware of -v of go test||
 |3|[@ainoya](https://github.com/ainoya)/[**fune**](https://github.com/ainoya/fune)|An Event emitter triggered by docker daemon||
 |3|[@akr4](https://github.com/akr4)/[**mofu**](https://github.com/akr4/mofu)|A tool makes I18N strings files for multiple platforms from a definition file.||

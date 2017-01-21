@@ -70,10 +70,10 @@
 |174|[@willnet](https://github.com/willnet)/[**gimei**](https://github.com/willnet/gimei)|random Japanese name and address generator||
 |172|[@nov](https://github.com/nov)/[**openid_connect**](https://github.com/nov/openid_connect)|OpenID Connect Server & Client Library||
 |170|[@swdyh](https://github.com/swdyh)/[**gisty**](https://github.com/swdyh/gisty)|yet another command line client for gist||
+|168|[@Tomohiro](https://github.com/Tomohiro)/[**airplayer**](https://github.com/Tomohiro/airplayer)|:movie_camera: Command-line AirPlay video client for Apple TV|[:arrow_upper_right:](https://rubygems.org/gems/airplayer)|
 |168|[@mirakui](https://github.com/mirakui)/[**ec2ssh**](https://github.com/mirakui/ec2ssh)|A ssh_config manager for AWS EC2||
 |163|[@darashi](https://github.com/darashi)/[**jpmobile**](https://github.com/darashi/jpmobile)|moved to http://github.com/jpmobile/jpmobile|[:arrow_upper_right:](http://github.com/jpmobile/jpmobile)|
 |161|[@diasks2](https://github.com/diasks2)/[**pragmatic_segmente…**](https://github.com/diasks2/pragmatic_segmenter)|Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.||
-|156|[@Tomohiro](https://github.com/Tomohiro)/[**airplayer**](https://github.com/Tomohiro/airplayer)|:movie_camera: Command-line AirPlay video client for Apple TV|[:arrow_upper_right:](https://rubygems.org/gems/airplayer)|
 |156|[@amatsuda](https://github.com/amatsuda)/[**erd**](https://github.com/amatsuda/erd)|A Rails engine for drawing your app's ER diagram||
 |154|[@riywo](https://github.com/riywo)/[**law.e-gov.go.jp**](https://github.com/riywo/law.e-gov.go.jp)|Crawling Japanese laws||
 |153|[@jmettraux](https://github.com/jmettraux)/[**rufus-tokyo**](https://github.com/jmettraux/rufus-tokyo)|FFI based ruby library to access Tokyo Cabinet and Tokyo Tyrant. (This library is in "maintenance mode", see http://jmettraux.wordpress.com/2010/02/26/retiring-rufus-tokyo/ for an explanation)|[:arrow_upper_right:](http://rufus.rubyforge.org)|
@@ -198,6 +198,7 @@
 |65|[@dmytro](https://github.com/dmytro)/[**nagira**](https://github.com/dmytro/nagira)|NAGIos Restful Api||
 |64|[@knu](https://github.com/knu)/[**ruby-unf**](https://github.com/knu/ruby-unf)|A wrapper library to bring Unicode Normalization Form support to Ruby/JRuby||
 |64|[@moro](https://github.com/moro)/[**tokiyomi**](https://github.com/moro/tokiyomi)|Japanese relative date/time string parser.||
+|63|[@Tomohiro](https://github.com/Tomohiro)/[**fluentular**](https://github.com/Tomohiro/fluentular)|:memo: Fluentular is a Fluentd regular expression editor|[:arrow_upper_right:](http://fluentular.herokuapp.com)|
 |63|[@domitry](https://github.com/domitry)/[**mikon**](https://github.com/domitry/mikon)|DataFrame library for Ruby||
 |63|[@eagletmt](https://github.com/eagletmt)/[**hako**](https://github.com/eagletmt/hako)|Deploy Docker container||
 |63|[@randym](https://github.com/randym)/[**apic**](https://github.com/randym/apic)|Api Console engine for Rails apps.||
@@ -215,7 +216,6 @@
 |58|[@ashbb](https://github.com/ashbb)/[**ruby_metaprogrammi…**](https://github.com/ashbb/ruby_metaprogramming_study_note)|Ruby Metaprogramming Study Note||
 |58|[@r7kamura](https://github.com/r7kamura)/[**ikku**](https://github.com/r7kamura/ikku)|Discover haiku from text.||
 |58|[@tsukasaoishi](https://github.com/tsukasaoishi)/[**miyazakiresistance…**](https://github.com/tsukasaoishi/miyazakiresistance)|MiyazakiResistance is a library like ActiveRecord to use Tokyo Tyrant.|[:arrow_upper_right:](http://www.kaeruspoon.net/keywords/MiyazakiResistance)|
-|57|[@Tomohiro](https://github.com/Tomohiro)/[**fluentular**](https://github.com/Tomohiro/fluentular)|:memo: Fluentular is a Fluentd regular expression editor|[:arrow_upper_right:](http://fluentular.herokuapp.com)|
 |57|[@fujibee](https://github.com/fujibee)/[**jruby-on-hadoop**](https://github.com/fujibee/jruby-on-hadoop)|Using Hadoop by Ruby script, supported by JRuby. Not Hadoop streaming.||
 |57|[@hogelog](https://github.com/hogelog)/[**dmemo**](https://github.com/hogelog/dmemo)|||
 |57|[@naoya](https://github.com/naoya)/[**circleci-serverspe…**](https://github.com/naoya/circleci-serverspec)|Example: Continuous Integration using vagrant-aws, Chef, serverspec and CircleCI||
@@ -2363,6 +2363,7 @@
 |3|[@SpringMT](https://github.com/SpringMT)/[**tddbc_fukuoka**](https://github.com/SpringMT/tddbc_fukuoka)|||
 |3|[@SpringMT](https://github.com/SpringMT)/[**unicorn_process_ma…**](https://github.com/SpringMT/unicorn_process_manager)|||
 |3|[@Tomohiro](https://github.com/Tomohiro)/[**cg**](https://github.com/Tomohiro/cg)|Static web page generator|[:arrow_upper_right:](http://rubygems.org/gems/cg)|
+|3|[@Tomohiro](https://github.com/Tomohiro)/[**hackway**](https://github.com/Tomohiro/hackway)|Hacker News IRC Gateway||
 |3|[@Tomohiro](https://github.com/Tomohiro)/[**kris**](https://github.com/Tomohiro/kris)|Kris is a Ruby IRC bot library - Pluggable, and very simple.|[:arrow_upper_right:](http://rubygems.org/gems/kris)|
 |3|[@Vaduz](https://github.com/Vaduz)/[**xlsx-textconv-rb**](https://github.com/Vaduz/xlsx-textconv-rb)|||
 |3|[@Watson1978](https://github.com/Watson1978)/[**HelloCocos2d**](https://github.com/Watson1978/HelloCocos2d)|Cocos2d Sample with RubyMotion||

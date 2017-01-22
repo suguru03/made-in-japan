@@ -3,7 +3,7 @@
 > A list of cool projects in Japan. (This repo is inspired by [@IonicaBizau/made-in](https://github.com/IonicaBizau/made-in))
 
  
-## Top 10 Developers (2017/01/20)
+## Top 10 Developers (2017/01/22)
 |Rank|Name|:star2:|
 |---|---|---|
 |1|[wasabeef](https://github.com/wasabeef)|33841|
@@ -25,17 +25,17 @@
 |1|[JavaScript](https://github.com/suguru03/made-in-japan/blob/master/docs/JavaScript.md)|95292|2866|
 |2|[Java](https://github.com/suguru03/made-in-japan/blob/master/docs/Java.md)|84106|997|
 |3|[Ruby](https://github.com/suguru03/made-in-japan/blob/master/docs/Ruby.md)|77863|2939|
-|4|[Objective-C](https://github.com/suguru03/made-in-japan/blob/master/docs/Objective-C.md)|71108|884|
+|4|[Objective-C](https://github.com/suguru03/made-in-japan/blob/master/docs/Objective-C.md)|71109|884|
 |5|[Swift](https://github.com/suguru03/made-in-japan/blob/master/docs/Swift.md)|66187|405|
-|6|[Documents](https://github.com/suguru03/made-in-japan/blob/master/docs/Documents.md)|49333|904|
+|6|[Documents](https://github.com/suguru03/made-in-japan/blob/master/docs/Documents.md)|49329|903|
 |7|[Go](https://github.com/suguru03/made-in-japan/blob/master/docs/Go.md)|31145|687|
-|8|[Python](https://github.com/suguru03/made-in-japan/blob/master/docs/Python.md)|25067|744|
+|8|[Python](https://github.com/suguru03/made-in-japan/blob/master/docs/Python.md)|25071|745|
 |9|[C++](https://github.com/suguru03/made-in-japan/blob/master/docs/C++.md)|24961|697|
-|10|[C](https://github.com/suguru03/made-in-japan/blob/master/docs/C.md)|22972|698|
+|10|[C](https://github.com/suguru03/made-in-japan/blob/master/docs/C.md)|23028|699|
 |11|[VimL](https://github.com/suguru03/made-in-japan/blob/master/docs/VimL.md)|21575|472|
 |12|[Shell](https://github.com/suguru03/made-in-japan/blob/master/docs/Shell.md)|17200|504|
-|13|[PHP](https://github.com/suguru03/made-in-japan/blob/master/docs/PHP.md)|10834|663|
-|14|[C#](https://github.com/suguru03/made-in-japan/blob/master/docs/C#.md)|10691|312|
+|13|[PHP](https://github.com/suguru03/made-in-japan/blob/master/docs/PHP.md)|10833|663|
+|14|[C#](https://github.com/suguru03/made-in-japan/blob/master/docs/C#.md)|10692|312|
 |15|[Perl](https://github.com/suguru03/made-in-japan/blob/master/docs/Perl.md)|10672|779|
 |16|[Emacs Lisp](https://github.com/suguru03/made-in-japan/blob/master/docs/Emacs Lisp.md)|10095|328|
 |17|[CSS](https://github.com/suguru03/made-in-japan/blob/master/docs/CSS.md)|9712|255|
@@ -101,8 +101,8 @@
 |76|[Pascal](https://github.com/suguru03/made-in-japan/blob/master/docs/Pascal.md)|25|6|
 |78|[CMake](https://github.com/suguru03/made-in-japan/blob/master/docs/CMake.md)|22|5|
 |79|[PicoLisp](https://github.com/suguru03/made-in-japan/blob/master/docs/PicoLisp.md)|21|3|
-|80|[Cucumber](https://github.com/suguru03/made-in-japan/blob/master/docs/Cucumber.md)|19|1|
-|80|[HCL](https://github.com/suguru03/made-in-japan/blob/master/docs/HCL.md)|19|4|
+|80|[HCL](https://github.com/suguru03/made-in-japan/blob/master/docs/HCL.md)|20|4|
+|81|[Cucumber](https://github.com/suguru03/made-in-japan/blob/master/docs/Cucumber.md)|19|1|
 |82|[FORTRAN](https://github.com/suguru03/made-in-japan/blob/master/docs/FORTRAN.md)|18|4|
 |82|[Standard ML](https://github.com/suguru03/made-in-japan/blob/master/docs/Standard ML.md)|18|3|
 |84|[Io](https://github.com/suguru03/made-in-japan/blob/master/docs/Io.md)|17|4|

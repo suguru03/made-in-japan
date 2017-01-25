@@ -67,6 +67,7 @@
 |6|[@garaemon](https://github.com/garaemon)/[**201510-rosjp**](https://github.com/garaemon/201510-rosjp)|||
 |6|[@guicho271828](https://github.com/guicho271828)/[**eazy-gnuplot**](https://github.com/guicho271828/eazy-gnuplot)|Super Duper Doopa Booka Lispy Gnuplot library|[:arrow_upper_right:](http://guicho271828.github.io/eazy-gnuplot/)|
 |6|[@tomoyuki28jp](https://github.com/tomoyuki28jp)/[**stumpwm**](https://github.com/tomoyuki28jp/stumpwm)|my stumpwm config||
+|5|[@aw](https://github.com/aw)/[**picolisp-json**](https://github.com/aw/picolisp-json)|JSON encoder/decoder ffi-bindings for PicoLisp||
 |5|[@guicho271828](https://github.com/guicho271828)/[**cl-simple-neuralne…**](https://github.com/guicho271828/cl-simple-neuralnet)|a simple implementation of multiple-layered neural network in cl.||
 |5|[@guicho271828](https://github.com/guicho271828)/[**eazy-process**](https://github.com/guicho271828/eazy-process)|Yet Another Portable Library for Process Handling / Subshell Invokation||
 |5|[@guicho271828](https://github.com/guicho271828)/[**file-local-variabl…**](https://github.com/guicho271828/file-local-variable)|File-local variable independent from ASDF||
@@ -74,7 +75,6 @@
 |5|[@sile](https://github.com/sile)/[**cl-dawg**](https://github.com/sile/cl-dawg)|Direct Acyclic Word Graph||
 |4|[@KeenS](https://github.com/KeenS)/[**cl-fast-cont**](https://github.com/KeenS/cl-fast-cont)|faster partial contiuation library of common lisp||
 |4|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**cl-annot-prove**](https://github.com/Rudolph-Miller/cl-annot-prove)|Annotation Syntax Test Library.|[:arrow_upper_right:](https://rudolph-miller.github.io/cl-annot-prove/overview.html)|
-|4|[@aw](https://github.com/aw)/[**picolisp-json**](https://github.com/aw/picolisp-json)|JSON encoder/decoder ffi-bindings for PicoLisp||
 |4|[@guicho271828](https://github.com/guicho271828)/[**hypercast**](https://github.com/guicho271828/hypercast)|H Y P E R C A S T||
 |4|[@hamano](https://github.com/hamano)/[**lispbot**](https://github.com/hamano/lispbot)|ircbot for lisp||
 |4|[@ichiban](https://github.com/ichiban)/[**cl-jack**](https://github.com/ichiban/cl-jack)|a thin JACK Audio Conection Kit wrapper written in Common Lisp||

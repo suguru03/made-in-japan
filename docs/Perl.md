@@ -61,12 +61,12 @@
 |32|[@tokuhirom](https://github.com/tokuhirom)/[**p5-router-simple**](https://github.com/tokuhirom/p5-router-simple)|simple http router||
 |31|[@Kimtaro](https://github.com/Kimtaro)/[**jisho.org**](https://github.com/Kimtaro/jisho.org)|The source for classic.jisho.org|[:arrow_upper_right:](http://jisho.org)|
 |30|[@xaicron](https://github.com/xaicron)/[**p5-www-youtube-dow…**](https://github.com/xaicron/p5-www-youtube-download)|YouTube video download interface.|[:arrow_upper_right:](http://blog.livedoor.jp/xaicron/)|
+|29|[@ahiguti](https://github.com/ahiguti)/[**gdbperl**](https://github.com/ahiguti/gdbperl)|||
 |29|[@hidek](https://github.com/hidek)/[**Plack-Middleware-A…**](https://github.com/hidek/Plack-Middleware-Auth-OAuth)|||
 |29|[@kan](https://github.com/kan)/[**moxy**](https://github.com/kan/moxy)|Mobile web development proxy||
 |29|[@kazuho](https://github.com/kazuho)/[**url_compress**](https://github.com/kazuho/url_compress)|a static PPM-based URL compressor / decompressor|[:arrow_upper_right:](http://developer.cybozu.co.jp/archives/kazuho/2010/10/compressing-url.html)|
 |29|[@matsuu](https://github.com/matsuu)/[**auwifispot-client**](https://github.com/matsuu/auwifispot-client)|au Wi-Fi SPOT CLI client||
 |29|[@motemen](https://github.com/motemen)/[**App-htmlcat**](https://github.com/motemen/App-htmlcat)|redirect stdin to web browser||
-|28|[@ahiguti](https://github.com/ahiguti)/[**gdbperl**](https://github.com/ahiguti/gdbperl)|||
 |28|[@goccy](https://github.com/goccy)/[**p5-Compiler-Parser…**](https://github.com/goccy/p5-Compiler-Parser)|Create Abstract Syntax Tree for Perl5||
 |28|[@goccy](https://github.com/goccy)/[**p5-Compiler-Tools-…**](https://github.com/goccy/p5-Compiler-Tools-CopyPasteDetector)|detect Copy and Paste of Perl5 Codes||
 |28|[@kazeburo](https://github.com/kazeburo)/[**Proclet**](https://github.com/kazeburo/Proclet)|minimalistic Supervisor||
@@ -90,13 +90,13 @@
 |24|[@lestrrat](https://github.com/lestrrat)/[**Plack-Handler-Mong…**](https://github.com/lestrrat/Plack-Handler-Mongrel2)|Plack Handler For Mongrel2||
 |24|[@tokuhirom](https://github.com/tokuhirom)/[**PJP**](https://github.com/tokuhirom/PJP)||[:arrow_upper_right:](http://pjp.64p.org/)|
 |24|[@zigorou](https://github.com/zigorou)/[**perl-JSV**](https://github.com/zigorou/perl-JSV)|JSON Schema implementation for Perl||
+|23|[@aki2o](https://github.com/aki2o)/[**plsense**](https://github.com/aki2o/plsense)|Omni completion tool for Perl||
 |23|[@kazeburo](https://github.com/kazeburo)/[**GreenBuckets**](https://github.com/kazeburo/GreenBuckets)|||
 |23|[@kazuho](https://github.com/kazuho)/[**p5-Server-Starter**](https://github.com/kazuho/p5-Server-Starter)|a superdaemon for hot-deploying server programs||
 |23|[@lyokato](https://github.com/lyokato)/[**p5-oauth-lite2**](https://github.com/lyokato/p5-oauth-lite2)|Perl Library for OAuth 2.0||
 |23|[@masaki](https://github.com/masaki)/[**Brownie**](https://github.com/masaki/Brownie)|Browser integration framework inspired by Capybara||
 |23|[@sisimai](https://github.com/sisimai)/[**p5-Sisimai**](https://github.com/sisimai/p5-Sisimai)|Mail Analyzing Interface for email bounce: A Perl module to parse RFC5322 bounce mails and generating structured data as JSON from parsed results. Formerly known as bounceHammer 4: an error mail analyzer.|[:arrow_upper_right:](http://libsisimai.org)|
 |23|[@zembutsu](https://github.com/zembutsu)/[**muninwalk**](https://github.com/zembutsu/muninwalk)|command line interface(CLI) for munin. it seems like snmpwalk.||
-|22|[@aki2o](https://github.com/aki2o)/[**plsense**](https://github.com/aki2o/plsense)|Omni completion tool for Perl||
 |22|[@cho45](https://github.com/cho45)/[**starter.pl**](https://github.com/cho45/starter.pl)|||
 |22|[@kazeburo](https://github.com/kazeburo)/[**Log-Minimal**](https://github.com/kazeburo/Log-Minimal)|Minimal Logger|[:arrow_upper_right:](http://search.cpan.org/dist/Log-Minimal/)|
 |22|[@kazuho](https://github.com/kazuho)/[**p5-text-microtempl…**](https://github.com/kazuho/p5-text-microtemplate)|Text::MicroTemplate||
@@ -233,6 +233,7 @@
 |11|[@yusukebe](https://github.com/yusukebe)/[**TailF**](https://github.com/yusukebe/TailF)|Web Application like a "tail -f xxx" command for Twitter etc.|[:arrow_upper_right:](http://tail-f.net/)|
 |11|[@zigorou](https://github.com/zigorou)/[**p5-test-mock-guard…**](https://github.com/zigorou/p5-test-mock-guard)|Simple mock test library using RAII|[:arrow_upper_right:](http://d.hatena.ne.jp/ZIGOROu/)|
 |10|[@aklaswad](https://github.com/aklaswad)/[**mt-plugin-oauth-fr…**](https://github.com/aklaswad/mt-plugin-oauth-framework)|provide easy way to use oauth for mt plugins|[:arrow_upper_right:](http://blog.aklaswad.com/)|
+|10|[@azumakuniyuki](https://github.com/azumakuniyuki)/[**Haineko**](https://github.com/azumakuniyuki/Haineko)|Email relay server receiving JSON via HTTP, sending email via SMTP, respond results as a JSON.||
 |10|[@bonnu](https://github.com/bonnu)/[**class-sasya**](https://github.com/bonnu/class-sasya)|||
 |10|[@cho45](https://github.com/cho45)/[**Plack-Middleware-S…**](https://github.com/cho45/Plack-Middleware-ServerStatus)|Setup server status page like Apache on /server-status||
 |10|[@do-aki](https://github.com/do-aki)/[**N1Repl**](https://github.com/do-aki/N1Repl)|master n : slave 1 replication for mysql||
@@ -298,7 +299,6 @@
 |8|[@aereal](https://github.com/aereal)/[**Text-Xslate-AST-Wa…**](https://github.com/aereal/Text-Xslate-AST-Walker)|Filter nodes in the AST (abstract syntax tree) which made by Text::Xslate||
 |8|[@alfasado](https://github.com/alfasado)/[**mt-plugin-rebuild-…**](https://github.com/alfasado/mt-plugin-rebuild-all-blogs)|Rebuild all blogs.||
 |8|[@alfasado](https://github.com/alfasado)/[**mt-plugin-rebuild-…**](https://github.com/alfasado/mt-plugin-rebuild-trigger)|Add rebuild trigger.||
-|8|[@azumakuniyuki](https://github.com/azumakuniyuki)/[**Haineko**](https://github.com/azumakuniyuki/Haineko)|Email relay server receiving JSON via HTTP, sending email via SMTP, respond results as a JSON.||
 |8|[@dann](https://github.com/dann)/[**p5-pinatra**](https://github.com/dann/p5-pinatra)|Minimalistic sugar for your Plack||
 |8|[@fujiwara](https://github.com/fujiwara)/[**Urume**](https://github.com/fujiwara/Urume)|||
 |8|[@fujiwara](https://github.com/fujiwara)/[**p5-Parallel-Benchm…**](https://github.com/fujiwara/p5-Parallel-Benchmark)|||
@@ -332,6 +332,7 @@
 |7|[@Cside](https://github.com/Cside)/[**YouTube-to-MP3**](https://github.com/Cside/YouTube-to-MP3)|||
 |7|[@aklaswad](https://github.com/aklaswad)/[**mt-plugin-include-…**](https://github.com/aklaswad/mt-plugin-include-map)||[:arrow_upper_right:](http://blog.aklaswad.com/)|
 |7|[@alfasado](https://github.com/alfasado)/[**mt-plugin-asset2re…**](https://github.com/alfasado/mt-plugin-asset2relative)|Insert asset with relative path.||
+|7|[@alfasado](https://github.com/alfasado)/[**mt-plugins-rebuild…**](https://github.com/alfasado/mt-plugins-rebuild-parent-categories)|Rebuild category archives for any parent categories for the categories when the entry changes.||
 |7|[@dann](https://github.com/dann)/[**p5-perl-metrics-li…**](https://github.com/dann/p5-perl-metrics-lite)|Pluggable Perl Metrics System||
 |7|[@faultier](https://github.com/faultier)/[**Asagao**](https://github.com/faultier/Asagao)|A simple web application framework, like Sinatra.|[:arrow_upper_right:](http://faultier.jp/asagao/)|
 |7|[@fujiwara](https://github.com/fujiwara)/[**perl-queue-q4pg-li…**](https://github.com/fujiwara/perl-queue-q4pg-lite)|simple message queue using PostgreSQL.||
@@ -369,13 +370,15 @@
 |7|[@zigorou](https://github.com/zigorou)/[**p5-sql-abstract-pl…**](https://github.com/zigorou/p5-sql-abstract-plugin-insertmulti)|bulk insert and update support for SQL::Abstract||
 |6|[@Hiroyuki-Nagata](https://github.com/Hiroyuki-Nagata)/[**foltia**](https://github.com/Hiroyuki-Nagata/foltia)|foltia http://www.dcc-jpl.com/soft/foltia/ - アニメ自動録画システムの私家改造版||
 |6|[@Kovensky](https://github.com/Kovensky)/[**lastfm.pl**](https://github.com/Kovensky/lastfm.pl)|Irssi script for an IRC bot that deals with last.fm||
+|6|[@aklaswad](https://github.com/aklaswad)/[**mt-plugin-tagging-…**](https://github.com/aklaswad/mt-plugin-tagging-helper)|add clickable tag cloud on entry editting screen.|[:arrow_upper_right:](http://blog.aklaswad.com/)|
 |6|[@alfasado](https://github.com/alfasado)/[**mt-plugin-backgrou…**](https://github.com/alfasado/mt-plugin-background-rebuilder)|It run in the background to rebuild when you save an entry.||
 |6|[@alfasado](https://github.com/alfasado)/[**mt-plugin-belong-t…**](https://github.com/alfasado/mt-plugin-belong-to-parent-categories)|The entry belongs to the all parent categories.||
 |6|[@alfasado](https://github.com/alfasado)/[**mt-plugin-customco…**](https://github.com/alfasado/mt-plugin-customconfig)|Create and manage system scope coutom configuration and you can register a custom MT tag on system level.||
+|6|[@alfasado](https://github.com/alfasado)/[**mt-plugin-mtentrie…**](https://github.com/alfasado/mt-plugin-mtentries-status-filter)|||
 |6|[@alfasado](https://github.com/alfasado)/[**mt-plugin-rebuild-…**](https://github.com/alfasado/mt-plugin-rebuild-on-demand)|Rebuild Page on demand.||
 |6|[@alfasado](https://github.com/alfasado)/[**mt-plugin-requestc…**](https://github.com/alfasado/mt-plugin-requestcache)|Template code to speed rebuilds in single request.||
 |6|[@alfasado](https://github.com/alfasado)/[**mt-plugin-view-sit…**](https://github.com/alfasado/mt-plugin-view-site)|Add view site link to Your Dashboard and System Menu.||
-|6|[@alfasado](https://github.com/alfasado)/[**mt-plugins-rebuild…**](https://github.com/alfasado/mt-plugins-rebuild-parent-categories)|Rebuild category archives for any parent categories for the categories when the entry changes.||
+|6|[@anazawa](https://github.com/anazawa)/[**metakgs.org**](https://github.com/anazawa/metakgs.org)|Unofficial JSON API for KGS Go Server|[:arrow_upper_right:](https://metakgs.org/)|
 |6|[@bonnu](https://github.com/bonnu)/[**encomp**](https://github.com/bonnu/encomp)|Meta framework to consider syntax operation||
 |6|[@dann](https://github.com/dann)/[**p5-plack-midddlewa…**](https://github.com/dann/p5-plack-midddleware-maintenance)|a middleware to detect the existence of a maintenance.html page and disp    lay that instead of incoming requests.||
 |6|[@dann](https://github.com/dann)/[**p5-shell-amazon-s3…**](https://github.com/dann/p5-shell-amazon-s3)|Shell::Amazon::S3|[:arrow_upper_right:](http://dann.g.hatena.ne.jp/dann)|
@@ -442,9 +445,7 @@
 |5|[@alfasado](https://github.com/alfasado)/[**mt-plugin-fixed-en…**](https://github.com/alfasado/mt-plugin-fixed-entry-display-options)|When the administrator's entry(page) display options is preserved, the setting is applied to all users.||
 |5|[@alfasado](https://github.com/alfasado)/[**mt-plugin-hide-men…**](https://github.com/alfasado/mt-plugin-hide-menu)|Hide menu items.||
 |5|[@alfasado](https://github.com/alfasado)/[**mt-plugin-more-dis…**](https://github.com/alfasado/mt-plugin-more-display-options)|Available to Entry Display Options, Title and Text.||
-|5|[@alfasado](https://github.com/alfasado)/[**mt-plugin-mtentrie…**](https://github.com/alfasado/mt-plugin-mtentries-status-filter)|||
 |5|[@alfasado](https://github.com/alfasado)/[**mt-plugin-snippet**](https://github.com/alfasado/mt-plugin-snippet)|Insert snippet to edit_entry.tmpl.||
-|5|[@anazawa](https://github.com/anazawa)/[**metakgs.org**](https://github.com/anazawa/metakgs.org)|Unofficial JSON API for KGS Go Server|[:arrow_upper_right:](https://metakgs.org/)|
 |5|[@bobpp](https://github.com/bobpp)/[**pastel**](https://github.com/bobpp/pastel)|pastel on Perl w/Amon2::Lite||
 |5|[@cybergarage](https://github.com/cybergarage)/[**cpan-net-upnp**](https://github.com/cybergarage/cpan-net-upnp)|Net::UPnP is a development package for UPnP™ developers. CyberLink controls these protocols automatically, and supports to create your devices and control points quickly.|[:arrow_upper_right:](http://www.cybergarage.org/)|
 |5|[@dann](https://github.com/dann)/[**p5-plack-middlewar…**](https://github.com/dann/p5-plack-middleware-dispatch)|Plack::Middleware::Dispatch allows one to mount middlewares or application  in a WSGI application. ||
@@ -524,9 +525,9 @@
 |4|[@aereal](https://github.com/aereal)/[**Plack-Middleware-G…**](https://github.com/aereal/Plack-Middleware-GitPunchCard)|Visualize Git commits distribution||
 |4|[@aklaswad](https://github.com/aklaswad)/[**MT-TagOverride**](https://github.com/aklaswad/MT-TagOverride)|Provide a tag that can override native tags by MTML itself.|[:arrow_upper_right:](http://blog.aklaswad.com/)|
 |4|[@aklaswad](https://github.com/aklaswad)/[**mt-plugin-movabloo…**](https://github.com/aklaswad/mt-plugin-movabloo)|||
-|4|[@aklaswad](https://github.com/aklaswad)/[**mt-plugin-tagging-…**](https://github.com/aklaswad/mt-plugin-tagging-helper)|add clickable tag cloud on entry editting screen.|[:arrow_upper_right:](http://blog.aklaswad.com/)|
 |4|[@alfasado](https://github.com/alfasado)/[**mt-plugin-asset-do…**](https://github.com/alfasado/mt-plugin-asset-downloader)|Asset download it by an original file name.||
 |4|[@alfasado](https://github.com/alfasado)/[**mt-plugin-fastfiel…**](https://github.com/alfasado/mt-plugin-fastfield)|Fast Loading CustomField.||
+|4|[@alfasado](https://github.com/alfasado)/[**mt-plugin-file-cac…**](https://github.com/alfasado/mt-plugin-file-cache)|||
 |4|[@alfasado](https://github.com/alfasado)/[**mt-plugin-numeric-…**](https://github.com/alfasado/mt-plugin-numeric-fields)|Additional types of custom fields : Integer and Float.||
 |4|[@bayashi](https://github.com/bayashi)/[**Plack-Middleware-C…**](https://github.com/bayashi/Plack-Middleware-ChromeLogger)|The Chrome Logger Middleware for Plack||
 |4|[@bonnu](https://github.com/bonnu)/[**method-cached**](https://github.com/bonnu/method-cached)|||
@@ -634,6 +635,7 @@
 |3|[@aklaswad](https://github.com/aklaswad)/[**mt-plugin-mtml-twi…**](https://github.com/aklaswad/mt-plugin-mtml-twitter-api)|access to twitter API by MTML.|[:arrow_upper_right:](http://blog.aklaswad.com/)|
 |3|[@azumakuniyuki](https://github.com/azumakuniyuki)/[**perl-benchmark-col…**](https://github.com/azumakuniyuki/perl-benchmark-collection)|My perl benchmark scripts||
 |3|[@bayashi](https://github.com/bayashi)/[**App-Rolling**](https://github.com/bayashi/App-Rolling)|rotate automatically, write down to file||
+|3|[@bayashi](https://github.com/bayashi)/[**Data-Dumper-AutoEn…**](https://github.com/bayashi/Data-Dumper-AutoEncode)|Dump with recursive encoding||
 |3|[@bayashi](https://github.com/bayashi)/[**Net-AozoraBunko**](https://github.com/bayashi/Net-AozoraBunko)|Perl Interface for accessing 青空文庫||
 |3|[@bayashi](https://github.com/bayashi)/[**Plack-Middleware-F…**](https://github.com/bayashi/Plack-Middleware-Favicon)|deliver common favicon images|[:arrow_upper_right:](https://metacpan.org/pod/Plack::Middleware::Favicon)|
 |3|[@bobbens](https://github.com/bobbens)/[**tae-kim_latex**](https://github.com/bobbens/tae-kim_latex)|Script to convert the Tae-Kim online website "Japanese Grammar Guide" to multiple pdf types.|[:arrow_upper_right:](http://www.guidetojapanese.org/learn/grammar)|

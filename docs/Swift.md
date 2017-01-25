@@ -115,7 +115,9 @@
 |65|[@nghialv](https://github.com/nghialv)/[**GCD**](https://github.com/nghialv/GCD)|A wrapper of Grand Central Dispatch written in Swift||
 |65|[@tasanobu](https://github.com/tasanobu)/[**Kamagari**](https://github.com/tasanobu/Kamagari)|Simple UIAlertController builder class in Swift.||
 |64|[@novi](https://github.com/novi)/[**mysql-swift**](https://github.com/novi/mysql-swift)|A type safe MySQL client for Swift||
+|63|[@Watson1978](https://github.com/Watson1978)/[**kotori**](https://github.com/Watson1978/kotori)|An OS X client app for https://esa.io/||
 |62|[@noppoMan](https://github.com/noppoMan)/[**Slimane**](https://github.com/noppoMan/Slimane)|An express inspired web framework for swift that works on OSX and Ubuntu.||
+|61|[@a-yasui](https://github.com/a-yasui)/[**RSSTouch**](https://github.com/a-yasui/RSSTouch)|Touchbar にRSSを流すやつ|[:arrow_upper_right:](https://a-yasui.github.io/RSSTouch/)|
 |60|[@onevcat](https://github.com/onevcat)/[**UserNotificationDe…**](https://github.com/onevcat/UserNotificationDemo)|Demo project to show how to use UserNotifications framework in iOS 10||
 |60|[@ynaoto](https://github.com/ynaoto)/[**SwiftBreakout**](https://github.com/ynaoto/SwiftBreakout)|Breakout game in Swift||
 |58|[@KyoheiG3](https://github.com/KyoheiG3)/[**ProtobufExample**](https://github.com/KyoheiG3/ProtobufExample)|Example of requesting Protocol Buffers and JSON with Swift. API is Swift or Go.||
@@ -219,6 +221,7 @@
 |13|[@safx](https://github.com/safx)/[**yavfl**](https://github.com/safx/yavfl)|Yet Anoter Visual Format Language for Auto Layout.||
 |13|[@tnantoka](https://github.com/tnantoka)/[**GameplayKitSandbox…**](https://github.com/tnantoka/GameplayKitSandbox)|GameplayKit examples with SpriteKit written in Swift.|[:arrow_upper_right:](http://spritekit.jp/update/2015/10/03/gameplaykit-sandbox/)|
 |12|[@ShingoFukuyama](https://github.com/ShingoFukuyama)/[**Swift-Color-Xcode-…**](https://github.com/ShingoFukuyama/Swift-Color-Xcode-Plugin)|Swift version of UIColor/NSColor edit plugin for Xcode||
+|12|[@asus4](https://github.com/asus4)/[**Kml.swift**](https://github.com/asus4/Kml.swift)|Simple kml parser for swift||
 |12|[@fhisa](https://github.com/fhisa)/[**SwiftyLayout**](https://github.com/fhisa/SwiftyLayout)|Lightweight declarative auto-layout framework for Swift||
 |12|[@fumiyasac](https://github.com/fumiyasac)/[**DatabasePersistenc…**](https://github.com/fumiyasac/DatabasePersistencePattern)|[ING]RealmとCoreDataでのデータロジック比較の食べ物写真投稿サンプルアプリ（iOS Sample Study: Swift）||
 |12|[@fumiyasac](https://github.com/fumiyasac)/[**WebViewGraphOfSwif…**](https://github.com/fumiyasac/WebViewGraphOfSwift)|[ING]WebViewとChart.jsでグラフ表示をする＆Realmを使ったカロリー記録サンプルアプリ（iOS Sample Study: Swift）||
@@ -229,7 +232,6 @@
 |11|[@norio-nomura](https://github.com/norio-nomura)/[**PlayNow**](https://github.com/norio-nomura/PlayNow)|Add "Execute in Playground" to Services menu||
 |11|[@tokorom](https://github.com/tokorom)/[**HasAssociatedObjec…**](https://github.com/tokorom/HasAssociatedObjects)|We can add some stored objects to Swift extension||
 |10|[@Lewuathe](https://github.com/Lewuathe)/[**SwiftCase**](https://github.com/Lewuathe/SwiftCase)|Case class implementation and matching DSL for Swift||
-|10|[@asus4](https://github.com/asus4)/[**Kml.swift**](https://github.com/asus4/Kml.swift)|Simple kml parser for swift||
 |10|[@gfx](https://github.com/gfx)/[**Swift-MultiThreadi…**](https://github.com/gfx/Swift-MultiThreading)|A demo code for synchronization in Swift|[:arrow_upper_right:](http://qiita.com/gfx/items/532f9f975de5a965c58a)|
 |10|[@hirohisa](https://github.com/hirohisa)/[**Shelf**](https://github.com/hirohisa/Shelf)|Shelf is a simple dynamic layout like AppStore for iOS   written in Swift.||
 |10|[@koogawa](https://github.com/koogawa)/[**LocationPickerCont…**](https://github.com/koogawa/LocationPickerController)|Simple location picker with a built in maps.||
@@ -240,6 +242,7 @@
 |10|[@takebayashi](https://github.com/takebayashi)/[**swiftra-example**](https://github.com/takebayashi/swiftra-example)|||
 |10|[@ytakzk](https://github.com/ytakzk)/[**Swift-Simple-Inter…**](https://github.com/ytakzk/Swift-Simple-Interactive-Art)|Swift implementation of simple interactive art||
 |10|[@yukiasai](https://github.com/yukiasai)/[**Tokikake**](https://github.com/yukiasai/Tokikake)|Promise for swift.||
+|9|[@ainame](https://github.com/ainame)/[**Swift-WebP**](https://github.com/ainame/Swift-WebP)|Swift wrapper for libwebp||
 |9|[@mokemokechicken](https://github.com/mokemokechicken)/[**EventCenter**](https://github.com/mokemokechicken/EventCenter)|Swift Library of Type Safe Event Notification like Android's EventBus.||
 |9|[@ngs](https://github.com/ngs)/[**Playground-Bluetoo…**](https://github.com/ngs/Playground-Bluetooth-Book)|Swift Playground Book that deals with Core Bluetooth||
 |9|[@oggata](https://github.com/oggata)/[**iBeaconDemo**](https://github.com/oggata/iBeaconDemo)|This is just a small project using the iOS 8 SDK, Swift, iBeacon. ||
@@ -362,6 +365,8 @@
 |3|[@Mazyod](https://github.com/Mazyod)/[**OrganicPicker**](https://github.com/Mazyod/OrganicPicker)|A completely generic picker control that can easily be customized to fit organically in your UI||
 |3|[@Ushio](https://github.com/Ushio)/[**EnumJson**](https://github.com/Ushio/EnumJson)|Type Safe, Thread Safe, Easy Object Mapping, Interface Json Library in Swift||
 |3|[@akio0911](https://github.com/akio0911)/[**SwiftTaskExample**](https://github.com/akio0911/SwiftTaskExample)|SwiftTaskを使ってUIViewのアニメーションを連鎖させるサンプル||
+|3|[@aminaura](https://github.com/aminaura)/[**SwiftBondSampler**](https://github.com/aminaura/SwiftBondSampler)|Simple code examples for SwiftBond||
+|3|[@aminaura](https://github.com/aminaura)/[**VideoReverser**](https://github.com/aminaura/VideoReverser)|Video Reverser reverses video clip and save frames from last to first.||
 |3|[@banjun](https://github.com/banjun)/[**bansan**](https://github.com/banjun/bansan)|:eyes: bansan checks swift code structures instead of your eyes||
 |3|[@codefirst](https://github.com/codefirst)/[**WeakStreaks**](https://github.com/codefirst/WeakStreaks)|Aim to implement glance view of ghstreaks||
 |3|[@dnpp73](https://github.com/dnpp73)/[**LocusView**](https://github.com/dnpp73/LocusView)|CALayer.presentationLayer + NSTimer + UIBezierPath||

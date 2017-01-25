@@ -14,6 +14,7 @@
 |9|[@okomok](https://github.com/okomok)/[**strcat**](https://github.com/okomok/strcat)|TeX files for summary of category theory||
 |8|[@laysakura](https://github.com/laysakura)/[**TheoryOfComputatio…**](https://github.com/laysakura/TheoryOfComputation)|A memo of a lecture on Theory of Computation in the University of Tokyo.||
 |7|[@hamano](https://github.com/hamano)/[**zguide-ja**](https://github.com/hamano/zguide-ja)|||
+|5|[@acgotaku](https://github.com/acgotaku)/[**USTC-SSE-THESIS**](https://github.com/acgotaku/USTC-SSE-THESIS)|适用于中科大软件学院工程硕士的Latex模板||
 |5|[@farseerfc](https://github.com/farseerfc)/[**sjtu-thesis-xelate…**](https://github.com/farseerfc/sjtu-thesis-xelatex)|This repo is UNMAINTAINED and DEPRECATED, 代码已过时，请使用下面的模板|[:arrow_upper_right:](https://github.com/weijianwen/sjtu-thesis-template-latex)|
 |5|[@frankdiox](https://github.com/frankdiox)/[**Nipponline**](https://github.com/frankdiox/Nipponline)||[:arrow_upper_right:](nipponline.wordpress.com)|
 |5|[@masui](https://github.com/masui)/[**EpisoPass**](https://github.com/masui/EpisoPass)|EpisoPass - creating passwords from episodic memory||

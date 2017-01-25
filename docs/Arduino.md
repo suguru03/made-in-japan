@@ -9,6 +9,7 @@
 |4|[@hrl7](https://github.com/hrl7)/[**ArduinoProxy**](https://github.com/hrl7/ArduinoProxy)|ArduinoとFirefox OSシミュレータをつなぎます||
 |4|[@soramimi](https://github.com/soramimi)/[**ESP8266Tweet**](https://github.com/soramimi/ESP8266Tweet)|Twitter client for ESP8266||
 |3|[@9SQ](https://github.com/9SQ)/[**minIRum**](https://github.com/9SQ/minIRum)|A minimal implementation of infrared sender/receiver like IRKit by ESP8266|[:arrow_upper_right:](http://eleclog.quitsq.com/2016/09/minirum.html)|
+|3|[@akirayou](https://github.com/akirayou)/[**yukkuriCut**](https://github.com/akirayou/yukkuriCut)|CNC hot wire cutter for acrylic board.||
 |3|[@chpesa](https://github.com/chpesa)/[**Arduino_FaceTracki…**](https://github.com/chpesa/Arduino_FaceTracking)|Face tracking algorithm (programmed in C++ - OpenCV) sends control commands to Arduino based Pan-Tilt camera programmed in Java ||
 |3|[@sugarsweetrobotics](https://github.com/sugarsweetrobotics)/[**RTno**](https://github.com/sugarsweetrobotics/RTno)|RTno = RTmiddleware + arduino. RTno project is developing arduino library|[:arrow_upper_right:](http://www.ysuga.net/robot/rtm/rtc/rtno)|
 

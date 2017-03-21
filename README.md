@@ -3,7 +3,7 @@
 > A list of cool projects in Japan. (This repo is inspired by [@IonicaBizau/made-in](https://github.com/IonicaBizau/made-in))
 
  
-## Top 10 Developers (2017/03/19)
+## Top 10 Developers (2017/03/20)
 |Rank|Name|:star2:|
 |---|---|---|
 |1|[wasabeef](https://github.com/wasabeef)|33841|

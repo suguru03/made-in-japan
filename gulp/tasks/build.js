@@ -110,6 +110,10 @@ function makeDocs(data) {
   const rankpath = path.resolve(__dirname, '../..', 'docs', 'rank.md');
   fs.writeFileSync(rankpath, rankDoc, 'utf8');
 
+  const users = _.map(rankInfo, 'name');
+  const rankInfoPath = path.resolve(__dirname, '../../', 'data', 'rank.json');
+  fs.writeFileSync(rankInfoPath, JSON.stringify(users, null, 2), 'utf8');
+
   // make link
   prevRank = undefined;
   prevStars = undefined;

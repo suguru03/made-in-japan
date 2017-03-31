@@ -12,12 +12,12 @@
 |13|[@hanamura](https://github.com/hanamura)/[**as3tf**](https://github.com/hanamura/as3tf)|Various classes and functions for Flash/ActionScript programming.||
 |11|[@akio0911](https://github.com/akio0911)/[**hcrepos**](https://github.com/akio0911/hcrepos)|Hacker's Cafe Repository|[:arrow_upper_right:](http://blog.hackers-cafe.net/)|
 |11|[@juwalbose](https://github.com/juwalbose)/[**DynamicAtlasCreato…**](https://github.com/juwalbose/DynamicAtlasCreator)|Helps create Starling Texture Atlas dynamically from a single super atlas (2048, ipad retina screen width based)||
+|9|[@lyokato](https://github.com/lyokato)/[**as3xmppclient**](https://github.com/lyokato/as3xmppclient)|ActionScript 3.0 XMPP client library||
 |9|[@wellflat](https://github.com/wellflat)/[**actionscript-labs**](https://github.com/wellflat/actionscript-labs)|my actionscript practice|[:arrow_upper_right:](http://rest-term.com)|
 |8|[@glassesfactory](https://github.com/glassesfactory)/[**GFS.I.OAS3**](https://github.com/glassesfactory/GFS.I.OAS3)|Socket.IO <-> AS3 with WebSocket|[:arrow_upper_right:](http://blog.glasses-factory.net)|
 |8|[@hotchpotch](https://github.com/hotchpotch)/[**uffy**](https://github.com/hotchpotch/uffy)|AS3 <-> JS||
 |8|[@kota](https://github.com/kota)/[**81SquareShogi**](https://github.com/kota/81SquareShogi)|online shogi playing site||
 |8|[@lyokato](https://github.com/lyokato)/[**as3jcode**](https://github.com/lyokato/as3jcode)|japanese text encoding||
-|8|[@lyokato](https://github.com/lyokato)/[**as3xmppclient**](https://github.com/lyokato/as3xmppclient)|ActionScript 3.0 XMPP client library||
 |8|[@sugamasao](https://github.com/sugamasao)/[**as_logger**](https://github.com/sugamasao/as_logger)|AS3 Logger class.|[:arrow_upper_right:](http://sugamasao.com)|
 |8|[@sugamasao](https://github.com/sugamasao)/[**misc**](https://github.com/sugamasao/misc)|miscellaneous code.|[:arrow_upper_right:](http://d.hatena.ne.jp/seiunsky)|
 |7|[@sugamasao](https://github.com/sugamasao)/[**BrowserUtility**](https://github.com/sugamasao/BrowserUtility)|AS3 browser utility.  provide use ExternalInterface Utility methods|[:arrow_upper_right:](http://sugamasao.com)|

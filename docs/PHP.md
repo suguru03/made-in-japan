@@ -12,7 +12,7 @@
 |112|[@kohkimakimoto](https://github.com/kohkimakimoto)/[**workerphp**](https://github.com/kohkimakimoto/workerphp)|A PHP micro job scheduler framework like cron.||
 |105|[@KLab](https://github.com/KLab)/[**emlauncher**](https://github.com/KLab/emlauncher)|||
 |105|[@dounokouno](https://github.com/dounokouno)/[**TransmitMail**](https://github.com/dounokouno/TransmitMail)|Copyright表示不要のPHP製汎用メールフォームシステム|[:arrow_upper_right:](http://etc.dounokouno.com/TransmitMail/)|
-|92|[@makotokw](https://github.com/makotokw)/[**wp-gfm**](https://github.com/makotokw/wp-gfm)|WordPress Plugin for PHP-Markdown and GitHub Flavored Markdown||
+|96|[@makotokw](https://github.com/makotokw)/[**wp-gfm**](https://github.com/makotokw/wp-gfm)|WordPress Plugin for PHP-Markdown and GitHub Flavored Markdown||
 |90|[@hissy](https://github.com/hissy)/[**rs-csv-importer**](https://github.com/hissy/rs-csv-importer)|Really Simple CSV Importer for WordPress|[:arrow_upper_right:](http://wordpress.org/plugins/really-simple-csv-importer/)|
 |89|[@koriym](https://github.com/koriym)/[**Koriym.PhpSkeleton…**](https://github.com/koriym/Koriym.PhpSkeleton)|CI ready PHP project skeleton||
 |86|[@ichikaway](https://github.com/ichikaway)/[**mongoDB-Datasource…**](https://github.com/ichikaway/mongoDB-Datasource)|Old and Historical repository. Please use new repository at: http://github.com/ichikaway/cakephp-mongodb||
@@ -61,15 +61,16 @@
 |30|[@sadiqevani](https://github.com/sadiqevani)/[**HostChecker**](https://github.com/sadiqevani/HostChecker)|Hostchecker is a script that helps you monitor your servers and services whether they are online or not.  You can add a unlimited amount of hosts or ip to monitor and directly check them or a cronjob will check the services  for you and you will receive an email if one of your hosts is down.||
 |30|[@sizuhiko](https://github.com/sizuhiko)/[**Bdd**](https://github.com/sizuhiko/Bdd)|BDD(Behavior Driven Development) integration plugin for CakePHP2||
 |29|[@client9](https://github.com/client9)/[**snowflake2time**](https://github.com/client9/snowflake2time)|Converts twitter snowflake ids to UTC timestamps (unix epoch seconds or milliseconds) and back in php and python||
+|28|[@miya0001](https://github.com/miya0001)/[**wp-total-hacks**](https://github.com/miya0001/wp-total-hacks)|WP Total Hacks can customize more than 20 settings on your WordPress Site.|[:arrow_upper_right:](http://firegoby.jp/wp/wp-total-hacks)|
 |27|[@makotokw](https://github.com/makotokw)/[**php-twient**](https://github.com/makotokw/php-twient)|php-twient is a php twitter client library. require PHP5.3+, supports OAuth and should work without curl.||
 |27|[@tototoshi](https://github.com/tototoshi)/[**staticmock**](https://github.com/tototoshi/staticmock)|A mockery-like DSL to replace static method in test.||
 |26|[@brtriver](https://github.com/brtriver)/[**silex-sample-appli…**](https://github.com/brtriver/silex-sample-application)|silex sample blog application with tests||
 |26|[@inc2734](https://github.com/inc2734)/[**smart-custom-field…**](https://github.com/inc2734/smart-custom-fields)|||
 |26|[@jrmadsen67](https://github.com/jrmadsen67)/[**eloquent_by_exampl…**](https://github.com/jrmadsen67/eloquent_by_example)|Working examples of Laravel Eloquent ORM||
-|26|[@miya0001](https://github.com/miya0001)/[**wp-total-hacks**](https://github.com/miya0001/wp-total-hacks)|WP Total Hacks can customize more than 20 settings on your WordPress Site.|[:arrow_upper_right:](http://firegoby.jp/wp/wp-total-hacks)|
 |25|[@77web](https://github.com/77web)/[**my-silex-examples**](https://github.com/77web/my-silex-examples)|how to work with Silex php framework in typical cases||
 |25|[@predominant](https://github.com/predominant)/[**goodies**](https://github.com/predominant/goodies)|Goodies plugin for CakePHP - Gravatar helper, AutoJavascript includer.|[:arrow_upper_right:](http://grahamweldon.com)|
 |25|[@suin](https://github.com/suin)/[**php-ftp-client**](https://github.com/suin/php-ftp-client)|📦 A simple PHP FTP client library working without FTP extension.||
+|24|[@miya0001](https://github.com/miya0001)/[**gh-auto-updater**](https://github.com/miya0001/gh-auto-updater)|Automatic Updater with GitHub API for WordPress Plugin||
 |24|[@utahta](https://github.com/utahta)/[**WP-Social-Bookmark…**](https://github.com/utahta/WP-Social-Bookmarking-Light)|WordPress用のソーシャルブックマーキングボタン設置プラグイン|[:arrow_upper_right:](http://wordpress.org/extend/plugins/wp-social-bookmarking-light/)|
 |23|[@shin1x1](https://github.com/shin1x1)/[**vagrant-lapp-sampl…**](https://github.com/shin1x1/vagrant-lapp-sample)|LAPP(CentOS6.4 / Apache2.2 / PHP5.4 / PostgreSQL9.3) sample project on Vagrant||
 |23|[@tekezo](https://github.com/tekezo)/[**ImageLnk**](https://github.com/tekezo/ImageLnk)|Get image URLs from image page HTML|[:arrow_upper_right:](http://imagelnk.pqrs.org/)|
@@ -88,12 +89,14 @@
 |20|[@ichikaway](https://github.com/ichikaway)/[**xformHelper**](https://github.com/ichikaway/xformHelper)|extends cakephp form helper.||
 |20|[@k1LoW](https://github.com/k1LoW)/[**yalog**](https://github.com/k1LoW/yalog)|Yet Another Logger for CakePHP||
 |20|[@kjdev](https://github.com/kjdev)/[**php-ext-brotli**](https://github.com/kjdev/php-ext-brotli)|Brotli Extension for PHP||
+|20|[@mikiakira](https://github.com/mikiakira)/[**php-simple-kanban**](https://github.com/mikiakira/php-simple-kanban)|A web app that was inspired by Trello and cloned only the "Kanban" function with PHP||
+|20|[@miya0001](https://github.com/miya0001)/[**simple-map**](https://github.com/miya0001/simple-map)|Display Google Map Shortcode for WordPress||
 |20|[@nojimage](https://github.com/nojimage)/[**CakePHP-TALTAL**](https://github.com/nojimage/CakePHP-TALTAL)|PHPTAL for CakePHP|[:arrow_upper_right:](http://php-tips.com)|
 |20|[@riaf](https://github.com/riaf)/[**obsoleted-webpay-p…**](https://github.com/riaf/obsoleted-webpay-php)|Deprecated / See also|[:arrow_upper_right:](https://github.com/webpay/webpay-php)|
 |19|[@MASA-P](https://github.com/MASA-P)/[**ktai-dev**](https://github.com/MASA-P/ktai-dev)|Ktai Library development suite|[:arrow_upper_right:](http://www.ktailibrary.org/)|
 |19|[@chobie](https://github.com/chobie)/[**Emoji**](https://github.com/chobie/Emoji)|like a github, cutest emoji parser & render ||
 |19|[@hirak](https://github.com/hirak)/[**packagist-crawler**](https://github.com/hirak/packagist-crawler)|make mirror of https://packagist.org|[:arrow_upper_right:](http://packagist.jp)|
-|19|[@makotokw](https://github.com/makotokw)/[**php-hadoopstreamin…**](https://github.com/makotokw/php-hadoopstreaming)|php utils for Hadoop Streaming ||
+|19|[@martynbiz](https://github.com/martynbiz)/[**slim3-controller**](https://github.com/martynbiz/slim3-controller)|Provides controller functionality to Slim Framework v3. Also includes PHPUnit TestCase for testing controllers.||
 |19|[@rti7743](https://github.com/rti7743)/[**Regexp_Assemble_Fo…**](https://github.com/rti7743/Regexp_Assemble_For_PHP)|perlのRegexp::Assemble を PHP に移植する||
 |19|[@shinokada](https://github.com/shinokada)/[**kaimonokago2.0**](https://github.com/shinokada/kaimonokago2.0)|||
 |19|[@stk2k](https://github.com/stk2k)/[**charcoalphp2**](https://github.com/stk2k/charcoalphp2)|A task oriented PHP web framework||
@@ -102,13 +105,14 @@
 |18|[@hirocaster](https://github.com/hirocaster)/[**phpunit-stack**](https://github.com/hirocaster/phpunit-stack)|車窓からの TDD|[:arrow_upper_right:](http://www.objectclub.jp/technicaldoc/testing/stack_tdd.pdf)|
 |18|[@inc2734](https://github.com/inc2734)/[**mw-wp-form**](https://github.com/inc2734/mw-wp-form)|||
 |18|[@masayuki0812](https://github.com/masayuki0812)/[**dynamodb-php-wrapp…**](https://github.com/masayuki0812/dynamodb-php-wrapper)|Access AWS DynamoDB through simpler interface.||
-|18|[@miya0001](https://github.com/miya0001)/[**simple-map**](https://github.com/miya0001/simple-map)|Display Google Map Shortcode for WordPress||
+|18|[@miya0001](https://github.com/miya0001)/[**wp-cli-vhosts**](https://github.com/miya0001/wp-cli-vhosts)|WP-CLI package command for VirtualHost||
 |18|[@tkyk](https://github.com/tkyk)/[**cakephp-query-buil…**](https://github.com/tkyk/cakephp-query-builder)|An Object-Oriented way to build find queries.||
 |18|[@uzulla](https://github.com/uzulla)/[**Tinitter**](https://github.com/uzulla/Tinitter)|PHP sample web application||
 |17|[@YuzuruS](https://github.com/YuzuruS)/[**redis-recommend**](https://github.com/YuzuruS/redis-recommend)|Wrapping Redis's sorted set APIs and PHP for specializing recommending operations.||
 |17|[@appleple](https://github.com/appleple)/[**ablogcms-public**](https://github.com/appleple/ablogcms-public)|a-blog cms 公開ソースコード|[:arrow_upper_right:](http://www.a-blogcms.jp)|
 |17|[@chobie](https://github.com/chobie)/[**PHP_reStructuredTe…**](https://github.com/chobie/PHP_reStructuredText)|pure php implementation parser of reStructuredText.||
 |17|[@katzueno](https://github.com/katzueno)/[**git-Webhooks-Auto-…**](https://github.com/katzueno/git-Webhooks-Auto-Deploy-PHP-Script)|PHP script to auto deploy your repo using GitHub's and Bitbucket's hook function.||
+|17|[@makotokw](https://github.com/makotokw)/[**php-hadoopstreamin…**](https://github.com/makotokw/php-hadoopstreaming)|php utils for Hadoop Streaming ||
 |17|[@milk1000cc](https://github.com/milk1000cc)/[**cakephp_exception_…**](https://github.com/milk1000cc/cakephp_exception_notifier)|Exception Notifier Component for CakePHP||
 |17|[@piece](https://github.com/piece)/[**stagehand-fsm**](https://github.com/piece/stagehand-fsm)|A finite state machine|[:arrow_upper_right:](https://github.com/piece/stagehand-fsm/wiki)|
 |17|[@shin1x1](https://github.com/shin1x1)/[**laravel-force-http…**](https://github.com/shin1x1/laravel-force-https-url-scheme)|Force https url schema middleware for Laravel 5||
@@ -120,8 +124,7 @@
 |16|[@hbkr](https://github.com/hbkr)/[**tefutefu**](https://github.com/hbkr/tefutefu)|TefuTefu連鎖||
 |16|[@kaz29](https://github.com/kaz29)/[**extjsplugin**](https://github.com/kaz29/extjsplugin)|ExtJS Plugin for CakePHP||
 |16|[@kohkimakimoto](https://github.com/kohkimakimoto)/[**EArray**](https://github.com/kohkimakimoto/EArray)|EArray is a small PHP class to provide convenient ways to access a PHP Array.||
-|16|[@miya0001](https://github.com/miya0001)/[**oembed-gist**](https://github.com/miya0001/oembed-gist)|oEmbed Gist API for WordPress|[:arrow_upper_right:](https://wordpress.org/plugins/oembed-gist/)|
-|16|[@miya0001](https://github.com/miya0001)/[**wp-cli-vhosts**](https://github.com/miya0001/wp-cli-vhosts)|WP-CLI package command for VirtualHost||
+|16|[@miya0001](https://github.com/miya0001)/[**tinymce-templates**](https://github.com/miya0001/tinymce-templates)|TinyMCE Templates for WordPress|[:arrow_upper_right:](http://miya0001.github.io/tinymce-templates/)|
 |16|[@nojimage](https://github.com/nojimage)/[**CakePHP-Twim**](https://github.com/nojimage/CakePHP-Twim)|Twitter API Plugin for CakePHP 2||
 |16|[@slywalker](https://github.com/slywalker)/[**account_manager**](https://github.com/slywalker/account_manager)|CakePHP AccountManager Plugin||
 |16|[@slywalker](https://github.com/slywalker)/[**pdf**](https://github.com/slywalker/pdf)|CakePHP PDF Plugin||
@@ -132,6 +135,8 @@
 |15|[@balibali](https://github.com/balibali)/[**opDiaryPlugin**](https://github.com/balibali/opDiaryPlugin)|Diary plugin for OpenPNE3|[:arrow_upper_right:](http://redmine.openpne.jp/projects/plg-diary)|
 |15|[@hiroy](https://github.com/hiroy)/[**lune**](https://github.com/hiroy/lune)|a PHP minimal framework|[:arrow_upper_right:](http://twitter.com/hiro_y)|
 |15|[@matsubo](https://github.com/matsubo)/[**redis-ranking**](https://github.com/matsubo/redis-ranking)|Wrapping Redis's sorted set APIs for specializing ranking operations.||
+|15|[@miya0001](https://github.com/miya0001)/[**child-pages-shortc…**](https://github.com/miya0001/child-pages-shortcode)|||
+|15|[@miya0001](https://github.com/miya0001)/[**oembed-gist**](https://github.com/miya0001/oembed-gist)|oEmbed Gist API for WordPress|[:arrow_upper_right:](https://wordpress.org/plugins/oembed-gist/)|
 |15|[@sotarok](https://github.com/sotarok)/[**pastit**](https://github.com/sotarok/pastit)|"Pastit" is an application for paste something.||
 |15|[@takimo](https://github.com/takimo)/[**mixi-php-sdk**](https://github.com/takimo/mixi-php-sdk)|mixi-php-sdk||
 |15|[@tkyk](https://github.com/tkyk)/[**cakephp-qdmailer**](https://github.com/tkyk/cakephp-qdmailer)|A CakePHP component to send mail with the Qdmail Library.|[:arrow_upper_right:](http://wp.serpere.info)|
@@ -143,9 +148,6 @@
 |14|[@hiromi2424](https://github.com/hiromi2424)/[**hack_plugin**](https://github.com/hiromi2424/hack_plugin)|CakePHP alias library||
 |14|[@hissy](https://github.com/hissy)/[**concrete5-amp**](https://github.com/hissy/concrete5-amp)|Accelerated Mobile Pages (AMP) for concrete5||
 |14|[@k1LoW](https://github.com/k1LoW)/[**model_info**](https://github.com/k1LoW/model_info)|CakePHP DB Schema/Model Info Plugin||
-|14|[@martynbiz](https://github.com/martynbiz)/[**slim3-controller**](https://github.com/martynbiz/slim3-controller)|Provides controller functionality to Slim Framework v3. Also includes PHPUnit TestCase for testing controllers.||
-|14|[@miya0001](https://github.com/miya0001)/[**child-pages-shortc…**](https://github.com/miya0001/child-pages-shortcode)|||
-|14|[@miya0001](https://github.com/miya0001)/[**tinymce-templates**](https://github.com/miya0001/tinymce-templates)|TinyMCE Templates for WordPress|[:arrow_upper_right:](http://miya0001.github.io/tinymce-templates/)|
 |14|[@polidog](https://github.com/polidog)/[**php-chatwork-api**](https://github.com/polidog/php-chatwork-api)|||
 |14|[@sasezaki](https://github.com/sasezaki)/[**Backbeard**](https://github.com/sasezaki/Backbeard)|:new_moon_with_face: PHP's Generator based Dispatcher Framework||
 |14|[@ttsuruoka](https://github.com/ttsuruoka)/[**php-simple-amazon-…**](https://github.com/ttsuruoka/php-simple-amazon-dynamodb)|A simple PHP interface to Amazon DynamoDB API||
@@ -161,7 +163,6 @@
 |13|[@kaz29](https://github.com/kaz29)/[**smartyview**](https://github.com/kaz29/smartyview)|smarty view plugin for CakePHP||
 |13|[@kohkimakimoto](https://github.com/kohkimakimoto)/[**lib-migration**](https://github.com/kohkimakimoto/lib-migration)|LibMigration is a minimum database migration library and framework for MySQL.|[:arrow_upper_right:](http://kohkimakimoto.github.io/lib-migration/)|
 |13|[@miyukki](https://github.com/miyukki)/[**ApplestFramework**](https://github.com/miyukki/ApplestFramework)|A PHP Framework for myself||
-|13|[@monsat](https://github.com/monsat)/[**Ogp**](https://github.com/monsat/Ogp)|CakePHP OGP Plugin||
 |13|[@nojimage](https://github.com/nojimage)/[**CakePHP-skel**](https://github.com/nojimage/CakePHP-skel)|CakePHP アプリケーションスケルトンの建設中。fork me!||
 |13|[@shin1x1](https://github.com/shin1x1)/[**gihyo-laravel-book…**](https://github.com/shin1x1/gihyo-laravel-book-reservation)|Laravelエキスパート養成読本 chapter5. サンプルコード|[:arrow_upper_right:](http://www.amazon.co.jp/dp/4774173134)|
 |13|[@ttskch](https://github.com/ttskch)/[**php-abc-quests**](https://github.com/ttskch/php-abc-quests)|順番に課題をこなしていけばそれなりに今風な PHP 開発の入門ができるコンテンツ||
@@ -174,6 +175,7 @@
 |12|[@kjdev](https://github.com/kjdev)/[**php-ext-hoedown**](https://github.com/kjdev/php-ext-hoedown)|PHP Extension for Hoedown||
 |12|[@kohkimakimoto](https://github.com/kohkimakimoto)/[**phpmigrate**](https://github.com/kohkimakimoto/phpmigrate)|PHPMigrate is a minimum database migration tool for MySQL.||
 |12|[@memememomo](https://github.com/memememomo)/[**php-SQL-Maker**](https://github.com/memememomo/php-SQL-Maker)|||
+|12|[@monsat](https://github.com/monsat)/[**Ogp**](https://github.com/monsat/Ogp)|CakePHP OGP Plugin||
 |12|[@nanasess](https://github.com/nanasess)/[**ec-cube-extended**](https://github.com/nanasess/ec-cube-extended)|EC-CUBE2系の非公式ミラーです。既に本家のサポートを終えた旧バージョンの保守を独自に続けようと思っています。|[:arrow_upper_right:](http://svn.ec-cube.net/open_trac/browser/branches)|
 |12|[@tkyk](https://github.com/tkyk)/[**cakephp-markup-hel…**](https://github.com/tkyk/cakephp-markup-helper)|Building (X)HTML by method chaining||
 |12|[@yuya-takeyama](https://github.com/yuya-takeyama)/[**mymr**](https://github.com/yuya-takeyama/mymr)|MapReduce framework using PHP and MySQL||
@@ -187,6 +189,7 @@
 |11|[@k1LoW](https://github.com/k1LoW)/[**Yacsv**](https://github.com/k1LoW/Yacsv)| Yet another CSV utility plugin for CakePHP ||
 |11|[@k1LoW](https://github.com/k1LoW)/[**controller_prefix**](https://github.com/k1LoW/controller_prefix)|`Controller name prefix' custom route plugin for CakePHP||
 |11|[@kentaro](https://github.com/kentaro)/[**soushi**](https://github.com/kentaro/soushi)|Bimodal Site Generator Powered by PHP|[:arrow_upper_right:](http://kentarok.org/soushi/)|
+|11|[@miiitaka](https://github.com/miiitaka)/[**wp-structuring-mar…**](https://github.com/miiitaka/wp-structuring-markup)|:electric_plug: WordPress: Plug-in Markup (JSON-LD) structured in schema.org|[:arrow_upper_right:](https://wordpress.org/plugins/wp-structuring-markup/)|
 |11|[@monsat](https://github.com/monsat)/[**CakePHP-SimpleHtml…**](https://github.com/monsat/CakePHP-SimpleHtmlDom-Plugin)|SimpleHtmlDom Datasource||
 |11|[@predominant](https://github.com/predominant)/[**CakeFest-Berlin-20…**](https://github.com/predominant/CakeFest-Berlin-2009-Workshop)|Working files from the Workshop at CakeFest 2009 in Berlin|[:arrow_upper_right:](http://cakefest.org)|
 |11|[@shin1x1](https://github.com/shin1x1)/[**findTwitter**](https://github.com/shin1x1/findTwitter)|seach tweets / cakephp sample application|[:arrow_upper_right:](http://find-twitter.in/)|
@@ -203,6 +206,7 @@
 |10|[@k0u5uk3](https://github.com/k0u5uk3)/[**obfuscated-php-web…**](https://github.com/k0u5uk3/obfuscated-php-webshell-detector)|obfuscated-php-webshell-detector - Detect PHP Webshell in obfusucation||
 |10|[@kaz29](https://github.com/kaz29)/[**cake_slack**](https://github.com/kaz29/cake_slack)|||
 |10|[@kuzuha](https://github.com/kuzuha)/[**Phunk**](https://github.com/kuzuha/Phunk)|Plack for php 5.4 higher||
+|10|[@miya0001](https://github.com/miya0001)/[**content-template-e…**](https://github.com/miya0001/content-template-engine)|Enables template engine to WordPress contents.||
 |10|[@nojimage](https://github.com/nojimage)/[**cakephp-environmen…**](https://github.com/nojimage/cakephp-environment)|CakePHP Environment Plugn||
 |10|[@shu223](https://github.com/shu223)/[**csv2plist**](https://github.com/shu223/csv2plist)|Script to convert CSV file to plist file.|[:arrow_upper_right:](http://d.hatena.ne.jp/shu223/20110511/1305129443)|
 |10|[@slywalker](https://github.com/slywalker)/[**mobile_kit**](https://github.com/slywalker/mobile_kit)|CakePHP Mobile Plugin||
@@ -225,7 +229,6 @@
 |9|[@koriym](https://github.com/koriym)/[**Koriym.DevPdoState…**](https://github.com/koriym/Koriym.DevPdoStatement)|A PdoStatement for Developers||
 |9|[@koriym](https://github.com/koriym)/[**Koriym.ReduxReactS…**](https://github.com/koriym/Koriym.ReduxReactSsr)|Redux ReactJS server side rendering using PHP-V8Js||
 |9|[@kozo](https://github.com/kozo)/[**Partial**](https://github.com/kozo/Partial)|Partial for CakePHP||
-|9|[@miya0001](https://github.com/miya0001)/[**content-template-e…**](https://github.com/miya0001/content-template-engine)|Enables template engine to WordPress contents.||
 |9|[@nkjm](https://github.com/nkjm)/[**Force.com-OAuth-To…**](https://github.com/nkjm/Force.com-OAuth-Toolkit-for-PHP)|A toolkit to enable OAuth in external Web Services developed in php|[:arrow_upper_right:](http://nkjmkzk.net/?p=2222)|
 |9|[@oasynnoum](https://github.com/oasynnoum)/[**phpmake_firmata**](https://github.com/oasynnoum/phpmake_firmata)|Yet Another Firmata interface for PHP||
 |9|[@polidog](https://github.com/polidog)/[**esa-php**](https://github.com/polidog/esa-php)|||
@@ -250,7 +253,7 @@
 |8|[@kiridaruma](https://github.com/kiridaruma)/[**Onset**](https://github.com/kiridaruma/Onset)|TRPG向けの簡単なチャット||
 |8|[@kjdev](https://github.com/kjdev)/[**php-ext-zopfli**](https://github.com/kjdev/php-ext-zopfli)|This extension allows Zopfli compression.||
 |8|[@koriym](https://github.com/koriym)/[**cs**](https://github.com/koriym/cs)|A Coding Standard for PHP_CodeSniffer||
-|8|[@miiitaka](https://github.com/miiitaka)/[**wp-structuring-mar…**](https://github.com/miiitaka/wp-structuring-markup)|:electric_plug: WordPress: Plug-in Schema.org JSON-LD|[:arrow_upper_right:](https://wordpress.org/plugins/wp-structuring-markup/)|
+|8|[@miya0001](https://github.com/miya0001)/[**tinyTemplate**](https://github.com/miya0001/tinyTemplate)|Template Engine for PHP based on bTemplate|[:arrow_upper_right:](http://firegoby.theta.ne.jp/download/tinytemplate)|
 |8|[@naoya](https://github.com/naoya)/[**PQ**](https://github.com/naoya/PQ)|||
 |8|[@ngyuki](https://github.com/ngyuki)/[**php-ftp-client**](https://github.com/ngyuki/php-ftp-client)|トランスポート層とFTP層のエラーを区別出来るようにしたFTPクライアント||
 |8|[@shin1x1](https://github.com/shin1x1)/[**arry**](https://github.com/shin1x1/arry)|method chain interface for PHP array||
@@ -273,11 +276,8 @@
 |7|[@kohkimakimoto](https://github.com/kohkimakimoto)/[**BayesClassifier**](https://github.com/kohkimakimoto/BayesClassifier)|This is a Bayes Classifier implementation written in PHP|[:arrow_upper_right:](http://konekone.org/tweetbunseki)|
 |7|[@makies](https://github.com/makies)/[**cakeTiarra**](https://github.com/makies/cakeTiarra)|webbased irc client for tiarra user.||
 |7|[@manse](https://github.com/manse)/[**ScienceStyle**](https://github.com/manse/ScienceStyle)|A manager theme based on RevoStyle for MODX Evo.||
-|7|[@masakielastic](https://github.com/masakielastic)/[**webpay-wordpress**](https://github.com/masakielastic/webpay-wordpress)|WebPay による決済のためのショートコードを WordPress に追加するプラグインです。||
 |7|[@miya0001](https://github.com/miya0001)/[**advanced-csv-impor…**](https://github.com/miya0001/advanced-csv-importer)|Import posts, pages, custom fields, categories, tags and more from a CSV file.|[:arrow_upper_right:](https://wordpress.org/plugins/advanced-csv-importer/)|
-|7|[@miya0001](https://github.com/miya0001)/[**force-email-login**](https://github.com/miya0001/force-email-login)|Use email address for login to your WordPress.||
 |7|[@miya0001](https://github.com/miya0001)/[**posts-in-category-…**](https://github.com/miya0001/posts-in-category-widget)||[:arrow_upper_right:](http://firegoby.theta.ne.jp/wp/posts-from-a-category-widget)|
-|7|[@miya0001](https://github.com/miya0001)/[**tinyTemplate**](https://github.com/miya0001/tinyTemplate)|Template Engine for PHP based on bTemplate|[:arrow_upper_right:](http://firegoby.theta.ne.jp/download/tinytemplate)|
 |7|[@nao-pon](https://github.com/nao-pon)/[**xelfinder**](https://github.com/nao-pon/xelfinder)|eiFinder for XOOPS||
 |7|[@niiyz](https://github.com/niiyz)/[**Laravel-DDD**](https://github.com/niiyz/Laravel-DDD)|A sample applications that make domain driven design in Laravel.||
 |7|[@pha](https://github.com/pha)/[**EasyBotter**](https://github.com/pha/EasyBotter)|プログラミングができなくても作れるTwitter botの作り方|[:arrow_upper_right:](http://pha22.net/twitterbot/)|
@@ -334,6 +334,8 @@
 |6|[@ko31](https://github.com/ko31)/[**LineBot**](https://github.com/ko31/LineBot)|LINE BOT APIで作った画像検索ボットくん||
 |6|[@ku](https://github.com/ku)/[**reblog.ido.nu**](https://github.com/ku/reblog.ido.nu)|dashboard for poor japanese ke-tai|[:arrow_upper_right:](http://reblog.ido.nu/)|
 |6|[@makotokw](https://github.com/makotokw)/[**wp-amazonjs**](https://github.com/makotokw/wp-amazonjs)|WordPress Amazon Plugin, http://wordpress.org/plugins/amazonjs/||
+|6|[@masakielastic](https://github.com/masakielastic)/[**webpay-wordpress**](https://github.com/masakielastic/webpay-wordpress)|WebPay による決済のためのショートコードを WordPress に追加するプラグインです。||
+|6|[@miya0001](https://github.com/miya0001)/[**dynamic-hostname**](https://github.com/miya0001/dynamic-hostname)|fix hostname problem when using the vagrant cloud for WordPress||
 |6|[@monsat](https://github.com/monsat)/[**environment**](https://github.com/monsat/environment)|||
 |6|[@naga3](https://github.com/naga3)/[**docker-lamp**](https://github.com/naga3/docker-lamp)|Apache + PHP + MySQL with Docker Compose||
 |6|[@naga3](https://github.com/naga3)/[**qb**](https://github.com/naga3/qb)|Qb: Simple query builder|[:arrow_upper_right:](https://packagist.org/packages/naga3/qb)|
@@ -390,7 +392,7 @@
 |5|[@kjdev](https://github.com/kjdev)/[**php-ext-msgpacki**](https://github.com/kjdev/php-ext-msgpacki)|PHP MessagePack Improved Extension||
 |5|[@koike](https://github.com/koike)/[**ayumi**](https://github.com/koike/ayumi)|ayumi is tools for analyze Drive-by Download||
 |5|[@koike](https://github.com/koike)/[**tomori**](https://github.com/koike/tomori)|tomori is tools for analyze Drive-by Download||
-|5|[@miya0001](https://github.com/miya0001)/[**dynamic-hostname**](https://github.com/miya0001/dynamic-hostname)|fix hostname problem when using the vagrant cloud for WordPress||
+|5|[@langrid](https://github.com/langrid)/[**langrid-php-librar…**](https://github.com/langrid/langrid-php-library)|Multilingual Studio is a set of APIs for using the multi-language functions provided by the Language Grid, such as back translation, text-to-speech, multi-hop translation and so on.|[:arrow_upper_right:](http://www.langrid.org/developer/ )|
 |5|[@miya0001](https://github.com/miya0001)/[**janken-login**](https://github.com/miya0001/janken-login)|Leap Motionをつかったじゃんけんゲームに勝たないとログイン画面が表示されないプラグイン||
 |5|[@morizyun](https://github.com/morizyun)/[**vagrant-centos-cak…**](https://github.com/morizyun/vagrant-centos-cakephp)|CentOS 6.5/MySQL/Apache/phpMyAdmin/PHP 5.3/CakePHP 2.4.6||
 |5|[@mzhs](https://github.com/mzhs)/[**yii2-blog-demo**](https://github.com/mzhs/yii2-blog-demo)|||
@@ -482,11 +484,10 @@
 |4|[@koriym](https://github.com/koriym)/[**Koriym.Baracoa**](https://github.com/koriym/Koriym.Baracoa)|A JavaScript server side rendering interface for PHP||
 |4|[@kumatch](https://github.com/kumatch)/[**stagehand-php-pars…**](https://github.com/kumatch/stagehand-php-parser)|A PHP parser for PHP||
 |4|[@kuzuha](https://github.com/kuzuha)/[**Geography_Japanese…**](https://github.com/kuzuha/Geography_JapanesePrefectures)|This module allows you to get information on Japanese Prefectures names. and region.  |[:arrow_upper_right:](http://packagist.org/packages/Geography/JapanesePrefectures)|
-|4|[@langrid](https://github.com/langrid)/[**langrid-php-librar…**](https://github.com/langrid/langrid-php-library)|Multilingual Studio is a set of APIs for using the multi-language functions provided by the Language Grid, such as back translation, text-to-speech, multi-hop translation and so on.|[:arrow_upper_right:](http://www.langrid.org/developer/ )|
 |4|[@manse](https://github.com/manse)/[**sass.modx**](https://github.com/manse/sass.modx)|SASS compiler for MODX Evo.||
+|4|[@martynbiz](https://github.com/martynbiz)/[**slim3-module**](https://github.com/martynbiz/slim3-module)|Simple module loader for a Slim 3 project||
 |4|[@matschaffer](https://github.com/matschaffer)/[**fakemail**](https://github.com/matschaffer/fakemail)|A clone of the CVS repository for fakemail|[:arrow_upper_right:](http://sourceforge.net/projects/fakemail/)|
 |4|[@mawatari](https://github.com/mawatari)/[**Backbone-ToDos-wit…**](https://github.com/mawatari/Backbone-ToDos-with-CakePHP-RESTful-API)|Backbone ToDos with CakePHP RESTful API||
-|4|[@mithusree](https://github.com/mithusree)/[**wp-simple-phpexcel…**](https://github.com/mithusree/wp-simple-phpexcel-export)|Simple PHPExcel Export Plugin for WordPress||
 |4|[@miya0001](https://github.com/miya0001)/[**cardboard**](https://github.com/miya0001/cardboard)|This is a WordPress plugin enables you to enjoy 360 photo with Google Cardboard.||
 |4|[@monochromegane](https://github.com/monochromegane)/[**QueryBuilder**](https://github.com/monochromegane/QueryBuilder)|A very simple query builder for PHP. It helps building query and binding values.||
 |4|[@mromaine](https://github.com/mromaine)/[**eejpn_langfiles**](https://github.com/mromaine/eejpn_langfiles)|Japanese language files for Expression Engine|[:arrow_upper_right:](http://expression-engine.jp)|
@@ -618,7 +619,8 @@
 |3|[@manse](https://github.com/manse)/[**jsminplus.modx**](https://github.com/manse/jsminplus.modx)|JavaScript compressor for MODX Evo.||
 |3|[@mapyo](https://github.com/mapyo)/[**eloqunet-only**](https://github.com/mapyo/eloqunet-only)|||
 |3|[@marihachi](https://github.com/marihachi)/[**TeaTime**](https://github.com/marihachi/TeaTime)|The TeaTime is SNS for tea time.|[:arrow_upper_right:](http://marihachi.php.xdomain.jp/tea-time/)|
-|3|[@martynbiz](https://github.com/martynbiz)/[**slim3-module**](https://github.com/martynbiz/slim3-module)|Simple module loader for a Slim 3 project||
+|3|[@memememomo](https://github.com/memememomo)/[**composer-sql-maker…**](https://github.com/memememomo/composer-sql-maker)|||
+|3|[@mithusree](https://github.com/mithusree)/[**wp-simple-phpexcel…**](https://github.com/mithusree/wp-simple-phpexcel-export)|Simple PHPExcel Export Plugin for WordPress||
 |3|[@miurahr](https://github.com/miurahr)/[**Ushahidi_plugin_km…**](https://github.com/miurahr/Ushahidi_plugin_kml)|Ushahidi's KML plugin|[:arrow_upper_right:](http://redmine.sinsai.info/projects/ushadihi)|
 |3|[@miya0001](https://github.com/miya0001)/[**Mail_CheckUser**](https://github.com/miya0001/Mail_CheckUser)|check email addresses for validity with SMTP commands|[:arrow_upper_right:](http://firegoby.theta.ne.jp/download/mail_checkuser)|
 |3|[@miya0001](https://github.com/miya0001)/[**logo-customizer**](https://github.com/miya0001/logo-customizer)|This plugin allow you to customize the logo image on Theme Customizer.||

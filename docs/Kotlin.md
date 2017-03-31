@@ -31,6 +31,7 @@
 |7|[@shiraji](https://github.com/shiraji)/[**kew-instance-inspe…**](https://github.com/shiraji/kew-instance-inspection)|The IntelliJ custom inspection that check if Fragment implements newInstance method in Kotlin|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/8430?pr=)|
 |7|[@shiraji](https://github.com/shiraji)/[**kreate-intent-insp…**](https://github.com/shiraji/kreate-intent-inspection)|The IntelliJ custom inspection that check if Activity implements createIntent method in Kotlin|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/8424?pr=)|
 |7|[@sys1yagi](https://github.com/sys1yagi)/[**kmockito**](https://github.com/sys1yagi/kmockito)|Mockito for Kotlin.||
+|6|[@mike-neck](https://github.com/mike-neck)/[**kuickcheck**](https://github.com/mike-neck/kuickcheck)|A property based testing framework for Kotlin||
 |6|[@sys1yagi](https://github.com/sys1yagi)/[**goat-reader-2-andr…**](https://github.com/sys1yagi/goat-reader-2-android-prototype)|RSSリーダです。Kotlinで書いています。||
 |5|[@Reyurnible](https://github.com/Reyurnible)/[**kodic**](https://github.com/Reyurnible/kodic)|CodecのAndroidアプリ||
 |5|[@kittinunf](https://github.com/kittinunf)/[**GithubKotlin**](https://github.com/kittinunf/GithubKotlin)|Sample Android project to work with Github API written in Kotlin||

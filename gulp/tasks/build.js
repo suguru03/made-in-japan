@@ -119,7 +119,7 @@ function makeDocs(data) {
   prevStars = undefined;
   readme = _.chain(linkInfo)
     .map((info, language) => {
-      const link = `${basePath}/blob/master/docs/${language}.md`;
+      const link = `${basePath}/blob/master/docs/${language.replace(/\s/g, '%20')}.md`;
       const stars = _.chain(info)
         .map('stars')
         .sum()

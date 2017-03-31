@@ -1,6 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |2041|[@1000ch](https://github.com/1000ch)/[**grd**](https://github.com/1000ch/grd)|A CSS grid framework using Flexbox. Only 501 bytes (Gzipped).|[:arrow_upper_right:](https://1000ch.github.io/grd)|
+|1214|[@lepture](https://github.com/lepture)/[**github-cards**](https://github.com/lepture/github-cards)|The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.|[:arrow_upper_right:](http://lab.lepture.com/github-cards/)|
 |965|[@kjur](https://github.com/kjur)/[**jsrsasign**](https://github.com/kjur/jsrsasign)|The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES JSON Web Signature/Token in pure JavaScript.|[:arrow_upper_right:](https://kjur.github.com/jsrsasign)|
 |411|[@windyakin](https://github.com/windyakin)/[**Honoka**](https://github.com/windyakin/Honoka)|Honoka is one of the original Bootstrap theme.|[:arrow_upper_right:](http://honokak.osaka/)|
 |406|[@Shinpeim](https://github.com/Shinpeim)/[**process-book**](https://github.com/Shinpeim/process-book)|Unix系システムのプロセスについて日本語で解説しています||
@@ -28,6 +29,7 @@
 |63|[@agektmr](https://github.com/agektmr)/[**ProjectTabManager**](https://github.com/agektmr/ProjectTabManager)|Have too many tabs opened on Chrome? This extension helps you organize your tabs on windows per projects.|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/project-tab-manager/iapdnheekciiecjijobcglkcgeckpoia)|
 |62|[@gfx](https://github.com/gfx)/[**Android-Helium**](https://github.com/gfx/Android-Helium)|Material Hatena bookmark reader for Android|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.github.gfx.helium&hl=ja)|
 |60|[@5509](https://github.com/5509)/[**exValidation**](https://github.com/5509/exValidation)|||
+|60|[@michaelrambeau](https://github.com/michaelrambeau)/[**risingstars2016**](https://github.com/michaelrambeau/risingstars2016)|:stars: A complete overview of the JavaScript landscape in 2016: trends about front-end and node.js frameworks, tooling... Available in English, Japanese and Chinese.|[:arrow_upper_right:](https://risingstars2016.js.org/)|
 |57|[@MagicalTux](https://github.com/MagicalTux)/[**xkcd1446**](https://github.com/MagicalTux/xkcd1446)|xkcd 1446||
 |56|[@zcbenz](https://github.com/zcbenz)/[**chromium-source-ta…**](https://github.com/zcbenz/chromium-source-tarball)|Generate source tarball of Chromium automatically||
 |55|[@agektmr](https://github.com/agektmr)/[**flexbox-experiment…**](https://github.com/agektmr/flexbox-experiment)|Source code for Flexbox Please!|[:arrow_upper_right:](http://demo.agektmr.com/flexbox/)|
@@ -37,23 +39,23 @@
 |42|[@sonsongithub](https://github.com/sonsongithub)/[**UZTextView**](https://github.com/sonsongithub/UZTextView)|Clickable and selectable text view for iOS||
 |40|[@akabekobeko](https://github.com/akabekobeko)/[**redmine-theme-mini…**](https://github.com/akabekobeko/redmine-theme-minimalflat2)|Minimal and flat theme for Redmine.||
 |39|[@gimite](https://github.com/gimite)/[**tweet-search-strea…**](https://github.com/gimite/tweet-search-stream)|Real time Twitter search using Twitter Streaming API, hosted at http://tweet-search-stream.gimite.net/|[:arrow_upper_right:](http://tweet-search-stream.gimite.net/)|
+|39|[@lepture](https://github.com/lepture)/[**lepture.com**](https://github.com/lepture/lepture.com)|My website. (It is not powered by Jekyll)|[:arrow_upper_right:](http://lepture.com)|
 |35|[@1000ch](https://github.com/1000ch)/[**x-notification**](https://github.com/1000ch/x-notification)|Declarative Browser Notifications as Web Components.|[:arrow_upper_right:](https://1000ch.github.io/x-notification)|
 |34|[@YasuakiHonda](https://github.com/YasuakiHonda)/[**Maxima-on-Android**](https://github.com/YasuakiHonda/Maxima-on-Android)|Maxima, the descendant of Macsyma computer algebra system (CAS), ported to Android||
 |33|[@tell-k](https://github.com/tell-k)/[**sphinxjp.themes.ba…**](https://github.com/tell-k/sphinxjp.themes.basicstrap)|Theme for Sphinx using Twitter Bootstrap|[:arrow_upper_right:](http://packages.python.org/sphinxjp.themes.basicstrap/)|
 |31|[@tejitak](https://github.com/tejitak)/[**left-swipe-action**](https://github.com/tejitak/left-swipe-action)|Polymer web component like iOS swipe actions|[:arrow_upper_right:]( http://tejitak.github.io/left-swipe-action/demo.html)|
 |29|[@1000ch](https://github.com/1000ch)/[**syntax-highlight**](https://github.com/1000ch/syntax-highlight)|Code syntax highlight element.|[:arrow_upper_right:](https://1000ch.github.io/syntax-highlight)|
 |29|[@keichi](https://github.com/keichi)/[**vienna**](https://github.com/keichi/vienna)|Simple and clean blog theme for hugo||
-|27|[@mike-north](https://github.com/mike-north)/[**ember-anchor**](https://github.com/mike-north/ember-anchor)|Support for an #anchor like construct, in ember.js apps |[:arrow_upper_right:](http://ember-anchor.mike.works)|
+|28|[@mike-north](https://github.com/mike-north)/[**ember-anchor**](https://github.com/mike-north/ember-anchor)|Support for an #anchor like construct, in ember.js apps |[:arrow_upper_right:](http://ember-anchor.mike.works)|
 |26|[@azu](https://github.com/azu)/[**slide**](https://github.com/azu/slide)|スライド置き場|[:arrow_upper_right:](http://azu.github.io/slide/)|
+|26|[@miya0001](https://github.com/miya0001)/[**ionic-starter-word…**](https://github.com/miya0001/ionic-starter-wordpress)|Ionic starter template for WordPress + WP-API v2||
 |26|[@niiyz](https://github.com/niiyz)/[**JapanCityGeoJson**](https://github.com/niiyz/JapanCityGeoJson)|GeoJson of Japanese cities.  and TopoJson.|[:arrow_upper_right:](http://geojson.niiyz.com/)|
 |23|[@1000ch](https://github.com/1000ch)/[**position-sticky**](https://github.com/1000ch/position-sticky)|Polyfill for position: sticky;.|[:arrow_upper_right:](https://1000ch.github.io/position-sticky)|
-|23|[@makotokw](https://github.com/makotokw)/[**jquery.ui.potato.m…**](https://github.com/makotokw/jquery.ui.potato.menu)|Simple Drop Down Menu for jQuery|[:arrow_upper_right:](http://makotokw.com/portfolio/jquery/ui_potato_menu/)|
 |23|[@rhysd](https://github.com/rhysd)/[**nyaovim-markdown-p…**](https://github.com/rhysd/nyaovim-markdown-preview)|Live Markdown Preview on NyaoVim|[:arrow_upper_right:](https://github.com/rhysd/NyaoVim)|
 |22|[@cho45](https://github.com/cho45)/[**WebAudio-Modem**](https://github.com/cho45/WebAudio-Modem)|Modem implementation with WebAudio (JavaScript)||
 |22|[@kmc-jp](https://github.com/kmc-jp)/[**2015AprilFool**](https://github.com/kmc-jp/2015AprilFool)|懐古するぞ||
 |22|[@yoggy](https://github.com/yoggy)/[**ctf-scoreserver**](https://github.com/yoggy/ctf-scoreserver)|scoreserver web application for CTF(Capture The Flag)||
 |21|[@hail2u](https://github.com/hail2u)/[**color-blindness-em…**](https://github.com/hail2u/color-blindness-emulation)|SVG filter collection that emulate 8 types of color blindness.||
-|21|[@miya0001](https://github.com/miya0001)/[**ionic-starter-word…**](https://github.com/miya0001/ionic-starter-wordpress)|Ionic starter template for WordPress + WP-API v2||
 |19|[@azu](https://github.com/azu)/[**how-to-learn-es6**](https://github.com/azu/how-to-learn-es6)|:memo: How to learn ECMAScript2015 for Beginner?||
 |19|[@groonga](https://github.com/groonga)/[**groonga.org**](https://github.com/groonga/groonga.org)|The source of http://groonga.org/|[:arrow_upper_right:](http://groonga.org/)|
 |19|[@hitode909](https://github.com/hitode909)/[**speedline**](https://github.com/hitode909/speedline)|集中線GIFメーカー|[:arrow_upper_right:](https://speedline.herokuapp.com/)|
@@ -71,6 +73,7 @@
 |16|[@Ushio](https://github.com/Ushio)/[**ofxExtremeGpuVideo…**](https://github.com/Ushio/ofxExtremeGpuVideo)|openFrameworks addons ofxExtremeGpuVideo||
 |16|[@g200kg](https://github.com/g200kg)/[**LiveBeats**](https://github.com/g200kg/LiveBeats)|Audio / Visual Live-Performance tool on Browser||
 |16|[@g200kg](https://github.com/g200kg)/[**vowelsynth**](https://github.com/g200kg/vowelsynth)|||
+|16|[@kyamagu](https://github.com/kyamagu)/[**bbox-annotator**](https://github.com/kyamagu/bbox-annotator)|A bounding box annotation widget written in CoffeeScript.||
 |16|[@nineties](https://github.com/nineties)/[**math-seminar**](https://github.com/nineties/math-seminar)|||
 |16|[@yewton](https://github.com/yewton)/[**kafka-doc-ja**](https://github.com/yewton/kafka-doc-ja)|Kafkaドキュメント( http://kafka.apache.org/documentation.html )の拙訳||
 |15|[@chsh](https://github.com/chsh)/[**geohex4j**](https://github.com/chsh/geohex4j)|GeoHex implementation for Java||
@@ -79,14 +82,18 @@
 |14|[@1000ch](https://github.com/1000ch)/[**switch-element**](https://github.com/1000ch/switch-element)|Switch UI Element like iOS|[:arrow_upper_right:](https://1000ch.github.io/switch-element)|
 |14|[@Jxck](https://github.com/Jxck)/[**URL**](https://github.com/Jxck/URL)|isomorphic url implementation.||
 |14|[@kuenishi](https://github.com/kuenishi)/[**mesos_scr_jp**](https://github.com/kuenishi/mesos_scr_jp)|Mesos Source Code Reading Group Repo||
-|14|[@llamakko](https://github.com/llamakko)/[**CVE-2015-7214**](https://github.com/llamakko/CVE-2015-7214)|[Firefox] SOP bypass PoC for CVE-2015-7214 (MFSA 2015-149)||
+|14|[@kyuridenamida](https://github.com/kyuridenamida)/[**atcoder-tools**](https://github.com/kyuridenamida/atcoder-tools)|Convenient modules for AtCoder users, written in Python 3.4||
+|14|[@masa0221](https://github.com/masa0221)/[**hugo-theme-geppaku…**](https://github.com/masa0221/hugo-theme-geppaku)|Theme for the Hugo static website generator|[:arrow_upper_right:](http://themes.gohugo.io/hugo-theme-geppaku/)|
 |14|[@nitoyon](https://github.com/nitoyon)/[**tech.nitoyon.com**](https://github.com/nitoyon/tech.nitoyon.com)|TECH-NI source code|[:arrow_upper_right:](http://tech.nitoyon.com/)|
 |13|[@brtriver](https://github.com/brtriver)/[**silex-doc-ja**](https://github.com/brtriver/silex-doc-ja)|Silex documentations in Japanese||
-|13|[@kyamagu](https://github.com/kyamagu)/[**bbox-annotator**](https://github.com/kyamagu/bbox-annotator)|A bounding box annotation widget written in CoffeeScript.||
+|13|[@llamakko](https://github.com/llamakko)/[**CVE-2015-7214**](https://github.com/llamakko/CVE-2015-7214)|[Firefox] SOP bypass PoC for CVE-2015-7214 (MFSA 2015-149)||
 |12|[@akabekobeko](https://github.com/akabekobeko)/[**redmine-theme-mini…**](https://github.com/akabekobeko/redmine-theme-minimalflat)|Minimal and flat design Redmine theme.||
 |12|[@g200kg](https://github.com/g200kg)/[**web-midi-api-ja**](https://github.com/g200kg/web-midi-api-ja)|Web MIDI API (Working Draft) 日本語訳||
 |12|[@kohkimakimoto](https://github.com/kohkimakimoto)/[**getcomposer.org_do…**](https://github.com/kohkimakimoto/getcomposer.org_doc_jp)|Composerのドキュメント日本語訳|[:arrow_upper_right:](http://kohkimakimoto.github.io/getcomposer.org_doc_jp)|
+|12|[@maki-t2nd](https://github.com/maki-t2nd)/[**fim**](https://github.com/maki-t2nd/fim)|フォームインプットメーカー||
 |11|[@HAKASHUN](https://github.com/HAKASHUN)/[**manabi**](https://github.com/HAKASHUN/manabi)|manabi||
+|11|[@michaelrambeau](https://github.com/michaelrambeau)/[**bestofjs**](https://github.com/michaelrambeau/bestofjs)|bestofjs Github pages repository. Please go to bestofjs-webui repository => |[:arrow_upper_right:](https://github.com/michaelrambeau/bestofjs-webui)|
+|11|[@mohayonao](https://github.com/mohayonao)/[**promise-decode-aud…**](https://github.com/mohayonao/promise-decode-audio-data)|Promise-based decodeAudioData for legacy Web Audio API||
 |10|[@frankdiox](https://github.com/frankdiox)/[**OnsenUI-router**](https://github.com/frankdiox/OnsenUI-router)|OnsenUI example app with ui-router||
 |10|[@hnakamur](https://github.com/hnakamur)/[**jquery.japanese-in…**](https://github.com/hnakamur/jquery.japanese-input-change)|a jQuery plugin which calls a handler function when texts inputted with Japanese IME change||
 |10|[@punchdrunker](https://github.com/punchdrunker)/[**kansou**](https://github.com/punchdrunker/kansou)|||
@@ -98,7 +105,7 @@
 |9|[@kyuridenamida](https://github.com/kyuridenamida)/[**ToolsForAtCoder**](https://github.com/kyuridenamida/ToolsForAtCoder)|Convenient modules for AtCoder users, written in Python 3.4||
 |9|[@lestrrat](https://github.com/lestrrat)/[**go-mechanize**](https://github.com/lestrrat/go-mechanize)|WWW::Mechanize for Go||
 |9|[@methane](https://github.com/methane)/[**isu6q-app**](https://github.com/methane/isu6q-app)|||
-|9|[@mohayonao](https://github.com/mohayonao)/[**promise-decode-aud…**](https://github.com/mohayonao/promise-decode-audio-data)|Promise-based decodeAudioData for legacy Web Audio API||
+|9|[@mohayonao](https://github.com/mohayonao)/[**waa-lab**](https://github.com/mohayonao/waa-lab)|||
 |9|[@tanakh](https://github.com/tanakh)/[**tanakh.jp**](https://github.com/tanakh/tanakh.jp)|tanakh.jp web site|[:arrow_upper_right:](http://tanakh.jp/)|
 |9|[@tdtds](https://github.com/tdtds)/[**gracoro-union**](https://github.com/tdtds/gracoro-union)|Web Service of Gracoro Union|[:arrow_upper_right:](http://gracoro.tdtds.jp)|
 |9|[@wakayama-pref-org](https://github.com/wakayama-pref-org)/[**list-of-refuge-are…**](https://github.com/wakayama-pref-org/list-of-refuge-area)|和歌山県内の避難先情報一覧です。http://www.pref.wakayama.lg.jp/prefg/011400/info/index5.html||
@@ -109,7 +116,6 @@
 |8|[@gam0022](https://github.com/gam0022)/[**twincal2**](https://github.com/gam0022/twincal2)|Twinsの時間割をiCalendar形式に変換し、 Googleカレンダー・iCalへのインポートをサポートするWebサービス||
 |8|[@gam0022](https://github.com/gam0022)/[**webgl-sandbox**](https://github.com/gam0022/webgl-sandbox)|http://gam0022.net/webgl/||
 |8|[@kenju](https://github.com/kenju)/[**shellscript_todo**](https://github.com/kenju/shellscript_todo)|simple shell command for adding, listing, and deleting todo list|[:arrow_upper_right:](http://kenju.github.io/shellscript_todo)|
-|8|[@mohayonao](https://github.com/mohayonao)/[**waa-lab**](https://github.com/mohayonao/waa-lab)|||
 |8|[@ryuichiueda](https://github.com/ryuichiueda)/[**GihyoShellBookSamp…**](https://github.com/ryuichiueda/GihyoShellBookSamples)|Codes in "shell programming jitsuyo technique"||
 |7|[@Korilakkuma](https://github.com/Korilakkuma)/[**x-piano**](https://github.com/Korilakkuma/x-piano)|Web Components for Web Audio API|[:arrow_upper_right:](https://korilakkuma.github.io/x-piano/)|
 |7|[@NEKOGET](https://github.com/NEKOGET)/[**ci_user_guide_src**](https://github.com/NEKOGET/ci_user_guide_src)|||
@@ -118,7 +124,7 @@
 |7|[@hagino3000](https://github.com/hagino3000)/[**js-project-templat…**](https://github.com/hagino3000/js-project-template)|||
 |7|[@katsuma](https://github.com/katsuma)/[**sozai.katsuma.tv**](https://github.com/katsuma/sozai.katsuma.tv)|Collects my good images||
 |7|[@kuu](https://github.com/kuu)/[**1px**](https://github.com/kuu/1px)|1px interpolation demo||
-|7|[@masa0221](https://github.com/masa0221)/[**hugo-theme-geppaku…**](https://github.com/masa0221/hugo-theme-geppaku)|Theme for the Hugo static website generator||
+|7|[@milk-cocoa](https://github.com/milk-cocoa)/[**chat**](https://github.com/milk-cocoa/chat)|A chat app developed with milkcocoa.|[:arrow_upper_right:](http://milk-cocoa.github.io/chat/)|
 |6|[@Barbayar](https://github.com/Barbayar)/[**Sobremesa**](https://github.com/Barbayar/Sobremesa)|a small social lunch service|[:arrow_upper_right:](http://sobremesa.barbayar.net/)|
 |6|[@agileware-jp](https://github.com/agileware-jp)/[**redmine_work_days**](https://github.com/agileware-jp/redmine_work_days)|Redmine Work Days Plugin||
 |6|[@akiradeveloper](https://github.com/akiradeveloper)/[**nim-fuse**](https://github.com/akiradeveloper/nim-fuse)|Nim library for Filesystem in userspace (FUSE)||
@@ -131,6 +137,7 @@
 |6|[@kan](https://github.com/kan)/[**soozy-slack**](https://github.com/kan/soozy-slack)|code for http://soozy.fushihara.net/||
 |6|[@m-asama](https://github.com/m-asama)/[**soma**](https://github.com/m-asama/soma)|ソーマ・カーネル・プロジェクト||
 |6|[@matschaffer](https://github.com/matschaffer)/[**matschaffer.com**](https://github.com/matschaffer/matschaffer.com)|My home page|[:arrow_upper_right:](http://matschaffer.com)|
+|6|[@motooka](https://github.com/motooka)/[**BinaryChirary_web**](https://github.com/motooka/BinaryChirary_web)|バイナリのチラ見せツール「バイナリーチラリー」の HTML/JavaScript版。バイナリイントロクイズ用。||
 |6|[@ngs](https://github.com/ngs)/[**sources.ngs.io**](https://github.com/ngs/sources.ngs.io)|Blog Sources |[:arrow_upper_right:](http://ngs.io/)|
 |6|[@nithinbekal](https://github.com/nithinbekal)/[**nithinbekal.github…**](https://github.com/nithinbekal/nithinbekal.github.io)|Jekyll theme and content for my blog|[:arrow_upper_right:](nithinbekal.com)|
 |6|[@noppoMan](https://github.com/noppoMan)/[**iosdc-slimane-chat…**](https://github.com/noppoMan/iosdc-slimane-chat)|||
@@ -151,8 +158,7 @@
 |5|[@hikarock](https://github.com/hikarock)/[**chab**](https://github.com/hikarock/chab)|:telescope: Web SQL Database を使って <table> タグを SQL ライクにセレクトするライブラリ|[:arrow_upper_right:](https://hikarock.github.io/chab/)|
 |5|[@hokaccha](https://github.com/hokaccha)/[**webtech-walker**](https://github.com/hokaccha/webtech-walker)|webtech-walker blog|[:arrow_upper_right:](http://webtech-walker.com/)|
 |5|[@kohske](https://github.com/kohske)/[**kohske.github.com**](https://github.com/kohske/kohske.github.com)|||
-|5|[@michaelrambeau](https://github.com/michaelrambeau)/[**bestofjs**](https://github.com/michaelrambeau/bestofjs)|bestofjs Github pages repository. Please go to bestofjs-webui repository.||
-|5|[@milk-cocoa](https://github.com/milk-cocoa)/[**chat**](https://github.com/milk-cocoa/chat)|A chat app developed with milkcocoa.|[:arrow_upper_right:](http://milk-cocoa.github.io/chat/)|
+|5|[@melpon](https://github.com/melpon)/[**cfsimu**](https://github.com/melpon/cfsimu)|Ingress Control Field Simulator|[:arrow_upper_right:](http://melpon.github.io/cfsimu/)|
 |5|[@morishitter](https://github.com/morishitter)/[**psg-theme-default**](https://github.com/morishitter/psg-theme-default)|Default theme of postcss-style-guide||
 |5|[@ntddk](https://github.com/ntddk)/[**angr-doc-ja**](https://github.com/ntddk/angr-doc-ja)||[:arrow_upper_right:](http://ntddk.github.io/angr-doc-ja)|
 |5|[@repeatedly](https://github.com/repeatedly)/[**repeatedly.github.…**](https://github.com/repeatedly/repeatedly.github.com)||[:arrow_upper_right:](http://repeatedly.github.com/)|
@@ -176,9 +182,13 @@
 |4|[@hail2u](https://github.com/hail2u)/[**hail2u.github.com**](https://github.com/hail2u/hail2u.github.com)|GitHub Pages of Kyo Nagashima.|[:arrow_upper_right:](http://hail2u.github.io/)|
 |4|[@hakatashi](https://github.com/hakatashi)/[**replybot**](https://github.com/hakatashi/replybot)|Reply bot powered by twitter corpus|[:arrow_upper_right:](http://chatai.hakatashi.com)|
 |4|[@hyuki0000](https://github.com/hyuki0000)/[**draft**](https://github.com/hyuki0000/draft)|A very simple "distraction free" editor.||
+|4|[@kyanny](https://github.com/kyanny)/[**Quiver-Theme-Solar…**](https://github.com/kyanny/Quiver-Theme-Solarized)|||
+|4|[@lecaoquochung](https://github.com/lecaoquochung)/[**codeio**](https://github.com/lecaoquochung/codeio)||[:arrow_upper_right:](http://lecaoquochung.github.io/codeio)|
 |4|[@makimoto](https://github.com/makimoto)/[**glitchstr**](https://github.com/makimoto/glitchstr)|glitchstr is a web API for converting string to glitched one.|[:arrow_upper_right:](http://glitchstr.makimoto.org)|
+|4|[@megane9988](https://github.com/megane9988)/[**GitBook-Demo201612…**](https://github.com/megane9988/GitBook-Demo20161210)|||
 |4|[@milk-cocoa](https://github.com/milk-cocoa)/[**document**](https://github.com/milk-cocoa/document)|document of milkcocoa||
 |4|[@miya0001](https://github.com/miya0001)/[**wordpress-generic-…**](https://github.com/miya0001/wordpress-generic-content-styles)|||
+|4|[@monochromegane](https://github.com/monochromegane)/[**hugo-theme-thinkin…**](https://github.com/monochromegane/hugo-theme-thinking-megane)|My blog theme for Hugo. Designed by keita_kawamoto. http://blog.monochromegane.com||
 |4|[@myui](https://github.com/myui)/[**xbird**](https://github.com/myui/xbird)|Automatically exported from code.google.com/p/xbird||
 |4|[@nna774](https://github.com/nna774)/[**nna774.net**](https://github.com/nna774/nna774.net)|middleman でつくるイケてるウェッブサイト|[:arrow_upper_right:](https://nna774.net/)|
 |4|[@ntddk](https://github.com/ntddk)/[**ntddk.github.io**](https://github.com/ntddk/ntddk.github.io)|技術ブログ|[:arrow_upper_right:](ntddk.github.io)|
@@ -218,11 +228,13 @@
 |3|[@kimihito](https://github.com/kimihito)/[**til**](https://github.com/kimihito/til)|Today I learned||
 |3|[@kkosuge](https://github.com/kkosuge)/[**kkosuge.github.com…**](https://github.com/kkosuge/kkosuge.github.com)|https://kkosuge.github.io||
 |3|[@kubohiroya](https://github.com/kubohiroya)/[**studentIDReader.js…**](https://github.com/kubohiroya/studentIDReader.js)|FeliCa StudentID card reader to check attendees.||
-|3|[@lecaoquochung](https://github.com/lecaoquochung)/[**codeio**](https://github.com/lecaoquochung/codeio)||[:arrow_upper_right:](http://lecaoquochung.github.io/codeio)|
+|3|[@kyanny](https://github.com/kyanny)/[**sbps-maintenance-t…**](https://github.com/kyanny/sbps-maintenance-to-google-calendar)||[:arrow_upper_right:](http://kyanny.github.io/sbps-maintenance-to-google-calendar/)|
+|3|[@laco0416](https://github.com/laco0416)/[**laco0416.github.io…**](https://github.com/laco0416/laco0416.github.io)||[:arrow_upper_right:](https://laco0416.github.io)|
 |3|[@masao](https://github.com/masao)/[**savemlak**](https://github.com/masao/savemlak)|saveMLAK|[:arrow_upper_right:](http://savemlak.jp)|
 |3|[@masui](https://github.com/masui)/[**RasPiArticle**](https://github.com/masui/RasPiArticle)|Software DesignのRasPi記事||
-|3|[@melpon](https://github.com/melpon)/[**cfsimu**](https://github.com/melpon/cfsimu)|Ingress Control Field Simulator|[:arrow_upper_right:](http://melpon.github.io/cfsimu/)|
-|3|[@monochromegane](https://github.com/monochromegane)/[**hugo-theme-thinkin…**](https://github.com/monochromegane/hugo-theme-thinking-megane)|My blog theme for Hugo. Designed by keita_kawamoto. http://blog.monochromegane.com||
+|3|[@matthew-andrews](https://github.com/matthew-andrews)/[**undobrexit.com**](https://github.com/matthew-andrews/undobrexit.com)||[:arrow_upper_right:](https://undobrexit.com)|
+|3|[@mca62511](https://github.com/mca62511)/[**japanese-handwriti…**](https://github.com/mca62511/japanese-handwriting)|||
+|3|[@miiitaka](https://github.com/miiitaka)/[**D3-sample**](https://github.com/miiitaka/D3-sample)|:wrench: Samples to display the D3.js in AngularJS.||
 |3|[@morizyun](https://github.com/morizyun)/[**morizyun.github.io…**](https://github.com/morizyun/morizyun.github.io)|||
 |3|[@mrkn](https://github.com/mrkn)/[**ruby-dlib**](https://github.com/mrkn/ruby-dlib)|||
 |3|[@myakura](https://github.com/myakura)/[**pachystachys**](https://github.com/myakura/pachystachys)|slides for Web Platform specs (HTML, CSS, APIs) updates||

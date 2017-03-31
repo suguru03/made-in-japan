@@ -6,10 +6,10 @@
 |23|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-24.5-doc-ema…**](https://github.com/ayatakesi/emacs-24.5-doc-emacs)|emacsマニュアルの日本語化と公開|[:arrow_upper_right:](https://ayatakesi.github.io/)|
 |22|[@norton](https://github.com/norton)/[**erlang-starter-kit…**](https://github.com/norton/erlang-starter-kit)|Provide a basic set of Erlang/OTP tools for development and for testing||
 |20|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
+|17|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-a…**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/detail#/role/2961)|
 |15|[@keiji](https://github.com/keiji)/[**farewell-adt-book**](https://github.com/keiji/farewell-adt-book)|Android Studio完全移行ガイド||
 |12|[@atsushieno](https://github.com/atsushieno)/[**android-fluidsynth…**](https://github.com/atsushieno/android-fluidsynth)|fluidsynth Android port / build||
 |12|[@itchyny](https://github.com/itchyny)/[**fastinvsqrt**](https://github.com/itchyny/fastinvsqrt)|Fast inverse square root in programming languages||
-|12|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-a…**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/detail#/role/2961)|
 |12|[@user340](https://github.com/user340)/[**fdgw2**](https://github.com/user340/fdgw2)|Minimal NetBSD Distribution Making Tool||
 |11|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
 |10|[@hibari](https://github.com/hibari)/[**hibari-doc**](https://github.com/hibari/hibari-doc)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.|[:arrow_upper_right:](http://hibari.github.com/hibari-doc)|

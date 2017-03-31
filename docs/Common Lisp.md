@@ -7,8 +7,8 @@
 |121|[@fukamachi](https://github.com/fukamachi)/[**prove**](https://github.com/fukamachi/prove)|Yet another unit testing framework for Common Lisp||
 |116|[@fukamachi](https://github.com/fukamachi)/[**ningle**](https://github.com/fukamachi/ningle)|Super micro framework for Common Lisp|[:arrow_upper_right:](http://8arrow.org/ningle/)|
 |93|[@takagi](https://github.com/takagi)/[**cl-cuda**](https://github.com/takagi/cl-cuda)|Cl-cuda is a library to use NVIDIA CUDA in Common Lisp programs.||
+|92|[@mathematical-systems](https://github.com/mathematical-systems)/[**clml**](https://github.com/mathematical-systems/clml)|Common Lisp Machine Learning Library||
 |91|[@fukamachi](https://github.com/fukamachi)/[**sxql**](https://github.com/fukamachi/sxql)|A SQL generator for Common Lisp.||
-|90|[@mathematical-systems](https://github.com/mathematical-systems)/[**clml**](https://github.com/mathematical-systems/clml)|Common Lisp Machine Learning Library||
 |85|[@fukamachi](https://github.com/fukamachi)/[**qlot**](https://github.com/fukamachi/qlot)|A project-local library installer for Common Lisp||
 |76|[@fukamachi](https://github.com/fukamachi)/[**cl-dbi**](https://github.com/fukamachi/cl-dbi)|Database independent interface for Common Lisp||
 |73|[@fukamachi](https://github.com/fukamachi)/[**cl-project**](https://github.com/fukamachi/cl-project)|Generate modern project skeletons||
@@ -53,6 +53,7 @@
 |13|[@guicho271828](https://github.com/guicho271828)/[**eazy-project**](https://github.com/guicho271828/eazy-project)|Boost your development!||
 |13|[@sile](https://github.com/sile)/[**h264**](https://github.com/sile/h264)|H.264/AVC parser||
 |12|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**dyna**](https://github.com/Rudolph-Miller/dyna)|Dyna is an AWS DynamoDB ORM for Common Lisp.|[:arrow_upper_right:](http://en.wikipedia.org/wiki/Ultraman_Dyna)|
+|12|[@mathematical-systems](https://github.com/mathematical-systems)/[**future**](https://github.com/mathematical-systems/future)|Task-parallelism library for Common Lisp||
 |11|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**cl-gists**](https://github.com/Rudolph-Miller/cl-gists)|Gists API Wrapper for Common Lisp|[:arrow_upper_right:](https://rudolph-miller.github.io/cl-gists/overview.html)|
 |11|[@guicho271828](https://github.com/guicho271828)/[**lisp-namespace**](https://github.com/guicho271828/lisp-namespace)|no more discussion on lisp-1 vs lisp-2. THIS IS LISP-N.||
 |11|[@kosh04](https://github.com/kosh04)/[**xyzzy-lisp**](https://github.com/kosh04/xyzzy-lisp)|CL/Emacsから移植、あるいは自作したもの||
@@ -66,7 +67,6 @@
 |7|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**clipper**](https://github.com/Rudolph-Miller/clipper)|File attachment library.|[:arrow_upper_right:](http://rudolph-miller.github.io/clipper/overview.html)|
 |7|[@garaemon](https://github.com/garaemon)/[**201510-rosjp**](https://github.com/garaemon/201510-rosjp)|||
 |7|[@guicho271828](https://github.com/guicho271828)/[**eazy-process**](https://github.com/guicho271828/eazy-process)|Yet Another Portable Library for Process Handling / Subshell Invokation||
-|7|[@mathematical-systems](https://github.com/mathematical-systems)/[**future**](https://github.com/mathematical-systems/future)|Task-parallelism library for Common Lisp||
 |6|[@DeaR](https://github.com/DeaR)/[**xl-git**](https://github.com/DeaR/xl-git)|A front-end for git in xyzzy||
 |6|[@guicho271828](https://github.com/guicho271828)/[**cl-simple-neuralne…**](https://github.com/guicho271828/cl-simple-neuralnet)|This is a toy implementation of multiple-layered neural network in cl.||
 |6|[@tomoyuki28jp](https://github.com/tomoyuki28jp)/[**stumpwm**](https://github.com/tomoyuki28jp/stumpwm)|my stumpwm config||

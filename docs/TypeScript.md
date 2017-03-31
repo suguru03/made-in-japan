@@ -13,11 +13,13 @@
 |69|[@rhysd](https://github.com/rhysd)/[**YourFukurou**](https://github.com/rhysd/YourFukurou)|Hackable YoruFukurou alternative Twitter client||
 |52|[@kazuki](https://github.com/kazuki)/[**opus.js-sample**](https://github.com/kazuki/opus.js-sample)|Javascript Opus Encoder/Decoder, Speexdsp based Resampler and WebAudio Player Sample||
 |49|[@ktsn](https://github.com/ktsn)/[**vuex-assert**](https://github.com/ktsn/vuex-assert)|Assertion for Vuex state||
+|49|[@laco0416](https://github.com/laco0416)/[**ng-dynamic**](https://github.com/laco0416/ng-dynamic)|dynamic contents projection in Angular||
 |40|[@horiuchi](https://github.com/horiuchi)/[**dtsgenerator**](https://github.com/horiuchi/dtsgenerator)|TypeScript d.ts file generate from JSON Schema file||
 |40|[@jmatsu](https://github.com/jmatsu)/[**vector-drawable-pr…**](https://github.com/jmatsu/vector-drawable-previewer)|Preview VectorDrawable files on Chrome.||
 |35|[@crescware](https://github.com/crescware)/[**walts**](https://github.com/crescware/walts)|One-way pub/sub architecture for Angular 2||
 |35|[@vvakame](https://github.com/vvakame)/[**prh**](https://github.com/vvakame/prh)|proofreading helper||
 |34|[@kazuki](https://github.com/kazuki)/[**video-codec.js**](https://github.com/kazuki/video-codec.js)|JavaScript Video Encoder/Decoder Sample (daala/libvpx/openH264 compiled with emscripten to JavaScript)||
+|33|[@laco0416](https://github.com/laco0416)/[**angular2-component…**](https://github.com/laco0416/angular2-component-outlet)|Angular2 dynamic component outlet||
 |29|[@nobuoka](https://github.com/nobuoka)/[**GifWriter.js**](https://github.com/nobuoka/GifWriter.js)|GIF (version 89a) Encoder written in TypeScript|[:arrow_upper_right:](http://nobuoka.github.io/GifWriter.js/)|
 |22|[@ktsn](https://github.com/ktsn)/[**vuex-local**](https://github.com/ktsn/vuex-local)|Local state management within Vuex||
 |22|[@shiwano](https://github.com/shiwano)/[**typhen**](https://github.com/shiwano/typhen)|:cyclone: Generates code or documentation from TypeScript.||
@@ -26,14 +28,14 @@
 |19|[@vvakame](https://github.com/vvakame)/[**language-review**](https://github.com/vvakame/language-review)|Re:VIEW support for Atom|[:arrow_upper_right:](https://atom.io/packages/language-review)|
 |18|[@ktsn](https://github.com/ktsn)/[**vuex-class**](https://github.com/ktsn/vuex-class)|Binding helpers for Vuex and vue-class-component||
 |17|[@ktsn](https://github.com/ktsn)/[**vue-tsx**](https://github.com/ktsn/vue-tsx)|TSX hook for Vue.js||
-|17|[@laco0416](https://github.com/laco0416)/[**angular2-component…**](https://github.com/laco0416/angular2-component-outlet)|Angular2 dynamic component outlet||
-|16|[@likr](https://github.com/likr)/[**interactive-sem**](https://github.com/likr/interactive-sem)|Interactive SEM|[:arrow_upper_right:](http://likr.github.io/interactive-sem/)|
+|17|[@likr](https://github.com/likr)/[**interactive-sem**](https://github.com/likr/interactive-sem)|Interactive SEM|[:arrow_upper_right:](http://likr.github.io/interactive-sem/)|
 |13|[@bouzuya](https://github.com/bouzuya)/[**b-o-a**](https://github.com/bouzuya/b-o-a)|A web application framework using RxJS 5 (alpha) |[:arrow_upper_right:](https://www.npmjs.com/package/b-o-a)|
 |13|[@bouzuya](https://github.com/bouzuya)/[**beater**](https://github.com/bouzuya/beater)|bouzuya's easy test runner (beta)|[:arrow_upper_right:](https://www.npmjs.com/package/beater)|
 |13|[@seanchas116](https://github.com/seanchas116)/[**sketch-glass**](https://github.com/seanchas116/sketch-glass)|Simple & fast realtime online whiteboard powered by WebGL and Google Drive|[:arrow_upper_right:](https://draw.sketch-glass.io/)|
 |12|[@JakeJP](https://github.com/JakeJP)/[**FlashAirJS**](https://github.com/JakeJP/FlashAirJS)|FlashAir(TM) Javascript Client Library||
 |12|[@Kuniwak](https://github.com/Kuniwak)/[**html-dnd**](https://github.com/Kuniwak/html-dnd)|HTML Drag and Drop Simulator for E2E testing||
 |12|[@Quramy](https://github.com/Quramy)/[**graphql-decorator**](https://github.com/Quramy/graphql-decorator)|||
+|12|[@laco0416](https://github.com/laco0416)/[**light-ts-loader**](https://github.com/laco0416/light-ts-loader)|:zap: light weight & lightning fast TypeScript loader :zap:||
 |11|[@ktsn](https://github.com/ktsn)/[**sinai**](https://github.com/ktsn/sinai)|Type safe state management inspired by Vuex||
 |11|[@vvakame](https://github.com/vvakame)/[**gapidts**](https://github.com/vvakame/gapidts)|TypeScript definition file generator for Google APIs Discovery Service||
 |10|[@Quramy](https://github.com/Quramy)/[**typescript-css-mod…**](https://github.com/Quramy/typescript-css-modules-demo)|A working demo of CSS Modules, using TypeScript, css-modulesify and typed-css-modules|[:arrow_upper_right:](http://quramy.github.io/typescript-css-modules-demo/)|
@@ -48,12 +50,14 @@
 |8|[@Jxck](https://github.com/Jxck)/[**utf8-encoding**](https://github.com/Jxck/utf8-encoding)|utf8 encoder/decoder of whatwg Encoding Living Standard https://encoding.spec.whatwg.org/||
 |8|[@k--kato](https://github.com/k--kato)/[**vscode-docomment**](https://github.com/k--kato/vscode-docomment)|Generate XML documentation comments for Visual Studio Code|[:arrow_upper_right:](https://marketplace.visualstudio.com/items/k--kato.docomment)|
 |8|[@ktsn](https://github.com/ktsn)/[**vue-canvas**](https://github.com/ktsn/vue-canvas)|Declarative canvas rendering using Vue.js||
+|8|[@kyo-ago](https://github.com/kyo-ago)/[**lifter**](https://github.com/kyo-ago/lifter)|||
+|8|[@laco0416](https://github.com/laco0416)/[**angular2-example**](https://github.com/laco0416/angular2-example)||[:arrow_upper_right:](https://angular2-example.firebaseapp.com)|
 |7|[@Jxck](https://github.com/Jxck)/[**fetch**](https://github.com/Jxck/fetch)|isomorphic fetch implementation.||
 |7|[@MSakamaki](https://github.com/MSakamaki)/[**rxjs-handson**](https://github.com/MSakamaki/rxjs-handson)|||
 |7|[@bokuweb](https://github.com/bokuweb)/[**rxjs-tetris**](https://github.com/bokuweb/rxjs-tetris)|DOM based rxjs tetris|[:arrow_upper_right:](https://bokuweb.github.io/rxjs-tetris/)|
 |7|[@bouzuya](https://github.com/bouzuya)/[**bath**](https://github.com/bouzuya/bath)|A simple path template engine|[:arrow_upper_right:](https://www.npmjs.com/package/bath)|
 |7|[@kotas](https://github.com/kotas)/[**niconico-favlist**](https://github.com/kotas/niconico-favlist)|NicoNicoFavlist UserScript||
-|7|[@laco0416](https://github.com/laco0416)/[**angular2-example**](https://github.com/laco0416/angular2-example)||[:arrow_upper_right:](https://angular2-example.firebaseapp.com)|
+|7|[@laco0416](https://github.com/laco0416)/[**angular-todo-examp…**](https://github.com/laco0416/angular-todo-example)|Todo example with Angular|[:arrow_upper_right:](https://laco0416.github.io/angular-todo-example/)|
 |7|[@starhoshi](https://github.com/starhoshi)/[**AlcatrazSearch**](https://github.com/starhoshi/AlcatrazSearch)|Search Alcatraz better.||
 |6|[@bokuweb](https://github.com/bokuweb)/[**rxjs-lifegame**](https://github.com/bokuweb/rxjs-lifegame)|||
 |6|[@bouzuya](https://github.com/bouzuya)/[**cookie-storage**](https://github.com/bouzuya/cookie-storage)|A Web Storage interface for Cookie|[:arrow_upper_right:](https://www.npmjs.com/package/cookie-storage)|
@@ -75,7 +79,7 @@
 |4|[@KOBA789](https://github.com/KOBA789)/[**dfa-router**](https://github.com/KOBA789/dfa-router)|A simple server-side url router using Deterministic Finite Automaton.||
 |4|[@c-bata](https://github.com/c-bata)/[**ng2-card**](https://github.com/c-bata/ng2-card)|Card view component for angular2|[:arrow_upper_right:](https://www.npmjs.com/package/ng2-card)|
 |4|[@kanreisa](https://github.com/kanreisa)/[**node-png-async**](https://github.com/kanreisa/node-png-async)|A simple and non-blocking PNG encoder / decoder.|[:arrow_upper_right:](https://github.com/kanreisa/node-png-async)|
-|4|[@kyo-ago](https://github.com/kyo-ago)/[**lifter**](https://github.com/kyo-ago/lifter)|||
+|4|[@laco0416](https://github.com/laco0416)/[**ng-operators**](https://github.com/laco0416/ng-operators)|RxJS operators for Angular||
 |4|[@maroun-baydoun](https://github.com/maroun-baydoun)/[**mediaq**](https://github.com/maroun-baydoun/mediaq)|Listen to media query updates in TypeScript|[:arrow_upper_right:](http://www.maroun-baydoun.com/blog/mediaq/)|
 |4|[@nulab](https://github.com/nulab)/[**botbuilder-typetal…**](https://github.com/nulab/botbuilder-typetalk)|Typetalk bot connector for Microsoft BotBuilder.||
 |4|[@seanchas116](https://github.com/seanchas116)/[**macaron**](https://github.com/seanchas116/macaron)|[WIP] A JavaScript alternative with static typing||

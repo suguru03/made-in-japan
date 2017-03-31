@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |5061|[@yyuu](https://github.com/yyuu)/[**pyenv**](https://github.com/yyuu/pyenv)|Simple Python version management||
+|3302|[@marcan](https://github.com/marcan)/[**takeover.sh**](https://github.com/marcan/takeover.sh)|Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.||
 |869|[@yyuu](https://github.com/yyuu)/[**pyenv-virtualenv**](https://github.com/yyuu/pyenv-virtualenv)|a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)||
 |555|[@b4b4r07](https://github.com/b4b4r07)/[**enhancd**](https://github.com/b4b4r07/enhancd)|:rocket: A next-generation cd command with an interactive filter||
-|530|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|LeoFS is an unstructured object/data storage for the Web and a highly available, distributed, eventually consistent storage system.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |517|[@riywo](https://github.com/riywo)/[**anyenv**](https://github.com/riywo/anyenv)|all in one for **env||
 |465|[@kiwenlau](https://github.com/kiwenlau)/[**hadoop-cluster-doc…**](https://github.com/kiwenlau/hadoop-cluster-docker)|Run Hadoop Custer within Docker Containers||
 |368|[@yyuu](https://github.com/yyuu)/[**pyenv-installer**](https://github.com/yyuu/pyenv-installer)|This tool is used to install `pyenv` and friends.||
@@ -26,18 +26,19 @@
 |108|[@tuvistavie](https://github.com/tuvistavie)/[**fundle**](https://github.com/tuvistavie/fundle)|A minimalist package manager for fish shell||
 |106|[@suin](https://github.com/suin)/[**iptables**](https://github.com/suin/iptables)|⚙ 俺史上最強のiptablesをさらす|[:arrow_upper_right:](http://qiita.com/suin/items/5c4e21fa284497782f71)|
 |105|[@b4b4r07](https://github.com/b4b4r07)/[**emoji-cli**](https://github.com/b4b4r07/emoji-cli)|:scream: Emoji completion on the command line||
+|100|[@mollifier](https://github.com/mollifier)/[**anyframe**](https://github.com/mollifier/anyframe)|peco/percol/fzf wrapper plugin for zsh||
+|95|[@making](https://github.com/making)/[**hajiboot-samples**](https://github.com/making/hajiboot-samples)|書籍「はじめてのSpring Boot」のサポートページ||
 |94|[@KeenS](https://github.com/KeenS)/[**CIM**](https://github.com/KeenS/CIM)|Common Lisp Implementation Manager||
 |90|[@kamipo](https://github.com/kamipo)/[**mysql-build**](https://github.com/kamipo/mysql-build)|Compile and install MySQL||
 |89|[@hnakamur](https://github.com/hnakamur)/[**ansible-playbooks**](https://github.com/hnakamur/ansible-playbooks)|my playbooks for Ansible||
 |89|[@taku910](https://github.com/taku910)/[**crfpp**](https://github.com/taku910/crfpp)|CRF++: Yet Another CRF toolkit||
-|88|[@making](https://github.com/making)/[**hajiboot-samples**](https://github.com/making/hajiboot-samples)|書籍「はじめてのSpring Boot」のサポートページ||
-|81|[@mollifier](https://github.com/mollifier)/[**anyframe**](https://github.com/mollifier/anyframe)|peco/percol/fzf wrapper plugin for zsh||
 |81|[@rcmdnk](https://github.com/rcmdnk)/[**sentaku**](https://github.com/rcmdnk/sentaku)|Utility to make sentaku (selection, 選択(sentaku)) window with shell command.|[:arrow_upper_right:](http://rcmdnk.github.io/blog/2014/01/24/computer-bash-zsh/)|
 |70|[@mururu](https://github.com/mururu)/[**elixir-build**](https://github.com/mururu/elixir-build)|Elixir version of ruby-build||
+|65|[@making](https://github.com/making)/[**oauth2-sso-demo**](https://github.com/making/oauth2-sso-demo)|Simple OAuth2 SSO Demo with Spring Boot + Spring Security OAuth2||
 |63|[@fumiyas](https://github.com/fumiyas)/[**home-commands**](https://github.com/fumiyas/home-commands)|My ~/bin/* commands||
 |61|[@znz](https://github.com/znz)/[**anyenv-update**](https://github.com/znz/anyenv-update)|anyenv plugin that provides `anyenv update` command to update all **env and all plugins||
 |59|[@b4b4r07](https://github.com/b4b4r07)/[**httpstat**](https://github.com/b4b4r07/httpstat)|:chart_with_downwards_trend: curl statistics made simple.||
-|56|[@motemen](https://github.com/motemen)/[**lgtm.sh**](https://github.com/motemen/lgtm.sh)|The fastest way to generate animated LGTM images||
+|57|[@motemen](https://github.com/motemen)/[**lgtm.sh**](https://github.com/motemen/lgtm.sh)|The fastest way to generate animated LGTM images||
 |55|[@riywo](https://github.com/riywo)/[**node-build**](https://github.com/riywo/node-build)|||
 |53|[@azu](https://github.com/azu)/[**Coveralls-iOS**](https://github.com/azu/Coveralls-iOS)|iOS/Objective-C: minimum setup for Coveralls.||
 |51|[@aw](https://github.com/aw)/[**redis-failover**](https://github.com/aw/redis-failover)|Basic failover for local Redis instances with Keepalived|[:arrow_upper_right:](http://alexwilliams.ca)|
@@ -46,7 +47,8 @@
 |48|[@penguin2716](https://github.com/penguin2716)/[**autoinstall_clouds…**](https://github.com/penguin2716/autoinstall_cloudstack)|auto install script for Apache CloudStack||
 |47|[@sorccu](https://github.com/sorccu)/[**docker-adb**](https://github.com/sorccu/docker-adb)|Dockerfile and instructions for ADB.||
 |43|[@aminaura](https://github.com/aminaura)/[**AURCherryBlossomVi…**](https://github.com/aminaura/AURCherryBlossomView)|Cherry Blossom Night Fever!!||
-|41|[@matsuu](https://github.com/matsuu)/[**azure-isucon-templ…**](https://github.com/matsuu/azure-isucon-templates)|Microsoft Azure Templates for ISUCON||
+|42|[@matsuu](https://github.com/matsuu)/[**azure-isucon-templ…**](https://github.com/matsuu/azure-isucon-templates)|Microsoft Azure Templates for ISUCON||
+|40|[@marcan](https://github.com/marcan)/[**certbot-external**](https://github.com/marcan/certbot-external)|Certbot plugin that uses an external shell script for domain validation||
 |40|[@yuku-t](https://github.com/yuku-t)/[**dotfiles**](https://github.com/yuku-t/dotfiles)|My dotfiles||
 |39|[@ksoichiro](https://github.com/ksoichiro)/[**dockerfiles**](https://github.com/ksoichiro/dockerfiles)|Dockerfile examples.||
 |39|[@nyarla](https://github.com/nyarla)/[**coreos-live-iso**](https://github.com/nyarla/coreos-live-iso)|(OBSOLETED) This code is no longer maintenance. Please use CoreOS's Official ISO Image.||
@@ -63,38 +65,39 @@
 |32|[@ryuone](https://github.com/ryuone)/[**nenv**](https://github.com/ryuone/nenv)|Node Version Management: nenv (based on rbenv)||
 |32|[@tkyk](https://github.com/tkyk)/[**cakephp-git-starte…**](https://github.com/tkyk/cakephp-git-starter)|Baking a new CakePHP project with git, and managing the cake core with git submodule||
 |31|[@kawahara](https://github.com/kawahara)/[**php-nabe**](https://github.com/kawahara/php-nabe)|php environment building tool||
+|31|[@making](https://github.com/making)/[**spring-boot-docker…**](https://github.com/making/spring-boot-docker-blank)|Spring Boot + Docker blank project||
 |31|[@tekezo](https://github.com/tekezo)/[**NoEjectDelay**](https://github.com/tekezo/NoEjectDelay)|NoEjectDelay clears the eject key delay. Use this software when you change the eject key behavior in KeyRemap4MacBook.  |[:arrow_upper_right:](https://pqrs.org/macosx/keyremap4macbook/extra.html)|
 |30|[@aereal](https://github.com/aereal)/[**osx-bootstrap**](https://github.com/aereal/osx-bootstrap)|||
-|30|[@marcan](https://github.com/marcan)/[**certbot-external**](https://github.com/marcan/certbot-external)|Certbot plugin that uses an external shell script for domain validation||
-|29|[@making](https://github.com/making)/[**oauth2-sso-demo**](https://github.com/making/oauth2-sso-demo)|Simple OAuth2 SSO Demo with Spring Boot + Spring Security OAuth2||
+|29|[@minimum2scp](https://github.com/minimum2scp)/[**dockerfiles**](https://github.com/minimum2scp/dockerfiles)|Collection of Dockerfiles|[:arrow_upper_right:](https://registry.hub.docker.com/repos/minimum2scp/)|
+|29|[@miya0001](https://github.com/miya0001)/[**wp-instant-setup**](https://github.com/miya0001/wp-instant-setup)|WordPress desktop installer||
 |29|[@syoyo](https://github.com/syoyo)/[**docker-utils**](https://github.com/syoyo/docker-utils)|Docker utilities||
 |29|[@y-ken](https://github.com/y-ken)/[**yamabiko**](https://github.com/y-ken/yamabiko)|Yamabiko (Fluentd based MySQL/MariaDB Replicator for Elasticsearch/Solr)||
-|28|[@miya0001](https://github.com/miya0001)/[**vim-dict-wordpress…**](https://github.com/miya0001/vim-dict-wordpress)|WordPress dict files for vim||
-|27|[@miya0001](https://github.com/miya0001)/[**wp-instant-setup**](https://github.com/miya0001/wp-instant-setup)|WordPress desktop installer||
+|27|[@matsuu](https://github.com/matsuu)/[**ansible-isucon**](https://github.com/matsuu/ansible-isucon)|Ansible playbooks for ISUCON|[:arrow_upper_right:](http://d.hatena.ne.jp/tmatsuu/20150815/1439643715)|
+|27|[@miya0001](https://github.com/miya0001)/[**vim-dict-wordpress…**](https://github.com/miya0001/vim-dict-wordpress)|WordPress dict files for vim||
 |27|[@riywo](https://github.com/riywo)/[**mesos-ceph**](https://github.com/riywo/mesos-ceph)|Terraform module for Mesos + Ceph cluster in AWS VPC and Packer template for the AMI.||
 |27|[@ryuichiueda](https://github.com/ryuichiueda)/[**bashcms**](https://github.com/ryuichiueda/bashcms)|micro CMS written in bash||
 |26|[@Tomohiro](https://github.com/Tomohiro)/[**bundlizer**](https://github.com/Tomohiro/bundlizer)|:gift: RubyGems and Bundler application manager||
 |26|[@k1LoW](https://github.com/k1LoW)/[**sakuravps**](https://github.com/k1LoW/sakuravps)|||
 |26|[@knu](https://github.com/knu)/[**e**](https://github.com/knu/e)|e - a smart wrapper for $EDITOR||
-|26|[@making](https://github.com/making)/[**spring-boot-docker…**](https://github.com/making/spring-boot-docker-blank)|Spring Boot + Docker blank project||
 |26|[@vmi](https://github.com/vmi)/[**cocot**](https://github.com/vmi/cocot)|COde COnverter on Tty|[:arrow_upper_right:](http://vmi.jp/software/cygwin/cocot.html)|
-|25|[@minimum2scp](https://github.com/minimum2scp)/[**dockerfiles**](https://github.com/minimum2scp/dockerfiles)|Collection of Dockerfiles|[:arrow_upper_right:](https://registry.hub.docker.com/repos/minimum2scp/)|
+|25|[@making](https://github.com/making)/[**travis-ci-maven-de…**](https://github.com/making/travis-ci-maven-deploy-skelton)|How to deploy to Maven Central by Travis CI||
 |24|[@bageljp](https://github.com/bageljp)/[**zabbix-slack**](https://github.com/bageljp/zabbix-slack)|||
 |24|[@kiwenlau](https://github.com/kiwenlau)/[**single-mesos-docke…**](https://github.com/kiwenlau/single-mesos-docker)|基于Docker快速搭建单节点Mesos/Marathon集群||
-|24|[@matadon](https://github.com/matadon)/[**workspace**](https://github.com/matadon/workspace)|Painless-ish development environments via SSH.||
 |24|[@mozamimy](https://github.com/mozamimy)/[**chromium-updater**](https://github.com/mozamimy/chromium-updater)|A bash script to ease upgrades of the Chromium web browser on OS X||
 |24|[@uzulla](https://github.com/uzulla)/[**apachehere**](https://github.com/uzulla/apachehere)|Start Apache, Like A (php) B(uiltin)S(erver).||
 |24|[@znz](https://github.com/znz)/[**rbenv-plug**](https://github.com/znz/rbenv-plug)|easiest rbenv plugin installer||
-|23|[@matsuu](https://github.com/matsuu)/[**ansible-isucon**](https://github.com/matsuu/ansible-isucon)|Ansible playbooks for ISUCON|[:arrow_upper_right:](http://d.hatena.ne.jp/tmatsuu/20150815/1439643715)|
+|23|[@matadon](https://github.com/matadon)/[**workspace**](https://github.com/matadon/workspace)|Painless-ish development environments via SSH.||
 |23|[@rcmdnk](https://github.com/rcmdnk)/[**vim_emu**](https://github.com/rcmdnk/vim_emu)|Setting files of VIM Emulation for Karabiner (KeyRemap4Macbook)|[:arrow_upper_right:](http://rcmdnk.github.io/blog/2013/06/10/computer-mac-keyremap4macbook-vim/)|
 |23|[@taku910](https://github.com/taku910)/[**zinnia**](https://github.com/taku910/zinnia)|Zinnia: Online hand recognition system with machine learning||
 |22|[@hibara](https://github.com/hibara)/[**create-ios-all-ico…**](https://github.com/hibara/create-ios-all-icons-shellscript)|Use Shell Script commands in only MacOSX for generating all icons that need to build iOS app.||
 |22|[@key-amb](https://github.com/key-amb)/[**shove**](https://github.com/key-amb/shove)|Prove-like Test Tool for Shell Scripts||
+|22|[@making](https://github.com/making)/[**concourse-ci-demo**](https://github.com/making/concourse-ci-demo)|Concourse CI + GitHub + Pivotal Tracker + Cloud Foundry Integration Demo||
 |22|[@repeatedly](https://github.com/repeatedly)/[**denv**](https://github.com/repeatedly/denv)|D version of rbenv||
 |22|[@riywo](https://github.com/riywo)/[**packer-example**](https://github.com/riywo/packer-example)|||
 |22|[@uasi](https://github.com/uasi)/[**zsh-context-sensit…**](https://github.com/uasi/zsh-context-sensitive-alias)|Context-sensitive alias for Zsh||
 |21|[@iij](https://github.com/iij)/[**iwatch**](https://github.com/iij/iwatch)|watch the command output with interval timer||
 |21|[@imos](https://github.com/imos)/[**imosh**](https://github.com/imos/imosh)|BASH library containing utilities like gflags and glog and PHP-like functions.||
+|21|[@mollifier](https://github.com/mollifier)/[**cd-gitroot**](https://github.com/mollifier/cd-gitroot)|zsh plugin to cd to git repository root directory.||
 |20|[@client9](https://github.com/client9)/[**hphp-tools**](https://github.com/client9/hphp-tools)|Tools to aid in building or using HpHp||
 |20|[@eiel](https://github.com/eiel)/[**git-merge-sandbox**](https://github.com/eiel/git-merge-sandbox)|コンフリクトの解消の練習するためのサンドボックス||
 |20|[@hansode](https://github.com/hansode)/[**vmbuilder**](https://github.com/hansode/vmbuilder)|vm builder scripts||
@@ -104,7 +107,6 @@
 |20|[@znz](https://github.com/znz)/[**anyenv-git**](https://github.com/znz/anyenv-git)|anyenv plugin that provides `anyenv git` command to run `git` in directories of all **env and all plugins||
 |19|[@chitsaou](https://github.com/chitsaou)/[**rime-boshiamy**](https://github.com/chitsaou/rime-boshiamy)|嘸蝦米 for 中州韻 (RIME) 系列輸入法||
 |19|[@esminc](https://github.com/esminc)/[**esm-overlay**](https://github.com/esminc/esm-overlay)|ESM's portage overlay. It's useful for especially Ruby/Rails application development.||
-|19|[@making](https://github.com/making)/[**concourse-ci-demo**](https://github.com/making/concourse-ci-demo)|Concourse CI + GitHub + Pivotal Tracker + Cloud Foundry Integration Demo||
 |18|[@Lewuathe](https://github.com/Lewuathe)/[**docker-hadoop-clus…**](https://github.com/Lewuathe/docker-hadoop-cluster)|Multiple node cluster on Docker for self development.||
 |18|[@kazu69](https://github.com/kazu69)/[**docker-efk**](https://github.com/kazu69/docker-efk)|Elasticsearch + Fluentd + Kibana with Docker and Docker-compose.||
 |18|[@pepabo](https://github.com/pepabo)/[**anybuild**](https://github.com/pepabo/anybuild)|xbuildを更にラップして、複数バージョンやモジュールの管理もできる君||
@@ -118,7 +120,7 @@
 |17|[@yyuu](https://github.com/yyuu)/[**pyenv-which-ext**](https://github.com/yyuu/pyenv-which-ext)|Integrate pyenv and system commands.||
 |16|[@gongo](https://github.com/gongo)/[**tpdiff**](https://github.com/gongo/tpdiff)|Colorize 🎨 different attribute lines at execution result of `terraform plan`.||
 |16|[@matsuu](https://github.com/matsuu)/[**docker-fc2blog**](https://github.com/matsuu/docker-fc2blog)|Dockerfiles for fc2blog||
-|16|[@mollifier](https://github.com/mollifier)/[**cd-gitroot**](https://github.com/mollifier/cd-gitroot)|zsh plugin to cd to git repository root directory.||
+|16|[@mollifier](https://github.com/mollifier)/[**cd-bookmark**](https://github.com/mollifier/cd-bookmark)|zsh plugin to bookmark directories to cd.||
 |16|[@yyuu](https://github.com/yyuu)/[**pyenv-update**](https://github.com/yyuu/pyenv-update)|update pyenv and plugins||
 |15|[@dann](https://github.com/dann)/[**dotfiles**](https://github.com/dann/dotfiles)|My dotfiles||
 |15|[@glidenote](https://github.com/glidenote)/[**rpbcopy**](https://github.com/glidenote/rpbcopy)|||
@@ -134,9 +136,8 @@
 |13|[@b4b4r07](https://github.com/b4b4r07)/[**ssh-keyreg**](https://github.com/b4b4r07/ssh-keyreg)|A CLI tool add ssh key to github.com user account||
 |13|[@fjolnir](https://github.com/fjolnir)/[**CodeRunner-templat…**](https://github.com/fjolnir/CodeRunner-templates)|My CodeRunner templates (See readme for list)||
 |13|[@hakobera](https://github.com/hakobera)/[**docker-locust**](https://github.com/hakobera/docker-locust)|Docker image for both locust master and slave||
-|13|[@making](https://github.com/making)/[**travis-ci-maven-de…**](https://github.com/making/travis-ci-maven-deploy-skelton)|How to deploy to Maven Central by Travis CI||
+|13|[@manchan](https://github.com/manchan)/[**TableDefineScript**](https://github.com/manchan/TableDefineScript)|TableDefineScript||
 |13|[@mizchi](https://github.com/mizchi)/[**dotfiles**](https://github.com/mizchi/dotfiles)|||
-|13|[@mollifier](https://github.com/mollifier)/[**cd-bookmark**](https://github.com/mollifier/cd-bookmark)|zsh plugin to bookmark directories to cd.||
 |13|[@riywo](https://github.com/riywo)/[**vagrant-docker-td-…**](https://github.com/riywo/vagrant-docker-td-es-kibana-sample)|vagrant, docker, td-agent, elasticsearch, kibana||
 |13|[@shigeki](https://github.com/shigeki)/[**uv_webserver**](https://github.com/shigeki/uv_webserver)|Hello World  WebServer with libuv||
 |13|[@sorah](https://github.com/sorah)/[**gentoo-build**](https://github.com/sorah/gentoo-build)|shell scripts that builds systemd based gentoo box for x86_64 platform||
@@ -155,7 +156,7 @@
 |11|[@jmatsu](https://github.com/jmatsu)/[**git-memo**](https://github.com/jmatsu/git-memo)|Enhanced Git notes||
 |11|[@k2n](https://github.com/k2n)/[**lein-zinc**](https://github.com/k2n/lein-zinc)|Leiningen plugin for Typesafe zinc incremental scala compiler||
 |11|[@kazeburo](https://github.com/kazeburo)/[**docker-h2o**](https://github.com/kazeburo/docker-h2o)|Dockerfile for h2o HTTP Server with graceful restart support||
-|11|[@manchan](https://github.com/manchan)/[**TableDefineScript**](https://github.com/manchan/TableDefineScript)|TableDefineScript||
+|11|[@matsuokah](https://github.com/matsuokah)/[**osx-provisioning**](https://github.com/matsuokah/osx-provisioning)|||
 |11|[@nabeken](https://github.com/nabeken)/[**circleci-packer-ex…**](https://github.com/nabeken/circleci-packer-example)|Example: packer image builder on CircleCI||
 |11|[@pasberth](https://github.com/pasberth)/[**promptway**](https://github.com/pasberth/promptway)|プロンプトの味気ないパスをかっこ良く表示するよ||
 |11|[@shiwano](https://github.com/shiwano)/[**dotfiles**](https://github.com/shiwano/dotfiles)|:wrench: My dotfiles||
@@ -170,6 +171,7 @@
 |10|[@inc2734](https://github.com/inc2734)/[**bash-wp-deploy**](https://github.com/inc2734/bash-wp-deploy)|WordPress deploy, sync tool||
 |10|[@jedahan](https://github.com/jedahan)/[**raspberry-pico-8**](https://github.com/jedahan/raspberry-pico-8)|really alpha||
 |10|[@kentaro](https://github.com/kentaro)/[**gyazolife**](https://github.com/kentaro/gyazolife)|Screen capture uploader to Hatena::Fotolife||
+|10|[@matsubo](https://github.com/matsubo)/[**matsu-shell-settin…**](https://github.com/matsubo/matsu-shell-setting)|My shell setting.|[:arrow_upper_right:](http://matsu.teraren.com/blog/)|
 |10|[@matsuu](https://github.com/matsuu)/[**docker-gentoo-dist…**](https://github.com/matsuu/docker-gentoo-distccd)|Dockerfile for distccd server on gentoo||
 |10|[@mzyy94](https://github.com/mzyy94)/[**QSV-on-Linux**](https://github.com/mzyy94/QSV-on-Linux)|Setup scripts of Intel QSV encoding for CentOS 7.1||
 |10|[@nyarla](https://github.com/nyarla)/[**h2o-proxy-letsencr…**](https://github.com/nyarla/h2o-proxy-letsencrypt)|A automatic h2o reverse proxy with letsencrypt for docker containers|[:arrow_upper_right:](https://hub.docker.com/r/nyarla/h2o-proxy-letsencrypt/)|
@@ -207,8 +209,6 @@
 |8|[@itchyny](https://github.com/itchyny)/[**dotfiles**](https://github.com/itchyny/dotfiles)|my dotfiles||
 |8|[@jmblog](https://github.com/jmblog)/[**dotfiles-starter-k…**](https://github.com/jmblog/dotfiles-starter-kit)|Make your own dotfiles!||
 |8|[@maloninc](https://github.com/maloninc)/[**fever-on-heroku-bo…**](https://github.com/maloninc/fever-on-heroku-bootstrap)|A bootstrap script to start Fever on Heroku||
-|8|[@matschaffer](https://github.com/matschaffer)/[**astley**](https://github.com/matschaffer/astley)|A web framework written in Bash. It's kinda like Sinatra, but only really enjoyable as a joke.||
-|8|[@matsubo](https://github.com/matsubo)/[**matsu-shell-settin…**](https://github.com/matsubo/matsu-shell-setting)|My shell setting.|[:arrow_upper_right:](http://matsu.teraren.com/blog/)|
 |8|[@mhayashi1120](https://github.com/mhayashi1120)/[**Gauche-dbd-sqlite3…**](https://github.com/mhayashi1120/Gauche-dbd-sqlite3)|sqlite3 module||
 |8|[@monochromegane](https://github.com/monochromegane)/[**vagrant-peco**](https://github.com/monochromegane/vagrant-peco)|A peco tool for vagrant-global-status.||
 |8|[@smihica](https://github.com/smihica)/[**glaze**](https://github.com/smihica/glaze)|Glaze is an Arc implementation project written in C++ / Arc.||
@@ -231,9 +231,13 @@
 |7|[@kaosf](https://github.com/kaosf)/[**ubuntu-setup**](https://github.com/kaosf/ubuntu-setup)|Ubuntu setup commands log||
 |7|[@kentaro](https://github.com/kentaro)/[**shadow-proxy-serve…**](https://github.com/kentaro/shadow-proxy-servers)|||
 |7|[@knakayama](https://github.com/knakayama)/[**tmux-newline-detec…**](https://github.com/knakayama/tmux-newline-detector)|Detects newline in your clipboard from tmux session||
+|7|[@kyanny](https://github.com/kyanny)/[**git-delete-merged-…**](https://github.com/kyanny/git-delete-merged-branches)|||
 |7|[@mainyaa](https://github.com/mainyaa)/[**docker-kandan**](https://github.com/mainyaa/docker-kandan)|Easy building Kandan webapp with Docker (Kandan is an Open Source Alternative to HipChat)||
 |7|[@masuidrive](https://github.com/masuidrive)/[**vagrant-remote**](https://github.com/masuidrive/vagrant-remote)|||
-|7|[@matschaffer](https://github.com/matschaffer)/[**zsh-matschaffer**](https://github.com/matschaffer/zsh-matschaffer)|My zsh configs||
+|7|[@matschaffer](https://github.com/matschaffer)/[**astley**](https://github.com/matschaffer/astley)|A web framework written in Bash. It's kinda like Sinatra, but only really enjoyable as a joke.||
+|7|[@matschaffer](https://github.com/matschaffer)/[**zsh-matschaffer**](https://github.com/matschaffer/zsh-matschaffer)|DEPRECATED: Switching to dotfiles+zplug|[:arrow_upper_right:](https://github.com/matschaffer/dotfiles/blob/master/zshrc)|
+|7|[@miya0001](https://github.com/miya0001)/[**force-email-login**](https://github.com/miya0001/force-email-login)|Use email address for login to your WordPress.||
+|7|[@miya0001](https://github.com/miya0001)/[**travis2wpplugin**](https://github.com/miya0001/travis2wpplugin)|Automated deploy to WordPress plugin repository from Travis CI||
 |7|[@miya0001](https://github.com/miya0001)/[**wp-core-contributi…**](https://github.com/miya0001/wp-core-contribution-kit)|Launch WordPress development environment from svn repository.||
 |7|[@muukii](https://github.com/muukii)/[**Presenter**](https://github.com/muukii/Presenter)|Screen transition with safe and clean code.||
 |7|[@naota](https://github.com/naota)/[**dockergentoo**](https://github.com/naota/dockergentoo)|||
@@ -269,7 +273,7 @@
 |6|[@karupanerura](https://github.com/karupanerura)/[**dotfiles**](https://github.com/karupanerura/dotfiles)|oh my dotfiles||
 |6|[@kawanamiyuu](https://github.com/kawanamiyuu)/[**vagrant-bearsunday…**](https://github.com/kawanamiyuu/vagrant-bearsunday-demo)|||
 |6|[@kiwenlau](https://github.com/kiwenlau)/[**kubernetes-supervi…**](https://github.com/kiwenlau/kubernetes-supervisor)|通过supervisor启动kubernetes各个组件||
-|6|[@matsuokah](https://github.com/matsuokah)/[**osx-provisioning**](https://github.com/matsuokah/osx-provisioning)|||
+|6|[@luckypool](https://github.com/luckypool)/[**iOS-Default-Images…**](https://github.com/luckypool/iOS-Default-Images-Generator)|Script to generate 'App Icons' and 'App Launch (Default) Images'||
 |6|[@morishin](https://github.com/morishin)/[**locker**](https://github.com/morishin/locker)|Shell script to protect a text file by AES encryption||
 |6|[@naota](https://github.com/naota)/[**libpaper**](https://github.com/naota/libpaper)|Library for handling paper characteristics|[:arrow_upper_right:](http://packages.debian.org/unstable/source/libpaper)|
 |6|[@ngyuki](https://github.com/ngyuki)/[**phpenv-composer**](https://github.com/ngyuki/phpenv-composer)|||
@@ -313,10 +317,9 @@
 |5|[@inc2734](https://github.com/inc2734)/[**mimizuku-child**](https://github.com/inc2734/mimizuku-child)|||
 |5|[@ir77](https://github.com/ir77)/[**dotfiles**](https://github.com/ir77/dotfiles)|||
 |5|[@katzueno](https://github.com/katzueno)/[**concrete5-install-…**](https://github.com/katzueno/concrete5-install-shell-scripts)|Install concrete5 environment onto Cloud9 Platform||
-|5|[@kyanny](https://github.com/kyanny)/[**git-delete-merged-…**](https://github.com/kyanny/git-delete-merged-branches)|||
 |5|[@m0t0k1ch1](https://github.com/m0t0k1ch1)/[**scalatra-slick**](https://github.com/m0t0k1ch1/scalatra-slick)|a sample web application built with Scalatra + Slick + Scalate + Furatto||
 |5|[@masarakki](https://github.com/masarakki)/[**dotfiles**](https://github.com/masarakki/dotfiles)|dotfiles||
-|5|[@miya0001](https://github.com/miya0001)/[**travis2wpplugin**](https://github.com/miya0001/travis2wpplugin)|Automated deploy to WordPress plugin repository from Travis CI||
+|5|[@mkataigi](https://github.com/mkataigi)/[**dotfiles**](https://github.com/mkataigi/dotfiles)|mkataigi's vim dotfiles||
 |5|[@mumoshu](https://github.com/mumoshu)/[**dcind**](https://github.com/mumoshu/dcind)|Docker Compose (and Daemon) in Docker||
 |5|[@muratayusuke](https://github.com/muratayusuke)/[**git-extensions**](https://github.com/muratayusuke/git-extensions)|git extension commands||
 |5|[@ngs](https://github.com/ngs)/[**dotfiles**](https://github.com/ngs/dotfiles)|@ngs environment||
@@ -372,12 +375,16 @@
 |4|[@knu](https://github.com/knu)/[**zfs-snapshot-clean…**](https://github.com/knu/zfs-snapshot-clean)|A tool to sieve ZFS snapshots as per given spec a la `pdumpfs-clean'||
 |4|[@kotatsumikan](https://github.com/kotatsumikan)/[**unko**](https://github.com/kotatsumikan/unko)|ファイルの内容を「うんこ」に変換するコマンドです。||
 |4|[@ksoichiro](https://github.com/ksoichiro)/[**vagrant-templates**](https://github.com/ksoichiro/vagrant-templates)|Vagrantfile and provisioning scripts templates.||
+|4|[@kylelin](https://github.com/kylelin)/[**locktail**](https://github.com/kylelin/locktail)|Lock tailing on your rotating files||
 |4|[@kyubuns](https://github.com/kyubuns)/[**wakutuke**](https://github.com/kyubuns/wakutuke)|枠を付ける||
 |4|[@lamanotrama](https://github.com/lamanotrama)/[**munin-manager**](https://github.com/lamanotrama/munin-manager)|muninをカジュアルにスケールアウトするやつ||
 |4|[@leo-project](https://github.com/leo-project)/[**leofs_package**](https://github.com/leo-project/leofs_package)|leofs_rpm is a LeoFS' configuration file for RPM and DEB|[:arrow_upper_right:](https://github.com/leo-project/leofs)|
-|4|[@luckypool](https://github.com/luckypool)/[**iOS-Default-Images…**](https://github.com/luckypool/iOS-Default-Images-Generator)|Script to generate 'App Icons' and 'App Launch (Default) Images'||
+|4|[@lindwurm](https://github.com/lindwurm)/[**madoka**](https://github.com/lindwurm/madoka)|カスタムROMビルド用拡張スクリプト|[:arrow_upper_right:](https://github.com/lindwurm/madoka/wiki)|
+|4|[@matschaffer](https://github.com/matschaffer)/[**oh-my-zsh-custom**](https://github.com/matschaffer/oh-my-zsh-custom)|||
 |4|[@matsubo](https://github.com/matsubo)/[**eccube-docker**](https://github.com/matsubo/eccube-docker)|Docker container to test multiple ec-cube version.|[:arrow_upper_right:](http://matsu.teraren.com/blog/2014/10/07/docker-dev-server/)|
 |4|[@matsukaz](https://github.com/matsukaz)/[**mongodb-hands-on**](https://github.com/matsukaz/mongodb-hands-on)|MongoDB Hands-On notes||
+|4|[@melpon](https://github.com/melpon)/[**wandbox-builder**](https://github.com/melpon/wandbox-builder)|||
+|4|[@miya0001](https://github.com/miya0001)/[**install-wp-test-en…**](https://github.com/miya0001/install-wp-test-env)|||
 |4|[@mkouhei](https://github.com/mkouhei)/[**scripts**](https://github.com/mkouhei/scripts)|||
 |4|[@mollifier](https://github.com/mollifier)/[**zload**](https://github.com/mollifier/zload)|zsh plugin to load files as an autoloading function||
 |4|[@mzp](https://github.com/mzp)/[**wercker-step-http-…**](https://github.com/mzp/wercker-step-http-notify)|A wercker plugin: Send http request to specified url(a.k.a. webhook)|[:arrow_upper_right:](https://app.wercker.com/#applications/52d7f369374ece620d041d19/tab/details)|
@@ -469,16 +476,17 @@
 |3|[@kui](https://github.com/kui)/[**dotfiles**](https://github.com/kui/dotfiles)|kui's dotfiles and scripts|[:arrow_upper_right:](http://k-ui.jp)|
 |3|[@kwappa](https://github.com/kwappa)/[**dotfiles**](https://github.com/kwappa/dotfiles)|||
 |3|[@kyamagu](https://github.com/kyamagu)/[**sge-gpuprolog**](https://github.com/kyamagu/sge-gpuprolog)|Scripts to manage NVIDIA GPU devices in SGE 6.2u5||
-|3|[@kylelin](https://github.com/kylelin)/[**locktail**](https://github.com/kylelin/locktail)|Lock tailing on your rotating files||
 |3|[@l15n](https://github.com/l15n)/[**dotfiles**](https://github.com/l15n/dotfiles)|my ~/.*|[:arrow_upper_right:](https://github.com/l15n/dotfiles)|
 |3|[@lamanotrama](https://github.com/lamanotrama)/[**munin-plugins**](https://github.com/lamanotrama/munin-plugins)|||
 |3|[@leo-project](https://github.com/leo-project)/[**leofs_ansible**](https://github.com/leo-project/leofs_ansible)|LeoFS' Ansible for deployment and operation of LeoFS|[:arrow_upper_right:](https://github.com/leo-project/leofs)|
 |3|[@linyows](https://github.com/linyows)/[**wercker-step-slack…**](https://github.com/linyows/wercker-step-slack_notification)|Posts a message to an Slack channel.||
 |3|[@makky3939](https://github.com/makky3939)/[**MacBook**](https://github.com/makky3939/MacBook)|Provisioning tool for OSX||
-|3|[@matschaffer](https://github.com/matschaffer)/[**oh-my-zsh-custom**](https://github.com/matschaffer/oh-my-zsh-custom)|||
+|3|[@maropu](https://github.com/maropu)/[**bitonic_sort**](https://github.com/maropu/bitonic_sort)|A hardware-conscious and hy-speed sorting code||
+|3|[@matschaffer](https://github.com/matschaffer)/[**dotfiles**](https://github.com/matschaffer/dotfiles)|A collection of my dot files that don't have their own bundle system ala vim or zsh.||
 |3|[@matsuu](https://github.com/matsuu)/[**docker-devhub**](https://github.com/matsuu/docker-devhub)|Dockerfile for DevHub||
 |3|[@miru](https://github.com/miru)/[**dot-files**](https://github.com/miru/dot-files)|miru's dot-files||
 |3|[@mitsugu](https://github.com/mitsugu)/[**BashDrop**](https://github.com/mitsugu/BashDrop)|||
+|3|[@mitukiii](https://github.com/mitukiii)/[**dotfiles**](https://github.com/mitukiii/dotfiles)|dotfiles||
 |3|[@nabeken](https://github.com/nabeken)/[**git2git**](https://github.com/nabeken/git2git)|A migrating tools from git repository to git repository with specific directory||
 |3|[@naota](https://github.com/naota)/[**portage-overlay**](https://github.com/naota/portage-overlay)|Contain (maybe) fixed ebuilds.||
 |3|[@nemasu](https://github.com/nemasu)/[**OpCheck**](https://github.com/nemasu/OpCheck)|Scan binaries for various opcodes.||

@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|187|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-p…**](https://github.com/kt3k/coveralls-gradle-plugin)|:hatched_chick: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
-|108|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar…**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
-|92|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
-|77|[@hotchemi](https://github.com/hotchemi)/[**gradle-proguard-pl…**](https://github.com/hotchemi/gradle-proguard-plugin)|The gradle plugin to add proguard snippets to your proguard setting file quickly.|[:arrow_upper_right:](http://hotchemi.github.io/gradle-proguard-plugin)|
+|190|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-p…**](https://github.com/kt3k/coveralls-gradle-plugin)|:hatched_chick: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
+|111|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar…**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
+|93|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
+|79|[@hotchemi](https://github.com/hotchemi)/[**gradle-proguard-pl…**](https://github.com/hotchemi/gradle-proguard-plugin)|The gradle plugin to add proguard snippets to your proguard setting file quickly.|[:arrow_upper_right:](http://hotchemi.github.io/gradle-proguard-plugin)|
 |76|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-mdicons**](https://github.com/tmiyamon/gradle-mdicons)|A gradle plugin for Android to handle material design icons Google published.||
-|49|[@gfx](https://github.com/gfx)/[**android-power-asse…**](https://github.com/gfx/android-power-assert-plugin)|Power Assert for Android||
+|48|[@gfx](https://github.com/gfx)/[**android-power-asse…**](https://github.com/gfx/android-power-assert-plugin)|Power Assert for Android||
 |27|[@nobeans](https://github.com/nobeans)/[**gexcelapi**](https://github.com/nobeans/gexcelapi)|GExcelAPI is a thin Groovy-ish wrapper library of not JExcelAPI but Apache POI.||
 |22|[@tomorrowkey](https://github.com/tomorrowkey)/[**notifier-plugin**](https://github.com/tomorrowkey/notifier-plugin)|This plugin provide a ability of notifying you that gradle task is finished.||
 |21|[@uPhyca](https://github.com/uPhyca)/[**gradle-android-apt…**](https://github.com/uPhyca/gradle-android-apt-plugin)|A Gradle plugin which enables annotations processing for Android builds.||
@@ -16,15 +16,15 @@
 |13|[@uehaj](https://github.com/uehaj)/[**groovyz**](https://github.com/uehaj/groovyz)|POC of Type Class for Groovy||
 |12|[@taichi](https://github.com/taichi)/[**yuzen**](https://github.com/taichi/yuzen)|static contents generator|[:arrow_upper_right:](http://yuzen.koshinuke.org/)|
 |12|[@uehaj](https://github.com/uehaj)/[**groovy-comprehensi…**](https://github.com/uehaj/groovy-comprehension)|||
+|11|[@sys1yagi](https://github.com/sys1yagi)/[**faucet**](https://github.com/sys1yagi/faucet)|Super casual memory leak checker for Android. ||
 |10|[@gfx](https://github.com/gfx)/[**gradle-plugin-temp…**](https://github.com/gfx/gradle-plugin-template)|A template project for Gradle plugins||
-|10|[@sys1yagi](https://github.com/sys1yagi)/[**faucet**](https://github.com/sys1yagi/faucet)|Super casual memory leak checker for Android. ||
-|9|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-…**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
+|10|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-…**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
 |9|[@tyama](https://github.com/tyama)/[**ratpack-gorm-mongo…**](https://github.com/tyama/ratpack-gorm-mongo-example)|||
 |7|[@mike-neck](https://github.com/mike-neck)/[**slim3-gradle**](https://github.com/mike-neck/slim3-gradle)|gradle build file and slim3 sample||
 |6|[@kimukou](https://github.com/kimukou)/[**griffontest**](https://github.com/kimukou/griffontest)|groovy griffon||
 |6|[@kiy0taka](https://github.com/kiy0taka)/[**groovy-consoles**](https://github.com/kiy0taka/groovy-consoles)||[:arrow_upper_right:](http://d.hatena.ne.jp/kiy0taka/)|
+|6|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-rep…**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
 |6|[@operando](https://github.com/operando)/[**gradle-zundokokiyo…**](https://github.com/operando/gradle-zundokokiyoshi-plugin)|gradle zundokokiyoshi plugin||
-|5|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-rep…**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
 |5|[@nobeans](https://github.com/nobeans)/[**groovy-osgi-sample…**](https://github.com/nobeans/groovy-osgi-sample)|Sample of OSGi powered by Groovy and Gradle||
 |4|[@YukiMatsumura](https://github.com/YukiMatsumura)/[**MaterialDesignReso…**](https://github.com/YukiMatsumura/MaterialDesignResources)|MaterialDesign Android Resources||
 |4|[@mike-neck](https://github.com/mike-neck)/[**idea-gradle-javaee…**](https://github.com/mike-neck/idea-gradle-javaee-template)|template project of JavaEE-Glassfish application for IntelliJ IDEA and Gradle||

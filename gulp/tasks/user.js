@@ -1,39 +1,33 @@
 'use strict';
 
-const _ = require('lodash');
-const gulp = require('gulp');
-const async = require('neo-async');
+const fs = require('fs');
+const path = require('path');
 
-const info = require('../../data/info.json');
-const locations = require('../../data/japan.json');
-const madeInJapan = require('../../');
+const gulp = require('gulp');
+
+const MadeIn = require('../../lib/madeIn2');
+const infopath = path.resolve(__dirname, '../..', 'data', 'info.json');
 
 gulp.task('user:save', ['validate'], () => {
 
-  const token = process.env.token;
-  const loc = process.env.location;
-  madeInJapan(token)
-    .location(loc)
-    .readEngineer(false)
-    .saveEngineer();
+  const {
+    token,
+    location
+  } = process.env;
+  return new MadeIn({ token }).getDevelopers(location);
 });
 
-gulp.task('user:save:all', ['validate'], done => {
+gulp.task('user:save:all', ['validate'], () => {
 
-  const token = process.env.token;
-  const currentLoc = _.get(info, 'current_location');
-  const index = _.indexOf(locations, currentLoc);
-  const locs = index < 0 ? locations : locations.slice(index);
-  async.eachSeries(locs, (loc, next) => {
-    info.current_location = loc;
-    console.log(`location:${loc}`);
-    madeInJapan(token)
-      .location(loc)
-      .readEngineer(false)
-      .saveEngineer()
-      .callback(err => {
-        err = /^Only the first 1000/.test(err) ? null : err;
-        next(err);
-      });
-  }, done);
+  const { token } = process.env;
+  const locations = require('../../data/japan.json');
+  const info = require(infopath);
+  const index = locations.indexOf(info.current_location);
+  const array = locations.slice(index).concat(locations.slice(0, index));
+  return new MadeIn({ token }).getDevelopers(array)
+    .then(res => {
+      console.log('user:save:all', 'finished', res);
+      info.current_location = res.location;
+      fs.writeFileSync(infopath, JSON.stringify(info, null, 2), 'utf8');
+    });
 });

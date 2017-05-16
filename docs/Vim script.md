@@ -30,8 +30,10 @@
 |81|[@tyru](https://github.com/tyru)/[**caw.vim**](https://github.com/tyru/caw.vim)|Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes||
 |77|[@lambdalisue](https://github.com/lambdalisue)/[**gina.vim**](https://github.com/lambdalisue/gina.vim)|Asynchronously control git repositories in Neovim/Vim 8|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5531)|
 |74|[@itchyny](https://github.com/itchyny)/[**landscape.vim**](https://github.com/itchyny/landscape.vim)|A colorscheme and syntax for Vim||
+|73|[@MaxMEllon](https://github.com/MaxMEllon)/[**vim-jsx-pretty**](https://github.com/MaxMEllon/vim-jsx-pretty)|:flashlight: [VimL] React JSX syntax pretty highlighting for vim.||
 |73|[@tyru](https://github.com/tyru)/[**eskk.vim**](https://github.com/tyru/eskk.vim)|eskk aims to provide powerful input method platform in Vim.||
 |64|[@Quramy](https://github.com/Quramy)/[**vison**](https://github.com/Quramy/vison)|A Vim plugin for writing JSON with JSON Schema|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5162)|
+|59|[@saihoooooooo](https://github.com/saihoooooooo)/[**glowshi-ft.vim**](https://github.com/saihoooooooo/glowshi-ft.vim)|improve movement of f/t with glow shift.||
 |57|[@rhysd](https://github.com/rhysd)/[**dogfiles**](https://github.com/rhysd/dogfiles)|dog + dotfiles = dogfiles|[:arrow_upper_right:](https://rhysd.github.io)|
 |54|[@basyura](https://github.com/basyura)/[**unite-rails**](https://github.com/basyura/unite-rails)|a unite.vim plugin for rails|[:arrow_upper_right:](http://basyura.org)|
 |52|[@haya14busa](https://github.com/haya14busa)/[**go-vimlparser**](https://github.com/haya14busa/go-vimlparser)|:zap: Vim Script Parser written in Go|[:arrow_upper_right:](https://medium.com/@haya14busa/vim-script-parser-written-in-go-4d0296782a14#.tf52lht5h)|
@@ -45,20 +47,28 @@
 |40|[@tyru](https://github.com/tyru)/[**skk.vim**](https://github.com/tyru/skk.vim)|skk.vim with miscellaneous hacks. patches/forks are welcome. if you are insterested in improving skk.vim, please contact me by twitter, email, and so on.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3118)|
 |39|[@itchyny](https://github.com/itchyny)/[**screensaver.vim**](https://github.com/itchyny/screensaver.vim)|Screensavers for Vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5092)|
 |34|[@itchyny](https://github.com/itchyny)/[**dictionary.vim**](https://github.com/itchyny/dictionary.vim)|Dictionary.app interface for Vim||
+|34|[@violetyk](https://github.com/violetyk)/[**cake.vim**](https://github.com/violetyk/cake.vim)|Utility for CakePHP developers.||
+|29|[@creasty](https://github.com/creasty)/[**dotfiles**](https://github.com/creasty/dotfiles)|Harder, Better, Faster, Stronger ― A powerful development environment for full-stack engineers||
 |28|[@dvcrn](https://github.com/dvcrn)/[**dotfiles**](https://github.com/dvcrn/dotfiles)|David's dotfiles repository||
 |28|[@tyru](https://github.com/tyru)/[**current-func-info.…**](https://github.com/tyru/current-func-info.vim)|Get current function name|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3197)|
-|24|[@creasty](https://github.com/creasty)/[**dotfiles**](https://github.com/creasty/dotfiles)|Harder, Better, Faster, Stronger ― A powerful development environment for full-stack engineers||
+|25|[@sgur](https://github.com/sgur)/[**vim-editorconfig**](https://github.com/sgur/vim-editorconfig)|Yet another EditorConfig (http://editorconfig.org) plugin for vim written in vimscript only||
 |22|[@id774](https://github.com/id774)/[**scripts**](https://github.com/id774/scripts)|Scripts collection for system administration||
 |22|[@t9md](https://github.com/t9md)/[**vim-ezbar**](https://github.com/t9md/vim-ezbar)|&statusline configuration helper for minimalist.||
 |21|[@cho45](https://github.com/cho45)/[**dotfiles**](https://github.com/cho45/dotfiles)|my dotfiles||
 |21|[@tyru](https://github.com/tyru)/[**capture.vim**](https://github.com/tyru/capture.vim)|Show Ex command output in buffer||
 |21|[@tyru](https://github.com/tyru)/[**operator-camelize.…**](https://github.com/tyru/operator-camelize.vim)|snake_case -> SnakeCase, CamelCase -> camel_case|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3046)|
+|20|[@suzuken](https://github.com/suzuken)/[**dotfiles**](https://github.com/suzuken/dotfiles)|This is my dotfiles.||
+|19|[@deris](https://github.com/deris)/[**dotfiles**](https://github.com/deris/dotfiles)|||
 |18|[@tyru](https://github.com/tyru)/[**restart.vim**](https://github.com/tyru/restart.vim)|Restart your gVim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2910)|
 |17|[@haya14busa](https://github.com/haya14busa)/[**dotfiles**](https://github.com/haya14busa/dotfiles)|||
 |16|[@Genki-S](https://github.com/Genki-S)/[**dotfiles**](https://github.com/Genki-S/dotfiles)|My lovely settings.||
+|15|[@januswel](https://github.com/januswel)/[**dotfiles**](https://github.com/januswel/dotfiles)|software setting files||
 |12|[@basyura](https://github.com/basyura)/[**twibill.vim**](https://github.com/basyura/twibill.vim)|twitter api wrapper like a Rubytter.rb ... maybe|[:arrow_upper_right:](http://basyura.org)|
 |12|[@haya14busa](https://github.com/haya14busa)/[**vim-gtrans**](https://github.com/haya14busa/vim-gtrans)|Google Translate in Vim||
+|11|[@mollifier](https://github.com/mollifier)/[**config**](https://github.com/mollifier/config)|config files|[:arrow_upper_right:](http://mollifier.hatenablog.com/)|
 |11|[@rcmdnk](https://github.com/rcmdnk)/[**dotfiles**](https://github.com/rcmdnk/dotfiles)|setting files for bash||
+|10|[@Layzie](https://github.com/Layzie)/[**dotfiles**](https://github.com/Layzie/dotfiles)|Mainly vimfiles||
+|10|[@ayapi](https://github.com/ayapi)/[**dotfiles**](https://github.com/ayapi/dotfiles)|ギャルでもかけるvim||
 |10|[@cohama](https://github.com/cohama)/[**.vim**](https://github.com/cohama/.vim)|vim configuration files||
 |10|[@fujimura](https://github.com/fujimura)/[**dotfiles**](https://github.com/fujimura/dotfiles)|~/.||
 |10|[@heavenshell](https://github.com/heavenshell)/[**vim-quickrun-hook-…**](https://github.com/heavenshell/vim-quickrun-hook-unittest)|Quickrun hook for enable to unittest by selecting method.||
@@ -68,21 +78,36 @@
 |8|[@superbrothers](https://github.com/superbrothers)/[**dotfiles**](https://github.com/superbrothers/dotfiles)|my config files||
 |7|[@itchyny](https://github.com/itchyny)/[**vim-external**](https://github.com/itchyny/vim-external)|Switch to external applications from Vim||
 |7|[@marocchino](https://github.com/marocchino)/[**dotfiles**](https://github.com/marocchino/dotfiles)|slate, bash, fish, tmux, vim settings||
-|6|[@cocuh](https://github.com/cocuh)/[**.dotfiles**](https://github.com/cocuh/.dotfiles)|dotfiles~~~||
+|7|[@nocotan](https://github.com/nocotan)/[**dotfiles**](https://github.com/nocotan/dotfiles)|dotfiles vimrc, bashrc, zshrc, etc...||
 |6|[@eagletmt](https://github.com/eagletmt)/[**dotfiles**](https://github.com/eagletmt/dotfiles)|my dotfiles|[:arrow_upper_right:](https://wanko.cc/)|
 |6|[@halogenandtoast](https://github.com/halogenandtoast)/[**vim**](https://github.com/halogenandtoast/vim)|vim||
 |6|[@heavenshell](https://github.com/heavenshell)/[**vim-textlint**](https://github.com/heavenshell/vim-textlint)|Wrapper for textlint||
 |6|[@kaneshin](https://github.com/kaneshin)/[**dotfiles**](https://github.com/kaneshin/dotfiles)|dotfiles||
 |6|[@noraesae](https://github.com/noraesae)/[**dotfiles**](https://github.com/noraesae/dotfiles)|dotfiles for me||
+|6|[@pocke](https://github.com/pocke)/[**dotfiles**](https://github.com/pocke/dotfiles)|dotfiles / public domain||
+|6|[@takeshik](https://github.com/takeshik)/[**configurations**](https://github.com/takeshik/configurations)|Configuration files for my environment which may be useful|[:arrow_upper_right:](https://takeshik.org/)|
 |6|[@tyru](https://github.com/tyru)/[**emap.vim**](https://github.com/tyru/emap.vim)|Extendable map command for Vim.||
 |6|[@tyru](https://github.com/tyru)/[**winmove.vim**](https://github.com/tyru/winmove.vim)|Move your gVim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2576)|
+|6|[@ursm](https://github.com/ursm)/[**config**](https://github.com/ursm/config)|||
 |6|[@zchee](https://github.com/zchee)/[**.nvim**](https://github.com/zchee/.nvim)|dotfiles for neovim||
+|5|[@maedana](https://github.com/maedana)/[**dotfiles**](https://github.com/maedana/dotfiles)|||
 |5|[@pine](https://github.com/pine)/[**dotfiles**](https://github.com/pine/dotfiles)|:wrench: My dotfiles||
 |5|[@tyru](https://github.com/tyru)/[**operator-html-esca…**](https://github.com/tyru/operator-html-escape.vim)|operator-html-escape provides operator to escape HTML entities.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3312)|
+|4|[@emonkak](https://github.com/emonkak)/[**config**](https://github.com/emonkak/config)|My config||
+|4|[@ha1t](https://github.com/ha1t)/[**vimrc**](https://github.com/ha1t/vimrc)|my vimrc||
+|4|[@unasuke](https://github.com/unasuke)/[**dotfiles**](https://github.com/unasuke/dotfiles)|My dotfiles repository.||
+|3|[@JugglerShu](https://github.com/JugglerShu)/[**dotfiles**](https://github.com/JugglerShu/dotfiles)|My dotfiles||
 |3|[@Kuniwak](https://github.com/Kuniwak)/[**dotfiles**](https://github.com/Kuniwak/dotfiles)|My dotfiles.||
+|3|[@Surgo](https://github.com/Surgo)/[**dotfiles**](https://github.com/Surgo/dotfiles)|Lazy dotfiles.||
+|3|[@archSeer](https://github.com/archSeer)/[**dotfiles**](https://github.com/archSeer/dotfiles)|My current set of dotfiles. Assumes tmux+vim+zsh, Paraiso Dark color theme.||
 |3|[@giginet](https://github.com/giginet)/[**castle**](https://github.com/giginet/castle)|All my dotfile are belong to us. BUT MY CREDENTIALS ARE IN ANOTHER CASTLE.||
 |3|[@heavenshell](https://github.com/heavenshell)/[**vim-flood**](https://github.com/heavenshell/vim-flood)|A simple Vim plugin for facebook flow||
 |3|[@hnagato](https://github.com/hnagato)/[**dotfiles**](https://github.com/hnagato/dotfiles)|dotfiles||
 |3|[@ingtk](https://github.com/ingtk)/[**dotfiles**](https://github.com/ingtk/dotfiles)|||
+|3|[@kadoppe](https://github.com/kadoppe)/[**dotfiles**](https://github.com/kadoppe/dotfiles)|My dotfiles.||
+|3|[@kei-s](https://github.com/kei-s)/[**dotfiles**](https://github.com/kei-s/dotfiles)|dotfiles||
 |3|[@mono0x](https://github.com/mono0x)/[**dotfiles**](https://github.com/mono0x/dotfiles)|dotfiles||
+|3|[@nishigori](https://github.com/nishigori)/[**dotfiles**](https://github.com/nishigori/dotfiles)|||
+|3|[@toshimaru](https://github.com/toshimaru)/[**dotfiles**](https://github.com/toshimaru/dotfiles)|My dotfiles. Configure it!||
+|3|[@yuuki](https://github.com/yuuki)/[**dotfiles**](https://github.com/yuuki/dotfiles)|vimrc and zshrc etc||
 

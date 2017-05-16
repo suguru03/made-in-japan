@@ -30,9 +30,9 @@
 |11|[@ayamada](https://github.com/ayamada)/[**op0010**](https://github.com/ayamada/op0010)|おしいれクエスト|[:arrow_upper_right:](http://vnctst.tir.jp/op0010/)|
 |11|[@k2nr](https://github.com/k2nr)/[**docker-clj**](https://github.com/k2nr/docker-clj)|Docker Remote API client library for Clojure||
 |11|[@pasberth](https://github.com/pasberth)/[**granjure**](https://github.com/pasberth/granjure)|Levelheaded, book-smart and is very good with logic.||
+|9|[@athos](https://github.com/athos)/[**Pinpointer**](https://github.com/athos/Pinpointer)|Pinpointer makes it easy to grasp which part of data is violating spec conformance||
 |9|[@hayamiz](https://github.com/hayamiz)/[**prejure**](https://github.com/hayamiz/prejure)|Just for fun.||
 |9|[@liquidz](https://github.com/liquidz)/[**clj-gravatar**](https://github.com/liquidz/clj-gravatar)|gravatar api wrapper for clojure|[:arrow_upper_right:](http://clojars.org/org.clojars.liquidz/clj-gravatar)|
-|8|[@athos](https://github.com/athos)/[**Pinpointer**](https://github.com/athos/Pinpointer)|Pinpointer makes it easy to grasp which part of data is violating spec conformance||
 |8|[@athos](https://github.com/athos)/[**genuine-highlighte…**](https://github.com/athos/genuine-highlighter)|a macro-aware syntax highlighter for Clojure||
 |8|[@athos](https://github.com/athos)/[**syntactic-closure**](https://github.com/athos/syntactic-closure)|syntactic closures built on top of Clojure's macro system||
 |8|[@halcat0x15a](https://github.com/halcat0x15a)/[**cont**](https://github.com/halcat0x15a/cont)|Delimited continuations library||
@@ -48,9 +48,11 @@
 |6|[@athos](https://github.com/athos)/[**parabola**](https://github.com/athos/parabola)|Hubot-like chatbot framework powered by Clojure/core.async||
 |6|[@athos](https://github.com/athos)/[**tetrlang**](https://github.com/athos/tetrlang)|an esoteric language inspired by Tetris||
 |6|[@halcat0x15a](https://github.com/halcat0x15a)/[**cljmacs**](https://github.com/halcat0x15a/cljmacs)|Emacs like editor.||
+|6|[@nyampass](https://github.com/nyampass)/[**BeginningClojure**](https://github.com/nyampass/BeginningClojure)|工学社「はじめてのClojure」のサンプルソースです||
 |6|[@rmoehn](https://github.com/rmoehn)/[**theatralia**](https://github.com/rmoehn/theatralia)|A research notebook for the humanities (discontinued)||
 |6|[@syou6162](https://github.com/syou6162)/[**lda_clj**](https://github.com/syou6162/lda_clj)|Latent Dirichlet Allocation library written in clojure||
 |5|[@ayamada](https://github.com/ayamada)/[**vnctst-audio3**](https://github.com/ayamada/vnctst-audio3)|audio playback library for html5 game||
+|5|[@ayato-p](https://github.com/ayato-p)/[**intro-web-clojure**](https://github.com/ayato-p/intro-web-clojure)|Introduction to web application development in Clojure||
 |5|[@halcat0x15a](https://github.com/halcat0x15a)/[**emerald**](https://github.com/halcat0x15a/emerald)|protocol based monad library||
 |5|[@halcat0x15a](https://github.com/halcat0x15a)/[**one**](https://github.com/halcat0x15a/one)|online text editor|[:arrow_upper_right:](http://onedit.herokuapp.com/)|
 |5|[@halcat0x15a](https://github.com/halcat0x15a)/[**unapply**](https://github.com/halcat0x15a/unapply)|Pattern matching library||
@@ -62,22 +64,22 @@
 |5|[@runexec](https://github.com/runexec)/[**Moov**](https://github.com/runexec/Moov)|(TMDB)The Movie Database API Wrapper||
 |5|[@syou6162](https://github.com/syou6162)/[**hmm-clj**](https://github.com/syou6162/hmm-clj)|||
 |4|[@KeenS](https://github.com/KeenS)/[**s7p**](https://github.com/KeenS/s7p)|sexp version of s6p; a toy SSP.||
+|4|[@athos](https://github.com/athos)/[**admin-kit**](https://github.com/athos/admin-kit)|Admin site as data||
 |4|[@athos](https://github.com/athos)/[**iasm**](https://github.com/athos/iasm)|inline assembly macros for Clojure||
-|4|[@ayato-p](https://github.com/ayato-p)/[**intro-web-clojure**](https://github.com/ayato-p/intro-web-clojure)|Introduction to web application development in Clojure||
 |4|[@dvcrn](https://github.com/dvcrn)/[**vscodecljs**](https://github.com/dvcrn/vscodecljs)|Proof of concept vscode extension in ClojureScript||
 |4|[@gpsoft](https://github.com/gpsoft)/[**othe**](https://github.com/gpsoft/othe)|An Othello-like board game in Clojure.||
 |4|[@k2nr](https://github.com/k2nr)/[**dokkaa-builder**](https://github.com/k2nr/dokkaa-builder)|||
 |4|[@liquidz](https://github.com/liquidz)/[**misaki-markdown**](https://github.com/liquidz/misaki-markdown)|Markdown Compiler for Misaki|[:arrow_upper_right:](http://liquidz.github.io/misaki/)|
-|4|[@nyampass](https://github.com/nyampass)/[**BeginningClojure**](https://github.com/nyampass/BeginningClojure)|工学社「はじめてのClojure」のサンプルソースです||
 |4|[@nyampass](https://github.com/nyampass)/[**halake-api**](https://github.com/nyampass/halake-api)|HaLake API server||
 |4|[@runexec](https://github.com/runexec)/[**reaction**](https://github.com/runexec/reaction)|reactive programming library for Clojure||
 |4|[@runexec](https://github.com/runexec)/[**ufc-clojure**](https://github.com/runexec/ufc-clojure)|UFC Dataset + Clojure||
 |4|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**argparse4clj**](https://github.com/tatsuhiro-t/argparse4clj)|The command line argument parser library for Clojure|[:arrow_upper_right:](http://argparse4clj.sourceforge.net/)|
+|4|[@ympbyc](https://github.com/ympbyc)/[**iclojure-notebook**](https://github.com/ympbyc/iclojure-notebook)|Totally unofficial Clojure/conj hackathon||
 |4|[@ympbyc](https://github.com/ympbyc)/[**reductor**](https://github.com/ympbyc/reductor)|A toy language that shows how simple and elegant the concepts behind concatenative languages are.||
 |3|[@KeenS](https://github.com/KeenS)/[**b11d**](https://github.com/KeenS/b11d)|A toy DSP|[:arrow_upper_right:](http://keens.github.io/slide/ClojuredeDSPwotsukuttahanashi/)|
-|3|[@athos](https://github.com/athos)/[**admin-kit**](https://github.com/athos/admin-kit)|Admin site as data||
 |3|[@athos](https://github.com/athos)/[**lein-with-env-vars…**](https://github.com/athos/lein-with-env-vars)|A Leiningen plugin for performing a task with environment variable settings loaded from project.clj||
 |3|[@ayamada](https://github.com/ayamada)/[**op0015**](https://github.com/ayamada/op0015)|オッサンの冒険||
+|3|[@ayato-p](https://github.com/ayato-p)/[**cljs-othello**](https://github.com/ayato-p/cljs-othello)|ClojureScript で書いたオセロ||
 |3|[@bouzuya](https://github.com/bouzuya)/[**clj-backlog**](https://github.com/bouzuya/clj-backlog)|Backlog API for Clojure (unofficial).||
 |3|[@gpsoft](https://github.com/gpsoft)/[**moo**](https://github.com/gpsoft/moo)|A game like Bulls and Cows, Hit and Blow, or Code Breaker, written in Clojure.||
 |3|[@halcat0x15a](https://github.com/halcat0x15a)/[**pokemiku**](https://github.com/halcat0x15a/pokemiku)|pocket miku||
@@ -92,9 +94,9 @@
 |3|[@maoe](https://github.com/maoe)/[**snmp4clj**](https://github.com/maoe/snmp4clj)|SNMP API for Clojure based on SNMP4J|[:arrow_upper_right:](http://d.hatena.ne.jp/maoe/)|
 |3|[@mopemope](https://github.com/mopemope)/[**clj-crawler**](https://github.com/mopemope/clj-crawler)|2ch crawler written in Clojure.||
 |3|[@mopemope](https://github.com/mopemope)/[**watchdog**](https://github.com/mopemope/watchdog)|Simple Filesystem Event Monitoring||
+|3|[@nyampass](https://github.com/nyampass)/[**clowpay**](https://github.com/nyampass/clowpay)|WebPay API wrapper library for Clojure||
 |3|[@runexec](https://github.com/runexec)/[**concrete**](https://github.com/runexec/concrete)|Clojure symbol to source utility||
 |3|[@runexec](https://github.com/runexec)/[**paramount**](https://github.com/runexec/paramount)|Paramount is a superiority sorter for the Clojure language.||
 |3|[@tnoborio](https://github.com/tnoborio)/[**gomitoban**](https://github.com/tnoborio/gomitoban)|Clojure twitter bot using Google App Engine||
 |3|[@tnoda](https://github.com/tnoda)/[**simple-crypto**](https://github.com/tnoda/simple-crypto)|A Clojure library designed to perform weak string encryption, based on 128-bit AES.||
-|3|[@ympbyc](https://github.com/ympbyc)/[**iclojure-notebook**](https://github.com/ympbyc/iclojure-notebook)|Totally unofficial Clojure/conj hackathon||
 

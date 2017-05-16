@@ -7,15 +7,15 @@
 |127|[@fukamachi](https://github.com/fukamachi)/[**prove**](https://github.com/fukamachi/prove)|Yet another unit testing framework for Common Lisp||
 |120|[@fukamachi](https://github.com/fukamachi)/[**ningle**](https://github.com/fukamachi/ningle)|Super micro framework for Common Lisp|[:arrow_upper_right:](http://8arrow.org/ningle/)|
 |107|[@takagi](https://github.com/takagi)/[**cl-cuda**](https://github.com/takagi/cl-cuda)|Cl-cuda is a library to use NVIDIA CUDA in Common Lisp programs.||
+|95|[@mathematical-systems](https://github.com/mathematical-systems)/[**clml**](https://github.com/mathematical-systems/clml)|Common Lisp Machine Learning Library||
 |92|[@fukamachi](https://github.com/fukamachi)/[**sxql**](https://github.com/fukamachi/sxql)|A SQL generator for Common Lisp.||
-|92|[@mathematical-systems](https://github.com/mathematical-systems)/[**clml**](https://github.com/mathematical-systems/clml)|Common Lisp Machine Learning Library||
 |90|[@fukamachi](https://github.com/fukamachi)/[**qlot**](https://github.com/fukamachi/qlot)|A project-local library installer for Common Lisp||
 |78|[@fukamachi](https://github.com/fukamachi)/[**cl-dbi**](https://github.com/fukamachi/cl-dbi)|Database independent interface for Common Lisp||
 |77|[@fukamachi](https://github.com/fukamachi)/[**cl-project**](https://github.com/fukamachi/cl-project)|Generate modern project skeletons||
 |68|[@fukamachi](https://github.com/fukamachi)/[**dexador**](https://github.com/fukamachi/dexador)|Yet another HTTP client for Common Lisp|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Dexador)|
 |63|[@guicho271828](https://github.com/guicho271828)/[**inlined-generic-fu…**](https://github.com/guicho271828/inlined-generic-function)|Bringing the speed of Static Dispatch to CLOS||
 |62|[@fukamachi](https://github.com/fukamachi)/[**shelly**](https://github.com/fukamachi/shelly)|Make Common Lisp shell-friendly.|[:arrow_upper_right:](shlyfile.org)|
-|54|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**jonathan**](https://github.com/Rudolph-Miller/jonathan)|JSON encoder and decoder.|[:arrow_upper_right:](http://rudolph-miller.github.io/jonathan/overview.html)|
+|60|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**jonathan**](https://github.com/Rudolph-Miller/jonathan)|JSON encoder and decoder.|[:arrow_upper_right:](http://rudolph-miller.github.io/jonathan/overview.html)|
 |54|[@fukamachi](https://github.com/fukamachi)/[**integral**](https://github.com/fukamachi/integral)|An object relational mapper for Common Lisp||
 |54|[@guicho271828](https://github.com/guicho271828)/[**trivia**](https://github.com/guicho271828/trivia)|Pattern Matcher Compatible with Optima||
 |51|[@fukamachi](https://github.com/fukamachi)/[**datafly**](https://github.com/fukamachi/datafly)|A lightweight database library for Common Lisp.||
@@ -41,9 +41,9 @@
 |19|[@fukamachi](https://github.com/fukamachi)/[**psychiq**](https://github.com/fukamachi/psychiq)|Background job processing for Common Lisp||
 |19|[@fukamachi](https://github.com/fukamachi)/[**uncl**](https://github.com/fukamachi/uncl)|Un-Common Lisp on Common Lisp|[:arrow_upper_right:](http://e-arrows.sakura.ne.jp/2010/09/un-common-lisp.html)|
 |19|[@kanendosei](https://github.com/kanendosei)/[**artful-newlisp**](https://github.com/kanendosei/artful-newlisp)|Artful Lisp - newLisp Modules for a variety of things. Finally seeing a few updates in late 2012.|[:arrow_upper_right:](http://kanen.me)|
+|19|[@snmsts](https://github.com/snmsts)/[**daemon**](https://github.com/snmsts/daemon)|daemonize lisp process||
 |18|[@fukamachi](https://github.com/fukamachi)/[**sblint**](https://github.com/fukamachi/sblint)|A linter for Common Lisp source code using SBCL||
 |18|[@joker1007](https://github.com/joker1007)/[**dotfiles**](https://github.com/joker1007/dotfiles)|dotfiles置き場||
-|18|[@snmsts](https://github.com/snmsts)/[**daemon**](https://github.com/snmsts/daemon)|daemonize lisp process||
 |17|[@fukamachi](https://github.com/fukamachi)/[**legion**](https://github.com/fukamachi/legion)|Simple multithreading worker mechanism.|[:arrow_upper_right:](http://gamera.wikia.com/wiki/Legion)|
 |16|[@guicho271828](https://github.com/guicho271828)/[**trivial-signal**](https://github.com/guicho271828/trivial-signal)|UNIX signal handling library for Common Lisp.||
 |15|[@sile](https://github.com/sile)/[**sanmoku**](https://github.com/sile/sanmoku)|A morphological analyzer with a small memory footprint.||
@@ -52,9 +52,9 @@
 |13|[@fukamachi](https://github.com/fukamachi)/[**assoc-utils**](https://github.com/fukamachi/assoc-utils)|Utilities for manipulating association lists.||
 |13|[@guicho271828](https://github.com/guicho271828)/[**asdf-viz**](https://github.com/guicho271828/asdf-viz)|ASDF system dependency visualizer||
 |13|[@guicho271828](https://github.com/guicho271828)/[**eazy-project**](https://github.com/guicho271828/eazy-project)|Boost your development!||
+|13|[@mathematical-systems](https://github.com/mathematical-systems)/[**future**](https://github.com/mathematical-systems/future)|Task-parallelism library for Common Lisp||
 |13|[@sile](https://github.com/sile)/[**h264**](https://github.com/sile/h264)|H.264/AVC parser||
 |12|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**dyna**](https://github.com/Rudolph-Miller/dyna)|Dyna is an AWS DynamoDB ORM for Common Lisp.|[:arrow_upper_right:](http://en.wikipedia.org/wiki/Ultraman_Dyna)|
-|12|[@mathematical-systems](https://github.com/mathematical-systems)/[**future**](https://github.com/mathematical-systems/future)|Task-parallelism library for Common Lisp||
 |11|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**cl-gists**](https://github.com/Rudolph-Miller/cl-gists)|Gists API Wrapper for Common Lisp|[:arrow_upper_right:](https://rudolph-miller.github.io/cl-gists/overview.html)|
 |11|[@kosh04](https://github.com/kosh04)/[**xyzzy-lisp**](https://github.com/kosh04/xyzzy-lisp)|CL/Emacsから移植、あるいは自作したもの||
 |11|[@zick](https://github.com/zick)/[**ZickStandardLisp**](https://github.com/zick/ZickStandardLisp)|Lisp evaluator in the LIsp for Zick's Lisp implementations||
@@ -63,7 +63,9 @@
 |9|[@guicho271828](https://github.com/guicho271828)/[**eazy-gnuplot**](https://github.com/guicho271828/eazy-gnuplot)|Super Duper Doopa Booka Lispy Gnuplot library|[:arrow_upper_right:](http://guicho271828.github.io/eazy-gnuplot/)|
 |9|[@guicho271828](https://github.com/guicho271828)/[**macroexpand-dammit…**](https://github.com/guicho271828/macroexpand-dammit)|a portable code walker for Common Lisp by John Fremlin||
 |9|[@sile](https://github.com/sile)/[**taomp-sbcl**](https://github.com/sile/taomp-sbcl)|A lisp(sbcl) implementation of the algorithms described in 『The Art of Multiprocessor Programming』||
+|9|[@snmsts](https://github.com/snmsts)/[**cserial-port**](https://github.com/snmsts/cserial-port)|serial-port accessing library for common lisp||
 |8|[@pocket7878](https://github.com/pocket7878)/[**Caramel**](https://github.com/pocket7878/Caramel)|Enlive like css selector based html template system||
+|8|[@snmsts](https://github.com/snmsts)/[**cl-langserver**](https://github.com/snmsts/cl-langserver)|intend to be a language-server and more||
 |7|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**clipper**](https://github.com/Rudolph-Miller/clipper)|File attachment library.|[:arrow_upper_right:](http://rudolph-miller.github.io/clipper/overview.html)|
 |7|[@garaemon](https://github.com/garaemon)/[**201510-rosjp**](https://github.com/garaemon/201510-rosjp)|||
 |7|[@guicho271828](https://github.com/guicho271828)/[**eazy-process**](https://github.com/guicho271828/eazy-process)|Yet Another Portable Library for Process Handling / Subshell Invokation||
@@ -113,4 +115,5 @@
 |3|[@takagi](https://github.com/takagi)/[**intel-hex**](https://github.com/takagi/intel-hex)|A library for Common Lisp to handle Intel HEX format, which is a file format that conveys binary information in ASCII text form.||
 |3|[@takagi](https://github.com/takagi)/[**marching-cubes**](https://github.com/takagi/marching-cubes)|A marching cubes implementation based on Paul Bourke's||
 |3|[@tomoyuki28jp](https://github.com/tomoyuki28jp)/[**sml**](https://github.com/tomoyuki28jp/sml)|s-expression markup language||
+|3|[@youz](https://github.com/youz)/[**xl-elvm**](https://github.com/youz/xl-elvm)|EsoLangVM Compiler Infrastructure on xyzzy||
 

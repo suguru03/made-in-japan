@@ -10,8 +10,8 @@
 |70|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Bringing algebras (functors, monads, traversables, &c) to Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
 |59|[@parroty](https://github.com/parroty)/[**exprof**](https://github.com/parroty/exprof)|A simple code profiler for Elixir using eprof.||
 |57|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
+|55|[@keichan34](https://github.com/keichan34)/[**exfile**](https://github.com/keichan34/exfile)|File upload persistence and processing for Phoenix / Plug||
 |54|[@parroty](https://github.com/parroty)/[**oauth2ex**](https://github.com/parroty/oauth2ex)|An OAuth 2.0 client library for elixir.||
-|53|[@keichan34](https://github.com/keichan34)/[**exfile**](https://github.com/keichan34/exfile)|File upload persistence and processing for Phoenix / Plug||
 |51|[@mururu](https://github.com/mururu)/[**mongoex**](https://github.com/mururu/mongoex)|Elixir ODM-like module for MongoDB||
 |48|[@parroty](https://github.com/parroty)/[**exfirebase**](https://github.com/parroty/exfirebase)|An elixir library for accessing the Firebase REST API.||
 |47|[@tuvistavie](https://github.com/tuvistavie)/[**pushex**](https://github.com/tuvistavie/pushex)|Push notifications for Elixir|[:arrow_upper_right:](https://hexdocs.pm/pushex)|
@@ -19,6 +19,7 @@
 |30|[@chatgris](https://github.com/chatgris)/[**funnel**](https://github.com/chatgris/funnel)|Streaming Elixir API built upon ElasticSearch's percolation.||
 |29|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
 |25|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
+|20|[@tatsuya6502](https://github.com/tatsuya6502)/[**recon_ex**](https://github.com/tatsuya6502/recon_ex)|Elixir wrapper for Recon, tools to diagnose Erlang VM safely in production||
 |19|[@parroty](https://github.com/parroty)/[**exprintf**](https://github.com/parroty/exprintf)|A printf / sprintf library for Elixir. It works as a wrapper for :io.format.||
 |18|[@ma2gedev](https://github.com/ma2gedev)/[**breadcrumble_ex**](https://github.com/ma2gedev/breadcrumble_ex)|Elixir lang port of Breadcrumble||
 |18|[@tuvistavie](https://github.com/tuvistavie)/[**elixir-browser**](https://github.com/tuvistavie/elixir-browser)|Browser detection for Elixir|[:arrow_upper_right:](https://hex.pm/packages/browser)|
@@ -37,7 +38,6 @@
 |12|[@tuvistavie](https://github.com/tuvistavie)/[**elixir-git-cli**](https://github.com/tuvistavie/elixir-git-cli)|A simple interface to Git CLI for Elixir|[:arrow_upper_right:](https://hex.pm/packages/git_cli)|
 |12|[@tuvistavie](https://github.com/tuvistavie)/[**plug-navigation-hi…**](https://github.com/tuvistavie/plug-navigation-history)|Elixir plug to keep navigation history|[:arrow_upper_right:](https://hex.pm/packages/navigation_history)|
 |11|[@mururu](https://github.com/mururu)/[**rafute**](https://github.com/mururu/rafute)|An implementation of Raft Consensus Algorithm in Elixir||
-|10|[@tatsuya6502](https://github.com/tatsuya6502)/[**recon_ex**](https://github.com/tatsuya6502/recon_ex)|Elixir wrapper for Recon, tools to diagnose Erlang VM safely in production||
 |10|[@yoavlt](https://github.com/yoavlt)/[**one_signal**](https://github.com/yoavlt/one_signal)|Elixir wrapper of OneSignal||
 |9|[@ma2gedev](https://github.com/ma2gedev)/[**ltsvex**](https://github.com/ma2gedev/ltsvex)|LTSV parser implementation in Elixir||
 |9|[@mururu](https://github.com/mururu)/[**elixir-random**](https://github.com/mururu/elixir-random)|Random for Elixir.||
@@ -60,6 +60,7 @@
 |5|[@yoavlt](https://github.com/yoavlt)/[**tubex**](https://github.com/yoavlt/tubex)|Elixir lightweight wrapper of YouTube Data v3||
 |4|[@chatgris](https://github.com/chatgris)/[**currently**](https://github.com/chatgris/currently)|currently is a tool to display cards currently assigns on Trello.||
 |4|[@expede](https://github.com/expede)/[**inspector_gadget**](https://github.com/expede/inspector_gadget)|Helpers for debugging & inspecting code flow||
+|4|[@keichan34](https://github.com/keichan34)/[**exfile-b2**](https://github.com/keichan34/exfile-b2)|A Backblaze B2 backend for Exfile||
 |4|[@ma2gedev](https://github.com/ma2gedev)/[**netrcex**](https://github.com/ma2gedev/netrcex)|Reads netrc files implemented in Elixir||
 |4|[@niku](https://github.com/niku)/[**petick**](https://github.com/niku/petick)|Periodic timer built on a top of ErlangVM|[:arrow_upper_right:](https://hex.pm/packages/petick)|
 |4|[@parroty](https://github.com/parroty)/[**dynamo_angular**](https://github.com/parroty/dynamo_angular)|Sample AngularJS scaffolding with dynamo and angular-resource backend.||
@@ -70,9 +71,13 @@
 |3|[@i2y](https://github.com/i2y)/[**jet**](https://github.com/i2y/jet)|Jet is a simple OOP, dynamically typed, functional language that runs on the Erlang virtual machine (BEAM). Jet's syntax is Ruby-like syntax.||
 |3|[@i2y](https://github.com/i2y)/[**uiro**](https://github.com/i2y/uiro)|Uiro is a simple object oriented, dynamically typed, functional language that runs on the Erlang virtual machine (BEAM). Uiro's syntax is Ruby-like syntax. Uiro also got influences from Python and Mochi.||
 |3|[@ishikawa](https://github.com/ishikawa)/[**elixir-magic-numbe…**](https://github.com/ishikawa/elixir-magic-number)|MagicNumber is the module to determine a file's type from its magic number.||
+|3|[@keichan34](https://github.com/keichan34)/[**b2_client**](https://github.com/keichan34/b2_client)|Backblaze B2 client for Elixir||
 |3|[@mururu](https://github.com/mururu)/[**elixir-calendar**](https://github.com/mururu/elixir-calendar)|A date and time library for Elixir.||
 |3|[@mururu](https://github.com/mururu)/[**fluent-logger-elix…**](https://github.com/mururu/fluent-logger-elixir)|fluent-logger-elixir||
+|3|[@niku](https://github.com/niku)/[**eloido**](https://github.com/niku/eloido)|Egoido implementation by Elixir||
+|3|[@nithinbekal](https://github.com/nithinbekal)/[**google_books.ex**](https://github.com/nithinbekal/google_books.ex)|An Elixir wrapper to the Google Books API||
 |3|[@parroty](https://github.com/parroty)/[**big_query**](https://github.com/parroty/big_query)|[WIP] Elixir + Google BigQuery Sample||
 |3|[@rramsden](https://github.com/rramsden)/[**mogrify**](https://github.com/rramsden/mogrify)|An Elixir library wrapper around ImageMagick's mogrify utility||
+|3|[@ryo33](https://github.com/ryo33)/[**fwatch-ex**](https://github.com/ryo33/fwatch-ex)|A file watcher for Elixir language||
 |3|[@yoavlt](https://github.com/yoavlt)/[**open_graphx**](https://github.com/yoavlt/open_graphx)|Load HTML based Open Graph Protocol||
 

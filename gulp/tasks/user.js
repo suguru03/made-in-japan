@@ -22,12 +22,13 @@ gulp.task('user:save:all', ['validate'], () => {
   const { token } = process.env;
   const locations = require('../../data/japan.json');
   const info = require(infopath);
-  const index = locations.indexOf(info.current_location);
+  const { current_location: location } = info;
+  const index = location ? locations.indexOf(info.current_location) : 0;
   const array = locations.slice(index).concat(locations.slice(0, index));
   return new MadeIn({ token }).getDevelopers(array)
-    .then(res => {
-      console.log('user:save:all', 'finished', res);
-      info.current_location = res.location;
+    .then(({ location }) => {
+      console.log('user:save:all', 'finished', location);
+      info.current_location = location;
       fs.writeFileSync(infopath, JSON.stringify(info, null, 2), 'utf8');
     });
 });

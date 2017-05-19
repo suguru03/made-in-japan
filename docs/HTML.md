@@ -37,6 +37,7 @@
 |48|[@hail2u](https://github.com/hail2u)/[**jquery.query-yql**](https://github.com/hail2u/jquery.query-yql)|Query YQL simply.|[:arrow_upper_right:](http://hail2u.github.io/jquery.query-yql/)|
 |45|[@sonsongithub](https://github.com/sonsongithub)/[**UZTextView**](https://github.com/sonsongithub/UZTextView)|Clickable and selectable text view for iOS||
 |43|[@akabekobeko](https://github.com/akabekobeko)/[**redmine-theme-mini…**](https://github.com/akabekobeko/redmine-theme-minimalflat2)|Minimal and flat theme for Redmine.||
+|43|[@mzyy94](https://github.com/mzyy94)/[**jekyll-kieta-theme…**](https://github.com/mzyy94/jekyll-kieta-theme)|Clean knowledge sharing jekyll theme|[:arrow_upper_right:](https://poem.mzyy94.com/items/kieta-blog-theme)|
 |40|[@lepture](https://github.com/lepture)/[**lepture.com**](https://github.com/lepture/lepture.com)|My website. (It is not powered by Jekyll)|[:arrow_upper_right:](http://lepture.com)|
 |38|[@gimite](https://github.com/gimite)/[**tweet-search-strea…**](https://github.com/gimite/tweet-search-stream)|Real time Twitter search using Twitter Streaming API, hosted at http://tweet-search-stream.gimite.net/|[:arrow_upper_right:](http://tweet-search-stream.gimite.net/)|
 |35|[@1000ch](https://github.com/1000ch)/[**x-notification**](https://github.com/1000ch/x-notification)|Declarative Browser Notifications as Web Components.|[:arrow_upper_right:](https://1000ch.github.io/x-notification)|
@@ -213,6 +214,7 @@
 |4|[@sanographix](https://github.com/sanographix)/[**illustfolio4**](https://github.com/sanographix/illustfolio4)|The easiest way to make your own portfolio|[:arrow_upper_right:](https://sanographix.github.io/illustfolio4)|
 |4|[@sue445](https://github.com/sue445)/[**idle-recruit-gener…**](https://github.com/sue445/idle-recruit-generator)|アイドル募集ジェネレータ|[:arrow_upper_right:](http://sue445.github.io/idle-recruit-generator/)|
 |4|[@syoyo](https://github.com/syoyo)/[**aobench**](https://github.com/syoyo/aobench)|Automatically exported from code.google.com/p/aobench||
+|4|[@takahashim](https://github.com/takahashim)/[**mastodon-access-to…**](https://github.com/takahashim/mastodon-access-token)|Access Token Generator for Mastodon API|[:arrow_upper_right:](https://takahashim.github.io/mastodon-access-token/)|
 |4|[@team-lab](https://github.com/team-lab)/[**skillup-nodejs**](https://github.com/team-lab/skillup-nodejs)|||
 |4|[@tekezo](https://github.com/tekezo)/[**pqrs.org**](https://github.com/tekezo/pqrs.org)|Source code of http://pqrs.org/||
 |4|[@uribo](https://github.com/uribo)/[**jpndistrict**](https://github.com/uribo/jpndistrict)|🗾 Create Japansese Administration Area Maps|[:arrow_upper_right:](http://uribo.github.io/jpndistrict)|
@@ -224,6 +226,7 @@
 |3|[@MaxMEllon](https://github.com/MaxMEllon)/[**nyaovim-nicolive-c…**](https://github.com/MaxMEllon/nyaovim-nicolive-comment-viewer)|:cat: [JS,VimL] nicolive comment viewer on Nyaovim :dog:||
 |3|[@OkinawaPM](https://github.com/OkinawaPM)/[**OkinawaPM.github.i…**](https://github.com/OkinawaPM/OkinawaPM.github.io)|Okinawa.pm Web Site||
 |3|[@YasuakiHonda](https://github.com/YasuakiHonda)/[**Maxima-on-Android-…**](https://github.com/YasuakiHonda/Maxima-on-Android-AS)|Maxima on Android imported to Android Studio||
+|3|[@axross](https://github.com/axross)/[**axross.io**](https://github.com/axross/axross.io)|Source of my own website|[:arrow_upper_right:](https://axross.io/)|
 |3|[@clicktx](https://github.com/clicktx)/[**jquery-vimize**](https://github.com/clicktx/jquery-vimize)|webサイトをvim化するjQueryプラグイン||
 |3|[@codeforchiba](https://github.com/codeforchiba)/[**code4chiba.org**](https://github.com/codeforchiba/code4chiba.org)||[:arrow_upper_right:](http://code4chiba.org/)|
 |3|[@codelibs](https://github.com/codelibs)/[**cl-struts**](https://github.com/codelibs/cl-struts)|CodeLibsがサポートするStruts 1.2.9です。||
@@ -254,6 +257,7 @@
 |3|[@morizyun](https://github.com/morizyun)/[**morizyun.github.io…**](https://github.com/morizyun/morizyun.github.io)|||
 |3|[@mrkn](https://github.com/mrkn)/[**ruby-dlib**](https://github.com/mrkn/ruby-dlib)|||
 |3|[@myakura](https://github.com/myakura)/[**pachystachys**](https://github.com/myakura/pachystachys)|slides for Web Platform specs (HTML, CSS, APIs) updates||
+|3|[@mzyy94](https://github.com/mzyy94)/[**poem**](https://github.com/mzyy94/poem)|ポエム|[:arrow_upper_right:](https://poem.mzyy94.com)|
 |3|[@nanakochi123456](https://github.com/nanakochi123456)/[**sakuramml_isischan…**](https://github.com/nanakochi123456/sakuramml_isischan)| Give Me Merorin by ISIL48||
 |3|[@nonylene](https://github.com/nonylene)/[**MackerelAgentAndro…**](https://github.com/nonylene/MackerelAgentAndroid)|mackerel-agent for Android||
 |3|[@noradaiko](https://github.com/noradaiko)/[**frosted-top-bar-ex…**](https://github.com/noradaiko/frosted-top-bar-example)|an example of iOS like frosted blurry-styled top-bar on the web ||

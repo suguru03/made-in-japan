@@ -1,5 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
+|46|[@r7kamura](https://github.com/r7kamura)/[**mastodon-terraform…**](https://github.com/r7kamura/mastodon-terraform)|Boilerplate for running Mastodon on AWS using Terraform and CircleCI.||
 |13|[@knakayama](https://github.com/knakayama)/[**aws-terraform-play…**](https://github.com/knakayama/aws-terraform-playground)|terraform examples on AWS||
 |9|[@freedomofkeima](https://github.com/freedomofkeima)/[**terraform-docker-e…**](https://github.com/freedomofkeima/terraform-docker-ecs)|Manage your ASG + ECS Cluster (Docker) with Terraform||
 |6|[@knakayama](https://github.com/knakayama)/[**terraform-circleci…**](https://github.com/knakayama/terraform-circleci-demo)|||

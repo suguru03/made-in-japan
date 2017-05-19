@@ -175,6 +175,7 @@
 |22|[@tanakh](https://github.com/tanakh)/[**waf-unittest**](https://github.com/tanakh/waf-unittest)|Yet Another Waf Unittest Module|[:arrow_upper_right:](http://github.com/tanakh)|
 |22|[@yusuketomoto](https://github.com/yusuketomoto)/[**ofxCGAL**](https://github.com/yusuketomoto/ofxCGAL)|CGAL 4.3 addon for openFrameworks||
 |21|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxRetroPixel**](https://github.com/Akira-Hayasaka/ofxRetroPixel)|addon for converting hi-res screen to low-res retro pixel (like 70's pong game)||
+|21|[@Ushio](https://github.com/Ushio)/[**KDTreeBasic**](https://github.com/Ushio/KDTreeBasic)|||
 |21|[@daitomanabe](https://github.com/daitomanabe)/[**ofxChoreograph**](https://github.com/daitomanabe/ofxChoreograph)|David Wicks's Timeline animation Choreograph packaged as an openFrameworks addon||
 |21|[@hanasaan](https://github.com/hanasaan)/[**ofxEquiMap**](https://github.com/hanasaan/ofxEquiMap)|OF addon for Equirectangular Projection Rendering||
 |21|[@imos](https://github.com/imos)/[**nineserver**](https://github.com/imos/nineserver)|HTTP server to develop a web app in C++ easily||
@@ -490,6 +491,7 @@
 |5|[@GRGSIBERIA](https://github.com/GRGSIBERIA)/[**TinyCL**](https://github.com/GRGSIBERIA/TinyCL)|OpenCL Tiny Wrapper||
 |5|[@KengoSawa2](https://github.com/KengoSawa2)/[**RapidCopy**](https://github.com/KengoSawa2/RapidCopy)|RapidCopy is portable version of FastCopy that runs GNU/Linux.||
 |5|[@RKX1209](https://github.com/RKX1209)/[**Dnscript**](https://github.com/RKX1209/Dnscript)|Dnscript is specific scripting language specializing to build the "danmaku" in shooting game.||
+|5|[@Ushio](https://github.com/Ushio)/[**WaveSolver**](https://github.com/Ushio/WaveSolver)|||
 |5|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**dmxTouchDesigner**](https://github.com/YCAMInterlab/dmxTouchDesigner)||[:arrow_upper_right:](interlab.ycam.jp)|
 |5|[@YuuichiAkagawa](https://github.com/YuuichiAkagawa)/[**Arduino-AOA2**](https://github.com/YuuichiAkagawa/Arduino-AOA2)|Android AOA2.0(ADK2) for Arduino||
 |5|[@a4lg](https://github.com/a4lg)/[**ffuzzypp**](https://github.com/a4lg/ffuzzypp)|C++ implementation of ssdeep-compatible fast fuzzy hashing||
@@ -646,6 +648,7 @@
 |4|[@zophos](https://github.com/zophos)/[**Rim**](https://github.com/zophos/Rim)|Rim is Ruby IMage processing library for Cygwin.||
 |3|[@0x0c](https://github.com/0x0c)/[**Perevod**](https://github.com/0x0c/Perevod)|Pervod, a image communicator.||
 |3|[@1995hnagamin](https://github.com/1995hnagamin)/[**girl**](https://github.com/1995hnagamin/girl)|Global InfoRmation Library||
+|3|[@2bbb](https://github.com/2bbb)/[**ofxCircleMenuButto…**](https://github.com/2bbb/ofxCircleMenuButton)|simple launcher gui||
 |3|[@2bbb](https://github.com/2bbb)/[**ofxDummyCursor**](https://github.com/2bbb/ofxDummyCursor)|if your Mac doesn't show us cursor.||
 |3|[@2bbb](https://github.com/2bbb)/[**ofxLambdaEvent**](https://github.com/2bbb/ofxLambdaEvent)|we don't want to do static_cast explicitly.||
 |3|[@2bbb](https://github.com/2bbb)/[**ofxMath**](https://github.com/2bbb/ofxMath)|||
@@ -718,6 +721,7 @@
 |3|[@mactkg](https://github.com/mactkg)/[**ofxThreadedGifLoad…**](https://github.com/mactkg/ofxThreadedGifLoader)|An addon for loading gif animations with threading||
 |3|[@mah0x211](https://github.com/mah0x211)/[**node-clearsilver**](https://github.com/mah0x211/node-clearsilver)|ClearSilver template engine bindings for node.js||
 |3|[@mah0x211](https://github.com/mah0x211)/[**node-ossp-uuid**](https://github.com/mah0x211/node-ossp-uuid)|OSSP uuid bindings for node.js||
+|3|[@makoto-unity](https://github.com/makoto-unity)/[**akaze2affine**](https://github.com/makoto-unity/akaze2affine)|Matching using affineEstimate3D and Akaze||
 |3|[@marionette-of-u](https://github.com/marionette-of-u)/[**cpp_multi_precisio…**](https://github.com/marionette-of-u/cpp_multi_precision)|||
 |3|[@marionette-of-u](https://github.com/marionette-of-u)/[**paper_cutter**](https://github.com/marionette-of-u/paper_cutter)|c++ lexer generator.||
 |3|[@masanori840816](https://github.com/masanori840816)/[**SetMaterialsFromGa…**](https://github.com/masanori840816/SetMaterialsFromGallery)|Call Android Native Plugins from a Unity Project||
@@ -737,6 +741,7 @@
 |3|[@naoa](https://github.com/naoa)/[**string-splitter**](https://github.com/naoa/string-splitter)|||
 |3|[@naoyam](https://github.com/naoyam)/[**MemoryTracer-pinto…**](https://github.com/naoyam/MemoryTracer-pintool)|||
 |3|[@nariakiiwatani](https://github.com/nariakiiwatani)/[**ofxKeyframeTween**](https://github.com/nariakiiwatani/ofxKeyframeTween)|openFrameworks addon for keyframe tween animation||
+|3|[@nariakiiwatani](https://github.com/nariakiiwatani)/[**ofxSearchNetworkNo…**](https://github.com/nariakiiwatani/ofxSearchNetworkNode)|Searching and listing up nodes on networks.||
 |3|[@nariakiiwatani](https://github.com/nariakiiwatani)/[**ofxSkinnedMesh**](https://github.com/nariakiiwatani/ofxSkinnedMesh)|||
 |3|[@norishigefukushima](https://github.com/norishigefukushima)/[**DepthMapCompressio…**](https://github.com/norishigefukushima/DepthMapCompression)|OpenCV based depth map compression app.|[:arrow_upper_right:](http://fukushima.web.nitech.ac.jp/research/dpf/)|
 |3|[@norishigefukushima](https://github.com/norishigefukushima)/[**nonLocalMeans**](https://github.com/norishigefukushima/nonLocalMeans)|non-local means filter for OpenCV||
@@ -761,6 +766,7 @@
 |3|[@shugo](https://github.com/shugo)/[**ETDCtrlKiller**](https://github.com/shugo/ETDCtrlKiller)|A tool to start and kill ETDCtrl.exe on startup and resume||
 |3|[@sile](https://github.com/sile)/[**cc-hamt**](https://github.com/sile/cc-hamt)|An implementation of Hash Array Mapped Trie.||
 |3|[@sile](https://github.com/sile)/[**ham**](https://github.com/sile/ham)|A N-gram based Bayesian filter||
+|3|[@sile](https://github.com/sile)/[**sais**](https://github.com/sile/sais)|An implementation of SA-IS algorithm.||
 |3|[@smellman](https://github.com/smellman)/[**tle**](https://github.com/smellman/tle)|||
 |3|[@soramimi](https://github.com/soramimi)/[**SkyMPC**](https://github.com/soramimi/SkyMPC)|an MPD client|[:arrow_upper_right:](http://www.soramimi.jp/skympc/index.html)|
 |3|[@spiritloose](https://github.com/spiritloose)/[**Compress-Zstd**](https://github.com/spiritloose/Compress-Zstd)|Perl interface to the Zstd (Zstandard) (de)compressor||

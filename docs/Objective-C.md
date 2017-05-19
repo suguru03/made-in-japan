@@ -72,6 +72,7 @@
 |156|[@hetima](https://github.com/hetima)/[**SafariStand**](https://github.com/hetima/SafariStand)|SIMBL plugin for Safari||
 |154|[@onevcat](https://github.com/onevcat)/[**VVImageTint**](https://github.com/onevcat/VVImageTint)|UIImage category  for image tint. For my blog post http://onevcat.com/2013/04/using-blending-in-ios/||
 |153|[@onevcat](https://github.com/onevcat)/[**VCTransitionDemo**](https://github.com/onevcat/VCTransitionDemo)|A simple demo indicates how to make a custom view controller transition in iOS 7||
+|149|[@1amageek](https://github.com/1amageek)/[**PaperKit**](https://github.com/1amageek/PaperKit)|PaperKit is like Paper app of Facebook||
 |149|[@r-plus](https://github.com/r-plus)/[**AAPullToRefresh**](https://github.com/r-plus/AAPullToRefresh)|All around pull to refresh library.||
 |148|[@hanks](https://github.com/hanks)/[**HHKBAssistant_for_…**](https://github.com/hanks/HHKBAssistant_for_mac)|A funny helper tool for HHKB professional keyboard on mac. Its main job is that it can auto detect the HHKB professional keyboard plugged in and out, and do some actions you want.||
 |146|[@inamiy](https://github.com/inamiy)/[**YISplashScreen**](https://github.com/inamiy/YISplashScreen)|Easy splash screen + animation maker for iOS5+.|[:arrow_upper_right:](http://www.moongift.jp/2012/09/20120909-2/)|
@@ -564,6 +565,7 @@
 |7|[@yoshiki](https://github.com/yoshiki)/[**YKNavigationContro…**](https://github.com/yoshiki/YKNavigationControllerTransition)|||
 |7|[@zaki](https://github.com/zaki)/[**news**](https://github.com/zaki/news)|Sample news reader application for iOS||
 |6|[@2bbb](https://github.com/2bbb)/[**ofxObjective-C--Ut…**](https://github.com/2bbb/ofxObjective-C--Utility)|Utility for using openframeworks with Objective-C++||
+|6|[@AdamT](https://github.com/AdamT)/[**AngryBirdHappyPig**](https://github.com/AdamT/AngryBirdHappyPig)|A simple tribute to a really popular mobile game (iOS app)|[:arrow_upper_right:](http://adamtal.me/2013/07/28/biting-angrybirds-style/)|
 |6|[@FLCLjp](https://github.com/FLCLjp)/[**OpenAround**](https://github.com/FLCLjp/OpenAround)|Simple place search iPhone application. Just like the Around Me.|[:arrow_upper_right:](http://FLCL.jp)|
 |6|[@Ushio](https://github.com/Ushio)/[**ShaderToyForiOS**](https://github.com/Ushio/ShaderToyForiOS)|ShaderToy(https://www.shadertoy.com/)  shader run on iOS||
 |6|[@asus4](https://github.com/asus4)/[**UnityKonashi**](https://github.com/asus4/UnityKonashi)|konashi unity wrapper||
@@ -600,6 +602,7 @@
 |6|[@yujinakayama](https://github.com/yujinakayama)/[**alfred-itunes-airp…**](https://github.com/yujinakayama/alfred-itunes-airplay)|iTunes AirPlay Control for Alfred||
 |6|[@zentooo](https://github.com/zentooo)/[**SmallBridge**](https://github.com/zentooo/SmallBridge)|Simple bridge (between JavaScript and UIWebView on iOS) and (between JavaScript and WebView on Android)||
 |5|[@0x0c](https://github.com/0x0c)/[**CutomImagePickerCo…**](https://github.com/0x0c/CutomImagePickerController)|can tap-focus with showCameraControls disable||
+|5|[@1amageek](https://github.com/1amageek)/[**PaperKit-Camera**](https://github.com/1amageek/PaperKit-Camera)|PaperKit + Camera is a super cool user interface that has integrated the camera to the UI of Paper.|[:arrow_upper_right:](https://github.com/1amageek/PaperKit-Camera)|
 |5|[@TakahikoKawasaki](https://github.com/TakahikoKawasaki)/[**nv-ios-version**](https://github.com/TakahikoKawasaki/nv-ios-version)|An Objective-C class that represents version information, mainly for handling iOS version at runtime easily.||
 |5|[@ainame](https://github.com/ainame)/[**AMEURLSession**](https://github.com/ainame/AMEURLSession)|AMEURLSession provide the simple and customizable interface of NSURLSession family classes to easy using. ||
 |5|[@akuraru](https://github.com/akuraru)/[**AKUTestKit**](https://github.com/akuraru/AKUTestKit)|This is randomly generated strings, date, number, etc.||
@@ -760,6 +763,7 @@
 |3|[@2bbb](https://github.com/2bbb)/[**TBT**](https://github.com/2bbb/TBT)|||
 |3|[@2bbb](https://github.com/2bbb)/[**ofxCoreMIDI**](https://github.com/2bbb/ofxCoreMIDI)|Using CoreMIDI with openframeworks in OSX||
 |3|[@2bbb](https://github.com/2bbb)/[**ofxiSocial**](https://github.com/2bbb/ofxiSocial)|Simple SNS Share for openframeworks on iOS||
+|3|[@AdamT](https://github.com/AdamT)/[**TeaTacToe**](https://github.com/AdamT/TeaTacToe)|Tic Tac Toe, a tic tac toe iOS app|[:arrow_upper_right:](http://adamtal.me/2013/08/13/tic-tac-toe-app/)|
 |3|[@Apolotary](https://github.com/Apolotary)/[**UltimageSharer**](https://github.com/Apolotary/UltimageSharer)|Ultimate image sharer for social networks||
 |3|[@EZ-NET](https://github.com/EZ-NET)/[**EzSample_iOS_OpenG…**](https://github.com/EZ-NET/EzSample_iOS_OpenGLES_MonoImage)|Convert UIImage to monotone color image by OpenGL ES 2.0 Fragment Shader.||
 |3|[@FLCLjp](https://github.com/FLCLjp)/[**WebSiteScreenCaptu…**](https://github.com/FLCLjp/WebSiteScreenCapture)|Generate website screen capture using UIWebView in  iOS.||
@@ -892,6 +896,7 @@
 |3|[@studio-ousia](https://github.com/studio-ousia)/[**linkify-sample-ios…**](https://github.com/studio-ousia/linkify-sample-ios)|A sample application of Linkify for iOS|[:arrow_upper_right:](http://www.linkify.mobi)|
 |3|[@taktamur](https://github.com/taktamur)/[**geohex_iphonesampl…**](https://github.com/taktamur/geohex_iphonesample)|GeoHex porting Objective-C(iOS)||
 |3|[@tek-nishi](https://github.com/tek-nishi)/[**EmojiEverywhere**](https://github.com/tek-nishi/EmojiEverywhere)|Use iPhone's Emoji Everywhere.|[:arrow_upper_right:](http://blog.livedoor.jp/tek_nishi/)|
+|3|[@tekezo](https://github.com/tekezo)/[**AXAlert**](https://github.com/tekezo/AXAlert)|AXAlert shows an alert message when "access for assistive devices" is enabled.||
 |3|[@tnantoka](https://github.com/tnantoka)/[**AdFooter**](https://github.com/tnantoka/AdFooter)|Show iAd and Admob on your footer, written in Swift.||
 |3|[@tnantoka](https://github.com/tnantoka)/[**BNIndicator**](https://github.com/tnantoka/BNIndicator)|Very simple loading view for iOS. (Wrapper of UIActivityIndicatorView)||
 |3|[@tnantoka](https://github.com/tnantoka)/[**EDHFontSelector**](https://github.com/tnantoka/EDHFontSelector)|Font settings interface for iOS, developed for Edhita.|[:arrow_upper_right:](http://edhita.bornneet.com/)|

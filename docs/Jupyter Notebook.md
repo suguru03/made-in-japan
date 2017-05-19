@@ -27,6 +27,7 @@
 |4|[@hagino3000](https://github.com/hagino3000)/[**notebooks**](https://github.com/hagino3000/notebooks)|My Jupyter notebooks||
 |4|[@kasajei](https://github.com/kasajei)/[**PythonMachineLearn…**](https://github.com/kasajei/PythonMachineLearning)|PythonMachineLearningを学んでいこうと思います||
 |4|[@sinhrks](https://github.com/sinhrks)/[**chainer-parallel-e…**](https://github.com/sinhrks/chainer-parallel-examples)|||
+|3|[@Hironsan](https://github.com/Hironsan)/[**DeepClassification…**](https://github.com/Hironsan/DeepClassification)|Text classification meets word embeddings.||
 |3|[@domitry](https://github.com/domitry)/[**nyaplot-notebooks**](https://github.com/domitry/nyaplot-notebooks)|examples of nyaplot||
 |3|[@himkt](https://github.com/himkt)/[**notebooks**](https://github.com/himkt/notebooks)|My notebooks which were made for experiments||
 |3|[@kasajei](https://github.com/kasajei)/[**portfolio**](https://github.com/kasajei/portfolio)|ポートフォリオを最適化しよう！||
@@ -36,6 +37,7 @@
 |3|[@naotokui](https://github.com/naotokui)/[**ChainerPainter**](https://github.com/naotokui/ChainerPainter)|Image Regression in Chainer||
 |3|[@nayutaya](https://github.com/nayutaya)/[**tensorflow-rnn-sin…**](https://github.com/nayutaya/tensorflow-rnn-sin)|||
 |3|[@takuti](https://github.com/takuti)/[**incremental-sgd**](https://github.com/takuti/incremental-sgd)|Incremental matrix factorization with incremental SGD algorithm [J. Vinagre, et al., 2014]||
+|3|[@takuti](https://github.com/takuti)/[**stream-anomaly-det…**](https://github.com/takuti/stream-anomaly-detect)|Implementation of algorithms proposed by [Huang and Kasiviswanathan]||
 |3|[@takuti](https://github.com/takuti)/[**stream-feature-sel…**](https://github.com/takuti/stream-feature-selection)|Implementation of unsupervised feature selection algorithm proposed by [Huang, et al. 2015]||
 |3|[@ugo-nama-kun](https://github.com/ugo-nama-kun)/[**pydata_okinawa2017…**](https://github.com/ugo-nama-kun/pydata_okinawa2017)|||
 

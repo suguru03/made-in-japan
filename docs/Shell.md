@@ -64,6 +64,7 @@
 |34|[@hnakamur](https://github.com/hnakamur)/[**my-packer-template…**](https://github.com/hnakamur/my-packer-template-files)|This project is deprecated. Now I use boxes by https://github.com/boxcutter||
 |33|[@syoyo](https://github.com/syoyo)/[**docker-utils**](https://github.com/syoyo/docker-utils)|Docker utilities||
 |32|[@gongo](https://github.com/gongo)/[**pecrant**](https://github.com/gongo/pecrant)|Vagrant global-status and box controller for peco||
+|32|[@hnakamur](https://github.com/hnakamur)/[**mastodon-ansible-p…**](https://github.com/hnakamur/mastodon-ansible-playbook)|さくらのVPSでmastodonをセットアップするAnsibleプレイブック||
 |32|[@making](https://github.com/making)/[**spring-boot-docker…**](https://github.com/making/spring-boot-docker-blank)|Spring Boot + Docker blank project||
 |32|[@minimum2scp](https://github.com/minimum2scp)/[**dockerfiles**](https://github.com/minimum2scp/dockerfiles)|Collection of Dockerfiles|[:arrow_upper_right:](https://registry.hub.docker.com/repos/minimum2scp/)|
 |32|[@tekezo](https://github.com/tekezo)/[**NoEjectDelay**](https://github.com/tekezo/NoEjectDelay)|NoEjectDelay clears the eject key delay. Use this software when you change the eject key behavior in KeyRemap4MacBook.  |[:arrow_upper_right:](https://pqrs.org/macosx/keyremap4macbook/extra.html)|
@@ -522,6 +523,7 @@
 |3|[@mitsugu](https://github.com/mitsugu)/[**BashDrop**](https://github.com/mitsugu/BashDrop)|||
 |3|[@mitukiii](https://github.com/mitukiii)/[**dotfiles**](https://github.com/mitukiii/dotfiles)|dotfiles||
 |3|[@nabeken](https://github.com/nabeken)/[**docker-smtp-sink**](https://github.com/nabeken/docker-smtp-sink)|Docker container for smtp-sink||
+|3|[@nabeken](https://github.com/nabeken)/[**radvd-ra-relay-scr…**](https://github.com/nabeken/radvd-ra-relay-scripts)|tiny scripts for generating radvd.conf||
 |3|[@naota](https://github.com/naota)/[**portage-overlay**](https://github.com/naota/portage-overlay)|Contain (maybe) fixed ebuilds.||
 |3|[@nemasu](https://github.com/nemasu)/[**OpCheck**](https://github.com/nemasu/OpCheck)|Scan binaries for various opcodes.||
 |3|[@nemasu](https://github.com/nemasu)/[**helloworld**](https://github.com/nemasu/helloworld)|Hello World in a few languages.||
@@ -529,9 +531,11 @@
 |3|[@neubig](https://github.com/neubig)/[**wat2014**](https://github.com/neubig/wat2014)|Scripts for creating a system similar to the NAIST submission to WAT2014||
 |3|[@nicolas-raoul](https://github.com/nicolas-raoul)/[**wikivoyage2osm**](https://github.com/nicolas-raoul/wikivoyage2osm)|Extract POI information from Wikivoyage|[:arrow_upper_right:](http://datahub.io/organization/wikivoyage)|
 |3|[@nobuoka](https://github.com/nobuoka)/[**android-GoogleDriv…**](https://github.com/nobuoka/android-GoogleDriveSample)|||
+|3|[@nobuoka](https://github.com/nobuoka)/[**shino**](https://github.com/nobuoka/shino)|||
 |3|[@nyarla](https://github.com/nyarla)/[**zsh-theme-nerdish**](https://github.com/nyarla/zsh-theme-nerdish)|A prompt theme for zsh with Nerd Fonts||
 |3|[@okinawarb](https://github.com/okinawarb)/[**minecraft-server**](https://github.com/okinawarb/minecraft-server)|MineCraft Server for Okinawa.rb|[:arrow_upper_right:](180.235.230.179)|
 |3|[@pasberth](https://github.com/pasberth)/[**slipd**](https://github.com/pasberth/slipd)|cd ../../.. とかするのが嫌||
+|3|[@pine](https://github.com/pine)/[**ndenv-yarn-install…**](https://github.com/pine/ndenv-yarn-install)|:zap: Automatically install Yarn after ndenv install||
 |3|[@polamjag](https://github.com/polamjag)/[**.dotfiles**](https://github.com/polamjag/.dotfiles)|what is called dotfiles||
 |3|[@ppworks](https://github.com/ppworks)/[**dotfiles**](https://github.com/ppworks/dotfiles)|||
 |3|[@rakshasa](https://github.com/rakshasa)/[**rtorrent-vagrant**](https://github.com/rakshasa/rtorrent-vagrant)|Test environment for rtorrent using Vagrant.||

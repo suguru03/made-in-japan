@@ -125,6 +125,7 @@
 |14|[@kiwanami](https://github.com/kiwanami)/[**emacs-cacoo**](https://github.com/kiwanami/emacs-cacoo)|Minor mode for Cacoo (http://cacoo.com)||
 |14|[@mhayashi1120](https://github.com/mhayashi1120)/[**Emacs-image-diredx…**](https://github.com/mhayashi1120/Emacs-image-diredx)|image-dired extension||
 |14|[@myuhe](https://github.com/myuhe)/[**calfw-gcal.el**](https://github.com/myuhe/calfw-gcal.el)|||
+|14|[@syohex](https://github.com/syohex)/[**emacs-ac-alchemist…**](https://github.com/syohex/emacs-ac-alchemist)|auto-complete source of alchemist||
 |14|[@syohex](https://github.com/syohex)/[**emacs-helm-github-…**](https://github.com/syohex/emacs-helm-github-issues)|github issues with helm interface||
 |14|[@tarao](https://github.com/tarao)/[**bundle-el**](https://github.com/tarao/bundle-el)|An el-get wrapper||
 |14|[@zk-phi](https://github.com/zk-phi)/[**electric-case**](https://github.com/zk-phi/electric-case)|[emacs] insert camelCase, snake_case words without "Shift"ing||
@@ -349,4 +350,5 @@
 |3|[@zk-phi](https://github.com/zk-phi)/[**git-complete**](https://github.com/zk-phi/git-complete)|[Emacs] auto completion using `git grep` as the source||
 |3|[@zk-phi](https://github.com/zk-phi)/[**phi-autopair**](https://github.com/zk-phi/phi-autopair)|[emacs] anohter simple-minded autopiar||
 |3|[@zk-phi](https://github.com/zk-phi)/[**phi-search-migemo**](https://github.com/zk-phi/phi-search-migemo)|[emacs] migemo extension for phi-search||
+|3|[@znz](https://github.com/znz)/[**dot-emacs**](https://github.com/znz/dot-emacs)|my emacs config||
 

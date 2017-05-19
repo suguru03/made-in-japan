@@ -185,6 +185,7 @@
 |16|[@snaka](https://github.com/snaka)/[**cyg-apt**](https://github.com/snaka/cyg-apt)|apt-get like package manager for Cygwin. Forked from http://lilypond.org/~janneke/software/  |[:arrow_upper_right:](http://d.hatena.ne.jp/snaka72/)|
 |16|[@uzulla](https://github.com/uzulla)/[**how_to_setup_path_…**](https://github.com/uzulla/how_to_setup_path_on_windows)|色んなWindowsに環境変数のPathを設定する方法||
 |15|[@MakeNowJust](https://github.com/MakeNowJust)/[**sushi-ware**](https://github.com/MakeNowJust/sushi-ware)|:sushi: "THE SUSHI-WARE LICENSE"|[:arrow_upper_right:](https://git.io/sushi-ware)|
+|15|[@cookpad](https://github.com/cookpad)/[**2018-newgrads-engi…**](https://github.com/cookpad/2018-newgrads-engineer-portfolio)|クックパッド 2018 年度新卒採用選考エントリーシート提出方法と、その時に利用するファイル一式です。|[:arrow_upper_right:](https://recruit.cookpad.com/2018)|
 |15|[@hiloki](https://github.com/hiloki)/[**spacer**](https://github.com/hiloki/spacer)|Just a space.||
 |15|[@j1wu](https://github.com/j1wu)/[**read-the-source**](https://github.com/j1wu/read-the-source)|Explore the magic behind things via debugging||
 |15|[@kawanet](https://github.com/kawanet)/[**social-library-ios…**](https://github.com/kawanet/social-library-ios5)|Social Library for iOS5||
@@ -338,6 +339,7 @@
 |8|[@cookpad](https://github.com/cookpad)/[**engineer-portfolio…**](https://github.com/cookpad/engineer-portfolio)|クックパッド 2016 インターンの応募方法と、その時に利用するファイル一式です。||
 |8|[@geta6](https://github.com/geta6)/[**result**](https://github.com/geta6/result)|戦果resultが上がったネー||
 |8|[@groonga](https://github.com/groonga)/[**meetup**](https://github.com/groonga/meetup)|Repository for Groonga meetup||
+|8|[@guicho271828](https://github.com/guicho271828)/[**common-lisp-projec…**](https://github.com/guicho271828/common-lisp-project-ideas)|Discuss future project ideas||
 |8|[@kaminogoya](https://github.com/kaminogoya)/[**scss-corner-ribbon…**](https://github.com/kaminogoya/scss-corner-ribbon)|SCSS Corner Ribbon||
 |8|[@kmc-jp](https://github.com/kmc-jp)/[**git_hands_on**](https://github.com/kmc-jp/git_hands_on)|イケイケなgit 講座||
 |8|[@knu](https://github.com/knu)/[**imedic-shogi**](https://github.com/knu/imedic-shogi)|Shogi terminology dictionary for Japanese input method editors|[:arrow_upper_right:](http://idaemons.org/projects/shogidic/)|
@@ -711,6 +713,7 @@
 |4|[@yewton](https://github.com/yewton)/[**zabbix-kafka-templ…**](https://github.com/yewton/zabbix-kafka-template)|||
 |4|[@yosssi](https://github.com/yosssi)/[**ace-tmbundle**](https://github.com/yosssi/ace-tmbundle)|Ace TextMate/Sublime Text Bundle||
 |4|[@youz](https://github.com/youz)/[**coco-mode**](https://github.com/youz/coco-mode)|Coco用メジャーモード for xyzzy||
+|4|[@zchee](https://github.com/zchee)/[**nvim-lsp**](https://github.com/zchee/nvim-lsp)|A Language Server Protocol(LSP) plugin for Neovim written in Go||
 |4|[@zigorou](https://github.com/zigorou)/[**lex_yacc_howto**](https://github.com/zigorou/lex_yacc_howto)|||
 |4|[@znz](https://github.com/znz)/[**ansible-role-githu…**](https://github.com/znz/ansible-role-github-users)|Setup users with github users' ssh keys||
 |3|[@ArcCosine](https://github.com/ArcCosine)/[**operakeyboard**](https://github.com/ArcCosine/operakeyboard)|ArcCosine's Opera Keyboard ini repos|[:arrow_upper_right:](http://looxu.blogspot.com/)|
@@ -873,6 +876,7 @@
 |3|[@miyamuko](https://github.com/miyamuko)/[**xml-http-request**](https://github.com/miyamuko/xml-http-request)|xml-http-request - 同期・非同期をサポートした HTTP 通信ライブラリ|[:arrow_upper_right:](http://miyamuko.s56.xrea.com/xyzzy/xml-http-request/intro.htm)|
 |3|[@mkouhei](https://github.com/mkouhei)/[**playbook-slapd**](https://github.com/mkouhei/playbook-slapd)|example playbook with ansible-ldap module||
 |3|[@mokehehe](https://github.com/mokehehe)/[**reversi**](https://github.com/mokehehe/reversi)|monte calro reversi in Haskell||
+|3|[@mollifier](https://github.com/mollifier)/[**github-practice**](https://github.com/mollifier/github-practice)|GitHub練習用リポジトリ。公開リポジトリです。||
 |3|[@mono0x](https://github.com/mono0x)/[**xinput-hsp**](https://github.com/mono0x/xinput-hsp)|A XInput wrapper for HSP||
 |3|[@monsat](https://github.com/monsat)/[**PluginManager**](https://github.com/monsat/PluginManager)|||
 |3|[@motchie](https://github.com/motchie)/[**mtfs**](https://github.com/motchie/mtfs)|Movable Type as a File System||
@@ -915,6 +919,7 @@
 |3|[@recruitcojp](https://github.com/recruitcojp)/[**RCtoolsUDF**](https://github.com/recruitcojp/RCtoolsUDF)|Recruitで利用しているhiveユーザ定義関数（UDF）の中から汎用的なものをセレクト||
 |3|[@rewish](https://github.com/rewish)/[**CakePHP-DataShell**](https://github.com/rewish/CakePHP-DataShell)|CakePHP - Data (im|ex)port shell|[:arrow_upper_right:](http://rewish.org/php_mysql/cakephp_data_shell)|
 |3|[@riseshia](https://github.com/riseshia)/[**til**](https://github.com/riseshia/til)|Today I Learned||
+|3|[@rjyo](https://github.com/rjyo)/[**new-macbook-touchp…**](https://github.com/rjyo/new-macbook-touchpad-fixer)|Have you had palm rejection on the new Macbook touchpad? Did you feel it's unnecessarily too large? There is a fix for it!||
 |3|[@ruedap](https://github.com/ruedap)/[**dapicons**](https://github.com/ruedap/dapicons)|Icon Fonts for my products||
 |3|[@ryosms](https://github.com/ryosms)/[**MarkdownLab**](https://github.com/ryosms/MarkdownLab)|for checking the behavior of markdown||
 |3|[@ryotarai](https://github.com/ryotarai)/[**vagrant-docker-reg…**](https://github.com/ryotarai/vagrant-docker-registry)|docker-registry with vagrant||
@@ -942,6 +947,7 @@
 |3|[@stormcat24](https://github.com/stormcat24)/[**goose-docker**](https://github.com/stormcat24/goose-docker)|||
 |3|[@suin](https://github.com/suin)/[**xoopscube-cheatshe…**](https://github.com/suin/xoopscube-cheatsheet)|||
 |3|[@syamn](https://github.com/syamn)/[**Kuin.tmLanguage**](https://github.com/syamn/Kuin.tmLanguage)|Kuin syntax definitions for Sublime Text 2||
+|3|[@syoyo](https://github.com/syoyo)/[**raw-images**](https://github.com/syoyo/raw-images)|RAW photo images||
 |3|[@syuu1228](https://github.com/syuu1228)/[**cxxbacktrace**](https://github.com/syuu1228/cxxbacktrace)|Human readable backtrace for C++|[:arrow_upper_right:](http://d.hatena.ne.jp/syuu1228)|
 |3|[@taea](https://github.com/taea)/[**d4p**](https://github.com/taea/d4p)|||
 |3|[@taichi](https://github.com/taichi)/[**modernjs**](https://github.com/taichi/modernjs)|||

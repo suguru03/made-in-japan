@@ -508,6 +508,7 @@
 |27|[@hsbt](https://github.com/hsbt)/[**agig**](https://github.com/hsbt/agig)|another Github IRC Gateway||
 |27|[@kkosuge](https://github.com/kkosuge)/[**bank_job**](https://github.com/kkosuge/bank_job)|http://blog.kksg.net/posts/komono2||
 |27|[@komagata](https://github.com/komagata)/[**fastclick-rails**](https://github.com/komagata/fastclick-rails)|gem for fastclick.js||
+|27|[@masutaka](https://github.com/masutaka)/[**ci-build-trigger**](https://github.com/masutaka/ci-build-trigger)|A trigger of bundle update||
 |27|[@masutaka](https://github.com/masutaka)/[**ci-bundle-update**](https://github.com/masutaka/ci-bundle-update)|A trigger of bundle update||
 |27|[@mizzy](https://github.com/mizzy)/[**gh-tools**](https://github.com/mizzy/gh-tools)|Tools for GitHub||
 |27|[@mizzy](https://github.com/mizzy)/[**gitpusher**](https://github.com/mizzy/gitpusher)|A command line tool for replicating git repositories from one service to another||
@@ -1232,6 +1233,7 @@
 |10|[@walf443](https://github.com/walf443)/[**unix_socket_hack**](https://github.com/walf443/unix_socket_hack)|apply patch TCPSocket to support unixsocket for tcp only supported library.||
 |10|[@willnet](https://github.com/willnet)/[**honobono**](https://github.com/willnet/honobono)|log helper for rake tasks||
 |10|[@winebarrel](https://github.com/winebarrel)/[**arel-mysql-index-h…**](https://github.com/winebarrel/arel-mysql-index-hint)|Add index hint to MySQL query in Arel.||
+|10|[@winebarrel](https://github.com/winebarrel)/[**sisito**](https://github.com/winebarrel/sisito)|It is sisimai collected data frontend.||
 |10|[@yhara](https://github.com/yhara)/[**opal-raphael**](https://github.com/yhara/opal-raphael)|Opal binding for Raphael.js|[:arrow_upper_right:](https://github.com/yhara/opal-raphael)|
 |10|[@youpy](https://github.com/youpy)/[**glitched-ttf-gener…**](https://github.com/youpy/glitched-ttf-generator)||[:arrow_upper_right:](http://glitched-ttf-generator.heroku.com/)|
 |10|[@yugui](https://github.com/yugui)/[**redmine_pukiwiki_f…**](https://github.com/yugui/redmine_pukiwiki_formatter)|a Redmine plugin for formatting wiki pages as PukiWiki||
@@ -1554,6 +1556,7 @@
 |7|[@nineties](https://github.com/nineties)/[**raytracer**](https://github.com/nineties/raytracer)|Raytracer purely written by Ruby||
 |7|[@nmerouze](https://github.com/nmerouze)/[**qtjruby-more**](https://github.com/nmerouze/qtjruby-more)|Lightweight framework to build GUI applications with the power of Qt and the flexibility of Ruby.|[:arrow_upper_right:](http://qtjruby.org)|
 |7|[@okkez](https://github.com/okkez)/[**bitclust**](https://github.com/okkez/bitclust)|bootstrap for git svn clone http://jp.rubyist.net/svn/rurema/bitclust/trunk|[:arrow_upper_right:](http://bugs.ruby-lang.org/wiki/rurema)|
+|7|[@onk](https://github.com/onk)/[**activerecord-quiet…**](https://github.com/onk/activerecord-quiet_schema_version)|Turns off Rails DB schema version.||
 |7|[@penguin2716](https://github.com/penguin2716)/[**mikutter_shell_pos…**](https://github.com/penguin2716/mikutter_shell_post)|ツイート投稿時にコマンドとして解釈し，実行するmikutterプラグイン||
 |7|[@penguinco](https://github.com/penguinco)/[**ld_gourmet_search**](https://github.com/penguinco/ld_gourmet_search)|livedoor gourmet(ロケタッチグルメ) search demo with Elasticsearch||
 |7|[@penguinco](https://github.com/penguinco)/[**yats-socialgraph-d…**](https://github.com/penguinco/yats-socialgraph-dump)|twitter(ja) social graph dump from yats|[:arrow_upper_right:](http://d.hatena.ne.jp/code46/20110130/p1)|
@@ -1658,6 +1661,7 @@
 |6|[@eiel](https://github.com/eiel)/[**aquaskk-act**](https://github.com/eiel/aquaskk-act)|ACT on AquaSKK||
 |6|[@esminc](https://github.com/esminc)/[**ww**](https://github.com/esminc/ww)|Double Web, Framework to build double Web server. Main deveropment repo is http://github.com/moro/ww|[:arrow_upper_right:](http://github.com/esminc/ww)|
 |6|[@fujimura](https://github.com/fujimura)/[**nippou**](https://github.com/fujimura/nippou)|||
+|6|[@fukayatsu](https://github.com/fukayatsu)/[**esarch**](https://github.com/fukayatsu/esarch)|twitter <== (esarch) ==> slack||
 |6|[@fukayatsu](https://github.com/fukayatsu)/[**lita-idobata**](https://github.com/fukayatsu/lita-idobata)|A Idobata adapter for the Lita chat robot.|[:arrow_upper_right:](http://rubygems.org/gems/lita-idobata)|
 |6|[@fukayatsu](https://github.com/fukayatsu)/[**pebbles-soreyuke**](https://github.com/fukayatsu/pebbles-soreyuke)|soreyuke xxx-man!||
 |6|[@fumiyasac](https://github.com/fumiyasac)/[**okashi-suggest-lin…**](https://github.com/fumiyasac/okashi-suggest-linebot)|[ING] 食べたいお菓子のサジェストを行うLINEBOT||
@@ -2085,6 +2089,7 @@
 |5|[@yyuu](https://github.com/yyuu)/[**capistrano-sbt**](https://github.com/yyuu/capistrano-sbt)|a capistrano recipe to deploy sbt based projects.||
 |5|[@znz](https://github.com/znz)/[**gitpub**](https://github.com/znz/gitpub)|web application to publish static files based on git and rack||
 |5|[@znz](https://github.com/znz)/[**urltrapper**](https://github.com/znz/urltrapper)|Trap opening URL and open selected browser.|[:arrow_upper_right:](http://urltrapper.n-z.jp/)|
+|4|[@AdamT](https://github.com/AdamT)/[**reservationbot**](https://github.com/AdamT/reservationbot)|Rails Restaurant Reservation Application built with suspenders (but not using all that's included) | Weekend hack||
 |4|[@CodeforOkinawa](https://github.com/CodeforOkinawa)/[**cal5374**](https://github.com/CodeforOkinawa/cal5374)|generate .ics from 5374 csv data|[:arrow_upper_right:](http://cal5374.herokuapp.com/)|
 |4|[@Genki-S](https://github.com/Genki-S)/[**alfred-workflow-ka…**](https://github.com/Genki-S/alfred-workflow-karabiner)|Karabiner profile switcher for Alfred||
 |4|[@HHRy](https://github.com/HHRy)/[**jobby_rails**](https://github.com/HHRy/jobby_rails)|Jobby Rails is a rails interface to the Jobby gem. Use it to efficiently handle the background running of long tasks in Rails.|[:arrow_upper_right:](http://ryanstenhouse.eu)|
@@ -2682,6 +2687,7 @@
 |3|[@hisaichi5518](https://github.com/hisaichi5518)/[**octoks**](https://github.com/hisaichi5518/octoks)|github hooks receiver.||
 |3|[@hisui](https://github.com/hisui)/[**DAsse**](https://github.com/hisui/DAsse)|Disassembler for Win32 EXE file||
 |3|[@hlxwell](https://github.com/hlxwell)/[**em_apn_manager**](https://github.com/hlxwell/em_apn_manager)|EventMachine APN Connection Manager, The purpose is to support multiple cert and multiple application with one process.||
+|3|[@hogelog](https://github.com/hogelog)/[**rack-vcr-sample**](https://github.com/hogelog/rack-vcr-sample)|Sample application of Rack::VCR||
 |3|[@holysugar](https://github.com/holysugar)/[**github_pulls**](https://github.com/holysugar/github_pulls)|||
 |3|[@holysugar](https://github.com/holysugar)/[**uuid_validator**](https://github.com/holysugar/uuid_validator)|||
 |3|[@homomaid](https://github.com/homomaid)/[**pyuppyu**](https://github.com/homomaid/pyuppyu)|ぴゅっ///||
@@ -2742,6 +2748,7 @@
 |3|[@kmdsbng](https://github.com/kmdsbng)/[**graphviz_store**](https://github.com/kmdsbng/graphviz_store)|draw graph. using dot language.|[:arrow_upper_right:](http://kmdsbng.railsplayground.net/graphviz/)|
 |3|[@kmuto](https://github.com/kmuto)/[**post-xmlrpc**](https://github.com/kmuto/post-xmlrpc)|post an article with pictures to tDiary||
 |3|[@knsmr](https://github.com/knsmr)/[**rimport**](https://github.com/knsmr/rimport)|A tiny ruby script with which you can import photos from USB drives(camera) specifying a group/groups of photos taken within a certain amount of time(say 1 hour).||
+|3|[@ko1](https://github.com/ko1)/[**build-ruby**](https://github.com/ko1/build-ruby)|Build Ruby from source code.||
 |3|[@koba04](https://github.com/koba04)/[**cookbooks-anyenv**](https://github.com/koba04/cookbooks-anyenv)|anyenv cookbook for chef||
 |3|[@koduki](https://github.com/koduki)/[**Tesla**](https://github.com/koduki/Tesla)|Tesla is testcase generator for selenium from excel. ||
 |3|[@koduki](https://github.com/koduki)/[**pascaloon**](https://github.com/koduki/pascaloon)|言語実装祭りで作ったPascal風言語のインタプリタ。習作なので実用性が無いばかりか未完成（ぉ||
@@ -2767,6 +2774,7 @@
 |3|[@ktlacaelel](https://github.com/ktlacaelel)/[**ona**](https://github.com/ktlacaelel/ona)|Ona -- Symplified deployment.|[:arrow_upper_right:](http://github.com/ktlacaelel/ona)|
 |3|[@ktym](https://github.com/ktym)/[**bioruby-hello**](https://github.com/ktym/bioruby-hello)|Hello World plugin for BioRuby||
 |3|[@kubo39](https://github.com/kubo39)/[**em-tcp-proxy**](https://github.com/kubo39/em-tcp-proxy)|simple TCP-proxy by eventmachine||
+|3|[@kui](https://github.com/kui)/[**ruinput**](https://github.com/kui/ruinput)|a ruby binding for uinput.h|[:arrow_upper_right:](https://rubygems.org/gems/ruinput)|
 |3|[@kunitoo](https://github.com/kunitoo)/[**cleaning_duty_app**](https://github.com/kunitoo/cleaning_duty_app)|||
 |3|[@kurain](https://github.com/kurain)/[**ItoA**](https://github.com/kurain/ItoA)|Introduction to Algorithms Sample Codes||
 |3|[@kwappa](https://github.com/kwappa)/[**pebbles**](https://github.com/kwappa/pebbles)|||
@@ -2833,6 +2841,7 @@
 |3|[@monochromegane](https://github.com/monochromegane)/[**mysql_dump_slow**](https://github.com/monochromegane/mysql_dump_slow)|A library to summarize MySQL slow_log records in Ruby.||
 |3|[@monochromegane](https://github.com/monochromegane)/[**retrospective-anch…**](https://github.com/monochromegane/retrospective-anchoco)|ふりかえりのファシリテーターを行うときに使える"あんちょこ"です。||
 |3|[@mookjp](https://github.com/mookjp)/[**rubygems-mirror-do…**](https://github.com/mookjp/rubygems-mirror-docker)|Docker image of rubygems-mirror||
+|3|[@mootoh](https://github.com/mootoh)/[**qc_gainer**](https://github.com/mootoh/qc_gainer)|QuartzComposer Custom Plugin for Gainer I/O module.|[:arrow_upper_right:](http://deadbeaf.org/)|
 |3|[@morizyun](https://github.com/morizyun)/[**meta_programming_r…**](https://github.com/morizyun/meta_programming_ruby2)|||
 |3|[@moro](https://github.com/moro)/[**logger_exception_f…**](https://github.com/moro/logger_exception_format)|let ActiveSupport::BufferedLogger log an exception detail.|[:arrow_upper_right:](http://github.com/moro/logger_exception_format/tree/master)|
 |3|[@moro](https://github.com/moro)/[**ruby19_monkey**](https://github.com/moro/ruby19_monkey)|monkey patch to make rails 2.3.0 work with Ruby 1.9.1|[:arrow_upper_right:](http://github.com/moro/ruby19_monkey/)|
@@ -2988,6 +2997,7 @@
 |3|[@sue445](https://github.com/sue445)/[**sebastian-badge**](https://github.com/sue445/sebastian-badge)|Hosting embed Jenkins plugin badges|[:arrow_upper_right:](http://sebastian-badge.info/)|
 |3|[@suer](https://github.com/suer)/[**redmine_emoji**](https://github.com/suer/redmine_emoji)|This plugin adds :emoji: syntax to all Wiki formatting of Redmine||
 |3|[@sugamasao](https://github.com/sugamasao)/[**ShufflePic**](https://github.com/sugamasao/ShufflePic)|Random Avatar|[:arrow_upper_right:](http://shufflepic.herokuapp.com)|
+|3|[@sugi](https://github.com/sugi)/[**capistrano-deploy_…**](https://github.com/sugi/capistrano-deploy_into_docker)|Capistrano tasks to deploy into docker.||
 |3|[@sugi](https://github.com/sugi)/[**vocalendar_submit**](https://github.com/sugi/vocalendar_submit)|||
 |3|[@suma](https://github.com/suma)/[**dtest**](https://github.com/suma/dtest)|DTest is a testing tool to describe integration testing for distributed systems.||
 |3|[@sumith68](https://github.com/sumith68)/[**A--Task-Management…**](https://github.com/sumith68/A--Task-Management-App-in-Ruby-on-Rails)|||
@@ -3000,6 +3010,7 @@
 |3|[@takahashim](https://github.com/takahashim)/[**aozora2html**](https://github.com/takahashim/aozora2html)|||
 |3|[@takahashim](https://github.com/takahashim)/[**aozora2html_old**](https://github.com/takahashim/aozora2html_old)|||
 |3|[@takahashim](https://github.com/takahashim)/[**epubcheck-ruby**](https://github.com/takahashim/epubcheck-ruby)|wrapper command of idpf/epubcheck||
+|3|[@takahashim](https://github.com/takahashim)/[**mastodon-book-samp…**](https://github.com/takahashim/mastodon-book-sample)|sample code of "Mastodon Book" http://nextpublishing.jp/book/8776.html||
 |3|[@takahashim](https://github.com/takahashim)/[**mruby-forwardable**](https://github.com/takahashim/mruby-forwardable)|forwaradable module for mruby||
 |3|[@takahashim](https://github.com/takahashim)/[**nyaplot_on_web**](https://github.com/takahashim/nyaplot_on_web)|Use Nyaplot plotter simply on web browser, without IRuby.||
 |3|[@takkanm](https://github.com/takkanm)/[**kareki**](https://github.com/takkanm/kareki)|Collect some RSS/Atom feeds, and send to somewhere.||
@@ -3059,6 +3070,7 @@
 |3|[@unak](https://github.com/unak)/[**mswin-build**](https://github.com/unak/mswin-build)|CI tool for mswin version of ruby||
 |3|[@unasuke](https://github.com/unasuke)/[**homebrew-miku**](https://github.com/unasuke/homebrew-miku)|まっかせっにゃさぁ～い！！||
 |3|[@unlearned](https://github.com/unlearned)/[**the_big_username_b…**](https://github.com/unlearned/the_big_username_blacklist)|||
+|3|[@ursm](https://github.com/ursm)/[**activejob-google_c…**](https://github.com/ursm/activejob-google_cloud_pubsub)|Google Cloud Pub/Sub adapter and worker for ActiveJob||
 |3|[@ursm](https://github.com/ursm)/[**lita-redis**](https://github.com/ursm/lita-redis)|The handler which sends any command to `Lita.redis`.||
 |3|[@utahta](https://github.com/utahta)/[**dotmoji**](https://github.com/utahta/dotmoji)|Get the array of pixel valid flags from font||
 |3|[@utgwkk](https://github.com/utgwkk)/[**reimu-chan**](https://github.com/utgwkk/reimu-chan)|A Ruby reimplementation of Marisa-chan||

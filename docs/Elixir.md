@@ -68,6 +68,7 @@
 |4|[@tuvistavie](https://github.com/tuvistavie)/[**ecto-secure-passwo…**](https://github.com/tuvistavie/ecto-secure-password)|has_secure_password for Ecto models|[:arrow_upper_right:](https://hex.pm/packages/secure_password)|
 |3|[@bokuweb](https://github.com/bokuweb)/[**elixir_scraping_sa…**](https://github.com/bokuweb/elixir_scraping_sample)|||
 |3|[@chatgris](https://github.com/chatgris)/[**event_source_encod…**](https://github.com/chatgris/event_source_encoder)|EventSourceEncoder is a Elixir library to encode data into EventSource compliant data.||
+|3|[@dvcrn](https://github.com/dvcrn)/[**itunes.ex**](https://github.com/dvcrn/itunes.ex)|iTunes search API wrapper in Elixir||
 |3|[@i2y](https://github.com/i2y)/[**jet**](https://github.com/i2y/jet)|Jet is a simple OOP, dynamically typed, functional language that runs on the Erlang virtual machine (BEAM). Jet's syntax is Ruby-like syntax.||
 |3|[@i2y](https://github.com/i2y)/[**uiro**](https://github.com/i2y/uiro)|Uiro is a simple object oriented, dynamically typed, functional language that runs on the Erlang virtual machine (BEAM). Uiro's syntax is Ruby-like syntax. Uiro also got influences from Python and Mochi.||
 |3|[@ishikawa](https://github.com/ishikawa)/[**elixir-magic-numbe…**](https://github.com/ishikawa/elixir-magic-number)|MagicNumber is the module to determine a file's type from its magic number.||

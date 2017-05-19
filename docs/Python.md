@@ -230,6 +230,7 @@
 |15|[@Surgo](https://github.com/Surgo)/[**aws_emojipacks**](https://github.com/Surgo/aws_emojipacks)|Slack emojis of AWS services||
 |15|[@astronaughts](https://github.com/astronaughts)/[**SublimeNFDToNFCPas…**](https://github.com/astronaughts/SublimeNFDToNFCPaste)|||
 |15|[@freedomofkeima](https://github.com/freedomofkeima)/[**messenger-maid-cha…**](https://github.com/freedomofkeima/messenger-maid-chan)|Maid-chan feat Facebook Messenger bot to accompany personal daily life|[:arrow_upper_right:](http://messenger-maid-chan.rtfd.io/)|
+|15|[@higepon](https://github.com/higepon)/[**tensorflow_seq2seq…**](https://github.com/higepon/tensorflow_seq2seq_chatbot)|||
 |15|[@kana](https://github.com/kana)/[**vim-version-manage…**](https://github.com/kana/vim-version-manager)|curl https://raw.githubusercontent.com/kana/vim-version-manager/master/bin/vvm | python - setup||
 |15|[@lambdalisue](https://github.com/lambdalisue)/[**lista.nvim**](https://github.com/lambdalisue/lista.nvim)|WIP: Neovim/Vim buffer filtering plugin||
 |15|[@mitmul](https://github.com/mitmul)/[**tfchain**](https://github.com/mitmul/tfchain)|Run a static part of the computational graph written in Chainer with Tensorflow||
@@ -334,6 +335,7 @@
 |10|[@nabetama](https://github.com/nabetama)/[**gimei**](https://github.com/nabetama/gimei)|random Japanese name and address generator from python.|[:arrow_upper_right:](https://pypi.python.org/pypi/gimei)|
 |10|[@naoina](https://github.com/naoina)/[**alnair**](https://github.com/naoina/alnair)|A simple system integration framework||
 |10|[@naoina](https://github.com/naoina)/[**generator-django-a…**](https://github.com/naoina/generator-django-angular)|Django with AngularJS generator||
+|10|[@ojii](https://github.com/ojii)/[**arsenic**](https://github.com/ojii/arsenic)|async selenium||
 |10|[@ojii](https://github.com/ojii)/[**django-dashboard**](https://github.com/ojii/django-dashboard)|Dashboard App for django||
 |10|[@ryusas](https://github.com/ryusas)/[**maya_greenCageDefo…**](https://github.com/ryusas/maya_greenCageDeformer)|A study of the cage deformer implementation for Maya based on Green barycentric coordinates.||
 |10|[@shunsuk](https://github.com/shunsuk)/[**kurewa-sugoi**](https://github.com/shunsuk/kurewa-sugoi)|「[これはすごい] in リアルタイム」のGoogle App Engine用コード。|[:arrow_upper_right:](http://d.hatena.ne.jp/shunsuk/20090615/1245069178)|
@@ -412,6 +414,7 @@
 |8|[@sorah](https://github.com/sorah)/[**skype-irc-bridge**](https://github.com/sorah/skype-irc-bridge)|||
 |8|[@t2y](https://github.com/t2y)/[**python-study**](https://github.com/t2y/python-study)|Public repository in Python Study event group (http://pystudy.connpass.com/)||
 |8|[@tell-k](https://github.com/tell-k)/[**pypi-updates**](https://github.com/tell-k/pypi-updates)|Unofficial bot to flow PyPI recent updates.|[:arrow_upper_right:](https://twitter.com/pypi_updates2)|
+|8|[@thombashi](https://github.com/thombashi)/[**pytablereader**](https://github.com/thombashi/pytablereader)|A python library to load structured table data from files/URL with various data format: CSV/Excel/Google-Sheets/HTML/JSON/LTSV/Markdown/SQLite/TSV.|[:arrow_upper_right:](http://pytablereader.rtfd.io/)|
 |8|[@tk0miya](https://github.com/tk0miya)/[**diff-highlight**](https://github.com/tk0miya/diff-highlight)|||
 |8|[@tokuda109](https://github.com/tokuda109)/[**flask-docs-ja**](https://github.com/tokuda109/flask-docs-ja)|Japanese Translation of Flask documentation.|[:arrow_upper_right:](http://flask-docs-ja.readthedocs.org/)|
 |8|[@v2e4lisp](https://github.com/v2e4lisp)/[**_.py**](https://github.com/v2e4lisp/_.py)|underscore python and a wrapper for chaining||
@@ -463,6 +466,7 @@
 |7|[@ojii](https://github.com/ojii)/[**django-ci-info**](https://github.com/ojii/django-ci-info)|Information about the Django CI (Jenkins) server running at ci.django-cms.org|[:arrow_upper_right:](http://ci.django-cms.org)|
 |7|[@okamurayasuyuki](https://github.com/okamurayasuyuki)/[**heroku-ready**](https://github.com/okamurayasuyuki/heroku-ready)|||
 |7|[@otamachan](https://github.com/otamachan)/[**sphinxcontrib-ros**](https://github.com/otamachan/sphinxcontrib-ros)|||
+|7|[@philipperemy](https://github.com/philipperemy)/[**keras-visualize-ac…**](https://github.com/philipperemy/keras-visualize-activations)|MNIST example to show how to get the activations for each layer in Keras.||
 |7|[@pika-shi](https://github.com/pika-shi)/[**sphinx_information…**](https://github.com/pika-shi/sphinx_information_retrieval)|||
 |7|[@shikajiro](https://github.com/shikajiro)/[**eventsync.py**](https://github.com/shikajiro/eventsync.py)|Is a script to run rsync to monitor for Mac OS X(BSD), update and delete additional files.||
 |7|[@spiralray](https://github.com/spiralray)/[**nhk2015_back_ros**](https://github.com/spiralray/nhk2015_back_ros)|ROS programs of ABU Robocon 2015||
@@ -514,6 +518,7 @@
 |6|[@recurser](https://github.com/recurser)/[**trac-gantt-calenda…**](https://github.com/recurser/trac-gantt-calendar)|Gantt chart and calendar functionality for Trac.|[:arrow_upper_right:](trac-gantt-calendar)|
 |6|[@shibu](https://github.com/shibu)/[**pyspec**](https://github.com/shibu/pyspec)|Behavior Driven Development Framework for Python|[:arrow_upper_right:](http://www.codeplex.com/pyspec)|
 |6|[@shirou](https://github.com/shirou)/[**infodrawer**](https://github.com/shirou/infodrawer)|||
+|6|[@snaga](https://github.com/snaga)/[**Hecatoncheir**](https://github.com/snaga/Hecatoncheir)|Hecatoncheir: The Data Stewardship Studio||
 |6|[@taky](https://github.com/taky)/[**SublimeLinter-redp…**](https://github.com/taky/SublimeLinter-redpen)|SublimeLinter linter module for RedPen||
 |6|[@taky](https://github.com/taky)/[**android-runner**](https://github.com/taky/android-runner)|Android ant runner||
 |6|[@tanjoin](https://github.com/tanjoin)/[**google-japanese-in…**](https://github.com/tanjoin/google-japanese-input)|Google日本語入力のカスタム辞書です||
@@ -579,6 +584,7 @@
 |5|[@ojii](https://github.com/ojii)/[**django-utils**](https://github.com/ojii/django-utils)|Utilities for django||
 |5|[@panther-king](https://github.com/panther-king)/[**PyQt4-tutorial**](https://github.com/panther-king/PyQt4-tutorial)|Practice of PyQt4||
 |5|[@parosky](https://github.com/parosky)/[**faceavsearch**](https://github.com/parosky/faceavsearch)|||
+|5|[@philipperemy](https://github.com/philipperemy)/[**tensorflow-ctc-spe…**](https://github.com/philipperemy/tensorflow-ctc-speech-recognition)|Application of Connectionist Temporal Classification (CTC) for Speech Recognition (Tensorflow 1.0).||
 |5|[@r9y9](https://github.com/r9y9)/[**stav**](https://github.com/r9y9/stav)|Statistical voice conversion written in Go for signal processing backend, Python for model training and parameter conversions||
 |5|[@rcmdnk](https://github.com/rcmdnk)/[**MenuBarGmail**](https://github.com/rcmdnk/MenuBarGmail)|Gmail notification in Menu Bar for Mac||
 |5|[@ryugoo](https://github.com/ryugoo)/[**TiNativeJson**](https://github.com/ryugoo/TiNativeJson)|TiNativeJson provides iOS SDK's NSJSONSerialization bridge API for Titanium.||
@@ -664,6 +670,7 @@
 |4|[@mats116](https://github.com/mats116)/[**ElasticBigQuery**](https://github.com/mats116/ElasticBigQuery)|GAE Application for BigQuery||
 |4|[@methane](https://github.com/methane)/[**pyconjp2012-gevent…**](https://github.com/methane/pyconjp2012-gevent-slide)|||
 |4|[@minikomi](https://github.com/minikomi)/[**Brubeck-Chat**](https://github.com/minikomi/Brubeck-Chat)|Simple chat using gevent / long polling||
+|4|[@mitmul](https://github.com/mitmul)/[**animeface**](https://github.com/mitmul/animeface)|||
 |4|[@mizzy](https://github.com/mizzy)/[**funnel**](https://github.com/mizzy/funnel)|SSH routing framework based on twisted||
 |4|[@mkouhei](https://github.com/mkouhei)/[**ansible-role-inclu…**](https://github.com/mkouhei/ansible-role-includecsv)|Load variables from a CSV file, dynamically within a task.||
 |4|[@mksekibang](https://github.com/mksekibang)/[**EmpowerYourData**](https://github.com/mksekibang/EmpowerYourData)|BeaconITIE03||
@@ -786,6 +793,7 @@
 |3|[@giginet](https://github.com/giginet)/[**MachiMatch**](https://github.com/giginet/MachiMatch)|新感覚アクションパズルゲー！|[:arrow_upper_right:](http://www.kawaz.org/projects/machi/)|
 |3|[@giginet](https://github.com/giginet)/[**alfred-ghq-workflo…**](https://github.com/giginet/alfred-ghq-workflow)|Search and get repository on GHQ via Alfred||
 |3|[@giginet](https://github.com/giginet)/[**django-debug-toolb…**](https://github.com/giginet/django-debug-toolbar-vcs-info)|Add VCS info onto your django-debug-toolbar||
+|3|[@giginet](https://github.com/giginet)/[**django-slack-invit…**](https://github.com/giginet/django-slack-invitation)|Automatic invitation to Slack team||
 |3|[@glassesfactory](https://github.com/glassesfactory)/[**gae-spreadsheet-ex…**](https://github.com/glassesfactory/gae-spreadsheet-example)|spreadsheet use like db. on google app engine python.|[:arrow_upper_right:](http://blog.glasses-factory.net)|
 |3|[@hakatashi](https://github.com/hakatashi)/[**takuboku-project**](https://github.com/hakatashi/takuboku-project)|takuboku-project||
 |3|[@halcat0x15a](https://github.com/halcat0x15a)/[**satellite**](https://github.com/halcat0x15a/satellite)|||
@@ -797,6 +805,7 @@
 |3|[@hideo54](https://github.com/hideo54)/[**TomoriNao575**](https://github.com/hideo54/TomoriNao575)|友利奈緒575bot||
 |3|[@hirokiky](https://github.com/hirokiky)/[**cookiepatcher**](https://github.com/hirokiky/cookiepatcher)|Tool to apply updates of cookiecutter templates for projects.||
 |3|[@hiromu](https://github.com/hiromu)/[**mecab_dic**](https://github.com/hiromu/mecab_dic)|scripts for generating dictionaries of MeCab||
+|3|[@hogelog](https://github.com/hogelog)/[**kestrel-cli**](https://github.com/hogelog/kestrel-cli)|command-line kestrel interface||
 |3|[@holidayworking](https://github.com/holidayworking)/[**PRML**](https://github.com/holidayworking/PRML)|||
 |3|[@holysugar](https://github.com/holysugar)/[**gae-amazon-proxy**](https://github.com/holysugar/gae-amazon-proxy)|Amazon REST API auth proxy in Google App Engine, written in Python.||
 |3|[@hoxo-m](https://github.com/hoxo-m)/[**densratio_py**](https://github.com/hoxo-m/densratio_py)|A Python Package for Density Ratio Estimation|[:arrow_upper_right:](https://github.com/hoxo-m/densratio_py)|
@@ -854,6 +863,8 @@
 |3|[@papamitra](https://github.com/papamitra)/[**grass-python**](https://github.com/papamitra/grass-python)|Grass implementation, written in Python.||
 |3|[@philipperemy](https://github.com/philipperemy)/[**amazon-reviews-scr…**](https://github.com/philipperemy/amazon-reviews-scraper)|Yet another multi language scraper for Amazon targeting reviews.||
 |3|[@philipperemy](https://github.com/philipperemy)/[**expressvpn-python**](https://github.com/philipperemy/expressvpn-python)|ExpressVPN - Python Wrapper (public IP auto fetch)||
+|3|[@philipperemy](https://github.com/philipperemy)/[**tensorflow-cnn-tim…**](https://github.com/philipperemy/tensorflow-cnn-time-series)|Feeding images of time series to Conv Nets! (Tensorflow + Keras)||
+|3|[@philipperemy](https://github.com/philipperemy)/[**very-deep-convnets…**](https://github.com/philipperemy/very-deep-convnets-raw-waveforms)|Tensorflow - Very Deep Convolutional Neural Networks For Raw Waveforms - https://arxiv.org/pdf/1610.00087.pdf||
 |3|[@poppen](https://github.com/poppen)/[**gaeo-amazon-auth-p…**](https://github.com/poppen/gaeo-amazon-auth-proxy)|Authentication Proxy Server of Amazon Product Advertising API using Google App Engine Oil||
 |3|[@riseshia](https://github.com/riseshia)/[**deep-learning-from…**](https://github.com/riseshia/deep-learning-from-scratch-ruby)|『ゼロから作る Deep Learning』のソースコードのルビ版||
 |3|[@saitoha](https://github.com/saitoha)/[**PyDRCS**](https://github.com/saitoha/PyDRCS)|Make DRCS(Soft Character Set) glyphs for some terminals(DEC VT-series, RLogin, tanasinn, mlterm) from image files||
@@ -898,5 +909,6 @@
 |3|[@yoshiori](https://github.com/yoshiori)/[**pit**](https://github.com/yoshiori/pit)|account management tool|[:arrow_upper_right:](http://pypi.python.org/pypi/pit/)|
 |3|[@yosida95](https://github.com/yosida95)/[**ip2country**](https://github.com/yosida95/ip2country)|Lookup country code (iso 3166) by IP address|[:arrow_upper_right:](https://pypi.python.org/pypi/ip2country)|
 |3|[@yuin](https://github.com/yuin)/[**rays**](https://github.com/yuin/rays)|A "LESS PAIN" lightweight WSGI compatible web framework|[:arrow_upper_right:](http://yuin.github.com/rays/index.html)|
+|3|[@yusugomori](https://github.com/yusugomori)/[**deeplearning-tenso…**](https://github.com/yusugomori/deeplearning-tensorflow-keras)|||
 |3|[@zchee](https://github.com/zchee)/[**dotfiles**](https://github.com/zchee/dotfiles)|Don't limit yourself.||
 

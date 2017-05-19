@@ -44,6 +44,7 @@
 |5|[@kittinunf](https://github.com/kittinunf)/[**GithubKotlin**](https://github.com/kittinunf/GithubKotlin)|Sample Android project to work with Github API written in Kotlin||
 |5|[@kmizu](https://github.com/kmizu)/[**kotbinator**](https://github.com/kmizu/kotbinator)|Parser Combinator Library in Kotlin||
 |5|[@kobakei](https://github.com/kobakei)/[**Android-Kotlin-Exa…**](https://github.com/kobakei/Android-Kotlin-Example)|Android example written by Kotlin||
+|5|[@worker8](https://github.com/worker8)/[**learning-architect…**](https://github.com/worker8/learning-architecture-for-android)|||
 |5|[@zick](https://github.com/zick)/[**KotlinLisp**](https://github.com/zick/KotlinLisp)|Lisp implementation in Kotlin||
 |4|[@Reyurnible](https://github.com/Reyurnible)/[**RxDownloader**](https://github.com/Reyurnible/RxDownloader)|||
 |4|[@kittinunf](https://github.com/kittinunf)/[**RxMovieKotlin**](https://github.com/kittinunf/RxMovieKotlin)|||

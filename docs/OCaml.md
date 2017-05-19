@@ -11,6 +11,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |13|[@mzp](https://github.com/mzp)/[**msgpack-ocaml**](https://github.com/mzp/msgpack-ocaml)|MessagePack for OCaml/Coq|[:arrow_upper_right:](http://mzp.github.com/msgpack-ocaml/refman)|
 |12|[@AltGr](https://github.com/AltGr)/[**Camelus**](https://github.com/AltGr/Camelus)|Bot posting reports on opam-repository pull-request using a web hook||
 |11|[@mzp](https://github.com/mzp)/[**coq-ruby**](https://github.com/mzp/coq-ruby)|||
+|8|[@AltGr](https://github.com/AltGr)/[**opam-ed**](https://github.com/AltGr/opam-ed)|A small  command-line tool to help with mechanical edition of opam files||
 |8|[@hanazuki](https://github.com/hanazuki)/[**miniml**](https://github.com/hanazuki/miniml)|Tiny ML interpreter||
 |8|[@mzp](https://github.com/mzp)/[**coq-for-ipad**](https://github.com/mzp/coq-for-ipad)|||
 |8|[@mzp](https://github.com/mzp)/[**scheme-abc**](https://github.com/mzp/scheme-abc)|Scheme compiler for ActionScript3 Bytecode/Flash|[:arrow_upper_right:](http://happyabc.org)|
@@ -25,6 +26,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |4|[@AltGr](https://github.com/AltGr)/[**ocp-sha**](https://github.com/AltGr/ocp-sha)|Pure OCaml implementation of SHA256 and SHA512||
 |4|[@komamitsu](https://github.com/komamitsu)/[**OCaml-minilisp**](https://github.com/komamitsu/OCaml-minilisp)|mini lisp in OCaml||
 |4|[@komamitsu](https://github.com/komamitsu)/[**OCatra**](https://github.com/komamitsu/OCatra)|Simple web server library for OCaml like Sinatra||
+|4|[@kuy](https://github.com/kuy)/[**nada.re**](https://github.com/kuy/nada.re)|Visualization of Abelian sandpile model written in Reason + Obelisk.js.||
 |4|[@mzp](https://github.com/mzp)/[**coq-ide-for-ios**](https://github.com/mzp/coq-ide-for-ios)|||
 |4|[@mzp](https://github.com/mzp)/[**coq-js**](https://github.com/mzp/coq-js)|||
 |4|[@tyage](https://github.com/tyage)/[**experiment-4-ocaml…**](https://github.com/tyage/experiment-4-ocaml)|計算機科学実験及演習4 プログラム検証||

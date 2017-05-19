@@ -448,6 +448,7 @@
 |11|[@ypresto](https://github.com/ypresto)/[**qtfaststart-java**](https://github.com/ypresto/qtfaststart-java)|qt-faststart (make mp4 file streamable)  in Java, MIT licensed.||
 |11|[@yshrsmz](https://github.com/yshrsmz)/[**historian**](https://github.com/yshrsmz/historian)|Custom Timber tree implementation that can save logs to SQLite||
 |10|[@Nodeclipse](https://github.com/Nodeclipse)/[**restclient-tool**](https://github.com/Nodeclipse/restclient-tool)|restclient-tool|[:arrow_upper_right:](http://www.nodeclipse.org/restclient-tool/)|
+|10|[@YukiMatsumura](https://github.com/YukiMatsumura)/[**AndroidDaggerSampl…**](https://github.com/YukiMatsumura/AndroidDaggerSample)|Android Dagger2.11 rc1 sample||
 |10|[@cattaka](https://github.com/cattaka)/[**AndroidSnippets**](https://github.com/cattaka/AndroidSnippets)|Cattaka's snippets for Android||
 |10|[@codelibs](https://github.com/codelibs)/[**minhash**](https://github.com/codelibs/minhash)|This provides tools for b-bit MinHash algorism.||
 |10|[@dai0304](https://github.com/dai0304)/[**baseunits**](https://github.com/dai0304/baseunits)|基礎的な単位（時間や金額等）にまつわるドメインモデル群を含むクラスライブラリ|[:arrow_upper_right:](http://maven.xet.jp/site/baseunits/)|
@@ -600,6 +601,7 @@
 |6|[@isis](https://github.com/isis)/[**USB-Serial-Module**](https://github.com/isis/USB-Serial-Module)|Titanium module: USB Serial Module for Android that is a wrapper of usb-serial-for-android http://code.google.com/p/usb-serial-for-android||
 |6|[@izumin5210](https://github.com/izumin5210)/[**Sunazuri**](https://github.com/izumin5210/Sunazuri)|esa.io client application for Android (unofficial)|[:arrow_upper_right:](https://github.com/izumin5210/Sunazuri)|
 |6|[@jins-meme](https://github.com/jins-meme)/[**JinsMemeSDK-Sample…**](https://github.com/jins-meme/JinsMemeSDK-Sample-Android)|[JINS MEME Developers(Consumer Version)] Example source code using JINS MEME SDK for Android|[:arrow_upper_right:](https://jins-meme.github.io/sdkdoc/android/)|
+|6|[@kaelaela](https://github.com/kaelaela)/[**AndroidImageGaller…**](https://github.com/kaelaela/AndroidImageGallerySample)|||
 |6|[@kaosf](https://github.com/kaosf)/[**android-webview**](https://github.com/kaosf/android-webview)|||
 |6|[@kawasima](https://github.com/kawasima)/[**solr-jdbc**](https://github.com/kawasima/solr-jdbc)|The JDBC driver for Apache solr||
 |6|[@kazssym](https://github.com/kazssym)/[**bitbucket-api-clie…**](https://github.com/kazssym/bitbucket-api-client-java)|Bitbucket API Client for Java|[:arrow_upper_right:](https://bitbucket.org/kazssym/bitbucket-api-client-java)|
@@ -915,6 +917,7 @@ This plug-in, can preview the contents of the template.||
 |3|[@Nodeclipse](https://github.com/Nodeclipse)/[**eclipse-sass-edito…**](https://github.com/Nodeclipse/eclipse-sass-editor)|Sass / Compass Eclipse Editor||
 |3|[@STAR-ZERO](https://github.com/STAR-ZERO)/[**SampleWebSocket-an…**](https://github.com/STAR-ZERO/SampleWebSocket-android)|AndroidでのWebSocket通信サンプル||
 |3|[@Taishi-Y](https://github.com/Taishi-Y)/[**Android_Projects_b…**](https://github.com/Taishi-Y/Android_Projects_by_TaishiYamasaki)|Android sample projects and a bunch of code snippets by Taishi Yamasaki||
+|3|[@Taishi-Y](https://github.com/Taishi-Y)/[**walker**](https://github.com/Taishi-Y/walker)|Swipe card UI (like a Tinder) with FourSqure API, facebook login, Firebase.|[:arrow_upper_right:](https://www.youtube.com/watch?v=1RBs7V72MF8)|
 |3|[@TomiGie](https://github.com/TomiGie)/[**RecyclerViewSample…**](https://github.com/TomiGie/RecyclerViewSample)|||
 |3|[@Tomohiro](https://github.com/Tomohiro)/[**u9**](https://github.com/Tomohiro/u9)|u9|[:arrow_upper_right:](http://u9mail.heroku.com)|
 |3|[@Torokun](https://github.com/Torokun)/[**android-beam-libra…**](https://github.com/Torokun/android-beam-library)|Android Beamのライブラリ||
@@ -939,6 +942,7 @@ This plug-in, can preview the contents of the template.||
 |3|[@cactusman](https://github.com/cactusman)/[**lingr-plugin**](https://github.com/cactusman/lingr-plugin)|||
 |3|[@cattaka](https://github.com/cattaka)/[**GenDbHandler**](https://github.com/cattaka/GenDbHandler)|Generator of Android SQLiteDatabase functions by APT for ADT Plugin for Eclipse||
 |3|[@cattaka](https://github.com/cattaka)/[**PhysicaloidVc**](https://github.com/cattaka/PhysicaloidVc)|Physicaloid Library Version Cattaka||
+|3|[@cattaka](https://github.com/cattaka)/[**adkworks**](https://github.com/cattaka/adkworks)|My works of ADK(Arduino)||
 |3|[@chibamem](https://github.com/chibamem)/[**test_java_thread**](https://github.com/chibamem/test_java_thread)|||
 |3|[@cignoir](https://github.com/cignoir)/[**cabocha4j**](https://github.com/cignoir/cabocha4j)|日本語係り受け解析プログラム CaboCha の Java ライブラリ http://d.hatena.ne.jp/noire722/20100618/1276873683||
 |3|[@codelibs](https://github.com/codelibs)/[**elasticsearch-anal…**](https://github.com/codelibs/elasticsearch-analyze-api)|Elasticsearch plugin for Text Analyze API||
@@ -1031,6 +1035,7 @@ This plug-in, can preview the contents of the template.||
 |3|[@piece](https://github.com/piece)/[**piece-ide**](https://github.com/piece/piece-ide)|A Piece Framework IDE built on Eclipse|[:arrow_upper_right:](http://redmine.piece-framework.com/projects/show/piece-ide)|
 |3|[@quolc](https://github.com/quolc)/[**DialGUI**](https://github.com/quolc/DialGUI)|||
 |3|[@renjithis](https://github.com/renjithis)/[**USSDFilter_XposedM…**](https://github.com/renjithis/USSDFilter_XposedModule)|USSD Filter using the Xposed Framework.||
+|3|[@rsky](https://github.com/rsky)/[**logbook-kai-plugin…**](https://github.com/rsky/logbook-kai-plugins)|sanaehirotakaさんの航海日誌 (logbook-kai) へのプラグイン集||
 |3|[@sadmb](https://github.com/sadmb)/[**artnetP5**](https://github.com/sadmb/artnetP5)|Processing addon for artnet4j||
 |3|[@satorufujiwara](https://github.com/satorufujiwara)/[**exoplayer-ima**](https://github.com/satorufujiwara/exoplayer-ima)|Google Interactive Media Ads (IMA) SDK's wrapper for using with ExoPlayer.||
 |3|[@sgougi](https://github.com/sgougi)/[**play21-frames-modu…**](https://github.com/sgougi/play21-frames-module)|TinkerPop Frames Module for play! framework 2||

@@ -128,6 +128,7 @@
 |16|[@AtsushiM](https://github.com/AtsushiM)/[**sass-compile.vim**](https://github.com/AtsushiM/sass-compile.vim)|Add Sass compile & utility commands.||
 |16|[@haya14busa](https://github.com/haya14busa)/[**dein-command.vim**](https://github.com/haya14busa/dein-command.vim)|utility comamnds of dein.vim with rich completion.||
 |16|[@heavenshell](https://github.com/heavenshell)/[**vim-pokemon**](https://github.com/heavenshell/vim-pokemon)| Pokemon might be in your open file.... ||
+|16|[@kana](https://github.com/kana)/[**vim-textobj-fold**](https://github.com/kana/vim-textobj-fold)|Vim plugin: Text objects for foldings|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2275)|
 |16|[@sgur](https://github.com/sgur)/[**unite-qf**](https://github.com/sgur/unite-qf)|quickfix source for unite.vim|[:arrow_upper_right:](http://sgur.tumblr.com/post/20964494874/quickfix-unite-vim-source)|
 |16|[@tacahiroy](https://github.com/tacahiroy)/[**ctrlp-ssh**](https://github.com/tacahiroy/ctrlp-ssh)|a ctrlp.vim extension - open a new SSH connection via ctrlp.vim interface|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4665)|
 |15|[@cocopon](https://github.com/cocopon)/[**lightline-hybrid.v…**](https://github.com/cocopon/lightline-hybrid.vim)|Bring awesome color scheme 'hybrid' into lightline.vim||
@@ -343,6 +344,7 @@
 |3|[@haya14busa](https://github.com/haya14busa)/[**vital-hit-a-hint**](https://github.com/haya14busa/vital-hit-a-hint)|||
 |3|[@haya14busa](https://github.com/haya14busa)/[**vital-vim-syntax-e…**](https://github.com/haya14busa/vital-vim-syntax-echo)|||
 |3|[@heavenshell](https://github.com/heavenshell)/[**unite-zf**](https://github.com/heavenshell/unite-zf)|A unite.vim plugin for Zend Framework||
+|3|[@heavenshell](https://github.com/heavenshell)/[**vim-syntax-flowtyp…**](https://github.com/heavenshell/vim-syntax-flowtype)|||
 |3|[@hiroakis](https://github.com/hiroakis)/[**dotfiles**](https://github.com/hiroakis/dotfiles)|my dotfiles||
 |3|[@iakio](https://github.com/iakio)/[**smarty3.vim**](https://github.com/iakio/smarty3.vim)|||
 |3|[@itchyny](https://github.com/itchyny)/[**vim-extracmd**](https://github.com/itchyny/vim-extracmd)|Define extra commands.||
@@ -376,6 +378,7 @@
 |3|[@todesking](https://github.com/todesking)/[**qf_sbt.vim**](https://github.com/todesking/qf_sbt.vim)|Vim SBT integration||
 |3|[@tokorom](https://github.com/tokorom)/[**ctrlp-docset**](https://github.com/tokorom/ctrlp-docset)|a ctrlp.vim extension - pick out from docset ||
 |3|[@tokorom](https://github.com/tokorom)/[**neocomplete-ios-di…**](https://github.com/tokorom/neocomplete-ios-dictionary)|ios keyword dictionary for vim and neocomplete||
+|3|[@tsukkee](https://github.com/tsukkee)/[**tasko-vim**](https://github.com/tsukkee/tasko-vim)|Tasko client for Vim||
 |3|[@tyru](https://github.com/tyru)/[**closesubwin.vim**](https://github.com/tyru/closesubwin.vim)|Close sub window without jumping to the window (help,quickfix,unlisted buffer supported)||
 |3|[@tyru](https://github.com/tyru)/[**command-buffer.vim…**](https://github.com/tyru/command-buffer.vim)|small buffer for command-line ## THIS PLUGIN IS DEPRECATED. USE CMDWIN. (:help cmdwin)||
 |3|[@tyru](https://github.com/tyru)/[**jobby.vim**](https://github.com/tyru/jobby.vim)|Simple process management plugin in Vim||

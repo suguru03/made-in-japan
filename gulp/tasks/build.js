@@ -35,7 +35,7 @@ function makeDocs(data) {
 
   let prevRank;
   let prevStars;
-  const rankInfo = _.chain(info)
+  const ranks = _.chain(info)
     .transform((result, { owner, stars }) => {
       const { login: name } = owner;
       const info = result[name] = result[name] || { name, stars: 0 };
@@ -84,7 +84,7 @@ function makeDocs(data) {
   const monthStr = (month / 10 | 0 ? '' : '0') + month;
   const dateStr = (date / 10 | 0 ? '' : '0') + date;
   const nowStr = `${now.getFullYear()}/${monthStr}/${dateStr}`;
-  readme = _.chain(rankInfo)
+  readme = _.chain(ranks)
     .slice(0, limit)
     .reduce((result, { text }) => {
       return `${result}${text}`;
@@ -93,17 +93,15 @@ function makeDocs(data) {
 
   // make top 1000
   const rankLimit = 1000;
-  readme += `\n-> [Top 1000 Developers](${basePath}/blob/master/docs/rank.md)\n`;
-  const rankDoc = _.chain(rankInfo)
-    .slice(0, rankLimit)
-    .reduce((result, { text }) => {
-      return `${result}${text}`;
-    }, `## Top ${rankLimit} Developers (${nowStr})\n\n|Rank|Name|:star2:|\n|---|---|---|\n`)
-    .value();
-  const rankpath = path.resolve(__dirname, '../..', 'docs', 'rank.md');
+  readme += `\n-> [Top 1000 Developers](${basePath}/blob/master/docs/rankers.md)\n`;
+  ranks.splice(rankLimit);
+  const rankDoc = _.reduce(ranks, (result, { text }) => {
+    return `${result}${text}`;
+  }, `## Top ${rankLimit} Developers (${nowStr})\n\n|Rank|Name|:star2:|\n|---|---|---|\n`);
+  const rankpath = path.resolve(__dirname, '../..', 'docs', 'rankers.md');
   fs.writeFileSync(rankpath, rankDoc, 'utf8');
 
-  const users = _.map(rankInfo, 'name');
+  const users = _.map(ranks, 'name');
   const rankInfoPath = path.resolve(__dirname, '../../', 'data', 'rankers.json');
   fs.writeFileSync(rankInfoPath, JSON.stringify(users, null, 2), 'utf8');
 

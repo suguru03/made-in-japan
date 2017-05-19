@@ -534,6 +534,7 @@
 |4|[@alfasado](https://github.com/alfasado)/[**mt-plugin-fastfiel…**](https://github.com/alfasado/mt-plugin-fastfield)|Fast Loading CustomField.||
 |4|[@alfasado](https://github.com/alfasado)/[**mt-plugin-file-cac…**](https://github.com/alfasado/mt-plugin-file-cache)|||
 |4|[@alfasado](https://github.com/alfasado)/[**mt-plugin-numeric-…**](https://github.com/alfasado/mt-plugin-numeric-fields)|Additional types of custom fields : Integer and Float.||
+|4|[@alfasado](https://github.com/alfasado)/[**mt-plugin-password…**](https://github.com/alfasado/mt-plugin-passwordexpired)|Set the password expiration settings.||
 |4|[@bayashi](https://github.com/bayashi)/[**Plack-Middleware-C…**](https://github.com/bayashi/Plack-Middleware-ChromeLogger)|The Chrome Logger Middleware for Plack||
 |4|[@bonnu](https://github.com/bonnu)/[**method-cached**](https://github.com/bonnu/method-cached)|||
 |4|[@dann](https://github.com/dann)/[**hatedaeditor**](https://github.com/dann/hatedaeditor)|CUI Hatena Diary Editor|[:arrow_upper_right:](http://dann.g.hatena.ne.jp/dann)|

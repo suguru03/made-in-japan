@@ -7,19 +7,12 @@ const _ = require('lodash');
 const gulp = require('gulp');
 
 const packageJson = require('../../package.json');
-const madeInJapan = require('../../');
 
-gulp.task('build', done => {
-
-  const token = process.env.token;
-  madeInJapan(token)
-    .callback((err, res) => {
-      if (err) {
-        return done(err);
-      }
-      makeDocs(res.repositories);
-    });
-});
+/**
+ * Makes all docs
+ * gulp build
+ */
+gulp.task('build', () => makeDocs(require('../../data/repositories.json')));
 
 function makeDocs(data) {
 
@@ -111,7 +104,7 @@ function makeDocs(data) {
   fs.writeFileSync(rankpath, rankDoc, 'utf8');
 
   const users = _.map(rankInfo, 'name');
-  const rankInfoPath = path.resolve(__dirname, '../../', 'data', 'rank.json');
+  const rankInfoPath = path.resolve(__dirname, '../../', 'data', 'rankers.json');
   fs.writeFileSync(rankInfoPath, JSON.stringify(users, null, 2), 'utf8');
 
   // make link

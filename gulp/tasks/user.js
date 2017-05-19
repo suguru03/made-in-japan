@@ -5,9 +5,13 @@ const path = require('path');
 
 const gulp = require('gulp');
 
-const MadeIn = require('../../lib/madeIn2');
+const MadeIn = require('../../');
 const infopath = path.resolve(__dirname, '../..', 'data', 'info.json');
 
+/**
+ * Gets speficied developers
+ * gulp user:save --token <token> --location Japan
+ */
 gulp.task('user:save', ['validate'], () => {
 
   const {
@@ -17,6 +21,10 @@ gulp.task('user:save', ['validate'], () => {
   return new MadeIn({ token }).getDevelopers(location);
 });
 
+/**
+ * Gets all Japaneses developers
+ * gulp user:save:all --token <token>
+ */
 gulp.task('user:save:all', ['validate'], () => {
 
   const { token } = process.env;

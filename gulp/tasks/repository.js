@@ -5,14 +5,22 @@ const path = require('path');
 
 const gulp = require('gulp');
 
-const MadeIn = require('../../lib/madeIn2');
+const MadeIn = require('../../');
 const infopath = path.resolve(__dirname, '../..', 'data', 'info.json');
 
+/**
+ * Gets all Japaneses repositories by `data/developers.json`
+ * gulp repo:save --token <token>
+ */
 gulp.task('repo:save', ['validate'], () => {
 
   return getRepositories();
 });
 
+/**
+ * Gets Japaneses repositories by `data/rankers.json`
+ * gulp repo:ranker:save --token <token>
+ */
 gulp.task('repo:ranker:save', ['validate'], () => {
 
   return getRepositories(true);

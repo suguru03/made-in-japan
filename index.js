@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('./lib/madeInJapan');
+module.exports = require('./lib/madeIn');

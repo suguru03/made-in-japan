@@ -232,7 +232,7 @@
 |6|[@nobnak](https://github.com/nobnak)/[**FftUnity**](https://github.com/nobnak/FftUnity)|||
 |6|[@nobnak](https://github.com/nobnak)/[**VolumetricShadow**](https://github.com/nobnak/VolumetricShadow)|||
 |6|[@progre](https://github.com/progre)/[**pecastarter5**](https://github.com/progre/pecastarter5)|Easy broadcast tool for Peercast||
-|6|[@runceel](https://github.com/runceel)/[**samples**](https://github.com/runceel/samples)|sample applications|[:arrow_upper_right:](okazukisampleapp)|
+|6|[@runceel](https://github.com/runceel)/[**samples**](https://github.com/runceel/samples)|sample applications||
 |6|[@sugi-cho](https://github.com/sugi-cho)/[**First-Compute-Shad…**](https://github.com/sugi-cho/First-Compute-Shader)|ComputeShaderの入門||
 |6|[@sugi-cho](https://github.com/sugi-cho)/[**Write-RenderTextur…**](https://github.com/sugi-cho/Write-RenderTexture3D-with-ComputeShader)|ComputeShaderで、RenderTexture3Dに書き込む。||
 |6|[@takeshik](https://github.com/takeshik)/[**ConsoleEx**](https://github.com/takeshik/ConsoleEx)|.NET Console Library||

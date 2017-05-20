@@ -45,7 +45,7 @@
 |35|[@tell-k](https://github.com/tell-k)/[**sphinxjp.themes.ba…**](https://github.com/tell-k/sphinxjp.themes.basicstrap)|Theme for Sphinx using Twitter Bootstrap|[:arrow_upper_right:](http://packages.python.org/sphinxjp.themes.basicstrap/)|
 |34|[@YasuakiHonda](https://github.com/YasuakiHonda)/[**Maxima-on-Android**](https://github.com/YasuakiHonda/Maxima-on-Android)|Maxima, the descendant of Macsyma computer algebra system (CAS), ported to Android||
 |34|[@g200kg](https://github.com/g200kg)/[**webaudio-tinysynth…**](https://github.com/g200kg/webaudio-tinysynth)|Light-weight GM mapped WebAudio-JavaScript Synthesizer Engine / MIDI Player||
-|34|[@tejitak](https://github.com/tejitak)/[**left-swipe-action**](https://github.com/tejitak/left-swipe-action)|Polymer web component like iOS swipe actions|[:arrow_upper_right:]( http://tejitak.github.io/left-swipe-action/demo.html)|
+|34|[@tejitak](https://github.com/tejitak)/[**left-swipe-action**](https://github.com/tejitak/left-swipe-action)|Polymer web component like iOS swipe actions||
 |32|[@rhysd](https://github.com/rhysd)/[**nyaovim-markdown-p…**](https://github.com/rhysd/nyaovim-markdown-preview)|Live Markdown Preview on NyaoVim|[:arrow_upper_right:](https://github.com/rhysd/NyaoVim)|
 |31|[@ukyo](https://github.com/ukyo)/[**wasm-usui-book**](https://github.com/ukyo/wasm-usui-book)|webassemblyの薄い本||
 |29|[@1000ch](https://github.com/1000ch)/[**syntax-highlight**](https://github.com/1000ch/syntax-highlight)|Code syntax highlight element.|[:arrow_upper_right:](https://1000ch.github.io/syntax-highlight)|
@@ -91,7 +91,7 @@
 |14|[@masa0221](https://github.com/masa0221)/[**hugo-theme-geppaku…**](https://github.com/masa0221/hugo-theme-geppaku)|Theme for the Hugo static website generator|[:arrow_upper_right:](http://themes.gohugo.io/hugo-theme-geppaku/)|
 |14|[@nitoyon](https://github.com/nitoyon)/[**tech.nitoyon.com**](https://github.com/nitoyon/tech.nitoyon.com)|TECH-NI source code|[:arrow_upper_right:](http://tech.nitoyon.com/)|
 |14|[@tomojitakasu](https://github.com/tomojitakasu)/[**RTKLIB_bin**](https://github.com/tomojitakasu/RTKLIB_bin)|||
-|13|[@Nodeclipse](https://github.com/Nodeclipse)/[**www.nodeclipse.org…**](https://github.com/Nodeclipse/www.nodeclipse.org)|www.nodeclipse.org site (resource for users) |[:arrow_upper_right:](www.nodeclipse.org)|
+|13|[@Nodeclipse](https://github.com/Nodeclipse)/[**www.nodeclipse.org…**](https://github.com/Nodeclipse/www.nodeclipse.org)|www.nodeclipse.org site (resource for users) ||
 |13|[@brtriver](https://github.com/brtriver)/[**silex-doc-ja**](https://github.com/brtriver/silex-doc-ja)|Silex documentations in Japanese||
 |13|[@llamakko](https://github.com/llamakko)/[**CVE-2015-7214**](https://github.com/llamakko/CVE-2015-7214)|[Firefox] SOP bypass PoC for CVE-2015-7214 (MFSA 2015-149)||
 |13|[@neuecc](https://github.com/neuecc)/[**Open-on-GitHub**](https://github.com/neuecc/Open-on-GitHub)|Visual Studio Extension for opening files on GitHub.com||
@@ -103,7 +103,7 @@
 |12|[@maki-t2nd](https://github.com/maki-t2nd)/[**fim**](https://github.com/maki-t2nd/fim)|フォームインプットメーカー||
 |12|[@michaelrambeau](https://github.com/michaelrambeau)/[**bestofjs**](https://github.com/michaelrambeau/bestofjs)|bestofjs Github pages repository. Please go to bestofjs-webui repository => |[:arrow_upper_right:](https://github.com/michaelrambeau/bestofjs-webui)|
 |11|[@HAKASHUN](https://github.com/HAKASHUN)/[**manabi**](https://github.com/HAKASHUN/manabi)|manabi||
-|11|[@nithinbekal](https://github.com/nithinbekal)/[**nithinbekal.github…**](https://github.com/nithinbekal/nithinbekal.github.io)|My personal website and blog, created with Jekyll|[:arrow_upper_right:](nithinbekal.com)|
+|11|[@nithinbekal](https://github.com/nithinbekal)/[**nithinbekal.github…**](https://github.com/nithinbekal/nithinbekal.github.io)|My personal website and blog, created with Jekyll||
 |10|[@frankdiox](https://github.com/frankdiox)/[**OnsenUI-router**](https://github.com/frankdiox/OnsenUI-router)|OnsenUI example app with ui-router||
 |10|[@hnakamur](https://github.com/hnakamur)/[**jquery.japanese-in…**](https://github.com/hnakamur/jquery.japanese-input-change)|a jQuery plugin which calls a handler function when texts inputted with Japanese IME change||
 |10|[@jilljenn](https://github.com/jilljenn)/[**tryalgo.org**](https://github.com/jilljenn/tryalgo.org)|Les 128 algorithmes qu'il faut avoir codés et compris dans sa vie en Python.|[:arrow_upper_right:](http://tryalgo.org)|
@@ -202,7 +202,7 @@
 |4|[@cognitom](https://github.com/cognitom)/[**riot-tutorial**](https://github.com/cognitom/riot-tutorial)|||
 |4|[@dit-rohm](https://github.com/dit-rohm)/[**dhacks**](https://github.com/dit-rohm/dhacks)|The source code for DHacks in the summer of 2015|[:arrow_upper_right:](http://dhacks.party)|
 |4|[@dritoshi](https://github.com/dritoshi)/[**ngstips**](https://github.com/dritoshi/ngstips)|||
-|4|[@farseerfc](https://github.com/farseerfc)/[**farseerfc.github.c…**](https://github.com/farseerfc/farseerfc.github.com)|Personal Blog powered by Pelican|[:arrow_upper_right:](farseerfc.github.com)|
+|4|[@farseerfc](https://github.com/farseerfc)/[**farseerfc.github.c…**](https://github.com/farseerfc/farseerfc.github.com)|Personal Blog powered by Pelican||
 |4|[@farseerfc](https://github.com/farseerfc)/[**farseerfc.github.i…**](https://github.com/farseerfc/farseerfc.github.io)|My new blog style with bootstrap-material-design||
 |4|[@gam0022](https://github.com/gam0022)/[**jmitani-railway**](https://github.com/gam0022/jmitani-railway)|http://mitani.cs.tsukuba.ac.jp/ja/software/railway/index.html||
 |4|[@gaspanik](https://github.com/gaspanik)/[**jdlestrap**](https://github.com/gaspanik/jdlestrap)|Bootstrap + Jade.||
@@ -218,9 +218,9 @@
 |4|[@miya0001](https://github.com/miya0001)/[**wordpress-generic-…**](https://github.com/miya0001/wordpress-generic-content-styles)|||
 |4|[@monochromegane](https://github.com/monochromegane)/[**hugo-theme-thinkin…**](https://github.com/monochromegane/hugo-theme-thinking-megane)|My blog theme for Hugo. Designed by keita_kawamoto. http://blog.monochromegane.com||
 |4|[@nna774](https://github.com/nna774)/[**nna774.net**](https://github.com/nna774/nna774.net)|middleman でつくるイケてるウェッブサイト|[:arrow_upper_right:](https://nna774.net/)|
-|4|[@ntddk](https://github.com/ntddk)/[**ntddk.github.io**](https://github.com/ntddk/ntddk.github.io)|技術ブログ|[:arrow_upper_right:](ntddk.github.io)|
+|4|[@ntddk](https://github.com/ntddk)/[**ntddk.github.io**](https://github.com/ntddk/ntddk.github.io)|技術ブログ||
 |4|[@ongaeshi](https://github.com/ongaeshi)/[**my_tiddlywiki**](https://github.com/ongaeshi/my_tiddlywiki)|TiddlyWikiを利用した備忘録です。日々思ったことを綴る日記や、ネタを書きためるメモ帳として使うことが出来ます。||
-|4|[@rosylilly](https://github.com/rosylilly)/[**rosylilly.github.i…**](https://github.com/rosylilly/rosylilly.github.io)|my web site|[:arrow_upper_right:](rosylilly.github.io)|
+|4|[@rosylilly](https://github.com/rosylilly)/[**rosylilly.github.i…**](https://github.com/rosylilly/rosylilly.github.io)|my web site||
 |4|[@sambatriste](https://github.com/sambatriste)/[**maven3-tutorial**](https://github.com/sambatriste/maven3-tutorial)||[:arrow_upper_right:](http://sambatriste.github.io/maven3-tutorial)|
 |4|[@sanographix](https://github.com/sanographix)/[**illustfolio4**](https://github.com/sanographix/illustfolio4)|The easiest way to make your own portfolio|[:arrow_upper_right:](https://sanographix.github.io/illustfolio4)|
 |4|[@sue445](https://github.com/sue445)/[**idle-recruit-gener…**](https://github.com/sue445/idle-recruit-generator)|アイドル募集ジェネレータ|[:arrow_upper_right:](http://sue445.github.io/idle-recruit-generator/)|

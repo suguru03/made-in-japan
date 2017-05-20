@@ -9,7 +9,7 @@
 |369|[@sanographix](https://github.com/sanographix)/[**rin**](https://github.com/sanographix/rin)|A Lean HTML & SASS Boilerplate|[:arrow_upper_right:](http://sanographix.github.io/rin)|
 |258|[@makotokw](https://github.com/makotokw)/[**redmine-theme-gitm…**](https://github.com/makotokw/redmine-theme-gitmike)|This is github-like theme for Redmine.||
 |249|[@simurai](https://github.com/simurai)/[**duotone-dark-synta…**](https://github.com/simurai/duotone-dark-syntax)|DuoTone dark - A syntax theme for Atom||
-|212|[@hermanschaaf](https://github.com/hermanschaaf)/[**ironzebra**](https://github.com/hermanschaaf/ironzebra)|A Go blogging engine|[:arrow_upper_right:](ironzebra.com)|
+|212|[@hermanschaaf](https://github.com/hermanschaaf)/[**ironzebra**](https://github.com/hermanschaaf/ironzebra)|A Go blogging engine||
 |210|[@waynezhang](https://github.com/waynezhang)/[**blog**](https://github.com/waynezhang/blog)|just another blog|[:arrow_upper_right:](http://lhzhang.com)|
 |208|[@cognitom](https://github.com/cognitom)/[**paper-css**](https://github.com/cognitom/paper-css)|Paper CSS for happy printing||
 |190|[@jmblog](https://github.com/jmblog)/[**color-themes-for-g…**](https://github.com/jmblog/color-themes-for-google-code-prettify)|Syntax highlighting color themes for Google Code Prettify|[:arrow_upper_right:](https://jmblog.github.io/color-themes-for-google-code-prettify/)|
@@ -23,7 +23,7 @@
 |131|[@georgeOsdDev](https://github.com/georgeOsdDev)/[**markdown-edit**](https://github.com/georgeOsdDev/markdown-edit)|online markdown editor/viewer|[:arrow_upper_right:](http://georgeosddev.github.com/markdown-edit/)|
 |128|[@simurai](https://github.com/simurai)/[**filter.css**](https://github.com/simurai/filter.css)|A collection of CSS filter combos|[:arrow_upper_right:](http://simurai.com/filter.css/)|
 |118|[@minodisk](https://github.com/minodisk)/[**markn**](https://github.com/minodisk/markn)|Lightweight markdown viewer.|[:arrow_upper_right:](https://github.com/minodisk/markn/releases/latest)|
-|106|[@ktoso](https://github.com/ktoso)/[**scala-types-of-typ…**](https://github.com/ktoso/scala-types-of-types)|Scala's Types of Types|[:arrow_upper_right:](ktoso.github.io/scala-types-of-types)|
+|106|[@ktoso](https://github.com/ktoso)/[**scala-types-of-typ…**](https://github.com/ktoso/scala-types-of-types)|Scala's Types of Types||
 |105|[@zembutsu](https://github.com/zembutsu)/[**docs.docker.jp**](https://github.com/zembutsu/docs.docker.jp)|Dockerドキュメント日本語化プロジェクト  ,Docker Documentation Translate Project for ja-jp|[:arrow_upper_right:](http://docs.docker.jp)|
 |102|[@cognitom](https://github.com/cognitom)/[**keiyaku-css**](https://github.com/cognitom/keiyaku-css)|Crazy Style Formatter for Japanese Contract Document|[:arrow_upper_right:](https://cognitom.github.io/keiyaku-css/)|
 |97|[@martinheidegger](https://github.com/martinheidegger)/[**es6modules-nodejs**](https://github.com/martinheidegger/es6modules-nodejs)|A summary of the discussion of ES6 modules in Node.js|[:arrow_upper_right:](http://es2015-node.js.org/)|
@@ -34,7 +34,7 @@
 |79|[@simurai](https://github.com/simurai)/[**duotone-syntax**](https://github.com/simurai/duotone-syntax)|Master template for DuoTone syntax themes||
 |72|[@onevcat](https://github.com/onevcat)/[**OneV-s-Den**](https://github.com/onevcat/OneV-s-Den)|Blog||
 |65|[@rakuishi](https://github.com/rakuishi)/[**hugo-zen**](https://github.com/rakuishi/hugo-zen)|Hugo Zen is a minimal hugo theme.||
-|55|[@agektmr](https://github.com/agektmr)/[**BrowserStorageAbus…**](https://github.com/agektmr/BrowserStorageAbuser)|Browser Storage Abuser is a tool to experiment your browser storage limitation on LocalStorage, SessionStorage, WebSQL Database, IndexedDB API and FileSystem API. You can add arbitrary sized files to those storage to see the limit of their size.|[:arrow_upper_right:](demo.agektmr.com/storage/)|
+|55|[@agektmr](https://github.com/agektmr)/[**BrowserStorageAbus…**](https://github.com/agektmr/BrowserStorageAbuser)|Browser Storage Abuser is a tool to experiment your browser storage limitation on LocalStorage, SessionStorage, WebSQL Database, IndexedDB API and FileSystem API. You can add arbitrary sized files to those storage to see the limit of their size.||
 |55|[@htanjo](https://github.com/htanjo)/[**kss-node-template**](https://github.com/htanjo/kss-node-template)|Stylish template for kss-node.|[:arrow_upper_right:](http://htanjo.github.io/kss-node-template/)|
 |53|[@simurai](https://github.com/simurai)/[**umbrUI**](https://github.com/simurai/umbrUI)|appearance:none styling.||
 |53|[@t32k](https://github.com/t32k)/[**wisteria**](https://github.com/t32k/wisteria)|The best HTML-driven prototyping tool for designing in browser.|[:arrow_upper_right:](http://t32k.me/wisteria/)|
@@ -112,7 +112,7 @@
 |12|[@muraken720](https://github.com/muraken720)/[**jeet-gulp**](https://github.com/muraken720/jeet-gulp)|A template gulp project for Jeet.||
 |12|[@totoraj930](https://github.com/totoraj930)/[**dokaben-css**](https://github.com/totoraj930/dokaben-css)|アレ||
 |12|[@ttskch](https://github.com/ttskch)/[**jekyll-tch-theme**](https://github.com/ttskch/jekyll-tch-theme)|A simple and customizable theme for Jekyll.|[:arrow_upper_right:](http://ttskch.github.io/jekyll-tch-theme/)|
-|11|[@agektmr](https://github.com/agektmr)/[**PortableCache**](https://github.com/agektmr/PortableCache)|Cache assets, reduce downloads, load faster.|[:arrow_upper_right:](agektmr.github.io/PortableCache/)|
+|11|[@agektmr](https://github.com/agektmr)/[**PortableCache**](https://github.com/agektmr/PortableCache)|Cache assets, reduce downloads, load faster.||
 |11|[@jamesknelson](https://github.com/jamesknelson)/[**numbat-ui**](https://github.com/jamesknelson/numbat-ui)|||
 |11|[@simurai](https://github.com/simurai)/[**duotone-dark-fores…**](https://github.com/simurai/duotone-dark-forest-syntax)|A dark green-yellow DuoTone syntax theme|[:arrow_upper_right:](http://simurai.com/duotone-dark-forest-syntax/)|
 |11|[@tyabe](https://github.com/tyabe)/[**kaja**](https://github.com/tyabe/kaja)|the web site for RubyKaja.||
@@ -174,7 +174,7 @@
 |6|[@manabuyasuda](https://github.com/manabuyasuda)/[**ITCSS**](https://github.com/manabuyasuda/ITCSS)|This is stylesheet based on ITCSS and FLOCSS||
 |6|[@nekobato](https://github.com/nekobato)/[**GyazzAC**](https://github.com/nekobato/GyazzAC)|GyazzA(C) Slide Bookmarklet||
 |6|[@okinawarb](https://github.com/okinawarb)/[**okrk01**](https://github.com/okinawarb/okrk01)|沖縄Ruby会議01 公式ウェブサイト|[:arrow_upper_right:](http://regional.rubykaigi.org/okrk01/)|
-|6|[@sadiqevani](https://github.com/sadiqevani)/[**sonal**](https://github.com/sadiqevani/sonal)|(Per)sonal Grid System. An OOCSS Grid/Framework with Fixed, Fixed-Fluid and Fluid Layout.|[:arrow_upper_right:](sadiqevani.github.io/sonal)|
+|6|[@sadiqevani](https://github.com/sadiqevani)/[**sonal**](https://github.com/sadiqevani/sonal)|(Per)sonal Grid System. An OOCSS Grid/Framework with Fixed, Fixed-Fluid and Fluid Layout.||
 |6|[@sinmetal](https://github.com/sinmetal)/[**angularjs-sample**](https://github.com/sinmetal/angularjs-sample)|||
 |6|[@sotayamashita](https://github.com/sotayamashita)/[**psg-theme-sassline…**](https://github.com/sotayamashita/psg-theme-sassline)|Sassline theme for postcss-style-guide||
 |6|[@tyoro](https://github.com/tyoro)/[**tyozo**](https://github.com/tyoro/tyozo)|オレオレgyazoで出力された画像を一覧表示したり管理する。||
@@ -188,7 +188,7 @@
 |5|[@hiloki](https://github.com/hiloki)/[**su-shi**](https://github.com/hiloki/su-shi)|SUSHI by Polymer|[:arrow_upper_right:](http://hiloki.github.io/su-shi/)|
 |5|[@huydx](https://github.com/huydx)/[**scalresume**](https://github.com/huydx/scalresume)|build your beautiful resume using markdown||
 |5|[@is8r](https://github.com/is8r)/[**spuit**](https://github.com/is8r/spuit)|A Sass Mixin Library from is8r to is8r||
-|5|[@makotokw](https://github.com/makotokw)/[**wp-theme-makotokw**](https://github.com/makotokw/wp-theme-makotokw)|WordPress theme for kwLog|[:arrow_upper_right:](blog.makotokw.com)|
+|5|[@makotokw](https://github.com/makotokw)/[**wp-theme-makotokw**](https://github.com/makotokw/wp-theme-makotokw)|WordPress theme for kwLog||
 |5|[@manabuyasuda](https://github.com/manabuyasuda)/[**dorcss**](https://github.com/manabuyasuda/dorcss)|DORCSS（ドールシーエスエス）はRole（役割）を分担・分割（Division）することで影響範囲を管理する、CSS設計の構成案です。||
 |5|[@megane9988](https://github.com/megane9988)/[**wp-d**](https://github.com/megane9988/wp-d)|wp-d Repository|[:arrow_upper_right:](http://wp-d.org)|
 |5|[@morishitter](https://github.com/morishitter)/[**sketch.css**](https://github.com/morishitter/sketch.css)|Sketch is a CSS framework, it makes Web designing more fun.||
@@ -269,7 +269,7 @@
 |3|[@kaiinui](https://github.com/kaiinui)/[**droidgems**](https://github.com/kaiinui/droidgems)|An awesome libraries for Android development.||
 |3|[@kawanet](https://github.com/kawanet)/[**OCSS**](https://github.com/kawanet/OCSS)|OCSS - CSS Parser for iOS||
 |3|[@konitter](https://github.com/konitter)/[**re-dzine.net**](https://github.com/konitter/re-dzine.net)|REFLECTDESIGN|[:arrow_upper_right:](http://re-dzine.net/)|
-|3|[@krug](https://github.com/krug)/[**krug.github.io**](https://github.com/krug/krug.github.io)|The website of Kerala Ruby Users Group|[:arrow_upper_right:](krug.github.io)|
+|3|[@krug](https://github.com/krug)/[**krug.github.io**](https://github.com/krug/krug.github.io)|The website of Kerala Ruby Users Group||
 |3|[@kyanny](https://github.com/kyanny)/[**shibuyarblunch**](https://github.com/kyanny/shibuyarblunch)|Archive of #shibuyarblunch|[:arrow_upper_right:](http://shibuyarblunch.heroku.com/)|
 |3|[@makotot](https://github.com/makotot)/[**scss-lint-example**](https://github.com/makotot/scss-lint-example)|scss-lint ||
 |3|[@manabuyasuda](https://github.com/manabuyasuda)/[**stylesheet**](https://github.com/manabuyasuda/stylesheet)|FLOCSS, OOCSS, BEM, Responsive, Sass Library.||
@@ -277,7 +277,7 @@
 |3|[@morishitter](https://github.com/morishitter)/[**normalize.styl**](https://github.com/morishitter/normalize.styl)|Stylus port of normalize.css v3.0.3||
 |3|[@naokomc](https://github.com/naokomc)/[**wp-theme-workshop**](https://github.com/naokomc/wp-theme-workshop)|Files for WordPress theme workshop.||
 |3|[@nazomikan](https://github.com/nazomikan)/[**mandelbrot**](https://github.com/nazomikan/mandelbrot)|||
-|3|[@nazomikan](https://github.com/nazomikan)/[**ninja-claus**](https://github.com/nazomikan/ninja-claus)|You will distribute presents to the children become Santa Claus(Ninja Claus). Sometimes, You would be fight with rivals.|[:arrow_upper_right:](nazomikan.com:8000)|
+|3|[@nazomikan](https://github.com/nazomikan)/[**ninja-claus**](https://github.com/nazomikan/ninja-claus)|You will distribute presents to the children become Santa Claus(Ninja Claus). Sometimes, You would be fight with rivals.||
 |3|[@nineties](https://github.com/nineties)/[**NLP-seminar**](https://github.com/nineties/NLP-seminar)|||
 |3|[@ounziw](https://github.com/ounziw)/[**fuel.php-web.net**](https://github.com/ounziw/fuel.php-web.net)|||
 |3|[@rakuishi](https://github.com/rakuishi)/[**rakuishi.com**](https://github.com/rakuishi/rakuishi.com)|Since Aug 25, 2011|[:arrow_upper_right:](https://rakuishi.com/)|

@@ -235,7 +235,7 @@
 |9|[@yyuu](https://github.com/yyuu)/[**pyenv-ccache**](https://github.com/yyuu/pyenv-ccache)|Make Python build faster, with using the leverage of `ccache`.||
 |9|[@zembutsu](https://github.com/zembutsu)/[**AWS-EstimateCharge…**](https://github.com/zembutsu/AWS-EstimateCharge)|Munin plugins for "AWS EstimateCharge". to get monthly estimated charge; total charge and each services||
 |8|[@aminaura](https://github.com/aminaura)/[**AURUnlockSlider**](https://github.com/aminaura/AURUnlockSlider)|Simple Unlock Slider View||
-|8|[@b4b4r07](https://github.com/b4b4r07)/[**cli**](https://github.com/b4b4r07/cli)|Get binaries from GitHub releases|[:arrow_upper_right:](git.io/cli)|
+|8|[@b4b4r07](https://github.com/b4b4r07)/[**cli**](https://github.com/b4b4r07/cli)|Get binaries from GitHub releases||
 |8|[@b4b4r07](https://github.com/b4b4r07)/[**cli-finder**](https://github.com/b4b4r07/cli-finder)|:file_folder: A command-line finder with fzf||
 |8|[@b4b4r07](https://github.com/b4b4r07)/[**zsh-gomi**](https://github.com/b4b4r07/zsh-gomi)|:put_litter_in_its_place: zsh-gomi implements CLI gomi written in Go.||
 |8|[@hakobera](https://github.com/hakobera)/[**docker-locust-gke**](https://github.com/hakobera/docker-locust-gke)|Example of locust cluster for Google Container Engine||
@@ -564,7 +564,7 @@
 |3|[@nobuoka](https://github.com/nobuoka)/[**android-GoogleDriv…**](https://github.com/nobuoka/android-GoogleDriveSample)|||
 |3|[@nobuoka](https://github.com/nobuoka)/[**shino**](https://github.com/nobuoka/shino)|||
 |3|[@nyarla](https://github.com/nyarla)/[**zsh-theme-nerdish**](https://github.com/nyarla/zsh-theme-nerdish)|A prompt theme for zsh with Nerd Fonts||
-|3|[@okinawarb](https://github.com/okinawarb)/[**minecraft-server**](https://github.com/okinawarb/minecraft-server)|MineCraft Server for Okinawa.rb|[:arrow_upper_right:](180.235.230.179)|
+|3|[@okinawarb](https://github.com/okinawarb)/[**minecraft-server**](https://github.com/okinawarb/minecraft-server)|MineCraft Server for Okinawa.rb||
 |3|[@osyoyu](https://github.com/osyoyu)/[**config**](https://github.com/osyoyu/config)|config files||
 |3|[@pasberth](https://github.com/pasberth)/[**slipd**](https://github.com/pasberth/slipd)|cd ../../.. とかするのが嫌||
 |3|[@pine](https://github.com/pine)/[**ndenv-yarn-install…**](https://github.com/pine/ndenv-yarn-install)|:zap: Automatically install Yarn after ndenv install||

@@ -20,7 +20,7 @@
 |6|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
 |6|[@masui](https://github.com/masui)/[**EpisoPass**](https://github.com/masui/EpisoPass)|EpisoPass - creating passwords from episodic memory||
 |5|[@farseerfc](https://github.com/farseerfc)/[**sjtu-thesis-xelate…**](https://github.com/farseerfc/sjtu-thesis-xelatex)|This repo is UNMAINTAINED and DEPRECATED, 代码已过时，请使用下面的模板|[:arrow_upper_right:](https://github.com/weijianwen/sjtu-thesis-template-latex)|
-|5|[@frankdiox](https://github.com/frankdiox)/[**Nipponline**](https://github.com/frankdiox/Nipponline)||[:arrow_upper_right:](nipponline.wordpress.com)|
+|5|[@frankdiox](https://github.com/frankdiox)/[**Nipponline**](https://github.com/frankdiox/Nipponline)|||
 |5|[@kmaed](https://github.com/kmaed)/[**pdffill**](https://github.com/kmaed/pdffill)|LaTeX macros to fill in PDF.||
 |5|[@miyukki](https://github.com/miyukki)/[**graduate-thesis**](https://github.com/miyukki/graduate-thesis)|My Graduate Thesis in Keio Univ. Murai Lab.||
 |5|[@uwabami](https://github.com/uwabami)/[**beamerthemeKansaiD…**](https://github.com/uwabami/beamerthemeKansaiDebianMeeting)|latex-beamer theme for KansaiDebianMeeting||

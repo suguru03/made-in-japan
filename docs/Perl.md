@@ -683,7 +683,7 @@
 |3|[@hiratara](https://github.com/hiratara)/[**p5-RuntUp**](https://github.com/hiratara/p5-RuntUp)|A worthless uploader (for private use).||
 |3|[@hiratara](https://github.com/hiratara)/[**p5-Simpath**](https://github.com/hiratara/p5-Simpath)|An implementation of Simpath algorithm.||
 |3|[@hisaichi5518](https://github.com/hisaichi5518)/[**git-scripts**](https://github.com/hisaichi5518/git-scripts)|git scripts for me.||
-|3|[@hsbt](https://github.com/hsbt)/[**zsh-svk**](https://github.com/hsbt/zsh-svk)|forked zsh-svk|[:arrow_upper_right:](git://gaffer.ptitcanardnoir.org/zsh-svk.git)|
+|3|[@hsbt](https://github.com/hsbt)/[**zsh-svk**](https://github.com/hsbt/zsh-svk)|forked zsh-svk||
 |3|[@iizukanao](https://github.com/iizukanao)/[**perlhint.com**](https://github.com/iizukanao/perlhint.com)||[:arrow_upper_right:](http://perlhint.com)|
 |3|[@issm](https://github.com/issm)/[**Hoya**](https://github.com/issm/Hoya)|Hello, world: http://blog.iwa-ya.net/2010/09/05/130755||
 |3|[@issm](https://github.com/issm)/[**SiTeWiki**](https://github.com/issm/SiTeWiki)|Simply Textiled Wiki||

@@ -152,7 +152,7 @@
 |58|[@akiroom](https://github.com/akiroom)/[**MaterialDesignCoco…**](https://github.com/akiroom/MaterialDesignCocoa)|Material Design UI Components for Cocoa||
 |58|[@kishikawakatsumi](https://github.com/kishikawakatsumi)/[**UUIDShortener**](https://github.com/kishikawakatsumi/UUIDShortener)|Convert UUID 32-character hex string into a Base32 short string and back.||
 |56|[@tmurakam](https://github.com/tmurakam)/[**itemshelf**](https://github.com/tmurakam/itemshelf)|ItemShelf application for iPhone|[:arrow_upper_right:](http://itemshelf.com)|
-|55|[@dataich](https://github.com/dataich)/[**LiveDiag**](https://github.com/dataich/LiveDiag)|Live Preview App for Markdown+blockdiag|[:arrow_upper_right:](dataich.github.io/LiveDiag)|
+|55|[@dataich](https://github.com/dataich)/[**LiveDiag**](https://github.com/dataich/LiveDiag)|Live Preview App for Markdown+blockdiag||
 |55|[@saiten](https://github.com/saiten)/[**STDeferred**](https://github.com/saiten/STDeferred)|Simple implementation of deferred object||
 |54|[@katsuyoshi](https://github.com/katsuyoshi)/[**iunittest**](https://github.com/katsuyoshi/iunittest)|iUnitTest is an unit testing framework for iPhone applications.||
 |54|[@ntaku](https://github.com/ntaku)/[**iphone-samples**](https://github.com/ntaku/iphone-samples)|iPhone programming samples without using Interface Builder|[:arrow_upper_right:](http://d.hatena.ne.jp/ntaku)|
@@ -476,7 +476,7 @@
 |10|[@matsuokah](https://github.com/matsuokah)/[**NSString-ActualLen…**](https://github.com/matsuokah/NSString-ActualLength)|||
 |10|[@mokemokechicken](https://github.com/mokemokechicken)/[**iBeaconNotifier**](https://github.com/mokemokechicken/iBeaconNotifier)|||
 |10|[@naoty](https://github.com/naoty)/[**NTYPopulator**](https://github.com/naoty/NTYPopulator)|A seed data populator for Core Data.||
-|10|[@onevcat](https://github.com/onevcat)/[**PhotoData_Kiwi**](https://github.com/onevcat/PhotoData_Kiwi)|Use Kiwi to replace objc.io's first issue. Just a demo for Kiwi and my post.|[:arrow_upper_right:](onevcat.com/2014/05/kiwi-mock-stub-test/)|
+|10|[@onevcat](https://github.com/onevcat)/[**PhotoData_Kiwi**](https://github.com/onevcat/PhotoData_Kiwi)|Use Kiwi to replace objc.io's first issue. Just a demo for Kiwi and my post.||
 |10|[@punchdrunker](https://github.com/punchdrunker)/[**Opener**](https://github.com/punchdrunker/Opener)|windowsでコピペしたネットワークサーバのファイルパスをmacで開く為のアプリケーション||
 |10|[@reinforce-lab](https://github.com/reinforce-lab)/[**wafuBeacon**](https://github.com/reinforce-lab/wafuBeacon)|iBeacon sample codes and its libraries.||
 |10|[@soutaro](https://github.com/soutaro)/[**SelectorKit**](https://github.com/soutaro/SelectorKit)|||
@@ -521,7 +521,7 @@
 |8|[@hirohisa](https://github.com/hirohisa)/[**ImageLoader**](https://github.com/hirohisa/ImageLoader)|A lightweight and fast image loader for iOS.||
 |8|[@hisasann](https://github.com/hisasann)/[**Like-a-Instagram-C…**](https://github.com/hisasann/Like-a-Instagram-Camera-iOS)|InstagramのようなカメラUI||
 |8|[@jumbo-in-Jap](https://github.com/jumbo-in-Jap)/[**phonegap-ibeacon-p…**](https://github.com/jumbo-in-Jap/phonegap-ibeacon-plugin)|||
-|8|[@kenmaz](https://github.com/kenmaz)/[**cocos2d_billiards**](https://github.com/kenmaz/cocos2d_billiards)|cocos2d + box2d simple billiard game|[:arrow_upper_right:](www.kenmaz.net)|
+|8|[@kenmaz](https://github.com/kenmaz)/[**cocos2d_billiards**](https://github.com/kenmaz/cocos2d_billiards)|cocos2d + box2d simple billiard game||
 |8|[@kent013](https://github.com/kent013)/[**EVNConnect**](https://github.com/kent013/EVNConnect)|Evernote API wrapper for ios5||
 |8|[@kyab](https://github.com/kyab)/[**Oscilloscope**](https://github.com/kyab/Oscilloscope)|Sound input monitor in oscilloscope style with spectrum. you need macruby0.8 to build. ||
 |8|[@mokemokechicken](https://github.com/mokemokechicken)/[**MemoryWarningSende…**](https://github.com/mokemokechicken/MemoryWarningSender)|A Plugin of iOS Simulator send 'MemoryWarning' repeatedly.||
@@ -536,7 +536,7 @@
 |8|[@tochi](https://github.com/tochi)/[**ContactSample**](https://github.com/tochi/ContactSample)|||
 |8|[@tochi](https://github.com/tochi)/[**HTTPFileUploadSamp…**](https://github.com/tochi/HTTPFileUploadSample)||[:arrow_upper_right:](http://www.aguuu.com)|
 |8|[@tokorom](https://github.com/tokorom)/[**XcodeVersioningSam…**](https://github.com/tokorom/XcodeVersioningSample)|||
-|8|[@tomohisa](https://github.com/tomohisa)/[**EasyBlockCallback**](https://github.com/tomohisa/EasyBlockCallback)|Make callback easy with blocks (iOS4 or more required)|[:arrow_upper_right:](www.zero4racer.com/blog/)|
+|8|[@tomohisa](https://github.com/tomohisa)/[**EasyBlockCallback**](https://github.com/tomohisa/EasyBlockCallback)|Make callback easy with blocks (iOS4 or more required)||
 |8|[@waynezhang](https://github.com/waynezhang)/[**Power-Control-Plug…**](https://github.com/waynezhang/Power-Control-Plugin-for-LockInfo)|Power Control plugin for LockInfo. Turn on/off WiFi, Bluetooth, Tethering, Location, Orientation Lock, Airplane Mode from lockinfo||
 |8|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**ARNAlert**](https://github.com/xxxAIRINxxx/ARNAlert)|Wrapper of UIAlertView & UIAlertController||
 |8|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**ARNSwizzBlocks**](https://github.com/xxxAIRINxxx/ARNSwizzBlocks)|||
@@ -561,7 +561,7 @@
 |7|[@kaiinui](https://github.com/kaiinui)/[**Reachability-RACEx…**](https://github.com/kaiinui/Reachability-RACExtensions)|Reachability with ReactiveCocoa!||
 |7|[@kent013](https://github.com/kent013)/[**PhotoSubmitterExam…**](https://github.com/kent013/PhotoSubmitterExample)|Example project for PhotoSubmitter|[:arrow_upper_right:](https://github.com/kent013/PhotoSubmitter)|
 |7|[@kentya6](https://github.com/kentya6)/[**KYCircularView**](https://github.com/kentya6/KYCircularView)|||
-|7|[@kevincobain2000](https://github.com/kevincobain2000)/[**Bayes**](https://github.com/kevincobain2000/Bayes)|Bayesian Classification in Objective-C|[:arrow_upper_right:](www.jaist.ac.jp:~/s1010205)|
+|7|[@kevincobain2000](https://github.com/kevincobain2000)/[**Bayes**](https://github.com/kevincobain2000/Bayes)|Bayesian Classification in Objective-C||
 |7|[@koogawa](https://github.com/koogawa)/[**WatchConnectivityS…**](https://github.com/koogawa/WatchConnectivitySample)|watchOS 2 Watch Connectivity Sample||
 |7|[@laiso](https://github.com/laiso)/[**LLLGTM**](https://github.com/laiso/LLLGTM)|Mac app to post LGTM fastest :rocket: :rocket: :rocket:||
 |7|[@mootoh](https://github.com/mootoh)/[**Rurimaphone**](https://github.com/mootoh/Rurimaphone)|Ruby Reference Manual on your pocket.||
@@ -730,7 +730,7 @@
 |4|[@kaz29](https://github.com/kaz29)/[**iPhone-Zinnia-Tega…**](https://github.com/kaz29/iPhone-Zinnia-TegakiStroke)|||
 |4|[@keroxp](https://github.com/keroxp)/[**Gyazz-for-iPhone**](https://github.com/keroxp/Gyazz-for-iPhone)|GyazzのiOSインターフェース||
 |4|[@koogawa](https://github.com/koogawa)/[**KGWLocationPicker**](https://github.com/koogawa/KGWLocationPicker)|Simple location picker with a built in maps.||
-|4|[@kyab](https://github.com/kyab)/[**AiffPlayer**](https://github.com/kyab/AiffPlayer)|Using Core Audio to play aiff file|[:arrow_upper_right:](Simple Aiff Player which support [scrub] the sound. require MacRuby1.0 for build and run.)|
+|4|[@kyab](https://github.com/kyab)/[**AiffPlayer**](https://github.com/kyab/AiffPlayer)|Using Core Audio to play aiff file||
 |4|[@kyab](https://github.com/kyab)/[**AlwaysDisplayPlugi…**](https://github.com/kyab/AlwaysDisplayPlugins)|SIMBL plugin.Avoids hiding of VST/AU plugin windows when Ableton Live is running in background.||
 |4|[@kyab](https://github.com/kyab)/[**ChordPlayer**](https://github.com/kyab/ChordPlayer)|some code fragment which allow me to write script like "C-F-C-F-Dm7".play||
 |4|[@kyab](https://github.com/kyab)/[**OpenGLSimpleRotati…**](https://github.com/kyab/OpenGLSimpleRotation)|OpenGL exam||

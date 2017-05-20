@@ -318,7 +318,7 @@
 |11|[@c-bata](https://github.com/c-bata)/[**webframework-in-py…**](https://github.com/c-bata/webframework-in-python)|How to develop WSGI WEB Framework at PyConJP 2016|[:arrow_upper_right:](http://c-bata.link/webframework-in-python/slide.html)|
 |11|[@cou929](https://github.com/cou929)/[**Japanese-Translati…**](https://github.com/cou929/Japanese-Translation-of-How-Browsers-Work)|Japanese translation of How Browsers Work (http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)|[:arrow_upper_right:](http://cou929.nu/docs/how-browsers-work/)|
 |11|[@doloopwhile](https://github.com/doloopwhile)/[**pyjq**](https://github.com/doloopwhile/pyjq)|A Python binding for ./jq||
-|11|[@futoase](https://github.com/futoase)/[**PyQCheck**](https://github.com/futoase/PyQCheck)|PyQCheck|[:arrow_upper_right:]( http://futoase.github.io/PyQCheck/)|
+|11|[@futoase](https://github.com/futoase)/[**PyQCheck**](https://github.com/futoase/PyQCheck)|PyQCheck||
 |11|[@hakobe](https://github.com/hakobe)/[**anime_recommend**](https://github.com/hakobe/anime_recommend)|||
 |11|[@hfm](https://github.com/hfm)/[**change_anomaly_det…**](https://github.com/hfm/change_anomaly_detection)|Change point detection with Python||
 |11|[@idobatter](https://github.com/idobatter)/[**wxAutoMine**](https://github.com/idobatter/wxAutoMine)|minesweeper solver ( python winmine.exe auto cruiser )|[:arrow_upper_right:](http://idobatter.github.com/wxAutoMine/)|
@@ -425,7 +425,7 @@
 |8|[@making](https://github.com/making)/[**jsug-spring-boot-h…**](https://github.com/making/jsug-spring-boot-handson)||[:arrow_upper_right:](http://jsug-spring-boot-handson.readthedocs.org/)|
 |8|[@making](https://github.com/making)/[**spring-boot-camp-i…**](https://github.com/making/spring-boot-camp-instruction)|Spring Bootキャンプのハンズオン資料です||
 |8|[@marcan](https://github.com/marcan)/[**hackit**](https://github.com/marcan/hackit)|Hack It Framework||
-|8|[@masuidrive](https://github.com/masuidrive)/[**TiInAppPurchase**](https://github.com/masuidrive/TiInAppPurchase)|InAppPurchase for Titanium mobile iphone|[:arrow_upper_right:](none)|
+|8|[@masuidrive](https://github.com/masuidrive)/[**TiInAppPurchase**](https://github.com/masuidrive/TiInAppPurchase)|InAppPurchase for Titanium mobile iphone||
 |8|[@methane](https://github.com/methane)/[**MyKaze**](https://github.com/methane/MyKaze)|Tornado <= greenlet => PyMySQL||
 |8|[@mikheyev](https://github.com/mikheyev)/[**MinION-review**](https://github.com/mikheyev/MinION-review)|Review of the Oxford Nanopore MinION platform||
 |8|[@mitmul](https://github.com/mitmul)/[**1f-chainer**](https://github.com/mitmul/1f-chainer)|||
@@ -552,7 +552,7 @@
 |6|[@nayutaya](https://github.com/nayutaya)/[**20160228-gdg-kobe**](https://github.com/nayutaya/20160228-gdg-kobe)|2016年2月28日開催されたGDG神戸 機械学習勉強会での発表資料とそのソースコード。||
 |6|[@ojii](https://github.com/ojii)/[**leftronicd**](https://github.com/ojii/leftronicd)|||
 |6|[@pasberth](https://github.com/pasberth)/[**Bellsend**](https://github.com/pasberth/Bellsend)|パスベルスの物語||
-|6|[@recurser](https://github.com/recurser)/[**trac-gantt-calenda…**](https://github.com/recurser/trac-gantt-calendar)|Gantt chart and calendar functionality for Trac.|[:arrow_upper_right:](trac-gantt-calendar)|
+|6|[@recurser](https://github.com/recurser)/[**trac-gantt-calenda…**](https://github.com/recurser/trac-gantt-calendar)|Gantt chart and calendar functionality for Trac.||
 |6|[@shibu](https://github.com/shibu)/[**pyspec**](https://github.com/shibu/pyspec)|Behavior Driven Development Framework for Python|[:arrow_upper_right:](http://www.codeplex.com/pyspec)|
 |6|[@shirou](https://github.com/shirou)/[**infodrawer**](https://github.com/shirou/infodrawer)|||
 |6|[@snaga](https://github.com/snaga)/[**Hecatoncheir**](https://github.com/snaga/Hecatoncheir)|Hecatoncheir: The Data Stewardship Studio||
@@ -896,7 +896,7 @@
 |3|[@manzyun](https://github.com/manzyun)/[**Setsuna**](https://github.com/manzyun/Setsuna)|Micro SNS or BBS, maybe.||
 |3|[@marocchino](https://github.com/marocchino)/[**python-basic**](https://github.com/marocchino/python-basic)|python 勉強会の study codes||
 |3|[@mashiro](https://github.com/mashiro)/[**fortunella**](https://github.com/mashiro/fortunella)|IRC bot framework for Python||
-|3|[@masuidrive](https://github.com/masuidrive)/[**juno-with-user-aut…**](https://github.com/masuidrive/juno-with-user-auth-on-gae)|juno-with-user-auth-on-gae|[:arrow_upper_right:](none)|
+|3|[@masuidrive](https://github.com/masuidrive)/[**juno-with-user-aut…**](https://github.com/masuidrive/juno-with-user-auth-on-gae)|juno-with-user-auth-on-gae||
 |3|[@methane](https://github.com/methane)/[**pixiv-isucon2016-p…**](https://github.com/methane/pixiv-isucon2016-python)|||
 |3|[@minorua](https://github.com/minorua)/[**SimpleWCSServer**](https://github.com/minorua/SimpleWCSServer)|a simple WCS (Web Coverage Service) server, which can serve coverages to WCS clients such as QGIS.||
 |3|[@miseyu](https://github.com/miseyu)/[**luigi-etl**](https://github.com/miseyu/luigi-etl)|luigi app for own||

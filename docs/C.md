@@ -44,7 +44,7 @@
 |122|[@randrew](https://github.com/randrew)/[**layout**](https://github.com/randrew/layout)|Library for calculating 2D UI layouts using stacking boxes. Compiles as C99 or C++. Two files.||
 |113|[@kaigai](https://github.com/kaigai)/[**nvme-kmod**](https://github.com/kaigai/nvme-kmod)|A kernel module to support SSD-to-GPU direct DMA||
 |112|[@kubo](https://github.com/kubo)/[**snzip**](https://github.com/kubo/snzip)|Snzip, a compression/decompression tool based on snappy||
-|107|[@chobie](https://github.com/chobie)/[**php-protocolbuffer…**](https://github.com/chobie/php-protocolbuffers)|PECL ProtocolBuffers|[:arrow_upper_right:](pecl.php.net/package/protocolbuffers)|
+|107|[@chobie](https://github.com/chobie)/[**php-protocolbuffer…**](https://github.com/chobie/php-protocolbuffers)|PECL ProtocolBuffers||
 |107|[@mattn](https://github.com/mattn)/[**vim-particle**](https://github.com/mattn/vim-particle)|||
 |105|[@akisute](https://github.com/akisute)/[**iPhonePDF**](https://github.com/akisute/iPhonePDF)|An example Xcode project to create PDF files on iPhone device (with libHaru)|[:arrow_upper_right:](http://libharu.org/)|
 |105|[@higepon](https://github.com/higepon)/[**mona**](https://github.com/higepon/mona)|MonaOS is a free operating system. It's new, small, simple, open source and well structured.|[:arrow_upper_right:](http://www.monaos.org/)|
@@ -163,7 +163,7 @@
 |23|[@authorNari](https://github.com/authorNari)/[**objspace-age**](https://github.com/authorNari/objspace-age)|Show stats on object's age.||
 |23|[@keiji0](https://github.com/keiji0)/[**canything**](https://github.com/keiji0/canything)|CUIでEmacs anythingを使うコマンド|[:arrow_upper_right:](http://filmlang.org/soft/canything)|
 |23|[@shugo](https://github.com/shugo)/[**mod_ruby**](https://github.com/shugo/mod_ruby)|Embedding Ruby in the Apache web server|[:arrow_upper_right:](http://modruby.net/)|
-|23|[@suzukaze](https://github.com/suzukaze)/[**mruby-msgpack**](https://github.com/suzukaze/mruby-msgpack)|MessagePack for mruby / msgpack.org[mruby]|[:arrow_upper_right:](MessagePack for mruby)|
+|23|[@suzukaze](https://github.com/suzukaze)/[**mruby-msgpack**](https://github.com/suzukaze/mruby-msgpack)|MessagePack for mruby / msgpack.org[mruby]||
 |22|[@RKX1209](https://github.com/RKX1209)/[**TinyLinux**](https://github.com/RKX1209/TinyLinux)|TinyLinux is a tiny kernel.||
 |22|[@fjolnir](https://github.com/fjolnir)/[**CoreFoundation-Lit…**](https://github.com/fjolnir/CoreFoundation-Lite-Linux)|CFLite fixed to build correctly on linux (Tested on debian with clang 3.0)||
 |22|[@nobu](https://github.com/nobu)/[**io-console**](https://github.com/nobu/io-console)|console access||
@@ -382,7 +382,7 @@
 |7|[@mururu](https://github.com/mururu)/[**zstd-erlang**](https://github.com/mururu/zstd-erlang)|Zstd binding for Erlang/Elixir||
 |7|[@nemuisan](https://github.com/nemuisan)/[**STM32Primer2_GPS_T…**](https://github.com/nemuisan/STM32Primer2_GPS_Tracker)|GPS Tracker For STM32 Primer2||
 |7|[@nminoru](https://github.com/nminoru)/[**pib**](https://github.com/nminoru/pib)|Pseudo InfiniBand HCA driver (for Linux)||
-|7|[@ntddk](https://github.com/ntddk)/[**decaf-platform**](https://github.com/ntddk/decaf-platform)|DECAF Binary Analysis Platform|[:arrow_upper_right:](decaf-platform.googlecode.com)|
+|7|[@ntddk](https://github.com/ntddk)/[**decaf-platform**](https://github.com/ntddk/decaf-platform)|DECAF Binary Analysis Platform||
 |7|[@nyanp](https://github.com/nyanp)/[**frisbee**](https://github.com/nyanp/frisbee)|compile/eval muti language from C++||
 |7|[@petamoriken](https://github.com/petamoriken)/[**PxtoneJS**](https://github.com/petamoriken/PxtoneJS)|Play Pxtone Collage files in Web Audio API.|[:arrow_upper_right:](http://git.io/PxtoneJS)|
 |7|[@syuu1228](https://github.com/syuu1228)/[**sixelslide**](https://github.com/syuu1228/sixelslide)|||
@@ -432,7 +432,7 @@
 |6|[@machu](https://github.com/machu)/[**mod_amazon_proxy**](https://github.com/machu/mod_amazon_proxy)|Amazon Auth Proxy for Product Advertising API||
 |6|[@matsumoto-r](https://github.com/matsumoto-r)/[**mruby-memcached**](https://github.com/matsumoto-r/mruby-memcached)|libmemcached bindings by mruby||
 |6|[@matsumotory](https://github.com/matsumotory)/[**mruby-memcached**](https://github.com/matsumotory/mruby-memcached)|libmemcached bindings by mruby||
-|6|[@mcfiredrill](https://github.com/mcfiredrill)/[**libcaca-old**](https://github.com/mcfiredrill/libcaca-old)|unofficial repo|[:arrow_upper_right:](caca.zoy.org)|
+|6|[@mcfiredrill](https://github.com/mcfiredrill)/[**libcaca-old**](https://github.com/mcfiredrill/libcaca-old)|unofficial repo||
 |6|[@naotokui](https://github.com/naotokui)/[**ofxBTrack**](https://github.com/naotokui/ofxBTrack)|openFrameworks Addon for Beat Tracking - Based on Adam Stark's BTrack algorithm||
 |6|[@nghialv](https://github.com/nghialv)/[**iBall**](https://github.com/nghialv/iBall)|iPhone, iPad間のバトルゲーム (OpenGLES)||
 |6|[@nyanp](https://github.com/nyanp)/[**vectorize**](https://github.com/nyanp/vectorize)|SSE/AVX||
@@ -625,7 +625,7 @@
 |3|[@Saqoosha](https://github.com/Saqoosha)/[**OSC-Broadcaster**](https://github.com/Saqoosha/OSC-Broadcaster)|UDP repeater app for re-broadcasting OSC packets.||
 |3|[@SatoshiShimada](https://github.com/SatoshiShimada)/[**os**](https://github.com/SatoshiShimada/os)|My Original OperationgSystem (x86 32bit)||
 |3|[@Terminus-IMRC](https://github.com/Terminus-IMRC)/[**framebuffer2image**](https://github.com/Terminus-IMRC/framebuffer2image)|Extracts image file from framebuffer device||
-|3|[@Tomvictor](https://github.com/Tomvictor)/[**CC2500**](https://github.com/Tomvictor/CC2500)|This is a simple program for implementing wireless communication, rssi calculation using cc2500 rf module from texas instruments|[:arrow_upper_right:](www.buildfromzero.com)|
+|3|[@Tomvictor](https://github.com/Tomvictor)/[**CC2500**](https://github.com/Tomvictor/CC2500)|This is a simple program for implementing wireless communication, rssi calculation using cc2500 rf module from texas instruments||
 |3|[@ToyoshiMorioka](https://github.com/ToyoshiMorioka)/[**ofxZIGJSON**](https://github.com/ToyoshiMorioka/ofxZIGJSON)|||
 |3|[@Ushio](https://github.com/Ushio)/[**lost-child-render**](https://github.com/Ushio/lost-child-render)|||
 |3|[@VFR-maniac](https://github.com/VFR-maniac)/[**VapourSynth-DCTFil…**](https://github.com/VFR-maniac/VapourSynth-DCTFilter)|A fork of Mystery Keeper's DCT Filter plugin||
@@ -714,7 +714,7 @@
 |3|[@mimaki](https://github.com/mimaki)/[**mruby-toppers-ev3r…**](https://github.com/mimaki/mruby-toppers-ev3rt)|LEGO MINDSTORMS EV3 (TOPPERS/EV3RT) library for mruby||
 |3|[@mitchan0321](https://github.com/mitchan0321)/[**perfume**](https://github.com/mitchan0321/perfume)|A Programming language perfume.|[:arrow_upper_right:](https://github.com/mitchan0321/perfume/wiki)|
 |3|[@miura1729](https://github.com/miura1729)/[**mrtcc**](https://github.com/miura1729/mrtcc)|tcc binding for mruby||
-|3|[@miurahr](https://github.com/miurahr)/[**sane-backends**](https://github.com/miurahr/sane-backends)|epjitsu driver improvement to support additional parameters, to fix padding problems and to support new S1100 device.|[:arrow_upper_right:](git://git.debian.org/sane/sane-backends.git)|
+|3|[@miurahr](https://github.com/miurahr)/[**sane-backends**](https://github.com/miurahr/sane-backends)|epjitsu driver improvement to support additional parameters, to fix padding problems and to support new S1100 device.||
 |3|[@miyako](https://github.com/miyako)/[**4d-plugin-curl**](https://github.com/miyako/4d-plugin-curl)|4D plugin implementation of libcurl and curl||
 |3|[@miyako](https://github.com/miyako)/[**4d-plugin-opc**](https://github.com/miyako/4d-plugin-opc)|4D plugin to read and write DOCX, XLSX, PPTX files.||
 |3|[@miyako](https://github.com/miyako)/[**4d-plugin-pdf-kit**](https://github.com/miyako/4d-plugin-pdf-kit)|Perform basic PDF manipulation on OS X||

@@ -26,7 +26,7 @@ function makeDocs(data) {
         desc: (repo.desc || '').replace(/\|/g, '\\|'),
         html_url: repo.html_url,
         stars: repo.stars,
-        homepage: repo.homepage
+        homepage: /^http/.test(repo.homepage) ? repo.homepage : ''
       };
     })
     .sortBy(['owner.login', 'name'])

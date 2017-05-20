@@ -82,7 +82,7 @@
 |109|[@bluele](https://github.com/bluele)/[**gforms**](https://github.com/bluele/gforms)|A flexible forms validation and rendering library for golang web development.Inspired by django-forms and wtforms.||
 |109|[@naoina](https://github.com/naoina)/[**denco**](https://github.com/naoina/denco)|The fast and flexible HTTP request router for Go||
 |109|[@rhysd](https://github.com/rhysd)/[**gocaml**](https://github.com/rhysd/gocaml)|:camel: Practical functional programming language implementation with Go and LLVM|[:arrow_upper_right:](http://esumii.github.io/min-caml/paper.pdf)|
-|106|[@b4b4r07](https://github.com/b4b4r07)/[**gomi**](https://github.com/b4b4r07/gomi)|:poop: gomi is a simple trash tool that works on CLI, written in golang|[:arrow_upper_right:](b4b4r07.com/gomi)|
+|106|[@b4b4r07](https://github.com/b4b4r07)/[**gomi**](https://github.com/b4b4r07/gomi)|:poop: gomi is a simple trash tool that works on CLI, written in golang||
 |106|[@gongo](https://github.com/gongo)/[**9t**](https://github.com/gongo/9t)|9t is multi-file tailer by golang||
 |105|[@cubicdaiya](https://github.com/cubicdaiya)/[**slackboard**](https://github.com/cubicdaiya/slackboard)|A slack proxy server in Go||
 |103|[@dallarosa](https://github.com/dallarosa)/[**eyenotify**](https://github.com/dallarosa/eyenotify)|Look at files changes and restarts a determined process||
@@ -298,7 +298,7 @@
 |16|[@masahide](https://github.com/masahide)/[**s3cp**](https://github.com/masahide/s3cp)|||
 |16|[@t-yuki](https://github.com/t-yuki)/[**gocover-cobertura**](https://github.com/t-yuki/gocover-cobertura)|golang : go tool cover to XML (Cobertura) export tool. **NOW WORKING BUT NOT ACCURATE**|[:arrow_upper_right:](https://github.com/t-yuki/gocover-cobertura/wiki/Screenshots)|
 |16|[@tcnksm](https://github.com/tcnksm)/[**go-distributed-tra…**](https://github.com/tcnksm/go-distributed-tracing)|Sample kubernetes config and golang apps to try distributed tracing with Stackdriver||
-|16|[@tcnksm](https://github.com/tcnksm)/[**gox-server**](https://github.com/tcnksm/gox-server)|Golang cross-compile on Heroku|[:arrow_upper_right:]( https://gox-server.herokuapp.com/)|
+|16|[@tcnksm](https://github.com/tcnksm)/[**gox-server**](https://github.com/tcnksm/gox-server)|Golang cross-compile on Heroku||
 |16|[@yosida95](https://github.com/yosida95)/[**tsparser**](https://github.com/yosida95/tsparser)|MPEG-2 TS parser library written in Go.|[:arrow_upper_right:](http://godoc.org/github.com/yosida95/tsparser/tsparser)|
 |15|[@dongri](https://github.com/dongri)/[**line-bot-sdk-go**](https://github.com/dongri/line-bot-sdk-go)|LINE Bot SDK for Go (Golang)||
 |15|[@dtan4](https://github.com/dtan4)/[**s3url**](https://github.com/dtan4/s3url)|Generate S3 object pre-signed URL in one command||
@@ -549,7 +549,7 @@
 |6|[@dddaisuke](https://github.com/dddaisuke)/[**go-haml**](https://github.com/dddaisuke/go-haml)|How to use haml with go lang?||
 |6|[@dtan4](https://github.com/dtan4)/[**ghrls**](https://github.com/dtan4/ghrls)|List & Describe GitHub Releases||
 |6|[@evalphobia](https://github.com/evalphobia)/[**go-datarobot**](https://github.com/evalphobia/go-datarobot)|datarobot supporting app and api client||
-|6|[@hermanschaaf](https://github.com/hermanschaaf)/[**go-string-concat-b…**](https://github.com/hermanschaaf/go-string-concat-benchmarks)|Benchmarks to compare the different string concatenation methods in Go|[:arrow_upper_right:](herman.asia/efficient-string-concatenation-in-go)|
+|6|[@hermanschaaf](https://github.com/hermanschaaf)/[**go-string-concat-b…**](https://github.com/hermanschaaf/go-string-concat-benchmarks)|Benchmarks to compare the different string concatenation methods in Go||
 |6|[@hhatto](https://github.com/hhatto)/[**ftcat**](https://github.com/hhatto/ftcat)|markdown live previewer||
 |6|[@higebu](https://github.com/higebu)/[**go-niftycloud**](https://github.com/higebu/go-niftycloud)|Unofficial NIFTY Cloud SDK for Golang||
 |6|[@hisaichi5518](https://github.com/hisaichi5518)/[**vache**](https://github.com/hisaichi5518/vache)|be inspired by https://metacpan.org/release/Cache-Scalar-WithExpiry||
@@ -674,7 +674,7 @@
 |4|[@ami-GS](https://github.com/ami-GS)/[**gQUIC**](https://github.com/ami-GS/gQUIC)|QUIC(Quick UDP Internet Connection) implementation in go||
 |4|[@ariarijp](https://github.com/ariarijp)/[**horenso-reporter-s…**](https://github.com/ariarijp/horenso-reporter-slack)|||
 |4|[@atotto](https://github.com/atotto)/[**ptpip**](https://github.com/atotto/ptpip)|PIP/IP for golang||
-|4|[@b4b4r07](https://github.com/b4b4r07)/[**gotcha**](https://github.com/b4b4r07/gotcha)|:blush: gotcha is a simple tool that grabs Go packages|[:arrow_upper_right:](git.io/gotcha)|
+|4|[@b4b4r07](https://github.com/b4b4r07)/[**gotcha**](https://github.com/b4b4r07/gotcha)|:blush: gotcha is a simple tool that grabs Go packages||
 |4|[@codeout](https://github.com/codeout)/[**event-driven-bgpd**](https://github.com/codeout/event-driven-bgpd)|PoC: Event Driven BGPd||
 |4|[@codesuki](https://github.com/codesuki)/[**go-time-series**](https://github.com/codesuki/go-time-series)|Time series implementation in Go||
 |4|[@creasty](https://github.com/creasty)/[**defaults**](https://github.com/creasty/defaults)|Initialize members in struct with default values||

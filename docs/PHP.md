@@ -31,7 +31,7 @@
 |67|[@sotarok](https://github.com/sotarok)/[**git-daily**](https://github.com/sotarok/git-daily)|Git-daily is a workflow management tool for Git. Managing branches, releases and remote collaborations. |[:arrow_upper_right:](http://git-daily.com/)|
 |62|[@kjdev](https://github.com/kjdev)/[**php-ext-snappy**](https://github.com/kjdev/php-ext-snappy)|Snappy Extension for PHP||
 |60|[@kjdev](https://github.com/kjdev)/[**php-ext-lz4**](https://github.com/kjdev/php-ext-lz4)|LZ4 Extension for PHP||
-|60|[@koriym](https://github.com/koriym)/[**print_o**](https://github.com/koriym/print_o)|An object graph visualizer|[:arrow_upper_right:](Display mind-map style object graph)|
+|60|[@koriym](https://github.com/koriym)/[**print_o**](https://github.com/koriym/print_o)|An object graph visualizer||
 |59|[@fetus-hina](https://github.com/fetus-hina)/[**stat.ink**](https://github.com/fetus-hina/stat.ink)|https://stat.ink/||
 |59|[@traprajith](https://github.com/traprajith)/[**open-school-CE**](https://github.com/traprajith/open-school-CE)|Open-School is an integrated school management system which focuses on excellence and evolution in the field of Education. To achieve this O-S is flexible and innovates the new trends in education management. Open-School is a diverse, demanding, and high quality educational management system where every user can discover and realize their potential to achieve overall development.|[:arrow_upper_right:](https://open-school.org/)|
 |55|[@ohida](https://github.com/ohida)/[**pochika**](https://github.com/ohida/pochika)|A lightweight blog engine powered by Laravel5||
@@ -566,7 +566,7 @@
 |4|[@suin](https://github.com/suin)/[**php-qiita**](https://github.com/suin/php-qiita)|📦 QiitaAPIを扱うためのPHP向けライブラリ ||
 |4|[@suin](https://github.com/suin)/[**xoops-watch-templa…**](https://github.com/suin/xoops-watch-template)|||
 |4|[@suzuki](https://github.com/suzuki)/[**guzzle-promise-sam…**](https://github.com/suzuki/guzzle-promise-sample)|Sample of Guzzle Promise|[:arrow_upper_right:](https://speakerdeck.com/suzuki/guzzle-promisewoshi-tuta-fei-tong-qi-chu-li-niyoruapikorufalsegao-su-hua)|
-|4|[@taizo](https://github.com/taizo)/[**simplesamlphp-goog…**](https://github.com/taizo/simplesamlphp-googleauth)|Google Apps OpenID Authentication module for SimpleSAMLphp|[:arrow_upper_right:](This program is created based on OpenID Consumer code of SimpleSAMLphp.)|
+|4|[@taizo](https://github.com/taizo)/[**simplesamlphp-goog…**](https://github.com/taizo/simplesamlphp-googleauth)|Google Apps OpenID Authentication module for SimpleSAMLphp||
 |4|[@tejima](https://github.com/tejima)/[**opAuthJanrainPlugi…**](https://github.com/tejima/opAuthJanrainPlugin)|Janrainを使ってGoogle、Facebook、TwitterアカウントなどからSSOするためのプラグイン||
 |4|[@teriyakisan](https://github.com/teriyakisan)/[**twicon**](https://github.com/teriyakisan/twicon)|Twitterユーザアイコンの画像URLを取得してキャッシュするPHPライブラリ / Get and cache Twitter User Icon Image URL library written in PHP.||
 |4|[@ttskch](https://github.com/ttskch)/[**PaginationServiceP…**](https://github.com/ttskch/PaginationServiceProvider)|Wrapper of KnpPaginatorBundle as service provider for the Silex microframework.||
@@ -616,7 +616,7 @@
 |3|[@chobie](https://github.com/chobie)/[**kokuban**](https://github.com/chobie/kokuban)|yet another gist implementation using php-git2||
 |3|[@christopherobin](https://github.com/christopherobin)/[**whisper**](https://github.com/christopherobin/whisper)|A PHP MicroFramework|[:arrow_upper_right:](http://whisper.nekoo.com)|
 |3|[@creatorish](https://github.com/creatorish)/[**social-shares**](https://github.com/creatorish/social-shares)|SNSでシェアされた数とその合計値が取得できるPHP&jQueryプラグイン||
-|3|[@dakatsuka](https://github.com/dakatsuka)/[**JBuilderBundle**](https://github.com/dakatsuka/JBuilderBundle)|Symfony2 Bundle for JBuilder|[:arrow_upper_right:](Symfony2 Bundle for JBuilder)|
+|3|[@dakatsuka](https://github.com/dakatsuka)/[**JBuilderBundle**](https://github.com/dakatsuka/JBuilderBundle)|Symfony2 Bundle for JBuilder||
 |3|[@deeeki](https://github.com/deeeki)/[**cakephp-csvio**](https://github.com/deeeki/cakephp-csvio)|Behavior for CakePHP supports CSV import/export.||
 |3|[@deeeki](https://github.com/deeeki)/[**cakephp-partitiona…**](https://github.com/deeeki/cakephp-partitionable)|Behavior for CakePHP supports MySQL partitioning by date.||
 |3|[@dengenxp](https://github.com/dengenxp)/[**MediaGallery**](https://github.com/dengenxp/MediaGallery)|Media Gallery Plugin for Geeklog||
@@ -628,9 +628,9 @@
 |3|[@fetus-hina](https://github.com/fetus-hina)/[**tarte**](https://github.com/fetus-hina/tarte)|Twitter bot engine "たると。"||
 |3|[@fumikito](https://github.com/fumikito)/[**wp-readme**](https://github.com/fumikito/wp-readme)|Generate readme.txt from Github's README.md||
 |3|[@gong023](https://github.com/gong023)/[**namae-space**](https://github.com/gong023/namae-space)|util command for PHP namespace. totally written in PHP.||
-|3|[@ha1t](https://github.com/ha1t)/[**candycane-emoji**](https://github.com/ha1t/candycane-emoji)|candycane emoji ( http://www.emoji-cheat-sheet.com/ ) plugin|[:arrow_upper_right:](CandyCaneで絵文字を使えるようにするプラグイン)|
+|3|[@ha1t](https://github.com/ha1t)/[**candycane-emoji**](https://github.com/ha1t/candycane-emoji)|candycane emoji ( http://www.emoji-cheat-sheet.com/ ) plugin||
 |3|[@ha1t](https://github.com/ha1t)/[**php-Pit**](https://github.com/ha1t/php-Pit)||[:arrow_upper_right:](http://project-p.jp/halt/)|
-|3|[@ha1t](https://github.com/ha1t)/[**sgphp**](https://github.com/ha1t/sgphp)|新月プロトコルのPHP実装|[:arrow_upper_right:](sgphp.project-p.jp)|
+|3|[@ha1t](https://github.com/ha1t)/[**sgphp**](https://github.com/ha1t/sgphp)|新月プロトコルのPHP実装||
 |3|[@hackerkid](https://github.com/hackerkid)/[**Hackernews-Syncer-…**](https://github.com/hackerkid/Hackernews-Syncer-for-Wordpress)|:anchor: A Wordpress plugin for syncing the Hackenews posts with Wordpress blog||
 |3|[@heavenshell](https://github.com/heavenshell)/[**gene**](https://github.com/heavenshell/gene)|Glue of Zend Framework||
 |3|[@hidenori-wasa](https://github.com/hidenori-wasa)/[**_PEAR_BreakpointDe…**](https://github.com/hidenori-wasa/_PEAR_BreakpointDebugging_PHPUnitStepExecution)|||
@@ -667,7 +667,7 @@
 |3|[@kmusiclife](https://github.com/kmusiclife)/[**App**](https://github.com/kmusiclife/App)|Symfony2 useful bundles. including UserBundle(FOSUserBundle and FOSFacebookBundle) and UploadBundle(jQuery-File-Uploader)||
 |3|[@kohkimakimoto](https://github.com/kohkimakimoto)/[**StaticProxy**](https://github.com/kohkimakimoto/StaticProxy)|StaticProxy provides static interface to an instance method. ||
 |3|[@komagata](https://github.com/komagata)/[**awesome-form**](https://github.com/komagata/awesome-form)|プリミティブなフォーム用関数群||
-|3|[@komagata](https://github.com/komagata)/[**nitohen-sankakukei…**](https://github.com/komagata/nitohen-sankakukei)|kids event website.|[:arrow_upper_right:](nitohen-sankakukei.com)|
+|3|[@komagata](https://github.com/komagata)/[**nitohen-sankakukei…**](https://github.com/komagata/nitohen-sankakukei)|kids event website.||
 |3|[@koriym](https://github.com/koriym)/[**Koriym.HttpConstan…**](https://github.com/koriym/Koriym.HttpConstants)|Constatnts for the HTTP protocol||
 |3|[@kotas](https://github.com/kotas)/[**myqueue**](https://github.com/kotas/myqueue)|Sample implementation of message queue using MySQL.|[:arrow_upper_right:](http://info.dwango.co.jp/rd/2010/01/mysql.html)|
 |3|[@kouki-kuriyama](https://github.com/kouki-kuriyama)/[**jlab-script-plus**](https://github.com/kouki-kuriyama/jlab-script-plus)|実況ろだの閲覧期間付きアップローダーです|[:arrow_upper_right:](http://www.kurichans.jp/jlab-script-plus/)|

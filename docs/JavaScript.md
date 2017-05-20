@@ -70,7 +70,7 @@
 |273|[@adilmoujahid](https://github.com/adilmoujahid)/[**DonorsChoose_Visua…**](https://github.com/adilmoujahid/DonorsChoose_Visualization)|Source for blog post: Interactive Data Visualization with D3.js, DC.js, Python, and MongoDB||
 |268|[@mohayonao](https://github.com/mohayonao)/[**pico.js**](https://github.com/mohayonao/pico.js)|Audio processor for the cross-platform|[:arrow_upper_right:](http://mohayonao.github.io/pico.js/)|
 |268|[@skoczen](https://github.com/skoczen)/[**django-ajax-upload…**](https://github.com/skoczen/django-ajax-uploader)|Ajax-based, multiple-upload django class with pluggable backends, and subclass goodness.||
-|261|[@cambecc](https://github.com/cambecc)/[**air**](https://github.com/cambecc/air)|a project to visualize Tokyo wind and air pollutants|[:arrow_upper_right:](air.nullschool.net)|
+|261|[@cambecc](https://github.com/cambecc)/[**air**](https://github.com/cambecc/air)|a project to visualize Tokyo wind and air pollutants||
 |252|[@superbrothers](https://github.com/superbrothers)/[**capturejs**](https://github.com/superbrothers/capturejs)|Full webpage capture command-line tool with PhantomJS and NodeJS||
 |249|[@mike-north](https://github.com/mike-north)/[**ember-api-actions**](https://github.com/mike-north/ember-api-actions)|Trigger API actions in ember.js apps|[:arrow_upper_right:](http://mike.works/ember-api-actions/)|
 |246|[@Quramy](https://github.com/Quramy)/[**electron-connect**](https://github.com/Quramy/electron-connect)|Livereload tool for Electron|[:arrow_upper_right:](https://www.npmjs.com/package/electron-connect)|
@@ -461,7 +461,7 @@
 |39|[@kyo-ago](https://github.com/kyo-ago)/[**fastClick.js**](https://github.com/kyo-ago/fastClick.js)|||
 |39|[@mitsuruog](https://github.com/mitsuruog)/[**what-mqtt**](https://github.com/mitsuruog/what-mqtt)|What MQTT? MQTT on websocket sample.|[:arrow_upper_right:](http://mitsuruog.github.io/what-mqtt/)|
 |39|[@twada](https://github.com/twada)/[**japanese-numerals-…**](https://github.com/twada/japanese-numerals-to-number)|Converts Japanese Numerals into number||
-|38|[@VoQn](https://github.com/VoQn)/[**macchiato**](https://github.com/VoQn/macchiato)|BDD + QDD testing framework for JavaScript|[:arrow_upper_right:](voqn.github.com/macchiato)|
+|38|[@VoQn](https://github.com/VoQn)/[**macchiato**](https://github.com/VoQn/macchiato)|BDD + QDD testing framework for JavaScript||
 |38|[@banyan](https://github.com/banyan)/[**config**](https://github.com/banyan/config)|config file||
 |38|[@bokuweb](https://github.com/bokuweb)/[**Tsukiakari**](https://github.com/bokuweb/Tsukiakari)|【WIP】Twitter Client built on Electron. ||
 |38|[@dakatsuka](https://github.com/dakatsuka)/[**node-consistent-ha…**](https://github.com/dakatsuka/node-consistent-hashing)|A pure JavaScript implementation of Consistent Hashing|[:arrow_upper_right:](https://github.com/dakatsuka/node-consistent-hashing)|
@@ -524,7 +524,7 @@
 |33|[@r7kamura](https://github.com/r7kamura)/[**mio**](https://github.com/r7kamura/mio)|MicroBlog for Laboratory.||
 |33|[@shijuvar](https://github.com/shijuvar)/[**Koa-CRUD**](https://github.com/shijuvar/Koa-CRUD)|A CRUD demo for Koa.js and Node.js||
 |33|[@tejitak](https://github.com/tejitak)/[**react-state-animat…**](https://github.com/tejitak/react-state-animation)|Simple lightweight React animation library|[:arrow_upper_right:](http://tejitak.github.io/react-state-animation/examples/demo/)|
-|33|[@ukyo](https://github.com/ukyo)/[**jsziptools**](https://github.com/ukyo/jsziptools)|zip utility implemented with JavaScript|[:arrow_upper_right:](ukyo.github.io/jsziptools/)|
+|33|[@ukyo](https://github.com/ukyo)/[**jsziptools**](https://github.com/ukyo/jsziptools)|zip utility implemented with JavaScript||
 |32|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**mda.js**](https://github.com/YCAMInterlab/mda.js)|half edge mesh data structure in js||
 |32|[@atsusy](https://github.com/atsusy)/[**CoverSliderExample…**](https://github.com/atsusy/CoverSliderExample)|This is example app of slide-out-navigation for Titanium Mobile.||
 |32|[@azu](https://github.com/azu)/[**babel-plugin-strip…**](https://github.com/azu/babel-plugin-strip-function-call)|Babel plugin strip any function call.||
@@ -645,7 +645,7 @@
 |25|[@mysticatea](https://github.com/mysticatea)/[**react-helix**](https://github.com/mysticatea/react-helix)|A small library for immutable design and React.||
 |25|[@polygonplanet](https://github.com/polygonplanet)/[**tombloo**](https://github.com/polygonplanet/tombloo)|Tombloo/Tombfix用のパッチやスクリプト。 A Repository which collected patches for Tombloo/Tombfix and Tumblr.|[:arrow_upper_right:](http://twitter.com/polygon_planet)|
 |25|[@ray-garner](https://github.com/ray-garner)/[**Blogular**](https://github.com/ray-garner/Blogular)|Open source blog app built with AngularJS-Express.||
-|25|[@smihica](https://github.com/smihica)/[**arc-js**](https://github.com/smihica/arc-js)|An Arc-language compiler and VM-interpreter written in JavaScript.|[:arrow_upper_right:](smihica.github.io/arc-js)|
+|25|[@smihica](https://github.com/smihica)/[**arc-js**](https://github.com/smihica/arc-js)|An Arc-language compiler and VM-interpreter written in JavaScript.||
 |25|[@swdyh](https://github.com/swdyh)/[**autopagerize_for_s…**](https://github.com/swdyh/autopagerize_for_safari)|A browser extension for auto loading paginated web pages.|[:arrow_upper_right:](http://autopagerize.net/)|
 |25|[@tokuhirom](https://github.com/tokuhirom)/[**strftime-js**](https://github.com/tokuhirom/strftime-js)|||
 |25|[@ttskch](https://github.com/ttskch)/[**ghsync**](https://github.com/ttskch/ghsync)|Sync local git repository and remote GitHub repository automatically.||
@@ -689,7 +689,7 @@
 |23|[@astronaughts](https://github.com/astronaughts)/[**grunt-tishadow**](https://github.com/astronaughts/grunt-tishadow)|This is grunt plugin for TiShdow commands.||
 |23|[@chitsaou](https://github.com/chitsaou)/[**git-io-shortener**](https://github.com/chitsaou/git-io-shortener)|Shorten GitHub URL with Git.io in one click. (a Google Chrome extension)|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/baceaeopmlhkjbljoiinmbnnmpokgiml)|
 |23|[@chitsaou](https://github.com/chitsaou)/[**no-per-script-font…**](https://github.com/chitsaou/no-per-script-font)|No Per-Script Font! Chrome & Safari Extensions that stops per-script font fallback|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/lndmkajeoopejggihiomoaepinlhblmm)|
-|23|[@cho45](https://github.com/cho45)/[**tasscss**](https://github.com/cho45/tasscss)|Ultimate lightweight stylesheet language like SASS(SCSS) or LESS.|[:arrow_upper_right:](cho45.github.com/tasscss/)|
+|23|[@cho45](https://github.com/cho45)/[**tasscss**](https://github.com/cho45/tasscss)|Ultimate lightweight stylesheet language like SASS(SCSS) or LESS.||
 |23|[@gfx](https://github.com/gfx)/[**perl.js**](https://github.com/gfx/perl.js)|emscripten build settings for perl|[:arrow_upper_right:](http://gfx.github.io/perl.js/)|
 |23|[@hakobera](https://github.com/hakobera)/[**rtvote**](https://github.com/hakobera/rtvote)|Realtime voting application written by Node.js. This app can run on Heroku.|[:arrow_upper_right:](http://stark-water-3025.herokuapp.com)|
 |23|[@jmettraux](https://github.com/jmettraux)/[**quaderno**](https://github.com/jmettraux/quaderno)|a dynamic form system in javascript|[:arrow_upper_right:](http://ruote.rubyforge.org)|
@@ -864,7 +864,7 @@
 |18|[@progre](https://github.com/progre)/[**tslint-config-airb…**](https://github.com/progre/tslint-config-airbnb)|A TSLint config for Airbnb JavaScript Style||
 |18|[@rewish](https://github.com/rewish)/[**wp-emmet**](https://github.com/rewish/wp-emmet)|Emmet (ex-Zen Coding) for WordPress.|[:arrow_upper_right:](http://wordpress.org/plugins/wp-emmet/)|
 |18|[@rhysd](https://github.com/rhysd)/[**Tilectron**](https://github.com/rhysd/Tilectron)|Tiling window browser built on Electron.||
-|18|[@rjyo](https://github.com/rjyo)/[**hackback**](https://github.com/rjyo/hackback)|A bookmarket that directs you back to HackerNews' comments page|[:arrow_upper_right:](hackback.cloudfoundry.com)|
+|18|[@rjyo](https://github.com/rjyo)/[**hackback**](https://github.com/rjyo/hackback)|A bookmarket that directs you back to HackerNews' comments page||
 |18|[@shinobukawano](https://github.com/shinobukawano)/[**SenchaTouch2-simpl…**](https://github.com/shinobukawano/SenchaTouch2-simple-CRUD-sample)|This is a simple CRUD application within a Sencha Touch 2.0 Developer Preview(Oct 11, 2011)|[:arrow_upper_right:](http://sencha2-sample.appspot.com)|
 |18|[@shuhei](https://github.com/shuhei)/[**colortape**](https://github.com/shuhei/colortape)|Colorize test results of tape.||
 |18|[@suin](https://github.com/suin)/[**redux-multiple-red…**](https://github.com/suin/redux-multiple-reducers-example)|💡 Redux Multiple Reducers Example||
@@ -947,7 +947,7 @@
 |16|[@sasaplus1](https://github.com/sasaplus1)/[**qiita-organization…**](https://github.com/sasaplus1/qiita-organizations-graph)|Qiita organizations graph|[:arrow_upper_right:](http://sasaplus1.github.io/qiita-organizations-graph)|
 |16|[@shimbaco](https://github.com/shimbaco)/[**tombo**](https://github.com/shimbaco/tombo)|Node.jsとImageMagickで動く画像変換サーバ||
 |16|[@shinout](https://github.com/shinout)/[**ArrayStream**](https://github.com/shinout/ArrayStream)|ReadableStream of arrays, hashed variables [Node.js]||
-|16|[@simurai](https://github.com/simurai)/[**simurai.github.io**](https://github.com/simurai/simurai.github.io)|simurai's site|[:arrow_upper_right:](simurai.com)|
+|16|[@simurai](https://github.com/simurai)/[**simurai.github.io**](https://github.com/simurai/simurai.github.io)|simurai's site||
 |16|[@superbrothers](https://github.com/superbrothers)/[**electron-boilerpla…**](https://github.com/superbrothers/electron-boilerplate)|A electron app template with React, babel, sass, gulp and bower :tada:||
 |16|[@swdyh](https://github.com/swdyh)/[**extension.js**](https://github.com/swdyh/extension.js)|Browser Extension API Abstraction||
 |16|[@tomorrowkey](https://github.com/tomorrowkey)/[**RegularExpressionT…**](https://github.com/tomorrowkey/RegularExpressionTester)|Testing Java Regular Expression on Web sites.||
@@ -1032,7 +1032,7 @@
 |14|[@satyr](https://github.com/satyr)/[**retrie**](https://github.com/satyr/retrie)|Tiny library to make optimized regexes for a specific set of texts|[:arrow_upper_right:](http://satyr.github.com/retrie/)|
 |14|[@shiwano](https://github.com/shiwano)/[**typhen-json-schema…**](https://github.com/shiwano/typhen-json-schema)|Converts TypeScript Interfaces to JSON Schema.||
 |14|[@suguru](https://github.com/suguru)/[**balmung**](https://github.com/suguru/balmung)|Responsive image generation and optimization with Web UI||
-|14|[@suguru](https://github.com/suguru)/[**chikuwa.js**](https://github.com/suguru/chikuwa.js)|Moved to https://github.com/ameba-proteus/chikuwa.js|[:arrow_upper_right:]( https://github.com/ameba-proteus/chikuwa.js)|
+|14|[@suguru](https://github.com/suguru)/[**chikuwa.js**](https://github.com/suguru/chikuwa.js)|Moved to https://github.com/ameba-proteus/chikuwa.js||
 |14|[@technohippy](https://github.com/technohippy)/[**red-grape**](https://github.com/technohippy/red-grape)|Extremely Simple Graph DB||
 |14|[@tilemapjp](https://github.com/tilemapjp)/[**mbtiles.js**](https://github.com/tilemapjp/mbtiles.js)|Pure JavaScript mbtiles parser. Based on sqlite.c compiled by emscripten.||
 |14|[@uiureo](https://github.com/uiureo)/[**ssslack**](https://github.com/uiureo/ssslack)|Share slack logs||
@@ -1593,7 +1593,7 @@
 |8|[@wanasit](https://github.com/wanasit)/[**google-oauth**](https://github.com/wanasit/google-oauth)|Simplified OAuth helper for Google API||
 |8|[@ykob](https://github.com/ykob)/[**sphere-to-plane**](https://github.com/ykob/sphere-to-plane)|this is WebGL demo that is moving vertices from sphere geometry to plane geometry.|[:arrow_upper_right:](https://ykob.github.io/sphere-to-plane/)|
 |8|[@ymnk](https://github.com/ymnk)/[**lift-gae-jpa**](https://github.com/ymnk/lift-gae-jpa)|a sample accesing JPA on GAE/J for Lift||
-|8|[@yoko](https://github.com/yoko)/[**jquery.rack.js**](https://github.com/yoko/jquery.rack.js)|A interface like a iTunes' Grid View.|[:arrow_upper_right:](&lt;a href="<a href="http://carbonfairy.org/note/coding/081211-jquery-rack.html" style="cursor:help;display:inline !important;">http://carbonfairy.org/note/coding/081211-jquery-rack.html</a>" style="cursor:help;display:inline !important;"&gt;<a href="http)|
+|8|[@yoko](https://github.com/yoko)/[**jquery.rack.js**](https://github.com/yoko/jquery.rack.js)|A interface like a iTunes' Grid View.||
 |8|[@youpy](https://github.com/youpy)/[**node-zws**](https://github.com/youpy/node-zws)|library to encode/decode text using zero width spaces||
 |8|[@yuiseki](https://github.com/yuiseki)/[**rails-xa**](https://github.com/yuiseki/rails-xa)|08/12/31-09/1/1エクストリームアドホック忘年会|[:arrow_upper_right:](http://xa.yuiseki.net/)|
 |8|[@zenith6](https://github.com/zenith6)/[**aigistools**](https://github.com/zenith6/aigistools)|千年戦争アイギスツール置き場|[:arrow_upper_right:](https://zenith6.github.io/aigistools/)|
@@ -1694,7 +1694,7 @@
 |7|[@nmerouze](https://github.com/nmerouze)/[**motion-design-reac…**](https://github.com/nmerouze/motion-design-react)|||
 |7|[@nodaguti](https://github.com/nodaguti)/[**userChrome.js**](https://github.com/nodaguti/userChrome.js)|||
 |7|[@nodejs-osaka](https://github.com/nodejs-osaka)/[**command-line-app**](https://github.com/nodejs-osaka/command-line-app)|Command line app repository||
-|7|[@noraesae](https://github.com/noraesae)/[**rin**](https://github.com/noraesae/rin)|A personal URL shortener using GitHub Pages|[:arrow_upper_right:](noraesae.github.io/rin)|
+|7|[@noraesae](https://github.com/noraesae)/[**rin**](https://github.com/noraesae/rin)|A personal URL shortener using GitHub Pages||
 |7|[@nulltask](https://github.com/nulltask)/[**nslsk**](https://github.com/nulltask/nslsk)|A Node.js Soulseek client writen in pure JavaScript.||
 |7|[@nulltask](https://github.com/nulltask)/[**pseudo-function**](https://github.com/nulltask/pseudo-function)|Turn the function object to URL object.|[:arrow_upper_right:](http://npmjs.com/package/pseudo-function)|
 |7|[@nyaxt](https://github.com/nyaxt)/[**advtwit**](https://github.com/nyaxt/advtwit)|twitter client for freaks||
@@ -1975,7 +1975,7 @@
 |6|[@wings1685](https://github.com/wings1685)/[**jquery.cssloading.…**](https://github.com/wings1685/jquery.cssloading.js)|CSS3によるローディングアニメーションを生成するiOS/Android専用のjQueryプラグインです。|[:arrow_upper_right:](http://flugel.biz/archives/jquerycssloadingjs/)|
 |6|[@xuwei-k](https://github.com/xuwei-k)/[**scala-protobuf-doc…**](https://github.com/xuwei-k/scala-protobuf-docs)|ScalaでProtocol BuffersやgRPCを使用する方法を解説したドキュメント|[:arrow_upper_right:](http://xuwei-k.github.io/scala-protobuf-docs/)|
 |6|[@ympbyc](https://github.com/ympbyc)/[**manualhub**](https://github.com/ympbyc/manualhub)|manualhub hosts your man page.||
-|6|[@ympbyc](https://github.com/ympbyc)/[**s-exploration**](https://github.com/ympbyc/s-exploration)|Lisp is data. Data needs a visualization tool.|[:arrow_upper_right:](ympbyc.github.io/s-exploration)|
+|6|[@ympbyc](https://github.com/ympbyc)/[**s-exploration**](https://github.com/ympbyc/s-exploration)|Lisp is data. Data needs a visualization tool.||
 |6|[@yoichiro](https://github.com/yoichiro)/[**chrome_mysql_conso…**](https://github.com/yoichiro/chrome_mysql_console)|||
 |6|[@yoshiakist](https://github.com/yoshiakist)/[**codegolf**](https://github.com/yoshiakist/codegolf)|Code.jpで出題するJavaScriptのコードゴルフの問題。||
 |6|[@yosuke-furukawa](https://github.com/yosuke-furukawa)/[**generator-tmlib**](https://github.com/yosuke-furukawa/generator-tmlib)|||
@@ -2052,7 +2052,7 @@
 |5|[@fkei](https://github.com/fkei)/[**connect-mongoose-s…**](https://github.com/fkei/connect-mongoose-session)|MongoDB(Object Relational Mapper:Mongoose) session store for Connect.||
 |5|[@fkei](https://github.com/fkei)/[**sua.js**](https://github.com/fkei/sua.js)|Simple user agent detection library. - Node.js or Browser supported||
 |5|[@fukayatsu](https://github.com/fukayatsu)/[**cybozu-notifier**](https://github.com/fukayatsu/cybozu-notifier)|cybozu garoon3の予定を通知するchrome extentionです||
-|5|[@func09](https://github.com/func09)/[**Happy1000Days**](https://github.com/func09/Happy1000Days)||[:arrow_upper_right:](happy1000days.heroku.com/)|
+|5|[@func09](https://github.com/func09)/[**Happy1000Days**](https://github.com/func09/Happy1000Days)|||
 |5|[@gaspanik](https://github.com/gaspanik)/[**angular-wpapi-star…**](https://github.com/gaspanik/angular-wpapi-starter)|a demo file.||
 |5|[@gaspanik](https://github.com/gaspanik)/[**bs4wp**](https://github.com/gaspanik/bs4wp)|Browser-Sync Config for WordPress Theme Development||
 |5|[@gaspanik](https://github.com/gaspanik)/[**gulpstrp**](https://github.com/gaspanik/gulpstrp)|A demo for 'Development Environments for Web Designers'||
@@ -2253,7 +2253,7 @@
 |5|[@ucym](https://github.com/ucym)/[**Brackets-TagRename…**](https://github.com/ucym/Brackets-TagRenamer)|||
 |5|[@udonchan](https://github.com/udonchan)/[**hatenablog-unoffic…**](https://github.com/udonchan/hatenablog-unofficial-modules)|||
 |5|[@udzura](https://github.com/udzura)/[**ikachan-node**](https://github.com/udzura/ikachan-node)|Ikachan wrapper for node.js||
-|5|[@udzura](https://github.com/udzura)/[**padrino-web-ja**](https://github.com/udzura/padrino-web-ja)|Yet another padrinorb.com framework document, hosted on jp.padrinorb.com|[:arrow_upper_right:](jp.padrinorb.com)|
+|5|[@udzura](https://github.com/udzura)/[**padrino-web-ja**](https://github.com/udzura/padrino-web-ja)|Yet another padrinorb.com framework document, hosted on jp.padrinorb.com||
 |5|[@uetchy](https://github.com/uetchy)/[**juno**](https://github.com/uetchy/juno)|A minimal app to serve Jupyter Notebook in macOS menubar, powered by Electron.||
 |5|[@uraway](https://github.com/uraway)/[**electron-oauth-twi…**](https://github.com/uraway/electron-oauth-twitter)|This is Electron module that OAuth authenticates your Electron app with Twitter|[:arrow_upper_right:](https://www.npmjs.com/package/electron-oauth-twitter)|
 |5|[@ursm](https://github.com/ursm)/[**node-signature**](https://github.com/ursm/node-signature)|||
@@ -2397,7 +2397,7 @@
 |4|[@hakobera](https://github.com/hakobera)/[**tng6_sample**](https://github.com/hakobera/tng6_sample)|Sample application of my LT at Tokyo Node Gakuen #6 (2012/6/28)||
 |4|[@hakobera](https://github.com/hakobera)/[**uglify-me**](https://github.com/hakobera/uglify-me)|JavaScript uglify server|[:arrow_upper_right:](http://uglifyme.herokuapp.com/)|
 |4|[@halcat0x15a](https://github.com/halcat0x15a)/[**whiteboard**](https://github.com/halcat0x15a/whiteboard)|||
-|4|[@hanachin](https://github.com/hanachin)/[**hanachin.github.co…**](https://github.com/hanachin/hanachin.github.com)|self introduction|[:arrow_upper_right:](hanachin.github.com)|
+|4|[@hanachin](https://github.com/hanachin)/[**hanachin.github.co…**](https://github.com/hanachin/hanachin.github.com)|self introduction||
 |4|[@hanamura](https://github.com/hanamura)/[**gh-issue-export**](https://github.com/hanamura/gh-issue-export)|Export GitHub issues to HTML files.||
 |4|[@hashrock](https://github.com/hashrock)/[**ganttpad**](https://github.com/hashrock/ganttpad)|Text to Gantt||
 |4|[@hideo54](https://github.com/hideo54)/[**schfeslog**](https://github.com/hideo54/schfeslog)|An http proxy server to get play logs of “LoveLive! School Idol Festival”.||
@@ -2528,7 +2528,7 @@
 |4|[@nna774](https://github.com/nna774)/[**piet-automata**](https://github.com/nna774/piet-automata)|create piet image from stack-based pseudo-language. 美しくはない｡||
 |4|[@nobuoka](https://github.com/nobuoka)/[**win-store-MeteorLi…**](https://github.com/nobuoka/win-store-MeteorLine)|||
 |4|[@non117](https://github.com/non117)/[**reduxdesign**](https://github.com/non117/reduxdesign)|||
-|4|[@noraesae](https://github.com/noraesae)/[**net**](https://github.com/noraesae/net)||[:arrow_upper_right:](noraesae.net)|
+|4|[@noraesae](https://github.com/noraesae)/[**net**](https://github.com/noraesae/net)|||
 |4|[@norbusan](https://github.com/norbusan)/[**cinnadock-p2**](https://github.com/norbusan/cinnadock-p2)|For of the Cinnadock Plus plugin to update it to current Cinnamon||
 |4|[@nota](https://github.com/nota)/[**sw_app**](https://github.com/nota/sw_app)|Service Workerを使ったオフラインアプリの骨組み||
 |4|[@novi](https://github.com/novi)/[**mongodiary**](https://github.com/novi/mongodiary)|Node.js+Mongoose+MongoDB で作るWebアプリ|[:arrow_upper_right:](http://www.mongodb.jp/mongo/noryo2013)|
@@ -2702,7 +2702,7 @@
 |4|[@yoko](https://github.com/yoko)/[**pool-js**](https://github.com/yoko/pool-js)|pool.js is a JavaScript library that pools value on memory, Cookie, SessionStorage or LocalStorage.|[:arrow_upper_right:](http://less.carbonfairy.org/post/172082313/pool-js)|
 |4|[@yonchu](https://github.com/yonchu)/[**vimmers-follow-sta…**](https://github.com/yonchu/vimmers-follow-status)|Chrome extension "Vimmers follow status"||
 |4|[@you21979](https://github.com/you21979)/[**node-zaif**](https://github.com/you21979/node-zaif)|Promise-base Cryptocurrency Exchange zaif.jp API for node.js||
-|4|[@youpy](https://github.com/youpy)/[**youpy.no.de**](https://github.com/youpy/youpy.no.de)||[:arrow_upper_right:](youpy.jit.su)|
+|4|[@youpy](https://github.com/youpy)/[**youpy.no.de**](https://github.com/youpy/youpy.no.de)|||
 |4|[@yuku-t](https://github.com/yuku-t)/[**jquery-formdata**](https://github.com/yuku-t/jquery-formdata)|jQuery.formData - Rails like html form serializer||
 |4|[@yuroyoro](https://github.com/yuroyoro)/[**node-apidoc**](https://github.com/yuroyoro/node-apidoc)|node.jsのAPI DocumentをREPLなどから検索/表示させるためのアレ。|[:arrow_upper_right:](http://d.hatena.ne.jp/yuroyoro)|
 |4|[@yusuke](https://github.com/yusuke)/[**deathmar.ch**](https://github.com/yusuke/deathmar.ch)|||
@@ -2862,7 +2862,7 @@
 |3|[@dvcrn](https://github.com/dvcrn)/[**exkit**](https://github.com/dvcrn/exkit)|cross browser extension framework||
 |3|[@dwi2](https://github.com/dwi2)/[**lunch_notification…**](https://github.com/dwi2/lunch_notification)|通知你該訂便當了!!||
 |3|[@dyashkir](https://github.com/dyashkir)/[**nodejs_tutorial_ll…**](https://github.com/dyashkir/nodejs_tutorial_llc)|Code for series of tutorial blog posts I am doing for Ladies Learning Code|[:arrow_upper_right:](http://dyashkir.github.com/)|
-|3|[@eahefnawy](https://github.com/eahefnawy)/[**dakatrety.com**](https://github.com/eahefnawy/dakatrety.com)|:speak_no_evil: A web app for university students to rate their professors anonymously and publicly. |[:arrow_upper_right:](dakatrety.com)|
+|3|[@eahefnawy](https://github.com/eahefnawy)/[**dakatrety.com**](https://github.com/eahefnawy/dakatrety.com)|:speak_no_evil: A web app for university students to rate their professors anonymously and publicly. ||
 |3|[@eahefnawy](https://github.com/eahefnawy)/[**paperplane-lambdas…**](https://github.com/eahefnawy/paperplane-lambdas)|:airplane: paperplane - ridiculously simple & free backend  for your web forms. Powered by AWS Lambda.||
 |3|[@eccyan](https://github.com/eccyan)/[**lab**](https://github.com/eccyan/lab)|laboratory||
 |3|[@edisonthk](https://github.com/edisonthk)/[**lifebgm_client**](https://github.com/edisonthk/lifebgm_client)|||
@@ -2892,7 +2892,7 @@
 |3|[@geckotang](https://github.com/geckotang)/[**express-tryout**](https://github.com/geckotang/express-tryout)|||
 |3|[@geckotang](https://github.com/geckotang)/[**presentation-style…**](https://github.com/geckotang/presentation-styledocco)|see http://geckotang.github.io/presentation-styledocco/||
 |3|[@georgeOsdDev](https://github.com/georgeOsdDev)/[**react-dropfile-fie…**](https://github.com/georgeOsdDev/react-dropfile-field)|Textarea react component with drop file preview|[:arrow_upper_right:](http://georgeosddev.github.io/react-dropfile-field)|
-|3|[@georgeOsdDev](https://github.com/georgeOsdDev)/[**react-magic-effect…**](https://github.com/georgeOsdDev/react-magic-effects)|Magical effects for react components|[:arrow_upper_right:]( http://georgeosddev.github.io/react-magic-effects)|
+|3|[@georgeOsdDev](https://github.com/georgeOsdDev)/[**react-magic-effect…**](https://github.com/georgeOsdDev/react-magic-effects)|Magical effects for react components||
 |3|[@geta6](https://github.com/geta6)/[**jquery.boardmaker.…**](https://github.com/geta6/jquery.boardmaker.js)|||
 |3|[@giginet](https://github.com/giginet)/[**Hatena-Bookmark-fo…**](https://github.com/giginet/Hatena-Bookmark-for-Safari)|Safari Extention|[:arrow_upper_right:](http://d.hatena.ne.jp/gigi-net/20100624/safari)|
 |3|[@giginet](https://github.com/giginet)/[**jquery-3dsmenu**](https://github.com/giginet/jquery-3dsmenu)|jQuery plugin for listing like Nintendo 3DS home menu.||
@@ -3054,7 +3054,7 @@
 |3|[@liquidz](https://github.com/liquidz)/[**opera-widgets**](https://github.com/liquidz/opera-widgets)|source code for opera widgets||
 |3|[@lopnor](https://github.com/lopnor)/[**oembedder**](https://github.com/lopnor/oembedder)|private oembed provider|[:arrow_upper_right:](http://oembed.soffritto.org/)|
 |3|[@luxiar](https://github.com/luxiar)/[**syamo**](https://github.com/luxiar/syamo)|A server to notify update informations of the Gitlab.||
-|3|[@m0t0k1ch1](https://github.com/m0t0k1ch1)/[**labor-time**](https://github.com/m0t0k1ch1/labor-time)|a web application using 'moves' API, built with Amon2|[:arrow_upper_right:](labortime.k1ch1.com)|
+|3|[@m0t0k1ch1](https://github.com/m0t0k1ch1)/[**labor-time**](https://github.com/m0t0k1ch1/labor-time)|a web application using 'moves' API, built with Amon2||
 |3|[@maechabin](https://github.com/maechabin)/[**flux-utils-sample**](https://github.com/maechabin/flux-utils-sample)|Flux UtilsでのFlux実装サンプル（かなり簡易版）||
 |3|[@maepon](https://github.com/maepon)/[**okajs-bootstrap**](https://github.com/maepon/okajs-bootstrap)|okayama-jsでのセッション用のbootstrapです||
 |3|[@mainyaa](https://github.com/mainyaa)/[**angular-color-log**](https://github.com/mainyaa/angular-color-log)|Colorful logger for AngularJS||
@@ -3203,7 +3203,7 @@
 |3|[@relax4u](https://github.com/relax4u)/[**titanium-mixi-grap…**](https://github.com/relax4u/titanium-mixi-graph-api-examples)|mixi Graph API for Titanium Mobile examples||
 |3|[@relax4u](https://github.com/relax4u)/[**titanium-tab-based…**](https://github.com/relax4u/titanium-tab-based-template)|tab based application template for Titanium Mobile||
 |3|[@riatw](https://github.com/riatw)/[**mt-plugin-MTAppjQu…**](https://github.com/riatw/mt-plugin-MTAppjQueryPlus)|MovableTypeをCMSとして使う際に、より便利になるjQueryプラグイン集|[:arrow_upper_right:](http://studio-weekend.com/)|
-|3|[@rjyo](https://github.com/rjyo)/[**app4jp**](https://github.com/rjyo/app4jp)|a website used to report the donations to japan earthquake 2011. can be used as an template for similar needs|[:arrow_upper_right:](app4jp.com)|
+|3|[@rjyo](https://github.com/rjyo)/[**app4jp**](https://github.com/rjyo/app4jp)|a website used to report the donations to japan earthquake 2011. can be used as an template for similar needs||
 |3|[@roothybrid7](https://github.com/roothybrid7)/[**twtestapp**](https://github.com/roothybrid7/twtestapp)|TwitterのPublic timelineを使ってSCSS/grunt/Javascriptの勉強|[:arrow_upper_right:](http://roothybrid7.github.com/twtestapp/)|
 |3|[@rotsuya](https://github.com/rotsuya)/[**timecard**](https://github.com/rotsuya/timecard)|||
 |3|[@rramsden](https://github.com/rramsden)/[**skynet**](https://github.com/rramsden/skynet)|Skynet is a cloud-based platform for remote controlling multiple NexStar compatible Telescopes||

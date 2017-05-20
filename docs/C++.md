@@ -8,7 +8,7 @@
 |635|[@rakshasa](https://github.com/rakshasa)/[**libtorrent**](https://github.com/rakshasa/libtorrent)|libTorrent BitTorrent library|[:arrow_upper_right:](http://rtorrent.net/downloads/)|
 |539|[@kw-udon](https://github.com/kw-udon)/[**constexpr-8cc**](https://github.com/kw-udon/constexpr-8cc)|Compile-time C Compiler implemented as C++14 constant expressions||
 |528|[@kazuho](https://github.com/kazuho)/[**picojson**](https://github.com/kazuho/picojson)|a header-file-only, JSON parser serializer in C++||
-|381|[@treefrogframework](https://github.com/treefrogframework)/[**treefrog-framework…**](https://github.com/treefrogframework/treefrog-framework)|TreeFrog Framework : High-speed C++ MVC Framework for Web Application|[:arrow_upper_right:](www.treefrogframework.org)|
+|381|[@treefrogframework](https://github.com/treefrogframework)/[**treefrog-framework…**](https://github.com/treefrogframework/treefrog-framework)|TreeFrog Framework : High-speed C++ MVC Framework for Web Application||
 |357|[@bolero-MURAKAMI](https://github.com/bolero-MURAKAMI)/[**Sprout**](https://github.com/bolero-MURAKAMI/Sprout)|C++11/14 constexpr based Containers, Algorithms, Random numbers, Parsing, Ray tracing, Synthesizer, and others.|[:arrow_upper_right:](http://bolero-murakami.github.io/Sprout/)|
 |355|[@imkira](https://github.com/imkira)/[**mobiledevice**](https://github.com/imkira/mobiledevice)|Command line utility for interacting with Apple's Private (Closed) Mobile Device Framework||
 |331|[@melpon](https://github.com/melpon)/[**wandbox**](https://github.com/melpon/wandbox)|Social Compilation Service|[:arrow_upper_right:](https://wandbox.org/)|
@@ -362,7 +362,7 @@
 |9|[@yusuketomoto](https://github.com/yusuketomoto)/[**ml-examples-oF**](https://github.com/yusuketomoto/ml-examples-oF)|||
 |8|[@2bbb](https://github.com/2bbb)/[**ofxQuadTree**](https://github.com/2bbb/ofxQuadTree)|generate quadtree from image/texture||
 |8|[@2bbb](https://github.com/2bbb)/[**ofxSmartOscSender**](https://github.com/2bbb/ofxSmartOscSender)|i wanna send with `send("/address", foo, bar, buzz)`||
-|8|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxBulletPhysics**](https://github.com/Akira-Hayasaka/ofxBulletPhysics)|###Danger, not completed yet### openFrameworks Bullet addon.|[:arrow_upper_right:](ofxBullet)|
+|8|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxBulletPhysics**](https://github.com/Akira-Hayasaka/ofxBulletPhysics)|###Danger, not completed yet### openFrameworks Bullet addon.||
 |8|[@DaikiMaekawa](https://github.com/DaikiMaekawa)/[**neovim.cpp**](https://github.com/DaikiMaekawa/neovim.cpp)|C++ client for Neovim||
 |8|[@Gnurou](https://github.com/Gnurou)/[**kdevelop**](https://github.com/Gnurou/kdevelop)|Some experiments with KDevelop||
 |8|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**RMeCab**](https://github.com/IshidaMotohiro/RMeCab)|Interface to MeCab||
@@ -515,7 +515,7 @@
 |5|[@KengoSawa2](https://github.com/KengoSawa2)/[**RapidCopy**](https://github.com/KengoSawa2/RapidCopy)|RapidCopy is portable version of FastCopy that runs GNU/Linux.||
 |5|[@RKX1209](https://github.com/RKX1209)/[**Dnscript**](https://github.com/RKX1209/Dnscript)|Dnscript is specific scripting language specializing to build the "danmaku" in shooting game.||
 |5|[@Ushio](https://github.com/Ushio)/[**WaveSolver**](https://github.com/Ushio/WaveSolver)|||
-|5|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**dmxTouchDesigner**](https://github.com/YCAMInterlab/dmxTouchDesigner)||[:arrow_upper_right:](interlab.ycam.jp)|
+|5|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**dmxTouchDesigner**](https://github.com/YCAMInterlab/dmxTouchDesigner)|||
 |5|[@YuuichiAkagawa](https://github.com/YuuichiAkagawa)/[**Arduino-AOA2**](https://github.com/YuuichiAkagawa/Arduino-AOA2)|Android AOA2.0(ADK2) for Arduino||
 |5|[@a4lg](https://github.com/a4lg)/[**ffuzzypp**](https://github.com/a4lg/ffuzzypp)|C++ implementation of ssdeep-compatible fast fuzzy hashing||
 |5|[@chikuzen](https://github.com/chikuzen)/[**RawSource_2.6x**](https://github.com/chikuzen/RawSource_2.6x)|AviSynth source filter plugin for loading raw video data from files ||

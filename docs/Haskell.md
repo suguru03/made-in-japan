@@ -143,7 +143,7 @@
 |5|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**bst**](https://github.com/kazu-yamamoto/bst)|Binary search tree based on a logarithmic method||
 |5|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**concurrent-dns-cac…**](https://github.com/kazu-yamamoto/concurrent-dns-cache)|Concurrent DNS cache in Haskell||
 |5|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**hs-sympo-2012**](https://github.com/kazu-yamamoto/hs-sympo-2012)|Our paper to Haskell Symposium 2012||
-|5|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**io-choice**](https://github.com/kazu-yamamoto/io-choice)|Choice for IO and lifted IO|[:arrow_upper_right:](Choice for IO and lifted IO)|
+|5|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**io-choice**](https://github.com/kazu-yamamoto/io-choice)|Choice for IO and lifted IO||
 |5|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**test-framework-th-…**](https://github.com/kazu-yamamoto/test-framework-th-prime)|Template Haskell for test framework||
 |5|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**webserver**](https://github.com/kazu-yamamoto/webserver)|A simple but practical library of HTTP server in Haskell|[:arrow_upper_right:](http://www.mew.org/~kazu/proj/mighttpd/)|
 |5|[@konn](https://github.com/konn)/[**hagi**](https://github.com/konn/hagi)|HaGi - Haskell Grass Interpreter|[:arrow_upper_right:](http://konn.x0.com/)|

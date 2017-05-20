@@ -94,7 +94,7 @@
 |39|[@cookpad](https://github.com/cookpad)/[**gradle-android-sdk…**](https://github.com/cookpad/gradle-android-sdk-manager)|DEPRECATED||
 |39|[@g6ling](https://github.com/g6ling)/[**React-Native-Tips**](https://github.com/g6ling/React-Native-Tips)|||
 |37|[@zick](https://github.com/zick)/[**Magical-Language-L…**](https://github.com/zick/Magical-Language-Lyrical-Lisp)|A Lisp tutorial game|[:arrow_upper_right:](http://lyrical.bugyo.tk/)|
-|36|[@1000ch](https://github.com/1000ch)/[**chrome-extension-h…**](https://github.com/1000ch/chrome-extension-hands-on)|Chrome Extension Hands-on!|[:arrow_upper_right:](github.com/1000ch/chrome-extension-hands-on/wiki)|
+|36|[@1000ch](https://github.com/1000ch)/[**chrome-extension-h…**](https://github.com/1000ch/chrome-extension-hands-on)|Chrome Extension Hands-on!||
 |36|[@takimo](https://github.com/takimo)/[**twitter-bootstrap-…**](https://github.com/takimo/twitter-bootstrap-node)|Twitter Bootstrap for Node.js||
 |34|[@glidenote](https://github.com/glidenote)/[**vagrant-docker-dig…**](https://github.com/glidenote/vagrant-docker-digitalocean)|||
 |34|[@tamagoya](https://github.com/tamagoya)/[**oeed**](https://github.com/tamagoya/oeed)|Open Engineer Energy Drink.||
@@ -277,7 +277,7 @@
 |11|[@tomorrowkey](https://github.com/tomorrowkey)/[**sketch3-mosaic-plu…**](https://github.com/tomorrowkey/sketch3-mosaic-plugin)|A plugin for Sketch3 to apply mosaic easily||
 |11|[@wakayama-pref-org](https://github.com/wakayama-pref-org)/[**list-of-public-fac…**](https://github.com/wakayama-pref-org/list-of-public-facilities)|福祉のまちづくりマップに掲載された公共施設一覧です。||
 |11|[@yhoshino11](https://github.com/yhoshino11)/[**ArchLinux**](https://github.com/yhoshino11/ArchLinux)|my minimum Arch Linux Installution||
-|10|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxOpenCV22**](https://github.com/Akira-Hayasaka/ofxOpenCV22)|openCV2.2 addon for opanFrameworks. Tested and created on OSX 10.6 oF0062..|[:arrow_upper_right:](ofxOpenCV22)|
+|10|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxOpenCV22**](https://github.com/Akira-Hayasaka/ofxOpenCV22)|openCV2.2 addon for opanFrameworks. Tested and created on OSX 10.6 oF0062..||
 |10|[@KeithYokoma](https://github.com/KeithYokoma)/[**wercker-container-…**](https://github.com/KeithYokoma/wercker-container-android)|Docker container for wercker to build android app||
 |10|[@Kuniwak](https://github.com/Kuniwak)/[**stamp**](https://github.com/Kuniwak/stamp)|My stamp images|[:arrow_upper_right:](http://stamp.kuniwak.com/hello)|
 |10|[@ShinokiRyosei](https://github.com/ShinokiRyosei)/[**Gomenna-SideStep**](https://github.com/ShinokiRyosei/Gomenna-SideStep)|||
@@ -487,7 +487,7 @@
 |6|[@naist-robotics](https://github.com/naist-robotics)/[**naist-openhand-m2s…**](https://github.com/naist-robotics/naist-openhand-m2s)|||
 |6|[@nojimage](https://github.com/nojimage)/[**nomore-hiwatashi**](https://github.com/nojimage/nomore-hiwatashi)||[:arrow_upper_right:](http://nomore-hiwatashi.com/)|
 |6|[@norio-nomura](https://github.com/norio-nomura)/[**docker-swift**](https://github.com/norio-nomura/docker-swift)||[:arrow_upper_right:](https://hub.docker.com/r/norionomura/swift/)|
-|6|[@ochko](https://github.com/ochko)/[**MongolianFont**](https://github.com/ochko/MongolianFont)|Traditional Mongolian Script|[:arrow_upper_right:](bichig.query.mn)|
+|6|[@ochko](https://github.com/ochko)/[**MongolianFont**](https://github.com/ochko/MongolianFont)|Traditional Mongolian Script||
 |6|[@pepabo](https://github.com/pepabo)/[**textbook**](https://github.com/pepabo/textbook)|ペパボの研修の教科書||
 |6|[@plenproject](https://github.com/plenproject)/[**plen__firmware_for…**](https://github.com/plenproject/plen__firmware_for_Arduino)|PLEN2’s firmware for Arduino (Atmega32u4), code name "Cytisus" (version 1.x.x).||
 |6|[@rust](https://github.com/rust)/[**mysqlmemcheck**](https://github.com/rust/mysqlmemcheck)|Check memory size used by MySQL Server||
@@ -543,7 +543,7 @@
 |5|[@justlaputa](https://github.com/justlaputa)/[**collectd-influxdb-…**](https://github.com/justlaputa/collectd-influxdb-grafana-docker)|||
 |5|[@kadoppe](https://github.com/kadoppe)/[**bluehub-keynote-th…**](https://github.com/kadoppe/bluehub-keynote-theme)|Original Keynote Themes||
 |5|[@kaminogoya](https://github.com/kaminogoya)/[**mt-theme-harmonium…**](https://github.com/kaminogoya/mt-theme-harmonium)|||
-|5|[@kanendosei](https://github.com/kanendosei)/[**kane-box**](https://github.com/kanendosei/kane-box)|Web-based interface for the (now defunct) kane-box project|[:arrow_upper_right:](kanen.me)|
+|5|[@kanendosei](https://github.com/kanendosei)/[**kane-box**](https://github.com/kanendosei/kane-box)|Web-based interface for the (now defunct) kane-box project||
 |5|[@karad](https://github.com/karad)/[**NoseRubJapaneseTra…**](https://github.com/karad/NoseRubJapaneseTransration)|NoseRub Japanese Transration||
 |5|[@karlcow](https://github.com/karlcow)/[**Data-Independence-…**](https://github.com/karlcow/Data-Independence-Guidelines)|Data Independence And Survival Best Practices collects ideas around data independence. How to better share your data by promoting reusability, standards and clear policies. ||
 |5|[@kdmsnr](https://github.com/kdmsnr)/[**xyzzy-lisp**](https://github.com/kdmsnr/xyzzy-lisp)|||
@@ -608,7 +608,7 @@
 |5|[@xibbar](https://github.com/xibbar)/[**acts_as_section_ma…**](https://github.com/xibbar/acts_as_section_map)|rails plugin for the section map( ex. organization tree) using better nested set||
 |5|[@xuwei-k](https://github.com/xuwei-k)/[**sasukamez**](https://github.com/xuwei-k/sasukamez)|さすかめZ|[:arrow_upper_right:](https://xuwei-k.github.io/sasukamez/7.1.4.svg)|
 |5|[@yhara](https://github.com/yhara)/[**unbabel**](https://github.com/yhara/unbabel)|The 'universal' foreign-funciton interface||
-|5|[@ymotongpoo](https://github.com/ymotongpoo)/[**bucho.torufurukawa…**](https://github.com/ymotongpoo/bucho.torufurukawa.com)|bucho|[:arrow_upper_right:](bucho.torufurukawa.com)|
+|5|[@ymotongpoo](https://github.com/ymotongpoo)/[**bucho.torufurukawa…**](https://github.com/ymotongpoo/bucho.torufurukawa.com)|bucho||
 |5|[@yoshiharatakeru](https://github.com/yoshiharatakeru)/[**TrailPlan**](https://github.com/yoshiharatakeru/TrailPlan)|This is the plan for my journey.||
 |5|[@youz](https://github.com/youz)/[**go-mode**](https://github.com/youz/go-mode)|Go言語用メジャーモード for xyzzy||
 |5|[@youz](https://github.com/youz)/[**xyzzy-lisp**](https://github.com/youz/xyzzy-lisp)|snipetts for xyzzy|[:arrow_upper_right:](http://d.hatena.ne.jp/youz/)|
@@ -685,7 +685,7 @@
 |4|[@konifar](https://github.com/konifar)/[**droidkaigi-session…**](https://github.com/konifar/droidkaigi-session)|DroidKaigiセッションの草稿です。私がもがき苦しむ様子が垣間見えます。||
 |4|[@kshimo69](https://github.com/kshimo69)/[**stap**](https://github.com/kshimo69/stap)|systemtap scripts||
 |4|[@ktakayama](https://github.com/ktakayama)/[**smsalert**](https://github.com/ktakayama/smsalert)||[:arrow_upper_right:](http://sa.aill.org/)|
-|4|[@ku](https://github.com/ku)/[**iview-for-tombloo**](https://github.com/ku/iview-for-tombloo)||[:arrow_upper_right:](ido.nu/kuma/2008/09/26/iview-for-tombloo/)|
+|4|[@ku](https://github.com/ku)/[**iview-for-tombloo**](https://github.com/ku/iview-for-tombloo)|||
 |4|[@kubosho](https://github.com/kubosho)/[**textlint-starter-k…**](https://github.com/kubosho/textlint-starter-kit)|textlint starter kit.||
 |4|[@libelabo](https://github.com/libelabo)/[**libelabo**](https://github.com/libelabo/libelabo)|Libelabo's public project|[:arrow_upper_right:](http://libelabo.jp/)|
 |4|[@linyows](https://github.com/linyows)/[**tomohisaoda.com**](https://github.com/linyows/tomohisaoda.com)|my blog|[:arrow_upper_right:](http://tomohisaoda.com)|

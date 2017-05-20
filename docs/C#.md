@@ -13,6 +13,7 @@
 |318|[@keijiro](https://github.com/keijiro)/[**Reaktion**](https://github.com/keijiro/Reaktion)|Audio reactive animation toolkit for Unity||
 |248|[@keijiro](https://github.com/keijiro)/[**Retro3D**](https://github.com/keijiro/Retro3D)|A shader that imitates low grade 3D graphics.||
 |240|[@neuecc](https://github.com/neuecc)/[**MessagePack-CSharp…**](https://github.com/neuecc/MessagePack-CSharp)|Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]||
+|235|[@xen2](https://github.com/xen2)/[**SharpLang**](https://github.com/xen2/SharpLang)|Compiles .NET/C# to native code using LLVM framework. No longer active, consider migrating to https://github.com/dotnet/corert||
 |227|[@runceel](https://github.com/runceel)/[**ReactiveProperty**](https://github.com/runceel/ReactiveProperty)|||
 |221|[@Implem](https://github.com/Implem)/[**Implem.Pleasanter**](https://github.com/Implem/Implem.Pleasanter)|無料のアプリケーションPaaS「プリザンター」||
 |178|[@imkira](https://github.com/imkira)/[**unity-sysfont**](https://github.com/imkira/unity-sysfont)|unity-sysfont is a Unity3D plugin for rendering dynamic text using the fonts available on the mobile device/computer. ||
@@ -67,6 +68,7 @@
 |60|[@neuecc](https://github.com/neuecc)/[**CloudStructures**](https://github.com/neuecc/CloudStructures)|Redis Client based on StackExchange.Redis.||
 |59|[@mattatz](https://github.com/mattatz)/[**unity-teddy**](https://github.com/mattatz/unity-teddy)|Teddy algorithm implementation in Unity.||
 |58|[@guitarrapc](https://github.com/guitarrapc)/[**AzureFunctionsIntr…**](https://github.com/guitarrapc/AzureFunctionsIntroduction)|Sample Code for Azure Functions|[:arrow_upper_right:](http://tech.guitarrapc.com/archive/category/AzureFunctions)|
+|54|[@veigr](https://github.com/veigr)/[**BattleInfoPlugin**](https://github.com/veigr/BattleInfoPlugin)|戦闘情報を表示する KanColleViewer プラグインです。||
 |52|[@i-saint](https://github.com/i-saint)/[**DeferredShading**](https://github.com/i-saint/DeferredShading)|||
 |49|[@neuecc](https://github.com/neuecc)/[**PhotonWire**](https://github.com/neuecc/PhotonWire)|Typed Asynchronous RPC Layer for Photon Server + Unity||
 |45|[@neuecc](https://github.com/neuecc)/[**LINQ-to-BigQuery**](https://github.com/neuecc/LINQ-to-BigQuery)|LINQ to BigQuery is C# LINQ Provider for Google BigQuery. It also enables Desktop GUI Client with LINQPad and plug-in driver.||
@@ -80,10 +82,14 @@
 |33|[@neuecc](https://github.com/neuecc)/[**SerializableDictio…**](https://github.com/neuecc/SerializableDictionary)|SerializableCollections(SerializableDictionary, SerializableLookup, SerializableTuple) for Unity||
 |31|[@hecomi](https://github.com/hecomi)/[**UWO**](https://github.com/hecomi/UWO)|Unity WebGL x WebSocket MMO demo||
 |31|[@makoto-unity](https://github.com/makoto-unity)/[**PanoramaVideoWithU…**](https://github.com/makoto-unity/PanoramaVideoWithUnity)|It shows panorama video using Unity.||
+|31|[@yfakariya](https://github.com/yfakariya)/[**msgpack-rpc-cli**](https://github.com/yfakariya/msgpack-rpc-cli)|MessagePack for CLI (.NET/Mono) RPC||
 |30|[@kaorun55](https://github.com/kaorun55)/[**HoloLens-Samples**](https://github.com/kaorun55/HoloLens-Samples)|||
 |30|[@takeshik](https://github.com/takeshik)/[**yacq**](https://github.com/takeshik/yacq)|Yet Another Compilable Query Language for .NET, based on Expression Trees API|[:arrow_upper_right:](http://yacq.net/)|
+|29|[@veigr](https://github.com/veigr)/[**EventMapHpViewer**](https://github.com/veigr/EventMapHpViewer)|KanColleViewer で攻略中イベントマップのHPと最低必要撃破回数を表示するプラグインです。||
+|29|[@xin9le](https://github.com/xin9le)/[**DeclarativeSql**](https://github.com/xin9le/DeclarativeSql)|Attribute-based database access||
 |28|[@mattatz](https://github.com/mattatz)/[**unity-voxel**](https://github.com/mattatz/unity-voxel)|Mesh voxelization for Unity.||
 |27|[@neuecc](https://github.com/neuecc)/[**MasterMemory**](https://github.com/neuecc/MasterMemory)|Embedded Readonly In-Memory Document Database for .NET, .NET Core and Unity||
+|27|[@setchi](https://github.com/setchi)/[**FancyScrollView**](https://github.com/setchi/FancyScrollView)|セルの動きを自由に制御できる汎用 ScrollView||
 |26|[@mattatz](https://github.com/mattatz)/[**unity-procedural-f…**](https://github.com/mattatz/unity-procedural-flower)|Procedural flower generator for Unity.||
 |25|[@amay077](https://github.com/amay077)/[**StopWatchSample**](https://github.com/amay077/StopWatchSample)|RxJava+Java あるいは Reactive Extensions + Xamarin による Rx+MVVM な Android/iOS 対応ストップウォッチアプリのサンプル|[:arrow_upper_right:](http://qiita.com/amay077/items/8464a22e3063642112ed)|
 |25|[@i-saint](https://github.com/i-saint)/[**BlueImpulse**](https://github.com/i-saint/BlueImpulse)|||
@@ -117,9 +123,13 @@
 |15|[@hecomi](https://github.com/hecomi)/[**NodejsUnity**](https://github.com/hecomi/NodejsUnity)|Run Node.js automatically when Unity application starts, and they communicate with each other.||
 |15|[@neuecc](https://github.com/neuecc)/[**RespClient**](https://github.com/neuecc/RespClient)|RespClient is a minimal RESP(REdis Serialization Protocol) client for C# and PowerShell.||
 |15|[@ugaya40](https://github.com/ugaya40)/[**StatefulModel**](https://github.com/ugaya40/StatefulModel)|Frequent use of stateful Models for M-V-Whatever. example,synced - ObservableCollection etc.||
+|15|[@veigr](https://github.com/veigr)/[**LevelChartPlugin**](https://github.com/veigr/LevelChartPlugin)|Level チャート を表示する KanColleViewer Plugin||
 |14|[@bleis-tift](https://github.com/bleis-tift)/[**Mistilteinn**](https://github.com/bleis-tift/Mistilteinn)|ミストルティン - Visual StudioとGitを組み合わせた新しい開発の形||
 |14|[@kyubuns](https://github.com/kyubuns)/[**UniClipboard**](https://github.com/kyubuns/UniClipboard)|Clipboard for Unity ( support PC/Mac/iOS )||
 |14|[@nickjanssen](https://github.com/nickjanssen)/[**UnityToThreeExport…**](https://github.com/nickjanssen/UnityToThreeExporter)|Export Unity scenes to three.js|[:arrow_upper_right:](https://threejsexporter.nickjanssen.com/)|
+|14|[@pierre3](https://github.com/pierre3)/[**PlantUmlClassDiagr…**](https://github.com/pierre3/PlantUmlClassDiagramGenerator)|This is a generator to create a class-diagram of PlantUML from the C# source code.||
+|14|[@veigr](https://github.com/veigr)/[**Nekoxy**](https://github.com/veigr/Nekoxy)|Simple HTTP Proxy Library||
+|14|[@xin9le](https://github.com/xin9le)/[**ReactiveSignalR**](https://github.com/xin9le/ReactiveSignalR)|Reactive Programming for SignalR||
 |13|[@Implem](https://github.com/Implem)/[**Implem.CodeDefiner…**](https://github.com/Implem/Implem.CodeDefiner)|ソースコード自動生成ツール||
 |13|[@TsudaKageyu](https://github.com/TsudaKageyu)/[**IconExtractor**](https://github.com/TsudaKageyu/IconExtractor)|Icon Extractor Library for .NET||
 |13|[@abarth500](https://github.com/abarth500)/[**csharp-websocket-j…**](https://github.com/abarth500/csharp-websocket-javascript)|||
@@ -130,6 +140,7 @@
 |13|[@shibayan](https://github.com/shibayan)/[**SwissKnife**](https://github.com/shibayan/SwissKnife)|SwissKnife for ASP.NET|[:arrow_upper_right:](http://shibayan.jp/)|
 |13|[@sugi-cho](https://github.com/sugi-cho)/[**Unity-GPU-Particle…**](https://github.com/sugi-cho/Unity-GPU-Particle)|gpu particle for unity||
 |13|[@ugaya40](https://github.com/ugaya40)/[**Livet2**](https://github.com/ugaya40/Livet2)|WPF4.6 MVVM Infrastructure||
+|13|[@xskogure](https://github.com/xskogure)/[**SpeechRecognitionW…**](https://github.com/xskogure/SpeechRecognitionWebSocket)|||
 |12|[@abarth500](https://github.com/abarth500)/[**kinect-sdk-example…**](https://github.com/abarth500/kinect-sdk-example)|||
 |12|[@atsushieno](https://github.com/atsushieno)/[**monodroid-schema-g…**](https://github.com/atsushieno/monodroid-schema-gen)|layout xml schema generator||
 |12|[@kenmaz](https://github.com/kenmaz)/[**TempleRun-Unity**](https://github.com/kenmaz/TempleRun-Unity)|TempleRun clone with Unity||
@@ -167,6 +178,7 @@
 |9|[@mimura1133](https://github.com/mimura1133)/[**vstex**](https://github.com/mimura1133/vstex)|TeX Support for Visual Studio 2015|[:arrow_upper_right:](http://mimumimu.net/)|
 |9|[@nobnak](https://github.com/nobnak)/[**DomeMaster**](https://github.com/nobnak/DomeMaster)|||
 |9|[@nobnak](https://github.com/nobnak)/[**SmokeBlur**](https://github.com/nobnak/SmokeBlur)|||
+|9|[@nryas](https://github.com/nryas)/[**ProceduralWaterfal…**](https://github.com/nryas/ProceduralWaterfall)|An experimental Unity project of interactive and procedural waterfall simulation||
 |8|[@asus4](https://github.com/asus4)/[**UnityDiskSpacePlug…**](https://github.com/asus4/UnityDiskSpacePlugin)|return true disk space for iOS/Android||
 |8|[@atsushieno](https://github.com/atsushieno)/[**xamldroid**](https://github.com/atsushieno/xamldroid)|xaml-bound View for monodroid||
 |8|[@chiepomme](https://github.com/chiepomme)/[**REAPERJapanesePatc…**](https://github.com/chiepomme/REAPERJapanesePatcher)|REAPER の日本語化パッチです。 |[:arrow_upper_right:](https://github.com/chiepomme/REAPERJapanesePatcher/wiki)|
@@ -177,6 +189,7 @@
 |8|[@ngyuki](https://github.com/ngyuki)/[**MarkdownView**](https://github.com/ngyuki/MarkdownView)|||
 |8|[@nobnak](https://github.com/nobnak)/[**RopePhysics**](https://github.com/nobnak/RopePhysics)|||
 |8|[@onevcat](https://github.com/onevcat)/[**UnpauseMe**](https://github.com/onevcat/UnpauseMe)|Script for Unity3D, unpause Unity3D animations or particles when set Time.timeScale = 0.||
+|8|[@reinforchu](https://github.com/reinforchu)/[**NachtWal**](https://github.com/reinforchu/NachtWal)|Reinforced Mitigation Security Filter|[:arrow_upper_right:](http://hack.vet/xss)|
 |8|[@shibayan](https://github.com/shibayan)/[**SendGrid.PowerShel…**](https://github.com/shibayan/SendGrid.PowerShell)|PowerShell Cmdlets for SendGrid||
 |8|[@sugi-cho](https://github.com/sugi-cho)/[**UnityGraphicsProgr…**](https://github.com/sugi-cho/UnityGraphicsPrograming)|Creating Mesh and Shader||
 |8|[@tanaka-takayoshi](https://github.com/tanaka-takayoshi)/[**CSharp.Chatwork.Ap…**](https://github.com/tanaka-takayoshi/CSharp.Chatwork.Api)|Chatwork API for C#||
@@ -192,12 +205,15 @@
 |7|[@kyubuns](https://github.com/kyubuns)/[**Kuchen**](https://github.com/kyubuns/Kuchen)|Pub/Sub for Unity||
 |7|[@kyubuns](https://github.com/kyubuns)/[**OnionRingUnity**](https://github.com/kyubuns/OnionRingUnity)|Auto 9 slice sprite generator|[:arrow_upper_right:](http://qiita.com/kyubuns/items/4327bb38ff22989ba7ed)|
 |7|[@moxuse](https://github.com/moxuse)/[**tidal-unity**](https://github.com/moxuse/tidal-unity)|||
+|7|[@mystasly48](https://github.com/mystasly48)/[**ProgrammingQuestio…**](https://github.com/mystasly48/ProgrammingQuestion)|入門向けの簡単な問題を出題しています。解答例はC#です。お時間あればぜひ挑戦してみてください。||
 |7|[@neuecc](https://github.com/neuecc)/[**ObserveEveryValueC…**](https://github.com/neuecc/ObserveEveryValueChanged)|Voodoo Magic for WPF.||
 |7|[@nobnak](https://github.com/nobnak)/[**VertexAnimator**](https://github.com/nobnak/VertexAnimator)|||
 |7|[@pierre3](https://github.com/pierre3)/[**GistsApi**](https://github.com/pierre3/GistsApi)|Gists API v3 Library for .Net||
 |7|[@sugi-cho](https://github.com/sugi-cho)/[**VJ_CX**](https://github.com/sugi-cho/VJ_CX)|||
 |7|[@tanakh](https://github.com/tanakh)/[**VisualStudioHaskel…**](https://github.com/tanakh/VisualStudioHaskell)|Haskell Tools for Visual Studio||
 |7|[@usagi](https://github.com/usagi)/[**maze**](https://github.com/usagi/maze)|shotest path sample for xna-morijobi students|[:arrow_upper_right:](http://projects.wonderrabbitproject.net/projects/xna-morijobi/wiki/)|
+|7|[@whaison](https://github.com/whaison)/[**Unity-5.0-AssetBun…**](https://github.com/whaison/Unity-5.0-AssetBundle-Demo)|Unity-5.0-AssetBundle-Demo-In-Server|[:arrow_upper_right:](http://whaison.jugem.jp/?eid=699)|
+|6|[@OutletTwit](https://github.com/OutletTwit)/[**OutletTwit-for-Win…**](https://github.com/OutletTwit/OutletTwit-for-Windows)|OutletTwit for Windows (using .NET Framework 4.6.1)||
 |6|[@akuukka](https://github.com/akuukka)/[**ExpressionSolver**](https://github.com/akuukka/ExpressionSolver)|A C# mathematical expression solver with Unity3D compatibility||
 |6|[@azyobuzin](https://github.com/azyobuzin)/[**PollApi**](https://github.com/azyobuzin/PollApi)|投票ツイート情報を取得するAPI|[:arrow_upper_right:](https://twpollapi.azyobuzi.net/)|
 |6|[@azyobuzin](https://github.com/azyobuzin)/[**YacqPlugin**](https://github.com/azyobuzin/YacqPlugin)|YACQで書かれたスクリプトをKrileプラグインとして使えるようにするプロジェクト||
@@ -222,6 +238,7 @@
 |6|[@takeshik](https://github.com/takeshik)/[**ConsoleEx**](https://github.com/takeshik/ConsoleEx)|.NET Console Library||
 |6|[@takeshik](https://github.com/takeshik)/[**metatweet-old**](https://github.com/takeshik/metatweet-old)|Hub system for micro-blog communication services|[:arrow_upper_right:](http://www.metatweet.org/)|
 |6|[@takezoux2](https://github.com/takezoux2)/[**unity-future**](https://github.com/takezoux2/unity-future)|Future implementation for unity.Support async programming.||
+|6|[@ume05rw](https://github.com/ume05rw)/[**SharpCifs.Std**](https://github.com/ume05rw/SharpCifs.Std)|SharpCifs.Std is a port from SharpCifs to .NET Standard. Original SharpCifs: https://github.com/zinkpad/SharpCifs||
 |5|[@GRGSIBERIA](https://github.com/GRGSIBERIA)/[**utf8-sjis-encoder**](https://github.com/GRGSIBERIA/utf8-sjis-encoder)|C#でSJIS-Unicodeの相互変換をするためのエンコーダです．SJISでの運用が前提で，なおかつGetEncoding(932)の使えない環境で幸せになれます．||
 |5|[@JakeJP](https://github.com/JakeJP)/[**FlashAir.NET**](https://github.com/JakeJP/FlashAir.NET)|||
 |5|[@LeonAkasaka](https://github.com/LeonAkasaka)/[**PronamaSamples**](https://github.com/LeonAkasaka/PronamaSamples)|＼ばばーん／|[:arrow_upper_right:](http://pronama.github.io/mascot-apps-contest/2014/)|
@@ -236,6 +253,7 @@
 |5|[@bleis-tift](https://github.com/bleis-tift)/[**QuickTestSwitcher**](https://github.com/bleis-tift/QuickTestSwitcher)|テスティングペアを簡単に切り替えられるようにするためのVisual Studio用アドイン|[:arrow_upper_right:](http://bleis-tift.github.com/QuickTestSwitcher/)|
 |5|[@exKAZUu](https://github.com/exKAZUu)/[**TreeDotNet**](https://github.com/exKAZUu/TreeDotNet)|TreeDotNet is a simple implementation of multi-branch tree written in C#.||
 |5|[@hiroakioishi](https://github.com/hiroakioishi)/[**UnityLinesByDistan…**](https://github.com/hiroakioishi/UnityLinesByDistance)|||
+|5|[@kamanii24](https://github.com/kamanii24)/[**AssetBundleManager…**](https://github.com/kamanii24/AssetBundleManager)|アセットバンドル周りの処理を個人的にわかりやすく、使いやすくまとめたものです。||
 |5|[@kazuki](https://github.com/kazuki)/[**opencrypto-tls**](https://github.com/kazuki/opencrypto-tls)|TLS/SSL Library (written by C#)||
 |5|[@kazukioishi](https://github.com/kazukioishi)/[**NowplayingTunes**](https://github.com/kazukioishi/NowplayingTunes)|なうぷれTunesのレポジトリです|[:arrow_upper_right:](http://www.jisakuroom.net/blog/)|
 |5|[@mattatz](https://github.com/mattatz)/[**EvolvingVirtualCre…**](https://github.com/mattatz/EvolvingVirtualCreatures)|Karl Sims, Evolving Virtual Creatures by Unity.||
@@ -247,12 +265,18 @@
 |5|[@pine](https://github.com/pine)/[**FelicaCashingSyste…**](https://github.com/pine/FelicaCashingSystemV2)|:credit_card: This is the electronic money system using the Sony/PaSoRi RC-S380.||
 |5|[@pocketberserker](https://github.com/pocketberserker)/[**Data.HList**](https://github.com/pocketberserker/Data.HList)|Type-safe heterogeneous lists for C# and F#.||
 |5|[@posaunehm](https://github.com/posaunehm)/[**Codersation**](https://github.com/posaunehm/Codersation)|#あーだCoder用のレポジトリです。コードについてあーだこーだ言うために作ってみました。||
+|5|[@setchi](https://github.com/setchi)/[**BezierCanvas**](https://github.com/setchi/BezierCanvas)|Unity 上で Illustrator のペンツール風にベジェ曲線を描けるサンプルスクリプト http://setchi.hatenablog.com/entry/2017/04/08/191455||
 |5|[@spr0tsuki](https://github.com/spr0tsuki)/[**BlockThemAll**](https://github.com/spr0tsuki/BlockThemAll)|||
 |5|[@sugi-cho](https://github.com/sugi-cho)/[**sugiImageEffects**](https://github.com/sugi-cho/sugiImageEffects)|Collection of imageEffects||
 |5|[@takeshik](https://github.com/takeshik)/[**linx**](https://github.com/takeshik/linx)|.NET Supplemental Library|[:arrow_upper_right:](http://www.takeshik.org/)|
 |5|[@tanaka-takayoshi](https://github.com/tanaka-takayoshi)/[**OpenForPSCmdlet**](https://github.com/tanaka-takayoshi/OpenForPSCmdlet)|Visual Studio Extension for support debugging PowerShell Cmdlet binary module||
 |5|[@tmyt](https://github.com/tmyt)/[**PaintCanvas**](https://github.com/tmyt/PaintCanvas)|PaintCanvas control for UWP.||
+|5|[@tnakamura](https://github.com/tnakamura)/[**ReduxSharp**](https://github.com/tnakamura/ReduxSharp)|Unidirectional Data Flow in C# - Inspired by Redux|[:arrow_upper_right:](http://www.nuget.org/packages/ReduxSharp)|
+|5|[@xin9le](https://github.com/xin9le)/[**WpfTetris**](https://github.com/xin9le/WpfTetris)|MVVM based Tetris application sample on WPF||
+|5|[@y1row](https://github.com/y1row)/[**Unity3dPhoenixClie…**](https://github.com/y1row/Unity3dPhoenixClient)|The client library for using channels of Phoenix Framework via Unity3d||
+|5|[@yamachu](https://github.com/yamachu)/[**Mastodot**](https://github.com/yamachu/Mastodot)|C# Library for Mastodon API. Easy Toot!||
 |5|[@yhirano](https://github.com/yhirano)/[**ThetaArSample**](https://github.com/yhirano/ThetaArSample)|Sample app of AR viewer for photo taken Ricoh Thetal.||
+|5|[@yukinarit](https://github.com/yukinarit)/[**WebSocketSample**](https://github.com/yukinarit/WebSocketSample)|2016年度 HAL専科用WebSocketSample.||
 |4|[@2tarotk](https://github.com/2tarotk)/[**EMF2SVGConverter**](https://github.com/2tarotk/EMF2SVGConverter)|Convert EMF file into SVG file.||
 |4|[@Grabacr07](https://github.com/Grabacr07)/[**XamClaudia**](https://github.com/Grabacr07/XamClaudia)|Per-Monitor DPI 対応コードと、そのテスト用 XAML 製クラウディアさん|[:arrow_upper_right:](http://grabacr.net/archives/1132)|
 |4|[@Kintaro](https://github.com/Kintaro)/[**Hyperion**](https://github.com/Kintaro/Hyperion)|A managed raytracer based on pbrt v2|[:arrow_upper_right:](http://think-in-co.de)|
@@ -282,6 +306,7 @@
 |4|[@mattatz](https://github.com/mattatz)/[**unity-generative-t…**](https://github.com/mattatz/unity-generative-tree)|Generative Tree for Unity3D||
 |4|[@misodengaku](https://github.com/misodengaku)/[**---15--**](https://github.com/misodengaku/---15--)|マキ、15歳♡　将来はパパとママの跡を継いで医者になるつもりだから、本当はアイ活してる時間なんて本当はないんだけど、こーんなにカワイイのにアイドルにならないなんてもったいないじゃナイ？　だからとりあえず、青春の思い出に参戦♡　趣味は買い物、今1番欲しい物はお兄ちゃん、特技は開脚、あとは──アピールポイントはなんだっけな。あ、こう見えて彼氏いない歴17年よ！||
 |4|[@moonmile](https://github.com/moonmile)/[**BrickPiNet**](https://github.com/moonmile/BrickPiNet)|.NET版BrickPi ||
+|4|[@naichilab](https://github.com/naichilab)/[**unityroom-tweet**](https://github.com/naichilab/unityroom-tweet)|WebGLからツイートするサンプル||
 |4|[@neuecc](https://github.com/neuecc)/[**DatadogSharp**](https://github.com/neuecc/DatadogSharp)|Yet another C# Datadog client that supports DogStatsD and APM.||
 |4|[@nobnak](https://github.com/nobnak)/[**BlendingUnity**](https://github.com/nobnak/BlendingUnity)|||
 |4|[@nobnak](https://github.com/nobnak)/[**GaussianBlurUnity**](https://github.com/nobnak/GaussianBlurUnity)|||
@@ -303,6 +328,8 @@
 |4|[@tmyt](https://github.com/tmyt)/[**ezip**](https://github.com/tmyt/ezip)|Excel archiver||
 |4|[@tnakamura](https://github.com/tnakamura)/[**WebSocketNotifierC…**](https://github.com/tnakamura/WebSocketNotifierClient)|A Jenkins WebSocketNotifer plugin client for Windows|[:arrow_upper_right:](http://tnakamura.github.com/WebSocketNotifierClient/)|
 |4|[@vain0](https://github.com/vain0)/[**GitEdit**](https://github.com/vain0/GitEdit)|A text editor optimized for Git on Windows (Git on Windows用に最適化されたテキストエディター)||
+|4|[@veigr](https://github.com/veigr)/[**SaveResponsePlugin…**](https://github.com/veigr/SaveResponsePlugin)|KanColleViewer で ResponseBody を保存するプラグイン||
+|4|[@xin9le](https://github.com/xin9le)/[**TryCSharpVNext**](https://github.com/xin9le/TryCSharpVNext)|C# vNext new feature samples||
 |3|[@173210](https://github.com/173210)/[**Android-Custom-ROM…**](https://github.com/173210/Android-Custom-ROM-Modifier)|カスタムROM改変一撃ツール||
 |3|[@CH3COOH](https://github.com/CH3COOH)/[**Markdown4winrt**](https://github.com/CH3COOH/Markdown4winrt)|Markdown processor for Windows Store apps. original source code: https://code.google.com/p/markdownsharp/||
 |3|[@CH3COOH](https://github.com/CH3COOH)/[**MetroDokei**](https://github.com/CH3COOH/MetroDokei)|for Metro Style Apps||
@@ -335,6 +362,7 @@
 |3|[@hiroakioishi](https://github.com/hiroakioishi)/[**UnityRDiffusion**](https://github.com/hiroakioishi/UnityRDiffusion)|https://github.com/cinder/Cinder/tree/master/samples/RDiffusion||
 |3|[@hiroakioishi](https://github.com/hiroakioishi)/[**UnitySimpleCompute…**](https://github.com/hiroakioishi/UnitySimpleComputeShaderExamples)|||
 |3|[@iomz](https://github.com/iomz)/[**ImpinjConfigurator…**](https://github.com/iomz/ImpinjConfigurator)|LLRP commander for Impinj Speedway Revolution RFID Readers using OctaneSDK||
+|3|[@iseebi](https://github.com/iseebi)/[**RP-CleanArchitectu…**](https://github.com/iseebi/RP-CleanArchitecture-Demo)|Clean Architecture like application architecture demo with ReactiveProperty and Ream Mobile Platform||
 |3|[@iseebi](https://github.com/iseebi)/[**YoutubeSearch**](https://github.com/iseebi/YoutubeSearch)|Search YouTube movies (MvvmCross tutorial for Japan Xamarin User Group Conference #4 Hands-on track)||
 |3|[@kaorun55](https://github.com/kaorun55)/[**Kinect22Scratch**](https://github.com/kaorun55/Kinect22Scratch)|Kinect2 -> Scratch||
 |3|[@kaorun55](https://github.com/kaorun55)/[**TmcnPerfume**](https://github.com/kaorun55/TmcnPerfume)|TMCNメンバーを3Dスキャンして、Perfumeのモーションを当ててみました||
@@ -361,6 +389,7 @@
 |3|[@mattatz](https://github.com/mattatz)/[**unity-mesh-slicing…**](https://github.com/mattatz/unity-mesh-slicing)|View-aligned mesh slicing for Unity.||
 |3|[@mattatz](https://github.com/mattatz)/[**unity-mrt-example**](https://github.com/mattatz/unity-mrt-example)|Multiple render targets without camera object for Unity.||
 |3|[@mimura1133](https://github.com/mimura1133)/[**Console-Twitter**](https://github.com/mimura1133/Console-Twitter)|||
+|3|[@mizoe](https://github.com/mizoe)/[**Unity_Chase2D**](https://github.com/mizoe/Unity_Chase2D)|Unity2D, enemy which chases the player.||
 |3|[@mntone](https://github.com/mntone)/[**NintendoNetworkHel…**](https://github.com/mntone/NintendoNetworkHelper)|Nintendo Network Authorization Helper||
 |3|[@moonmile](https://github.com/moonmile)/[**ExDoc**](https://github.com/moonmile/ExDoc)|PCL にして再リリース ||
 |3|[@moonmile](https://github.com/moonmile)/[**TMPuzzleXForms**](https://github.com/moonmile/TMPuzzleXForms)|Xamarin.Forms version of TMPuzzle||
@@ -385,9 +414,13 @@
 |3|[@reinforce-lab](https://github.com/reinforce-lab)/[**CSharpSamples**](https://github.com/reinforce-lab/CSharpSamples)||[:arrow_upper_right:](http://blog.reinforce-lab.com)|
 |3|[@rhenium](https://github.com/rhenium)/[**Meton**](https://github.com/rhenium/Meton)|Twitter クライアント作りたい||
 |3|[@runceel](https://github.com/runceel)/[**AsyncMessenger**](https://github.com/runceel/AsyncMessenger)|MVVM Light Messenger extension.||
+|3|[@skkallayath](https://github.com/skkallayath)/[**Feed-Aggregator**](https://github.com/skkallayath/Feed-Aggregator)|To fetch RSS/Atom Feeds from a Url||
+|3|[@stmy](https://github.com/stmy)/[**Stmy.Network.TcpCa…**](https://github.com/stmy/Stmy.Network.TcpCapt)|Process-specific TCP stream capturing library for .NET||
 |3|[@sudosan](https://github.com/sudosan)/[**Captter**](https://github.com/sudosan/Captter)|Twitter実況を補助するソフト||
 |3|[@sugi-cho](https://github.com/sugi-cho)/[**FlowingParticles**](https://github.com/sugi-cho/FlowingParticles)|パーティクルをテクスチャで制御する||
+|3|[@sugi-cho](https://github.com/sugi-cho)/[**Multi-Projector-Ov…**](https://github.com/sugi-cho/Multi-Projector-Overlap-Blending-QuadWarp)|||
 |3|[@sugi-cho](https://github.com/sugi-cho)/[**VertexToTexture**](https://github.com/sugi-cho/VertexToTexture)|頂点の位置と法線を、Texture2Dに保存しておく。ARGBFloatとか、HDR Textureを使用したバージョン||
+|3|[@tilemapjp](https://github.com/tilemapjp)/[**Tile2MBTiles**](https://github.com/tilemapjp/Tile2MBTiles)|既にタイルを作ってしまったディレクトリから、タイル画像を読み込んでMBTilesを作成します。||
 |3|[@tmyt](https://github.com/tmyt)/[**ConditionalBehavio…**](https://github.com/tmyt/ConditionalBehavior)|Conditional Behavior for Windows Store Apps.||
 |3|[@tmyt](https://github.com/tmyt)/[**UWP-PullToRefreshT…**](https://github.com/tmyt/UWP-PullToRefreshTest)|UWP PullToRefresh test app without ScrollViewer DirectManipulation.||
 |3|[@tmyt](https://github.com/tmyt)/[**vstoastnotifier**](https://github.com/tmyt/vstoastnotifier)|The build result notification addon for Visual Studio 2012, 2013, 2015 and 2017.||
@@ -396,6 +429,8 @@
 |3|[@unak](https://github.com/unak)/[**EPubMaker2**](https://github.com/unak/EPubMaker2)|ePub maker (Windows)||
 |3|[@usagi](https://github.com/usagi)/[**xna-morijobi-win**](https://github.com/usagi/xna-morijobi-win)|||
 |3|[@vain0](https://github.com/vain0)/[**git_edit**](https://github.com/vain0/git_edit)|A text editor for Git on Windows||
+|3|[@y-yu](https://github.com/y-yu)/[**typeclass-csharp**](https://github.com/y-yu/typeclass-csharp)|Poorer Man's Typeclass in C# using HDict, Type indexed value and Higher kinded polymorphism||
+|3|[@ysykhmd](https://github.com/ysykhmd)/[**usb-serial-for-xam…**](https://github.com/ysykhmd/usb-serial-for-xamarin-android)|Porting usb-serial-for-android to Xamarin.Android (Original project: https://github.com/mik3y/usb-serial-for-android)||
 |3|[@yvt](https://github.com/yvt)/[**queen-compiler**](https://github.com/yvt/queen-compiler)|Q-Language Compiler which mainly targets .NET output||
 |3|[@zaki](https://github.com/zaki)/[**irrlicht.net**](https://github.com/zaki/irrlicht.net)|A .NET wrapper for the Irrlicht 3D engine|[:arrow_upper_right:](http://github.com/zaki/irrlicht.net)|
 

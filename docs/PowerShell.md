@@ -11,5 +11,6 @@
 |3|[@guitarrapc](https://github.com/guitarrapc)/[**DSCResources**](https://github.com/guitarrapc/DSCResources)|WARNING THIS REPO IS DEPRECATED!! ALL SOURCES ARE MOVED TO GraniResource.|[:arrow_upper_right:](https://github.com/guitarrapc/GraniResource )|
 |3|[@guitarrapc](https://github.com/guitarrapc)/[**PS-Linux**](https://github.com/guitarrapc/PS-Linux)|Linux Command alter by PowerShell||
 |3|[@minecraft-mall](https://github.com/minecraft-mall)/[**MinecraftMall**](https://github.com/minecraft-mall/MinecraftMall)|Deploy a Minecraft Server using ARM template, PowerShell, and Chef-solo - Microsoft Azureで、私のマイクラ・マルチサーバーを手軽にゲット（自動構築）するプロジェクト - ||
+|3|[@muziyoshiz](https://github.com/muziyoshiz)/[**admiral_stats_expo…**](https://github.com/muziyoshiz/admiral_stats_exporter)|艦これアーケードのプレイデータをエクスポートするツール||
 |3|[@rancomma](https://github.com/rancomma)/[**MdbCommand**](https://github.com/rancomma/MdbCommand)|powershell ms mdb file automation command.||
 

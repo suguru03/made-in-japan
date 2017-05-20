@@ -9,8 +9,7 @@
   "dependencies": {
     "aigle": "git+https://github.com/suguru03/aigle.git",
     "gh.js": "^3.0.10",
-    "lodash": "^4.13.1",
-    "neo-async": "^2.0.0"
+    "lodash": "^4.13.1"
   },
   "devDependencies": {
     "gulp": "^3.9.1",

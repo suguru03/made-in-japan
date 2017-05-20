@@ -5,6 +5,7 @@
 |20|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxDisplayConf**](https://github.com/Akira-Hayasaka/ofxDisplayConf)|openFrameworks addon for display/projector configuration using CoreGraphics (private) API.||
 |11|[@keichi](https://github.com/keichi)/[**osx-tag**](https://github.com/keichi/osx-tag)|A node.js module to operate tags on OSX Mavericks||
 |11|[@motoishmz](https://github.com/motoishmz)/[**ofxDisplayLayout**](https://github.com/motoishmz/ofxDisplayLayout)|ofxDisplayLayout grabs the display unique id, and aligns your displays vertically/horizontally||
+|10|[@dropcontrol](https://github.com/dropcontrol)/[**ofxiBeacon**](https://github.com/dropcontrol/ofxiBeacon)|openFrameworks addon for handling iBeacon.||
 |8|[@hisui](https://github.com/hisui)/[**scrapingkit**](https://github.com/hisui/scrapingkit)|ObjC library: easy DOM traversing in jQuery-like API for web scraping.||
 |8|[@safx](https://github.com/safx)/[**liquidfun-ios-samp…**](https://github.com/safx/liquidfun-ios-sample)|a sample project for LiquidFun.|[:arrow_upper_right:](http://safx-dev.blogspot.jp/search/label/liquidfun)|
 |5|[@2bbb](https://github.com/2bbb)/[**ofxBonjour**](https://github.com/2bbb/ofxBonjour)|use Bonjour in openFrameowkrs||

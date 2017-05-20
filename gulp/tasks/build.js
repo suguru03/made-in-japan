@@ -94,8 +94,8 @@ function makeDocs(data) {
   // make top 1000
   const rankLimit = 1000;
   readme += `\n-> [Top 1000 Developers](${basePath}/blob/master/docs/rankers.md)\n`;
-  ranks.splice(rankLimit);
-  const rankDoc = _.reduce(ranks, (result, { text }) => {
+  ranks.splice(rankLimit * 2);
+  const rankDoc = _.reduce(ranks.slice(0, rankLimit), (result, { text }) => {
     return `${result}${text}`;
   }, `## Top ${rankLimit} Developers (${nowStr})\n\n|Rank|Name|:star2:|\n|---|---|---|\n`);
   const rankpath = path.resolve(__dirname, '../..', 'docs', 'rankers.md');

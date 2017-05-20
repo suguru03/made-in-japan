@@ -9,6 +9,7 @@
 |4|[@akafugu](https://github.com/akafugu)/[**simpleclock**](https://github.com/akafugu/simpleclock)|Akafugu Simpleclock firmware|[:arrow_upper_right:](http://akafugu.jp/posts/products/simpleclock)|
 |4|[@hrl7](https://github.com/hrl7)/[**ArduinoProxy**](https://github.com/hrl7/ArduinoProxy)|ArduinoとFirefox OSシミュレータをつなぎます||
 |4|[@soramimi](https://github.com/soramimi)/[**ESP8266Tweet**](https://github.com/soramimi/ESP8266Tweet)|Twitter client for ESP8266||
+|4|[@soramimi](https://github.com/soramimi)/[**esp8266naming**](https://github.com/soramimi/esp8266naming)|WINS & mDNS host name responder example|[:arrow_upper_right:](http://www.soramimi.jp/esp8266/naming/)|
 |3|[@akirayou](https://github.com/akirayou)/[**yukkuriCut**](https://github.com/akirayou/yukkuriCut)|CNC hot wire cutter for acrylic board.||
 |3|[@chpesa](https://github.com/chpesa)/[**Arduino_FaceTracki…**](https://github.com/chpesa/Arduino_FaceTracking)|Face tracking algorithm (programmed in C++ - OpenCV) sends control commands to Arduino based Pan-Tilt camera programmed in Java ||
 |3|[@sugarsweetrobotics](https://github.com/sugarsweetrobotics)/[**RTno**](https://github.com/sugarsweetrobotics/RTno)|RTno = RTmiddleware + arduino. RTno project is developing arduino library|[:arrow_upper_right:](http://www.ysuga.net/robot/rtm/rtc/rtno)|

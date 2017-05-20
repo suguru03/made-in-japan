@@ -6,6 +6,8 @@
 |134|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |56|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
 |42|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
+|41|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-d…**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
+|39|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-…**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
 |39|[@umegaya](https://github.com/umegaya)/[**ffiex**](https://github.com/umegaya/ffiex)|extend luajit ffi module to give more affinity to C codes||
 |37|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb**](https://github.com/nagadomi/kaggle-ndsb)|Code for National Data Science Bowl. 10th place.||
 |33|[@hnakamur](https://github.com/hnakamur)/[**luajit-examples**](https://github.com/hnakamur/luajit-examples)|my example codes for LuaJIT||
@@ -16,6 +18,7 @@
 |12|[@miurahr](https://github.com/miurahr)/[**lua-nginx-osm**](https://github.com/miurahr/lua-nginx-osm)|OpenStreetMap extension for Nginx Lua module||
 |12|[@safx](https://github.com/safx)/[**LightroomPlugin-Cl…**](https://github.com/safx/LightroomPlugin-ClarifaiTagger)|A Lightroom plugin suggests keywords of photo for you||
 |11|[@tenntenn](https://github.com/tenntenn)/[**lupe**](https://github.com/tenntenn/lupe)|LUPE - Lua Debugger||
+|9|[@toshi-k](https://github.com/toshi-k)/[**kaggle-santander-c…**](https://github.com/toshi-k/kaggle-santander-customer-satisfaction)|44th place solution in "Santander Customer Satisfaction"||
 |8|[@jmettraux](https://github.com/jmettraux)/[**lack**](https://github.com/jmettraux/lack)|(experiment) Rack clone in Lua|[:arrow_upper_right:](http://jmettraux.wordpress.com)|
 |8|[@kengonakajima](https://github.com/kengonakajima)/[**luajit-mysql**](https://github.com/kengonakajima/luajit-mysql)|MySQL binding for LuaJIT with FFI||
 |8|[@koron](https://github.com/koron)/[**redis-hyperloglog**](https://github.com/koron/redis-hyperloglog)|Hyperloglog counter on redis||
@@ -37,6 +40,7 @@
 |4|[@kengonakajima](https://github.com/kengonakajima)/[**lua-parser**](https://github.com/kengonakajima/lua-parser)|Parse and convert Lua script into Sexp with only Ruby and Racc||
 |4|[@mah0x211](https://github.com/mah0x211)/[**lua-coevent**](https://github.com/mah0x211/lua-coevent)|coroutine based kqueue/epoll module||
 |4|[@mirakui](https://github.com/mirakui)/[**nginx-lua-mysql-ex…**](https://github.com/mirakui/nginx-lua-mysql-example)|||
+|4|[@toshi-k](https://github.com/toshi-k)/[**kaggle-digit-recog…**](https://github.com/toshi-k/kaggle-digit-recognizer)|99.5% hit solution in "Digit Recognizer"||
 |4|[@zick](https://github.com/zick)/[**LuaLisp**](https://github.com/zick/LuaLisp)|Lisp implementation in Lua||
 |3|[@gajop](https://github.com/gajop)/[**Scened-Core**](https://github.com/gajop/Scened-Core)|Scened: core module||
 |3|[@gajop](https://github.com/gajop)/[**Toolbox**](https://github.com/gajop/Toolbox)|UNOFFICIAL source for: Spring engine based in-game tools useful to developers||

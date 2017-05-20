@@ -17,6 +17,7 @@
 |13|[@uehaj](https://github.com/uehaj)/[**groovyz**](https://github.com/uehaj/groovyz)|POC of Type Class for Groovy||
 |12|[@taichi](https://github.com/taichi)/[**yuzen**](https://github.com/taichi/yuzen)|static contents generator|[:arrow_upper_right:](http://yuzen.koshinuke.org/)|
 |11|[@sys1yagi](https://github.com/sys1yagi)/[**faucet**](https://github.com/sys1yagi/faucet)|Super casual memory leak checker for Android. ||
+|11|[@yamkazu](https://github.com/yamkazu)/[**jggug-grails-bootc…**](https://github.com/yamkazu/jggug-grails-bootcamp)|||
 |10|[@gfx](https://github.com/gfx)/[**gradle-plugin-temp…**](https://github.com/gfx/gradle-plugin-template)|A template project for Gradle plugins||
 |10|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-…**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
 |9|[@tyama](https://github.com/tyama)/[**ratpack-gorm-mongo…**](https://github.com/tyama/ratpack-gorm-mongo-example)|||
@@ -34,12 +35,14 @@
 |4|[@nobeans](https://github.com/nobeans)/[**javaone-tokyo-2012…**](https://github.com/nobeans/javaone-tokyo-2012-jvm-bof)|||
 |4|[@uehaj](https://github.com/uehaj)/[**LispBuilder**](https://github.com/uehaj/LispBuilder)|a DSL for lisp like expression, implemented as a Groovy Builder(with interpreter)||
 |4|[@uehaj](https://github.com/uehaj)/[**groovy-optional**](https://github.com/uehaj/groovy-optional)|Extension module which enhances handilng of Java8's Optional Class in Groovy||
+|4|[@yamkazu](https://github.com/yamkazu)/[**jggug-nov-2013-gra…**](https://github.com/yamkazu/jggug-nov-2013-grails23)|||
 |3|[@emanon001](https://github.com/emanon001)/[**tddbc-vending-mach…**](https://github.com/emanon001/tddbc-vending-machine)|TDDBC Osaka 2.0||
 |3|[@fumokmm](https://github.com/fumokmm)/[**groovy-gdkpp**](https://github.com/fumokmm/groovy-gdkpp)|Groovy GDK++ is extends Java & Groovy default libraries using Category class.|[:arrow_upper_right:](http://d.hatena.ne.jp/fumokmm/20110326/1301139722)|
 |3|[@fumokmm](https://github.com/fumokmm)/[**groovy-logo-adder**](https://github.com/fumokmm/groovy-logo-adder)|Add groovy's logo to your icon file.|[:arrow_upper_right:](http://d.hatena.ne.jp/fumokmm+en/20110526/1306421368)|
 |3|[@grimrose](https://github.com/grimrose)/[**gadvent2014**](https://github.com/grimrose/gadvent2014)|sample Ratpack app|[:arrow_upper_right:](http://grimrose.bitbucket.org/blog/html/2014/12/07/g_advent_calendar_2014_ratpack_02.html)|
 |3|[@nobeans](https://github.com/nobeans)/[**irclog-viewer**](https://github.com/nobeans/irclog-viewer)|A simple viewer of IRC log archives powered by Grails||
 |3|[@nobeans](https://github.com/nobeans)/[**tddbc-yokohama-201…**](https://github.com/nobeans/tddbc-yokohama-201111)|||
+|3|[@tsuyo](https://github.com/tsuyo)/[**grails-captcha-sam…**](https://github.com/tsuyo/grails-captcha-sample)|grails sample to login with captcha||
 |3|[@uehaj](https://github.com/uehaj)/[**grails-react-boile…**](https://github.com/uehaj/grails-react-boilerplate)|||
 |3|[@uehaj](https://github.com/uehaj)/[**groovy-bootcamp201…**](https://github.com/uehaj/groovy-bootcamp2015)|JGGUG Groovyブートキャンプのハンズオンマテリアル||
 

@@ -50,4 +50,6 @@
 |3|[@mackato](https://github.com/mackato)/[**rialy-flex-framewo…**](https://github.com/mackato/rialy-flex-framework)|RIALY(from "Building RIAs Easily") is a lightweight design pattern tool kit for Adobe Flex.|[:arrow_upper_right:](http://github.com/mackato/rialy-flex-framework)|
 |3|[@nazo](https://github.com/nazo)/[**as3gamelib**](https://github.com/nazo/as3gamelib)|||
 |3|[@nitoyon](https://github.com/nitoyon)/[**hokkaido**](https://github.com/nitoyon/hokkaido)||[:arrow_upper_right:](http://d.hatena.ne.jp/nitoyon/20090415/hokkaido)|
+|3|[@takumus](https://github.com/takumus)/[**KaitenDisplay**](https://github.com/takumus/KaitenDisplay)|LEDのアレイを回転させてディスプレイ表示させたい。||
+|3|[@umhr](https://github.com/umhr)/[**TCP_SocketExamples…**](https://github.com/umhr/TCP_SocketExamples)|AS3によるTCPのサーバーとクライアント||
 

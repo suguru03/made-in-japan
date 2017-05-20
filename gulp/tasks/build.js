@@ -23,7 +23,7 @@ function makeDocs(data) {
         owner: repo.owner,
         language: repo.language || 'Documents',
         full_name: repo.full_name,
-        desc: repo.desc || '',
+        desc: (repo.desc || '').replace(/\|/g, '\\|'),
         html_url: repo.html_url,
         stars: repo.stars,
         homepage: repo.homepage

@@ -582,7 +582,7 @@
 |23|[@amatsuda](https://github.com/amatsuda)/[**teriyaki**](https://github.com/amatsuda/teriyaki)|Automatically imports *_path definitions from config/routes.rb for acceptance testing||
 |23|[@banyan](https://github.com/banyan)/[**Vimpusher**](https://github.com/banyan/Vimpusher)||[:arrow_upper_right:](http://www.vimpusher.com)|
 |23|[@fukayatsu](https://github.com/fukayatsu)/[**alfred-sushiyuki**](https://github.com/fukayatsu/alfred-sushiyuki)|あるゆきさん||
-|23|[@haconiwa](https://github.com/haconiwa)/[**haconiwa-mri**](https://github.com/haconiwa/haconiwa-mri)|PoC code by MRI. see haconiwa/haconiwa || Ruby on Container / helper tools with DSL for your handmade linux containers||
+|23|[@haconiwa](https://github.com/haconiwa)/[**haconiwa-mri**](https://github.com/haconiwa/haconiwa-mri)|PoC code by MRI. see haconiwa/haconiwa \|\| Ruby on Container / helper tools with DSL for your handmade linux containers||
 |23|[@joker1007](https://github.com/joker1007)/[**web-console-rake**](https://github.com/joker1007/web-console-rake)|This enable invoke Rake task on web-console REPL.||
 |23|[@kentaro](https://github.com/kentaro)/[**hato**](https://github.com/kentaro/hato)|||
 |23|[@maedana](https://github.com/maedana)/[**redmine_bugcloud**](https://github.com/maedana/redmine_bugcloud)|This is a plugin for Redmine. The view that displays the ticket like the tag cloud is added.||
@@ -2144,7 +2144,7 @@
 |5|[@zephiransas](https://github.com/zephiransas)/[**gbdaitokai2016**](https://github.com/zephiransas/gbdaitokai2016)|||
 |5|[@znz](https://github.com/znz)/[**gitpub**](https://github.com/znz/gitpub)|web application to publish static files based on git and rack||
 |5|[@znz](https://github.com/znz)/[**urltrapper**](https://github.com/znz/urltrapper)|Trap opening URL and open selected browser.|[:arrow_upper_right:](http://urltrapper.n-z.jp/)|
-|4|[@AdamT](https://github.com/AdamT)/[**reservationbot**](https://github.com/AdamT/reservationbot)|Rails Restaurant Reservation Application built with suspenders (but not using all that's included) | Weekend hack||
+|4|[@AdamT](https://github.com/AdamT)/[**reservationbot**](https://github.com/AdamT/reservationbot)|Rails Restaurant Reservation Application built with suspenders (but not using all that's included) \| Weekend hack||
 |4|[@CodeforOkinawa](https://github.com/CodeforOkinawa)/[**cal5374**](https://github.com/CodeforOkinawa/cal5374)|generate .ics from 5374 csv data|[:arrow_upper_right:](http://cal5374.herokuapp.com/)|
 |4|[@Genki-S](https://github.com/Genki-S)/[**alfred-workflow-ka…**](https://github.com/Genki-S/alfred-workflow-karabiner)|Karabiner profile switcher for Alfred||
 |4|[@HHRy](https://github.com/HHRy)/[**jobby_rails**](https://github.com/HHRy/jobby_rails)|Jobby Rails is a rails interface to the Jobby gem. Use it to efficiently handle the background running of long tasks in Rails.|[:arrow_upper_right:](http://ryanstenhouse.eu)|
@@ -3131,7 +3131,7 @@
 |3|[@tmtm](https://github.com/tmtm)/[**mailparser**](https://github.com/tmtm/mailparser)|Mail Message Parser||
 |3|[@tnantoka](https://github.com/tnantoka)/[**konnyaku**](https://github.com/tnantoka/konnyaku)|Konnyaku is minimal blogging engine for multiple languages, powered by Rails 4.0 and PostgreSQL. |[:arrow_upper_right:](http://tnantoka.github.com/konnyaku)|
 |3|[@tociyuki](https://github.com/tociyuki)/[**rzubr-ruby**](https://github.com/tociyuki/rzubr-ruby)|Toy LALR(1) Parser||
-|3|[@todesking](https://github.com/todesking)/[**1_as_identity_func…**](https://github.com/todesking/1_as_identity_function)|1.to_proc #=> {|x| x}||
+|3|[@todesking](https://github.com/todesking)/[**1_as_identity_func…**](https://github.com/todesking/1_as_identity_function)|1.to_proc #=> {\|x\| x}||
 |3|[@todesking](https://github.com/todesking)/[**boost_lambda_style…**](https://github.com/todesking/boost_lambda_style_proc)|[1, 2, 3].map(&(_1 * 2))||
 |3|[@todesking](https://github.com/todesking)/[**numeric_clip**](https://github.com/todesking/numeric_clip)|Numeric#clip(lower, upper)||
 |3|[@todesking](https://github.com/todesking)/[**svn-cherry-pick**](https://github.com/todesking/svn-cherry-pick)|||

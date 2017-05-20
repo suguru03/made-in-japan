@@ -977,7 +977,7 @@
 |3|[@r-plus](https://github.com/r-plus)/[**ScrollThindicator**](https://github.com/r-plus/ScrollThindicator)|Thin Scrollbar!||
 |3|[@r-plus](https://github.com/r-plus)/[**SlideCut**](https://github.com/r-plus/SlideCut)|Slide shortcut via space key.||
 |3|[@recruitcojp](https://github.com/recruitcojp)/[**RCtoolsUDF**](https://github.com/recruitcojp/RCtoolsUDF)|Recruitで利用しているhiveユーザ定義関数（UDF）の中から汎用的なものをセレクト||
-|3|[@rewish](https://github.com/rewish)/[**CakePHP-DataShell**](https://github.com/rewish/CakePHP-DataShell)|CakePHP - Data (im|ex)port shell|[:arrow_upper_right:](http://rewish.org/php_mysql/cakephp_data_shell)|
+|3|[@rewish](https://github.com/rewish)/[**CakePHP-DataShell**](https://github.com/rewish/CakePHP-DataShell)|CakePHP - Data (im\|ex)port shell|[:arrow_upper_right:](http://rewish.org/php_mysql/cakephp_data_shell)|
 |3|[@riseshia](https://github.com/riseshia)/[**til**](https://github.com/riseshia/til)|Today I Learned||
 |3|[@rjyo](https://github.com/rjyo)/[**new-macbook-touchp…**](https://github.com/rjyo/new-macbook-touchpad-fixer)|Have you had palm rejection on the new Macbook touchpad? Did you feel it's unnecessarily too large? There is a fix for it!||
 |3|[@ruedap](https://github.com/ruedap)/[**dapicons**](https://github.com/ruedap/dapicons)|Icon Fonts for my products||

@@ -245,7 +245,7 @@
 |15|[@astronaughts](https://github.com/astronaughts)/[**SublimeNFDToNFCPas…**](https://github.com/astronaughts/SublimeNFDToNFCPaste)|||
 |15|[@freedomofkeima](https://github.com/freedomofkeima)/[**messenger-maid-cha…**](https://github.com/freedomofkeima/messenger-maid-chan)|Maid-chan feat Facebook Messenger bot to accompany personal daily life|[:arrow_upper_right:](http://messenger-maid-chan.rtfd.io/)|
 |15|[@higepon](https://github.com/higepon)/[**tensorflow_seq2seq…**](https://github.com/higepon/tensorflow_seq2seq_chatbot)|||
-|15|[@kana](https://github.com/kana)/[**vim-version-manage…**](https://github.com/kana/vim-version-manager)|curl https://raw.githubusercontent.com/kana/vim-version-manager/master/bin/vvm | python - setup||
+|15|[@kana](https://github.com/kana)/[**vim-version-manage…**](https://github.com/kana/vim-version-manager)|curl https://raw.githubusercontent.com/kana/vim-version-manager/master/bin/vvm \| python - setup||
 |15|[@lambdalisue](https://github.com/lambdalisue)/[**lista.nvim**](https://github.com/lambdalisue/lista.nvim)|WIP: Neovim/Vim buffer filtering plugin||
 |15|[@mitmul](https://github.com/mitmul)/[**tfchain**](https://github.com/mitmul/tfchain)|Run a static part of the computational graph written in Chainer with Tensorflow||
 |15|[@ntddk](https://github.com/ntddk)/[**inshort**](https://github.com/ntddk/inshort)|論文を読んだふりしてライバルに差をつけろ||

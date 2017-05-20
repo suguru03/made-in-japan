@@ -511,7 +511,7 @@
 |5|[@uasi](https://github.com/uasi)/[**concurrent-revisio…**](https://github.com/uasi/concurrent-revisions)|An implementation of Concurrent Revisions written in Perl||
 |5|[@usualoma](https://github.com/usualoma)/[**mt-plugin-app-engi…**](https://github.com/usualoma/mt-plugin-app-engine)|A Movable Type plugin to deploy to AppEngine.||
 |5|[@usualoma](https://github.com/usualoma)/[**mt-plugin-log-expo…**](https://github.com/usualoma/mt-plugin-log-exporter)|Export activity log, query log and warnings||
-|5|[@walf443](https://github.com/walf443)/[**p5-test-type_const…**](https://github.com/walf443/p5-test-type_constraints)|testing whether some value is valid as     (Moose|Mouse)::Meta::TypeConstraint|[:arrow_upper_right:](http://search.cpan.org/perldoc?Test::TypeConstraints)|
+|5|[@walf443](https://github.com/walf443)/[**p5-test-type_const…**](https://github.com/walf443/p5-test-type_constraints)|testing whether some value is valid as     (Moose\|Mouse)::Meta::TypeConstraint|[:arrow_upper_right:](http://search.cpan.org/perldoc?Test::TypeConstraints)|
 |5|[@walf443](https://github.com/walf443)/[**p5-text-smarty**](https://github.com/walf443/p5-text-smarty)|PHP's Smarty syntax parser for perl||
 |5|[@xaicron](https://github.com/xaicron)/[**p5-Data-Encoder**](https://github.com/xaicron/p5-Data-Encoder)| Generic interface for perl encoder or serializer.||
 |5|[@xaicron](https://github.com/xaicron)/[**p5-Module-Install-…**](https://github.com/xaicron/p5-Module-Install-TestTarget)|Assembles Custom Test Targets For `make`||
@@ -596,7 +596,7 @@
 |4|[@shiba-yu36](https://github.com/shiba-yu36)/[**p5-Mvac-Sample**](https://github.com/shiba-yu36/p5-Mvac-Sample)|MVACでの開発環境のサンプル||
 |4|[@spiritloose](https://github.com/spiritloose)/[**schenker-sample**](https://github.com/spiritloose/schenker-sample)|Schenker sample application||
 |4|[@stelcheck](https://github.com/stelcheck)/[**node-vim-blowfish**](https://github.com/stelcheck/node-vim-blowfish)|Effort to decrypt vim7.3 blowfish encrypted files using node||
-|4|[@taiju](https://github.com/taiju)/[**Buakko**](https://github.com/taiju/Buakko)|Simple s−expression to (X|HT)ML converter.|[:arrow_upper_right:](http://taiju.hatenablog.com/entry/20120906/1346892154)|
+|4|[@taiju](https://github.com/taiju)/[**Buakko**](https://github.com/taiju/Buakko)|Simple s−expression to (X\|HT)ML converter.|[:arrow_upper_right:](http://taiju.hatenablog.com/entry/20120906/1346892154)|
 |4|[@taiyoh](https://github.com/taiyoh)/[**lingua-ja-relwords…**](https://github.com/taiyoh/lingua-ja-relwords)|Lingua::Ja::RelWords is searching similar words from a word||
 |4|[@taiyoh](https://github.com/taiyoh)/[**mousex-classattrib…**](https://github.com/taiyoh/mousex-classattribute-perl)|implementation about MooseX::ClassAttribute using Mouse||
 |4|[@taiyoh](https://github.com/taiyoh)/[**test-dummygenerato…**](https://github.com/taiyoh/test-dummygenerator)|for people who are lazy not to want to create many many test data...||

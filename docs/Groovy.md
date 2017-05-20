@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|190|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-p…**](https://github.com/kt3k/coveralls-gradle-plugin)|:hatched_chick: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
-|111|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar…**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
+|195|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-p…**](https://github.com/kt3k/coveralls-gradle-plugin)|:hatched_chick: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
+|112|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar…**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |93|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
 |79|[@hotchemi](https://github.com/hotchemi)/[**gradle-proguard-pl…**](https://github.com/hotchemi/gradle-proguard-plugin)|The gradle plugin to add proguard snippets to your proguard setting file quickly.|[:arrow_upper_right:](http://hotchemi.github.io/gradle-proguard-plugin)|
 |76|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-mdicons**](https://github.com/tmiyamon/gradle-mdicons)|A gradle plugin for Android to handle material design icons Google published.||
@@ -16,10 +16,11 @@
 |13|[@uehaj](https://github.com/uehaj)/[**groovy-comprehensi…**](https://github.com/uehaj/groovy-comprehension)|||
 |13|[@uehaj](https://github.com/uehaj)/[**groovyz**](https://github.com/uehaj/groovyz)|POC of Type Class for Groovy||
 |12|[@taichi](https://github.com/taichi)/[**yuzen**](https://github.com/taichi/yuzen)|static contents generator|[:arrow_upper_right:](http://yuzen.koshinuke.org/)|
+|11|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-…**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
 |11|[@sys1yagi](https://github.com/sys1yagi)/[**faucet**](https://github.com/sys1yagi/faucet)|Super casual memory leak checker for Android. ||
 |11|[@yamkazu](https://github.com/yamkazu)/[**jggug-grails-bootc…**](https://github.com/yamkazu/jggug-grails-bootcamp)|||
 |10|[@gfx](https://github.com/gfx)/[**gradle-plugin-temp…**](https://github.com/gfx/gradle-plugin-template)|A template project for Gradle plugins||
-|10|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-…**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
+|9|[@takahirom](https://github.com/takahirom)/[**fire-annotation**](https://github.com/takahirom/fire-annotation)|Simple tool which help you to implement Firebase Analytics||
 |9|[@tyama](https://github.com/tyama)/[**ratpack-gorm-mongo…**](https://github.com/tyama/ratpack-gorm-mongo-example)|||
 |7|[@mike-neck](https://github.com/mike-neck)/[**slim3-gradle**](https://github.com/mike-neck/slim3-gradle)|gradle build file and slim3 sample||
 |6|[@kimukou](https://github.com/kimukou)/[**griffontest**](https://github.com/kimukou/griffontest)|groovy griffon||

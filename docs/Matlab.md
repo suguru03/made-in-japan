@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|323|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
-|112|[@everpeace](https://github.com/everpeace)/[**ml-class-assignmen…**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
+|337|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
+|117|[@everpeace](https://github.com/everpeace)/[**ml-class-assignmen…**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
 |53|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
 |8|[@philipperemy](https://github.com/philipperemy)/[**Statistical-Arbitr…**](https://github.com/philipperemy/Statistical-Arbitrage)|Using Particle Markov Chain Monte Carlo||
 |6|[@maxime](https://github.com/maxime)/[**narrative-gps**](https://github.com/maxime/narrative-gps)|An attempt to read the GPS Snapshot files from the Narrative Camera with Matlab||

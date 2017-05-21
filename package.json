@@ -2,17 +2,13 @@
   "name": "made-in-japan",
   "version": "1.0.0",
   "description": "A list of cool projects made in Japan. ",
-  "main": "index.js",
   "author": "Suguru Motegi",
   "homepage": "https://github.com/suguru03/made-in-japan",
   "license": "MIT",
-  "dependencies": {
-    "aigle": "git+https://github.com/suguru03/aigle.git",
-    "gh.js": "^3.0.10",
-    "lodash": "^4.13.1"
-  },
   "devDependencies": {
     "gulp": "^3.9.1",
+    "lodash": "^4.17.4",
+    "made-in-generator": "^0.1.0",
     "minimist": "^1.2.0",
     "require-dir": "^0.3.0"
   }

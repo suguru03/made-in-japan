@@ -21,7 +21,7 @@ gulp.task('repo:save', ['validate'], () => {
  * Gets Japaneses repositories by `data/rankers.json`
  * gulp repo:ranker:save --token <token>
  */
-gulp.task('repo:ranker:save', ['validate'], () => {
+gulp.task('repo:save:ranker', ['validate'], () => {
 
   return getRepositories(true);
 });
@@ -31,13 +31,14 @@ function getRepositories(ranker = false) {
   const madeIn = new MadeIn({ tokens });
   const developers = ranker ? madeIn.readRankers() : madeIn.readDevelopers();
   const info = require(infopath);
-  const { current_developer: developer } = info;
-  const index = developer ? developers.indexOf(info.current_developer) : 0;
+  const { developer, developer_page: page } = info;
+  const index = developer ? developers.indexOf(developer) : 0;
   const users = developers.slice(index).concat(developers.slice(0, index));
-  return madeIn.getRepositories(users)
-    .then(({ developer }) => {
-      console.log('getRepositories', 'finished', developer);
-      info.current_developer = developer;
+  return madeIn.getRepositories(users, page)
+    .then(({ developer, page }) => {
+      console.log('getRepositories', 'finished', developer, page);
+      info.developer = developer;
+      info.developer_page = page;
       fs.writeFileSync(infopath, JSON.stringify(info, null, 2), 'utf8');
     });
 }

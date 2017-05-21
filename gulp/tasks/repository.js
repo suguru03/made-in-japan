@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const gulp = require('gulp');
-const MadeIn = require('made-in-generator');
+const { MadeIn } = require('made-in-generator');
 
 const infopath = path.resolve(__dirname, '../..', 'data', 'info.json');
 

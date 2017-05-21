@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|8334|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|1635|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_color…**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|8336|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|1637|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_color…**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
 |210|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-tor…**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |134|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |61|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
@@ -38,6 +38,7 @@
 |5|[@takahashim](https://github.com/takahashim)/[**review-pandoc**](https://github.com/takahashim/review-pandoc)|Re:VIEW Writer for Pandoc||
 |5|[@umegaya](https://github.com/umegaya)/[**pulpo**](https://github.com/umegaya/pulpo)|multi-thread network server library build with coroutine and luajit FFI at ground level||
 |4|[@kengonakajima](https://github.com/kengonakajima)/[**lua-parser**](https://github.com/kengonakajima/lua-parser)|Parse and convert Lua script into Sexp with only Ruby and Racc||
+|4|[@koron](https://github.com/koron)/[**redis-qdigest**](https://github.com/koron/redis-qdigest)|||
 |4|[@mah0x211](https://github.com/mah0x211)/[**lua-coevent**](https://github.com/mah0x211/lua-coevent)|coroutine based kqueue/epoll module||
 |4|[@mirakui](https://github.com/mirakui)/[**nginx-lua-mysql-ex…**](https://github.com/mirakui/nginx-lua-mysql-example)|||
 |4|[@toshi-k](https://github.com/toshi-k)/[**kaggle-digit-recog…**](https://github.com/toshi-k/kaggle-digit-recognizer)|99.5% hit solution in "Digit Recognizer"||

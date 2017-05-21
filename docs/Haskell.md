@@ -96,12 +96,12 @@
 |8|[@iand675](https://github.com/iand675)/[**growler**](https://github.com/iand675/growler)|A small Sinatra-esque web framework for Haskell||
 |8|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**witty**](https://github.com/kazu-yamamoto/witty)|A web server to show bottlenecks of GHC||
 |8|[@lotz84](https://github.com/lotz84)/[**cli-rss-reader**](https://github.com/lotz84/cli-rss-reader)|Vtyを使って作る簡単なRSSリーダー||
+|8|[@motemen](https://github.com/motemen)/[**jusk**](https://github.com/motemen/jusk)|Haskell implemented JavaScript interpreter||
 |8|[@philopon](https://github.com/philopon)/[**apiary-benchmark**](https://github.com/philopon/apiary-benchmark)|  benchmark result of haskell lightweight web frameworks||
 |8|[@seizans](https://github.com/seizans)/[**happiage**](https://github.com/seizans/happiage)|project to develop web application for wedding after-party by Haskell||
 |8|[@tyage](https://github.com/tyage)/[**tiny-c**](https://github.com/tyage/tiny-c)|計算機科学実験及演習3B||
 |7|[@amutake](https://github.com/amutake)/[**haskelltter**](https://github.com/amutake/haskelltter)|Twitter client on GHCi (inspired by ocamltter)||
 |7|[@fujimura](https://github.com/fujimura)/[**houseman**](https://github.com/fujimura/houseman)|A Haskell implementation of Foreman||
-|7|[@fumieval](https://github.com/fumieval)/[**LazyZ**](https://github.com/fumieval/LazyZ)|||
 |7|[@fumieval](https://github.com/fumieval)/[**call**](https://github.com/fumieval/call)|Not an insufficient game engine||
 |7|[@iand675](https://github.com/iand675)/[**pipes-wai**](https://github.com/iand675/pipes-wai)|A port of wai-conduit for the pipes ecosystem||
 |7|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**appar**](https://github.com/kazu-yamamoto/appar)|A simple applicative parser in Parsec style||
@@ -115,6 +115,7 @@
 |6|[@YoshikuniJujo](https://github.com/YoshikuniJujo)/[**papillon**](https://github.com/YoshikuniJujo/papillon)|simple peg parser generater for Haskell||
 |6|[@cdepillabout](https://github.com/cdepillabout)/[**yahoo-finance-api**](https://github.com/cdepillabout/yahoo-finance-api)|Haskell wrapper for Yahoo Finance API|[:arrow_upper_right:](https://hackage.haskell.org/package/yahoo-finance-api)|
 |6|[@fumieval](https://github.com/fumieval)/[**Haswerk**](https://github.com/fumieval/Haswerk)|3D action game playground||
+|6|[@fumieval](https://github.com/fumieval)/[**LazyZ**](https://github.com/fumieval/LazyZ)|||
 |6|[@fumieval](https://github.com/fumieval)/[**minioperational**](https://github.com/fumieval/minioperational)|||
 |6|[@iand675](https://github.com/iand675)/[**Zoom**](https://github.com/iand675/Zoom)|A Rake/Thor-like task runner for Haskell||
 |6|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**http-date**](https://github.com/kazu-yamamoto/http-date)|Fast parser and formatter for HTTP Date||
@@ -159,6 +160,7 @@
 |5|[@tanakh](https://github.com/tanakh)/[**haskell-night**](https://github.com/tanakh/haskell-night)|the presentation file of haskell night (http://hop.timedia.co.jp/)|[:arrow_upper_right:](http://d.hatena.ne.jp/tanakh/)|
 |5|[@tanakh](https://github.com/tanakh)/[**hinatra**](https://github.com/tanakh/hinatra)|Sinatra in Haskell|[:arrow_upper_right:](http://hoge/)|
 |5|[@tokiwoousaka](https://github.com/tokiwoousaka)/[**ttask**](https://github.com/tokiwoousaka/ttask)|This is task management tool for yourself, that inspired by scrum.||
+|4|[@VoQn](https://github.com/VoQn)/[**ylang**](https://github.com/VoQn/ylang)|Programming Language (Scheme like, but it is NOT "Lisp family")||
 |4|[@YoshikuniJujo](https://github.com/YoshikuniJujo)/[**shinjukuhs**](https://github.com/YoshikuniJujo/shinjukuhs)|Shinjuku.hs||
 |4|[@YoshikuniJujo](https://github.com/YoshikuniJujo)/[**zot_haskell**](https://github.com/YoshikuniJujo/zot_haskell)|||
 |4|[@amutake](https://github.com/amutake)/[**haskell-relational…**](https://github.com/amutake/haskell-relational-record-driver-oracle)|[Obsolete] Oracle driver for haskell-relational-record||
@@ -168,6 +170,7 @@
 |4|[@himura](https://github.com/himura)/[**lens-regex**](https://github.com/himura/lens-regex)|Lens powered regular expression||
 |4|[@hiratara](https://github.com/hiratara)/[**lambdabot-hipchat-…**](https://github.com/hiratara/lambdabot-hipchat-plugins)|A plugin to connect lambdabot to HipChat||
 |4|[@iand675](https://github.com/iand675)/[**hs-flowdock**](https://github.com/iand675/hs-flowdock)|Flowdock API bindings for Haskell||
+|4|[@joker1007](https://github.com/joker1007)/[**markdown2hatena**](https://github.com/joker1007/markdown2hatena)|markdown記法をはてな記法に変換する||
 |4|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**git-object**](https://github.com/kazu-yamamoto/git-object)|Git object and its parser||
 |4|[@kei-os](https://github.com/kei-os)/[**vparsec**](https://github.com/kei-os/vparsec)|Verilog Parser with Haskell Parsec library||
 |4|[@khibino](https://github.com/khibino)/[**haskell-debian-bui…**](https://github.com/khibino/haskell-debian-build)|Debian package build sequence tools||
@@ -177,7 +180,6 @@
 |4|[@konn](https://github.com/konn)/[**fay-automaton-demo…**](https://github.com/konn/fay-automaton-demo)|Automaton Demo written with fay.||
 |4|[@konn](https://github.com/konn)/[**ghc-pkg-autofix**](https://github.com/konn/ghc-pkg-autofix)|Simple utility to fix broken package dependencies in ghc.|[:arrow_upper_right:](http://hackage.haskell.org/package/ghc-pkg-autofix)|
 |4|[@konn](https://github.com/konn)/[**ghc-typelits-symbo…**](https://github.com/konn/ghc-typelits-symbols)|Additional operations for GHC's type-level symbols||
-|4|[@konn](https://github.com/konn)/[**graph-utils**](https://github.com/konn/graph-utils)|A simple wrapper for Data.Graph.Inductive.|[:arrow_upper_right:](http://haskell.g.hatena.ne.jp/mr_konn/)|
 |4|[@konn](https://github.com/konn)/[**monomorphic**](https://github.com/konn/monomorphic)|Type-class for the polymorphic data-types (e.g. dependently-typed datatypes defined by GADTs) which can be converted to/from monomorphic represetation||
 |4|[@konn](https://github.com/konn)/[**sized**](https://github.com/konn/sized)|Sized sequence data-types||
 |4|[@liyang](https://github.com/liyang)/[**assert**](https://github.com/liyang/assert)|Helpers for Control.Exception.assert||
@@ -197,7 +199,6 @@
 |4|[@yu-i9](https://github.com/yu-i9)/[**Hegex**](https://github.com/yu-i9/Hegex)|Regular expression written in Haskell. Technology of low-layer will be implemented, too.||
 |3|[@Jxck](https://github.com/Jxck)/[**yesod-tutorial**](https://github.com/Jxck/yesod-tutorial)|http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/||
 |3|[@VoQn](https://github.com/VoQn)/[**tapl-hs**](https://github.com/VoQn/tapl-hs)|TaPL Language Implement by Haskell||
-|3|[@VoQn](https://github.com/VoQn)/[**ylang**](https://github.com/VoQn/ylang)|Programming Language (Scheme like, but it is NOT "Lisp family")||
 |3|[@YoshikuniJujo](https://github.com/YoshikuniJujo)/[**simple-pipe**](https://github.com/YoshikuniJujo/simple-pipe)|simple pipeline library like conduit||
 |3|[@asi1024](https://github.com/asi1024)/[**icpc-jdcs**](https://github.com/asi1024/icpc-jdcs)|||
 |3|[@boj](https://github.com/boj)/[**garbage**](https://github.com/boj/garbage)|||
@@ -216,9 +217,12 @@
 |3|[@ikaro1192](https://github.com/ikaro1192)/[**brainfuck**](https://github.com/ikaro1192/brainfuck)|Haskellの練習で作ったbrainf*ck実装||
 |3|[@inct-www-club](https://github.com/inct-www-club)/[**Procon2014**](https://github.com/inct-www-club/Procon2014)|茨城高専World Wide Web部 第２５回全国高専プログラミングコンテスト競技部門「記憶のカケラII」|[:arrow_upper_right:](http://sandabu.net)|
 |3|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**domain-auth**](https://github.com/kazu-yamamoto/domain-auth)|Domain authentication library in Haskell||
+|3|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**logreplay**](https://github.com/kazu-yamamoto/logreplay)|A stress tool for web servers||
+|3|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**parsec3**](https://github.com/kazu-yamamoto/parsec3)|Haskell parsec3 library||
 |3|[@khibino](https://github.com/khibino)/[**haskell-quickcheck…**](https://github.com/khibino/haskell-quickcheck-simple)|Test properties and default-mains for QuickCheck||
 |3|[@konn](https://github.com/konn)/[**BottleStory**](https://github.com/konn/BottleStory)|A Simple Relay Novel Writing System||
 |3|[@konn](https://github.com/konn)/[**Meta-Programming-i…**](https://github.com/konn/Meta-Programming-in-Haskell-Example)|Examples for Meta Programming in Haskell||
+|3|[@konn](https://github.com/konn)/[**graph-utils**](https://github.com/konn/graph-utils)|A simple wrapper for Data.Graph.Inductive.|[:arrow_upper_right:](http://haskell.g.hatena.ne.jp/mr_konn/)|
 |3|[@konn](https://github.com/konn)/[**oauth-test**](https://github.com/konn/oauth-test)|experiments for oauth support for yesod-auth||
 |3|[@konn](https://github.com/konn)/[**safe-printf**](https://github.com/konn/safe-printf)|Well-typed, flexible and variadic printf in Haskell.||
 |3|[@lesguillemets](https://github.com/lesguillemets)/[**sicp-haskell**](https://github.com/lesguillemets/sicp-haskell)|SICP in haskell, both exercises and sample codes.||
@@ -240,6 +244,8 @@
 |3|[@shuhei](https://github.com/shuhei)/[**48scheme**](https://github.com/shuhei/48scheme)|A small Scheme interpreter based on Write Yourself a Scheme in 48 Hours.||
 |3|[@suztomo](https://github.com/suztomo)/[**LanguageStudy**](https://github.com/suztomo/LanguageStudy)|Exploring AmbientTalk and other programming languages.||
 |3|[@tanakh](https://github.com/tanakh)/[**hkvs**](https://github.com/tanakh/hkvs)|Key Value Store written in Haskell|[:arrow_upper_right:](http://github.org/tanakh/hkvs)|
+|3|[@tanakh](https://github.com/tanakh)/[**hsmsgpack**](https://github.com/tanakh/hsmsgpack)|A Haskell binding to MessagePack|[:arrow_upper_right:](http://github.com/tanakh/)|
 |3|[@tom-lpsd](https://github.com/tom-lpsd)/[**real_world_haskell…**](https://github.com/tom-lpsd/real_world_haskell_exercises)|answers to exercise in 'Real World Haskell' (an o'reilly book)||
 |3|[@yu-i9](https://github.com/yu-i9)/[**HaSC**](https://github.com/yu-i9/HaSC)|Haskell Small C Compiler||
+|3|[@yuroyoro](https://github.com/yuroyoro)/[**stashh**](https://github.com/yuroyoro/stashh)|A CLI client for Atlassian Stash.||
 

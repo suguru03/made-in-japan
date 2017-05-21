@@ -36,6 +36,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |3|[@khibino](https://github.com/khibino)/[**pfds**](https://github.com/khibino/pfds)|Codes for the book "Purely Functional Data Structure"|[:arrow_upper_right:](http://twitter.com/khibino)|
 |3|[@kw-udon](https://github.com/kw-udon)/[**min-rt-c**](https://github.com/kw-udon/min-rt-c)|Port of min-rt to ANSI-C||
 |3|[@mzp](https://github.com/mzp)/[**asig**](https://github.com/mzp/asig)|AsakusaSatellite IRC Gateway|[:arrow_upper_right:](https://github.com/mzp/asig/wiki)|
+|3|[@mzp](https://github.com/mzp)/[**happyabc**](https://github.com/mzp/happyabc)|HappyABC driver & release script|[:arrow_upper_right:](http://happyabc.org)|
 |3|[@takano32](https://github.com/takano32)/[**myocaml**](https://github.com/takano32/myocaml)|My OCaml Scripts.||
 |3|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocaml_parsec**](https://github.com/yoshihiro503/ocaml_parsec)|parser library for ocaml like Parsec||
 |3|[@yutopp](https://github.com/yutopp)/[**SemiCaml**](https://github.com/yutopp/SemiCaml)|MinMinCaml→蝉Caml||

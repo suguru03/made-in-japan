@@ -11,5 +11,6 @@
 |5|[@yaraki](https://github.com/yaraki)/[**DartHackathonTool**](https://github.com/yaraki/DartHackathonTool)|5/12||
 |5|[@zaki50](https://github.com/zaki50)/[**uuid_dart**](https://github.com/zaki50/uuid_dart)|||
 |4|[@kui](https://github.com/kui)/[**ansi_pixels**](https://github.com/kui/ansi_pixels)|A Polymer.dart application to edit ANSI art|[:arrow_upper_right:](https://kui.github.io/ansi_pixels/)|
+|3|[@gfx](https://github.com/gfx)/[**dart-sessionstorag…**](https://github.com/gfx/dart-sessionstorage)|An example to make use of WebStorage||
 |3|[@zick](https://github.com/zick)/[**DartLisp**](https://github.com/zick/DartLisp)|Lisp implementation in Dart||
 

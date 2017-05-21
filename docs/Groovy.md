@@ -27,6 +27,7 @@
 |6|[@kiy0taka](https://github.com/kiy0taka)/[**groovy-consoles**](https://github.com/kiy0taka/groovy-consoles)||[:arrow_upper_right:](http://d.hatena.ne.jp/kiy0taka/)|
 |6|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-rep…**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
 |6|[@operando](https://github.com/operando)/[**gradle-zundokokiyo…**](https://github.com/operando/gradle-zundokokiyoshi-plugin)|gradle zundokokiyoshi plugin||
+|5|[@making](https://github.com/making)/[**spring-boot-demo-j…**](https://github.com/making/spring-boot-demo-jvm-languages)|Spring Boot Hello World project using some JVM languages||
 |5|[@nobeans](https://github.com/nobeans)/[**groovy-osgi-sample…**](https://github.com/nobeans/groovy-osgi-sample)|Sample of OSGi powered by Groovy and Gradle||
 |5|[@wadahiro](https://github.com/wadahiro)/[**gradle-samples**](https://github.com/wadahiro/gradle-samples)|||
 |4|[@YukiMatsumura](https://github.com/YukiMatsumura)/[**MaterialDesignReso…**](https://github.com/YukiMatsumura/MaterialDesignResources)|MaterialDesign Android Resources||
@@ -40,6 +41,7 @@
 |3|[@emanon001](https://github.com/emanon001)/[**tddbc-vending-mach…**](https://github.com/emanon001/tddbc-vending-machine)|TDDBC Osaka 2.0||
 |3|[@fumokmm](https://github.com/fumokmm)/[**groovy-gdkpp**](https://github.com/fumokmm/groovy-gdkpp)|Groovy GDK++ is extends Java & Groovy default libraries using Category class.|[:arrow_upper_right:](http://d.hatena.ne.jp/fumokmm/20110326/1301139722)|
 |3|[@fumokmm](https://github.com/fumokmm)/[**groovy-logo-adder**](https://github.com/fumokmm/groovy-logo-adder)|Add groovy's logo to your icon file.|[:arrow_upper_right:](http://d.hatena.ne.jp/fumokmm+en/20110526/1306421368)|
+|3|[@gfx](https://github.com/gfx)/[**Android-JavassistE…**](https://github.com/gfx/Android-JavassistExample)|||
 |3|[@grimrose](https://github.com/grimrose)/[**gadvent2014**](https://github.com/grimrose/gadvent2014)|sample Ratpack app|[:arrow_upper_right:](http://grimrose.bitbucket.org/blog/html/2014/12/07/g_advent_calendar_2014_ratpack_02.html)|
 |3|[@nobeans](https://github.com/nobeans)/[**irclog-viewer**](https://github.com/nobeans/irclog-viewer)|A simple viewer of IRC log archives powered by Grails||
 |3|[@nobeans](https://github.com/nobeans)/[**tddbc-yokohama-201…**](https://github.com/nobeans/tddbc-yokohama-201111)|||

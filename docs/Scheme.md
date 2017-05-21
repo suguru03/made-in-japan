@@ -2,9 +2,11 @@
 |---|---|---|---|
 |107|[@higepon](https://github.com/higepon)/[**mosh**](https://github.com/higepon/mosh)|Mosh is a free and fast interpreter for Scheme as specified in the R6RS.  |[:arrow_upper_right:](http://mosh.monaos.org/)|
 |55|[@ympbyc](https://github.com/ympbyc)/[**Carrot**](https://github.com/ympbyc/Carrot)|Purely functional lisp featuring: default currying, left-associative s-expression, lazy evaluation, static type system, and statically determined multimethods.||
+|15|[@kana](https://github.com/kana)/[**sicp**](https://github.com/kana/sicp)|||
 |14|[@higepon](https://github.com/higepon)/[**spon**](https://github.com/higepon/spon)|Scheme Portable Library Network|[:arrow_upper_right:](http://wiki.monaos.org/pukiwiki.php?R6RS%2F%BD%B8%C0%D1%BD%EA%2F%B7%C7%BC%A8%C8%C4)|
 |9|[@matschaffer](https://github.com/matschaffer)/[**eulermonday**](https://github.com/matschaffer/eulermonday)|A shared repo to get peoples submissions for CIM's #eulermonday|[:arrow_upper_right:](http://projecteuler.net)|
 |8|[@mokehehe](https://github.com/mokehehe)/[**backend-to-fronten…**](https://github.com/mokehehe/backend-to-frontend)|Compilers: Backend to Frontend and Back to Front Again by Abdulaziz Ghuloum||
+|7|[@kana](https://github.com/kana)/[**vim-xire**](https://github.com/kana/vim-xire)|Vim metaplugin: eX command Is Root of all Evil||
 |7|[@mhayashi1120](https://github.com/mhayashi1120)/[**Gauche-net-twitter…**](https://github.com/mhayashi1120/Gauche-net-twitter)|Twitter API access library for Gauche|[:arrow_upper_right:](http://practical-scheme.net/gauche/)|
 |7|[@uents](https://github.com/uents)/[**sicp**](https://github.com/uents/sicp)|Reading "Structure and Interpretation of Computer Programs"||
 |6|[@ayamada](https://github.com/ayamada)/[**mplus-1mn-medium-1…**](https://github.com/ayamada/mplus-1mn-medium-16-fnt-tir)|A bitmap font contains japanese characters||
@@ -25,8 +27,11 @@
 |3|[@arika](https://github.com/arika)/[**jisuiutils**](https://github.com/arika/jisuiutils)|||
 |3|[@dpwright](https://github.com/dpwright)/[**lp.scm**](https://github.com/dpwright/lp.scm)|Simple module to add literate programming support to Scheme||
 |3|[@hi104](https://github.com/hi104)/[**sicp_lesson**](https://github.com/hi104/sicp_lesson)|||
+|3|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**wttree**](https://github.com/kazu-yamamoto/wttree)|Fixing weight-balanced tree in MIT/GNU Scheme and slib||
 |3|[@leque](https://github.com/leque)/[**paradoc**](https://github.com/leque/paradoc)|A Scribble to HTML/LaTeX converter.||
 |3|[@masaedw](https://github.com/masaedw)/[**sicp**](https://github.com/masaedw/sicp)|Try answering all questions||
+|3|[@motemen](https://github.com/motemen)/[**rfc-pseudo-irc-ser…**](https://github.com/motemen/rfc-pseudo-irc-server)|Pseudo IRC server module for Gauche||
+|3|[@motemen](https://github.com/motemen)/[**www-futaba-nijiura…**](https://github.com/motemen/www-futaba-nijiura)|www.futaba.nijiura (for Gauche)||
 |3|[@rust](https://github.com/rust)/[**sicp-exercise**](https://github.com/rust/sicp-exercise)|SICP exercises||
 |3|[@tabe](https://github.com/tabe)/[**sxml**](https://github.com/tabe/sxml)|An R6RS library for SXML|[:arrow_upper_right:](http://fixedpoint.jp/)|
 |3|[@takano32](https://github.com/takano32)/[**scheme**](https://github.com/takano32/scheme)|My Scheme Scripts|[:arrow_upper_right:](http://taka.no32.tk/)|

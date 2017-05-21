@@ -40,8 +40,8 @@
 |30|[@kmizu](https://github.com/kmizu)/[**jsonda**](https://github.com/kmizu/jsonda)|A DSL for constructing json-like data sturctures|[:arrow_upper_right:](http://kmizu.github.com/jsonda)|
 |30|[@ktoso](https://github.com/ktoso)/[**akka-http-mini-wor…**](https://github.com/ktoso/akka-http-mini-workshop)|||
 |30|[@maropu](https://github.com/maropu)/[**hivemall-spark**](https://github.com/maropu/hivemall-spark)|A Hivemall wrapper for Spark ||
+|29|[@xuwei-k](https://github.com/xuwei-k)/[**grpc-scala-sample**](https://github.com/xuwei-k/grpc-scala-sample)|translated from grpc java examples with ScalaPB||
 |28|[@halcat0x15a](https://github.com/halcat0x15a)/[**twitter4z**](https://github.com/halcat0x15a/twitter4z)|A Scalaz wrapper for Twitter API.||
-|28|[@xuwei-k](https://github.com/xuwei-k)/[**grpc-scala-sample**](https://github.com/xuwei-k/grpc-scala-sample)|translated from grpc java examples with ScalaPB||
 |25|[@mizzy](https://github.com/mizzy)/[**scala-design-patte…**](https://github.com/mizzy/scala-design-patterns)|||
 |25|[@tarao](https://github.com/tarao)/[**lambda-scala**](https://github.com/tarao/lambda-scala)|Type level lambda calculus in Scala||
 |24|[@chototsu](https://github.com/chototsu)/[**mikumikustudio-gdx…**](https://github.com/chototsu/mikumikustudio-gdx)|MikuMikuStudio for libgdx.||
@@ -72,7 +72,7 @@
 |15|[@yuroyoro](https://github.com/yuroyoro)/[**scala-websocket**](https://github.com/yuroyoro/scala-websocket)|Sample applications of websocket  on jetty 7 that written by scala.|[:arrow_upper_right:](http://d.hatena.ne.jp/yuroyoro)|
 |14|[@kmizu](https://github.com/kmizu)/[**macro_peg**](https://github.com/kmizu/macro_peg)|Macro PEG: PEG with macro-like rules||
 |14|[@kmizu](https://github.com/kmizu)/[**pegex**](https://github.com/kmizu/pegex)|A PEG-based pattern matching library EXtended by back reference with regex-like notation in Scala|[:arrow_upper_right:](http://github.com/kmizu/pegex)|
-|14|[@lloydmeta](https://github.com/lloydmeta)/[**diesel**](https://github.com/lloydmeta/diesel)|Lib for boilerplate-free Tagless Final / typed-final / Finally Tagless DSLs in Scala||
+|14|[@lloydmeta](https://github.com/lloydmeta)/[**diesel**](https://github.com/lloydmeta/diesel)|Boilerplate-free Tagless Final / typed-final / Finally Tagless DSLs in Scala||
 |14|[@nulab](https://github.com/nulab)/[**BacklogMigration-R…**](https://github.com/nulab/BacklogMigration-Redmine)|Migrate your projects from Redmine to Backlog.||
 |14|[@pocketberserker](https://github.com/pocketberserker)/[**scala-logic**](https://github.com/pocketberserker/scala-logic)|||
 |14|[@seratch](https://github.com/seratch)/[**inputvalidator**](https://github.com/seratch/inputvalidator)|Scala Input Validator with quite readable DSL||
@@ -193,6 +193,7 @@
 |5|[@numa08](https://github.com/numa08)/[**gradle-releasenote…**](https://github.com/numa08/gradle-releasenote-gen-plugin)|||
 |5|[@okapies](https://github.com/okapies)/[**scala-native-examp…**](https://github.com/okapies/scala-native-example)|Quick examples of Scala Native http://www.scala-native.org/||
 |5|[@seratch](https://github.com/seratch)/[**gyotaku**](https://github.com/seratch/gyotaku)|Saving complete web pages by using Selenium Web Driver||
+|5|[@shokai](https://github.com/shokai)/[**iBeacon-AndroidSca…**](https://github.com/shokai/iBeacon-AndroidScala)|iBeacon Receiver for Android Scala||
 |5|[@sile](https://github.com/sile)/[**scala-gomoku**](https://github.com/sile/scala-gomoku)|A self-contained morphological analyzer (including dictionary data) writed in Scala.||
 |5|[@takezoux2](https://github.com/takezoux2)/[**play-websocket-cha…**](https://github.com/takezoux2/play-websocket-chat)|Play2.0 chat sample program using websocket||
 |5|[@tototoshi](https://github.com/tototoshi)/[**play-scalate**](https://github.com/tototoshi/play-scalate)|This project has been migrated to http://github.com/scalate/play-scalate.||
@@ -215,6 +216,7 @@
 |4|[@everpeace](https://github.com/everpeace)/[**observable-canbe-m…**](https://github.com/everpeace/observable-canbe-monad)|try to verify Observable, in RxJava, can be a Monad.||
 |4|[@everpeace](https://github.com/everpeace)/[**scala-galois**](https://github.com/everpeace/scala-galois)|Galois Field Arithmetic Library in Scala.||
 |4|[@halcat0x15a](https://github.com/halcat0x15a)/[**tetriz**](https://github.com/halcat0x15a/tetriz)|||
+|4|[@hatena](https://github.com/hatena)/[**scala-Intern-Bookm…**](https://github.com/hatena/scala-Intern-Bookmark)|はてな教科書サンプルコード|[:arrow_upper_right:](https://github.com/hatena/Hatena-Textbook)|
 |4|[@jamesneve](https://github.com/jamesneve)/[**dondoroke**](https://github.com/jamesneve/dondoroke)|Pagination for Play Framework 2.4||
 |4|[@jamesneve](https://github.com/jamesneve)/[**factory_hedgehog**](https://github.com/jamesneve/factory_hedgehog)|Factory library for generating objects: Play 2.4, slick & Scalatest||
 |4|[@kmizu](https://github.com/kmizu)/[**scomb**](https://github.com/kmizu/scomb)|SComb: Extremely Simple Parser Combinator Library||
@@ -237,14 +239,25 @@
 |4|[@takedasoft](https://github.com/takedasoft)/[**scala-slim3-modelm…**](https://github.com/takedasoft/scala-slim3-modelmeta-gen)|ScalaのCompilerPluginを使ってModelMetaを生成します。||
 |4|[@takezoux2](https://github.com/takezoux2)/[**msgpack-rpc-scala**](https://github.com/takezoux2/msgpack-rpc-scala)|MessagePack RPC for Scala.||
 |4|[@todesking](https://github.com/todesking)/[**qb-scalikejdbc**](https://github.com/todesking/qb-scalikejdbc)|Goal: Platform independent query builder for relational data.||
+|4|[@tototoshi](https://github.com/tototoshi)/[**dbcache**](https://github.com/tototoshi/dbcache)|cache library with RDB backend||
+|4|[@tototoshi](https://github.com/tototoshi)/[**play-auth-social**](https://github.com/tototoshi/play-auth-social)|An experimental implementation of social login with play-auth||
+|4|[@tototoshi](https://github.com/tototoshi)/[**sbt-shintyoku-doud…**](https://github.com/tototoshi/sbt-shintyoku-doudesuka)|進捗どうですか？||
+|4|[@tototoshi](https://github.com/tototoshi)/[**sbt-typesafename**](https://github.com/tototoshi/sbt-typesafename)|Post new name for Typesafe||
 |4|[@tototoshi](https://github.com/tototoshi)/[**scala-itunes**](https://github.com/tototoshi/scala-itunes)|||
+|4|[@tototoshi](https://github.com/tototoshi)/[**seedbed**](https://github.com/tototoshi/seedbed)|An alternative to using database fixtures in your Scala unit tests||
 |4|[@xuwei-k](https://github.com/xuwei-k)/[**dynamicjson**](https://github.com/xuwei-k/dynamicjson)|no longer maintenanced||
+|4|[@xuwei-k](https://github.com/xuwei-k)/[**hascalator.g8**](https://github.com/xuwei-k/hascalator.g8)|a g8 templete for functional scala project||
 |4|[@xuwei-k](https://github.com/xuwei-k)/[**msgpack-json**](https://github.com/xuwei-k/msgpack-json)|web api for convert msgpack <=> json||
+|4|[@xuwei-k](https://github.com/xuwei-k)/[**protobuf-javascrip…**](https://github.com/xuwei-k/protobuf-javascript-example)|google protocol buffers example on browser javascript|[:arrow_upper_right:](http://protobuf-javascript-example.herokuapp.com)|
+|4|[@xuwei-k](https://github.com/xuwei-k)/[**qiitascala**](https://github.com/xuwei-k/qiitascala)|Qiita Scala API client||
+|4|[@xuwei-k](https://github.com/xuwei-k)/[**scalajb**](https://github.com/xuwei-k/scalajb)|json data-binding tool for Scala. create case classes from json|[:arrow_upper_right:](http://scalajb.appspot.com/console)|
+|4|[@xuwei-k](https://github.com/xuwei-k)/[**scalajspack**](https://github.com/xuwei-k/scalajspack)|scalajspack - JSON to MessagePack converter powered by scala-js|[:arrow_upper_right:](http://xuwei-k.github.io/scalajspack/)|
 |4|[@ymnk](https://github.com/ymnk)/[**dpfwds**](https://github.com/ymnk/dpfwds)|Dynamic Port Forwader in Scala||
 |4|[@ymnk](https://github.com/ymnk)/[**dstream-client**](https://github.com/ymnk/dstream-client)|A client software to stream the Desktop images to DStream||
 |4|[@ymnk](https://github.com/ymnk)/[**parameterized-snip…**](https://github.com/ymnk/parameterized-snippet)|A sample app to demonstrate how to use Parameterized Snippet||
 |4|[@yoshiori](https://github.com/yoshiori)/[**coderwall-scala**](https://github.com/yoshiori/coderwall-scala)|A Scala interface to the API at http://coderwall.com||
 |4|[@yu-iskw](https://github.com/yu-iskw)/[**spark-ranking-algo…**](https://github.com/yu-iskw/spark-ranking-algorithms)|Ranking algorithms for Spark machine learning pipeline|[:arrow_upper_right:](https://spark-packages.org/package/yu-iskw/spark-ranking-algorithms)|
+|4|[@yuroyoro](https://github.com/yuroyoro)/[**yuroyoro-util**](https://github.com/yuroyoro/yuroyoro-util)|yuroyoro-util|[:arrow_upper_right:](http://d.hatena.ne.jp/yuroyoro)|
 |4|[@zentooo](https://github.com/zentooo)/[**gae-scala-twitter-…**](https://github.com/zentooo/gae-scala-twitter-bot)|scala twitter bot||
 |3|[@KeitaMoromizato](https://github.com/KeitaMoromizato)/[**scala-study-play-m…**](https://github.com/KeitaMoromizato/scala-study-play-mysql-api-server)|Scala on PlayでAPIサーバーの構築 with MySQL||
 |3|[@Kuchitama](https://github.com/Kuchitama)/[**PlayMongo**](https://github.com/Kuchitama/PlayMongo)|fluentdを使ってMongoDBに格納したHTTPアクセスログをもとに、ブラウザ利用率を割り出すPlay2.0Scalaプロジェクト||
@@ -265,14 +278,19 @@
 |3|[@j5ik2o](https://github.com/j5ik2o)/[**brainfuck-scala**](https://github.com/j5ik2o/brainfuck-scala)|Brainfuck Interpreter||
 |3|[@j5ik2o](https://github.com/j5ik2o)/[**forseti**](https://github.com/j5ik2o/forseti)|The OAuth2 and OpenID Connect library for Scala||
 |3|[@j5ik2o](https://github.com/j5ik2o)/[**scala-first-study**](https://github.com/j5ik2o/scala-first-study)|||
+|3|[@joker1007](https://github.com/joker1007)/[**movie_browser**](https://github.com/joker1007/movie_browser)|動画を管理したり、HTTP Live Streaming形式でエンコードしたりする||
 |3|[@kmizu](https://github.com/kmizu)/[**nson**](https://github.com/kmizu/nson)|NSON:  an object notation that is not a JSON but alike JSON.||
 |3|[@kmizu](https://github.com/kmizu)/[**toys**](https://github.com/kmizu/toys)|A Toy Language||
+|3|[@ktoso](https://github.com/ktoso)/[**protodoc-scala**](https://github.com/ktoso/protodoc-scala)|It's like JavaDoc, but for Google Protocol Buffers!||
+|3|[@ktoso](https://github.com/ktoso)/[**scala-words**](https://github.com/ktoso/scala-words)|"A vocabulary of words to code by"||
+|3|[@ktoso](https://github.com/ktoso)/[**spray-servlet-exam…**](https://github.com/ktoso/spray-servlet-example)|||
 |3|[@kxbmap](https://github.com/kxbmap)/[**sbt-jooq**](https://github.com/kxbmap/sbt-jooq)|jOOQ plugin for SBT 0.13.5+||
 |3|[@liquidz](https://github.com/liquidz)/[**template-scala-gae…**](https://github.com/liquidz/template-scala-gae)|scala project template for google app engine||
 |3|[@lloydmeta](https://github.com/lloydmeta)/[**hystrix-scala-scra…**](https://github.com/lloydmeta/hystrix-scala-scratchpad)|Lloyd's Hystrix playground. Exploring Scala + Hystrix.||
 |3|[@lloydmeta](https://github.com/lloydmeta)/[**seed-scala.g8**](https://github.com/lloydmeta/seed-scala.g8)|A basic skeleton Scala project||
 |3|[@lloydmeta](https://github.com/lloydmeta)/[**unless-when**](https://github.com/lloydmeta/unless-when)|`unless` and `when` macros for Scala 2.10+. ||
 |3|[@magnolia-k](https://github.com/magnolia-k)/[**scalakuji**](https://github.com/magnolia-k/scalakuji)|すからくじ||
+|3|[@motemen](https://github.com/motemen)/[**lambda-calculator**](https://github.com/motemen/lambda-calculator)||[:arrow_upper_right:](http://motemen.github.io/lambda-calculator/untyped.html)|
 |3|[@mzp](https://github.com/mzp)/[**condoc**](https://github.com/mzp/condoc)|Coqdoc to markdown||
 |3|[@ntaro](https://github.com/ntaro)/[**SlideShare4S**](https://github.com/ntaro/SlideShare4S)|SlideShare Web API Wrapper for Scala||
 |3|[@okomok](https://github.com/okomok)/[**belt**](https://github.com/okomok/belt)|investigating dependent-method-types||
@@ -280,6 +298,9 @@
 |3|[@pocketberserker](https://github.com/pocketberserker)/[**scala-royal-monad**](https://github.com/pocketberserker/scala-royal-monad)|||
 |3|[@rabitarochan](https://github.com/rabitarochan)/[**play-scala-angular…**](https://github.com/rabitarochan/play-scala-angularjs-gulp)|My activator template.||
 |3|[@ruimo](https://github.com/ruimo)/[**store**](https://github.com/ruimo/store)|Open source electric comerce application package|[:arrow_upper_right:](https://www.ruimo.com/redmine/store)|
+|3|[@seratch](https://github.com/seratch)/[**play-2.5-example**](https://github.com/seratch/play-2.5-example)|[scalikejdbc-users-group:526]||
+|3|[@seratch](https://github.com/seratch)/[**scalikejdbc-play-p…**](https://github.com/seratch/scalikejdbc-play-plugin)|DEPRECATED: Moved to https://github.com/scalikejdbc/scalikejdbc-play-support||
+|3|[@seratch](https://github.com/seratch)/[**skinny-engine-exam…**](https://github.com/seratch/skinny-engine-example)|Skinny Framework 2 has its own engine instead of Scalatra. ||
 |3|[@slightair](https://github.com/slightair)/[**scala-parse**](https://github.com/slightair/scala-parse)|scala で parse.com の REST API をたたきたい||
 |3|[@suin](https://github.com/suin)/[**scala-playground**](https://github.com/suin/scala-playground)|👾 Scalaを勉強するときや、スニペットを手軽に試すためのリポジトリです。||
 |3|[@takezoux2](https://github.com/takezoux2)/[**dslgen-at-play-mee…**](https://github.com/takezoux2/dslgen-at-play-meetup)|http://connpass.com/event/6020/||
@@ -288,6 +309,14 @@
 |3|[@tarao](https://github.com/tarao)/[**namedcap-scala**](https://github.com/tarao/namedcap-scala)|Provides named capturing groups with some enhanced features||
 |3|[@tmiyamon](https://github.com/tmiyamon)/[**sbt-scalatra-scala…**](https://github.com/tmiyamon/sbt-scalatra-scalate-appengine-template)|Scalatra-Scalate template project for appengine||
 |3|[@todesking](https://github.com/todesking)/[**sharrrd**](https://github.com/todesking/sharrrd)|Consistent hashing for Scala.||
+|3|[@tototoshi](https://github.com/tototoshi)/[**configpath**](https://github.com/tototoshi/configpath)|typosafe typesafe config||
+|3|[@tototoshi](https://github.com/tototoshi)/[**hatenacala**](https://github.com/tototoshi/hatenacala)|はてなダイアリー用のコマンドラインツール|[:arrow_upper_right:](http://d.hatena.ne.jp/tototoshi)|
+|3|[@tototoshi](https://github.com/tototoshi)/[**kushi**](https://github.com/tototoshi/kushi)|A very simple HTTP proxy written in Scala and Finagle.||
+|3|[@xuwei-k](https://github.com/xuwei-k)/[**adt-generator**](https://github.com/xuwei-k/adt-generator)|Algebraric Data Type Generator. Generate Pure Java files from EDSL||
+|3|[@xuwei-k](https://github.com/xuwei-k)/[**akka-stream-vs-net…**](https://github.com/xuwei-k/akka-stream-vs-netty)|benchmark|[:arrow_upper_right:](http://xuwei-k.github.io/slides/akka-stream-and-playframework)|
+|3|[@xuwei-k](https://github.com/xuwei-k)/[**githubtree**](https://github.com/xuwei-k/githubtree)|show all files tree in github project|[:arrow_upper_right:](http://githubtree.appspot.com/xuwei-k/githubtree)|
+|3|[@xuwei-k](https://github.com/xuwei-k)/[**gitter-scala**](https://github.com/xuwei-k/gitter-scala)|purely functional gitter API client||
+|3|[@xuwei-k](https://github.com/xuwei-k)/[**scalaz-prototype**](https://github.com/xuwei-k/scalaz-prototype)|typeclass encoding using self type. avoid ambiguous implicits|[:arrow_upper_right:](https://github.com/scalaz/scalaz/issues/1084)|
 |3|[@y-yu](https://github.com/y-yu)/[**DIwithTaglessFinal…**](https://github.com/y-yu/DIwithTaglessFinal)|||
 |3|[@y-yu](https://github.com/y-yu)/[**PosixRegex**](https://github.com/y-yu/PosixRegex)|http://www.home.hs-karlsruhe.de/~suma0002/publications/regex-parsing-derivatives.pdf||
 |3|[@yanana](https://github.com/yanana)/[**agni**](https://github.com/yanana/agni)|Fully functional Cassandra client for Scala||
@@ -297,5 +326,9 @@
 |3|[@ymnk](https://github.com/ymnk)/[**track-keyword**](https://github.com/ymnk/track-keyword)|Tracking Keywords on Twitter||
 |3|[@yoshihiro503](https://github.com/yoshihiro503)/[**NfcDemo_scala**](https://github.com/yoshihiro503/NfcDemo_scala)|Android NfcDemo in Scala|[:arrow_upper_right:](http://proofcafe.org/)|
 |3|[@yu-iskw](https://github.com/yu-iskw)/[**spark-kuromoji-tok…**](https://github.com/yu-iskw/spark-kuromoji-tokenizer)|Kuromoji Tokenizer for Spark DataFrames|[:arrow_upper_right:](https://spark-packages.org/package/yu-iskw/spark-kuromoji-tokenizer)|
+|3|[@yuroyoro](https://github.com/yuroyoro)/[**TwitBackupper**](https://github.com/yuroyoro/TwitBackupper)|Backup tool for twitter statuses. It's written by scala.|[:arrow_upper_right:](http://d.hatena.ne.jp/yuroyoro/)|
+|3|[@yuroyoro](https://github.com/yuroyoro)/[**esoteric-languages…**](https://github.com/yuroyoro/esoteric-languages-on-scala)|宇宙的な深淵から這い寄る名状しがたいプログラミング言語が見る者のSAN値を容赦なくすり減らすプロジェクト||
+|3|[@yuroyoro](https://github.com/yuroyoro)/[**isucon3_skinny**](https://github.com/yuroyoro/isucon3_skinny)|||
+|3|[@yuroyoro](https://github.com/yuroyoro)/[**lingr-bot**](https://github.com/yuroyoro/lingr-bot)|lingr-bot||
 |3|[@yyuu](https://github.com/yyuu)/[**scalatest**](https://github.com/yyuu/scalatest)|Clear, concise testing for Scala and Java programmers.|[:arrow_upper_right:](http://code.google.com/p/scalatest/)|
 

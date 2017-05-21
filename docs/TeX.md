@@ -29,5 +29,6 @@
 |3|[@id774](https://github.com/id774)/[**sandbox**](https://github.com/id774/sandbox)|"Sandbox" means a software testing environment for independent evaluation, monitoring or testing||
 |3|[@master-q](https://github.com/master-q)/[**masterq-docs**](https://github.com/master-q/masterq-docs)|どきゅめんと||
 |3|[@ntddk](https://github.com/ntddk)/[**paper**](https://github.com/ntddk/paper)|LaTeX template||
+|3|[@sonots](https://github.com/sonots)/[**cvprtoolbox-projec…**](https://github.com/sonots/cvprtoolbox-project)|Real projects solving problems using https://github.com/sonots/cvprtoolbox||
 |3|[@yusuketomoto](https://github.com/yusuketomoto)/[**ofDocset**](https://github.com/yusuketomoto/ofDocset)|||
 

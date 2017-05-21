@@ -22,10 +22,12 @@
 |9|[@daitomanabe](https://github.com/daitomanabe)/[**ofxTinySingleton**](https://github.com/daitomanabe/ofxTinySingleton)|tiny and simple singleton in C++11 way (for learning C++11||
 |8|[@akafugu](https://github.com/akafugu)/[**vetinari_clock**](https://github.com/akafugu/vetinari_clock)|A clock that ticks irregularly, yet keeps accurate time.||
 |8|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-25.1-doc-ema…**](https://github.com/ayatakesi/emacs-25.1-doc-emacs)|emacs25.1マニュアルの日本語化と公開||
+|7|[@lestrrat](https://github.com/lestrrat)/[**CatalystX-AppBuild…**](https://github.com/lestrrat/CatalystX-AppBuilder)|Programatically Build Your Catalyst Apps||
 |7|[@mumoshu](https://github.com/mumoshu)/[**kube-fluentd**](https://github.com/mumoshu/kube-fluentd)|An ubuntu-slim/s6-overlay/confd based docker image for running fluentd in Kubernetes pods/daemonsets||
 |6|[@Tomohiro](https://github.com/Tomohiro)/[**air**](https://github.com/Tomohiro/air)|Command-line AirPlay video client for Apple TV||
 |5|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiTwilioVoice**](https://github.com/yagitoshiro/TiTwilioVoice)|||
 |4|[@enukane](https://github.com/enukane)/[**c91-capturing-8021…**](https://github.com/enukane/c91-capturing-80211-2016)|C91頒布の「Capturing 802.11 ver.2016」の原稿データ (!= 完成pdf)||
+|4|[@matsumotory](https://github.com/matsumotory)/[**build-kernel-4.x-f…**](https://github.com/matsumotory/build-kernel-4.x-for-centos6)|kernel-4.x build system for CentOS6 on CentOS6||
 |3|[@RKX1209](https://github.com/RKX1209)/[**OpenVpnRouter**](https://github.com/RKX1209/OpenVpnRouter)|OpenVpnRouter is a VPN router. ||
 |3|[@cybergarage](https://github.com/cybergarage)/[**round**](https://github.com/cybergarage/round)|Round for C|[:arrow_upper_right:](http://www.cybergarage.org/)|
 |3|[@jj1bdx](https://github.com/jj1bdx)/[**erlang-freebsd-por…**](https://github.com/jj1bdx/erlang-freebsd-port)|Tentative private FreeBSD Erlang Port for 18.2||
@@ -35,5 +37,6 @@
 |3|[@polamjag](https://github.com/polamjag)/[**chrome-theme-simpl…**](https://github.com/polamjag/chrome-theme-simple-blue)|a minimal theme for Google Chrome / Chromium|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/simple-blue/kglcjiiffdfngnjlgaalhdjjemihjfnd)|
 |3|[@r-plus](https://github.com/r-plus)/[**NoDictation**](https://github.com/r-plus/NoDictation)|Disable dictation key without disable Siri.||
 |3|[@sesh-kebab](https://github.com/sesh-kebab)/[**raspi-sonar**](https://github.com/sesh-kebab/raspi-sonar)|RaspberryPi Ultrasonic sensor node extention||
+|3|[@tokuhirom](https://github.com/tokuhirom)/[**setusergroups**](https://github.com/tokuhirom/setusergroups)|set uid/pid/supplementary groups||
 |3|[@ykzts](https://github.com/ykzts)/[**omanko.porn**](https://github.com/ykzts/omanko.porn)||[:arrow_upper_right:](https://omanko.porn/)|
 

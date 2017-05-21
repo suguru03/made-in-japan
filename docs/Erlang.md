@@ -84,11 +84,15 @@
 |3|[@kuenishi](https://github.com/kuenishi)/[**riak_cli**](https://github.com/kuenishi/riak_cli)|yet another Riak cli in Erlang/OTP, do things you can't do with curl||
 |3|[@leo-project](https://github.com/leo-project)/[**leo_dcerl**](https://github.com/leo-project/leo_dcerl)|leo_dcerl is a disc cache lib for Erlang|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |3|[@leo-project](https://github.com/leo-project)/[**leo_s3_libs**](https://github.com/leo-project/leo_s3_libs)|leo_s3_libs are S3 related libraries for LeoFS and other Erlang applications.|[:arrow_upper_right:](http://leo-project.net/leofs)|
+|3|[@leo-project](https://github.com/leo-project)/[**leofs_doctor**](https://github.com/leo-project/leofs_doctor)|Quick investigation into OTP applications on remote nodes with less operations.|[:arrow_upper_right:](https://github.com/leo-project/leofs)|
 |3|[@leo-project](https://github.com/leo-project)/[**nfs_rpc_server**](https://github.com/leo-project/nfs_rpc_server)|NFS RPC Server for LeoFS NFS Protocol||
+|3|[@mizchi](https://github.com/mizchi)/[**dehydrater**](https://github.com/mizchi/dehydrater)|Promise queue handler||
 |3|[@norton](https://github.com/norton)/[**gen-ets**](https://github.com/norton/gen-ets)|GEN_ETS is an generic wrapper for Erlang Term Storage with a callback interface for a backend implementation.||
 |3|[@otphub](https://github.com/otphub)/[**mnesia**](https://github.com/otphub/mnesia)|||
 |3|[@sile](https://github.com/sile)/[**erl-creole**](https://github.com/sile/erl-creole)|Converting strings between multibyte encodings and Unicode.||
+|3|[@sile](https://github.com/sile)/[**erl-rtmpmsg**](https://github.com/sile/erl-rtmpmsg)|An Erlang library to encode/decode RTMP message||
 |3|[@sile](https://github.com/sile)/[**pfun**](https://github.com/sile/pfun)|Erlang Portable Functions||
+|3|[@sile](https://github.com/sile)/[**rafte**](https://github.com/sile/rafte)|An Erlang implementation of the Raft consensus algorithm||
 |3|[@sile](https://github.com/sile)/[**recvbench**](https://github.com/sile/recvbench)|gen_tcp:recv banchmark ( Erlang)||
 |3|[@simulacre](https://github.com/simulacre)/[**rabbitmq-events**](https://github.com/simulacre/rabbitmq-events)|RabbitMQ plugin that publishes internal events||
 |3|[@siritori](https://github.com/siritori)/[**recrio**](https://github.com/siritori/recrio)|An open implementation MIPS R3000 in Erlang||

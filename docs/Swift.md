@@ -3,26 +3,27 @@
 |8449|[@onevcat](https://github.com/onevcat)/[**Kingfisher**](https://github.com/onevcat/Kingfisher)|A lightweight, pure-Swift library for downloading and caching images from the web.||
 |3580|[@shu223](https://github.com/shu223)/[**iOS-9-Sampler**](https://github.com/shu223/iOS-9-Sampler)|Code examples for the new features of iOS 9.||
 |3050|[@shu223](https://github.com/shu223)/[**iOS-10-Sampler**](https://github.com/shu223/iOS-10-Sampler)|Code examples for new APIs of iOS 10.||
-|2950|[@yoavlt](https://github.com/yoavlt)/[**LiquidFloatingActi…**](https://github.com/yoavlt/LiquidFloatingActionButton)|Material Design Floating Action Button in liquid state||
+|2951|[@yoavlt](https://github.com/yoavlt)/[**LiquidFloatingActi…**](https://github.com/yoavlt/LiquidFloatingActionButton)|Material Design Floating Action Button in liquid state||
 |2866|[@kishikawakatsumi](https://github.com/kishikawakatsumi)/[**KeychainAccess**](https://github.com/kishikawakatsumi/KeychainAccess)|Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.||
 |2760|[@okmr-d](https://github.com/okmr-d)/[**DOFavoriteButton**](https://github.com/okmr-d/DOFavoriteButton)|Cute Animated Button written in Swift.||
 |2481|[@nghialv](https://github.com/nghialv)/[**MaterialKit**](https://github.com/nghialv/MaterialKit)|Material design components for iOS written in Swift||
-|2035|[@naoty](https://github.com/naoty)/[**Timepiece**](https://github.com/naoty/Timepiece)|Intuitive date handling in Swift||
-|1775|[@entotsu](https://github.com/entotsu)/[**TKSubmitTransition…**](https://github.com/entotsu/TKSubmitTransition)|Animated UIButton of Loading Animation and Transition Animation. Inspired by  https://dribbble.com/shots/1945593-Login-Home-Screen||
-|1652|[@ytakzk](https://github.com/ytakzk)/[**Fusuma**](https://github.com/ytakzk/Fusuma)|Instagram-like photo browser and a camera feature with a few line of code in Swift.||
+|2036|[@naoty](https://github.com/naoty)/[**Timepiece**](https://github.com/naoty/Timepiece)|Intuitive date handling in Swift||
+|1776|[@entotsu](https://github.com/entotsu)/[**TKSubmitTransition…**](https://github.com/entotsu/TKSubmitTransition)|Animated UIButton of Loading Animation and Transition Animation. Inspired by  https://dribbble.com/shots/1945593-Login-Home-Screen||
+|1653|[@ytakzk](https://github.com/ytakzk)/[**Fusuma**](https://github.com/ytakzk/Fusuma)|Instagram-like photo browser and a camera feature with a few line of code in Swift.||
 |1557|[@entotsu](https://github.com/entotsu)/[**PullToBounce**](https://github.com/entotsu/PullToBounce)|Animated "Pull To Refresh" Library for UIScrollView.  Inspired by https://dribbble.com/shots/1797373-Pull-Down-To-Refresh||
 |1485|[@yukiasai](https://github.com/yukiasai)/[**Gecco**](https://github.com/yukiasai/Gecco)|Simply highlight items for your tutorial walkthrough, written in Swift||
-|1443|[@JohnEstropia](https://github.com/JohnEstropia)/[**CoreStore**](https://github.com/JohnEstropia/CoreStore)|Unleashing the real power of Core Data with the elegance and safety of Swift||
+|1444|[@JohnEstropia](https://github.com/JohnEstropia)/[**CoreStore**](https://github.com/JohnEstropia/CoreStore)|Unleashing the real power of Core Data with the elegance and safety of Swift||
 |1438|[@marty-suzuki](https://github.com/marty-suzuki)/[**SAHistoryNavigatio…**](https://github.com/marty-suzuki/SAHistoryNavigationViewController)|SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller. Support 3D Touch!||
-|1424|[@kishikawakatsumi](https://github.com/kishikawakatsumi)/[**SpreadsheetView**](https://github.com/kishikawakatsumi/SpreadsheetView)|Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.||
+|1426|[@kishikawakatsumi](https://github.com/kishikawakatsumi)/[**SpreadsheetView**](https://github.com/kishikawakatsumi/SpreadsheetView)|Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.||
 |1257|[@szk-atmosphere](https://github.com/szk-atmosphere)/[**SAHistoryNavigatio…**](https://github.com/szk-atmosphere/SAHistoryNavigationViewController)|SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller. Support 3D Touch!||
 |1240|[@zoonooz](https://github.com/zoonooz)/[**ZFRippleButton**](https://github.com/zoonooz/ZFRippleButton)|Custom UIButton effect inspired by Google Material Design||
 |1191|[@suzuki-0000](https://github.com/suzuki-0000)/[**SKPhotoBrowser**](https://github.com/suzuki-0000/SKPhotoBrowser)|Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift||
 |1180|[@ishkawa](https://github.com/ishkawa)/[**APIKit**](https://github.com/ishkawa/APIKit)|Type-safe networking abstraction layer that associates request type with response type.||
 |1177|[@onevcat](https://github.com/onevcat)/[**APNGKit**](https://github.com/onevcat/APNGKit)|High performance and delightful way to play with APNG format in iOS.||
 |1144|[@corin8823](https://github.com/corin8823)/[**Popover**](https://github.com/corin8823/Popover)|Popover is a balloon library like Facebook app. It is written in pure swift.||
+|1139|[@makomori](https://github.com/makomori)/[**Sharaku**](https://github.com/makomori/Sharaku)|Image filtering UI library like Instagram.||
 |1118|[@onevcat](https://github.com/onevcat)/[**FengNiao**](https://github.com/onevcat/FengNiao)|A command line tool for cleaning unused resources in Xcode.||
-|1045|[@marty-suzuki](https://github.com/marty-suzuki)/[**ReverseExtension**](https://github.com/marty-suzuki/ReverseExtension)|A UITableView extension that enables cell insertion from the bottom of a table view.||
+|1048|[@marty-suzuki](https://github.com/marty-suzuki)/[**ReverseExtension**](https://github.com/marty-suzuki/ReverseExtension)|A UITableView extension that enables cell insertion from the bottom of a table view.||
 |1005|[@shu223](https://github.com/shu223)/[**watchOS-2-Sampler**](https://github.com/shu223/watchOS-2-Sampler)|Code examples for new features of watchOS 2.||
 |916|[@kentya6](https://github.com/kentya6)/[**KYCircularProgress…**](https://github.com/kentya6/KYCircularProgress)|Flexible progress bar written in Swift.||
 |906|[@yoavlt](https://github.com/yoavlt)/[**LiquidLoader**](https://github.com/yoavlt/LiquidLoader)|Spinner loader components with liquid animation||
@@ -37,12 +38,15 @@
 |759|[@naoyashiga](https://github.com/naoyashiga)/[**Dunk**](https://github.com/naoyashiga/Dunk)|Dunk is Dribbble client.:basketball:|[:arrow_upper_right:](https://itunes.apple.com/us/app/dunk-for-dribbble/id1003028105?mt=8)|
 |728|[@ra1028](https://github.com/ra1028)/[**RAReorderableLayou…**](https://github.com/ra1028/RAReorderableLayout)|A UICollectionView layout whitch can move item with drag and drop.||
 |706|[@shu223](https://github.com/shu223)/[**Pulsator**](https://github.com/shu223/Pulsator)|Pulse animation for iOS||
+|634|[@shogo4405](https://github.com/shogo4405)/[**lf.swift**](https://github.com/shogo4405/lf.swift)|Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.||
 |625|[@ikesyo](https://github.com/ikesyo)/[**Himotoki**](https://github.com/ikesyo/Himotoki)|A type-safe JSON decoding library purely written in Swift||
 |551|[@inamiy](https://github.com/inamiy)/[**RxAutomaton**](https://github.com/inamiy/RxAutomaton)|RxSwift + State Machine, inspired by Redux and Elm.||
 |541|[@pixyzehn](https://github.com/pixyzehn)/[**MediumScrollFullSc…**](https://github.com/pixyzehn/MediumScrollFullScreen)|Medium's upper and lower Menu in Scroll.||
 |536|[@suguru](https://github.com/suguru)/[**Cheetah**](https://github.com/suguru/Cheetah)|Easy animation library on iOS with Swift2||
 |516|[@morizotter](https://github.com/morizotter)/[**SwiftyDrop**](https://github.com/morizotter/SwiftyDrop)|Lightweight dropdown message bar in Swift. It's simple and beautiful.||
 |516|[@morizotter](https://github.com/morizotter)/[**TouchVisualizer**](https://github.com/morizotter/TouchVisualizer)|Lightweight touch visualization library in Swift. A single line of code and visualize your touches!||
+|509|[@WorldDownTown](https://github.com/WorldDownTown)/[**ZoomTransitioning**](https://github.com/WorldDownTown/ZoomTransitioning)|ZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.||
+|484|[@wantedly](https://github.com/wantedly)/[**swift-rss-sample**](https://github.com/wantedly/swift-rss-sample)|An RSS reader app written in Swift||
 |479|[@nghialv](https://github.com/nghialv)/[**Hakuba**](https://github.com/nghialv/Hakuba)|:cherry_blossom: Cellmodel-driven tableview manager||
 |472|[@Nirma](https://github.com/Nirma)/[**Attributed**](https://github.com/Nirma/Attributed)|Modern Swift µframework for attributed strings.||
 |458|[@Akkyie](https://github.com/Akkyie)/[**AKPickerView-Swift…**](https://github.com/Akkyie/AKPickerView-Swift)|A simple yet customizable horizontal picker view. ||
@@ -59,12 +63,12 @@
 |356|[@entotsu](https://github.com/entotsu)/[**TKAnimatedCheckBut…**](https://github.com/entotsu/TKAnimatedCheckButton)|Animated Check Button inspired by http://robb.is/working-on/a-hamburger-button-transition/ and https://dribbble.com/shots/1631598-On-Off||
 |354|[@szk-atmosphere](https://github.com/szk-atmosphere)/[**SABlurImageView**](https://github.com/szk-atmosphere/SABlurImageView)|You can use blur effect and it's animation easily to call only two methods.||
 |353|[@synboo](https://github.com/synboo)/[**SwiftFlickrApp**](https://github.com/synboo/SwiftFlickrApp)|Flickr popular photo viewer with Swift|[:arrow_upper_right:](http://synboo.hatenablog.com/entry/2014/06/05/235618)|
-|330|[@KyoheiG3](https://github.com/KyoheiG3)/[**AttributedLabel**](https://github.com/KyoheiG3/AttributedLabel)|Easy to use, fast, and higher performance than UILabel.||
+|331|[@KyoheiG3](https://github.com/KyoheiG3)/[**AttributedLabel**](https://github.com/KyoheiG3/AttributedLabel)|Easy to use, fast, and higher performance than UILabel.||
 |314|[@nghialv](https://github.com/nghialv)/[**Net**](https://github.com/nghialv/Net)|Http Request wrapper written in Swift||
 |313|[@okmr-d](https://github.com/okmr-d)/[**DOAlertController**](https://github.com/okmr-d/DOAlertController)|Simple Alert View written in Swift, which can be used as a UIAlertController. (AlertController/AlertView/ActionSheet)||
 |297|[@ra1028](https://github.com/ra1028)/[**PathDynamicModal**](https://github.com/ra1028/PathDynamicModal)|A modal view using UIDynamicAnimator, like the Path for iOS.||
 |296|[@KyoheiG3](https://github.com/KyoheiG3)/[**TableViewDragger**](https://github.com/KyoheiG3/TableViewDragger)|A cells of UITableView can be rearranged by drag and drop.||
-|292|[@cho45](https://github.com/cho45)/[**KeyCast**](https://github.com/cho45/KeyCast)|Record keystroke for screencast||
+|293|[@cho45](https://github.com/cho45)/[**KeyCast**](https://github.com/cho45/KeyCast)|Record keystroke for screencast||
 |284|[@1amageek](https://github.com/1amageek)/[**Toolbar**](https://github.com/1amageek/Toolbar)|Awesome autolayout Toolbar||
 |284|[@pixyzehn](https://github.com/pixyzehn)/[**MediumMenu**](https://github.com/pixyzehn/MediumMenu)|A menu based on Medium iOS app.||
 |280|[@marty-suzuki](https://github.com/marty-suzuki)/[**SACollectionViewVe…**](https://github.com/marty-suzuki/SACollectionViewVerticalScalingFlowLayout)|UICollectionViewLayout that performs scaling up and down automatically on disappearing cells, and applies UIDynamics.||
@@ -95,8 +99,8 @@
 |223|[@muukii](https://github.com/muukii)/[**JAYSON**](https://github.com/muukii/JAYSON)|Swift3 - Available on Linux, Cocoa 🌟 Easy and Strict, Scalable JSON library 🎉 Can be read 👀 and write 🖊||
 |223|[@szk-atmosphere](https://github.com/szk-atmosphere)/[**SAInboxViewControl…**](https://github.com/szk-atmosphere/SAInboxViewController)|UIViewController subclass inspired by "Inbox by google" animated transitioning.||
 |220|[@pixyzehn](https://github.com/pixyzehn)/[**PathMenu**](https://github.com/pixyzehn/PathMenu)|Path 4.2 menu using CoreAnimation in Swift. Inspired by AwesomeMenu(https://github.com/levey/AwesomeMenu).||
-|216|[@1amageek](https://github.com/1amageek)/[**Sumo**](https://github.com/1amageek/Sumo)|Sumo is a library that prepares for fast upload for iOS. It is effective when uploading by selecting images continuously.||
 |216|[@KyoheiG3](https://github.com/KyoheiG3)/[**SpringIndicator**](https://github.com/KyoheiG3/SpringIndicator)|SpringIndicator is indicator and PullToRefresh. Inspired by Material design components.||
+|215|[@1amageek](https://github.com/1amageek)/[**Sumo**](https://github.com/1amageek/Sumo)|Sumo is a library that prepares for fast upload for iOS. It is effective when uploading by selecting images continuously.||
 |215|[@sgr-ksmt](https://github.com/sgr-ksmt)/[**PDFGenerator**](https://github.com/sgr-ksmt/PDFGenerator)|A simple generator of PDF written in Swift. ||
 |214|[@yukiasai](https://github.com/yukiasai)/[**Minamo**](https://github.com/yukiasai/Minamo)|Simple coach mark library written in Swift||
 |210|[@szk-atmosphere](https://github.com/szk-atmosphere)/[**MisterFusion**](https://github.com/szk-atmosphere/MisterFusion)|MisterFusion is Swift DSL for AutoLayout. It is the extremely clear, but concise syntax, in addition, can be used in both Swift and Objective-C. And support Size Class.||
@@ -105,8 +109,8 @@
 |192|[@hirohisa](https://github.com/hirohisa)/[**PageController**](https://github.com/hirohisa/PageController)|Infinite paging controller, scrolling through contents and title bar scrolls with a delay||
 |185|[@suzuki-0000](https://github.com/suzuki-0000)/[**HoneycombView**](https://github.com/suzuki-0000/HoneycombView)|HoneycombView is the iOS UIView for displaying like Honeycomb layout written by swift ||
 |179|[@ykyouhei](https://github.com/ykyouhei)/[**KYNavigationProgre…**](https://github.com/ykyouhei/KYNavigationProgress)|Simple extension of UINavigationController to display progress on the UINavigationBar.||
+|170|[@muukii](https://github.com/muukii)/[**StackScrollView**](https://github.com/muukii/StackScrollView)|📋 iOS Form UI Builder in Swift (powered by UICollectionView)||
 |169|[@inamiy](https://github.com/inamiy)/[**ReactiveAutomaton**](https://github.com/inamiy/ReactiveAutomaton)|ReactiveCocoa + State Machine, inspired by Redux and Elm.||
-|168|[@muukii](https://github.com/muukii)/[**StackScrollView**](https://github.com/muukii/StackScrollView)|📋 iOS Form UI Builder in Swift (powered by UICollectionView)||
 |167|[@mzp](https://github.com/mzp)/[**LoveLiver**](https://github.com/mzp/LoveLiver)|Create Apple's Live Photos from JPEG and MOV.||
 |165|[@naoyashiga](https://github.com/naoyashiga)/[**RPLoadingAnimation…**](https://github.com/naoyashiga/RPLoadingAnimation)|Loading animations :cyclone: by using Swift CALayer||
 |159|[@marty-suzuki](https://github.com/marty-suzuki)/[**HoverConversion**](https://github.com/marty-suzuki/HoverConversion)|HoverConversion realized vertical paging with UITableView. UIViewController will be paged when reaching top or bottom of UITableView contentOffset.||
@@ -115,6 +119,7 @@
 |153|[@nakajijapan](https://github.com/nakajijapan)/[**PhotoSlider**](https://github.com/nakajijapan/PhotoSlider)|PhotoSlider can a simple photo slider and delete slider with swiping.||
 |149|[@sonsongithub](https://github.com/sonsongithub)/[**reddift**](https://github.com/sonsongithub/reddift)|Swift Reddit API Wrapper||
 |147|[@krimpedance](https://github.com/krimpedance)/[**KRProgressHUD**](https://github.com/krimpedance/KRProgressHUD)|A beautiful and easy-to-use progress HUD for your iOS.||
+|138|[@WorldDownTown](https://github.com/WorldDownTown)/[**TapticEngine**](https://github.com/WorldDownTown/TapticEngine)|TapticEngine generates haptic feedback vibrations on iOS device.||
 |137|[@okmr-d](https://github.com/okmr-d)/[**App-Launching-like…**](https://github.com/okmr-d/App-Launching-like-Twitter)|Twitter-like animated Splash (startup animation)||
 |134|[@sgr-ksmt](https://github.com/sgr-ksmt)/[**PullToDismiss**](https://github.com/sgr-ksmt/PullToDismiss)|You can dismiss modal viewcontroller like Facebook Messenger by pulling scrollview or navigationbar in Swift.||
 |134|[@yimajo](https://github.com/yimajo)/[**MeetupTweet**](https://github.com/yimajo/MeetupTweet)|Macのウインドウ上に特定の用語に関するTweetをニコニコ動画風に表示します。Keynoteのフルスクリーン上にも表示ができるので発表時に使えます。||
@@ -131,6 +136,7 @@
 |105|[@marty-suzuki](https://github.com/marty-suzuki)/[**NoticeObserveKit**](https://github.com/marty-suzuki/NoticeObserveKit)|NoticeObserveKit is type-safe NotificationCenter wrapper that associates notice type with info type.||
 |98|[@y-hryk](https://github.com/y-hryk)/[**StretchHeader**](https://github.com/y-hryk/StretchHeader)|||
 |97|[@norio-nomura](https://github.com/norio-nomura)/[**SwiftLintForXcode**](https://github.com/norio-nomura/SwiftLintForXcode)|a sample of Xcode Extension that runs `swiftlint autocorrect`||
+|95|[@WorldDownTown](https://github.com/WorldDownTown)/[**RangeSeekSlider**](https://github.com/WorldDownTown/RangeSeekSlider)|RangeSeedSlider provides a customizable range slider like a UISlider.||
 |95|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**ARNZoomImageTransi…**](https://github.com/xxxAIRINxxx/ARNZoomImageTransition)|Custom image zooming animation transition & interactive transition. written in Swift.||
 |94|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**GooglePlayTransiti…**](https://github.com/xxxAIRINxxx/GooglePlayTransition)|Custom transition like Google Play Store Android App. written in Swift.||
 |93|[@1amageek](https://github.com/1amageek)/[**Salada**](https://github.com/1amageek/Salada)|Salada is OR Mapper for Firebase. You can make architectures very easily.💕||
@@ -156,6 +162,7 @@
 |70|[@sonsongithub](https://github.com/sonsongithub)/[**numsw**](https://github.com/sonsongithub/numsw)|Swift library like numpy, playgrounds notebook like jupyter.||
 |68|[@inamiy](https://github.com/inamiy)/[**Zelkova**](https://github.com/inamiy/Zelkova)|Elm/React.js-like architecture in Swift, powered by ReactiveSwift and LayoutKit.||
 |67|[@Watson1978](https://github.com/Watson1978)/[**kotori**](https://github.com/Watson1978/kotori)|An OS X client app for https://esa.io/||
+|67|[@makomori](https://github.com/makomori)/[**Tamamushi**](https://github.com/makomori/Tamamushi)|Gradient NavigationBar library written in Swift||
 |65|[@onevcat](https://github.com/onevcat)/[**AddressParser**](https://github.com/onevcat/AddressParser)|Email address parser.||
 |63|[@a-yasui](https://github.com/a-yasui)/[**RSSTouch**](https://github.com/a-yasui/RSSTouch)|Touchbar にRSSを流すやつ|[:arrow_upper_right:](https://a-yasui.github.io/RSSTouch/)|
 |63|[@zoonooz](https://github.com/zoonooz)/[**TransitKit**](https://github.com/zoonooz/TransitKit)|easy custom ios transition||
@@ -182,24 +189,29 @@
 |55|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**ARNInteractiveTran…**](https://github.com/xxxAIRINxxx/ARNInteractiveTransition)|Custom interactive transition like Facobook Paper, Siori, AWA iOS App. written in Swift.||
 |54|[@cockscomb](https://github.com/cockscomb)/[**HUDKit**](https://github.com/cockscomb/HUDKit)|||
 |54|[@muukii](https://github.com/muukii)/[**PrecisionLevelSlid…**](https://github.com/muukii/PrecisionLevelSlider)|PrecisionLevelSlider||
+|53|[@WorldDownTown](https://github.com/WorldDownTown)/[**Benchmark**](https://github.com/WorldDownTown/Benchmark)|The Benchmark⏲ module provides methods to measure and report the time used to execute Swift code.||
 |53|[@marty-suzuki](https://github.com/marty-suzuki)/[**QiitaWithFluxSampl…**](https://github.com/marty-suzuki/QiitaWithFluxSample)|A sample project uses Flux and MVVM features with RxSwift.||
+|53|[@toshi0383](https://github.com/toshi0383)/[**TVMLKitchen**](https://github.com/toshi0383/TVMLKitchen)|Swifty TVML template manager with or without client-server||
 |52|[@hatena](https://github.com/hatena)/[**swift-Sample-GitHu…**](https://github.com/hatena/swift-Sample-GitHubSearch-2015)|The sample code of Swift iOS app||
 |52|[@inamiy](https://github.com/inamiy)/[**ReactiveCocoaCatal…**](https://github.com/inamiy/ReactiveCocoaCatalog)|UI Catalog for ReactiveCocoa.||
 |51|[@hatena](https://github.com/hatena)/[**swift-Sample-GitHu…**](https://github.com/hatena/swift-Sample-GitHubSearch)|The sample code of Swift iOS app||
 |50|[@inamiy](https://github.com/inamiy)/[**SwiftElm**](https://github.com/inamiy/SwiftElm)|Reactive + Automaton + VTree in Swift, inspired by Elm.||
 |49|[@koogawa](https://github.com/koogawa)/[**iSensorSwift**](https://github.com/koogawa/iSensorSwift)|Sense a lot of things. (Swift ver)||
+|48|[@WorldDownTown](https://github.com/WorldDownTown)/[**CSS3ColorsSwift**](https://github.com/WorldDownTown/CSS3ColorsSwift)|A UIColor extension with CSS3 Color names.||
 |48|[@morizotter](https://github.com/morizotter)/[**SwiftRefresher**](https://github.com/morizotter/SwiftRefresher)|SwiftRefresher is one of the alternatives of UIRefreshControl.||
 |47|[@STAR-ZERO](https://github.com/STAR-ZERO)/[**STZPopupView**](https://github.com/STAR-ZERO/STZPopupView)|Customizable simple popup view in iOS||
 |47|[@inamiy](https://github.com/inamiy)/[**Await**](https://github.com/inamiy/Await)|Swift port of C# Await using Cocoa's Run Loop mechanism.||
 |47|[@inamiy](https://github.com/inamiy)/[**RxProperty**](https://github.com/inamiy/RxProperty)|A get-only `Variable` that is equivalent to ReactiveSwift's `Property`||
 |47|[@onevcat](https://github.com/onevcat)/[**WatchWeather**](https://github.com/onevcat/WatchWeather)|||
 |47|[@safx](https://github.com/safx)/[**Emoji-Swift**](https://github.com/safx/Emoji-Swift)|String extension converting to and from emoji character and Emoji Cheat Sheet string||
+|46|[@yuzushioh](https://github.com/yuzushioh)/[**RxIGListKit**](https://github.com/yuzushioh/RxIGListKit)|IGListKit with RxSwift🚀||
 |45|[@ngs](https://github.com/ngs)/[**ci2go**](https://github.com/ngs/ci2go)|CI2Go is a @CircleCI client for iOS.|[:arrow_upper_right:](http://ci2go.com)|
 |43|[@inamiy](https://github.com/inamiy)/[**DebugLog**](https://github.com/inamiy/DebugLog)|DebugLog macro alternative for Swift.||
 |43|[@inamiy](https://github.com/inamiy)/[**VTree**](https://github.com/inamiy/VTree)|VirtualDOM for Swift (iOS, macOS)||
 |43|[@noppoMan](https://github.com/noppoMan)/[**Prorsum**](https://github.com/noppoMan/Prorsum)|A Go like concurrent system + networking/http library for Swift that works on Linux and Mac||
 |43|[@tasanobu](https://github.com/tasanobu)/[**Otafuku**](https://github.com/tasanobu/Otafuku)|Otafuku provides utility classes to use WKWebView in Swift.||
 |42|[@jpmartha](https://github.com/jpmartha)/[**Pancake**](https://github.com/jpmartha/Pancake)|A command line program to be run on OS X's Terminal utility that performs generating a Swift documentation as Markdown format||
+|42|[@kumabook](https://github.com/kumabook)/[**FeedlyKit**](https://github.com/kumabook/FeedlyKit)|Feedly Cloud API client library written in swift||
 |42|[@marty-suzuki](https://github.com/marty-suzuki)/[**SASecretCommandVie…**](https://github.com/marty-suzuki/SASecretCommandViewController)|You can use secret command with swipe gesture and A, B button. Show a secret mode you want!||
 |42|[@s-aska](https://github.com/s-aska)/[**KeyClip**](https://github.com/s-aska/KeyClip)|KeyClip is yet another Keychain library written in Swift.||
 |42|[@yashigani](https://github.com/yashigani)/[**WebKitPlus**](https://github.com/yashigani/WebKitPlus)|A support library for WKWebView.||
@@ -229,6 +241,7 @@
 |30|[@marty-suzuki](https://github.com/marty-suzuki)/[**SAWaveToast**](https://github.com/marty-suzuki/SAWaveToast)|Show text with wave animated background and floating animation.||
 |30|[@muukii](https://github.com/muukii)/[**Bulk**](https://github.com/muukii/Bulk)|👨‍💻 Bulk is pipeline based powerful & flexible logging framework||
 |30|[@noppoMan](https://github.com/noppoMan)/[**SwiftKnex**](https://github.com/noppoMan/SwiftKnex)|A Mysql Native Client and Query Builder written in Pure Swift||
+|30|[@tattn](https://github.com/tattn)/[**ios-architectures**](https://github.com/tattn/ios-architectures)|Sample app for iOS architectures|[:arrow_upper_right:](http://qiita.com/tattn/items/d4b95af0b60c3849243a)|
 |30|[@yoavlt](https://github.com/yoavlt)/[**Filer**](https://github.com/yoavlt/Filer)|Unix-like file handler written in Swift||
 |29|[@fumiyasac](https://github.com/fumiyasac)/[**handMadeCalendarOf…**](https://github.com/fumiyasac/handMadeCalendarOfSwift)|[ING]ライブラリを使わないカレンダーサンプル（iOS Sample Study: Swift）||
 |29|[@morizotter](https://github.com/morizotter)/[**xcmultilingual**](https://github.com/morizotter/xcmultilingual)|Command line tool for generating Swift localization complements.|[:arrow_upper_right:](https://rubygems.org/gems/xcmultilingual)|
@@ -262,17 +275,20 @@
 |21|[@s-aska](https://github.com/s-aska)/[**EventBox**](https://github.com/s-aska/EventBox)|EventBox is yet another notification library written in Swift.||
 |20|[@dealforest](https://github.com/dealforest)/[**Anglerfish**](https://github.com/dealforest/Anglerfish)|sort the recently used simulators||
 |20|[@naoty](https://github.com/naoty)/[**clr**](https://github.com/naoty/clr)|A command to create colorlists files||
+|20|[@tattn](https://github.com/tattn)/[**Replacer**](https://github.com/tattn/Replacer)|An easy-to-use library to stub HTTP requests using URLSession and to swizzle methods||
 |20|[@yoshiki](https://github.com/yoshiki)/[**LINEBotAPI**](https://github.com/yoshiki/LINEBotAPI)|A SDK of the LINE BOT API Trial for Swift||
 |19|[@onevcat](https://github.com/onevcat)/[**DispatchMemoryLeak…**](https://github.com/onevcat/DispatchMemoryLeakDemo)|A demo that reproduce memory leak in iOS 9.2||
 |19|[@onevcat](https://github.com/onevcat)/[**UITestDemo**](https://github.com/onevcat/UITestDemo)|UITestDemo||
 |19|[@pixyzehn](https://github.com/pixyzehn)/[**SnowFalling**](https://github.com/pixyzehn/SnowFalling)|Snow Falling effects on UIViewController. Inspired by LINE for iOS on Dec 25.||
 |19|[@safx](https://github.com/safx)/[**TypetalkKit**](https://github.com/safx/TypetalkKit)|An unofficial web API client for Typetalk, a web service for team disscussions.||
+|18|[@MuShare](https://github.com/MuShare)/[**Httper-iOS**](https://github.com/MuShare/Httper-iOS)|An iOS App for developers to test REST API.|[:arrow_upper_right:](https://itunes.apple.com/app/id1166884043)|
 |18|[@ken0nek](https://github.com/ken0nek)/[**SwiftMeasurement**](https://github.com/ken0nek/SwiftMeasurement)|The best way to deal with Measurements and Units in Swift.||
 |18|[@naoyashiga](https://github.com/naoyashiga)/[**TwitterProfileHead…**](https://github.com/naoyashiga/TwitterProfileHeaderAnimation)|Scale and blur animation when scrolling like Twitter profile header animation||
 |18|[@sgr-ksmt](https://github.com/sgr-ksmt)/[**FormToolbar**](https://github.com/sgr-ksmt/FormToolbar)|Simple, movable and powerful toolbar for UITextField and UITextView.||
 |18|[@tasanobu](https://github.com/tasanobu)/[**PercentEncoder**](https://github.com/tasanobu/PercentEncoder)|Lightweight library to escape string using so called URL encoding in Swift||
 |17|[@giginet](https://github.com/giginet)/[**CustomKeyboardText…**](https://github.com/giginet/CustomKeyboardTextField)|Provides easy way to make type safety TextField with custom keyboards||
 |17|[@lm2343635](https://github.com/lm2343635)/[**Httper**](https://github.com/lm2343635/Httper)|An iOS App for developers to test REST API.|[:arrow_upper_right:](https://itunes.apple.com/app/id1166884043)|
+|17|[@muukii-archive](https://github.com/muukii-archive)/[**RealmDefaults**](https://github.com/muukii-archive/RealmDefaults)|RealmDefaults is a Simple value store. Replacement for NSUserDefaults||
 |17|[@naoty](https://github.com/naoty)/[**qiita-swift**](https://github.com/naoty/qiita-swift)|Qiita API v2 client for Swift||
 |17|[@s-aska](https://github.com/s-aska)/[**Justaway-for-iOS**](https://github.com/s-aska/Justaway-for-iOS)|Lightweight Twitter Client for iOS||
 |17|[@safx](https://github.com/safx)/[**iOS9-InterApp-DnD-…**](https://github.com/safx/iOS9-InterApp-DnD-Demo)|A Sample App for InterApp DnD in split view of iOS 9|[:arrow_upper_right:](https://speakerdeck.com/matuyuji/interapp-dnd-in-ios-9)|
@@ -281,12 +297,14 @@
 |16|[@akisute](https://github.com/akisute)/[**ParaMangar**](https://github.com/akisute/ParaMangar)|Render any UIView into UIImage or multiple PNG files for WatchKit animations||
 |16|[@asus4](https://github.com/asus4)/[**Kml.swift**](https://github.com/asus4/Kml.swift)|Simple kml parser for swift||
 |16|[@koogawa](https://github.com/koogawa)/[**LocationPickerCont…**](https://github.com/koogawa/LocationPickerController)|Simple location picker with a built in maps.||
+|15|[@WorldDownTown](https://github.com/WorldDownTown)/[**LinkTextView**](https://github.com/WorldDownTown/LinkTextView)|A Subclass of UITextView with custom link support.||
 |15|[@fujimoto](https://github.com/fujimoto)/[**HeadTracker**](https://github.com/fujimoto/HeadTracker)|||
 |15|[@hadashiA](https://github.com/hadashiA)/[**RippleLayer**](https://github.com/hadashiA/RippleLayer)|Draw splash effect||
 |15|[@hisui](https://github.com/hisui)/[**ReactiveSwift**](https://github.com/hisui/ReactiveSwift)|FRP in Swift||
 |15|[@kakajika](https://github.com/kakajika)/[**Brief**](https://github.com/kakajika/Brief)|Easy access to UIView & CALayer's layout properties in Swift.||
 |15|[@kaneshin](https://github.com/kaneshin)/[**ActiveRecord**](https://github.com/kaneshin/ActiveRecord)|Like ActiveRecord on Swift||
 |15|[@kaneshin](https://github.com/kaneshin)/[**IcoMoonKit**](https://github.com/kaneshin/IcoMoonKit)|IcoMoonKit is an iconic font library written in Swift.|[:arrow_upper_right:](http://kaneshin.github.io/IcoMoonKit.)|
+|15|[@kumabook](https://github.com/kumabook)/[**MusicFav**](https://github.com/kumabook/MusicFav)|MusicFav is RSS Reader that focuses on playing music comfortably|[:arrow_upper_right:](http://musicfav.github.io/)|
 |15|[@muukii](https://github.com/muukii)/[**RealmDefaults**](https://github.com/muukii/RealmDefaults)|RealmDefaults is a Simple value store. Replacement for NSUserDefaults||
 |15|[@ngs](https://github.com/ngs)/[**Playground-Bluetoo…**](https://github.com/ngs/Playground-Bluetooth-Book)|Swift Playground Book that deals with Core Bluetooth||
 |15|[@ninjinkun](https://github.com/ninjinkun)/[**ReSwift-Twitter-De…**](https://github.com/ninjinkun/ReSwift-Twitter-Demo)|A ReSwift example||
@@ -299,9 +317,16 @@
 |14|[@himaratsu](https://github.com/himaratsu)/[**CustomViewSample**](https://github.com/himaratsu/CustomViewSample)|how to create custom UIView from nib and @IBDesignable confirmed||
 |14|[@kishikawakatsumi](https://github.com/kishikawakatsumi)/[**Realm-Hands-On**](https://github.com/kishikawakatsumi/Realm-Hands-On)|||
 |14|[@lotz84](https://github.com/lotz84)/[**TwitterMediaTimeli…**](https://github.com/lotz84/TwitterMediaTimeline)|TwitterMediaTimeline is focused on displaying not only tweets but tweets with media.||
+|14|[@makomori](https://github.com/makomori)/[**Dots**](https://github.com/makomori/Dots)|Modern loading indicator for iOS 10||
 |14|[@novi](https://github.com/novi)/[**i2c-swift-example**](https://github.com/novi/i2c-swift-example)|Use I2C bus device with Swift||
+|14|[@tattn](https://github.com/tattn)/[**HackathonStarter**](https://github.com/tattn/HackathonStarter)|Hackathon starter kit for iOS||
 |14|[@temoki](https://github.com/temoki)/[**TortoiseGraphics**](https://github.com/temoki/TortoiseGraphics)|A turtle graphics (a key feature of the Logo ) engine written in Swift.||
+|14|[@totocaster](https://github.com/totocaster)/[**JSONFeed**](https://github.com/totocaster/JSONFeed)|Swift parser for JSON Feed — a new format similar to RSS and Atom but in JSON. (Spec: https://jsonfeed.org )||
+|14|[@ya-s-u](https://github.com/ya-s-u)/[**TRART**](https://github.com/ya-s-u/TRART)|Music player app written in Swift||
+|14|[@yohei-yoshihara](https://github.com/yohei-yoshihara)/[**Box2DSwift**](https://github.com/yohei-yoshihara/Box2DSwift)|Box2DSwift is a Swift port of Box2D Physics Engine.||
 |14|[@ytakzk](https://github.com/ytakzk)/[**Swift-Simple-Inter…**](https://github.com/ytakzk/Swift-Simple-Interactive-Art)|Swift implementation of simple interactive art||
+|14|[@yuzushioh](https://github.com/yuzushioh)/[**NorenBannerNotific…**](https://github.com/yuzushioh/NorenBannerNotification)|A Library that allows you to create ALL customisable in app notification that appears on the status bar||
+|13|[@fhisa](https://github.com/fhisa)/[**SwiftyLayout**](https://github.com/fhisa/SwiftyLayout)|Lightweight declarative auto-layout framework for Swift||
 |13|[@muukii](https://github.com/muukii)/[**Warehouse**](https://github.com/muukii/Warehouse)|Easy NSFileManager||
 |13|[@nakajijapan](https://github.com/nakajijapan)/[**NKJMultiMovieCaptu…**](https://github.com/nakajijapan/NKJMultiMovieCaptureView)|CaptureSessionView to save videos while touching the screen||
 |13|[@naoty](https://github.com/naoty)/[**AnyQuery**](https://github.com/naoty/AnyQuery)|Soft-typed query for anything||
@@ -311,13 +336,10 @@
 |13|[@safx](https://github.com/safx)/[**yavfl**](https://github.com/safx/yavfl)|Yet Anoter Visual Format Language for Auto Layout.||
 |13|[@sgr-ksmt](https://github.com/sgr-ksmt)/[**BlendingCulturesEx…**](https://github.com/sgr-ksmt/BlendingCulturesExample)|Example for "Blending Cultures" of try! Swift's Presentation||
 |13|[@tokorom](https://github.com/tokorom)/[**HasAssociatedObjec…**](https://github.com/tokorom/HasAssociatedObjects)|We can add some stored objects to Swift extension||
-|13|[@totocaster](https://github.com/totocaster)/[**JSONFeed**](https://github.com/totocaster/JSONFeed)|Swift parser for JSON Feed — a new format similar to RSS and Atom but in JSON. (Spec: https://jsonfeed.org )||
 |13|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**ARNSpaceStretchFlo…**](https://github.com/xxxAIRINxxx/ARNSpaceStretchFlowLayout)|Evernote like UICollectionViewFlowLayout. (Swift lang)||
 |13|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**RealtimeFilterExam…**](https://github.com/xxxAIRINxxx/RealtimeFilterExample)|A Sample iOS project for Realtime Capture Effect of OpenCV. (Swift & Objective-c lang)||
-|13|[@yohei-yoshihara](https://github.com/yohei-yoshihara)/[**Box2DSwift**](https://github.com/yohei-yoshihara/Box2DSwift)|Box2DSwift is a Swift port of Box2D Physics Engine.||
 |13|[@yoichitgy](https://github.com/yoichitgy)/[**SwinjectMVVMExampl…**](https://github.com/yoichitgy/SwinjectMVVMExample_ForBlog)|SwinjectMVVMExample project simplified for blog posts.||
 |12|[@ShingoFukuyama](https://github.com/ShingoFukuyama)/[**Swift-Color-Xcode-…**](https://github.com/ShingoFukuyama/Swift-Color-Xcode-Plugin)|Swift version of UIColor/NSColor edit plugin for Xcode||
-|12|[@fhisa](https://github.com/fhisa)/[**SwiftyLayout**](https://github.com/fhisa/SwiftyLayout)|Lightweight declarative auto-layout framework for Swift||
 |12|[@fumiyasac](https://github.com/fumiyasac)/[**DatabasePersistenc…**](https://github.com/fumiyasac/DatabasePersistencePattern)|[ING]RealmとCoreDataでのデータロジック比較の食べ物写真投稿サンプルアプリ（iOS Sample Study: Swift）||
 |12|[@fumiyasac](https://github.com/fumiyasac)/[**WebViewGraphOfSwif…**](https://github.com/fumiyasac/WebViewGraphOfSwift)|[ING]WebViewとChart.jsでグラフ表示をする＆Realmを使ったカロリー記録サンプルアプリ（iOS Sample Study: Swift）||
 |12|[@giginet](https://github.com/giginet)/[**JSONMatcher**](https://github.com/giginet/JSONMatcher)|A JSON matcher extension in Swift for Nimble||
@@ -325,6 +347,7 @@
 |12|[@mokemokechicken](https://github.com/mokemokechicken)/[**EventCenter**](https://github.com/mokemokechicken/EventCenter)|Swift Library of Type Safe Event Notification like Android's EventBus.||
 |12|[@pixyzehn](https://github.com/pixyzehn)/[**PackageBuilder**](https://github.com/pixyzehn/PackageBuilder)|PackageBuilder builds a simple command-line structure by SwiftPM.||
 |12|[@tnantoka](https://github.com/tnantoka)/[**IconCreator**](https://github.com/tnantoka/IconCreator)|Create app icons on Swift playground.|[:arrow_upper_right:](http://qiita.com/tnantoka/items/9ca884dad8445ca71026)|
+|11|[@WorldDownTown](https://github.com/WorldDownTown)/[**DisplayLinkSample**](https://github.com/WorldDownTown/DisplayLinkSample)|CADisplayLink Sample with Swift||
 |11|[@gfx](https://github.com/gfx)/[**Swift-MultiThreadi…**](https://github.com/gfx/Swift-MultiThreading)|A demo code for synchronization in Swift|[:arrow_upper_right:](http://qiita.com/gfx/items/532f9f975de5a965c58a)|
 |11|[@hirohisa](https://github.com/hirohisa)/[**Shelf**](https://github.com/hirohisa/Shelf)|Shelf is a simple dynamic layout like AppStore for iOS   written in Swift.||
 |11|[@ishkawa](https://github.com/ishkawa)/[**talks**](https://github.com/ishkawa/talks)|||
@@ -357,6 +380,7 @@
 |9|[@nakajijapan](https://github.com/nakajijapan)/[**UIColor-Hex**](https://github.com/nakajijapan/UIColor-Hex)|Initializes the UIColor using hexadecimal.||
 |9|[@nakajijapan](https://github.com/nakajijapan)/[**teiten**](https://github.com/nakajijapan/teiten)|Teiten is an app that fixed-point observation a lot earnestly yourself by using a PC camera. 定点観測アプリ|[:arrow_upper_right:](http://teiten.nakajijapan.net/)|
 |9|[@naoty](https://github.com/naoty)/[**flock**](https://github.com/naoty/flock)|Object graph in Swift||
+|9|[@nhamada](https://github.com/nhamada)/[**DevHelperToolkit**](https://github.com/nhamada/DevHelperToolkit)|Helper Toolkit for Swift Developers||
 |9|[@okmr-d](https://github.com/okmr-d)/[**DOCheckbox**](https://github.com/okmr-d/DOCheckbox)|checkbox for ios||
 |9|[@onevcat](https://github.com/onevcat)/[**NeuralNetworkLearn…**](https://github.com/onevcat/NeuralNetworkLearning)|||
 |9|[@safx](https://github.com/safx)/[**Lensy**](https://github.com/safx/Lensy)|Simple Lens for Swift||
@@ -364,11 +388,14 @@
 |9|[@slightair](https://github.com/slightair)/[**GarageClientSwift**](https://github.com/slightair/GarageClientSwift)|Swift client library for the Garage application API||
 |9|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**AOR**](https://github.com/xxxAIRINxxx/AOR)|Wrapper of NSAttributedString and Text Kit. written in Swift.||
 |8|[@EZ-NET](https://github.com/EZ-NET)/[**ESNotification**](https://github.com/EZ-NET/ESNotification)|A type-safe notification management system for iOS/OSX written in Swift 2.||
+|8|[@HIkaruSato](https://github.com/HIkaruSato)/[**PPParticleButton**](https://github.com/HIkaruSato/PPParticleButton)|PPEffectButton is a UIButton subClass it has a cool effect, even though it can be used anywhere you can use a UIButton.||
 |8|[@ShingoFukuyama](https://github.com/ShingoFukuyama)/[**3DTouchDetectState…**](https://github.com/ShingoFukuyama/3DTouchDetectStateOfPeekPopCancel)|Swift sample code: Detect 3D Touch Peek/Pop and Peek-Cancel||
+|8|[@UsrNameu1](https://github.com/UsrNameu1)/[**TraverSwift**](https://github.com/UsrNameu1/TraverSwift)|A thin framework for swift's Collection||
 |8|[@azu](https://github.com/azu)/[**AssertOperator**](https://github.com/azu/AssertOperator)|=====>  AssertOperator in Swift||
 |8|[@fumiyasac](https://github.com/fumiyasac)/[**FundamentalContain…**](https://github.com/fumiyasac/FundamentalContainerView)|[ING]StoryboardとContainerViewを活用した複雑なUIを実現するサンプルアプリ（iOS Sample Study: Swift）||
 |8|[@fumiyasac](https://github.com/fumiyasac)/[**mediaStyleTableVie…**](https://github.com/fumiyasac/mediaStyleTableViewSet)|[ING] ECやメディア系のアプリでよくある遷移時のカスタムトランジションやアニメーションを活用した「写真を生かすUI」のサンプル||
 |8|[@griffin-stewie](https://github.com/griffin-stewie)/[**clg**](https://github.com/griffin-stewie/clg)|Supports generate clr file or code from ASE file a.k.a. "Adobe Swatch Exchange" etc.||
+|8|[@henry0312](https://github.com/henry0312)/[**KonachanFrame**](https://github.com/henry0312/KonachanFrame)|a photo frame app written in Swift||
 |8|[@higepon](https://github.com/higepon)/[**Spark-Core-Example…**](https://github.com/higepon/Spark-Core-Examples)|Spark Core Examples step by step||
 |8|[@himaratsu](https://github.com/himaratsu)/[**SwiftyTableViewCon…**](https://github.com/himaratsu/SwiftyTableViewControllerPlayground)|||
 |8|[@kan](https://github.com/kan)/[**ime-switcher**](https://github.com/kan/ime-switcher)|IME switch key manager for macOS||
@@ -385,9 +412,10 @@
 |8|[@sgr-ksmt](https://github.com/sgr-ksmt)/[**DTFont**](https://github.com/sgr-ksmt/DTFont)|DynamicTypeFont helper. Easy creation, custom font etc.||
 |8|[@sgr-ksmt](https://github.com/sgr-ksmt)/[**Once**](https://github.com/sgr-ksmt/Once)|Execute closure just once!!! Once is a micro framework.||
 |8|[@sgr-ksmt](https://github.com/sgr-ksmt)/[**Shrimp**](https://github.com/sgr-ksmt/Shrimp)| Shrimp is Firebase-RemoteConfig helper library.||
+|8|[@shogo4405](https://github.com/shogo4405)/[**GPUHaishinKit.swif…**](https://github.com/shogo4405/GPUHaishinKit.swift)|Camera and Microphone streaming library via RTMP, HLS for iOS. Powered  by GPUImage + HaishinKit(lf).||
 |8|[@soutaro](https://github.com/soutaro)/[**SMHTTPClient**](https://github.com/soutaro/SMHTTPClient)|HTTP/1.1 client, based on socket||
+|8|[@tattn](https://github.com/tattn)/[**SwiftRunner**](https://github.com/tattn/SwiftRunner)|SwiftRunner can execute string written in Swift on runtime.||
 |8|[@tnantoka](https://github.com/tnantoka)/[**AppBoard**](https://github.com/tnantoka/AppBoard)|A open source portfolio app for iOS developers.||
-|8|[@ya-s-u](https://github.com/ya-s-u)/[**TRART**](https://github.com/ya-s-u/TRART)|Music player app written in Swift||
 |7|[@1000ch](https://github.com/1000ch)/[**PinFeed**](https://github.com/1000ch/PinFeed)|A simple Pinboard client for iOS focusing to timeline which you follow.|[:arrow_upper_right:](http://bit.ly/pinfeed)|
 |7|[@1024jp](https://github.com/1024jp)/[**WFColorCode**](https://github.com/1024jp/WFColorCode)|NSColor extension adding ability to handle HSL color space and CSS3 style color codes||
 |7|[@NikoYuwono](https://github.com/NikoYuwono)/[**Genetic-Swift**](https://github.com/NikoYuwono/Genetic-Swift)|Genetic Algorithm Created in Swift||
@@ -399,11 +427,13 @@
 |7|[@gfx](https://github.com/gfx)/[**Swift-SwiftEither**](https://github.com/gfx/Swift-SwiftEither)|A PoC of an ideal error handling in Swift||
 |7|[@griffin-stewie](https://github.com/griffin-stewie)/[**TapTicFeedbackSamp…**](https://github.com/griffin-stewie/TapTicFeedbackSample)|Sample code for UINotificationFeedbackGenerator and UIImpactFeedbackGenerator on iPhone 7 and iPhone 7 Plus||
 |7|[@ikesyo](https://github.com/ikesyo)/[**silver_android_sam…**](https://github.com/ikesyo/silver_android_sample)|An Android sample project of RemObjects Silver|[:arrow_upper_right:](http://www.elementscompiler.com/elements/silver/)|
+|7|[@inamiy](https://github.com/inamiy)/[**DDFileReader**](https://github.com/inamiy/DDFileReader)|Swift port of DDFileReader by Dave DeLong (http://stackoverflow.com/a/3711079/666371)||
 |7|[@ishkawa](https://github.com/ishkawa)/[**APIKit-AlamofireAd…**](https://github.com/ishkawa/APIKit-AlamofireAdapter)|Alamofire adapter for APIKit.Session (alpha).||
 |7|[@ken0nek](https://github.com/ken0nek)/[**SmileSwift**](https://github.com/ken0nek/SmileSwift)|:smile: Capture your smile.|[:arrow_upper_right:](http://qiita.com/ken0nek/items/4504a13bf58eb78c2538)|
 |7|[@kenmaz](https://github.com/kenmaz)/[**iOS9_safariVCSampl…**](https://github.com/kenmaz/iOS9_safariVCSample)|Sample App using iOS9 SFSafariViewController||
 |7|[@kentya6](https://github.com/kentya6)/[**NexturnController**](https://github.com/kentya6/NexturnController)|Nexturn(BLE device) control from iOS.||
 |7|[@koogawa](https://github.com/koogawa)/[**GPSLoggerRealmSwif…**](https://github.com/koogawa/GPSLoggerRealmSwift)|GPS Logger with Realm Swift 3.0|[:arrow_upper_right:](http://blog.koogawa.com/entry/2015/08/02/151452)|
+|7|[@muukii-archive](https://github.com/muukii-archive)/[**HTTPLogger**](https://github.com/muukii-archive/HTTPLogger)|Logging HTTP Request of NSURLSession.||
 |7|[@ngs](https://github.com/ngs)/[**mindstorms-nxt-pla…**](https://github.com/ngs/mindstorms-nxt-playground-book)||[:arrow_upper_right:](https://ja.ngs.io/2017/03/04/nxt-swift-playgrounds/)|
 |7|[@noppoMan](https://github.com/noppoMan)/[**Thrush**](https://github.com/noppoMan/Thrush)|A lightweight promise implementation without threading for Swift||
 |7|[@oggata](https://github.com/oggata)/[**GeolocationCameraD…**](https://github.com/oggata/GeolocationCameraDemo)|This is iOS Camera App Sample Project in Swift Language.||
@@ -413,18 +443,19 @@
 |7|[@questbeat](https://github.com/questbeat)/[**PageMenu**](https://github.com/questbeat/PageMenu)|View controller container which provides the paged views with menus.||
 |7|[@ra1028](https://github.com/ra1028)/[**OwnKit**](https://github.com/ra1028/OwnKit)|My own utility toolkit for ios||
 |7|[@safx](https://github.com/safx)/[**Cron-Swift**](https://github.com/safx/Cron-Swift)|Cron for Swift||
+|7|[@sotozaki](https://github.com/sotozaki)/[**SOTProgressHUD**](https://github.com/sotozaki/SOTProgressHUD)|SOTProgressHUD is a lightweight progress HUD for iOS app in Swift2.0.||
 |7|[@touyu](https://github.com/touyu)/[**Portannict**](https://github.com/touyu/Portannict)|:iphone: Annict Client App for iOS. Twitter-like UI.|[:arrow_upper_right:](https://annict.com/userland/projects/3)|
 |7|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**ARNHeaderStretchFl…**](https://github.com/xxxAIRINxxx/ARNHeaderStretchFlowLayout-Swift)|Custom UICollectionViewFlowLayout. (Swift lang)||
 |7|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**ARNPageContainer-S…**](https://github.com/xxxAIRINxxx/ARNPageContainer-Swift)|Horizontal Scroll Paging ViewController Container. (Swift lang)||
 |7|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**ContainerInteracti…**](https://github.com/xxxAIRINxxx/ContainerInteractiveTransitionExample)|Examples of interactive transition of ContainerViewController. (UIPercentDrivenInteractiveTransition)||
 |7|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**SwAPNs**](https://github.com/xxxAIRINxxx/SwAPNs)|Wrap the Apple Push Notification Service (Remote Notification) written in Swift.||
 |7|[@yashigani](https://github.com/yashigani)/[**swift-dependency-i…**](https://github.com/yashigani/swift-dependency-injection)|A sample of dependency injection in Swift||
-|6|[@HIkaruSato](https://github.com/HIkaruSato)/[**PPParticleButton**](https://github.com/HIkaruSato/PPParticleButton)|PPEffectButton is a UIButton subClass it has a cool effect, even though it can be used anywhere you can use a UIButton.||
 |6|[@Harekaze](https://github.com/Harekaze)/[**KokoWalk-iOS**](https://github.com/Harekaze/KokoWalk-iOS)|ココちゃんが歩く。|[:arrow_upper_right:](https://harekaze.org/KokoWalk-iOS/)|
 |6|[@KyoheiG3](https://github.com/KyoheiG3)/[**RxDisplayLink**](https://github.com/KyoheiG3/RxDisplayLink)|RxDisplayLink reactive wrapper for CADisplayLink||
+|6|[@WorldDownTown](https://github.com/WorldDownTown)/[**CarthagePlayground…**](https://github.com/WorldDownTown/CarthagePlayground)|Template of Xcode Playground for testing Carthage libraries.||
 |6|[@dcsan](https://github.com/dcsan)/[**swiftweb**](https://github.com/dcsan/swiftweb)|swift + WKWebView||
 |6|[@glassonion1](https://github.com/glassonion1)/[**R9MIDISequencer**](https://github.com/glassonion1/R9MIDISequencer)|MidiSequencer for iOS on swift||
-|6|[@inamiy](https://github.com/inamiy)/[**DDFileReader**](https://github.com/inamiy/DDFileReader)|Swift port of DDFileReader by Dave DeLong (http://stackoverflow.com/a/3711079/666371)||
+|6|[@joshpc](https://github.com/joshpc)/[**ElasticPullToRefre…**](https://github.com/joshpc/ElasticPullToRefresh)|A pull to refresh control that has a simple, elegant spinner||
 |6|[@lm2343635](https://github.com/lm2343635)/[**Lots**](https://github.com/lm2343635/Lots)|Draw lots iOS app||
 |6|[@marty-suzuki](https://github.com/marty-suzuki)/[**QiitaApiClient**](https://github.com/marty-suzuki/QiitaApiClient)|API client for http://qiita.com/.||
 |6|[@marty-suzuki](https://github.com/marty-suzuki)/[**RxAnyDispatcher**](https://github.com/marty-suzuki/RxAnyDispatcher)|A observer(or observable)-only `Dispatcher` that is used in Flux.||
@@ -440,12 +471,17 @@
 |6|[@sonsongithub](https://github.com/sonsongithub)/[**UZImageCollection**](https://github.com/sonsongithub/UZImageCollection)|Image collection view controller like Photo.app.||
 |6|[@szk-atmosphere](https://github.com/szk-atmosphere)/[**ReuseCellConfigure…**](https://github.com/szk-atmosphere/ReuseCellConfigure)|You can configure ReusableCell without casting!||
 |6|[@tashiro-wni](https://github.com/tashiro-wni)/[**SwiftLocation**](https://github.com/tashiro-wni/SwiftLocation)|CoreLocation in Swift||
+|6|[@toshi0383](https://github.com/toshi0383)/[**xcconfig-extractor…**](https://github.com/toshi0383/xcconfig-extractor)|Refactor target's buildSettings into xcconfigs with one shot🚀||
+|6|[@ukitaka](https://github.com/ukitaka)/[**RxResponderChain**](https://github.com/ukitaka/RxResponderChain)|RxResponderChain||
+|6|[@wantedly](https://github.com/wantedly)/[**reception-swift**](https://github.com/wantedly/reception-swift)|||
 |6|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**SwAlert**](https://github.com/xxxAIRINxxx/SwAlert)|Wrapper of UIAlertView & UIAlertController. (Swift-lang)||
 |6|[@yimajo](https://github.com/yimajo)/[**QiitaAPISwiftDemo**](https://github.com/yimajo/QiitaAPISwiftDemo)|Swift勉強会でLTの補足用デモプロジェクト||
 |6|[@youpy](https://github.com/youpy)/[**ruby-objc-swift-ex…**](https://github.com/youpy/ruby-objc-swift-extension-example)|||
+|6|[@yuzushioh](https://github.com/yuzushioh)/[**sandbox**](https://github.com/yuzushioh/sandbox)|Collection of my talks and demo projects||
 |6|[@zoonooz](https://github.com/zoonooz)/[**TabSwicherView**](https://github.com/zoonooz/TabSwicherView)|Trying to implement view like tab switching in Safari on iPhone||
 |5|[@HIkaruSato](https://github.com/HIkaruSato)/[**SimplePhotoViewer**](https://github.com/HIkaruSato/SimplePhotoViewer)|This is SimplePhotoViewer.||
 |5|[@Kuniwak](https://github.com/Kuniwak)/[**TestableDesignExam…**](https://github.com/Kuniwak/TestableDesignExample)|||
+|5|[@SunsetCalendar](https://github.com/SunsetCalendar)/[**sunset**](https://github.com/SunsetCalendar/sunset)|Available now|[:arrow_upper_right:](https://itunes.apple.com/jp/app/sunset-calendar/id1211209051?l=en&mt=8)|
 |5|[@banjun](https://github.com/banjun)/[**NorthLayout**](https://github.com/banjun/NorthLayout)|The fast path to autolayout views in code||
 |5|[@cocopon](https://github.com/cocopon)/[**Swift-IntroducingO…**](https://github.com/cocopon/Swift-IntroducingOptional)|手を動かしながら、ていねいに学ぶOptional||
 |5|[@fileio](https://github.com/fileio)/[**FLTickerSlider**](https://github.com/fileio/FLTickerSlider)|||
@@ -457,9 +493,9 @@
 |5|[@giginet](https://github.com/giginet)/[**RikoBuster**](https://github.com/giginet/RikoBuster)|||
 |5|[@hayashi311](https://github.com/hayashi311)/[**iosdcjp2016app**](https://github.com/hayashi311/iosdcjp2016app)|||
 |5|[@hedjirog](https://github.com/hedjirog)/[**QiitaFeed**](https://github.com/hedjirog/QiitaFeed)|||
+|5|[@hideyukitone](https://github.com/hideyukitone)/[**DeviceInformation**](https://github.com/hideyukitone/DeviceInformation)|デバイス情報の取得||
 |5|[@jarinosuke](https://github.com/jarinosuke)/[**ModalBlurSample**](https://github.com/jarinosuke/ModalBlurSample)|||
 |5|[@jollyjoester](https://github.com/jollyjoester)/[**SwiftTrial**](https://github.com/jollyjoester/SwiftTrial)|||
-|5|[@joshpc](https://github.com/joshpc)/[**ElasticPullToRefre…**](https://github.com/joshpc/ElasticPullToRefresh)|A pull to refresh control that has a simple, elegant spinner||
 |5|[@kaneshin](https://github.com/kaneshin)/[**EasyInstagramViewe…**](https://github.com/kaneshin/EasyInstagramViewer-Swift)|||
 |5|[@koogawa](https://github.com/koogawa)/[**InteractiveMessagi…**](https://github.com/koogawa/InteractiveMessagingSample)|Watch Connectivity - Interactive Messaging Sample||
 |5|[@kurotaky](https://github.com/kurotaky)/[**shibafoo-ios**](https://github.com/kurotaky/shibafoo-ios)|シバフのiPhoneアプリ||
@@ -471,6 +507,7 @@
 |5|[@mitsuse](https://github.com/mitsuse)/[**mastodon-swift**](https://github.com/mitsuse/mastodon-swift)|A client of Mastodon API for Swift.||
 |5|[@morishin](https://github.com/morishin)/[**RxFluxExample**](https://github.com/morishin/RxFluxExample)|||
 |5|[@muukii](https://github.com/muukii)/[**HTTPLogger**](https://github.com/muukii/HTTPLogger)|Logging HTTP Request of NSURLSession.||
+|5|[@nhamada](https://github.com/nhamada)/[**iOS_Toast**](https://github.com/nhamada/iOS_Toast)|Toast Implementation iOS||
 |5|[@noraesae](https://github.com/noraesae)/[**TerminalVim**](https://github.com/noraesae/TerminalVim)|An OS X application to launch iTerm(or Terminal) Vim from Finder|[:arrow_upper_right:](https://github.com/noraesae/TerminalVim)|
 |5|[@norio-nomura](https://github.com/norio-nomura)/[**DisplayLinkPlayer**](https://github.com/norio-nomura/DisplayLinkPlayer)|AVPlayerItemVideoOutput+CADisplayLink+AVSampleBufferDisplayLayer||
 |5|[@onevcat](https://github.com/onevcat)/[**Math.swift**](https://github.com/onevcat/Math.swift)|Math||
@@ -481,13 +518,16 @@
 |5|[@s-aska](https://github.com/s-aska)/[**Pinwheel**](https://github.com/s-aska/Pinwheel)|||
 |5|[@safx](https://github.com/safx)/[**Metal-CommandLine-…**](https://github.com/safx/Metal-CommandLine-Sample-Swift)|A sample command line app for compute command of Metal, written in Swift||
 |5|[@safx](https://github.com/safx)/[**liquidfun-swift-sa…**](https://github.com/safx/liquidfun-swift-sample)|a sample project for LiquidFun||
+|5|[@shogo4405](https://github.com/shogo4405)/[**KanaSwift**](https://github.com/shogo4405/KanaSwift)|ひらがな⇔カタカナ。全角英数字⇔半角英数字。全角カタカナ⇔半角カタカナ相互変換ライブラリーのSwift版||
 |5|[@sonsongithub](https://github.com/sonsongithub)/[**YouTubeGetVideoInf…**](https://github.com/sonsongithub/YouTubeGetVideoInfoAPIParser)|Swift Library to parse YouTube streaming data from get_video_info API.||
+|5|[@sotozaki](https://github.com/sotozaki)/[**AutomaticiPhoneTap…**](https://github.com/sotozaki/AutomaticiPhoneTap)|AutomaticiPhoneTap using Raspberry Pi||
 |5|[@tnantoka](https://github.com/tnantoka)/[**generative-swift**](https://github.com/tnantoka/generative-swift)|A study for generative design in Swift with Generative Gestaltung book and C4 framework. It's a work in progress. ||
 |5|[@tokorom](https://github.com/tokorom)/[**json2clr**](https://github.com/tokorom/json2clr)|Create color palette file (.clr) from JSON||
 |5|[@ytakzk](https://github.com/ytakzk)/[**swift-socket-examp…**](https://github.com/ytakzk/swift-socket-example)|||
 |4|[@1amageek](https://github.com/1amageek)/[**Antenna**](https://github.com/1amageek/Antenna)|A simple BLE sample code||
 |4|[@MotokiMiyagi](https://github.com/MotokiMiyagi)/[**UIViewVisibility**](https://github.com/MotokiMiyagi/UIViewVisibility)|Extension of UIView such as the visibility property of the view of the Android SDK||
 |4|[@ShinokiRyosei](https://github.com/ShinokiRyosei)/[**Realm-Sampler**](https://github.com/ShinokiRyosei/Realm-Sampler)|Swift3でつくったRealmを用いたTODOアプリのサンプルです||
+|4|[@WorldDownTown](https://github.com/WorldDownTown)/[**BeaconPeripheral**](https://github.com/WorldDownTown/BeaconPeripheral)|iBeacon Peripheral iOS App||
 |4|[@akio0911](https://github.com/akio0911)/[**AKUserDefaults**](https://github.com/akio0911/AKUserDefaults)|NSUserDefaults library with definition of structure||
 |4|[@akio0911](https://github.com/akio0911)/[**CalendarSample**](https://github.com/akio0911/CalendarSample)|UICollectionViewを使ったカレンダーのサンプル||
 |4|[@akisute](https://github.com/akisute)/[**Dove**](https://github.com/akisute/Dove)|Core Data wrapper for Swift||
@@ -505,8 +545,12 @@
 |4|[@krimpedance](https://github.com/krimpedance)/[**KRActivityIndicato…**](https://github.com/krimpedance/KRActivityIndicatorView)|A simple and customizable activity indicator.||
 |4|[@kvvzr](https://github.com/kvvzr)/[**Twinkrun-iOS**](https://github.com/kvvzr/Twinkrun-iOS)|Outside Game Based on Received Signal Strength Indication of Bluetooth|[:arrow_upper_right:](http://twinkrun.net)|
 |4|[@laiso](https://github.com/laiso)/[**ios-examples**](https://github.com/laiso/ios-examples)|||
+|4|[@mokelab](https://github.com/mokelab)/[**Swift-BLEDemo**](https://github.com/mokelab/Swift-BLEDemo)|iOS Swift BLE(Bluetooth Low Energy) demo||
 |4|[@muukii](https://github.com/muukii)/[**DecodeContext**](https://github.com/muukii/DecodeContext)|Swift <- (Any Source ex:JSON)||
 |4|[@muukii](https://github.com/muukii)/[**RESTRequest**](https://github.com/muukii/RESTRequest)|Example usage of BrickRequest|[:arrow_upper_right:](https://github.com/muukii/BrickRequest)|
+|4|[@muukii-archive](https://github.com/muukii-archive)/[**AppVersionChecker**](https://github.com/muukii-archive/AppVersionChecker)|iOS App Version Checker||
+|4|[@muukii-archive](https://github.com/muukii-archive)/[**DecodeContext**](https://github.com/muukii-archive/DecodeContext)|Swift <- (Any Source ex:JSON)||
+|4|[@muukii-archive](https://github.com/muukii-archive)/[**RESTRequest**](https://github.com/muukii-archive/RESTRequest)|Example usage of BrickRequest|[:arrow_upper_right:](https://github.com/muukii/BrickRequest)|
 |4|[@naoty](https://github.com/naoty)/[**BetterFormApp**](https://github.com/naoty/BetterFormApp)|Sample application||
 |4|[@ngs](https://github.com/ngs)/[**onairlog-ios**](https://github.com/ngs/onairlog-ios)|FM で放送された楽曲を検索できる、シンプルな iOS アプリ。|[:arrow_upper_right:](http://littleapps.jp/onairlog813/)|
 |4|[@noppoMan](https://github.com/noppoMan)/[**Skelton**](https://github.com/noppoMan/Skelton)|An asynchronous http server for Swift||
@@ -514,23 +558,35 @@
 |4|[@noppoMan](https://github.com/noppoMan)/[**slimane-github-iss…**](https://github.com/noppoMan/slimane-github-issue-manager)|||
 |4|[@novi](https://github.com/novi)/[**HALAudio**](https://github.com/novi/HALAudio)|CoreAudio Hardware wrapper for Swift||
 |4|[@novi](https://github.com/novi)/[**i2c-swift**](https://github.com/novi/i2c-swift)|I2C Bus Library for Swift||
+|4|[@ota42y](https://github.com/ota42y)/[**corona-clone**](https://github.com/ota42y/corona-clone)|||
 |4|[@pixyzehn](https://github.com/pixyzehn)/[**EsaKit**](https://github.com/pixyzehn/EsaKit)|A Swift framework for the esa.io API|[:arrow_upper_right:](https://pixyzehn.com/EsaKit)|
+|4|[@rkawajiri](https://github.com/rkawajiri)/[**nslogger-swift-exa…**](https://github.com/rkawajiri/nslogger-swift-example)|An example project for using NSLogger with Swift||
 |4|[@seanchas116](https://github.com/seanchas116)/[**swift-qt-experimen…**](https://github.com/seanchas116/swift-qt-experiment)|Experimenting Swift + Qt bindings||
 |4|[@suwa-yuki](https://github.com/suwa-yuki)/[**LocationNotificati…**](https://github.com/suwa-yuki/LocationNotificationSample)|iOS 8 の新機能「LocationNotification」のサンプルアプリです。||
 |4|[@suwa-yuki](https://github.com/suwa-yuki)/[**SamplePresentation…**](https://github.com/suwa-yuki/SamplePresentation)|UIPresentationControllerの実装サンプルです。||
 |4|[@takebayashi](https://github.com/takebayashi)/[**SwallowIO**](https://github.com/takebayashi/SwallowIO)|||
+|4|[@tattn](https://github.com/tattn)/[**TTEventKit**](https://github.com/tattn/TTEventKit)|Convenient event kit in Swift||
 |4|[@temoki](https://github.com/temoki)/[**Tortoise**](https://github.com/temoki/Tortoise)|Tortoise is turtle graphics engine for iOS.||
 |4|[@tnantoka](https://github.com/tnantoka)/[**FlipOneColor**](https://github.com/tnantoka/FlipOneColor)|A Lighits Out Clone on iPhone and Apple Watch.|[:arrow_upper_right:](http://spritekit.jp/update/2015/05/23/flip-one-color/)|
 |4|[@tototti](https://github.com/tototti)/[**wwdc16_typography_…**](https://github.com/tototti/wwdc16_typography_playground)|wwdc16のロゴ(Swiftの予約語でカラフルなアップルロゴを描いたやつ)のようなものを生成します。Playgroundで動作します。||
+|4|[@ukitaka](https://github.com/ukitaka)/[**EastAsianWidth.swi…**](https://github.com/ukitaka/EastAsianWidth.swift)|Extension of Swift String API to deal with East Asian Width|[:arrow_upper_right:](http://www.unicode.org/reports/tr11/)|
+|4|[@ukitaka](https://github.com/ukitaka)/[**Stimulator**](https://github.com/ukitaka/Stimulator)|Custom event handling based on Responder Chain||
+|4|[@vc7](https://github.com/vc7)/[**iOSViewControllerC…**](https://github.com/vc7/iOSViewControllerContainerSample)|||
+|4|[@vc7](https://github.com/vc7)/[**protocolDemoSwift**](https://github.com/vc7/protocolDemoSwift)|2016-11-10 CocoaHeads Taipei 分享的 demo 專案||
 |4|[@walkingmask](https://github.com/walkingmask)/[**kodam_project**](https://github.com/walkingmask/kodam_project)|KODAMA project app's repository||
 |4|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**Chain**](https://github.com/xxxAIRINxxx/Chain)|Method chaining of  queued closure (blocks) on GCD (Grand Central Dispatch) ||
 |4|[@yukiasai](https://github.com/yukiasai)/[**Texi**](https://github.com/yukiasai/Texi)|||
+|4|[@yusuke024](https://github.com/yusuke024)/[**GitHubQL**](https://github.com/yusuke024/GitHubQL)|GitHub GraphQL client in Swift||
+|4|[@yuzushioh](https://github.com/yuzushioh)/[**GithubShokunin**](https://github.com/yuzushioh/GithubShokunin)|GithubShokunin is a Slack bot for making peer coding reviews much easier.||
+|4|[@yuzushioh](https://github.com/yuzushioh)/[**SwiftyUserDefaults…**](https://github.com/yuzushioh/SwiftyUserDefaultsStore)|Wrapper for NSUserDefaults written in Swift||
 |4|[@zaru](https://github.com/zaru)/[**notify_hub**](https://github.com/zaru/notify_hub)|It displays the notification of GitHub to desktop||
 |4|[@zoonooz](https://github.com/zoonooz)/[**Keykulator**](https://github.com/zoonooz/Keykulator)|Sample custom iOS8 keyboard project that let you calculate in keyboard like basic calculator||
 |3|[@1024jp](https://github.com/1024jp)/[**MarkupParser**](https://github.com/1024jp/MarkupParser)|Generic Swift parser framework for lightweight markup languages||
 |3|[@135yshr](https://github.com/135yshr)/[**twift**](https://github.com/135yshr/twift)|Twitter Application of Swift Version||
 |3|[@Mazyod](https://github.com/Mazyod)/[**OrganicPicker**](https://github.com/Mazyod/OrganicPicker)|A completely generic picker control that can easily be customized to fit organically in your UI||
+|3|[@MuShare](https://github.com/MuShare)/[**Tsukuba-iOS**](https://github.com/MuShare/Tsukuba-iOS)|A second hand market app in University of Tsukuba.|[:arrow_upper_right:](https://tsukuba.mushare.cn)|
 |3|[@Ushio](https://github.com/Ushio)/[**EnumJson**](https://github.com/Ushio/EnumJson)|Type Safe, Thread Safe, Easy Object Mapping, Interface Json Library in Swift||
+|3|[@abeyuya](https://github.com/abeyuya)/[**SwiftyHealthKit**](https://github.com/abeyuya/SwiftyHealthKit)|Thin wrapper for iOS HealthKit to use it swifty.||
 |3|[@akio0911](https://github.com/akio0911)/[**SwiftTaskExample**](https://github.com/akio0911/SwiftTaskExample)|SwiftTaskを使ってUIViewのアニメーションを連鎖させるサンプル||
 |3|[@aminaura](https://github.com/aminaura)/[**SwiftBondSampler**](https://github.com/aminaura/SwiftBondSampler)|Simple code examples for SwiftBond||
 |3|[@aminaura](https://github.com/aminaura)/[**VideoReverser**](https://github.com/aminaura/VideoReverser)|Video Reverser reverses video clip and save frames from last to first.||
@@ -558,22 +614,26 @@
 |3|[@koogawa](https://github.com/koogawa)/[**RxSwiftSample**](https://github.com/koogawa/RxSwiftSample)|RxSwiftSample||
 |3|[@krimpedance](https://github.com/krimpedance)/[**KRActivityIndicato…**](https://github.com/krimpedance/KRActivityIndicator)|A simple and customizable activity indicator written in Swift2.||
 |3|[@ktsn](https://github.com/ktsn)/[**float-behind-osx**](https://github.com/ktsn/float-behind-osx)|||
+|3|[@kumabook](https://github.com/kumabook)/[**MusicFeeder**](https://github.com/kumabook/MusicFeeder)|Utility library of Feedly API for Music Application||
 |3|[@kurotaky](https://github.com/kurotaky)/[**ShibuyaLunch**](https://github.com/kurotaky/ShibuyaLunch)|Yo||
 |3|[@masuhara](https://github.com/masuhara)/[**AppAnnie-Sampler**](https://github.com/masuhara/AppAnnie-Sampler)|||
 |3|[@moongift](https://github.com/moongift)/[**NCMBiOSCamera**](https://github.com/moongift/NCMBiOSCamera)|ニフティクラウド mobile backendのファイルストアを使ったデモアプリです。||
 |3|[@moongift](https://github.com/moongift)/[**NCMBiOSTodo**](https://github.com/moongift/NCMBiOSTodo)|NCMBを使ったTodoアプリのデモです。||
+|3|[@morishin](https://github.com/morishin)/[**BetterUserDefaults…**](https://github.com/morishin/BetterUserDefaults)|UserDefaults Swift Extensions|[:arrow_upper_right:](http://morishin.hatenablog.com/entry/swifty-userdefaults)|
 |3|[@muukii](https://github.com/muukii)/[**AppVersionChecker**](https://github.com/muukii/AppVersionChecker)|iOS App Version Checker||
 |3|[@muukii](https://github.com/muukii)/[**CircleWaveAnimatio…**](https://github.com/muukii/CircleWaveAnimation-Playground)|||
 |3|[@muukii](https://github.com/muukii)/[**L10n.swift**](https://github.com/muukii/L10n.swift)|Generate Localizable.strings from yaml (Work in progress)||
 |3|[@muukii](https://github.com/muukii)/[**RxAssert**](https://github.com/muukii/RxAssert)|Check element in Stream||
 |3|[@muukii](https://github.com/muukii)/[**Unwrap**](https://github.com/muukii/Unwrap)|let _self = try self.unwrapped()||
 |3|[@muukii](https://github.com/muukii)/[**ViewFinder**](https://github.com/muukii/ViewFinder)|Find the UI Component by accessibilityIdentifier from AppDelegate.window||
+|3|[@nafu](https://github.com/nafu)/[**treehouse-build-a-…**](https://github.com/nafu/treehouse-build-a-weather-app-with-swift)|Build a Weather App with Swift of Treehouse course||
 |3|[@nakaji-dayo](https://github.com/nakaji-dayo)/[**MapLibraryWrapper**](https://github.com/nakaji-dayo/MapLibraryWrapper)|Wrapper for iOS Map libraries(e.g. MapKit, Google Maps). written in Swift.||
 |3|[@naoty](https://github.com/naoty)/[**LowpassStreamSampl…**](https://github.com/naoty/LowpassStreamSample)|Low-pass filter implementation using Stream||
 |3|[@naoty](https://github.com/naoty)/[**Playground**](https://github.com/naoty/Playground)|:baby_chick: Experimental projects :baby_chick:||
 |3|[@naoty](https://github.com/naoty)/[**TQKey-Swift**](https://github.com/naoty/TQKey-Swift)|TQKey app written by Swift||
 |3|[@naoyashiga](https://github.com/naoyashiga)/[**LegendRadio**](https://github.com/naoyashiga/LegendRadio)|ラジオ番組「放送室」が聞けるアプリです。||
 |3|[@nghialv](https://github.com/nghialv)/[**VersionTracker**](https://github.com/nghialv/VersionTracker)|Tracking the app version||
+|3|[@nolili](https://github.com/nolili)/[**BluetoothExampleTV…**](https://github.com/nolili/BluetoothExampleTV)|CoreBluetooth Example for tvOS||
 |3|[@noppoMan](https://github.com/noppoMan)/[**TSSS-JSONRPCServer…**](https://github.com/noppoMan/TSSS-JSONRPCServer)|A tiny implementation of JSON RPC Server to be used in Tokyo Server Side Meetup#5 session.|[:arrow_upper_right:](https://tokyo-ss-swift.connpass.com/event/46130/)|
 |3|[@novi](https://github.com/novi)/[**proconapp**](https://github.com/novi/proconapp)|高専プログラミングコンテスト公式 App||
 |3|[@novi](https://github.com/novi)/[**tsssm-crawler**](https://github.com/novi/tsssm-crawler)|Demonstrates how to implement simple RSS crawler in Server-Side Swift with Cocoa based Management tools|[:arrow_upper_right:](http://tokyo-ss-swift.connpass.com/event/33727/)|
@@ -592,9 +652,13 @@
 |3|[@starhoshi](https://github.com/starhoshi)/[**MenuBarColor**](https://github.com/starhoshi/MenuBarColor)|MenuBarColor - OSX Application. (Swift)||
 |3|[@starhoshi](https://github.com/starhoshi)/[**pi-chan**](https://github.com/starhoshi/pi-chan)|esa.io ios client.|[:arrow_upper_right:](https://itunes.apple.com/jp/app/pichan-unofficial-esa.io-client./id1107328970?mt=8)|
 |3|[@starhoshi](https://github.com/starhoshi)/[**pi-chan2**](https://github.com/starhoshi/pi-chan2)|esa.io ios client. https://itunes.apple.com/jp/app/pichan-unofficial-esa.io-client./id1107328970?mt=8||
+|3|[@tattn](https://github.com/tattn)/[**Coding**](https://github.com/tattn/Coding)|Coding is more Swifty NSCoding. It can archive even pure Swift class and struct.||
 |3|[@thammin](https://github.com/thammin)/[**RainbowBridge**](https://github.com/thammin/RainbowBridge)|A native bridge that using WKScriptMessageHandler to expose native function to JavaScript||
+|3|[@tikasan](https://github.com/tikasan)/[**eventoryiOS**](https://github.com/tikasan/eventoryiOS)|||
 |3|[@tnantoka](https://github.com/tnantoka)/[**What-s-New-in-Spri…**](https://github.com/tnantoka/What-s-New-in-SpriteKit-on-iOS-10)|The examples of SKTileMapNode, SKWarpGeometryGrid and GKNoise.||
 |3|[@tnantoka](https://github.com/tnantoka)/[**swift-playground**](https://github.com/tnantoka/swift-playground)|My Swift playground|[:arrow_upper_right:](http://swift.bornneet.com/)|
+|3|[@to4iki](https://github.com/to4iki)/[**EitherSwift**](https://github.com/to4iki/EitherSwift)|Instances of Either are either an instance of Left or Right||
+|3|[@to4iki](https://github.com/to4iki)/[**Monocle**](https://github.com/to4iki/Monocle)|a Lens library||
 |3|[@waynezhang](https://github.com/waynezhang)/[**JLCloudKitSync**](https://github.com/waynezhang/JLCloudKitSync)|Sync CoreData with CloudKit||
 |3|[@xxxAIRINxxx](https://github.com/xxxAIRINxxx)/[**ARNPagingTransitio…**](https://github.com/xxxAIRINxxx/ARNPagingTransition)|Custom transition for PresentViewController (Swift lang)||
 |3|[@y-hryk](https://github.com/y-hryk)/[**MovieAppDemo**](https://github.com/y-hryk/MovieAppDemo)|||
@@ -605,5 +669,6 @@
 |3|[@yoshiki](https://github.com/yoshiki)/[**YKParallaxHeaderVi…**](https://github.com/yoshiki/YKParallaxHeaderView)|Parallax View for UITableView||
 |3|[@ytakzk](https://github.com/ytakzk)/[**Swift-Alamofire-Fo…**](https://github.com/ytakzk/Swift-Alamofire-For-Qiita)|A viewer for Qiita articles about Swift using Alamofire ||
 |3|[@yukiasai](https://github.com/yukiasai)/[**Synco**](https://github.com/yukiasai/Synco)|Simple @syncronized for Swift.||
+|3|[@yuzushioh](https://github.com/yuzushioh)/[**RxOperators**](https://github.com/yuzushioh/RxOperators)|||
 |3|[@zoonooz](https://github.com/zoonooz)/[**KanjiGlance**](https://github.com/zoonooz/KanjiGlance)|||
 

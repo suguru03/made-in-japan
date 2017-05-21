@@ -14,6 +14,7 @@
 |6|[@MakeNowJust](https://github.com/MakeNowJust)/[**8cc.cr**](https://github.com/MakeNowJust/8cc.cr)|compile-time C compiler implemented as Crystal macros||
 |6|[@dmytro](https://github.com/dmytro)/[**shell.cr**](https://github.com/dmytro/shell.cr)|Small simplistic helper class for executing shell commands in Crystal.||
 |6|[@rhysd](https://github.com/rhysd)/[**crdoc**](https://github.com/rhysd/crdoc)|CLI tool to search and open documentation for Crystal language||
+|5|[@5t111111](https://github.com/5t111111)/[**ruby_extension_wit…**](https://github.com/5t111111/ruby_extension_with_crystal)|||
 |5|[@karupanerura](https://github.com/karupanerura)/[**router-simple.cr**](https://github.com/karupanerura/router-simple.cr)|simple path router inspired by Router::Simple.||
 |4|[@dtan4](https://github.com/dtan4)/[**aws4_signer.cr**](https://github.com/dtan4/aws4_signer.cr)|||
 |3|[@MakeNowJust](https://github.com/MakeNowJust)/[**tap**](https://github.com/MakeNowJust/tap)|TAP (Test Anything Protocol) test framework for Crystal|[:arrow_upper_right:](https://testanything.org/)|

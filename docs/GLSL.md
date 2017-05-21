@@ -28,7 +28,9 @@
 |4|[@hiroakioishi](https://github.com/hiroakioishi)/[**UnityImageEffects**](https://github.com/hiroakioishi/UnityImageEffects)|Post Processing Effects for Unity||
 |4|[@mattatz](https://github.com/mattatz)/[**unity-lbm-fluid-si…**](https://github.com/mattatz/unity-lbm-fluid-simulation)|Lattice Boltzmann Method (LBM) fluid simulation for Unity.||
 |4|[@mattatz](https://github.com/mattatz)/[**unity-lbm-ink-simu…**](https://github.com/mattatz/unity-lbm-ink-simulation)|Lattice Boltzmann Method (LBM) ink simulation for Unity.||
+|4|[@nakamura001](https://github.com/nakamura001)/[**Unity-CameraMask**](https://github.com/nakamura001/Unity-CameraMask)|カメラの前にマスク用のテクスチャを置いて、背景の前に別のカメラの画像を円形で表示するサンプル。||
 |4|[@nobnak](https://github.com/nobnak)/[**SimpleFluidTest**](https://github.com/nobnak/SimpleFluidTest)|||
+|3|[@KageKirin](https://github.com/KageKirin)/[**Unity-UnifiedSurfa…**](https://github.com/KageKirin/Unity-UnifiedSurfaceShaders)|Unified Surface Shaders for Unity||
 |3|[@baku89](https://github.com/baku89)/[**ATA**](https://github.com/baku89/ATA)|Tools for "Olga Bell - ATA"|[:arrow_upper_right:](http://baku89.com/work/ata)|
 |3|[@keijiro](https://github.com/keijiro)/[**ColorSpaceTest**](https://github.com/keijiro/ColorSpaceTest)|||
 |3|[@nobnak](https://github.com/nobnak)/[**WaterColorFilter**](https://github.com/nobnak/WaterColorFilter)|||

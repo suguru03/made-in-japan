@@ -5,5 +5,7 @@
 |7|[@matsumotory](https://github.com/matsumotory)/[**docker-ngx_mruby**](https://github.com/matsumotory/docker-ngx_mruby)|ngx_mruby using docker||
 |6|[@matsumoto-r](https://github.com/matsumoto-r)/[**docker-ngx_mruby**](https://github.com/matsumoto-r/docker-ngx_mruby)|ngx_mruby using docker||
 |6|[@matsuu](https://github.com/matsuu)/[**docker-isucon**](https://github.com/matsuu/docker-isucon)|Dockerfile for isucon||
+|5|[@int128](https://github.com/int128)/[**devops-compose**](https://github.com/int128/devops-compose)|DevOps tools on Docker Compose||
 |4|[@morizyun](https://github.com/morizyun)/[**centos_ansible_rai…**](https://github.com/morizyun/centos_ansible_rails)|Ansible code for basic Rails web server on CentOS 6.5||
+|3|[@hiroshi](https://github.com/hiroshi)/[**docker-dns-proxy**](https://github.com/hiroshi/docker-dns-proxy)|app1.example.00:80 -> (dnsmasq, nginx) -> "app1.example" container in "00" custom docker 1.9 network||
 

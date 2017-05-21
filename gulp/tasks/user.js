@@ -36,10 +36,11 @@ gulp.task('user:save:all', ['validate'], () => {
   const array = locations.slice(index).concat(locations.slice(0, index));
   return new MadeIn({ tokens })
     .getDevelopers(array, page)
-    .then(({ location, page }) => {
-      console.log('user:save:all', 'finished', location, page);
-      info.location = location;
-      info.location_page = page;
+    .then(res => {
+      res = res || {};
+      console.log('user:save:all', 'finished', res);
+      info.location = res.location;
+      info.location_page = res.page;
       fs.writeFileSync(infopath, JSON.stringify(info, null, 2), 'utf8');
     });
 });

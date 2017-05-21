@@ -23,7 +23,7 @@
 |4|[@pocketberserker](https://github.com/pocketberserker)/[**Diff.Match.Patch**](https://github.com/pocketberserker/Diff.Match.Patch)|||
 |4|[@pocketberserker](https://github.com/pocketberserker)/[**PEGStudy**](https://github.com/pocketberserker/PEGStudy)|PEGと構文解析に関するアレコレの勉強会 Vol.1用に作ったもの置き場||
 |4|[@teramonagi](https://github.com/teramonagi)/[**ArithmeticEvaluati…**](https://github.com/teramonagi/ArithmeticEvaluation)|Simple Calculator||
-|3|[@callmekohei](https://github.com/callmekohei)/[**Neovimfs**](https://github.com/callmekohei/Neovimfs)|Neovimfs is that Fsi and intellisense works on Suave server.||
+|3|[@callmekohei](https://github.com/callmekohei)/[**Neovimfs**](https://github.com/callmekohei/Neovimfs)|Neovimfs is a web app hosted on local Suave server and it provides auto completion list for F# code.||
 |3|[@pocketberserker](https://github.com/pocketberserker)/[**ContMonadStudy**](https://github.com/pocketberserker/ContMonadStudy)|継続モナド勉強用のなんとか||
 |3|[@pocketberserker](https://github.com/pocketberserker)/[**FCure**](https://github.com/pocketberserker/FCure)|||
 |3|[@pocketberserker](https://github.com/pocketberserker)/[**FsSampleKinectAppl…**](https://github.com/pocketberserker/FsSampleKinectApplication)|||

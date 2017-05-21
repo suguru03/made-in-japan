@@ -5,6 +5,7 @@
 |27|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
 |24|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
 |24|[@thorikawa](https://github.com/thorikawa)/[**AndroidObjectRecog…**](https://github.com/thorikawa/AndroidObjectRecognition)|App to demo using android camera and recognize specific object.||
+|14|[@kotet](https://github.com/kotet)/[**progress**](https://github.com/kotet/progress)|Easy progress reporting for D||
 |12|[@repeatedly](https://github.com/repeatedly)/[**yajl-d**](https://github.com/repeatedly/yajl-d)|YAJL binding for D||
 |10|[@repeatedly](https://github.com/repeatedly)/[**xxhash-d**](https://github.com/repeatedly/xxhash-d)|D implementation of xxhash||
 |9|[@repeatedly](https://github.com/repeatedly)/[**d-volkswagen**](https://github.com/repeatedly/d-volkswagen)|Volkswagen detects when your tests are being run in a CI server, and makes them pass.||
@@ -34,6 +35,7 @@
 |3|[@Pctg-x8](https://github.com/Pctg-x8)/[**objective-gl**](https://github.com/Pctg-x8/objective-gl)|High-level OpenGL Wrapper/Helper||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**jsonParser**](https://github.com/alphaKAI/jsonParser)|Yet Another JSON parser for D.||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**xhvm**](https://github.com/alphaKAI/xhvm)|The Xhyve VM Manager||
+|3|[@koji-kojiro](https://github.com/koji-kojiro)/[**matplotlib-d**](https://github.com/koji-kojiro/matplotlib-d)|||
 |3|[@nanase](https://github.com/nanase)/[**dux**](https://github.com/nanase/dux)|ux implementation for D||
 |3|[@tanitta](https://github.com/tanitta)/[**mastodon-d**](https://github.com/tanitta/mastodon-d)|mastodon API Wrapper for dlang||
 |3|[@tanitta](https://github.com/tanitta)/[**unitro**](https://github.com/tanitta/unitro)|||

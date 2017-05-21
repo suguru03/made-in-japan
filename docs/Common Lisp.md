@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |606|[@fukamachi](https://github.com/fukamachi)/[**clack**](https://github.com/fukamachi/clack)|Web application environment for Common Lisp||
-|531|[@fukamachi](https://github.com/fukamachi)/[**woo**](https://github.com/fukamachi/woo)|A fast non-blocking HTTP server on top of libev|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Woo_(kaiju))|
+|532|[@fukamachi](https://github.com/fukamachi)/[**woo**](https://github.com/fukamachi/woo)|A fast non-blocking HTTP server on top of libev|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Woo_(kaiju))|
 |421|[@fukamachi](https://github.com/fukamachi)/[**caveman**](https://github.com/fukamachi/caveman)|Lightweight web application framework for Common Lisp.|[:arrow_upper_right:](http://8arrow.org/caveman/)|
 |261|[@fukamachi](https://github.com/fukamachi)/[**fast-http**](https://github.com/fukamachi/fast-http)|A fast HTTP request/response parser for Common Lisp.||
 |129|[@fukamachi](https://github.com/fukamachi)/[**prove**](https://github.com/fukamachi/prove)|Yet another unit testing framework for Common Lisp||
@@ -101,7 +101,6 @@
 |5|[@fukamachi](https://github.com/fukamachi)/[**ponzu.db**](https://github.com/fukamachi/ponzu.db)|O/R Mapper, a part of Ponzu Framework, for Common Lisp||
 |5|[@guicho271828](https://github.com/guicho271828)/[**file-local-variabl…**](https://github.com/guicho271828/file-local-variable)|File-local variable independent from ASDF||
 |5|[@guicho271828](https://github.com/guicho271828)/[**recursive-macroexp…**](https://github.com/guicho271828/recursive-macroexpansion)|Provides another `macroexpand`||
-|5|[@ichiban](https://github.com/ichiban)/[**cl-jack**](https://github.com/ichiban/cl-jack)|a thin JACK Audio Conection Kit wrapper written in Common Lisp||
 |5|[@imasahiro](https://github.com/imasahiro)/[**femtoutil**](https://github.com/imasahiro/femtoutil)|utility||
 |5|[@sile](https://github.com/sile)/[**cl-dawg**](https://github.com/sile/cl-dawg)|Direct Acyclic Word Graph||
 |5|[@takagi](https://github.com/takagi)/[**cl-voxelize**](https://github.com/takagi/cl-voxelize)|Cl-voxelize is a library to convert polygon models into voxel models for particle-based physics simulation.||
@@ -115,6 +114,8 @@
 |4|[@guicho271828](https://github.com/guicho271828)/[**hypercast**](https://github.com/guicho271828/hypercast)|H Y P E R C A S T||
 |4|[@guicho271828](https://github.com/guicho271828)/[**trivialib.red-blac…**](https://github.com/guicho271828/trivialib.red-black-tree)|based on optima-red-black-tree||
 |4|[@hamano](https://github.com/hamano)/[**lispbot**](https://github.com/hamano/lispbot)|ircbot for lisp||
+|4|[@ichiban](https://github.com/ichiban)/[**cl-jack**](https://github.com/ichiban/cl-jack)|a thin JACK Audio Conection Kit wrapper written in Common Lisp||
+|4|[@onixie](https://github.com/onixie)/[**sb-mgraph**](https://github.com/onixie/sb-mgraph)|SBCL Memory Graph||
 |4|[@pocket7878](https://github.com/pocket7878)/[**cl-libsoundio**](https://github.com/pocket7878/cl-libsoundio)|CFFI wrapper of libsoundio (https://github.com/andrewrk/libsoundio) for Common Lisp||
 |4|[@sile](https://github.com/sile)/[**hamt**](https://github.com/sile/hamt)|An implementatin of Hash Array Mapped Trie.||
 |4|[@sile](https://github.com/sile)/[**jenkins-hash**](https://github.com/sile/jenkins-hash)|jenkins hash function||
@@ -133,9 +134,9 @@
 |3|[@mathematical-systems](https://github.com/mathematical-systems)/[**cffi-fortran**](https://github.com/mathematical-systems/cffi-fortran)|Fortran binding macros for CFFI||
 |3|[@mathematical-systems](https://github.com/mathematical-systems)/[**cl-static-array**](https://github.com/mathematical-systems/cl-static-array)|Macros for accessing foreign arrays using AREF, etc.||
 |3|[@mathematical-systems](https://github.com/mathematical-systems)/[**fork-future**](https://github.com/mathematical-systems/fork-future)|Fork based task-parallelism library for Common Lisp||
+|3|[@matsu911](https://github.com/matsu911)/[**jvm-on-cl**](https://github.com/matsu911/jvm-on-cl)|Java Virtual Machine on Common Lisp||
 |3|[@matsuoka](https://github.com/matsuoka)/[**ctags.l-for-xyzzy**](https://github.com/matsuoka/ctags.l-for-xyzzy)|an extension to use ctags.exe with xyzzy|[:arrow_upper_right:](http://fun.sci.fukuoka-u.ac.jp/wiki/index.php?xyzzy#b93afbd6)|
 |3|[@onixie](https://github.com/onixie)/[**ir1-viewer**](https://github.com/onixie/ir1-viewer)|SBCL IR1 flow viewer||
-|3|[@onixie](https://github.com/onixie)/[**sb-mgraph**](https://github.com/onixie/sb-mgraph)|SBCL Memory Graph||
 |3|[@sile](https://github.com/sile)/[**huffman**](https://github.com/sile/huffman)|An implementation of huffman coding in Common Lisp.||
 |3|[@sile](https://github.com/sile)/[**louds**](https://github.com/sile/louds)|a LOUDS implementation||
 |3|[@sile](https://github.com/sile)/[**mimic**](https://github.com/sile/mimic)|単語分割器Micterの分割部高速化試作||

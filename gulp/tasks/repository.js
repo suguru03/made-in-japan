@@ -35,10 +35,11 @@ function getRepositories(ranker = false) {
   const index = developer ? developers.indexOf(developer) : 0;
   const users = developers.slice(index).concat(developers.slice(0, index));
   return madeIn.getRepositories(users, page)
-    .then(({ developer, page }) => {
-      console.log('getRepositories', 'finished', developer, page);
-      info.developer = developer;
-      info.developer_page = page;
+    .then(res => {
+      res = res || {};
+      console.log('getRepositories', 'finished', res);
+      info.developer = res.developer;
+      info.developer_page = res.page;
       fs.writeFileSync(infopath, JSON.stringify(info, null, 2), 'utf8');
     });
 }

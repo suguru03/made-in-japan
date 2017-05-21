@@ -27,8 +27,8 @@ gulp.task('repo:ranker:save', ['validate'], () => {
 });
 
 function getRepositories(ranker = false) {
-  const { token } = process.env;
-  const madeIn = new MadeIn({ token });
+  const tokens = process.env.token.split(',');
+  const madeIn = new MadeIn({ tokens });
   const developers = ranker ? madeIn.readRankers() : madeIn.readDevelopers();
   const info = require(infopath);
   const { current_developer: developer } = info;

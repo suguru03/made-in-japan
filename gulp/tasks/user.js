@@ -18,7 +18,8 @@ gulp.task('user:save', ['validate'], () => {
     token,
     location
   } = process.env;
-  return new MadeIn({ token }).getDevelopers(location);
+  const tokens = token.split(',');
+  return new MadeIn({ tokens }).getDevelopers(location);
 });
 
 /**
@@ -27,16 +28,18 @@ gulp.task('user:save', ['validate'], () => {
  */
 gulp.task('user:save:all', ['validate'], () => {
 
-  const { token } = process.env;
+  const tokens = process.env.token.split(',');
   const locations = require('../../data/japan.json');
   const info = require(infopath);
-  const { current_location: location } = info;
+  const { location, location_page: page } = info;
   const index = location ? locations.indexOf(info.current_location) : 0;
   const array = locations.slice(index).concat(locations.slice(0, index));
-  return new MadeIn({ token }).getDevelopers(array)
-    .then(({ location }) => {
-      console.log('user:save:all', 'finished', location);
-      info.current_location = location;
+  return new MadeIn({ tokens })
+    .getDevelopers(array, page)
+    .then(({ location, page }) => {
+      console.log('user:save:all', 'finished', location, page);
+      info.location = location;
+      info.location_page = page;
       fs.writeFileSync(infopath, JSON.stringify(info, null, 2), 'utf8');
     });
 });

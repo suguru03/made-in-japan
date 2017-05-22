@@ -10,12 +10,12 @@
 |2|[onevcat](https://github.com/onevcat)|25035|
 |3|[shu223](https://github.com/shu223)|20130|
 |4|[mattn](https://github.com/mattn)|19505|
-|5|[kishikawakatsumi](https://github.com/kishikawakatsumi)|11944|
-|6|[keijiro](https://github.com/keijiro)|11227|
-|7|[amatsuda](https://github.com/amatsuda)|10630|
-|8|[cjwirth](https://github.com/cjwirth)|10260|
-|9|[lepture](https://github.com/lepture)|9642|
-|10|[nagadomi](https://github.com/nagadomi)|9107|
+|5|[Shougo](https://github.com/Shougo)|16409|
+|6|[kishikawakatsumi](https://github.com/kishikawakatsumi)|11944|
+|7|[keijiro](https://github.com/keijiro)|11227|
+|8|[amatsuda](https://github.com/amatsuda)|10630|
+|9|[cjwirth](https://github.com/cjwirth)|10260|
+|10|[lepture](https://github.com/lepture)|9642|
 
 -> [Top 1000 Developers](https://github.com/suguru03/made-in-japan/blob/master/docs/rankers.md)
  
@@ -27,21 +27,21 @@
 |3|[Swift](https://github.com/suguru03/made-in-japan/blob/master/docs/Swift.md)|97085|671|
 |4|[Ruby](https://github.com/suguru03/made-in-japan/blob/master/docs/Ruby.md)|95769|3636|
 |5|[Objective-C](https://github.com/suguru03/made-in-japan/blob/master/docs/Objective-C.md)|77656|1072|
-|6|[Documents](https://github.com/suguru03/made-in-japan/blob/master/docs/Documents.md)|64659|1259|
+|6|[Documents](https://github.com/suguru03/made-in-japan/blob/master/docs/Documents.md)|64801|1266|
 |7|[Go](https://github.com/suguru03/made-in-japan/blob/master/docs/Go.md)|51373|1219|
-|8|[Python](https://github.com/suguru03/made-in-japan/blob/master/docs/Python.md)|41150|1172|
+|8|[Python](https://github.com/suguru03/made-in-japan/blob/master/docs/Python.md)|43433|1175|
 |9|[C++](https://github.com/suguru03/made-in-japan/blob/master/docs/C++.md)|37452|967|
-|10|[C](https://github.com/suguru03/made-in-japan/blob/master/docs/C.md)|30425|981|
-|11|[Shell](https://github.com/suguru03/made-in-japan/blob/master/docs/Shell.md)|24849|713|
-|12|[C#](https://github.com/suguru03/made-in-japan/blob/master/docs/C#.md)|22031|605|
-|13|[Vim script](https://github.com/suguru03/made-in-japan/blob/master/docs/Vim%20script.md)|15170|152|
-|14|[CSS](https://github.com/suguru03/made-in-japan/blob/master/docs/CSS.md)|15022|354|
-|15|[HTML](https://github.com/suguru03/made-in-japan/blob/master/docs/HTML.md)|14239|338|
-|16|[PHP](https://github.com/suguru03/made-in-japan/blob/master/docs/PHP.md)|14018|828|
-|17|[CoffeeScript](https://github.com/suguru03/made-in-japan/blob/master/docs/CoffeeScript.md)|13875|434|
-|18|[Perl](https://github.com/suguru03/made-in-japan/blob/master/docs/Perl.md)|13480|1215|
-|19|[Emacs Lisp](https://github.com/suguru03/made-in-japan/blob/master/docs/Emacs%20Lisp.md)|12519|452|
-|20|[VimL](https://github.com/suguru03/made-in-japan/blob/master/docs/VimL.md)|12322|560|
+|10|[C](https://github.com/suguru03/made-in-japan/blob/master/docs/C.md)|30433|982|
+|11|[Vim script](https://github.com/suguru03/made-in-japan/blob/master/docs/Vim%20script.md)|25309|166|
+|12|[Shell](https://github.com/suguru03/made-in-japan/blob/master/docs/Shell.md)|24849|713|
+|13|[C#](https://github.com/suguru03/made-in-japan/blob/master/docs/C#.md)|22031|605|
+|14|[VimL](https://github.com/suguru03/made-in-japan/blob/master/docs/VimL.md)|16159|575|
+|15|[CSS](https://github.com/suguru03/made-in-japan/blob/master/docs/CSS.md)|15022|354|
+|16|[HTML](https://github.com/suguru03/made-in-japan/blob/master/docs/HTML.md)|14239|338|
+|17|[PHP](https://github.com/suguru03/made-in-japan/blob/master/docs/PHP.md)|14018|828|
+|18|[CoffeeScript](https://github.com/suguru03/made-in-japan/blob/master/docs/CoffeeScript.md)|13875|434|
+|19|[Perl](https://github.com/suguru03/made-in-japan/blob/master/docs/Perl.md)|13480|1215|
+|20|[Emacs Lisp](https://github.com/suguru03/made-in-japan/blob/master/docs/Emacs%20Lisp.md)|12519|452|
 |21|[Lua](https://github.com/suguru03/made-in-japan/blob/master/docs/Lua.md)|10926|55|
 |22|[Scala](https://github.com/suguru03/made-in-japan/blob/master/docs/Scala.md)|6506|348|
 |23|[TypeScript](https://github.com/suguru03/made-in-japan/blob/master/docs/TypeScript.md)|6217|165|

@@ -7,14 +7,14 @@
 |17|[@rhysd](https://github.com/rhysd)/[**Crisp**](https://github.com/rhysd/Crisp)|Lisp dialect implemented with Crystal||
 |14|[@MakeNowJust](https://github.com/MakeNowJust)/[**crystal-diff**](https://github.com/MakeNowJust/crystal-diff)|A Crystal sequence differencing implementation||
 |9|[@kubo39](https://github.com/kubo39)/[**syscall.cr**](https://github.com/kubo39/syscall.cr)|syscall interface for Crystal||
-|9|[@ne-sachirou](https://github.com/ne-sachirou)/[**git-cleanup-branch…**](https://github.com/ne-sachirou/git-cleanup-branch)|Cleanup Git merged branches interactively at both local and remote.||
+|9|[@ne-sachirou](https://github.com/ne-sachirou)/[**git-cleanup-branch**](https://github.com/ne-sachirou/git-cleanup-branch)|Cleanup Git merged branches interactively at both local and remote.||
 |8|[@rhysd](https://github.com/rhysd)/[**ezoe**](https://github.com/rhysd/ezoe)|`ezoe` command written in Crystal||
 |7|[@MakeNowJust](https://github.com/MakeNowJust)/[**tilt**](https://github.com/MakeNowJust/tilt)|TILT Is Loader of Template. It is generalized template engine interface.||
-|7|[@pine](https://github.com/pine)/[**crystal-notify-sla…**](https://github.com/pine/crystal-notify-slack)|:bell: Slack notify CLI tool||
+|7|[@pine](https://github.com/pine)/[**crystal-notify-slack**](https://github.com/pine/crystal-notify-slack)|:bell: Slack notify CLI tool||
 |6|[@MakeNowJust](https://github.com/MakeNowJust)/[**8cc.cr**](https://github.com/MakeNowJust/8cc.cr)|compile-time C compiler implemented as Crystal macros||
 |6|[@dmytro](https://github.com/dmytro)/[**shell.cr**](https://github.com/dmytro/shell.cr)|Small simplistic helper class for executing shell commands in Crystal.||
 |6|[@rhysd](https://github.com/rhysd)/[**crdoc**](https://github.com/rhysd/crdoc)|CLI tool to search and open documentation for Crystal language||
-|5|[@5t111111](https://github.com/5t111111)/[**ruby_extension_wit…**](https://github.com/5t111111/ruby_extension_with_crystal)|||
+|5|[@5t111111](https://github.com/5t111111)/[**ruby_extension_with_crystal**](https://github.com/5t111111/ruby_extension_with_crystal)|||
 |5|[@karupanerura](https://github.com/karupanerura)/[**router-simple.cr**](https://github.com/karupanerura/router-simple.cr)|simple path router inspired by Router::Simple.||
 |4|[@dtan4](https://github.com/dtan4)/[**aws4_signer.cr**](https://github.com/dtan4/aws4_signer.cr)|||
 |3|[@MakeNowJust](https://github.com/MakeNowJust)/[**tap**](https://github.com/MakeNowJust/tap)|TAP (Test Anything Protocol) test framework for Crystal|[:arrow_upper_right:](https://testanything.org/)|

@@ -9,7 +9,7 @@
 |9|[@r-plus](https://github.com/r-plus)/[**SwitcherCleaner**](https://github.com/r-plus/SwitcherCleaner)|Show only running apps with quit button for iOS AppSwitcher.||
 |6|[@r-plus](https://github.com/r-plus)/[**PullBulletin**](https://github.com/r-plus/PullBulletin)|Pull to clear all bulletin.||
 |5|[@masui](https://github.com/masui)/[**Gear**](https://github.com/masui/Gear)|「超ナビゲーション」 - ダイヤル/ローラー/パドルなどだけで何でもブラウズする||
-|4|[@nulab](https://github.com/nulab)/[**nginx-too-many-req…**](https://github.com/nulab/nginx-too-many-requests-retryafter-patch)|||
+|4|[@nulab](https://github.com/nulab)/[**nginx-too-many-requests-retryafter-patch**](https://github.com/nulab/nginx-too-many-requests-retryafter-patch)|||
 |4|[@r-plus](https://github.com/r-plus)/[**Diclose**](https://github.com/r-plus/Diclose)|Swipe to close iOS system-wide 'Look Up' modal view.||
 |4|[@r-plus](https://github.com/r-plus)/[**Fascy**](https://github.com/r-plus/Fascy)|Fast scroll fixity.||
 |3|[@r-plus](https://github.com/r-plus)/[**Dictator**](https://github.com/r-plus/Dictator)|Force dictation language to use in all keyboard type.||

@@ -4,7 +4,7 @@
 |13|[@ehr174](https://github.com/ehr174)/[**dartstrap**](https://github.com/ehr174/dartstrap)|||
 |10|[@vvakame](https://github.com/vvakame)/[**teaolive**](https://github.com/vvakame/teaolive)|BDD Test Framework for Dart. it was inspired by the Jasmine(JavaScript).||
 |8|[@sh4869](https://github.com/sh4869)/[**twitter.dart**](https://github.com/sh4869/twitter.dart)|Twitter API Library in Dart |[:arrow_upper_right:](https://pub.dartlang.org/packages/twitter)|
-|7|[@technohippy](https://github.com/technohippy)/[**angular-translate.dart**](https://github.com/technohippy/angular-translate.dart)|I18N Library for AngularDart||
+|8|[@technohippy](https://github.com/technohippy)/[**angular-translate.dart**](https://github.com/technohippy/angular-translate.dart)|I18N Library for AngularDart||
 |6|[@ntaoo](https://github.com/ntaoo)/[**ng2_g_signin**](https://github.com/ntaoo/ng2_g_signin)|Google sign-in component for Angular2 Dart||
 |5|[@MiCHiLU](https://github.com/MiCHiLU)/[**dart-cca-example**](https://github.com/MiCHiLU/dart-cca-example)|An example of Cordova Chrome Apps written in AngularDart.||
 |5|[@kyorohiro](https://github.com/kyorohiro)/[**doc_2dgame**](https://github.com/kyorohiro/doc_2dgame)|||

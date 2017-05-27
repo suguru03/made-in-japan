@@ -12,7 +12,7 @@
 |4|[@tcnksm](https://github.com/tcnksm)/[**tf-dnsimple-gh-pages**](https://github.com/tcnksm/tf-dnsimple-gh-pages)|Setup custom apex domain for your GitHub pages with Terraform||
 |4|[@toshimaru](https://github.com/toshimaru)/[**terraform-digitalocean-rails**](https://github.com/toshimaru/terraform-digitalocean-rails)|A terraform simple sample on DigitalOcean for Ruby on Rails.||
 |4|[@yamamoto-febc](https://github.com/yamamoto-febc)/[**nomad-on-sakuracloud**](https://github.com/yamamoto-febc/nomad-on-sakuracloud)|Terraform templates to build nomad + consul + consul-template + nginx environments on さくらのクラウド||
+|4|[@zembutsu](https://github.com/zembutsu)/[**sakura-terraform**](https://github.com/zembutsu/sakura-terraform)|Terraform for Sakura Cloud samples||
 |3|[@jun06t](https://github.com/jun06t)/[**terraform-sample**](https://github.com/jun06t/terraform-sample)|terraform examples||
 |3|[@matsuu](https://github.com/matsuu)/[**terraform-pixiv-isucon2016**](https://github.com/matsuu/terraform-pixiv-isucon2016)|Terraform configuration files for building Pixiv ISUCON 2016 environment||
-|3|[@zembutsu](https://github.com/zembutsu)/[**sakura-terraform**](https://github.com/zembutsu/sakura-terraform)|Terraform for Sakura Cloud samples||
 

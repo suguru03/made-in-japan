@@ -6,8 +6,8 @@
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
 |25|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
 |24|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
+|23|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |22|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-24.5-doc-emacs**](https://github.com/ayatakesi/emacs-24.5-doc-emacs)|emacsマニュアルの日本語化と公開|[:arrow_upper_right:](https://ayatakesi.github.io/)|
-|22|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |22|[@norton](https://github.com/norton)/[**erlang-starter-kit**](https://github.com/norton/erlang-starter-kit)|Provide a basic set of Erlang/OTP tools for development and for testing||
 |16|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-agent**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/detail#/role/2961)|
 |15|[@keiji](https://github.com/keiji)/[**farewell-adt-book**](https://github.com/keiji/farewell-adt-book)|Android Studio完全移行ガイド||

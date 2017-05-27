@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |103|[@ziyan](https://github.com/ziyan)/[**spider**](https://github.com/ziyan/spider)|Web Content Extraction Through Machine Learning|[:arrow_upper_right:](https://www.ziyan.net/2014/04/web-content-extraction-through-machine-learning/)|
-|83|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hypervisor**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
+|84|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hypervisor**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
 |41|[@mizzy](https://github.com/mizzy)/[**serverspec-thesis**](https://github.com/mizzy/serverspec-thesis)|||
 |38|[@hamano](https://github.com/hamano)/[**the-little-mongodb-book**](https://github.com/hamano/the-little-mongodb-book)|MongoDBの薄い本(The Little MongoDB Book)|[:arrow_upper_right:](http://www.cuspy.org/diary/2012-04-17)|
 |37|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||

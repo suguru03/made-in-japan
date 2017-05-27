@@ -1,28 +1,28 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|651|[@kiruto](https://github.com/kiruto)/[**debug-bottle**](https://github.com/kiruto/debug-bottle)|🍼Debug Bottle is an Android runtime debug / develop tools written using kotlin language.|[:arrow_upper_right:](http://exyui.com/article/3/Android-Debug-Bottle-v11)|
-|593|[@kittinunf](https://github.com/kittinunf)/[**Fuel**](https://github.com/kittinunf/Fuel)|The easiest HTTP networking library for Kotlin/Android||
-|508|[@shiraji](https://github.com/shiraji)/[**permissions-dispatcher-plugin**](https://github.com/shiraji/permissions-dispatcher-plugin)|IntelliJ plugin for supporting PermissionsDispatcher|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/8349)|
-|187|[@satorufujiwara](https://github.com/satorufujiwara)/[**kotlin-android-flux**](https://github.com/satorufujiwara/kotlin-android-flux)|Example of Android app with Flux and Kotlin and Dagger2 and famous libraries.||
-|133|[@kittinunf](https://github.com/kittinunf)/[**Result**](https://github.com/kittinunf/Result)|The modelling for success/failure of operations in Kotlin||
-|111|[@hotchemi](https://github.com/hotchemi)/[**khronos**](https://github.com/hotchemi/khronos)|An intuitive Date extensions in Kotlin.|[:arrow_upper_right:](http://hotchemi.github.io/khronos)|
+|656|[@kiruto](https://github.com/kiruto)/[**debug-bottle**](https://github.com/kiruto/debug-bottle)|🍼Debug Bottle is an Android runtime debug / develop tools written using kotlin language.|[:arrow_upper_right:](http://exyui.com/article/3/Android-Debug-Bottle-v11)|
+|650|[@kittinunf](https://github.com/kittinunf)/[**Fuel**](https://github.com/kittinunf/Fuel)|The easiest HTTP networking library for Kotlin/Android||
+|509|[@shiraji](https://github.com/shiraji)/[**permissions-dispatcher-plugin**](https://github.com/shiraji/permissions-dispatcher-plugin)|IntelliJ plugin for supporting PermissionsDispatcher|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/8349)|
+|188|[@satorufujiwara](https://github.com/satorufujiwara)/[**kotlin-android-flux**](https://github.com/satorufujiwara/kotlin-android-flux)|Example of Android app with Flux and Kotlin and Dagger2 and famous libraries.||
+|141|[@kittinunf](https://github.com/kittinunf)/[**Result**](https://github.com/kittinunf/Result)|The modelling for success/failure of operations in Kotlin||
+|112|[@hotchemi](https://github.com/hotchemi)/[**khronos**](https://github.com/hotchemi/khronos)|An intuitive Date extensions in Kotlin.|[:arrow_upper_right:](http://hotchemi.github.io/khronos)|
 |79|[@yshrsmz](https://github.com/yshrsmz)/[**monotweety**](https://github.com/yshrsmz/monotweety)|Simple Twitter Client just for tweeting, written in Kotlin with reactive MVVM-like approach||
 |59|[@siosio](https://github.com/siosio)/[**GradleDependenciesHelperPlugin**](https://github.com/siosio/GradleDependenciesHelperPlugin)|Gradleのdependencies内で、mavenからライブラリ検索して補完出来るプラグイン||
-|54|[@kittinunf](https://github.com/kittinunf)/[**ReactiveAndroid**](https://github.com/kittinunf/ReactiveAndroid)|Reactive events and properties with RxJava for Android ||
+|55|[@kittinunf](https://github.com/kittinunf)/[**ReactiveAndroid**](https://github.com/kittinunf/ReactiveAndroid)|Reactive events and properties with RxJava for Android ||
 |50|[@ntaro](https://github.com/ntaro)/[**knit**](https://github.com/ntaro/knit)|JUnit API set for Kotlin||
+|45|[@kittinunf](https://github.com/kittinunf)/[**Fuse**](https://github.com/kittinunf/Fuse)|The simple generic LRU memory/disk cache for Android written in Kotlin||
 |45|[@shiraji](https://github.com/shiraji)/[**databinding-support**](https://github.com/shiraji/databinding-support)|Intellij plugin for supporting Android Data Binding Library|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/9271)|
-|43|[@kittinunf](https://github.com/kittinunf)/[**Fuse**](https://github.com/kittinunf/Fuse)|The simple generic LRU memory/disk cache for Android written in Kotlin||
+|41|[@sys1yagi](https://github.com/sys1yagi)/[**mastodon4j**](https://github.com/sys1yagi/mastodon4j)|mastodon client for java, kotlin https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md||
 |40|[@shiraji](https://github.com/shiraji)/[**emoji**](https://github.com/shiraji/emoji)|Intellij plugin for supporting Emoji completion|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/9174)|
-|38|[@sys1yagi](https://github.com/sys1yagi)/[**mastodon4j**](https://github.com/sys1yagi/mastodon4j)|mastodon client for java, kotlin https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md||
 |35|[@shiraji](https://github.com/shiraji)/[**color-manager**](https://github.com/shiraji/color-manager)|Android color manager plugin for Android Studio/Intellij|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/8583)|
-|31|[@kirimin](https://github.com/kirimin)/[**mitsumine**](https://github.com/kirimin/mitsumine)|Android用はてなブックマーククライアント||
-|30|[@seratch](https://github.com/seratch)/[**kotliquery**](https://github.com/seratch/kotliquery)|A handy Database access library in Kotlin||
+|32|[@kirimin](https://github.com/kirimin)/[**mitsumine**](https://github.com/kirimin/mitsumine)|Android用はてなブックマーククライアント||
+|32|[@seratch](https://github.com/seratch)/[**kotliquery**](https://github.com/seratch/kotliquery)|A handy Database access library in Kotlin||
 |25|[@AAkira](https://github.com/AAkira)/[**ExoPlayerManager**](https://github.com/AAkira/ExoPlayerManager)|An android library that wraps the ExoPlayer and the IMA Android SDK which plays a video advertisement. This is written in Kotlin.||
 |23|[@takuji31](https://github.com/takuji31)/[**Koreference**](https://github.com/takuji31/Koreference)|Android SharedPreference delegate property for Kotlin||
 |19|[@ksoichiro](https://github.com/ksoichiro)/[**Android-PageControl**](https://github.com/ksoichiro/Android-PageControl)|Clickable PageControl for Android apps.||
+|17|[@siosio](https://github.com/siosio)/[**DomaSupport**](https://github.com/siosio/DomaSupport)|IntelliJ Doma support plugin.||
 |16|[@kirimin](https://github.com/kirimin)/[**Annictroid**](https://github.com/kirimin/Annictroid)|Unofficial Annict client app for Android.|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=me.kirimin.annictroid)|
 |16|[@kmizu](https://github.com/kmizu)/[**kollection**](https://github.com/kmizu/kollection)|Immutable Collection Libraries and Additional Utilities for Kotlin||
-|16|[@siosio](https://github.com/siosio)/[**DomaSupport**](https://github.com/siosio/DomaSupport)|IntelliJ Doma support plugin.||
 |15|[@sys1yagi](https://github.com/sys1yagi)/[**kmockito**](https://github.com/sys1yagi/kmockito)|Mockito for Kotlin.||
 |14|[@kirimin](https://github.com/kirimin)/[**WhoOnGitHub**](https://github.com/kirimin/WhoOnGitHub)|GitHub profile viewer written in Kotlin.||
 |14|[@takuji31](https://github.com/takuji31)/[**KotlinDataBinding**](https://github.com/takuji31/KotlinDataBinding)|||
@@ -35,11 +35,11 @@
 |8|[@gfx](https://github.com/gfx)/[**OrmaWithKotlin**](https://github.com/gfx/OrmaWithKotlin)|Example Kotlin app for Orma|[:arrow_upper_right:](https://github.com/gfx/Android-Orma)|
 |8|[@hotchemi](https://github.com/hotchemi)/[**dexfm-android**](https://github.com/hotchemi/dexfm-android)|WIP||
 |8|[@keiji](https://github.com/keiji)/[**region_cropper**](https://github.com/keiji/region_cropper)|Help creating image dataset for machine learning.||
+|8|[@mike-neck](https://github.com/mike-neck)/[**kuickcheck**](https://github.com/mike-neck/kuickcheck)|A property based testing framework for Kotlin||
 |8|[@sakebook](https://github.com/sakebook)/[**Zipangu**](https://github.com/sakebook/Zipangu)|You can handle prefectures information more easily in Android.||
 |8|[@sys1yagi](https://github.com/sys1yagi)/[**goat-reader-2-android-prototype**](https://github.com/sys1yagi/goat-reader-2-android-prototype)|RSSリーダです。Kotlinで書いています。||
 |7|[@Reyurnible](https://github.com/Reyurnible)/[**kodic**](https://github.com/Reyurnible/kodic)|CodecのAndroidアプリ||
 |7|[@kobakei](https://github.com/kobakei)/[**Android-Kotlin-Example**](https://github.com/kobakei/Android-Kotlin-Example)|Android example written by Kotlin||
-|7|[@mike-neck](https://github.com/mike-neck)/[**kuickcheck**](https://github.com/mike-neck/kuickcheck)|A property based testing framework for Kotlin||
 |7|[@nonylene](https://github.com/nonylene)/[**PhotoLinkViewer**](https://github.com/nonylene/PhotoLinkViewer)|View photo from URL easily.||
 |7|[@numa08](https://github.com/numa08)/[**Gochisou**](https://github.com/numa08/Gochisou)|||
 |7|[@shiraji](https://github.com/shiraji)/[**kew-instance-inspection**](https://github.com/shiraji/kew-instance-inspection)|The IntelliJ custom inspection that check if Fragment implements newInstance method in Kotlin|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/8430?pr=)|
@@ -54,6 +54,7 @@
 |5|[@worker8](https://github.com/worker8)/[**learning-architecture-for-android**](https://github.com/worker8/learning-architecture-for-android)|||
 |5|[@zick](https://github.com/zick)/[**KotlinLisp**](https://github.com/zick/KotlinLisp)|Lisp implementation in Kotlin||
 |4|[@Reyurnible](https://github.com/Reyurnible)/[**RxDownloader**](https://github.com/Reyurnible/RxDownloader)|||
+|4|[@kittinunf](https://github.com/kittinunf)/[**Kotlin-Playground**](https://github.com/kittinunf/Kotlin-Playground)|Playground for Kotlin||
 |4|[@kittinunf](https://github.com/kittinunf)/[**RxMovieKotlin**](https://github.com/kittinunf/RxMovieKotlin)|||
 |4|[@ntaro](https://github.com/ntaro)/[**InjeKTor**](https://github.com/ntaro/InjeKTor)|Kotlin DI Framework||
 |4|[@shiraji](https://github.com/shiraji)/[**intellij-plugin-with-gradle-wizard**](https://github.com/shiraji/intellij-plugin-with-gradle-wizard)|IntelliJ plugin that adds a wizard that creates a plugin module with gradle-intellij-plugin|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/8450)|
@@ -66,4 +67,5 @@
 |3|[@ntaro](https://github.com/ntaro)/[**android-kotlin-practice**](https://github.com/ntaro/android-kotlin-practice)|||
 |3|[@shibafu528](https://github.com/shibafu528)/[**SperMaster**](https://github.com/shibafu528/SperMaster)|夜の生活を記録し健康に役立てるためのアプリケーション||
 |3|[@siosio](https://github.com/siosio)/[**FileOpenPlugin**](https://github.com/siosio/FileOpenPlugin)|||
+|3|[@sys1yagi](https://github.com/sys1yagi)/[**garage-android**](https://github.com/sys1yagi/garage-android)|||
 

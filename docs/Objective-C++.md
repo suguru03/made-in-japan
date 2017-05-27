@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|326|[@fjolnir](https://github.com/fjolnir)/[**Tranquil**](https://github.com/fjolnir/Tranquil)|A language built on top of the Objective-C runtime, and ABI compatible with Objective-C.||
+|325|[@fjolnir](https://github.com/fjolnir)/[**Tranquil**](https://github.com/fjolnir/Tranquil)|A language built on top of the Objective-C runtime, and ABI compatible with Objective-C.||
 |89|[@noradaiko](https://github.com/noradaiko)/[**caffe-ios-sample**](https://github.com/noradaiko/caffe-ios-sample)|An example of XCode project using Caffe: a fast open framework for deep learning||
 |88|[@craftzdog](https://github.com/craftzdog)/[**caffe-ios-sample**](https://github.com/craftzdog/caffe-ios-sample)|An example of XCode project using Caffe: a fast open framework for deep learning||
 |20|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxDisplayConf**](https://github.com/Akira-Hayasaka/ofxDisplayConf)|openFrameworks addon for display/projector configuration using CoreGraphics (private) API.||

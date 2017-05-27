@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|862|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
-|446|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
+|865|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
+|449|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
 |317|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
-|291|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
+|293|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
 |256|[@kawasima](https://github.com/kawasima)/[**jagrid**](https://github.com/kawasima/jagrid)|Japanese-styled grid framework.||
 |147|[@runexec](https://github.com/runexec)/[**chp**](https://github.com/runexec/chp)|ClojureHomePage is a Compojure based web framework that allows you to write the backend and frontend with Clojure.|[:arrow_upper_right:](https://github.com/runexec/chp/)|
 |127|[@yokolet](https://github.com/yokolet)/[**clementine**](https://github.com/yokolet/clementine)|Gem for ClojureScript on Rails Asset Pipeline||
-|90|[@liquidz](https://github.com/liquidz)/[**clj-jwt**](https://github.com/liquidz/clj-jwt)|Clojure library for JSON Web Token(JWT)||
+|91|[@liquidz](https://github.com/liquidz)/[**clj-jwt**](https://github.com/liquidz/clj-jwt)|Clojure library for JSON Web Token(JWT)||
 |86|[@runexec](https://github.com/runexec)/[**Static-Prime**](https://github.com/runexec/Static-Prime)|A static website editor and server written in Clojure and ClojureScript.||
 |62|[@kawasima](https://github.com/kawasima)/[**back-channeling**](https://github.com/kawasima/back-channeling)|A thread floating typed chat system.||
 |52|[@liquidz](https://github.com/liquidz)/[**jubot**](https://github.com/liquidz/jubot)|Chatbot framework in Clojure||

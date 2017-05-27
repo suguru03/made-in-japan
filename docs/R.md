@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|265|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
+|266|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
 |88|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
-|30|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
+|31|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
 |17|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
@@ -15,8 +15,8 @@
 |9|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
 |8|[@hoxo-m](https://github.com/hoxo-m)/[**densratio**](https://github.com/hoxo-m/densratio)|An R Package for Density Ratio Estimation|[:arrow_upper_right:](https://github.com/hoxo-m/densratio)|
 |8|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
+|8|[@yutannihilation](https://github.com/yutannihilation)/[**estatapi**](https://github.com/yutannihilation/estatapi)|R package for e-Stat API in Japan||
 |7|[@uribo](https://github.com/uribo)/[**Japan.useR**](https://github.com/uribo/Japan.useR)|:crossed_flags:Japanese R user community materials and information datasets||
-|7|[@yutannihilation](https://github.com/yutannihilation)/[**estatapi**](https://github.com/yutannihilation/estatapi)|R package for e-Stat API in Japan||
 |6|[@dichika](https://github.com/dichika)/[**jaguchi**](https://github.com/dichika/jaguchi)|||
 |6|[@teramonagi](https://github.com/teramonagi)/[**SABRCalibrationOnShiny**](https://github.com/teramonagi/SABRCalibrationOnShiny)|SABR model calibration on shiny||
 |5|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**Detectives**](https://github.com/IshidaMotohiro/Detectives)|for "Data Detectives", Soft Bank 2015||

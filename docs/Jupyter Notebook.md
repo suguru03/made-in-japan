@@ -1,12 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1689|[@jrjohansson](https://github.com/jrjohansson)/[**scientific-python-lectures**](https://github.com/jrjohansson/scientific-python-lectures)|Lectures on scientific computing with python, as IPython notebooks.||
-|167|[@Hironsan](https://github.com/Hironsan)/[**awesome-embedding-models**](https://github.com/Hironsan/awesome-embedding-models)|A curated list of awesome embedding models tutorials, projects and communities.||
+|1707|[@jrjohansson](https://github.com/jrjohansson)/[**scientific-python-lectures**](https://github.com/jrjohansson/scientific-python-lectures)|Lectures on scientific computing with python, as IPython notebooks.||
+|170|[@Hironsan](https://github.com/Hironsan)/[**awesome-embedding-models**](https://github.com/Hironsan/awesome-embedding-models)|A curated list of awesome embedding models tutorials, projects and communities.||
 |80|[@chezou](https://github.com/chezou)/[**julia-100-exercises**](https://github.com/chezou/julia-100-exercises)|julia version of 100 numpy exercises||
+|69|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-for-absolute-beginners**](https://github.com/kazunori279/TensorFlow-for-absolute-beginners)|When I opened a neural network text book and saw the bunch of math formulas, I felt like "this is not for me". But wait, TensorFlow now provides the high-level API that let you write a few lines of Python code to get started with neural network, without understanding the hard math. Try this codelab to see how machine learning works on your laptop.||
 |68|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-Intro**](https://github.com/kazunori279/TensorFlow-Intro)|An easy TensorFlow introduction for all ML newbies.||
 |48|[@neubig](https://github.com/neubig)/[**yrsnlp-2016**](https://github.com/neubig/yrsnlp-2016)|Structured Neural Networks for NLP: From Idea to Code||
 |40|[@jrjohansson](https://github.com/jrjohansson)/[**numerical-python-book-code**](https://github.com/jrjohansson/numerical-python-book-code)|||
-|34|[@mitmul](https://github.com/mitmul)/[**chainer-handson**](https://github.com/mitmul/chainer-handson)|ハンズオンの資料||
+|36|[@mitmul](https://github.com/mitmul)/[**chainer-handson**](https://github.com/mitmul/chainer-handson)|ハンズオンの資料||
 |33|[@chezou](https://github.com/chezou)/[**notebooks**](https://github.com/chezou/notebooks)|||
 |30|[@bicycle1885](https://github.com/bicycle1885)/[**Julia-Tutorial**](https://github.com/bicycle1885/Julia-Tutorial)|高速でJuliaを学ぶチュートリアル||
 |26|[@takerum](https://github.com/takerum)/[**adversarial_autoencoder**](https://github.com/takerum/adversarial_autoencoder)|Implementation of Adversarial Autoencoder with Theano||
@@ -16,11 +17,11 @@
 |12|[@chezou](https://github.com/chezou)/[**ibis-demo**](https://github.com/chezou/ibis-demo)|Demo notebook of Ibis for "Spark + Python + Dita science Festival"||
 |11|[@icoxfog417](https://github.com/icoxfog417)/[**baby_steps_of_machine_learning**](https://github.com/icoxfog417/baby_steps_of_machine_learning)|basic tutorial for machine learning implementation||
 |9|[@IanLewis](https://github.com/IanLewis)/[**tensorflow-examples**](https://github.com/IanLewis/tensorflow-examples)|Some Tensorflow examples and Jupyter notebooks||
+|9|[@ryuichiueda](https://github.com/ryuichiueda)/[**probrobo_practice**](https://github.com/ryuichiueda/probrobo_practice)|確率ロボティクスのアルゴリズム解説|[:arrow_upper_right:](https://blog.ueda.asia/?p=9479)|
+|8|[@icoxfog417](https://github.com/icoxfog417)/[**cv_tutorial**](https://github.com/icoxfog417/cv_tutorial)|OpenCV Tutorial||
 |7|[@araobp](https://github.com/araobp)/[**nlan**](https://github.com/araobp/nlan)|Interactive SDN/IOT with tega db and Jupyter/IPython||
-|7|[@icoxfog417](https://github.com/icoxfog417)/[**cv_tutorial**](https://github.com/icoxfog417/cv_tutorial)|OpenCV Tutorial||
 |7|[@icoxfog417](https://github.com/icoxfog417)/[**scikit-learn-notebook**](https://github.com/icoxfog417/scikit-learn-notebook)|japanese scikit-learn tutorial||
 |7|[@minhpqn](https://github.com/minhpqn)/[**DeepLunch**](https://github.com/minhpqn/DeepLunch)|Repository for Deep Learning study group at FTI (FPT)||
-|7|[@ryuichiueda](https://github.com/ryuichiueda)/[**probrobo_practice**](https://github.com/ryuichiueda/probrobo_practice)|確率ロボティクスのアルゴリズム解説|[:arrow_upper_right:](https://blog.ueda.asia/?p=9479)|
 |6|[@kazunori279](https://github.com/kazunori279)/[**cloudml-demo**](https://github.com/kazunori279/cloudml-demo)|||
 |5|[@cutGordianKnot](https://github.com/cutGordianKnot)/[**PRML**](https://github.com/cutGordianKnot/PRML)|PRML algorithms implemented in Python||
 |5|[@grimrose](https://github.com/grimrose)/[**JJUG-CCC-2016-Spring**](https://github.com/grimrose/JJUG-CCC-2016-Spring)|JJUG CCC 2016 Spring http://www.java-users.jp/?page_id=2377 #jjug_ccc #ccc_m61||
@@ -33,7 +34,6 @@
 |4|[@hagino3000](https://github.com/hagino3000)/[**notebooks**](https://github.com/hagino3000/notebooks)|My Jupyter notebooks||
 |4|[@kasajei](https://github.com/kasajei)/[**PythonMachineLearning**](https://github.com/kasajei/PythonMachineLearning)|PythonMachineLearningを学んでいこうと思います||
 |4|[@sinhrks](https://github.com/sinhrks)/[**chainer-parallel-examples**](https://github.com/sinhrks/chainer-parallel-examples)|||
-|4|[@termoshtt](https://github.com/termoshtt)/[**ndarray-odeint**](https://github.com/termoshtt/ndarray-odeint)|solve ODE with rust-ndarray||
 |4|[@uchihashikenshi](https://github.com/uchihashikenshi)/[**attention_time**](https://github.com/uchihashikenshi/attention_time)|Python implementation of a time-series model with (optional) attention where the encoder is CNN, decoder is LSTM, and more.||
 |3|[@Hironsan](https://github.com/Hironsan)/[**DeepClassification**](https://github.com/Hironsan/DeepClassification)|Text classification meets word embeddings.||
 |3|[@RyosukeHonda](https://github.com/RyosukeHonda)/[**Advanced_Lane_Lines**](https://github.com/RyosukeHonda/Advanced_Lane_Lines)|Finding lane lines on the road||

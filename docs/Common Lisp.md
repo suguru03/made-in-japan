@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |606|[@fukamachi](https://github.com/fukamachi)/[**clack**](https://github.com/fukamachi/clack)|Web application environment for Common Lisp||
-|532|[@fukamachi](https://github.com/fukamachi)/[**woo**](https://github.com/fukamachi/woo)|A fast non-blocking HTTP server on top of libev|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Woo_(kaiju))|
+|531|[@fukamachi](https://github.com/fukamachi)/[**woo**](https://github.com/fukamachi/woo)|A fast non-blocking HTTP server on top of libev|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Woo_(kaiju))|
 |421|[@fukamachi](https://github.com/fukamachi)/[**caveman**](https://github.com/fukamachi/caveman)|Lightweight web application framework for Common Lisp.|[:arrow_upper_right:](http://8arrow.org/caveman/)|
 |261|[@fukamachi](https://github.com/fukamachi)/[**fast-http**](https://github.com/fukamachi/fast-http)|A fast HTTP request/response parser for Common Lisp.||
 |129|[@fukamachi](https://github.com/fukamachi)/[**prove**](https://github.com/fukamachi/prove)|Yet another unit testing framework for Common Lisp||
@@ -12,7 +12,7 @@
 |91|[@fukamachi](https://github.com/fukamachi)/[**sxql**](https://github.com/fukamachi/sxql)|A SQL generator for Common Lisp.||
 |79|[@fukamachi](https://github.com/fukamachi)/[**cl-dbi**](https://github.com/fukamachi/cl-dbi)|Database independent interface for Common Lisp||
 |78|[@fukamachi](https://github.com/fukamachi)/[**cl-project**](https://github.com/fukamachi/cl-project)|Generate modern project skeletons||
-|67|[@fukamachi](https://github.com/fukamachi)/[**dexador**](https://github.com/fukamachi/dexador)|Yet another HTTP client for Common Lisp|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Dexador)|
+|68|[@fukamachi](https://github.com/fukamachi)/[**dexador**](https://github.com/fukamachi/dexador)|Yet another HTTP client for Common Lisp|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Dexador)|
 |63|[@guicho271828](https://github.com/guicho271828)/[**inlined-generic-function**](https://github.com/guicho271828/inlined-generic-function)|Bringing the speed of Static Dispatch to CLOS||
 |61|[@fukamachi](https://github.com/fukamachi)/[**shelly**](https://github.com/fukamachi/shelly)|Make Common Lisp shell-friendly.||
 |59|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**jonathan**](https://github.com/Rudolph-Miller/jonathan)|JSON encoder and decoder.|[:arrow_upper_right:](http://rudolph-miller.github.io/jonathan/overview.html)|
@@ -28,15 +28,15 @@
 |33|[@takagi](https://github.com/takagi)/[**avm**](https://github.com/takagi/avm)|Efficient and expressive arrayed vector math library with multi-threading and CUDA support in Common Lisp.||
 |32|[@sile](https://github.com/sile)/[**gomoku**](https://github.com/sile/gomoku)|A self-contained morphological analyzer (including dictionary data).||
 |30|[@fukamachi](https://github.com/fukamachi)/[**websocket-driver**](https://github.com/fukamachi/websocket-driver)|WebSocket server/client implementation for Common Lisp||
-|29|[@guicho271828](https://github.com/guicho271828)/[**eazy-opencl**](https://github.com/guicho271828/eazy-opencl)|OpenCL binding for Common Lisp||
+|30|[@guicho271828](https://github.com/guicho271828)/[**eazy-opencl**](https://github.com/guicho271828/eazy-opencl)|OpenCL binding for Common Lisp||
 |28|[@takagi](https://github.com/takagi)/[**lake**](https://github.com/takagi/lake)|Lake is a GNU make like build utility in Common Lisp. ||
 |27|[@takagi](https://github.com/takagi)/[**cl-coroutine**](https://github.com/takagi/cl-coroutine)|Cl-coroutine is a coroutine library for Common Lisp. It uses cl-cont continuations library in its implementation.||
 |26|[@fukamachi](https://github.com/fukamachi)/[**utopian**](https://github.com/fukamachi/utopian)|A web framework for Common Lisp never finished.||
 |26|[@takagi](https://github.com/takagi)/[**pic**](https://github.com/takagi/pic)|A native compiler for 8-bit PIC micro controllers written in Common Lisp.||
 |25|[@fukamachi](https://github.com/fukamachi)/[**clozure-cl**](https://github.com/fukamachi/clozure-cl)|Unofficial mirror of Clozure CL|[:arrow_upper_right:](http://ccl.clozure.com/)|
+|21|[@fukamachi](https://github.com/fukamachi)/[**envy**](https://github.com/fukamachi/envy)|Configuration switcher by an environment variable inspired by Config::ENV.||
 |21|[@snmsts](https://github.com/snmsts)/[**daemon**](https://github.com/snmsts/daemon)|daemonize lisp process||
 |20|[@KeenS](https://github.com/KeenS)/[**zenekindarl**](https://github.com/KeenS/zenekindarl)|A fast template engine for Common Lisp||
-|20|[@fukamachi](https://github.com/fukamachi)/[**envy**](https://github.com/fukamachi/envy)|Configuration switcher by an environment variable inspired by Config::ENV.||
 |20|[@garaemon](https://github.com/garaemon)/[**clap**](https://github.com/garaemon/clap)|CommonLisp APIed Pythonically||
 |19|[@fukamachi](https://github.com/fukamachi)/[**cl-coveralls**](https://github.com/fukamachi/cl-coveralls)|||
 |19|[@fukamachi](https://github.com/fukamachi)/[**psychiq**](https://github.com/fukamachi/psychiq)|Background job processing for Common Lisp||
@@ -56,9 +56,9 @@
 |13|[@guicho271828](https://github.com/guicho271828)/[**lisp-namespace**](https://github.com/guicho271828/lisp-namespace)|no more discussion on lisp-1 vs lisp-2. THIS IS LISP-N.||
 |13|[@mathematical-systems](https://github.com/mathematical-systems)/[**future**](https://github.com/mathematical-systems/future)|Task-parallelism library for Common Lisp||
 |13|[@sile](https://github.com/sile)/[**h264**](https://github.com/sile/h264)|H.264/AVC parser||
+|12|[@fukamachi](https://github.com/fukamachi)/[**re21**](https://github.com/fukamachi/re21)|CL21's spin-off project that provides neat APIs for regular expressions.||
 |11|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**dyna**](https://github.com/Rudolph-Miller/dyna)|Dyna is an AWS DynamoDB ORM for Common Lisp.|[:arrow_upper_right:](http://en.wikipedia.org/wiki/Ultraman_Dyna)|
 |11|[@fukamachi](https://github.com/fukamachi)/[**fast-websocket**](https://github.com/fukamachi/fast-websocket)|Optimized low-level WebSocket protocol parser written in Common Lisp||
-|11|[@fukamachi](https://github.com/fukamachi)/[**re21**](https://github.com/fukamachi/re21)|CL21's spin-off project that provides neat APIs for regular expressions.||
 |11|[@guicho271828](https://github.com/guicho271828)/[**eazy-gnuplot**](https://github.com/guicho271828/eazy-gnuplot)|Super Duper Doopa Booka Lispy Gnuplot library|[:arrow_upper_right:](http://guicho271828.github.io/eazy-gnuplot/)|
 |11|[@kosh04](https://github.com/kosh04)/[**xyzzy-lisp**](https://github.com/kosh04/xyzzy-lisp)|CL/Emacsから移植、あるいは自作したもの||
 |11|[@zick](https://github.com/zick)/[**ZickStandardLisp**](https://github.com/zick/ZickStandardLisp)|Lisp evaluator in the LIsp for Zick's Lisp implementations||
@@ -79,6 +79,7 @@
 |8|[@snmsts](https://github.com/snmsts)/[**cl-langserver**](https://github.com/snmsts/cl-langserver)|intend to be a language-server and more||
 |8|[@zqwell](https://github.com/zqwell)/[**guess**](https://github.com/zqwell/guess)|common lisp porting of libguess-1.0 that is a character set detection library.||
 |7|[@fukamachi](https://github.com/fukamachi)/[**circular-streams**](https://github.com/fukamachi/circular-streams)|Circularly readable streams for Common Lisp.||
+|7|[@fukamachi](https://github.com/fukamachi)/[**cl-fluent-logger**](https://github.com/fukamachi/cl-fluent-logger)|A Common Lisp structured logger for Fluentd||
 |7|[@fukamachi](https://github.com/fukamachi)/[**id3v2**](https://github.com/fukamachi/id3v2)|ID3v2 parser||
 |7|[@fukamachi](https://github.com/fukamachi)/[**lev**](https://github.com/fukamachi/lev)|libev bindings for Common Lisp||
 |7|[@fukamachi](https://github.com/fukamachi)/[**mito-auth**](https://github.com/fukamachi/mito-auth)|User authorization for Mito classes.||
@@ -88,7 +89,6 @@
 |7|[@guicho271828](https://github.com/guicho271828)/[**eazy-process**](https://github.com/guicho271828/eazy-process)|Yet Another Portable Library for Process Handling / Subshell Invokation||
 |6|[@DeaR](https://github.com/DeaR)/[**xl-git**](https://github.com/DeaR/xl-git)|A front-end for git in xyzzy||
 |6|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**clipper**](https://github.com/Rudolph-Miller/clipper)|File attachment library.|[:arrow_upper_right:](http://rudolph-miller.github.io/clipper/overview.html)|
-|6|[@fukamachi](https://github.com/fukamachi)/[**cl-fluent-logger**](https://github.com/fukamachi/cl-fluent-logger)|A Common Lisp structured logger for Fluentd||
 |6|[@fukamachi](https://github.com/fukamachi)/[**mito-attachment**](https://github.com/fukamachi/mito-attachment)|Mito mixin class for file management outside of RDBMS||
 |6|[@guicho271828](https://github.com/guicho271828)/[**cl-simple-neuralnet**](https://github.com/guicho271828/cl-simple-neuralnet)|This is a toy implementation of multiple-layered neural network in cl.||
 |6|[@omasanori](https://github.com/omasanori)/[**franz-lisp**](https://github.com/omasanori/franz-lisp)|The source code of Franz Lisp||
@@ -145,6 +145,7 @@
 |3|[@sile](https://github.com/sile)/[**rtmp**](https://github.com/sile/rtmp)|Real Time Messaging Protocol||
 |3|[@sile](https://github.com/sile)/[**slol**](https://github.com/sile/slol)|Small Lisp On LLVM||
 |3|[@sile](https://github.com/sile)/[**sol-hash**](https://github.com/sile/sol-hash)|A hash table implementation using Split-Ordered-Lists.||
+|3|[@snmsts](https://github.com/snmsts)/[**trivial-clipboard**](https://github.com/snmsts/trivial-clipboard)|||
 |3|[@syou6162](https://github.com/syou6162)/[**OnLisp**](https://github.com/syou6162/OnLisp)|||
 |3|[@takagi](https://github.com/takagi)/[**cl-reexport**](https://github.com/takagi/cl-reexport)|Reexport external symbols in other packages.||
 |3|[@takagi](https://github.com/takagi)/[**intel-hex**](https://github.com/takagi/intel-hex)|A library for Common Lisp to handle Intel HEX format, which is a file format that conveys binary information in ASCII text form.||

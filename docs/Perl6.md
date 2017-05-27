@@ -5,8 +5,8 @@
 |15|[@skaji](https://github.com/skaji)/[**Frinfon**](https://github.com/skaji/Frinfon)|minimal sinatra for perl6||
 |12|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-Server-Tiny**](https://github.com/tokuhirom/p6-HTTP-Server-Tiny)|Web application server for Perl6||
 |9|[@lopnor](https://github.com/lopnor)/[**p6-plackdo**](https://github.com/lopnor/p6-plackdo)|plack-like web interface for perl6||
+|7|[@tokuhirom](https://github.com/tokuhirom)/[**p6-WebSocket**](https://github.com/tokuhirom/p6-WebSocket)|||
 |6|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-MultiPartParser**](https://github.com/tokuhirom/p6-HTTP-MultiPartParser)|multipart/form-data parser for Perl6||
-|6|[@tokuhirom](https://github.com/tokuhirom)/[**p6-WebSocket**](https://github.com/tokuhirom/p6-WebSocket)|||
 |5|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-Parser**](https://github.com/tokuhirom/p6-HTTP-Parser)|||
 |5|[@uasi](https://github.com/uasi)/[**messagepack-pm6**](https://github.com/uasi/messagepack-pm6)|A MessagePack implementation written in Perl 6||
 |4|[@moznion](https://github.com/moznion)/[**p6-IO-Blob**](https://github.com/moznion/p6-IO-Blob)|IO:: interface for reading/writing a Blob||

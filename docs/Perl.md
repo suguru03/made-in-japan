@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|693|[@yuki-kimoto](https://github.com/yuki-kimoto)/[**gitprep**](https://github.com/yuki-kimoto/gitprep)|Portable GitHub system into your own server|[:arrow_upper_right:](http://gitprep.yukikimoto.com/)|
+|691|[@yuki-kimoto](https://github.com/yuki-kimoto)/[**gitprep**](https://github.com/yuki-kimoto/gitprep)|Portable GitHub system into your own server|[:arrow_upper_right:](http://gitprep.yukikimoto.com/)|
 |677|[@hokaccha](https://github.com/hokaccha)/[**nodebrew**](https://github.com/hokaccha/nodebrew)|Node.js version manager||
 |232|[@kazeburo](https://github.com/kazeburo)/[**GrowthForecast**](https://github.com/kazeburo/GrowthForecast)|Lightning Fast Graphing/Visualization|[:arrow_upper_right:](http://kazeburo.github.com/GrowthForecast/)|
 |204|[@neubig](https://github.com/neubig)/[**nmt-tips**](https://github.com/neubig/nmt-tips)|A tutorial about neural machine translation including tips on building practical systems||
@@ -366,6 +366,7 @@
 |9|[@ysasaki](https://github.com/ysasaki)/[**Text-Sass-XS**](https://github.com/ysasaki/Text-Sass-XS)|Perl Binding for libsass||
 |9|[@zigorou](https://github.com/zigorou)/[**perl-json-pointer**](https://github.com/zigorou/perl-json-pointer)|A JSON Pointer implementation for Perl||
 |8|[@Cside](https://github.com/Cside)/[**StartFromHatebu.crx**](https://github.com/Cside/StartFromHatebu.crx)|Chromeのスタートページをはてなブックマークの一覧に||
+|8|[@Hiroyuki-Nagata](https://github.com/Hiroyuki-Nagata)/[**foltia**](https://github.com/Hiroyuki-Nagata/foltia)|安定版は → https://github.com/Hiroyuki-Nagata/foltia/releases/tag/v1.0|[:arrow_upper_right:](http://www.dcc-jpl.com/soft/foltia/)|
 |8|[@Songmu](https://github.com/Songmu)/[**App-LJ**](https://github.com/Songmu/App-LJ)|||
 |8|[@aereal](https://github.com/aereal)/[**Text-Xslate-AST-Walker**](https://github.com/aereal/Text-Xslate-AST-Walker)|Filter nodes in the AST (abstract syntax tree) which made by Text::Xslate||
 |8|[@alfasado](https://github.com/alfasado)/[**mt-plugin-rebuild-all-blogs**](https://github.com/alfasado/mt-plugin-rebuild-all-blogs)|Rebuild all blogs.||
@@ -418,7 +419,6 @@
 |8|[@yuki-kimoto](https://github.com/yuki-kimoto)/[**taskdeal**](https://github.com/yuki-kimoto/taskdeal)|Setup or deploy multiple environments from web browser.||
 |8|[@zcbenz](https://github.com/zcbenz)/[**dotfiles**](https://github.com/zcbenz/dotfiles)|My dotfiles for POSIX systems and cygwin.||
 |7|[@Cside](https://github.com/Cside)/[**YouTube-to-MP3**](https://github.com/Cside/YouTube-to-MP3)|||
-|7|[@Hiroyuki-Nagata](https://github.com/Hiroyuki-Nagata)/[**foltia**](https://github.com/Hiroyuki-Nagata/foltia)|安定版は → https://github.com/Hiroyuki-Nagata/foltia/releases/tag/v1.0|[:arrow_upper_right:](http://www.dcc-jpl.com/soft/foltia/)|
 |7|[@aklaswad](https://github.com/aklaswad)/[**mt-plugin-include-map**](https://github.com/aklaswad/mt-plugin-include-map)||[:arrow_upper_right:](http://blog.aklaswad.com/)|
 |7|[@alfasado](https://github.com/alfasado)/[**mt-plugin-asset2relative**](https://github.com/alfasado/mt-plugin-asset2relative)|Insert asset with relative path.||
 |7|[@alfasado](https://github.com/alfasado)/[**mt-plugins-rebuild-parent-categories**](https://github.com/alfasado/mt-plugins-rebuild-parent-categories)|Rebuild category archives for any parent categories for the categories when the entry changes.||
@@ -583,7 +583,6 @@
 |6|[@zigorou](https://github.com/zigorou)/[**p5-data-opensocial**](https://github.com/zigorou/p5-data-opensocial)|Data representation for OpenSocial RESTful API||
 |6|[@zigorou](https://github.com/zigorou)/[**p5-mapreduce-simple**](https://github.com/zigorou/p5-mapreduce-simple)|Simple MapReduce Library|[:arrow_upper_right:](http://d.hatena.ne.jp/ZIGOROu/)|
 |5|[@Craftworks](https://github.com/Craftworks)/[**Engage**](https://github.com/Craftworks/Engage)|Application Framework that includes Catalyst, TheSchwartz and App::Cmd||
-|5|[@DQNEO](https://github.com/DQNEO)/[**Amazon-S3-Thin**](https://github.com/DQNEO/Amazon-S3-Thin)|A thin, lightweight, low-level Amazon S3 client|[:arrow_upper_right:](http://search.cpan.org/dist/Amazon-S3-Thin/)|
 |5|[@Kovensky](https://github.com/Kovensky)/[**foo_spam**](https://github.com/Kovensky/foo_spam)|X-Chat / Irssi / WeeChat script for showing the currently playing song on foobar2000 or Banshee||
 |5|[@Songmu](https://github.com/Songmu)/[**p5-Const-Common**](https://github.com/Songmu/p5-Const-Common)|||
 |5|[@Songmu](https://github.com/Songmu)/[**p5-L**](https://github.com/Songmu/p5-L)|perl module loader for oneliner||
@@ -716,6 +715,7 @@
 |5|[@ziguzagu](https://github.com/ziguzagu)/[**perl-html-split**](https://github.com/ziguzagu/perl-html-split)|Splitting HTML by number of characters with keeping DOM structure||
 |4|[@Craftworks](https://github.com/Craftworks)/[**Airy**](https://github.com/Craftworks/Airy)|Lightweight application framework||
 |4|[@Cside](https://github.com/Cside)/[**Filt**](https://github.com/Cside/Filt)|「お気に入り」ページの閾値反映版 RSS||
+|4|[@DQNEO](https://github.com/DQNEO)/[**Amazon-S3-Thin**](https://github.com/DQNEO/Amazon-S3-Thin)|A thin, lightweight, low-level Amazon S3 client|[:arrow_upper_right:](http://search.cpan.org/dist/Amazon-S3-Thin/)|
 |4|[@Songmu](https://github.com/Songmu)/[**Puncheur**](https://github.com/Songmu/Puncheur)|||
 |4|[@Songmu](https://github.com/Songmu)/[**p5-Plack-App-Directory-Markdown**](https://github.com/Songmu/p5-Plack-App-Directory-Markdown)|||
 |4|[@Songmu](https://github.com/Songmu)/[**p5-Text-Markdown-GitHubAPI**](https://github.com/Songmu/p5-Text-Markdown-GitHubAPI)|||

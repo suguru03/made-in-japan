@@ -14,7 +14,7 @@
 |61|[@iand675](https://github.com/iand675)/[**haskell-checklist**](https://github.com/iand675/haskell-checklist)|Preflight checklist for Haskell code. Aspire to greatness!||
 |60|[@fumieval](https://github.com/fumieval)/[**free-game**](https://github.com/fumieval/free-game)|The free game engine|[:arrow_upper_right:](http://hackage.haskell.org/package/free-game)|
 |53|[@guillaume-nargeot](https://github.com/guillaume-nargeot)/[**hpc-coveralls**](https://github.com/guillaume-nargeot/hpc-coveralls)|coveralls.io support for haskell code coverage with hpc|[:arrow_upper_right:](http://hackage.haskell.org/package/hpc-coveralls)|
-|47|[@algas](https://github.com/algas)/[**haskell-servant-cookbook**](https://github.com/algas/haskell-servant-cookbook)|Haskell Servant Cookbook||
+|48|[@algas](https://github.com/algas)/[**haskell-servant-cookbook**](https://github.com/algas/haskell-servant-cookbook)|Haskell Servant Cookbook||
 |46|[@msakai](https://github.com/msakai)/[**cpl**](https://github.com/msakai/cpl)|An interpreter of Hagino's Categorical Programming Language (CPL).|[:arrow_upper_right:](http://hackage.haskell.org/package/CPL)|
 |46|[@msakai](https://github.com/msakai)/[**toysolver**](https://github.com/msakai/toysolver)|My sandbox for experimenting solver algorithms.||
 |45|[@mokehehe](https://github.com/mokehehe)/[**monao**](https://github.com/mokehehe/monao)|Super monao bros. in Haskell||
@@ -31,10 +31,10 @@
 |33|[@cdepillabout](https://github.com/cdepillabout)/[**pretty-simple**](https://github.com/cdepillabout/pretty-simple)|pretty-printer for Haskell data types that have a Show instance|[:arrow_upper_right:](https://hackage.haskell.org/package/pretty-simple)|
 |33|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**dns**](https://github.com/kazu-yamamoto/dns)|DNS libary in Haskell||
 |32|[@konn](https://github.com/konn)/[**computational-algebra**](https://github.com/konn/computational-algebra)|Library to calculate Gröbner basis written in Haskell.|[:arrow_upper_right:](http://konn.github.io/computational-algebra/)|
+|32|[@tanakh](https://github.com/tanakh)/[**optparse-declarative**](https://github.com/tanakh/optparse-declarative)|Declarative command-line option parser||
 |31|[@liyang](https://github.com/liyang)/[**thyme**](https://github.com/liyang/thyme)|||
-|31|[@tanakh](https://github.com/tanakh)/[**optparse-declarative**](https://github.com/tanakh/optparse-declarative)|Declarative command-line option parser||
-|28|[@fumieval](https://github.com/fumieval)/[**xml-lens**](https://github.com/fumieval/xml-lens)|Lenses and traversals for xml-conduit||
-|28|[@lotz84](https://github.com/lotz84)/[**double-pendulum-simulation**](https://github.com/lotz84/double-pendulum-simulation)||[:arrow_upper_right:](https://twitter.com/lotz84_/status/866661941279834112)|
+|30|[@lotz84](https://github.com/lotz84)/[**double-pendulum-simulation**](https://github.com/lotz84/double-pendulum-simulation)|二重振り子シミュレーション|[:arrow_upper_right:](https://twitter.com/lotz84_/status/866661941279834112)|
+|29|[@fumieval](https://github.com/fumieval)/[**xml-lens**](https://github.com/fumieval/xml-lens)|Lenses and traversals for xml-conduit||
 |27|[@fumieval](https://github.com/fumieval)/[**extensible**](https://github.com/fumieval/extensible)|Extensible data types and pattern matching, effects, tangles||
 |27|[@iand675](https://github.com/iand675)/[**ghcjs-react**](https://github.com/iand675/ghcjs-react)|React.js for GHCJS||
 |26|[@noraesae](https://github.com/noraesae)/[**line**](https://github.com/noraesae/line)|Haskell SDK for the LINE APIs|[:arrow_upper_right:](https://hackage.haskell.org/package/line)|
@@ -67,10 +67,10 @@
 |16|[@tanakh](https://github.com/tanakh)/[**hsmecab**](https://github.com/tanakh/hsmecab)|A Haskell binding to MeCab|[:arrow_upper_right:](http://github.com/tanakh/hsmecab)|
 |16|[@tokiwoousaka](https://github.com/tokiwoousaka)/[**takahashi**](https://github.com/tokiwoousaka/takahashi)|高橋Monad||
 |14|[@fujimura](https://github.com/fujimura)/[**wai-hspec-example**](https://github.com/fujimura/wai-hspec-example)|Example for wai + hspec||
+|14|[@guillaume-nargeot](https://github.com/guillaume-nargeot)/[**codecov-haskell**](https://github.com/guillaume-nargeot/codecov-haskell)|codecov.io support for haskell code coverage with hpc|[:arrow_upper_right:](http://hackage.haskell.org/package/codecov-haskell)|
 |14|[@maoe](https://github.com/maoe)/[**viewprof**](https://github.com/maoe/viewprof)|Text-based interactive GHC .prof viewer||
 |14|[@seizans](https://github.com/seizans)/[**yesod-tutorial**](https://github.com/seizans/yesod-tutorial)|Webアプリケーションフレームワーク Yesod 1.1 で開発するためのチュートリアル.||
 |13|[@dpwright](https://github.com/dpwright)/[**HaskellNet-SSL**](https://github.com/dpwright/HaskellNet-SSL)|Helpers to connect to SSL/TLS mail servers with HaskellNet||
-|13|[@guillaume-nargeot](https://github.com/guillaume-nargeot)/[**codecov-haskell**](https://github.com/guillaume-nargeot/codecov-haskell)|codecov.io support for haskell code coverage with hpc|[:arrow_upper_right:](http://hackage.haskell.org/package/codecov-haskell)|
 |13|[@konn](https://github.com/konn)/[**type-natural**](https://github.com/konn/type-natural)|Type-level well-kinded natural numbers.||
 |13|[@noraesae](https://github.com/noraesae)/[**monkey-hs**](https://github.com/noraesae/monkey-hs)|An interpreter for the Monkey programming language written in Haskell||
 |12|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**c10k**](https://github.com/kazu-yamamoto/c10k)|Network server library to handle over 10,000 connections in Haskell|[:arrow_upper_right:](http://www.mew.org/~kazu/proj/mighttpd/)|
@@ -180,6 +180,7 @@
 |4|[@cutsea110](https://github.com/cutsea110)/[**stable-marriage**](https://github.com/cutsea110/stable-marriage)|library around stable marriage algorithms||
 |4|[@fumieval](https://github.com/fumieval)/[**holz**](https://github.com/fumieval/holz)|(Un)abstract graphics library||
 |4|[@fumieval](https://github.com/fumieval)/[**jugendstil**](https://github.com/fumieval/jugendstil)|New Style GUI Library||
+|4|[@fumieval](https://github.com/fumieval)/[**liszt**](https://github.com/fumieval/liszt)|Publish & Subscribe||
 |4|[@halogenandtoast](https://github.com/halogenandtoast)/[**nhk-reader-haskell**](https://github.com/halogenandtoast/nhk-reader-haskell)|Haskell implementation of my NHK Reader|[:arrow_upper_right:](http://nhk.halogenandtoast.com/)|
 |4|[@himura](https://github.com/himura)/[**lens-regex**](https://github.com/himura/lens-regex)|Lens powered regular expression||
 |4|[@hiratara](https://github.com/hiratara)/[**lambdabot-hipchat-plugins**](https://github.com/hiratara/lambdabot-hipchat-plugins)|A plugin to connect lambdabot to HipChat||
@@ -205,6 +206,7 @@
 |4|[@maoe](https://github.com/maoe)/[**kc**](https://github.com/maoe/kc)|A syntax checker for keepalived.conf||
 |4|[@msakai](https://github.com/msakai)/[**ptq**](https://github.com/msakai/ptq)|An implementation of Montague's PTQ (Proper Treatment of Quantification).|[:arrow_upper_right:](http://msakai.jp/hiki/?hsPTQ)|
 |4|[@myuon](https://github.com/myuon)/[**bwitterkuchen**](https://github.com/myuon/bwitterkuchen)|CUI Twitter Client||
+|4|[@philopon](https://github.com/philopon)/[**barrier**](https://github.com/philopon/barrier)|Shield.io style badge generator||
 |4|[@syoyo](https://github.com/syoyo)/[**mudalang**](https://github.com/syoyo/mudalang)|MUDA(MUltiple Data Accelerator) language||
 |4|[@tanakh](https://github.com/tanakh)/[**ezoe**](https://github.com/tanakh/ezoe)|ezoe command||
 |4|[@tanakh](https://github.com/tanakh)/[**pi**](https://github.com/tanakh/pi)|calculate pi||
@@ -232,7 +234,6 @@
 |3|[@emonkak](https://github.com/emonkak)/[**skype-rest-api-server**](https://github.com/emonkak/skype-rest-api-server)|Can access Skype Desktop API using REST API||
 |3|[@emonkak](https://github.com/emonkak)/[**skype4hs**](https://github.com/emonkak/skype4hs)|Skype Desktop API Binding for Haskell||
 |3|[@fumieval](https://github.com/fumieval)/[**import-bikeshedder**](https://github.com/fumieval/import-bikeshedder)|||
-|3|[@fumieval](https://github.com/fumieval)/[**liszt**](https://github.com/fumieval/liszt)|Publish & Subscribe||
 |3|[@great-h](https://github.com/great-h)/[**auto_participant**](https://github.com/great-h/auto_participant)|すごい広島の参加者リストを作成するプログラム||
 |3|[@halogenandtoast](https://github.com/halogenandtoast)/[**mirin**](https://github.com/halogenandtoast/mirin)|A tiny redirection server in Spock backed by MySQL.||
 |3|[@himura](https://github.com/himura)/[**twitter-types-lens**](https://github.com/himura/twitter-types-lens)|This library treats the Twitter JSON API in the Haskell way.||
@@ -251,6 +252,7 @@
 |3|[@konn](https://github.com/konn)/[**graph-utils**](https://github.com/konn/graph-utils)|A simple wrapper for Data.Graph.Inductive.|[:arrow_upper_right:](http://haskell.g.hatena.ne.jp/mr_konn/)|
 |3|[@konn](https://github.com/konn)/[**oauth-test**](https://github.com/konn/oauth-test)|experiments for oauth support for yesod-auth||
 |3|[@konn](https://github.com/konn)/[**safe-printf**](https://github.com/konn/safe-printf)|Well-typed, flexible and variadic printf in Haskell.||
+|3|[@lesguillemets](https://github.com/lesguillemets)/[**nlp100-haskell**](https://github.com/lesguillemets/nlp100-haskell)|言語処理100本ノックを haskell で||
 |3|[@lesguillemets](https://github.com/lesguillemets)/[**sicp-haskell**](https://github.com/lesguillemets/sicp-haskell)|SICP in haskell, both exercises and sample codes.||
 |3|[@lotz84](https://github.com/lotz84)/[**SnakeGameHaskell**](https://github.com/lotz84/SnakeGameHaskell)|a snake game written in Haskell||
 |3|[@lotz84](https://github.com/lotz84)/[**chainFlyer**](https://github.com/lotz84/chainFlyer)|Bindings to chainFlyer's API.|[:arrow_upper_right:](http://lotz84.github.io/chainFlyer/)|
@@ -263,7 +265,6 @@
 |3|[@mrkn](https://github.com/mrkn)/[**sugoi-haskell-learning**](https://github.com/mrkn/sugoi-haskell-learning)|||
 |3|[@myuon](https://github.com/myuon)/[**automatoy**](https://github.com/myuon/automatoy)|toy toy toy||
 |3|[@myuon](https://github.com/myuon)/[**hakoniwa**](https://github.com/myuon/hakoniwa)|My miniature garden as ecosystem simulator ||
-|3|[@philopon](https://github.com/philopon)/[**barrier**](https://github.com/philopon/barrier)|Shield.io style badge generator||
 |3|[@philopon](https://github.com/philopon)/[**find-hackage**](https://github.com/philopon/find-hackage)|advanced hackage search|[:arrow_upper_right:](http://find-hackage.herokuapp.com/)|
 |3|[@pi8027](https://github.com/pi8027)/[**tifl**](https://github.com/pi8027/tifl)|type inference functional language (fork from lambda plus+)|[:arrow_upper_right:](https://github.com/pi8027/tifl)|
 |3|[@richardjharris](https://github.com/richardjharris)/[**haskell**](https://github.com/richardjharris/haskell)|Learning Haskell, one script at a time.||

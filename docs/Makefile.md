@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|57|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
+|58|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
 |56|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
 |42|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
@@ -26,6 +26,7 @@
 |7|[@lestrrat](https://github.com/lestrrat)/[**CatalystX-AppBuilder**](https://github.com/lestrrat/CatalystX-AppBuilder)|Programatically Build Your Catalyst Apps||
 |7|[@mumoshu](https://github.com/mumoshu)/[**kube-fluentd**](https://github.com/mumoshu/kube-fluentd)|An ubuntu-slim/s6-overlay/confd based docker image for running fluentd in Kubernetes pods/daemonsets||
 |6|[@Tomohiro](https://github.com/Tomohiro)/[**air**](https://github.com/Tomohiro/air)|Command-line AirPlay video client for Apple TV||
+|6|[@omochi](https://github.com/omochi)/[**JavaScriptCore-android-build**](https://github.com/omochi/JavaScriptCore-android-build)|Build JavaScriptCore for Android||
 |5|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiTwilioVoice**](https://github.com/yagitoshiro/TiTwilioVoice)|||
 |4|[@Keats](https://github.com/Keats)/[**vincent.is**](https://github.com/Keats/vincent.is)|My personal blog, powered by Pelican||
 |4|[@enukane](https://github.com/enukane)/[**c91-capturing-80211-2016**](https://github.com/enukane/c91-capturing-80211-2016)|C91頒布の「Capturing 802.11 ver.2016」の原稿データ (!= 完成pdf)||

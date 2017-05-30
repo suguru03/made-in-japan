@@ -37,6 +37,7 @@
 |3|[@dritoshi](https://github.com/dritoshi)/[**jsbi_chipseq**](https://github.com/dritoshi/jsbi_chipseq)|ChIP-seq data analysis with R + Bioconductor||
 |3|[@higepon](https://github.com/higepon)/[**EM_Algorithm_MixGaussians**](https://github.com/higepon/EM_Algorithm_MixGaussians)|||
 |3|[@hoxo-m](https://github.com/hoxo-m)/[**BoketePlayer**](https://github.com/hoxo-m/BoketePlayer)|Playing automatically bokete|[:arrow_upper_right:](https://hoxom.shinyapps.io/BoketePlayer/)|
+|3|[@kazutan](https://github.com/kazutan)/[**tubeplayR**](https://github.com/kazutan/tubeplayR)|play youtube by R||
 |3|[@rx007](https://github.com/rx007)/[**octo-r-course**](https://github.com/rx007/octo-r-course)|:tokyo_tower: R||
 |3|[@teramonagi](https://github.com/teramonagi)/[**GlobalTokyoR1**](https://github.com/teramonagi/GlobalTokyoR1)|Souce codes for study meeting "Global Tokyo.R 1"||
 |3|[@teramonagi](https://github.com/teramonagi)/[**R-FRBData**](https://github.com/teramonagi/R-FRBData)|Download data from FRB's website||

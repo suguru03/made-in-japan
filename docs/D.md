@@ -5,7 +5,7 @@
 |27|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
 |24|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
 |24|[@thorikawa](https://github.com/thorikawa)/[**AndroidObjectRecognition**](https://github.com/thorikawa/AndroidObjectRecognition)|App to demo using android camera and recognize specific object.||
-|14|[@kotet](https://github.com/kotet)/[**progress**](https://github.com/kotet/progress)|Easy progress reporting for D||
+|15|[@kotet](https://github.com/kotet)/[**progress**](https://github.com/kotet/progress)|Easy progress reporting for D||
 |12|[@repeatedly](https://github.com/repeatedly)/[**yajl-d**](https://github.com/repeatedly/yajl-d)|YAJL binding for D||
 |10|[@repeatedly](https://github.com/repeatedly)/[**xxhash-d**](https://github.com/repeatedly/xxhash-d)|D implementation of xxhash||
 |9|[@repeatedly](https://github.com/repeatedly)/[**d-volkswagen**](https://github.com/repeatedly/d-volkswagen)|Volkswagen detects when your tests are being run in a CI server, and makes them pass.||
@@ -14,6 +14,7 @@
 |8|[@repeatedly](https://github.com/repeatedly)/[**reed**](https://github.com/repeatedly/reed)|Arango Driver for D||
 |7|[@tanitta](https://github.com/tanitta)/[**easing**](https://github.com/tanitta/easing)|easing is a library that add flavor to motion in D programming language.||
 |6|[@alphaKAI](https://github.com/alphaKAI)/[**doco**](https://github.com/alphaKAI/doco)|Yet another fuzzy text selector.||
+|6|[@alphaKAI](https://github.com/alphaKAI)/[**unlocker**](https://github.com/alphaKAI/unlocker)|unlock/lock your PC by touching with FeliCa||
 |6|[@karahiyo](https://github.com/karahiyo)/[**btrace**](https://github.com/karahiyo/btrace)|[https://kenai.com/projects/btrace/]'s project.||
 |6|[@shawnps](https://github.com/shawnps)/[**kanjihub**](https://github.com/shawnps/kanjihub)|a hub for kanji||
 |5|[@Pctg-x8](https://github.com/Pctg-x8)/[**nanovg-d**](https://github.com/Pctg-x8/nanovg-d)|NanoVG porting for dlang||
@@ -24,7 +25,6 @@
 |5|[@namachan10777](https://github.com/namachan10777)/[**dmatch**](https://github.com/namachan10777/dmatch)|Pattern match for D Language.||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**HindleyMilnerD**](https://github.com/alphaKAI/HindleyMilnerD)|A HindleyMilner Type Inference System for mini-ML in D.||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dilo**](https://github.com/alphaKAI/dilo)|A minimal Text Editor in D Language, ported from Kilo||
-|4|[@alphaKAI](https://github.com/alphaKAI)/[**unlocker**](https://github.com/alphaKAI/unlocker)|unlock/lock your PC by touching with FeliCa||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**workermanager**](https://github.com/alphaKAI/workermanager)|Multi-thread based asynchronized worker manager||
 |4|[@kazoo04](https://github.com/kazoo04)/[**progress-d**](https://github.com/kazoo04/progress-d)|||
 |4|[@kubo39](https://github.com/kubo39)/[**elfhook.d**](https://github.com/kubo39/elfhook.d)|monkey patching for shared object.||

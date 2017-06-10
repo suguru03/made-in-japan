@@ -10,6 +10,6 @@
     "lodash": "^4.17.4",
     "made-in-generator": "^0.2.2",
     "minimist": "^1.2.0",
-    "require-dir": "^0.3.0"
+    "require-dir": "^0.3.2"
   }
 }

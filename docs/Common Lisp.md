@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |607|[@fukamachi](https://github.com/fukamachi)/[**clack**](https://github.com/fukamachi/clack)|Web application environment for Common Lisp||
-|533|[@fukamachi](https://github.com/fukamachi)/[**woo**](https://github.com/fukamachi/woo)|A fast non-blocking HTTP server on top of libev|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Woo_(kaiju))|
-|428|[@fukamachi](https://github.com/fukamachi)/[**caveman**](https://github.com/fukamachi/caveman)|Lightweight web application framework for Common Lisp.|[:arrow_upper_right:](http://8arrow.org/caveman/)|
+|534|[@fukamachi](https://github.com/fukamachi)/[**woo**](https://github.com/fukamachi/woo)|A fast non-blocking HTTP server on top of libev|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Woo_(kaiju))|
+|429|[@fukamachi](https://github.com/fukamachi)/[**caveman**](https://github.com/fukamachi/caveman)|Lightweight web application framework for Common Lisp.|[:arrow_upper_right:](http://8arrow.org/caveman/)|
 |261|[@fukamachi](https://github.com/fukamachi)/[**fast-http**](https://github.com/fukamachi/fast-http)|A fast HTTP request/response parser for Common Lisp.||
 |129|[@fukamachi](https://github.com/fukamachi)/[**prove**](https://github.com/fukamachi/prove)|Yet another unit testing framework for Common Lisp||
 |126|[@fukamachi](https://github.com/fukamachi)/[**ningle**](https://github.com/fukamachi/ningle)|Super micro framework for Common Lisp|[:arrow_upper_right:](http://8arrow.org/ningle/)|
@@ -10,10 +10,10 @@
 |97|[@fukamachi](https://github.com/fukamachi)/[**qlot**](https://github.com/fukamachi/qlot)|A project-local library installer for Common Lisp||
 |96|[@mathematical-systems](https://github.com/mathematical-systems)/[**clml**](https://github.com/mathematical-systems/clml)|Common Lisp Machine Learning Library||
 |93|[@fukamachi](https://github.com/fukamachi)/[**sxql**](https://github.com/fukamachi/sxql)|A SQL generator for Common Lisp.||
-|81|[@fukamachi](https://github.com/fukamachi)/[**cl-dbi**](https://github.com/fukamachi/cl-dbi)|Database independent interface for Common Lisp||
+|82|[@fukamachi](https://github.com/fukamachi)/[**cl-dbi**](https://github.com/fukamachi/cl-dbi)|Database independent interface for Common Lisp||
 |79|[@fukamachi](https://github.com/fukamachi)/[**cl-project**](https://github.com/fukamachi/cl-project)|Generate modern project skeletons||
-|68|[@fukamachi](https://github.com/fukamachi)/[**dexador**](https://github.com/fukamachi/dexador)|Yet another HTTP client for Common Lisp|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Dexador)|
-|65|[@guicho271828](https://github.com/guicho271828)/[**inlined-generic-function**](https://github.com/guicho271828/inlined-generic-function)|Bringing the speed of Static Dispatch to CLOS||
+|69|[@fukamachi](https://github.com/fukamachi)/[**dexador**](https://github.com/fukamachi/dexador)|Yet another HTTP client for Common Lisp|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Dexador)|
+|65|[@guicho271828](https://github.com/guicho271828)/[**inlined-generic-fu…**](https://github.com/guicho271828/inlined-generic-function)|Bringing the speed of Static Dispatch to CLOS||
 |61|[@fukamachi](https://github.com/fukamachi)/[**shelly**](https://github.com/fukamachi/shelly)|Make Common Lisp shell-friendly.||
 |60|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**jonathan**](https://github.com/Rudolph-Miller/jonathan)|JSON encoder and decoder.|[:arrow_upper_right:](http://rudolph-miller.github.io/jonathan/overview.html)|
 |55|[@guicho271828](https://github.com/guicho271828)/[**trivia**](https://github.com/guicho271828/trivia)|Pattern Matcher Compatible with Optima||
@@ -69,7 +69,7 @@
 |10|[@sile](https://github.com/sile)/[**cl-asm**](https://github.com/sile/cl-asm)|A x86 assembler in Commn Lisp||
 |10|[@snmsts](https://github.com/snmsts)/[**cserial-port**](https://github.com/snmsts/cserial-port)|serial-port accessing library for common lisp||
 |9|[@fukamachi](https://github.com/fukamachi)/[**sanitized-params**](https://github.com/fukamachi/sanitized-params)|Filter params||
-|9|[@guicho271828](https://github.com/guicho271828)/[**macroexpand-dammit**](https://github.com/guicho271828/macroexpand-dammit)|a portable code walker for Common Lisp by John Fremlin||
+|9|[@guicho271828](https://github.com/guicho271828)/[**macroexpand-dammit…**](https://github.com/guicho271828/macroexpand-dammit)|a portable code walker for Common Lisp by John Fremlin||
 |9|[@sile](https://github.com/sile)/[**taomp-sbcl**](https://github.com/sile/taomp-sbcl)|A lisp(sbcl) implementation of the algorithms described in 『The Art of Multiprocessor Programming』||
 |8|[@fukamachi](https://github.com/fukamachi)/[**cl-cookie**](https://github.com/fukamachi/cl-cookie)|HTTP cookie manager||
 |8|[@fukamachi](https://github.com/fukamachi)/[**cl-line-bot-sdk**](https://github.com/fukamachi/cl-line-bot-sdk)|SDK for the LINE Messaging API for Common Lisp||
@@ -90,7 +90,7 @@
 |6|[@DeaR](https://github.com/DeaR)/[**xl-git**](https://github.com/DeaR/xl-git)|A front-end for git in xyzzy||
 |6|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**clipper**](https://github.com/Rudolph-Miller/clipper)|File attachment library.|[:arrow_upper_right:](http://rudolph-miller.github.io/clipper/overview.html)|
 |6|[@fukamachi](https://github.com/fukamachi)/[**mito-attachment**](https://github.com/fukamachi/mito-attachment)|Mito mixin class for file management outside of RDBMS||
-|6|[@guicho271828](https://github.com/guicho271828)/[**cl-simple-neuralnet**](https://github.com/guicho271828/cl-simple-neuralnet)|This is a toy implementation of multiple-layered neural network in cl.||
+|6|[@guicho271828](https://github.com/guicho271828)/[**cl-simple-neuralne…**](https://github.com/guicho271828/cl-simple-neuralnet)|This is a toy implementation of multiple-layered neural network in cl.||
 |6|[@omasanori](https://github.com/omasanori)/[**franz-lisp**](https://github.com/omasanori/franz-lisp)|The source code of Franz Lisp||
 |6|[@onixie](https://github.com/onixie)/[**w32api**](https://github.com/onixie/w32api)|||
 |6|[@tomoyuki28jp](https://github.com/tomoyuki28jp)/[**stumpwm**](https://github.com/tomoyuki28jp/stumpwm)|my stumpwm config||
@@ -100,8 +100,8 @@
 |5|[@fukamachi](https://github.com/fukamachi)/[**gotanda**](https://github.com/fukamachi/gotanda)|||
 |5|[@fukamachi](https://github.com/fukamachi)/[**myway**](https://github.com/fukamachi/myway)|Sinatra-compatible URL routing library for Common Lisp||
 |5|[@fukamachi](https://github.com/fukamachi)/[**ponzu.db**](https://github.com/fukamachi/ponzu.db)|O/R Mapper, a part of Ponzu Framework, for Common Lisp||
-|5|[@guicho271828](https://github.com/guicho271828)/[**file-local-variable**](https://github.com/guicho271828/file-local-variable)|File-local variable independent from ASDF||
-|5|[@guicho271828](https://github.com/guicho271828)/[**recursive-macroexpansion**](https://github.com/guicho271828/recursive-macroexpansion)|Provides another `macroexpand`||
+|5|[@guicho271828](https://github.com/guicho271828)/[**file-local-variabl…**](https://github.com/guicho271828/file-local-variable)|File-local variable independent from ASDF||
+|5|[@guicho271828](https://github.com/guicho271828)/[**recursive-macroexp…**](https://github.com/guicho271828/recursive-macroexpansion)|Provides another `macroexpand`||
 |5|[@imasahiro](https://github.com/imasahiro)/[**femtoutil**](https://github.com/imasahiro/femtoutil)|utility||
 |5|[@sile](https://github.com/sile)/[**cl-dawg**](https://github.com/sile/cl-dawg)|Direct Acyclic Word Graph||
 |5|[@snmsts](https://github.com/snmsts)/[**trivial-clipboard**](https://github.com/snmsts/trivial-clipboard)|||
@@ -113,7 +113,7 @@
 |4|[@fukamachi](https://github.com/fukamachi)/[**can**](https://github.com/fukamachi/can)|A role-based access right control library.||
 |4|[@guicho271828](https://github.com/guicho271828)/[**bit-ops**](https://github.com/guicho271828/bit-ops)|Tools for writing optimized bit-vector routines||
 |4|[@guicho271828](https://github.com/guicho271828)/[**hypercast**](https://github.com/guicho271828/hypercast)|H Y P E R C A S T||
-|4|[@guicho271828](https://github.com/guicho271828)/[**trivialib.red-black-tree**](https://github.com/guicho271828/trivialib.red-black-tree)|based on optima-red-black-tree||
+|4|[@guicho271828](https://github.com/guicho271828)/[**trivialib.red-blac…**](https://github.com/guicho271828/trivialib.red-black-tree)|based on optima-red-black-tree||
 |4|[@hamano](https://github.com/hamano)/[**lispbot**](https://github.com/hamano/lispbot)|ircbot for lisp||
 |4|[@ichiban](https://github.com/ichiban)/[**cl-jack**](https://github.com/ichiban/cl-jack)|a thin JACK Audio Conection Kit wrapper written in Common Lisp||
 |4|[@onixie](https://github.com/onixie)/[**sb-mgraph**](https://github.com/onixie/sb-mgraph)|SBCL Memory Graph||
@@ -122,14 +122,14 @@
 |4|[@sile](https://github.com/sile)/[**jenkins-hash**](https://github.com/sile/jenkins-hash)|jenkins hash function||
 |4|[@sile](https://github.com/sile)/[**loop**](https://github.com/sile/loop)|generic loop package||
 |3|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**integral-rest**](https://github.com/Rudolph-Miller/integral-rest)|REST APIs for Integral DAO Table.|[:arrow_upper_right:](http://rudolph-miller.github.io/integral-rest/overview.html)|
-|3|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**lack-middleware-sql-logger**](https://github.com/Rudolph-Miller/lack-middleware-sql-logger)|||
+|3|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**lack-middleware-sq…**](https://github.com/Rudolph-Miller/lack-middleware-sql-logger)|||
 |3|[@cranebird](https://github.com/cranebird)/[**secd**](https://github.com/cranebird/secd)|Scheme Compiler based on SECD machine (toy project)|[:arrow_upper_right:](http://d.hatena.ne.jp/cranebird)|
 |3|[@fukamachi](https://github.com/fukamachi)/[**asdf-c-test-file**](https://github.com/fukamachi/asdf-c-test-file)|Provides ASDF component :test-file.||
 |3|[@fukamachi](https://github.com/fukamachi)/[**fukacl**](https://github.com/fukamachi/fukacl)|Fukamachi Common Lisp Package||
 |3|[@fukamachi](https://github.com/fukamachi)/[**multival-plist**](https://github.com/fukamachi/multival-plist)|Property List stores multiple values per one key.||
 |3|[@fukamachi](https://github.com/fukamachi)/[**sxql-abstract**](https://github.com/fukamachi/sxql-abstract)|An abstraction layer for SQL between RDBMS.||
-|3|[@guicho271828](https://github.com/guicho271828)/[**data-structures-in-common-lisp**](https://github.com/guicho271828/data-structures-in-common-lisp)|A survey of data structure availability / quality in common lisp||
-|3|[@guicho271828](https://github.com/guicho271828)/[**quicklisp-project-submission**](https://github.com/guicho271828/quicklisp-project-submission)|Submit to quicklisp-project/issues from your REPL!||
+|3|[@guicho271828](https://github.com/guicho271828)/[**data-structures-in…**](https://github.com/guicho271828/data-structures-in-common-lisp)|A survey of data structure availability / quality in common lisp||
+|3|[@guicho271828](https://github.com/guicho271828)/[**quicklisp-project-…**](https://github.com/guicho271828/quicklisp-project-submission)|Submit to quicklisp-project/issues from your REPL!||
 |3|[@hayamiz](https://github.com/hayamiz)/[**LitMatch**](https://github.com/hayamiz/LitMatch)|Literal pattern matching library in common lisp||
 |3|[@k0kubun](https://github.com/k0kubun)/[**legacy-dotfiles**](https://github.com/k0kubun/legacy-dotfiles)|Configuration for my client machines||
 |3|[@mathematical-systems](https://github.com/mathematical-systems)/[**cffi-fortran**](https://github.com/mathematical-systems/cffi-fortran)|Fortran binding macros for CFFI||

@@ -28,11 +28,11 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |6|[@zick](https://github.com/zick)/[**OCamLisp**](https://github.com/zick/OCamLisp)|Lisp implementation in OCaml||
 |5|[@AltGr](https://github.com/AltGr)/[**Contre-jour**](https://github.com/AltGr/Contre-jour)|A toy image gallery application for OPA||
 |5|[@AltGr](https://github.com/AltGr)/[**opam-bundle**](https://github.com/AltGr/opam-bundle)|A tool that creates stand-alone source bundles from opam packages||
-|5|[@master-q](https://github.com/master-q)/[**readPurelyFunctionalDataStructures**](https://github.com/master-q/readPurelyFunctionalDataStructures)|||
+|5|[@master-q](https://github.com/master-q)/[**readPurelyFunction…**](https://github.com/master-q/readPurelyFunctionalDataStructures)|||
 |5|[@nineties](https://github.com/nineties)/[**puref**](https://github.com/nineties/puref)|Simple purely functional language.||
 |5|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocaml_asm**](https://github.com/yoshihiro503/ocaml_asm)|GNU as library for ocaml||
 |5|[@yutopp](https://github.com/yutopp)/[**ytscript**](https://github.com/yutopp/ytscript)|||
-|4|[@0zat](https://github.com/0zat)/[**webidl**](https://github.com/0zat/webidl)|webidl parser||
+|4|[@0zat](https://github.com/0zat)/[**webidl**](https://github.com/0zat/webidl)|Web IDL parser of OCaml||
 |4|[@AltGr](https://github.com/AltGr)/[**ocp-sha**](https://github.com/AltGr/ocp-sha)|Pure OCaml implementation of SHA256 and SHA512||
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**get_line**](https://github.com/UnixJunkie/get_line)|get line at index i from file f (a missing unix command); will crash early and loud if any problem on the contrary to awk||
 |4|[@komamitsu](https://github.com/komamitsu)/[**OCaml-minilisp**](https://github.com/komamitsu/OCaml-minilisp)|mini lisp in OCaml||
@@ -40,7 +40,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |4|[@kuy](https://github.com/kuy)/[**nada.re**](https://github.com/kuy/nada.re)|Visualization of Abelian sandpile model written in Reason + Obelisk.js.||
 |4|[@mzp](https://github.com/mzp)/[**coq-ide-for-ios**](https://github.com/mzp/coq-ide-for-ios)|||
 |4|[@mzp](https://github.com/mzp)/[**coq-js**](https://github.com/mzp/coq-js)|||
-|4|[@tyage](https://github.com/tyage)/[**experiment-4-ocaml**](https://github.com/tyage/experiment-4-ocaml)|計算機科学実験及演習4 プログラム検証||
+|4|[@tyage](https://github.com/tyage)/[**experiment-4-ocaml…**](https://github.com/tyage/experiment-4-ocaml)|計算機科学実験及演習4 プログラム検証||
 |4|[@yutopp](https://github.com/yutopp)/[**obeam**](https://github.com/yutopp/obeam)|[WIP] A utility library for parsing BEAM format(and Erlang External Term Format, etc) which is written in OCaml.||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**orc4**](https://github.com/UnixJunkie/orc4)|RC4 implementation in OCaml||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**vector3**](https://github.com/UnixJunkie/vector3)|module for 3D vectors (implemented as a record of x, y and z floats)||

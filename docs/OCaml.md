@@ -6,14 +6,14 @@
 |33|[@mzp](https://github.com/mzp)/[**ocaml-hoogle**](https://github.com/mzp/ocaml-hoogle)|OCaml API search allows you to search many standard O'Caml libraries by either function name, or by approximate type signature. It is similar to Hoogle, which is a Haskell API search engine.
 
 You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)|
-|22|[@kuy](https://github.com/kuy)/[**reason-of-life**](https://github.com/kuy/reason-of-life)|Conway's Lifegame in Reason + reason-react with webpack + bs-loader.||
+|23|[@kuy](https://github.com/kuy)/[**reason-of-life**](https://github.com/kuy/reason-of-life)|Conway's Lifegame in Reason + reason-react with webpack + bs-loader.||
 |20|[@UnixJunkie](https://github.com/UnixJunkie)/[**dolog**](https://github.com/UnixJunkie/dolog)|A dumb OCaml logger||
 |16|[@mzp](https://github.com/mzp)/[**websocket-ocaml**](https://github.com/mzp/websocket-ocaml)|WebSocket Server for OCaml|[:arrow_upper_right:](http://eva-lu-ator.net/redmine/projects/websocket-ocaml)|
 |15|[@UnixJunkie](https://github.com/UnixJunkie)/[**daft**](https://github.com/UnixJunkie/daft)|DAFT Allows File Transfers||
 |13|[@mzp](https://github.com/mzp)/[**msgpack-ocaml**](https://github.com/mzp/msgpack-ocaml)|MessagePack for OCaml/Coq|[:arrow_upper_right:](http://mzp.github.com/msgpack-ocaml/refman)|
 |12|[@AltGr](https://github.com/AltGr)/[**Camelus**](https://github.com/AltGr/Camelus)|Bot posting reports on opam-repository pull-request using a web hook||
+|12|[@mzp](https://github.com/mzp)/[**coq-ruby**](https://github.com/mzp/coq-ruby)|||
 |11|[@mzp](https://github.com/mzp)/[**bs-lwt**](https://github.com/mzp/bs-lwt)|BuckleScript bindings for Lwt||
-|11|[@mzp](https://github.com/mzp)/[**coq-ruby**](https://github.com/mzp/coq-ruby)|||
 |10|[@UnixJunkie](https://github.com/UnixJunkie)/[**ACPC**](https://github.com/UnixJunkie/ACPC)|Chemoinformatics tool for ligand-based virtual screening||
 |10|[@hanazuki](https://github.com/hanazuki)/[**miniml**](https://github.com/hanazuki/miniml)|Tiny ML interpreter||
 |10|[@ksuenaga](https://github.com/ksuenaga)/[**IoPLMaterials**](https://github.com/ksuenaga/IoPLMaterials)|Materials for the class "Implementation of Programming Languages" in Kyoto University.||
@@ -35,6 +35,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |4|[@0zat](https://github.com/0zat)/[**webidl**](https://github.com/0zat/webidl)|Web IDL parser of OCaml||
 |4|[@AltGr](https://github.com/AltGr)/[**ocp-sha**](https://github.com/AltGr/ocp-sha)|Pure OCaml implementation of SHA256 and SHA512||
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**get_line**](https://github.com/UnixJunkie/get_line)|get line at index i from file f (a missing unix command); will crash early and loud if any problem on the contrary to awk||
+|4|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|parallelize anything||
 |4|[@komamitsu](https://github.com/komamitsu)/[**OCaml-minilisp**](https://github.com/komamitsu/OCaml-minilisp)|mini lisp in OCaml||
 |4|[@komamitsu](https://github.com/komamitsu)/[**OCatra**](https://github.com/komamitsu/OCatra)|Simple web server library for OCaml like Sinatra||
 |4|[@kuy](https://github.com/kuy)/[**nada.re**](https://github.com/kuy/nada.re)|Visualization of Abelian sandpile model written in Reason + Obelisk.js.||

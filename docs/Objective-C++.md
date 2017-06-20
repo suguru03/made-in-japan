@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|325|[@fjolnir](https://github.com/fjolnir)/[**Tranquil**](https://github.com/fjolnir/Tranquil)|A language built on top of the Objective-C runtime, and ABI compatible with Objective-C.||
-|90|[@craftzdog](https://github.com/craftzdog)/[**caffe-ios-sample**](https://github.com/craftzdog/caffe-ios-sample)|An example of XCode project using Caffe: a fast open framework for deep learning||
+|323|[@fjolnir](https://github.com/fjolnir)/[**Tranquil**](https://github.com/fjolnir/Tranquil)|A language built on top of the Objective-C runtime, and ABI compatible with Objective-C.||
+|91|[@craftzdog](https://github.com/craftzdog)/[**caffe-ios-sample**](https://github.com/craftzdog/caffe-ios-sample)|An example of XCode project using Caffe: a fast open framework for deep learning||
 |89|[@noradaiko](https://github.com/noradaiko)/[**caffe-ios-sample**](https://github.com/noradaiko/caffe-ios-sample)|An example of XCode project using Caffe: a fast open framework for deep learning||
 |20|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxDisplayConf**](https://github.com/Akira-Hayasaka/ofxDisplayConf)|openFrameworks addon for display/projector configuration using CoreGraphics (private) API.||
 |12|[@motoishmz](https://github.com/motoishmz)/[**ofxDisplayLayout**](https://github.com/motoishmz/ofxDisplayLayout)|ofxDisplayLayout grabs the display unique id, and aligns your displays vertically/horizontally||

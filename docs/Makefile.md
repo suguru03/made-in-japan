@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|62|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
+|66|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
 |57|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
 |44|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
+|25|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
 |25|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
-|24|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
 |23|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |22|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-24.5-doc-ema…**](https://github.com/ayatakesi/emacs-24.5-doc-emacs)|emacsマニュアルの日本語化と公開|[:arrow_upper_right:](https://ayatakesi.github.io/)|
 |22|[@norton](https://github.com/norton)/[**erlang-starter-kit…**](https://github.com/norton/erlang-starter-kit)|Provide a basic set of Erlang/OTP tools for development and for testing||
@@ -35,6 +35,7 @@
 |4|[@ykzts](https://github.com/ykzts)/[**omanko.porn**](https://github.com/ykzts/omanko.porn)||[:arrow_upper_right:](https://omanko.porn/)|
 |3|[@RKX1209](https://github.com/RKX1209)/[**OpenVpnRouter**](https://github.com/RKX1209/OpenVpnRouter)|OpenVpnRouter is a VPN router. ||
 |3|[@cybergarage](https://github.com/cybergarage)/[**round**](https://github.com/cybergarage/round)|Round for C|[:arrow_upper_right:](http://www.cybergarage.org/)|
+|3|[@enukane](https://github.com/enukane)/[**c90-plan9-assemble…**](https://github.com/enukane/c90-plan9-assembler-handbook)|C90で頒布した "Plan 9 Assembler Handbook" の文章データ||
 |3|[@jj1bdx](https://github.com/jj1bdx)/[**erlang-freebsd-por…**](https://github.com/jj1bdx/erlang-freebsd-port)|Tentative private FreeBSD Erlang Port for 18.2||
 |3|[@kdmsnr](https://github.com/kdmsnr)/[**NexusGuide**](https://github.com/kdmsnr/NexusGuide)|||
 |3|[@mkouhei](https://github.com/mkouhei)/[**makefile-go**](https://github.com/mkouhei/makefile-go)|Makefile for Golang||

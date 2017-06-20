@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|48|[@r7kamura](https://github.com/r7kamura)/[**mastodon-terraform…**](https://github.com/r7kamura/mastodon-terraform)|Boilerplate for running Mastodon on AWS using Terraform and CircleCI.||
+|49|[@r7kamura](https://github.com/r7kamura)/[**mastodon-terraform…**](https://github.com/r7kamura/mastodon-terraform)|Boilerplate for running Mastodon on AWS using Terraform and CircleCI.||
 |13|[@knakayama](https://github.com/knakayama)/[**aws-terraform-play…**](https://github.com/knakayama/aws-terraform-playground)|terraform examples on AWS||
 |11|[@inokappa](https://github.com/inokappa)/[**oreno-terraform-ec…**](https://github.com/inokappa/oreno-terraform-ecs)|||
 |9|[@freedomofkeima](https://github.com/freedomofkeima)/[**terraform-docker-e…**](https://github.com/freedomofkeima/terraform-docker-ecs)|Manage your ASG + ECS Cluster (Docker) with Terraform||
-|6|[@knakayama](https://github.com/knakayama)/[**terraform-circleci…**](https://github.com/knakayama/terraform-circleci-demo)|||
+|7|[@knakayama](https://github.com/knakayama)/[**terraform-circleci…**](https://github.com/knakayama/terraform-circleci-demo)|||
+|7|[@zembutsu](https://github.com/zembutsu)/[**sakura-terraform**](https://github.com/zembutsu/sakura-terraform)|Terraform for Sakura Cloud samples||
 |6|[@matsuu](https://github.com/matsuu)/[**terraform-isucon**](https://github.com/matsuu/terraform-isucon)|Terraform configuration files for building ISUCON environment||
 |6|[@shogomuranushi](https://github.com/shogomuranushi)/[**stns-apibackend**](https://github.com/shogomuranushi/stns-apibackend)|||
-|6|[@zembutsu](https://github.com/zembutsu)/[**sakura-terraform**](https://github.com/zembutsu/sakura-terraform)|Terraform for Sakura Cloud samples||
 |5|[@shufo](https://github.com/shufo)/[**terraform-boilerpl…**](https://github.com/shufo/terraform-boilerplate-ecs-alb)|Terraform boilerplate for ECS with ALB.||
 |4|[@ToruMakabe](https://github.com/ToruMakabe)/[**Terraform_Azure_Sa…**](https://github.com/ToruMakabe/Terraform_Azure_Sample)|||
 |4|[@tcnksm](https://github.com/tcnksm)/[**tf-dnsimple-gh-pag…**](https://github.com/tcnksm/tf-dnsimple-gh-pages)|Setup custom apex domain for your GitHub pages with Terraform||

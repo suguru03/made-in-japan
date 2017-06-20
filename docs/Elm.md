@@ -5,9 +5,9 @@
 |44|[@jinjor](https://github.com/jinjor)/[**elm-devtool**](https://github.com/jinjor/elm-devtool)|An attempt to use Elm's debugger on Chrome DevTools||
 |26|[@jinjor](https://github.com/jinjor)/[**elm-html-parser**](https://github.com/jinjor/elm-html-parser)|Parse HTML in Elm!|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-html-parser/latest)|
 |21|[@cotoami](https://github.com/cotoami)/[**cotoami**](https://github.com/cotoami/cotoami)|Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.|[:arrow_upper_right:](https://cotoa.me)|
+|13|[@jinjor](https://github.com/jinjor)/[**elm-debounce**](https://github.com/jinjor/elm-debounce)|Yet another debouncer for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-debounce/latest/)|
 |13|[@jinjor](https://github.com/jinjor)/[**elm-video-chat**](https://github.com/jinjor/elm-video-chat)|video chat system by Elm||
 |12|[@jinjor](https://github.com/jinjor)/[**elm-inline-hover**](https://github.com/jinjor/elm-inline-hover)|An utility for using :hover by inline style|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-inline-hover/latest)|
-|10|[@jinjor](https://github.com/jinjor)/[**elm-debounce**](https://github.com/jinjor/elm-debounce)|Yet another debouncer for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-debounce/latest/)|
 |9|[@jinjor](https://github.com/jinjor)/[**elm-contextmenu**](https://github.com/jinjor/elm-contextmenu)|Flexible context menu for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-contextmenu/latest)|
 |7|[@jinjor](https://github.com/jinjor)/[**elm-diff**](https://github.com/jinjor/elm-diff)|A diff implementation for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-diff/latest)|
 |7|[@jinjor](https://github.com/jinjor)/[**elm-transition**](https://github.com/jinjor/elm-transition)|A simple transition library for Elm||

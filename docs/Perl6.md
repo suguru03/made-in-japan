@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |50|[@tokuhirom](https://github.com/tokuhirom)/[**p6-Crust**](https://github.com/tokuhirom/p6-Crust)|PSGI library stack for Perl6||
-|23|[@skaji](https://github.com/skaji)/[**mi6**](https://github.com/skaji/mi6)|minimal authoring tool for Perl6||
+|24|[@skaji](https://github.com/skaji)/[**mi6**](https://github.com/skaji/mi6)|minimal authoring tool for Perl6||
 |15|[@skaji](https://github.com/skaji)/[**Frinfon**](https://github.com/skaji/Frinfon)|minimal sinatra for perl6||
 |12|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-Server-Tin…**](https://github.com/tokuhirom/p6-HTTP-Server-Tiny)|Web application server for Perl6||
 |9|[@lopnor](https://github.com/lopnor)/[**p6-plackdo**](https://github.com/lopnor/p6-plackdo)|plack-like web interface for perl6||

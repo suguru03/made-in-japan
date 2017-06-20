@@ -5,8 +5,8 @@
 |32|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
-|18|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
-|17|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
+|18|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
+|17|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
 |14|[@hoxo-m](https://github.com/hoxo-m)/[**dplyrr**](https://github.com/hoxo-m/dplyrr)|Utilities for comfortable use of dplyr with databases||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RFinanceJ**](https://github.com/teramonagi/RFinanceJ)|Get the data related to finance in Japan using variety types of data sources||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RODBCDBI**](https://github.com/teramonagi/RODBCDBI)|An implementation of R's DBI interface using ODBC package as a back-end. This allows R to connect to any DBMS that has a ODBC driver.|[:arrow_upper_right:](https://cran.r-project.org/web/packages/RODBCDBI/index.html)|
@@ -22,6 +22,7 @@
 |5|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**Detectives**](https://github.com/IshidaMotohiro/Detectives)|for "Data Detectives", Soft Bank 2015||
 |5|[@hoxo-m](https://github.com/hoxo-m)/[**bayesopt**](https://github.com/hoxo-m/bayesopt)|An R Implementation of Bayesian Optimization|[:arrow_upper_right:](https://github.com/hoxo-m/bayesopt)|
 |5|[@hoxo-m](https://github.com/hoxo-m)/[**lambdaR**](https://github.com/hoxo-m/lambdaR)|Novel lambda expressions in R|[:arrow_upper_right:](https://github.com/hoxo-m/lambdaR)|
+|5|[@uribo](https://github.com/uribo)/[**wakatimer**](https://github.com/uribo/wakatimer)|:hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.||
 |5|[@yutannihilation](https://github.com/yutannihilation)/[**wunderlistr**](https://github.com/yutannihilation/wunderlistr)|R bindings for Wunderlist API||
 |4|[@dritoshi](https://github.com/dritoshi)/[**genesearchr**](https://github.com/dritoshi/genesearchr)|Fast full-text search in NCBI RefSeq, UniProt-KB and Genome DNA sequence||
 |4|[@dritoshi](https://github.com/dritoshi)/[**orenogb**](https://github.com/dritoshi/orenogb)|Visualization command for genomic data||
@@ -30,7 +31,6 @@
 |4|[@teramonagi](https://github.com/teramonagi)/[**oandar**](https://github.com/teramonagi/oandar)|R wrapper for the OANDA REST API (http://developer.oanda.com/rest-live/introduction/)||
 |4|[@teramonagi](https://github.com/teramonagi)/[**rOpenWeatherMap**](https://github.com/teramonagi/rOpenWeatherMap)|Get weather data from OpenWeatherMap(http://openweathermap.org/)||
 |4|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](http://uribo.github.io/jpmesh)|
-|4|[@uribo](https://github.com/uribo)/[**wakatimer**](https://github.com/uribo/wakatimer)|:hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.||
 |3|[@chezou](https://github.com/chezou)/[**sparkavro**](https://github.com/chezou/sparkavro)|Load Avro data into Spark with sparklyr||
 |3|[@dichika](https://github.com/dichika)/[**R**](https://github.com/dichika/R)|R code||
 |3|[@dichika](https://github.com/dichika)/[**sinchokur**](https://github.com/dichika/sinchokur)|進捗を支える技術||

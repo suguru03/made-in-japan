@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|228|[@keijiro](https://github.com/keijiro)/[**ShaderSketches**](https://github.com/keijiro/ShaderSketches)|KodeLife shader sketches I wrote while commuting||
+|229|[@keijiro](https://github.com/keijiro)/[**ShaderSketches**](https://github.com/keijiro/ShaderSketches)|KodeLife shader sketches I wrote while commuting||
 |89|[@keijiro](https://github.com/keijiro)/[**NoiseShader**](https://github.com/keijiro/NoiseShader)|Noise shader library for Unity||
-|43|[@keijiro](https://github.com/keijiro)/[**CrossFadingLod**](https://github.com/keijiro/CrossFadingLod)|Cross-fading LOD shader example for Unity 5||
+|44|[@keijiro](https://github.com/keijiro)/[**CrossFadingLod**](https://github.com/keijiro/CrossFadingLod)|Cross-fading LOD shader example for Unity 5||
 |41|[@tado](https://github.com/tado)/[**ofxGLSLSandbox**](https://github.com/tado/ofxGLSLSandbox)|openFrameworks addons to view / edit GLSL sandbox's shaders (http://glsl.heroku.com/).||
 |40|[@keijiro](https://github.com/keijiro)/[**ShadowDrawer**](https://github.com/keijiro/ShadowDrawer)|Shadow matte shader for Unity||
 |36|[@keijiro](https://github.com/keijiro)/[**GyroCam**](https://github.com/keijiro/GyroCam)|Quasi-AR with gyroscopic input||
@@ -12,7 +12,7 @@
 |21|[@FMS-Cat](https://github.com/FMS-Cat)/[**type**](https://github.com/FMS-Cat/type)|9,105 bytes WebGL Demo for TokyoDemoFest 2016||
 |19|[@yasuhirohoshino](https://github.com/yasuhirohoshino)/[**oF-thetaEquirectan…**](https://github.com/yasuhirohoshino/oF-thetaEquirectangular)|tested on oF 0.9.7||
 |17|[@keijiro](https://github.com/keijiro)/[**GaussianBlur**](https://github.com/keijiro/GaussianBlur)|Gaussian blur filter example||
-|13|[@keijiro](https://github.com/keijiro)/[**TestCards**](https://github.com/keijiro/TestCards)|A simple test pattern generator.||
+|14|[@keijiro](https://github.com/keijiro)/[**TestCards**](https://github.com/keijiro/TestCards)|A simple test pattern generator.||
 |12|[@keijiro](https://github.com/keijiro)/[**OnePassSubsampling…**](https://github.com/keijiro/OnePassSubsampling)|Unity example: Single pass chroma subsampling shader||
 |11|[@nryas](https://github.com/nryas)/[**SPHFluid**](https://github.com/nryas/SPHFluid)|An experimental implementation of smoothed-particle hydrodynamics (SPH) on Unity.||
 |10|[@hecomi](https://github.com/hecomi)/[**UnityRaymarchingSa…**](https://github.com/hecomi/UnityRaymarchingSample)|Unity3D Raymarching Simple Implementation.||

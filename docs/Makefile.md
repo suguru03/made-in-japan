@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|66|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
-|57|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
+|67|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
+|58|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
 |44|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
 |25|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
@@ -17,9 +17,9 @@
 |13|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiSocketIOClient**](https://github.com/yagitoshiro/TiSocketIOClient)|Socket.io client for Appcelerator Titanium||
 |12|[@user340](https://github.com/user340)/[**fdgw2**](https://github.com/user340/fdgw2)|Minimal NetBSD Distribution Making Tool||
 |11|[@zchee](https://github.com/zchee)/[**tmux-ja**](https://github.com/zchee/tmux-ja)|Translation tmux man page project||
+|10|[@Lewuathe](https://github.com/Lewuathe)/[**docker-presto-clus…**](https://github.com/Lewuathe/docker-presto-cluster)|Multiple node presto cluster on docker container||
 |10|[@hibari](https://github.com/hibari)/[**hibari-doc**](https://github.com/hibari/hibari-doc)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.|[:arrow_upper_right:](http://hibari.github.com/hibari-doc)|
 |10|[@uwabami](https://github.com/uwabami)/[**emacs**](https://github.com/uwabami/emacs)|Emacs の設定ファイル群|[:arrow_upper_right:](https://uwabami.github.io/cc-env/Emacs.html)|
-|9|[@Lewuathe](https://github.com/Lewuathe)/[**docker-presto-clus…**](https://github.com/Lewuathe/docker-presto-cluster)|Multiple node presto cluster on docker container||
 |9|[@akafugu](https://github.com/akafugu)/[**vetinari_clock**](https://github.com/akafugu/vetinari_clock)|A clock that ticks irregularly, yet keeps accurate time.||
 |9|[@daitomanabe](https://github.com/daitomanabe)/[**ofxTinySingleton**](https://github.com/daitomanabe/ofxTinySingleton)|tiny and simple singleton in C++11 way (for learning C++11||
 |8|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-25.1-doc-ema…**](https://github.com/ayatakesi/emacs-25.1-doc-emacs)|emacs25.1マニュアルの日本語化と公開||

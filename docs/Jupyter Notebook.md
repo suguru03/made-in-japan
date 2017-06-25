@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1739|[@jrjohansson](https://github.com/jrjohansson)/[**scientific-python-…**](https://github.com/jrjohansson/scientific-python-lectures)|Lectures on scientific computing with python, as IPython notebooks.||
-|186|[@Hironsan](https://github.com/Hironsan)/[**awesome-embedding-…**](https://github.com/Hironsan/awesome-embedding-models)|A curated list of awesome embedding models tutorials, projects and communities.||
-|96|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-for-abs…**](https://github.com/kazunori279/TensorFlow-for-absolute-beginners)|TensorFlow for absolute beginners: a 3-hour codelab for self-learning neural network basics without hard math.||
+|1746|[@jrjohansson](https://github.com/jrjohansson)/[**scientific-python-…**](https://github.com/jrjohansson/scientific-python-lectures)|Lectures on scientific computing with python, as IPython notebooks.||
+|189|[@Hironsan](https://github.com/Hironsan)/[**awesome-embedding-…**](https://github.com/Hironsan/awesome-embedding-models)|A curated list of awesome embedding models tutorials, projects and communities.||
+|100|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-for-abs…**](https://github.com/kazunori279/TensorFlow-for-absolute-beginners)|TensorFlow for absolute beginners: a 3-hour codelab for self-learning neural network basics without hard math.||
 |81|[@chezou](https://github.com/chezou)/[**julia-100-exercise…**](https://github.com/chezou/julia-100-exercises)|julia version of 100 numpy exercises||
 |68|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-Intro**](https://github.com/kazunori279/TensorFlow-Intro)|An easy TensorFlow introduction for all ML newbies.||
 |50|[@neubig](https://github.com/neubig)/[**yrsnlp-2016**](https://github.com/neubig/yrsnlp-2016)|Structured Neural Networks for NLP: From Idea to Code||
-|40|[@jrjohansson](https://github.com/jrjohansson)/[**numerical-python-b…**](https://github.com/jrjohansson/numerical-python-book-code)|||
+|41|[@jrjohansson](https://github.com/jrjohansson)/[**numerical-python-b…**](https://github.com/jrjohansson/numerical-python-book-code)|||
 |37|[@mitmul](https://github.com/mitmul)/[**chainer-handson**](https://github.com/mitmul/chainer-handson)|ハンズオンの資料||
 |33|[@bicycle1885](https://github.com/bicycle1885)/[**Julia-Tutorial**](https://github.com/bicycle1885/Julia-Tutorial)|高速でJuliaを学ぶチュートリアル||
 |33|[@chezou](https://github.com/chezou)/[**notebooks**](https://github.com/chezou/notebooks)|||

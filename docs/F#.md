@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |54|[@vain0](https://github.com/vain0)/[**VainZero.Friends**](https://github.com/vain0/VainZero.Friends)|PL for friends in the Japaripark (ジャパリパークのフレンズのためのプログラミング言語)||
-|44|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.Fus…**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
+|46|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.Fus…**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
 |37|[@pocketberserker](https://github.com/pocketberserker)/[**FsMachines**](https://github.com/pocketberserker/FsMachines)|A stream processing library for F#||
 |34|[@bleis-tift](https://github.com/bleis-tift)/[**FsYaml**](https://github.com/bleis-tift/FsYaml)|Typed Yaml Library for F#|[:arrow_upper_right:](http://bleis-tift.github.com/FsYaml)|
 |23|[@pocketberserker](https://github.com/pocketberserker)/[**FsAttoparsec**](https://github.com/pocketberserker/FsAttoparsec)|A port of Bryan O'Sullivan's attoparsec from Haskell to F#||
@@ -14,11 +14,11 @@
 |7|[@bleis-tift](https://github.com/bleis-tift)/[**TableDsl**](https://github.com/bleis-tift/TableDsl)|||
 |7|[@pocketberserker](https://github.com/pocketberserker)/[**ComVu**](https://github.com/pocketberserker/ComVu)|||
 |7|[@vain0](https://github.com/vain0)/[**tokiwa_db**](https://github.com/vain0/tokiwa_db)|Partially persistent relational database for .NET (半永続なリレーショナルデータベース)||
+|6|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Object.Diff…**](https://github.com/pocketberserker/FSharp.Object.Diff)|||
 |5|[@azyobuzin](https://github.com/azyobuzin)/[**kirabern**](https://github.com/azyobuzin/kirabern)|コンパイラつくるぞ！！！！||
 |5|[@bleis-tift](https://github.com/bleis-tift)/[**TypeProviderSample…**](https://github.com/bleis-tift/TypeProviderSample)|あわせて読んでほしい： http://d.hatena.ne.jp/bleis-tift/20110922/1316626354|[:arrow_upper_right:](http://d.hatena.ne.jp/bleis-tift/20110922/1316626354)|
 |5|[@kekyo](https://github.com/kekyo)/[**Microsoft.CodeAnal…**](https://github.com/kekyo/Microsoft.CodeAnalysis.ActivePatterns)|F# Active pattern helper functions for Roslyn C#/Visual Basic AST.||
 |5|[@moonmile](https://github.com/moonmile)/[**SampleFSharpUI**](https://github.com/moonmile/SampleFSharpUI)|F#でWPF+MVVMをするサンプルコード||
-|5|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Object.Diff…**](https://github.com/pocketberserker/FSharp.Object.Diff)|||
 |5|[@pocketberserker](https://github.com/pocketberserker)/[**PEGStudy**](https://github.com/pocketberserker/PEGStudy)|PEGと構文解析に関するアレコレの勉強会 Vol.1用に作ったもの置き場||
 |5|[@pocketberserker](https://github.com/pocketberserker)/[**free-monad-fsharp**](https://github.com/pocketberserker/free-monad-fsharp)|||
 |4|[@pocketberserker](https://github.com/pocketberserker)/[**Diff.Match.Patch**](https://github.com/pocketberserker/Diff.Match.Patch)|||

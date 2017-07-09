@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|67|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
-|58|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
-|44|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
+|70|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
+|61|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
+|45|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
-|25|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
+|26|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
 |25|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
 |23|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |22|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-24.5-doc-ema…**](https://github.com/ayatakesi/emacs-24.5-doc-emacs)|emacsマニュアルの日本語化と公開|[:arrow_upper_right:](https://ayatakesi.github.io/)|
@@ -12,8 +12,8 @@
 |16|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-a…**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/detail#/role/2961)|
 |16|[@uetchy](https://github.com/uetchy)/[**dockerfile-machine…**](https://github.com/uetchy/dockerfile-machinelearning)|Dockerfile for scientists studying Machine Learning.||
 |15|[@keiji](https://github.com/keiji)/[**farewell-adt-book**](https://github.com/keiji/farewell-adt-book)|Android Studio完全移行ガイド||
-|14|[@atsushieno](https://github.com/atsushieno)/[**android-fluidsynth…**](https://github.com/atsushieno/android-fluidsynth)|fluidsynth Android port / build||
 |14|[@itchyny](https://github.com/itchyny)/[**fastinvsqrt**](https://github.com/itchyny/fastinvsqrt)|Fast inverse square root in programming languages||
+|13|[@atsushieno](https://github.com/atsushieno)/[**android-fluidsynth…**](https://github.com/atsushieno/android-fluidsynth)|fluidsynth Android port / build||
 |13|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiSocketIOClient**](https://github.com/yagitoshiro/TiSocketIOClient)|Socket.io client for Appcelerator Titanium||
 |12|[@user340](https://github.com/user340)/[**fdgw2**](https://github.com/user340/fdgw2)|Minimal NetBSD Distribution Making Tool||
 |11|[@zchee](https://github.com/zchee)/[**tmux-ja**](https://github.com/zchee/tmux-ja)|Translation tmux man page project||
@@ -29,14 +29,15 @@
 |6|[@omochi](https://github.com/omochi)/[**JavaScriptCore-and…**](https://github.com/omochi/JavaScriptCore-android-build)|Build JavaScriptCore for Android||
 |5|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiTwilioVoice**](https://github.com/yagitoshiro/TiTwilioVoice)|||
 |4|[@Keats](https://github.com/Keats)/[**vincent.is**](https://github.com/Keats/vincent.is)|My personal blog, powered by Pelican||
+|4|[@RKX1209](https://github.com/RKX1209)/[**OpenVpnRouter**](https://github.com/RKX1209/OpenVpnRouter)|OpenVpnRouter is a VPN router. ||
 |4|[@enukane](https://github.com/enukane)/[**c91-capturing-8021…**](https://github.com/enukane/c91-capturing-80211-2016)|C91頒布の「Capturing 802.11 ver.2016」の原稿データ (!= 完成pdf)||
 |4|[@matsumotory](https://github.com/matsumotory)/[**build-kernel-4.x-f…**](https://github.com/matsumotory/build-kernel-4.x-for-centos6)|kernel-4.x build system for CentOS6 on CentOS6||
 |4|[@polamjag](https://github.com/polamjag)/[**chrome-theme-simpl…**](https://github.com/polamjag/chrome-theme-simple-blue)|a minimal theme for Google Chrome / Chromium|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/simple-blue/kglcjiiffdfngnjlgaalhdjjemihjfnd)|
 |4|[@ykzts](https://github.com/ykzts)/[**omanko.porn**](https://github.com/ykzts/omanko.porn)||[:arrow_upper_right:](https://omanko.porn/)|
-|3|[@RKX1209](https://github.com/RKX1209)/[**OpenVpnRouter**](https://github.com/RKX1209/OpenVpnRouter)|OpenVpnRouter is a VPN router. ||
 |3|[@cybergarage](https://github.com/cybergarage)/[**round**](https://github.com/cybergarage/round)|Round for C|[:arrow_upper_right:](http://www.cybergarage.org/)|
 |3|[@enukane](https://github.com/enukane)/[**c90-plan9-assemble…**](https://github.com/enukane/c90-plan9-assembler-handbook)|C90で頒布した "Plan 9 Assembler Handbook" の文章データ||
 |3|[@jj1bdx](https://github.com/jj1bdx)/[**erlang-freebsd-por…**](https://github.com/jj1bdx/erlang-freebsd-port)|Tentative private FreeBSD Erlang Port for 18.2||
+|3|[@kazuki](https://github.com/kazuki)/[**mediacodec.wasm**](https://github.com/kazuki/mediacodec.wasm)|Audio/Video Codec in WebAssembly||
 |3|[@kdmsnr](https://github.com/kdmsnr)/[**NexusGuide**](https://github.com/kdmsnr/NexusGuide)|||
 |3|[@mkouhei](https://github.com/mkouhei)/[**makefile-go**](https://github.com/mkouhei/makefile-go)|Makefile for Golang||
 |3|[@osamingo](https://github.com/osamingo)/[**gae-bp**](https://github.com/osamingo/gae-bp)|GAE/Go Boilerplate||

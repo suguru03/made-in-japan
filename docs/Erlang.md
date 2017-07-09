@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1022|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|LeoFS is an unstructured object/data storage for the Web and a highly available, distributed, eventually consistent storage system.|[:arrow_upper_right:](https://leo-project.net/leofs/)|
-|203|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
+|1026|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|LeoFS is an unstructured object/data storage for the Web and a highly available, distributed, eventually consistent storage system.|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|204|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
 |105|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |77|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
 |59|[@jj1bdx](https://github.com/jj1bdx)/[**sfmt-erlang**](https://github.com/jj1bdx/sfmt-erlang)|sfmt-erlang: SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang|[:arrow_upper_right:](http://jj1bdx.github.io/sfmt-erlang/)|
@@ -19,8 +19,8 @@
 |18|[@voluntas](https://github.com/voluntas)/[**erlang_otp_self_st…**](https://github.com/voluntas/erlang_otp_self_study)|||
 |16|[@leo-project](https://github.com/leo-project)/[**leo_storage**](https://github.com/leo-project/leo_storage)|[NOTE] leo_storage was merged into leo-project/leofs|[:arrow_upper_right:](https://github.com/leo-project/leofs/tree/master/apps/leo_storage)|
 |16|[@mururu](https://github.com/mururu)/[**erlang-mruby**](https://github.com/mururu/erlang-mruby)|[WIP] mruby on erlang||
+|16|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
 |15|[@kuenishi](https://github.com/kuenishi)/[**erezrdfh**](https://github.com/kuenishi/erezrdfh)|MessagePack MessageQueue without AMQP||
-|15|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
 |14|[@jj1bdx](https://github.com/jj1bdx)/[**erltrek**](https://github.com/jj1bdx/erltrek)|An Erlang Star Trek game|[:arrow_upper_right:](http://jj1bdx.github.io/erltrek)|
 |14|[@norton](https://github.com/norton)/[**asciiedoc**](https://github.com/norton/asciiedoc)|EDoc extension for generating HTML or GitHub-flavored Markdown from AsciiDoc sources||
 |12|[@hibari](https://github.com/hibari)/[**gdss-brick**](https://github.com/hibari/gdss-brick)||[:arrow_upper_right:](http://hibari.github.com/hibari-doc/)|
@@ -72,6 +72,7 @@
 |4|[@leo-project](https://github.com/leo-project)/[**leo_watchdog**](https://github.com/leo-project/leo_watchdog)|leo_watchdog keep monitoring an application in order to realize high-availability.||
 |4|[@rramsden](https://github.com/rramsden)/[**experiments**](https://github.com/rramsden/experiments)|||
 |4|[@shirou](https://github.com/shirou)/[**erlang-ltsv**](https://github.com/shirou/erlang-ltsv)|Labeled Tab-separated Values Parser for Erlang ||
+|4|[@sile](https://github.com/sile)/[**erl-creole**](https://github.com/sile/erl-creole)|Converting strings between multibyte encodings and Unicode.||
 |4|[@sile](https://github.com/sile)/[**erl_pfds**](https://github.com/sile/erl_pfds)|An Erlang implementation of the data structures described in 『Purely Functional Data Structures』||
 |4|[@sile](https://github.com/sile)/[**mqttm**](https://github.com/sile/mqttm)|An Erlang library for encoding/decoding MQTT message ||
 |4|[@tkyk](https://github.com/tkyk)/[**erlang-exercise---…**](https://github.com/tkyk/erlang-exercise---)|Programing Erlang 8.１１ exercise|[:arrow_upper_right:](http://wp.serpere.info/)|
@@ -92,7 +93,6 @@
 |3|[@mizchi](https://github.com/mizchi)/[**dehydrater**](https://github.com/mizchi/dehydrater)|Promise queue handler||
 |3|[@norton](https://github.com/norton)/[**gen-ets**](https://github.com/norton/gen-ets)|GEN_ETS is an generic wrapper for Erlang Term Storage with a callback interface for a backend implementation.||
 |3|[@otphub](https://github.com/otphub)/[**mnesia**](https://github.com/otphub/mnesia)|||
-|3|[@sile](https://github.com/sile)/[**erl-creole**](https://github.com/sile/erl-creole)|Converting strings between multibyte encodings and Unicode.||
 |3|[@sile](https://github.com/sile)/[**erl-rtmpmsg**](https://github.com/sile/erl-rtmpmsg)|An Erlang library to encode/decode RTMP message||
 |3|[@sile](https://github.com/sile)/[**local**](https://github.com/sile/local)|A Local Name Registration Facility for Erlang||
 |3|[@sile](https://github.com/sile)/[**pfun**](https://github.com/sile/pfun)|Erlang Portable Functions||

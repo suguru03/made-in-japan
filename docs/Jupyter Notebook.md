@@ -1,22 +1,22 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1752|[@jrjohansson](https://github.com/jrjohansson)/[**scientific-python-…**](https://github.com/jrjohansson/scientific-python-lectures)|Lectures on scientific computing with python, as IPython notebooks.||
-|195|[@Hironsan](https://github.com/Hironsan)/[**awesome-embedding-…**](https://github.com/Hironsan/awesome-embedding-models)|A curated list of awesome embedding models tutorials, projects and communities.||
-|100|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-for-abs…**](https://github.com/kazunori279/TensorFlow-for-absolute-beginners)|TensorFlow for absolute beginners: a 3-hour codelab for self-learning neural network basics without hard math.||
-|81|[@chezou](https://github.com/chezou)/[**julia-100-exercise…**](https://github.com/chezou/julia-100-exercises)|julia version of 100 numpy exercises||
+|1755|[@jrjohansson](https://github.com/jrjohansson)/[**scientific-python-…**](https://github.com/jrjohansson/scientific-python-lectures)|Lectures on scientific computing with python, as IPython notebooks.||
+|198|[@Hironsan](https://github.com/Hironsan)/[**awesome-embedding-…**](https://github.com/Hironsan/awesome-embedding-models)|A curated list of awesome embedding models tutorials, projects and communities.||
+|103|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-for-abs…**](https://github.com/kazunori279/TensorFlow-for-absolute-beginners)|TensorFlow for absolute beginners: a 3-hour codelab for self-learning neural network basics without hard math.||
+|80|[@chezou](https://github.com/chezou)/[**julia-100-exercise…**](https://github.com/chezou/julia-100-exercises)|julia version of 100 numpy exercises||
 |68|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-Intro**](https://github.com/kazunori279/TensorFlow-Intro)|An easy TensorFlow introduction for all ML newbies.||
-|50|[@neubig](https://github.com/neubig)/[**yrsnlp-2016**](https://github.com/neubig/yrsnlp-2016)|Structured Neural Networks for NLP: From Idea to Code||
-|41|[@jrjohansson](https://github.com/jrjohansson)/[**numerical-python-b…**](https://github.com/jrjohansson/numerical-python-book-code)|||
-|37|[@mitmul](https://github.com/mitmul)/[**chainer-handson**](https://github.com/mitmul/chainer-handson)|ハンズオンの資料||
-|33|[@bicycle1885](https://github.com/bicycle1885)/[**Julia-Tutorial**](https://github.com/bicycle1885/Julia-Tutorial)|高速でJuliaを学ぶチュートリアル||
+|51|[@neubig](https://github.com/neubig)/[**yrsnlp-2016**](https://github.com/neubig/yrsnlp-2016)|Structured Neural Networks for NLP: From Idea to Code||
+|42|[@jrjohansson](https://github.com/jrjohansson)/[**numerical-python-b…**](https://github.com/jrjohansson/numerical-python-book-code)|||
+|39|[@mitmul](https://github.com/mitmul)/[**chainer-handson**](https://github.com/mitmul/chainer-handson)|ハンズオンの資料||
+|35|[@bicycle1885](https://github.com/bicycle1885)/[**Julia-Tutorial**](https://github.com/bicycle1885/Julia-Tutorial)|高速でJuliaを学ぶチュートリアル||
 |33|[@chezou](https://github.com/chezou)/[**notebooks**](https://github.com/chezou/notebooks)|||
-|26|[@takerum](https://github.com/takerum)/[**adversarial_autoen…**](https://github.com/takerum/adversarial_autoencoder)|Implementation of Adversarial Autoencoder with Theano||
+|28|[@takerum](https://github.com/takerum)/[**adversarial_autoen…**](https://github.com/takerum/adversarial_autoencoder)|Implementation of Adversarial Autoencoder with Theano||
 |22|[@ikegami-yukino](https://github.com/ikegami-yukino)/[**misc**](https://github.com/ikegami-yukino/misc)|Machine Learning / Randomized Algorithm and more||
 |20|[@himkt](https://github.com/himkt)/[**nlp-100knock**](https://github.com/himkt/nlp-100knock)|言語処理100本ノック 2015, nlp-100knock 2015||
-|17|[@c-bata](https://github.com/c-bata)/[**datascience-notebo…**](https://github.com/c-bata/datascience-notebook)|Data Science Notebooks in Python3||
+|18|[@c-bata](https://github.com/c-bata)/[**datascience-notebo…**](https://github.com/c-bata/datascience-notebook)|Data Science Notebooks in Python3||
+|13|[@ryuichiueda](https://github.com/ryuichiueda)/[**probrobo_practice**](https://github.com/ryuichiueda/probrobo_practice)|確率ロボティクスのアルゴリズム解説|[:arrow_upper_right:](https://blog.ueda.asia/?p=9479)|
 |12|[@chezou](https://github.com/chezou)/[**ibis-demo**](https://github.com/chezou/ibis-demo)|Demo notebook of Ibis for "Spark + Python + Dita science Festival"||
 |12|[@icoxfog417](https://github.com/icoxfog417)/[**baby_steps_of_mach…**](https://github.com/icoxfog417/baby_steps_of_machine_learning)|basic tutorial for machine learning implementation||
-|10|[@ryuichiueda](https://github.com/ryuichiueda)/[**probrobo_practice**](https://github.com/ryuichiueda/probrobo_practice)|確率ロボティクスのアルゴリズム解説|[:arrow_upper_right:](https://blog.ueda.asia/?p=9479)|
 |9|[@IanLewis](https://github.com/IanLewis)/[**tensorflow-example…**](https://github.com/IanLewis/tensorflow-examples)|Some Tensorflow examples and Jupyter notebooks||
 |9|[@icoxfog417](https://github.com/icoxfog417)/[**cv_tutorial**](https://github.com/icoxfog417/cv_tutorial)|OpenCV Tutorial||
 |8|[@icoxfog417](https://github.com/icoxfog417)/[**scikit-learn-noteb…**](https://github.com/icoxfog417/scikit-learn-notebook)|japanese scikit-learn tutorial||
@@ -48,5 +48,6 @@
 |3|[@shimo-lab](https://github.com/shimo-lab)/[**sembei**](https://github.com/shimo-lab/sembei)|:rice_cracker: 単語分割を経由しない単語埋め込み :rice_cracker:||
 |3|[@takuti](https://github.com/takuti)/[**incremental-sgd**](https://github.com/takuti/incremental-sgd)|Incremental matrix factorization with incremental SGD algorithm [J. Vinagre, et al., 2014]||
 |3|[@takuti](https://github.com/takuti)/[**stream-anomaly-det…**](https://github.com/takuti/stream-anomaly-detect)|Implementation of algorithms proposed by [Huang and Kasiviswanathan]||
+|3|[@takuti](https://github.com/takuti)/[**stream-recommender…**](https://github.com/takuti/stream-recommender)|Experiments of item recommendation in a streaming environment||
 |3|[@ugo-nama-kun](https://github.com/ugo-nama-kun)/[**pydata_okinawa2017…**](https://github.com/ugo-nama-kun/pydata_okinawa2017)|||
 

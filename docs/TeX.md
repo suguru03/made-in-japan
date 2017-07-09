@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|106|[@ziyan](https://github.com/ziyan)/[**spider**](https://github.com/ziyan/spider)|Web Content Extraction Through Machine Learning|[:arrow_upper_right:](https://www.ziyan.net/2014/04/web-content-extraction-through-machine-learning/)|
+|108|[@ziyan](https://github.com/ziyan)/[**spider**](https://github.com/ziyan/spider)|Web Content Extraction Through Machine Learning|[:arrow_upper_right:](https://www.ziyan.net/2014/04/web-content-extraction-through-machine-learning/)|
 |86|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hy…**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
 |41|[@mizzy](https://github.com/mizzy)/[**serverspec-thesis**](https://github.com/mizzy/serverspec-thesis)|||
 |39|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
@@ -12,7 +12,7 @@
 |19|[@takahashim](https://github.com/takahashim)/[**review-sample-book…**](https://github.com/takahashim/review-sample-book)|ReVIEWの書籍サンプルデータです。||
 |17|[@ryuichiueda](https://github.com/ryuichiueda)/[**ShellGeiData**](https://github.com/ryuichiueda/ShellGeiData)|Files for practice of shellgei||
 |16|[@hitode909](https://github.com/hitode909)/[**soturon**](https://github.com/hitode909/soturon)|卒論||
-|13|[@uribo](https://github.com/uribo)/[**lab.note**](https://github.com/uribo/lab.note)|:notebook_with_decorative_cover: Create Laboratory Note and Report Using R Markdown||
+|14|[@uribo](https://github.com/uribo)/[**lab.note**](https://github.com/uribo/lab.note)|:notebook_with_decorative_cover: Create Laboratory Note and Report Using R Markdown||
 |9|[@hamano](https://github.com/hamano)/[**zguide-ja**](https://github.com/hamano/zguide-ja)|||
 |9|[@okomok](https://github.com/okomok)/[**strcat**](https://github.com/okomok/strcat)|TeX files for summary of category theory||
 |8|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||

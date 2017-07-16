@@ -1,27 +1,27 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |228|[@itchyny](https://github.com/itchyny)/[**sjsp**](https://github.com/itchyny/sjsp)|Simple JavaScript Profiler|[:arrow_upper_right:](https://hackage.haskell.org/package/sjsp)|
-|168|[@fujimura](https://github.com/fujimura)/[**hi**](https://github.com/fujimura/hi)|Generate scaffold for a Haskell project||
+|169|[@fujimura](https://github.com/fujimura)/[**hi**](https://github.com/fujimura/hi)|Generate scaffold for a Haskell project||
 |168|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**unit-test-example**](https://github.com/kazu-yamamoto/unit-test-example)|Unit test example for Haskell||
 |152|[@khibino](https://github.com/khibino)/[**haskell-relational…**](https://github.com/khibino/haskell-relational-record)|This repository includes a joined query generator based on typefull relational algebra, and mapping tools between SQL values list and Haskell record type.||
 |107|[@himura](https://github.com/himura)/[**twitter-conduit**](https://github.com/himura/twitter-conduit)|Twitter API package for Haskell, including enumerator interfaces and Streaming API supports.||
-|98|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**mighttpd2**](https://github.com/kazu-yamamoto/mighttpd2)|File/CGI web server on warp||
-|98|[@lotz84](https://github.com/lotz84)/[**haskell**](https://github.com/lotz84/haskell)|Haskell 俯瞰まとめ||
-|81|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**recursion-drill**](https://github.com/kazu-yamamoto/recursion-drill)|Drill to study recursive programming in Haskell||
+|99|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**mighttpd2**](https://github.com/kazu-yamamoto/mighttpd2)|File/CGI web server on warp||
+|97|[@lotz84](https://github.com/lotz84)/[**haskell**](https://github.com/lotz84/haskell)|Haskell 俯瞰まとめ||
+|80|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**recursion-drill**](https://github.com/kazu-yamamoto/recursion-drill)|Drill to study recursive programming in Haskell||
 |69|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**logger**](https://github.com/kazu-yamamoto/logger)|A fast logging system for Haskell||
-|66|[@philopon](https://github.com/philopon)/[**apiary**](https://github.com/philopon/apiary)|Simple and type safe web framework that can be automatically generate API documentation. ||
+|67|[@philopon](https://github.com/philopon)/[**apiary**](https://github.com/philopon/apiary)|Simple and type safe web framework that can be automatically generate API documentation. ||
 |65|[@tanakh](https://github.com/tanakh)/[**Peggy**](https://github.com/tanakh/Peggy)|The Parser Generator for Haskell|[:arrow_upper_right:](http://tanakh.github.com/Peggy)|
 |61|[@iand675](https://github.com/iand675)/[**haskell-checklist**](https://github.com/iand675/haskell-checklist)|Preflight checklist for Haskell code. Aspire to greatness!||
 |60|[@fumieval](https://github.com/fumieval)/[**free-game**](https://github.com/fumieval/free-game)|The free game engine|[:arrow_upper_right:](http://hackage.haskell.org/package/free-game)|
 |53|[@guillaume-nargeot](https://github.com/guillaume-nargeot)/[**hpc-coveralls**](https://github.com/guillaume-nargeot/hpc-coveralls)|coveralls.io support for haskell code coverage with hpc|[:arrow_upper_right:](http://hackage.haskell.org/package/hpc-coveralls)|
+|52|[@algas](https://github.com/algas)/[**haskell-servant-co…**](https://github.com/algas/haskell-servant-cookbook)|Haskell Servant Cookbook||
 |52|[@msakai](https://github.com/msakai)/[**toysolver**](https://github.com/msakai/toysolver)|My sandbox for experimenting solver algorithms.||
-|51|[@algas](https://github.com/algas)/[**haskell-servant-co…**](https://github.com/algas/haskell-servant-cookbook)|Haskell Servant Cookbook||
+|48|[@mokehehe](https://github.com/mokehehe)/[**monao**](https://github.com/mokehehe/monao)|Super monao bros. in Haskell||
 |46|[@msakai](https://github.com/msakai)/[**cpl**](https://github.com/msakai/cpl)|An interpreter of Hagino's Categorical Programming Language (CPL).|[:arrow_upper_right:](http://hackage.haskell.org/package/CPL)|
-|45|[@mokehehe](https://github.com/mokehehe)/[**monao**](https://github.com/mokehehe/monao)|Super monao bros. in Haskell||
+|45|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**http2**](https://github.com/kazu-yamamoto/http2)|HTTP/2.0 library including HPACK||
 |44|[@codeharuka](https://github.com/codeharuka)/[**dotfiles**](https://github.com/codeharuka/dotfiles)|Yune's blahblah urxvt, conky's, etc config files, especially xmonad ❤ lov it||
 |44|[@itchyny](https://github.com/itchyny)/[**miv**](https://github.com/itchyny/miv)|Vim plugin manager written in Haskell||
-|44|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**http2**](https://github.com/kazu-yamamoto/http2)|HTTP/2.0 library including HPACK||
-|41|[@fumieval](https://github.com/fumieval)/[**objective**](https://github.com/fumieval/objective)|Purely functional objects||
+|42|[@fumieval](https://github.com/fumieval)/[**objective**](https://github.com/fumieval/objective)|Purely functional objects||
 |36|[@cdepillabout](https://github.com/cdepillabout)/[**pretty-simple**](https://github.com/cdepillabout/pretty-simple)|pretty-printer for Haskell data types that have a Show instance|[:arrow_upper_right:](https://hackage.haskell.org/package/pretty-simple)|
 |36|[@iand675](https://github.com/iand675)/[**hs-mesos**](https://github.com/iand675/hs-mesos)|Mesos bindings for Haskell||
 |36|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**cab**](https://github.com/kazu-yamamoto/cab)|A maintenance command of Haskell cabal packages||
@@ -30,10 +30,10 @@
 |35|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**mighttpd**](https://github.com/kazu-yamamoto/mighttpd)|A simple but practical HTTP server in Haskell. 'mighttpd' should be called 'mighty'.|[:arrow_upper_right:](http://www.mew.org/~kazu/proj/mighttpd/)|
 |34|[@maoe](https://github.com/maoe)/[**influxdb-haskell**](https://github.com/maoe/influxdb-haskell)|Haskell client library for InfluxDB|[:arrow_upper_right:](https://hackage.haskell.org/package/influxdb)|
 |33|[@CodeHaruka](https://github.com/CodeHaruka)/[**dotfiles**](https://github.com/CodeHaruka/dotfiles)|||
-|32|[@konn](https://github.com/konn)/[**computational-alge…**](https://github.com/konn/computational-algebra)|Library to calculate Gröbner basis written in Haskell.|[:arrow_upper_right:](http://konn.github.io/computational-algebra/)|
+|33|[@konn](https://github.com/konn)/[**computational-alge…**](https://github.com/konn/computational-algebra)|Library to calculate Gröbner basis written in Haskell.|[:arrow_upper_right:](http://konn.github.io/computational-algebra/)|
+|33|[@tanakh](https://github.com/tanakh)/[**optparse-declarati…**](https://github.com/tanakh/optparse-declarative)|Declarative command-line option parser||
 |32|[@liyang](https://github.com/liyang)/[**thyme**](https://github.com/liyang/thyme)|||
-|32|[@tanakh](https://github.com/tanakh)/[**optparse-declarati…**](https://github.com/tanakh/optparse-declarative)|Declarative command-line option parser||
-|31|[@lotz84](https://github.com/lotz84)/[**double-pendulum-si…**](https://github.com/lotz84/double-pendulum-simulation)|二重振り子シミュレーション|[:arrow_upper_right:](https://twitter.com/lotz84_/status/866661941279834112)|
+|30|[@lotz84](https://github.com/lotz84)/[**double-pendulum-si…**](https://github.com/lotz84/double-pendulum-simulation)|二重振り子シミュレーション|[:arrow_upper_right:](https://twitter.com/lotz84_/status/866661941279834112)|
 |29|[@fumieval](https://github.com/fumieval)/[**xml-lens**](https://github.com/fumieval/xml-lens)|Lenses and traversals for xml-conduit||
 |28|[@fumieval](https://github.com/fumieval)/[**extensible**](https://github.com/fumieval/extensible)|Extensible data types and pattern matching, effects, tangles||
 |28|[@iand675](https://github.com/iand675)/[**ghcjs-react**](https://github.com/iand675/ghcjs-react)|React.js for GHCJS||
@@ -51,11 +51,11 @@
 |20|[@fumieval](https://github.com/fumieval)/[**monad-skeleton**](https://github.com/fumieval/monad-skeleton)|Operational monad library||
 |20|[@taiki45](https://github.com/taiki45)/[**hs-vm**](https://github.com/taiki45/hs-vm)|Simple Virtual Machine written in Haskell||
 |19|[@YoshikuniJujo](https://github.com/YoshikuniJujo)/[**lojban_parser**](https://github.com/YoshikuniJujo/lojban_parser)|lojban parser||
+|19|[@fumieval](https://github.com/fumieval)/[**witherable**](https://github.com/fumieval/witherable)|Filter with effects|[:arrow_upper_right:](http://hackage.haskell.org/package/witherable)|
 |19|[@himura](https://github.com/himura)/[**twitter-types**](https://github.com/himura/twitter-types)|This library treats the Twitter JSON API in the Haskell way.||
 |19|[@juhp](https://github.com/juhp)/[**cabal-rpm**](https://github.com/juhp/cabal-rpm)|Haskell Cabal RPM packaging tool|[:arrow_upper_right:](https://hackage.haskell.org/package/cabal-rpm)|
 |19|[@konn](https://github.com/konn)/[**equational-reasoni…**](https://github.com/konn/equational-reasoning-in-haskell)|Agda-style equational reasoning in Haskell||
 |18|[@fumieval](https://github.com/fumieval)/[**Monaris**](https://github.com/fumieval/Monaris)|A simple tetris clone||
-|18|[@fumieval](https://github.com/fumieval)/[**witherable**](https://github.com/fumieval/witherable)|Filter with effects|[:arrow_upper_right:](http://hackage.haskell.org/package/witherable)|
 |18|[@liyang](https://github.com/liyang)/[**fast-math**](https://github.com/liyang/fast-math)|Play fast and loose with IEEE-754 rewrite RULES||
 |18|[@lotz84](https://github.com/lotz84)/[**FlappyHaskell**](https://github.com/lotz84/FlappyHaskell)|An implementation of Flappy Bird in Haskell using FRP and OpenGL.||
 |17|[@phonohawk](https://github.com/phonohawk)/[**HsOpenSSL**](https://github.com/phonohawk/HsOpenSSL)|OpenSSL binding for Haskell|[:arrow_upper_right:](http://hackage.haskell.org/package/HsOpenSSL)|
@@ -67,12 +67,12 @@
 |16|[@tanakh](https://github.com/tanakh)/[**hsmecab**](https://github.com/tanakh/hsmecab)|A Haskell binding to MeCab|[:arrow_upper_right:](http://github.com/tanakh/hsmecab)|
 |16|[@tokiwoousaka](https://github.com/tokiwoousaka)/[**takahashi**](https://github.com/tokiwoousaka/takahashi)|高橋Monad||
 |15|[@guillaume-nargeot](https://github.com/guillaume-nargeot)/[**codecov-haskell**](https://github.com/guillaume-nargeot/codecov-haskell)|codecov.io support for haskell code coverage with hpc|[:arrow_upper_right:](http://hackage.haskell.org/package/codecov-haskell)|
+|15|[@maoe](https://github.com/maoe)/[**viewprof**](https://github.com/maoe/viewprof)|Text-based interactive GHC .prof viewer||
 |15|[@noraesae](https://github.com/noraesae)/[**monkey-hs**](https://github.com/noraesae/monkey-hs)|An interpreter for the Monkey programming language written in Haskell||
 |14|[@fujimura](https://github.com/fujimura)/[**wai-hspec-example**](https://github.com/fujimura/wai-hspec-example)|Example for wai + hspec||
-|14|[@maoe](https://github.com/maoe)/[**viewprof**](https://github.com/maoe/viewprof)|Text-based interactive GHC .prof viewer||
 |14|[@seizans](https://github.com/seizans)/[**yesod-tutorial**](https://github.com/seizans/yesod-tutorial)|Webアプリケーションフレームワーク Yesod 1.1 で開発するためのチュートリアル.||
+|13|[@dpwright](https://github.com/dpwright)/[**HaskellNet-SSL**](https://github.com/dpwright/HaskellNet-SSL)|Helpers to connect to SSL/TLS mail servers with HaskellNet||
 |13|[@konn](https://github.com/konn)/[**type-natural**](https://github.com/konn/type-natural)|Type-level well-kinded natural numbers.||
-|12|[@dpwright](https://github.com/dpwright)/[**HaskellNet-SSL**](https://github.com/dpwright/HaskellNet-SSL)|Helpers to connect to SSL/TLS mail servers with HaskellNet||
 |12|[@iand675](https://github.com/iand675)/[**metrics**](https://github.com/iand675/metrics)|Haskell metrics library||
 |12|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**c10k**](https://github.com/kazu-yamamoto/c10k)|Network server library to handle over 10,000 connections in Haskell|[:arrow_upper_right:](http://www.mew.org/~kazu/proj/mighttpd/)|
 |12|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**unix-time**](https://github.com/kazu-yamamoto/unix-time)|Fast time library||
@@ -109,6 +109,7 @@
 |8|[@seizans](https://github.com/seizans)/[**happiage**](https://github.com/seizans/happiage)|project to develop web application for wedding after-party by Haskell||
 |8|[@shnarazk](https://github.com/shnarazk)/[**mios**](https://github.com/shnarazk/mios)|Minisat-based Implementation and Optimization Study on SAT Solvers in Haskell||
 |8|[@tyage](https://github.com/tyage)/[**tiny-c**](https://github.com/tyage/tiny-c)|計算機科学実験及演習3B||
+|7|[@YoshikuniJujo](https://github.com/YoshikuniJujo)/[**haskell-nyumon-han…**](https://github.com/YoshikuniJujo/haskell-nyumon-handson)|Haskell入門ハンズオンのサンプルコードなど||
 |7|[@amutake](https://github.com/amutake)/[**haskelltter**](https://github.com/amutake/haskelltter)|Twitter client on GHCi (inspired by ocamltter)||
 |7|[@cutsea110](https://github.com/cutsea110)/[**metadata**](https://github.com/cutsea110/metadata)|metadata library||
 |7|[@fujimura](https://github.com/fujimura)/[**houseman**](https://github.com/fujimura/houseman)|A Haskell implementation of Foreman||
@@ -117,6 +118,7 @@
 |7|[@iand675](https://github.com/iand675)/[**pipes-wai**](https://github.com/iand675/pipes-wai)|A port of wai-conduit for the pipes ecosystem||
 |7|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**appar**](https://github.com/kazu-yamamoto/appar)|A simple applicative parser in Parsec style||
 |7|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**monad**](https://github.com/kazu-yamamoto/monad)|A book on Monad of Haskell in Japanese||
+|7|[@nonowarn](https://github.com/nonowarn)/[**has**](https://github.com/nonowarn/has)|Entity based records|[:arrow_upper_right:](http://hackage.haskell.org/package/has)|
 |7|[@philopon](https://github.com/philopon)/[**sandbox-move**](https://github.com/philopon/sandbox-move)|move cabal sandbox directory||
 |7|[@tanakh](https://github.com/tanakh)/[**CurryDB**](https://github.com/tanakh/CurryDB)|CurryDB: Simple, Polymorphic, Persistent, Transactional, In-memory Key/Value Database||
 |7|[@tanakh](https://github.com/tanakh)/[**html2hamlet**](https://github.com/tanakh/html2hamlet)|HTML to Hamlet converter||
@@ -140,7 +142,6 @@
 |6|[@lotz84](https://github.com/lotz84)/[**deep-learning-from…**](https://github.com/lotz84/deep-learning-from-scratch)|||
 |6|[@maoe](https://github.com/maoe)/[**htmlcat**](https://github.com/maoe/htmlcat)|A Haskell clone of http://subtech.g.hatena.ne.jp/motemen/20120120/1326987165|[:arrow_upper_right:](http://d.hatena.ne.jp/maoe/20120120/1327061692)|
 |6|[@nakaji-dayo](https://github.com/nakaji-dayo)/[**gremlin-haskell**](https://github.com/nakaji-dayo/gremlin-haskell)| Haskell graph database client for TinkerPop3 Gremlin Server||
-|6|[@nonowarn](https://github.com/nonowarn)/[**has**](https://github.com/nonowarn/has)|Entity based records|[:arrow_upper_right:](http://hackage.haskell.org/package/has)|
 |6|[@ryota-ka](https://github.com/ryota-ka)/[**markov-bot**](https://github.com/ryota-ka/markov-bot)|Generates random sentences from your tweet history using the Markov chain, and post them into Twitter.||
 |6|[@taiki45](https://github.com/taiki45)/[**hs-lisp**](https://github.com/taiki45/hs-lisp)|yet-another Lisp Interpreter written in Haskell||
 |6|[@tanakh](https://github.com/tanakh)/[**generic-pretty**](https://github.com/tanakh/generic-pretty)|Pretty Printing for Generic data|[:arrow_upper_right:](http://hackage.haskell.org/package/generic-pretty)|
@@ -228,6 +229,7 @@
 |3|[@boj](https://github.com/boj)/[**garbage**](https://github.com/boj/garbage)|||
 |3|[@cdepillabout](https://github.com/cdepillabout)/[**envelope**](https://github.com/cdepillabout/envelope)|Envelope type used to return responses from a JSON API for Haskell|[:arrow_upper_right:](https://hackage.haskell.org/package/envelope)|
 |3|[@cdepillabout](https://github.com/cdepillabout)/[**heterocephalus-exa…**](https://github.com/cdepillabout/heterocephalus-example)|simple explanation on how to use -ddump-splices with stack|[:arrow_upper_right:](https://functor.tokyo/blog/2017-01-16-looking-at-generated-template-haskell)|
+|3|[@cdepillabout](https://github.com/cdepillabout)/[**highlight**](https://github.com/cdepillabout/highlight)|command line tool for highlighting parts of files that match a regex|[:arrow_upper_right:](http://hackage.haskell.org/package/highlight)|
 |3|[@cdepillabout](https://github.com/cdepillabout)/[**read-env-var**](https://github.com/cdepillabout/read-env-var)|Haskell library for safely reading environment variables|[:arrow_upper_right:](https://hackage.haskell.org/package/read-env-var)|
 |3|[@cdepillabout](https://github.com/cdepillabout)/[**servant-static-th**](https://github.com/cdepillabout/servant-static-th)|Embed a directory of static files in your application and serve them from your Servant server|[:arrow_upper_right:](http://hackage.haskell.org/package/servant-static-th)|
 |3|[@cookpad](https://github.com/cookpad)/[**mirin**](https://github.com/cookpad/mirin)|Redirection Service||

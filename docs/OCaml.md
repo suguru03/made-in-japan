@@ -8,23 +8,24 @@
 You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)|
 |23|[@kuy](https://github.com/kuy)/[**reason-of-life**](https://github.com/kuy/reason-of-life)|Conway's Lifegame in Reason + reason-react with webpack + bs-loader.||
 |20|[@UnixJunkie](https://github.com/UnixJunkie)/[**dolog**](https://github.com/UnixJunkie/dolog)|A dumb OCaml logger||
+|16|[@UnixJunkie](https://github.com/UnixJunkie)/[**daft**](https://github.com/UnixJunkie/daft)|DAFT Allows File Transfers||
 |16|[@mzp](https://github.com/mzp)/[**websocket-ocaml**](https://github.com/mzp/websocket-ocaml)|WebSocket Server for OCaml|[:arrow_upper_right:](http://eva-lu-ator.net/redmine/projects/websocket-ocaml)|
-|15|[@UnixJunkie](https://github.com/UnixJunkie)/[**daft**](https://github.com/UnixJunkie/daft)|DAFT Allows File Transfers||
 |14|[@mzp](https://github.com/mzp)/[**bs-lwt**](https://github.com/mzp/bs-lwt)|BuckleScript bindings for Lwt||
 |13|[@mzp](https://github.com/mzp)/[**msgpack-ocaml**](https://github.com/mzp/msgpack-ocaml)|MessagePack for OCaml/Coq|[:arrow_upper_right:](http://mzp.github.com/msgpack-ocaml/refman)|
 |12|[@AltGr](https://github.com/AltGr)/[**Camelus**](https://github.com/AltGr/Camelus)|Bot posting reports on opam-repository pull-request using a web hook||
 |12|[@mzp](https://github.com/mzp)/[**coq-ruby**](https://github.com/mzp/coq-ruby)|||
+|11|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|parallelize anything||
 |10|[@UnixJunkie](https://github.com/UnixJunkie)/[**ACPC**](https://github.com/UnixJunkie/ACPC)|Chemoinformatics tool for ligand-based virtual screening||
 |10|[@hanazuki](https://github.com/hanazuki)/[**miniml**](https://github.com/hanazuki/miniml)|Tiny ML interpreter||
 |10|[@ksuenaga](https://github.com/ksuenaga)/[**IoPLMaterials**](https://github.com/ksuenaga/IoPLMaterials)|Materials for the class "Implementation of Programming Languages" in Kyoto University.||
 |8|[@AltGr](https://github.com/AltGr)/[**opam-ed**](https://github.com/AltGr/opam-ed)|A small  command-line tool to help with mechanical edition of opam files||
-|8|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|parallelize anything||
 |8|[@mzp](https://github.com/mzp)/[**coq-for-ipad**](https://github.com/mzp/coq-for-ipad)|||
 |8|[@mzp](https://github.com/mzp)/[**scheme-abc**](https://github.com/mzp/scheme-abc)|Scheme compiler for ActionScript3 Bytecode/Flash|[:arrow_upper_right:](http://happyabc.org)|
 |7|[@0zat](https://github.com/0zat)/[**bs-dom**](https://github.com/0zat/bs-dom)|A DOM Library for BuckleScript||
 |7|[@UnixJunkie](https://github.com/UnixJunkie)/[**vp-tree**](https://github.com/UnixJunkie/vp-tree)|Minimalist vantage point tree implementation in OCaml||
 |7|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
 |7|[@mzp](https://github.com/mzp)/[**min-caml**](https://github.com/mzp/min-caml)|min-caml[forked]|[:arrow_upper_right:](http://min-caml.sourceforge.net/)|
+|6|[@UnixJunkie](https://github.com/UnixJunkie)/[**cpmlib**](https://github.com/UnixJunkie/cpmlib)|Classification Performance Metrics library||
 |6|[@UnixJunkie](https://github.com/UnixJunkie)/[**interval-tree**](https://github.com/UnixJunkie/interval-tree)|tree for float intervals||
 |6|[@zick](https://github.com/zick)/[**OCamLisp**](https://github.com/zick/OCamLisp)|Lisp implementation in OCaml||
 |5|[@AltGr](https://github.com/AltGr)/[**Contre-jour**](https://github.com/AltGr/Contre-jour)|A toy image gallery application for OPA||
@@ -52,6 +53,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |3|[@mzp](https://github.com/mzp)/[**asig**](https://github.com/mzp/asig)|AsakusaSatellite IRC Gateway|[:arrow_upper_right:](https://github.com/mzp/asig/wiki)|
 |3|[@mzp](https://github.com/mzp)/[**happyabc**](https://github.com/mzp/happyabc)|HappyABC driver & release script|[:arrow_upper_right:](http://happyabc.org)|
 |3|[@takano32](https://github.com/takano32)/[**myocaml**](https://github.com/takano32/myocaml)|My OCaml Scripts.||
+|3|[@ymyzk](https://github.com/ymyzk)/[**gsrinfer**](https://github.com/ymyzk/gsrinfer)|A type reconstruction algorithm implementation for the implicitly and gradually typed language with shift and reset|[:arrow_upper_right:](https://gsrinfer.ymyzk.com)|
 |3|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocaml_parsec**](https://github.com/yoshihiro503/ocaml_parsec)|parser library for ocaml like Parsec||
 |3|[@yutopp](https://github.com/yutopp)/[**SemiCaml**](https://github.com/yutopp/SemiCaml)|MinMinCaml→蝉Caml||
 

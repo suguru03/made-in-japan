@@ -19,6 +19,7 @@
 |3|[@bicycle1885](https://github.com/bicycle1885)/[**BioBenchmarks.jl**](https://github.com/bicycle1885/BioBenchmarks.jl)|Benchmark set of Bio.jl||
 |3|[@bicycle1885](https://github.com/bicycle1885)/[**CodecZlib.jl**](https://github.com/bicycle1885/CodecZlib.jl)|zlib codecs for TranscodingStreams.jl.||
 |3|[@bicycle1885](https://github.com/bicycle1885)/[**FMM.jl**](https://github.com/bicycle1885/FMM.jl)|||
+|3|[@bicycle1885](https://github.com/bicycle1885)/[**docker-biojulia**](https://github.com/bicycle1885/docker-biojulia)|Dockerfile for BioJulia||
 |3|[@r9y9](https://github.com/r9y9)/[**REAPER.jl**](https://github.com/r9y9/REAPER.jl)|A Julia interface for REAPER (Robust Epoch And Pitch EstimatoR)||
 |3|[@r9y9](https://github.com/r9y9)/[**julia-nmf-ss-toy**](https://github.com/r9y9/julia-nmf-ss-toy)|NMF-based Music Source Separation Demo in Julia||
 

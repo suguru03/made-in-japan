@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|70|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
-|61|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
-|45|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
+|74|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
+|62|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
+|44|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
 |26|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
 |25|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
 |23|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |22|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-24.5-doc-ema…**](https://github.com/ayatakesi/emacs-24.5-doc-emacs)|emacsマニュアルの日本語化と公開|[:arrow_upper_right:](https://ayatakesi.github.io/)|
 |22|[@norton](https://github.com/norton)/[**erlang-starter-kit…**](https://github.com/norton/erlang-starter-kit)|Provide a basic set of Erlang/OTP tools for development and for testing||
-|16|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-a…**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/detail#/role/2961)|
+|17|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-a…**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/detail#/role/2961)|
 |16|[@uetchy](https://github.com/uetchy)/[**dockerfile-machine…**](https://github.com/uetchy/dockerfile-machinelearning)|Dockerfile for scientists studying Machine Learning.||
 |15|[@keiji](https://github.com/keiji)/[**farewell-adt-book**](https://github.com/keiji/farewell-adt-book)|Android Studio完全移行ガイド||
 |14|[@itchyny](https://github.com/itchyny)/[**fastinvsqrt**](https://github.com/itchyny/fastinvsqrt)|Fast inverse square root in programming languages||

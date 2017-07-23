@@ -1,14 +1,14 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1764|[@jrjohansson](https://github.com/jrjohansson)/[**scientific-python-…**](https://github.com/jrjohansson/scientific-python-lectures)|Lectures on scientific computing with python, as IPython notebooks.||
-|204|[@Hironsan](https://github.com/Hironsan)/[**awesome-embedding-…**](https://github.com/Hironsan/awesome-embedding-models)|A curated list of awesome embedding models tutorials, projects and communities.||
-|106|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-for-abs…**](https://github.com/kazunori279/TensorFlow-for-absolute-beginners)|TensorFlow for absolute beginners: a 3-hour codelab for self-learning neural network basics without hard math.||
+|1773|[@jrjohansson](https://github.com/jrjohansson)/[**scientific-python-…**](https://github.com/jrjohansson/scientific-python-lectures)|Lectures on scientific computing with python, as IPython notebooks.||
+|209|[@Hironsan](https://github.com/Hironsan)/[**awesome-embedding-…**](https://github.com/Hironsan/awesome-embedding-models)|A curated list of awesome embedding models tutorials, projects and communities.||
+|110|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-for-abs…**](https://github.com/kazunori279/TensorFlow-for-absolute-beginners)|TensorFlow for absolute beginners: a 3-hour codelab for self-learning neural network basics without hard math.||
 |80|[@chezou](https://github.com/chezou)/[**julia-100-exercise…**](https://github.com/chezou/julia-100-exercises)|julia version of 100 numpy exercises||
 |68|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-Intro**](https://github.com/kazunori279/TensorFlow-Intro)|An easy TensorFlow introduction for all ML newbies.||
 |51|[@neubig](https://github.com/neubig)/[**yrsnlp-2016**](https://github.com/neubig/yrsnlp-2016)|Structured Neural Networks for NLP: From Idea to Code||
-|42|[@jrjohansson](https://github.com/jrjohansson)/[**numerical-python-b…**](https://github.com/jrjohansson/numerical-python-book-code)|||
+|43|[@jrjohansson](https://github.com/jrjohansson)/[**numerical-python-b…**](https://github.com/jrjohansson/numerical-python-book-code)|||
+|39|[@bicycle1885](https://github.com/bicycle1885)/[**Julia-Tutorial**](https://github.com/bicycle1885/Julia-Tutorial)|高速でJuliaを学ぶチュートリアル||
 |39|[@mitmul](https://github.com/mitmul)/[**chainer-handson**](https://github.com/mitmul/chainer-handson)|ハンズオンの資料||
-|36|[@bicycle1885](https://github.com/bicycle1885)/[**Julia-Tutorial**](https://github.com/bicycle1885/Julia-Tutorial)|高速でJuliaを学ぶチュートリアル||
 |33|[@chezou](https://github.com/chezou)/[**notebooks**](https://github.com/chezou/notebooks)|||
 |28|[@takerum](https://github.com/takerum)/[**adversarial_autoen…**](https://github.com/takerum/adversarial_autoencoder)|Implementation of Adversarial Autoencoder with Theano||
 |23|[@ikegami-yukino](https://github.com/ikegami-yukino)/[**misc**](https://github.com/ikegami-yukino/misc)|Machine Learning / Randomized Algorithm and more||
@@ -20,9 +20,9 @@
 |9|[@IanLewis](https://github.com/IanLewis)/[**tensorflow-example…**](https://github.com/IanLewis/tensorflow-examples)|Some Tensorflow examples and Jupyter notebooks||
 |9|[@icoxfog417](https://github.com/icoxfog417)/[**cv_tutorial**](https://github.com/icoxfog417/cv_tutorial)|OpenCV Tutorial||
 |8|[@icoxfog417](https://github.com/icoxfog417)/[**scikit-learn-noteb…**](https://github.com/icoxfog417/scikit-learn-notebook)|japanese scikit-learn tutorial||
+|8|[@minhpqn](https://github.com/minhpqn)/[**DeepLunch**](https://github.com/minhpqn/DeepLunch)|Repository for Deep Learning study group at FTI (FPT)||
 |7|[@araobp](https://github.com/araobp)/[**nlan**](https://github.com/araobp/nlan)|Interactive SDN/IOT with tega db and Jupyter/IPython||
 |7|[@cutGordianKnot](https://github.com/cutGordianKnot)/[**PRML**](https://github.com/cutGordianKnot/PRML)|PRML algorithms implemented in Python||
-|7|[@minhpqn](https://github.com/minhpqn)/[**DeepLunch**](https://github.com/minhpqn/DeepLunch)|Repository for Deep Learning study group at FTI (FPT)||
 |6|[@hagino3000](https://github.com/hagino3000)/[**notebooks**](https://github.com/hagino3000/notebooks)|My Jupyter notebooks||
 |6|[@kazunori279](https://github.com/kazunori279)/[**cloudml-demo**](https://github.com/kazunori279/cloudml-demo)|||
 |5|[@airtoxin](https://github.com/airtoxin)/[**ipython-animated-a…**](https://github.com/airtoxin/ipython-animated-array)|render animated array on ipython-notebook (jupyter)||
@@ -44,6 +44,7 @@
 |3|[@himkt](https://github.com/himkt)/[**notebooks**](https://github.com/himkt/notebooks)|My notebooks which were made for experiments||
 |3|[@kasajei](https://github.com/kasajei)/[**portfolio**](https://github.com/kasajei/portfolio)|ポートフォリオを最適化しよう！||
 |3|[@kdrl](https://github.com/kdrl)/[**Applied-Data-Centr…**](https://github.com/kdrl/Applied-Data-Centric-Social-Sciences)|Kyoto University Applied Data-Centric Social Sciences Study Group||
+|3|[@minhpqn](https://github.com/minhpqn)/[**Machine-Learning-D…**](https://github.com/minhpqn/Machine-Learning-Dojo)|My dojo for learning and training machine learning skills||
 |3|[@mrkn](https://github.com/mrkn)/[**typical_colors**](https://github.com/mrkn/typical_colors)|Extracting typical colors from images||
 |3|[@naotokui](https://github.com/naotokui)/[**ChainerPainter**](https://github.com/naotokui/ChainerPainter)|Image Regression in Chainer||
 |3|[@nayutaya](https://github.com/nayutaya)/[**tensorflow-rnn-sin…**](https://github.com/nayutaya/tensorflow-rnn-sin)|||

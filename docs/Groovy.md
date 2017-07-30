@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|221|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
+|222|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
 |199|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-p…**](https://github.com/kt3k/coveralls-gradle-plugin)|:hatched_chick: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
 |115|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar…**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |93|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
@@ -25,8 +25,8 @@
 |11|[@tkruse](https://github.com/tkruse)/[**gpi**](https://github.com/tkruse/gpi)|grape package installer||
 |11|[@yamkazu](https://github.com/yamkazu)/[**jggug-grails-bootc…**](https://github.com/yamkazu/jggug-grails-bootcamp)|||
 |10|[@gfx](https://github.com/gfx)/[**gradle-plugin-temp…**](https://github.com/gfx/gradle-plugin-template)|A template project for Gradle plugins||
+|10|[@int128](https://github.com/int128)/[**gradleupdate**](https://github.com/int128/gradleupdate)|[WIP]Automatic Gradle Updater||
 |10|[@takahirom](https://github.com/takahirom)/[**fire-annotation**](https://github.com/takahirom/fire-annotation)|Simple tool which help you to implement Firebase Analytics||
-|9|[@int128](https://github.com/int128)/[**gradleupdate**](https://github.com/int128/gradleupdate)|[WIP]Automatic Gradle Updater||
 |9|[@tyama](https://github.com/tyama)/[**ratpack-gorm-mongo…**](https://github.com/tyama/ratpack-gorm-mongo-example)|||
 |7|[@int128](https://github.com/int128)/[**gradle-starter**](https://github.com/int128/gradle-starter)|Hello World application with Gradle and Docker||
 |7|[@mike-neck](https://github.com/mike-neck)/[**slim3-gradle**](https://github.com/mike-neck/slim3-gradle)|gradle build file and slim3 sample||

@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|291|[@glassesfactory](https://github.com/glassesfactory)/[**glassesfactory**](https://github.com/glassesfactory/glassesfactory)|俺々ライブラリ|[:arrow_upper_right:](http://blog.glasses-factory.net)|
+|290|[@glassesfactory](https://github.com/glassesfactory)/[**glassesfactory**](https://github.com/glassesfactory/glassesfactory)|俺々ライブラリ|[:arrow_upper_right:](http://blog.glasses-factory.net)|
 |52|[@Saqoosha](https://github.com/Saqoosha)/[**SAQAS3**](https://github.com/Saqoosha/SAQAS3)|Saqoosha's AS3 Library|[:arrow_upper_right:](http://saqoo.sh/a/)|
 |35|[@susisu](https://github.com/susisu)/[**Twitter-for-AS3**](https://github.com/susisu/Twitter-for-AS3)|(no longer maintained) ActionScript3 library for Twitter API v1.1||
 |34|[@euske](https://github.com/euske)/[**planpathplat**](https://github.com/euske/planpathplat)|Experimental Path Planning for Platformer||
@@ -26,13 +26,13 @@
 |7|[@ppworks](https://github.com/ppworks)/[**as3paintoco**](https://github.com/ppworks/as3paintoco)|paint tool for as3||
 |7|[@sugamasao](https://github.com/sugamasao)/[**BrowserUtility**](https://github.com/sugamasao/BrowserUtility)|AS3 browser utility.  provide use ExternalInterface Utility methods|[:arrow_upper_right:](http://sugamasao.com)|
 |6|[@alumican](https://github.com/alumican)/[**alumican.as**](https://github.com/alumican/alumican.as)|My private ActionScript libs, PixelBender, and so on.|[:arrow_upper_right:](http://alumican.net/)|
+|6|[@cho45](https://github.com/cho45)/[**histogram-as**](https://github.com/cho45/histogram-as)|Small script for showing histogram (AS3)||
 |6|[@itoz](https://github.com/itoz)/[**romaticaAS3**](https://github.com/itoz/romaticaAS3)|オレオレAS3クラス|[:arrow_upper_right:](http://www.romatica.com/)|
 |6|[@lyokato](https://github.com/lyokato)/[**as3saxparser**](https://github.com/lyokato/as3saxparser)|XML SAX Parser for ActionScript3||
 |6|[@nariyu](https://github.com/nariyu)/[**as3twitterlib**](https://github.com/nariyu/as3twitterlib)|Twitter API wrapper library for ActionScript 3.0||
 |6|[@umhr](https://github.com/umhr)/[**VideoChatMobile**](https://github.com/umhr/VideoChatMobile)|||
 |5|[@YusukeKokubo](https://github.com/YusukeKokubo)/[**redmineair**](https://github.com/YusukeKokubo/redmineair)|redmine client soch as a desktop stickey application.|[:arrow_upper_right:](http://www.r-labs.org/projects/redmineair/)|
 |5|[@cellfusion](https://github.com/cellfusion)/[**cellfusionAS3**](https://github.com/cellfusion/cellfusionAS3)|いままで作ったクラスを適当にまとめるリポジトリ||
-|5|[@cho45](https://github.com/cho45)/[**histogram-as**](https://github.com/cho45/histogram-as)|Small script for showing histogram (AS3)||
 |5|[@itoz](https://github.com/itoz)/[**itoz.jp_RTMFP-serv…**](https://github.com/itoz/itoz.jp_RTMFP-serverless-)|サーバーレスモードRTMFPライブラリ||
 |5|[@juwalbose](https://github.com/juwalbose)/[**DynamicAtlasCeator…**](https://github.com/juwalbose/DynamicAtlasCeatorAirDemo)|AIR version of Dynamic Texture Atlas with saving to ApplicationStorageDirectory for reuse||
 |5|[@nulab](https://github.com/nulab)/[**asclip**](https://github.com/nulab/asclip)|ActionScript library for clipboard copy||

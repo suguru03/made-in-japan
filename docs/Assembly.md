@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|24562|[@chrislgarry](https://github.com/chrislgarry)/[**Apollo-11**](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.||
-|1496|[@nemasu](https://github.com/nemasu)/[**asmttpd**](https://github.com/nemasu/asmttpd)|Web server for Linux written in amd64 assembly.||
+|24640|[@chrislgarry](https://github.com/chrislgarry)/[**Apollo-11**](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.||
+|1500|[@nemasu](https://github.com/nemasu)/[**asmttpd**](https://github.com/nemasu/asmttpd)|Web server for Linux written in amd64 assembly.||
 |21|[@kubo39](https://github.com/kubo39)/[**tinycr**](https://github.com/kubo39/tinycr)|The challenge for creating a tiny binary in crystal.||
 |10|[@egisatoshi](https://github.com/egisatoshi)/[**scheme-compiler**](https://github.com/egisatoshi/scheme-compiler)|Scheme compiler implemented in 2008 with friends||
 |9|[@rti7743](https://github.com/rti7743)/[**oplen**](https://github.com/rti7743/oplen)|x86とx64のマシン語サイズを求めるライブラリ sexyhookのサブプロダクト||

@@ -23,6 +23,7 @@
 |5|[@okuoku](https://github.com/okuoku)/[**nausicaa**](https://github.com/okuoku/nausicaa)|collection of libraries for R6RS Scheme supporting Ikarus, Larceny, Mosh, Petite Chez, Vicare and Ypsilon|[:arrow_upper_right:](http://marcomaggi.github.com/nausicaa.html)|
 |5|[@shinnya](https://github.com/shinnya)/[**Gauche-growl-gntp**](https://github.com/shinnya/Gauche-growl-gntp)|A library for Growl(GNTP) written in Scheme.||
 |4|[@keita](https://github.com/keita)/[**project_euler**](https://github.com/keita/project_euler)|solutions for project euler's problems||
+|4|[@liquidz](https://github.com/liquidz)/[**gauche**](https://github.com/liquidz/gauche)|source for gauche||
 |4|[@mtakuya](https://github.com/mtakuya)/[**gauche-yahoo-jp**](https://github.com/mtakuya/gauche-yahoo-jp)|Gauche module - Yahoo! Japan Developer Network API Module||
 |4|[@tabe](https://github.com/tabe)/[**Gauche-TeX**](https://github.com/tabe/Gauche-TeX)|A package of Gauche Scheme implementation for TeX|[:arrow_upper_right:](http://fixedpoint.jp/)|
 |4|[@torus](https://github.com/torus)/[**opakapaka**](https://github.com/torus/opakapaka)|A tiny Ajax and comet-based chat system.||
@@ -32,7 +33,6 @@
 |3|[@hi104](https://github.com/hi104)/[**sicp_lesson**](https://github.com/hi104/sicp_lesson)|||
 |3|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**wttree**](https://github.com/kazu-yamamoto/wttree)|Fixing weight-balanced tree in MIT/GNU Scheme and slib||
 |3|[@leque](https://github.com/leque)/[**paradoc**](https://github.com/leque/paradoc)|A Scribble to HTML/LaTeX converter.||
-|3|[@liquidz](https://github.com/liquidz)/[**gauche**](https://github.com/liquidz/gauche)|source for gauche||
 |3|[@masaedw](https://github.com/masaedw)/[**sicp**](https://github.com/masaedw/sicp)|Try answering all questions||
 |3|[@mhayashi1120](https://github.com/mhayashi1120)/[**Gauche-net-oauth**](https://github.com/mhayashi1120/Gauche-net-oauth)|OAuth library for Gauche||
 |3|[@motemen](https://github.com/motemen)/[**rfc-pseudo-irc-ser…**](https://github.com/motemen/rfc-pseudo-irc-server)|Pseudo IRC server module for Gauche||

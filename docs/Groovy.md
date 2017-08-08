@@ -2,11 +2,12 @@
 |---|---|---|---|
 |222|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
 |199|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-p…**](https://github.com/kt3k/coveralls-gradle-plugin)|:hatched_chick: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
-|115|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar…**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
+|116|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar…**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |93|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
+|91|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||
 |79|[@hotchemi](https://github.com/hotchemi)/[**gradle-proguard-pl…**](https://github.com/hotchemi/gradle-proguard-plugin)|The gradle plugin to add proguard snippets to your proguard setting file quickly.|[:arrow_upper_right:](http://hotchemi.github.io/gradle-proguard-plugin)|
 |76|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-mdicons**](https://github.com/tmiyamon/gradle-mdicons)|A gradle plugin for Android to handle material design icons Google published.||
-|69|[@int128](https://github.com/int128)/[**groovy-ssh**](https://github.com/int128/groovy-ssh)|SSH automation tool based on Groovy DSL|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
+|70|[@int128](https://github.com/int128)/[**groovy-ssh**](https://github.com/int128/groovy-ssh)|SSH automation tool based on Groovy DSL|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
 |48|[@gfx](https://github.com/gfx)/[**android-power-asse…**](https://github.com/gfx/android-power-assert-plugin)|Power Assert for Android||
 |36|[@tkruse](https://github.com/tkruse)/[**gradle-groovysh-pl…**](https://github.com/tkruse/gradle-groovysh-plugin)|gradle plugin allowing to start a command-line shell||
 |29|[@nobeans](https://github.com/nobeans)/[**gexcelapi**](https://github.com/nobeans/gexcelapi)|GExcelAPI is a thin Groovy-ish wrapper library of not JExcelAPI but Apache POI.||
@@ -29,10 +30,10 @@
 |10|[@takahirom](https://github.com/takahirom)/[**fire-annotation**](https://github.com/takahirom/fire-annotation)|Simple tool which help you to implement Firebase Analytics||
 |9|[@tyama](https://github.com/tyama)/[**ratpack-gorm-mongo…**](https://github.com/tyama/ratpack-gorm-mongo-example)|||
 |7|[@int128](https://github.com/int128)/[**gradle-starter**](https://github.com/int128/gradle-starter)|Hello World application with Gradle and Docker||
+|7|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-rep…**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
 |7|[@mike-neck](https://github.com/mike-neck)/[**slim3-gradle**](https://github.com/mike-neck/slim3-gradle)|gradle build file and slim3 sample||
 |6|[@PoohSunny](https://github.com/PoohSunny)/[**geb-study**](https://github.com/PoohSunny/geb-study)|||
 |6|[@kiy0taka](https://github.com/kiy0taka)/[**groovy-consoles**](https://github.com/kiy0taka/groovy-consoles)||[:arrow_upper_right:](http://d.hatena.ne.jp/kiy0taka/)|
-|6|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-rep…**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
 |6|[@making](https://github.com/making)/[**spring-boot-demo-j…**](https://github.com/making/spring-boot-demo-jvm-languages)|Spring Boot Hello World project using some JVM languages||
 |6|[@operando](https://github.com/operando)/[**gradle-zundokokiyo…**](https://github.com/operando/gradle-zundokokiyoshi-plugin)|gradle zundokokiyoshi plugin||
 |5|[@kimukou](https://github.com/kimukou)/[**griffontest**](https://github.com/kimukou/griffontest)|groovy griffon||
@@ -51,6 +52,7 @@
 |3|[@fumokmm](https://github.com/fumokmm)/[**groovy-logo-adder**](https://github.com/fumokmm/groovy-logo-adder)|Add groovy's logo to your icon file.|[:arrow_upper_right:](http://d.hatena.ne.jp/fumokmm+en/20110526/1306421368)|
 |3|[@gfx](https://github.com/gfx)/[**Android-JavassistE…**](https://github.com/gfx/Android-JavassistExample)|||
 |3|[@grimrose](https://github.com/grimrose)/[**gadvent2014**](https://github.com/grimrose/gadvent2014)|sample Ratpack app|[:arrow_upper_right:](http://grimrose.bitbucket.org/blog/html/2014/12/07/g_advent_calendar_2014_ratpack_02.html)|
+|3|[@int128](https://github.com/int128)/[**spock-spring-boot-…**](https://github.com/int128/spock-spring-boot-example)|An example of testing Spring Boot application with Spock framework||
 |3|[@nobeans](https://github.com/nobeans)/[**irclog-viewer**](https://github.com/nobeans/irclog-viewer)|A simple viewer of IRC log archives powered by Grails||
 |3|[@nobeans](https://github.com/nobeans)/[**tddbc-yokohama-201…**](https://github.com/nobeans/tddbc-yokohama-201111)|||
 |3|[@tsuyo](https://github.com/tsuyo)/[**grails-captcha-sam…**](https://github.com/tsuyo/grails-captcha-sample)|grails sample to login with captcha||

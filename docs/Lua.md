@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|8987|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|1665|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_color…**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|9058|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|1664|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_color…**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
 |219|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-tor…**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |133|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |64|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
-|58|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
+|59|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
 |44|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-…**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
 |42|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-d…**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
 |39|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb**](https://github.com/nagadomi/kaggle-ndsb)|Code for National Data Science Bowl. 10th place.||
@@ -42,6 +42,7 @@
 |5|[@torus](https://github.com/torus)/[**ios-lua-lander**](https://github.com/torus/ios-lua-lander)|Lunar Lander for iOS devices written in Lua.||
 |5|[@torus](https://github.com/torus)/[**lua-call-cc**](https://github.com/torus/lua-call-cc)|implementing call/cc on Lua script language.||
 |5|[@umegaya](https://github.com/umegaya)/[**pulpo**](https://github.com/umegaya/pulpo)|multi-thread network server library build with coroutine and luajit FFI at ground level||
+|4|[@aw](https://github.com/aw)/[**roomba-nodemcu**](https://github.com/aw/roomba-nodemcu)|Roomba control library for NodeMCU platform|[:arrow_upper_right:](https://nodemcu.a1w.ca)|
 |4|[@kengonakajima](https://github.com/kengonakajima)/[**lua-parser**](https://github.com/kengonakajima/lua-parser)|Parse and convert Lua script into Sexp with only Ruby and Racc||
 |4|[@knu](https://github.com/knu)/[**hs-knu**](https://github.com/knu/hs-knu)|My Hammerspoon modules, mainly for keyboard customization||
 |4|[@koron](https://github.com/koron)/[**redis-qdigest**](https://github.com/koron/redis-qdigest)|||

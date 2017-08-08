@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|352|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
-|139|[@everpeace](https://github.com/everpeace)/[**ml-class-assignmen…**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
+|354|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
+|142|[@everpeace](https://github.com/everpeace)/[**ml-class-assignmen…**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
 |55|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
 |21|[@ikuwow](https://github.com/ikuwow)/[**PatchMatch**](https://github.com/ikuwow/PatchMatch)|The PatchMatch algorithm on MATLAB||
-|18|[@KamitaniLab](https://github.com/KamitaniLab)/[**VBCCA**](https://github.com/KamitaniLab/VBCCA)|Variational Bayesian Canonical Correlation Analysis||
+|19|[@KamitaniLab](https://github.com/KamitaniLab)/[**VBCCA**](https://github.com/KamitaniLab/VBCCA)|Variational Bayesian Canonical Correlation Analysis||
 |10|[@philipperemy](https://github.com/philipperemy)/[**Statistical-Arbitr…**](https://github.com/philipperemy/Statistical-Arbitrage)|Using Particle Markov Chain Monte Carlo||
 |7|[@KamitaniLab](https://github.com/KamitaniLab)/[**GenericObjectDecod…**](https://github.com/KamitaniLab/GenericObjectDecoding)|Demo codes for Horikawa and Kamitani, "Generic decoding of seen and imagined objects using hierarchical visual features", https://www.nature.com/articles/ncomms15037.||
 |6|[@bobbens](https://github.com/bobbens)/[**gfmm**](https://github.com/bobbens/gfmm)|Code for the paper 'Geodesic Finite Mixture Model'.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/gfmm/)|

@@ -4,6 +4,6 @@
 |6|[@icoxfog417](https://github.com/icoxfog417)/[**SAPExtractorDotNET…**](https://github.com/icoxfog417/SAPExtractorDotNET)|The data extractor for SAP Query , Table|[:arrow_upper_right:](http://icoxfog417.github.io/SAPExtractorDotNET/Index.html)|
 |5|[@icoxfog417](https://github.com/icoxfog417)/[**DataBaseExecutors**](https://github.com/icoxfog417/DataBaseExecutors)|Simple And Functional Database Access Library for C# / VB.NET |[:arrow_upper_right:](http://icoxfog417.github.io/DataBaseExecutors/Index.html)|
 |4|[@kazukioishi](https://github.com/kazukioishi)/[**nowplaying**](https://github.com/kazukioishi/nowplaying)|なうぷれTunes|[:arrow_upper_right:](http://www.jisakuroom.net/blog/)|
+|4|[@nmrmsys](https://github.com/nmrmsys)/[**ExSQell**](https://github.com/nmrmsys/ExSQell)|Let's running a SQL statement and Shell commands in Excel||
 |3|[@mattn](https://github.com/mattn)/[**vim-vsopen**](https://github.com/mattn/vim-vsopen)|||
-|3|[@nmrmsys](https://github.com/nmrmsys)/[**ExSQell**](https://github.com/nmrmsys/ExSQell)|Let's running a SQL statement and Shell commands in Excel||
 

@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|50|[@r7kamura](https://github.com/r7kamura)/[**mastodon-terraform…**](https://github.com/r7kamura/mastodon-terraform)|Boilerplate for running Mastodon on AWS using Terraform and CircleCI.||
+|52|[@r7kamura](https://github.com/r7kamura)/[**mastodon-terraform…**](https://github.com/r7kamura/mastodon-terraform)|Boilerplate for running Mastodon on AWS using Terraform and CircleCI.||
 |14|[@knakayama](https://github.com/knakayama)/[**aws-terraform-play…**](https://github.com/knakayama/aws-terraform-playground)|terraform examples on AWS||
 |11|[@inokappa](https://github.com/inokappa)/[**oreno-terraform-ec…**](https://github.com/inokappa/oreno-terraform-ecs)|||
-|9|[@freedomofkeima](https://github.com/freedomofkeima)/[**terraform-docker-e…**](https://github.com/freedomofkeima/terraform-docker-ecs)|Manage your ASG + ECS Cluster (Docker) with Terraform||
+|10|[@freedomofkeima](https://github.com/freedomofkeima)/[**terraform-docker-e…**](https://github.com/freedomofkeima/terraform-docker-ecs)|Manage your ASG + ECS Cluster (Docker) with Terraform||
 |7|[@knakayama](https://github.com/knakayama)/[**terraform-circleci…**](https://github.com/knakayama/terraform-circleci-demo)|||
 |7|[@zembutsu](https://github.com/zembutsu)/[**sakura-terraform**](https://github.com/zembutsu/sakura-terraform)|Terraform for Sakura Cloud samples||
 |6|[@matsuu](https://github.com/matsuu)/[**terraform-isucon**](https://github.com/matsuu/terraform-isucon)|Terraform configuration files for building ISUCON environment||

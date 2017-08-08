@@ -4,12 +4,10 @@
 |25|[@skaji](https://github.com/skaji)/[**mi6**](https://github.com/skaji/mi6)|minimal authoring tool for Perl6||
 |15|[@skaji](https://github.com/skaji)/[**Frinfon**](https://github.com/skaji/Frinfon)|minimal sinatra for perl6||
 |9|[@lopnor](https://github.com/lopnor)/[**p6-plackdo**](https://github.com/lopnor/p6-plackdo)|plack-like web interface for perl6||
-|7|[@tokuhirom](https://github.com/tokuhirom)/[**p6-WebSocket**](https://github.com/tokuhirom/p6-WebSocket)|||
 |6|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-MultiPartP…**](https://github.com/tokuhirom/p6-HTTP-MultiPartParser)|multipart/form-data parser for Perl6||
 |5|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-Parser**](https://github.com/tokuhirom/p6-HTTP-Parser)|||
 |5|[@uasi](https://github.com/uasi)/[**messagepack-pm6**](https://github.com/uasi/messagepack-pm6)|A MessagePack implementation written in Perl 6||
 |4|[@moznion](https://github.com/moznion)/[**p6-IO-Blob**](https://github.com/moznion/p6-IO-Blob)|IO:: interface for reading/writing a Blob||
-|4|[@moznion](https://github.com/moznion)/[**p6-Log-Minimal**](https://github.com/moznion/p6-Log-Minimal)|Minimal Logger for Perl6||
 |4|[@tokuhirom](https://github.com/tokuhirom)/[**p6-Raw-Socket**](https://github.com/tokuhirom/p6-Raw-Socket)|(DEPRECATED)||
 |4|[@uasi](https://github.com/uasi)/[**file-spec**](https://github.com/uasi/file-spec)|A port of the Perl 5 File::Spec module to Perl 6||
 |4|[@zigorou](https://github.com/zigorou)/[**p5-keyedmutex-memc…**](https://github.com/zigorou/p5-keyedmutex-memcached)|Keyed mutex using memcached|[:arrow_upper_right:](http://d.hatena.ne.jp/ZIGOROu/)|

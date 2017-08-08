@@ -13,15 +13,15 @@
 |8|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Automaton**](https://github.com/pocketberserker/FSharp.Automaton)|||
 |7|[@bleis-tift](https://github.com/bleis-tift)/[**TableDsl**](https://github.com/bleis-tift/TableDsl)|||
 |7|[@pocketberserker](https://github.com/pocketberserker)/[**ComVu**](https://github.com/pocketberserker/ComVu)|||
-|7|[@vain0](https://github.com/vain0)/[**tokiwa_db**](https://github.com/vain0/tokiwa_db)|Partially persistent relational database for .NET (半永続なリレーショナルデータベース)||
 |6|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Object.Diff…**](https://github.com/pocketberserker/FSharp.Object.Diff)|||
+|6|[@vain0](https://github.com/vain0)/[**tokiwa_db**](https://github.com/vain0/tokiwa_db)|Partially persistent relational database for .NET (半永続なリレーショナルデータベース)||
 |5|[@azyobuzin](https://github.com/azyobuzin)/[**kirabern**](https://github.com/azyobuzin/kirabern)|コンパイラつくるぞ！！！！||
 |5|[@bleis-tift](https://github.com/bleis-tift)/[**TypeProviderSample…**](https://github.com/bleis-tift/TypeProviderSample)|あわせて読んでほしい： http://d.hatena.ne.jp/bleis-tift/20110922/1316626354|[:arrow_upper_right:](http://d.hatena.ne.jp/bleis-tift/20110922/1316626354)|
 |5|[@kekyo](https://github.com/kekyo)/[**Microsoft.CodeAnal…**](https://github.com/kekyo/Microsoft.CodeAnalysis.ActivePatterns)|F# Active pattern helper functions for Roslyn C#/Visual Basic AST.||
 |5|[@moonmile](https://github.com/moonmile)/[**SampleFSharpUI**](https://github.com/moonmile/SampleFSharpUI)|F#でWPF+MVVMをするサンプルコード||
+|5|[@pocketberserker](https://github.com/pocketberserker)/[**Diff.Match.Patch**](https://github.com/pocketberserker/Diff.Match.Patch)|||
 |5|[@pocketberserker](https://github.com/pocketberserker)/[**PEGStudy**](https://github.com/pocketberserker/PEGStudy)|PEGと構文解析に関するアレコレの勉強会 Vol.1用に作ったもの置き場||
 |5|[@pocketberserker](https://github.com/pocketberserker)/[**free-monad-fsharp**](https://github.com/pocketberserker/free-monad-fsharp)|||
-|4|[@pocketberserker](https://github.com/pocketberserker)/[**Diff.Match.Patch**](https://github.com/pocketberserker/Diff.Match.Patch)|||
 |4|[@teramonagi](https://github.com/teramonagi)/[**ArithmeticEvaluati…**](https://github.com/teramonagi/ArithmeticEvaluation)|Simple Calculator||
 |3|[@callmekohei](https://github.com/callmekohei)/[**Neovimfs**](https://github.com/callmekohei/Neovimfs)|Neovimfs is a web app hosted on local Suave server and it provides auto completion list for F# code.||
 |3|[@pocketberserker](https://github.com/pocketberserker)/[**ContMonadStudy**](https://github.com/pocketberserker/ContMonadStudy)|継続モナド勉強用のなんとか||

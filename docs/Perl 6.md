@@ -1,5 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
+|26|[@skaji](https://github.com/skaji)/[**mi6**](https://github.com/skaji/mi6)|minimal authoring tool for Perl6||
 |14|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-Server-Tin…**](https://github.com/tokuhirom/p6-HTTP-Server-Tiny)|Web application server for Perl6||
 |8|[@tokuhirom](https://github.com/tokuhirom)/[**p6-WebSocket**](https://github.com/tokuhirom/p6-WebSocket)|||
 |5|[@scmorrison](https://github.com/scmorrison)/[**uzu**](https://github.com/scmorrison/uzu)|Uzu is a static site generator with built-in web server, file modification watcher, live reload, i18n, themes, and multi-page support.||

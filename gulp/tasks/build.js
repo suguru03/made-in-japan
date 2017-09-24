@@ -7,4 +7,4 @@ const { makeDocs } = require('made-in-generator');
  * Makes all docs
  * gulp build
  */
-gulp.task('build', () => makeDocs(require('../../data/repositories.json')));
+gulp.task('build', () => makeDocs(require('../../data/repositories.json'), require('../../data/developers.json')));

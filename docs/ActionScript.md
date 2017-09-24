@@ -12,7 +12,7 @@
 |13|[@hanamura](https://github.com/hanamura)/[**as3tf**](https://github.com/hanamura/as3tf)|Various classes and functions for Flash/ActionScript programming.||
 |12|[@motemen](https://github.com/motemen)/[**as3-klt**](https://github.com/motemen/as3-klt)|Kanade-Lucas-Tomasi feature tracker implementation in as3||
 |11|[@akio0911](https://github.com/akio0911)/[**hcrepos**](https://github.com/akio0911/hcrepos)|Hacker's Cafe Repository|[:arrow_upper_right:](http://blog.hackers-cafe.net/)|
-|11|[@juwalbose](https://github.com/juwalbose)/[**DynamicAtlasCreato…**](https://github.com/juwalbose/DynamicAtlasCreator)|Helps create Starling Texture Atlas dynamically from a single super atlas (2048, ipad retina screen width based)||
+|11|[@juwalbose](https://github.com/juwalbose)/[**DynamicAtlasCreator**](https://github.com/juwalbose/DynamicAtlasCreator)|Helps create Starling Texture Atlas dynamically from a single super atlas (2048, ipad retina screen width based)||
 |9|[@lyokato](https://github.com/lyokato)/[**as3jcode**](https://github.com/lyokato/as3jcode)|japanese text encoding||
 |9|[@lyokato](https://github.com/lyokato)/[**as3xmppclient**](https://github.com/lyokato/as3xmppclient)|ActionScript 3.0 XMPP client library||
 |9|[@takumus](https://github.com/takumus)/[**ListUI-for-as3**](https://github.com/takumus/ListUI-for-as3)|||
@@ -33,15 +33,15 @@
 |6|[@umhr](https://github.com/umhr)/[**VideoChatMobile**](https://github.com/umhr/VideoChatMobile)|||
 |5|[@YusukeKokubo](https://github.com/YusukeKokubo)/[**redmineair**](https://github.com/YusukeKokubo/redmineair)|redmine client soch as a desktop stickey application.|[:arrow_upper_right:](http://www.r-labs.org/projects/redmineair/)|
 |5|[@cellfusion](https://github.com/cellfusion)/[**cellfusionAS3**](https://github.com/cellfusion/cellfusionAS3)|いままで作ったクラスを適当にまとめるリポジトリ||
-|5|[@itoz](https://github.com/itoz)/[**itoz.jp_RTMFP-serv…**](https://github.com/itoz/itoz.jp_RTMFP-serverless-)|サーバーレスモードRTMFPライブラリ||
-|5|[@juwalbose](https://github.com/juwalbose)/[**DynamicAtlasCeator…**](https://github.com/juwalbose/DynamicAtlasCeatorAirDemo)|AIR version of Dynamic Texture Atlas with saving to ApplicationStorageDirectory for reuse||
+|5|[@itoz](https://github.com/itoz)/[**itoz.jp_RTMFP-serverless-**](https://github.com/itoz/itoz.jp_RTMFP-serverless-)|サーバーレスモードRTMFPライブラリ||
+|5|[@juwalbose](https://github.com/juwalbose)/[**DynamicAtlasCeatorAirDemo**](https://github.com/juwalbose/DynamicAtlasCeatorAirDemo)|AIR version of Dynamic Texture Atlas with saving to ApplicationStorageDirectory for reuse||
 |5|[@nulab](https://github.com/nulab)/[**asclip**](https://github.com/nulab/asclip)|ActionScript library for clipboard copy||
 |5|[@tanabe](https://github.com/tanabe)/[**JSFL**](https://github.com/tanabe/JSFL)|Flash JSFL commands.||
 |5|[@yoshuki](https://github.com/yoshuki)/[**radiko**](https://github.com/yoshuki/radiko)|radiko.jp(http://radiko.jp/) プレイヤー|[:arrow_upper_right:](http://saikyoline.jp/air/radiko/)|
 |4|[@024t910](https://github.com/024t910)/[**yc2013**](https://github.com/024t910/yc2013)|||
 |4|[@Saqoosha](https://github.com/Saqoosha)/[**SimpleHTTPServer**](https://github.com/Saqoosha/SimpleHTTPServer)|GUI Frontend for python's SimpleHTTPServer module.|[:arrow_upper_right:](http://saqoo.sh/a)|
 |4|[@glassesfactory](https://github.com/glassesfactory)/[**GFWindowObserver**](https://github.com/glassesfactory/GFWindowObserver)|SWF が本当に非アクティブになったかどうか調べるクラス|[:arrow_upper_right:](http://blog.glasses-factory.net/2010/11/14/GFWindowObserver)|
-|4|[@hadashiA](https://github.com/hadashiA)/[**suzuri-actionscrip…**](https://github.com/hadashiA/suzuri-actionscript-client)|||
+|4|[@hadashiA](https://github.com/hadashiA)/[**suzuri-actionscript-client**](https://github.com/hadashiA/suzuri-actionscript-client)|||
 |4|[@itoz](https://github.com/itoz)/[**ErrorDialog**](https://github.com/itoz/ErrorDialog)|[as3] Modal Error Dialog クラス|[:arrow_upper_right:](http://blog.romatica.com/2011/04/21/modal_errordialog/)|
 |4|[@itoz](https://github.com/itoz)/[**itoz_jp_AS3**](https://github.com/itoz/itoz_jp_AS3)|itozAS3Class|[:arrow_upper_right:](http://www.itoz.jp)|
 |4|[@koba206](https://github.com/koba206)/[**flex-carousel**](https://github.com/koba206/flex-carousel)|Display array of images in 3d carousel view format|[:arrow_upper_right:](http://www.koba206.com/projects/flash/photo-carousels/)|
@@ -50,9 +50,9 @@
 |4|[@noblejasper](https://github.com/noblejasper)/[**dotfiles**](https://github.com/noblejasper/dotfiles)|dotfiles||
 |4|[@tkmr](https://github.com/tkmr)/[**as2js**](https://github.com/tkmr/as2js)|Object bridge from ActionScript 3.0 to JavaScript|[:arrow_upper_right:](http://blog.tkmr.org/as2js-test.html?twitter=tkmr&ustream=tkmr)|
 |3|[@axcelwork](https://github.com/axcelwork)/[**AXCELAS3**](https://github.com/axcelwork/AXCELAS3)|ASDoc : http://www.shift-style.org/asdoc|[:arrow_upper_right:](http://shift-style.org/blog)|
-|3|[@mackato](https://github.com/mackato)/[**rialy-flex-framewo…**](https://github.com/mackato/rialy-flex-framework)|RIALY(from "Building RIAs Easily") is a lightweight design pattern tool kit for Adobe Flex.|[:arrow_upper_right:](http://github.com/mackato/rialy-flex-framework)|
+|3|[@mackato](https://github.com/mackato)/[**rialy-flex-framework**](https://github.com/mackato/rialy-flex-framework)|RIALY(from "Building RIAs Easily") is a lightweight design pattern tool kit for Adobe Flex.|[:arrow_upper_right:](http://github.com/mackato/rialy-flex-framework)|
 |3|[@nazo](https://github.com/nazo)/[**as3gamelib**](https://github.com/nazo/as3gamelib)|||
 |3|[@nitoyon](https://github.com/nitoyon)/[**hokkaido**](https://github.com/nitoyon/hokkaido)||[:arrow_upper_right:](http://d.hatena.ne.jp/nitoyon/20090415/hokkaido)|
 |3|[@takumus](https://github.com/takumus)/[**KaitenDisplay**](https://github.com/takumus/KaitenDisplay)|LEDのアレイを回転させてディスプレイ表示させたい。||
-|3|[@umhr](https://github.com/umhr)/[**TCP_SocketExamples…**](https://github.com/umhr/TCP_SocketExamples)|AS3によるTCPのサーバーとクライアント||
+|3|[@umhr](https://github.com/umhr)/[**TCP_SocketExamples**](https://github.com/umhr/TCP_SocketExamples)|AS3によるTCPのサーバーとクライアント||
 

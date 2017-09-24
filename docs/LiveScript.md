@@ -5,7 +5,7 @@
 |19|[@hakatashi](https://github.com/hakatashi)/[**slack-ikku**](https://github.com/hakatashi/slack-ikku)|一句||
 |9|[@polm](https://github.com/polm)/[**palladian-facades**](https://github.com/polm/palladian-facades)|Palladian Facade Generator for ProcJam2015||
 |5|[@polm](https://github.com/polm)/[**deltos**](https://github.com/polm/deltos)|A magic notepad. δ||
-|4|[@e-jigsaw](https://github.com/e-jigsaw)/[**gulp-jade-template…**](https://github.com/e-jigsaw/gulp-jade-template)|gulp plugin for jade template||
+|4|[@e-jigsaw](https://github.com/e-jigsaw)/[**gulp-jade-template**](https://github.com/e-jigsaw/gulp-jade-template)|gulp plugin for jade template||
 |3|[@hakatashi](https://github.com/hakatashi)/[**AsianBreak**](https://github.com/hakatashi/AsianBreak)|Line Break for East Asian People||
 |3|[@hakatashi](https://github.com/hakatashi)/[**general-category**](https://github.com/hakatashi/general-category)|Look up General_Category of Unicode character with JavaScript||
 |3|[@hakatashi](https://github.com/hakatashi)/[**kindlegen**](https://github.com/hakatashi/kindlegen)|Simple Node.js wrapper for kindlegen program||

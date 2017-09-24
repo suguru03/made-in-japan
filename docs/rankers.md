@@ -1,4 +1,4 @@
-## Top 1000 Developers (2017/09/24)
+## Top 1000 Developers out of 13600 (2017/09/24)
 
 |Rank|Name|:star2:|
 |---|---|---|

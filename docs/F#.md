@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |55|[@vain0](https://github.com/vain0)/[**VainZero.Friends**](https://github.com/vain0/VainZero.Friends)|PL for friends in the Japaripark (ジャパリパークのフレンズのためのプログラミング言語)||
-|48|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.Fus…**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
+|51|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.Fus…**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
 |37|[@pocketberserker](https://github.com/pocketberserker)/[**FsMachines**](https://github.com/pocketberserker/FsMachines)|A stream processing library for F#||
 |34|[@bleis-tift](https://github.com/bleis-tift)/[**FsYaml**](https://github.com/bleis-tift/FsYaml)|Typed Yaml Library for F#|[:arrow_upper_right:](http://bleis-tift.github.com/FsYaml)|
 |23|[@pocketberserker](https://github.com/pocketberserker)/[**FsAttoparsec**](https://github.com/pocketberserker/FsAttoparsec)|A port of Bryan O'Sullivan's attoparsec from Haskell to F#||
-|15|[@bleis-tift](https://github.com/bleis-tift)/[**FSharp.Quotations.…**](https://github.com/bleis-tift/FSharp.Quotations.Compiler)|This library is a compiler for F# expression tree.|[:arrow_upper_right:](http://bleis-tift.github.io/FSharp.Quotations.Compiler)|
-|14|[@Gab-km](https://github.com/Gab-km)/[**msgpack-fsharp**](https://github.com/Gab-km/msgpack-fsharp)|MessagePack implementation for F# msgpack.org[F#] http://msgpack.org/||
+|16|[@bleis-tift](https://github.com/bleis-tift)/[**FSharp.Quotations.…**](https://github.com/bleis-tift/FSharp.Quotations.Compiler)|This library is a compiler for F# expression tree.|[:arrow_upper_right:](http://bleis-tift.github.io/FSharp.Quotations.Compiler)|
+|15|[@Gab-km](https://github.com/Gab-km)/[**msgpack-fsharp**](https://github.com/Gab-km/msgpack-fsharp)|MessagePack implementation for F# msgpack.org[F#] http://msgpack.org/||
 |14|[@mzp](https://github.com/mzp)/[**fluent-agent-windo…**](https://github.com/mzp/fluent-agent-windows-lite)|Simple fluent agent for Windows||
 |10|[@Gab-km](https://github.com/Gab-km)/[**Funcy**](https://github.com/Gab-km/Funcy)|This is the insignificant one of the numberless functional libraries for C#/VB.|[:arrow_upper_right:](https://www.nuget.org/packages/Funcy/)|
 |10|[@Gab-km](https://github.com/Gab-km)/[**OAuth-in-FSharp**](https://github.com/Gab-km/OAuth-in-FSharp)|This library offers the OAuth API written in F#.|[:arrow_upper_right:](http://twitter.com/gab_km)|
@@ -14,7 +14,7 @@
 |7|[@bleis-tift](https://github.com/bleis-tift)/[**TableDsl**](https://github.com/bleis-tift/TableDsl)|||
 |7|[@pocketberserker](https://github.com/pocketberserker)/[**ComVu**](https://github.com/pocketberserker/ComVu)|||
 |6|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Object.Diff…**](https://github.com/pocketberserker/FSharp.Object.Diff)|||
-|6|[@vain0](https://github.com/vain0)/[**tokiwa_db**](https://github.com/vain0/tokiwa_db)|Partially persistent relational database for .NET (半永続なリレーショナルデータベース)||
+|6|[@vain0](https://github.com/vain0)/[**tokiwa_db**](https://github.com/vain0/tokiwa_db)|||
 |5|[@azyobuzin](https://github.com/azyobuzin)/[**kirabern**](https://github.com/azyobuzin/kirabern)|コンパイラつくるぞ！！！！||
 |5|[@bleis-tift](https://github.com/bleis-tift)/[**TypeProviderSample…**](https://github.com/bleis-tift/TypeProviderSample)|あわせて読んでほしい： http://d.hatena.ne.jp/bleis-tift/20110922/1316626354|[:arrow_upper_right:](http://d.hatena.ne.jp/bleis-tift/20110922/1316626354)|
 |5|[@kekyo](https://github.com/kekyo)/[**Microsoft.CodeAnal…**](https://github.com/kekyo/Microsoft.CodeAnalysis.ActivePatterns)|F# Active pattern helper functions for Roslyn C#/Visual Basic AST.||

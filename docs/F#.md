@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |55|[@vain0](https://github.com/vain0)/[**VainZero.Friends**](https://github.com/vain0/VainZero.Friends)|PL for friends in the Japaripark (ジャパリパークのフレンズのためのプログラミング言語)||
-|51|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.FusionTasks**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
+|52|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.FusionTasks**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
 |37|[@pocketberserker](https://github.com/pocketberserker)/[**FsMachines**](https://github.com/pocketberserker/FsMachines)|A stream processing library for F#||
 |34|[@bleis-tift](https://github.com/bleis-tift)/[**FsYaml**](https://github.com/bleis-tift/FsYaml)|Typed Yaml Library for F#|[:arrow_upper_right:](http://bleis-tift.github.com/FsYaml)|
 |23|[@pocketberserker](https://github.com/pocketberserker)/[**FsAttoparsec**](https://github.com/pocketberserker/FsAttoparsec)|A port of Bryan O'Sullivan's attoparsec from Haskell to F#||
@@ -23,6 +23,7 @@
 |5|[@pocketberserker](https://github.com/pocketberserker)/[**PEGStudy**](https://github.com/pocketberserker/PEGStudy)|PEGと構文解析に関するアレコレの勉強会 Vol.1用に作ったもの置き場||
 |5|[@pocketberserker](https://github.com/pocketberserker)/[**free-monad-fsharp**](https://github.com/pocketberserker/free-monad-fsharp)|||
 |4|[@teramonagi](https://github.com/teramonagi)/[**ArithmeticEvaluation**](https://github.com/teramonagi/ArithmeticEvaluation)|Simple Calculator||
+|3|[@CORDEA](https://github.com/CORDEA)/[**grpc-demo-fsharp**](https://github.com/CORDEA/grpc-demo-fsharp)|Implementation of gRPC by F# and automatically generated C# code.||
 |3|[@callmekohei](https://github.com/callmekohei)/[**Neovimfs**](https://github.com/callmekohei/Neovimfs)|Neovimfs is a web app hosted on local Suave server and it provides auto completion list for F# code.||
 |3|[@pocketberserker](https://github.com/pocketberserker)/[**ContMonadStudy**](https://github.com/pocketberserker/ContMonadStudy)|継続モナド勉強用のなんとか||
 |3|[@pocketberserker](https://github.com/pocketberserker)/[**FCure**](https://github.com/pocketberserker/FCure)|||

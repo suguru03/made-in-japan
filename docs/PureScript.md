@@ -6,5 +6,6 @@
 |6|[@fujimura](https://github.com/fujimura)/[**purescript-react-example**](https://github.com/fujimura/purescript-react-example)|PureScript + React.js example, based on https://github.com/purescript-contrib/purescript-react.||
 |5|[@algas](https://github.com/algas)/[**purescript-enchantjs**](https://github.com/algas/purescript-enchantjs)|PureScript interface for Enchant.js||
 |4|[@noraesae](https://github.com/noraesae)/[**purescript-halogen-free-html**](https://github.com/noraesae/purescript-halogen-free-html)|Free monad for Halogen HTML||
+|4|[@utatti](https://github.com/utatti)/[**purescript-halogen-free-html**](https://github.com/utatti/purescript-halogen-free-html)|Free monad for Halogen HTML||
 |3|[@philopon](https://github.com/philopon)/[**purescript-html**](https://github.com/philopon/purescript-html)|middle level virtual-dom binding for purescript||
 

@@ -1,25 +1,25 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|4229|[@simeji](https://github.com/simeji)/[**jid**](https://github.com/simeji/jid)|json incremental digger||
-|2256|[@motemen](https://github.com/motemen)/[**gore**](https://github.com/motemen/gore)|  Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.||
-|2136|[@monochromegane](https://github.com/monochromegane)/[**the_platinum_searcher**](https://github.com/monochromegane/the_platinum_searcher)|A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.||
-|1985|[@shirou](https://github.com/shirou)/[**gopsutil**](https://github.com/shirou/gopsutil)|psutil for golang||
-|1801|[@yuin](https://github.com/yuin)/[**gopher-lua**](https://github.com/yuin/gopher-lua)|GopherLua: VM and compiler for Lua in Go||
+|4233|[@simeji](https://github.com/simeji)/[**jid**](https://github.com/simeji/jid)|json incremental digger||
+|2259|[@motemen](https://github.com/motemen)/[**gore**](https://github.com/motemen/gore)|  Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.||
+|2137|[@monochromegane](https://github.com/monochromegane)/[**the_platinum_searcher**](https://github.com/monochromegane/the_platinum_searcher)|A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.||
+|1997|[@shirou](https://github.com/shirou)/[**gopsutil**](https://github.com/shirou/gopsutil)|psutil for golang||
+|1813|[@yuin](https://github.com/yuin)/[**gopher-lua**](https://github.com/yuin/gopher-lua)|GopherLua: VM and compiler for Lua in Go||
 |1408|[@fvbock](https://github.com/fvbock)/[**endless**](https://github.com/fvbock/endless)|Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)||
 |1278|[@mattn](https://github.com/mattn)/[**gom**](https://github.com/mattn/gom)|Go Manager - bundle for go||
 |1044|[@mattn](https://github.com/mattn)/[**go-gtk**](https://github.com/mattn/go-gtk)|Go binding for GTK|[:arrow_upper_right:](http://mattn.github.com/go-gtk)|
 |970|[@c-bata](https://github.com/c-bata)/[**go-prompt**](https://github.com/c-bata/go-prompt)|Building a powerful interactive prompt in Go, inspired by python-prompt-toolkit.||
-|880|[@motemen](https://github.com/motemen)/[**ghq**](https://github.com/motemen/ghq)|Remote repository management made easy||
+|885|[@motemen](https://github.com/motemen)/[**ghq**](https://github.com/motemen/ghq)|Remote repository management made easy||
 |839|[@monochromegane](https://github.com/monochromegane)/[**go_design_pattern**](https://github.com/monochromegane/go_design_pattern)|Design patterns in Golang.||
-|745|[@tcnksm](https://github.com/tcnksm)/[**gcli**](https://github.com/tcnksm/gcli)|The easy way to build Golang command-line application.||
+|746|[@tcnksm](https://github.com/tcnksm)/[**gcli**](https://github.com/tcnksm/gcli)|The easy way to build Golang command-line application.||
 |720|[@mattn](https://github.com/mattn)/[**goreman**](https://github.com/mattn/goreman)|foreman clone written in go language||
 |682|[@gengo](https://github.com/gengo)/[**goship**](https://github.com/gengo/goship)|A simple tool for deploying code to servers.||
+|624|[@zchee](https://github.com/zchee)/[**docker-machine-driver-xhyve**](https://github.com/zchee/docker-machine-driver-xhyve)|docker-machine/minikube/minishift driver plugin for xhyve/hyperkit (native macOS hypervisor.framework)|[:arrow_upper_right:](https://godoc.org/github.com/zchee/docker-machine-driver-xhyve)|
 |619|[@huydx](https://github.com/huydx)/[**hget**](https://github.com/huydx/hget)|rocket fast, interruptable, resumable download accelerator written in golang||
 |619|[@yosssi](https://github.com/yosssi)/[**ace**](https://github.com/yosssi/ace)|HTML template engine for Go||
-|619|[@zchee](https://github.com/zchee)/[**docker-machine-driver-xhyve**](https://github.com/zchee/docker-machine-driver-xhyve)|docker-machine/minikube/minishift driver plugin for xhyve/hyperkit (native macOS hypervisor.framework)|[:arrow_upper_right:](https://godoc.org/github.com/zchee/docker-machine-driver-xhyve)|
 |552|[@hirokidaichi](https://github.com/hirokidaichi)/[**goviz**](https://github.com/hirokidaichi/goviz)|a visualization tool for golang project dependency||
-|495|[@tcnksm](https://github.com/tcnksm)/[**ghr**](https://github.com/tcnksm/ghr)|Upload multiple artifacts to GitHub Release in parallel |[:arrow_upper_right:](http://tcnksm.github.io/ghr/)|
-|492|[@ruedap](https://github.com/ruedap)/[**alfred-font-awesome-workflow**](https://github.com/ruedap/alfred-font-awesome-workflow)|:tophat: Font Awesome Workflow for Alfred 2 & 3||
+|496|[@tcnksm](https://github.com/tcnksm)/[**ghr**](https://github.com/tcnksm/ghr)|Upload multiple artifacts to GitHub Release in parallel |[:arrow_upper_right:](http://tcnksm.github.io/ghr/)|
+|493|[@ruedap](https://github.com/ruedap)/[**alfred-font-awesome-workflow**](https://github.com/ruedap/alfred-font-awesome-workflow)|:tophat: Font Awesome Workflow for Alfred 2 & 3||
 |488|[@Code-Hex](https://github.com/Code-Hex)/[**pget**](https://github.com/Code-Hex/pget)|The fastest file download client||
 |479|[@mattn](https://github.com/mattn)/[**sudo**](https://github.com/mattn/sudo)|sudo for windows||
 |474|[@k0kubun](https://github.com/k0kubun)/[**pp**](https://github.com/k0kubun/pp)|Colored pretty printer for Go language|[:arrow_upper_right:](http://godoc.org/github.com/k0kubun/pp)|
@@ -27,11 +27,12 @@
 |444|[@mattn](https://github.com/mattn)/[**anko**](https://github.com/mattn/anko)|Scriptable interpreter written in golang|[:arrow_upper_right:](http://play-anko.appspot.com/)|
 |417|[@mattn](https://github.com/mattn)/[**goveralls**](https://github.com/mattn/goveralls)|||
 |407|[@haya14busa](https://github.com/haya14busa)/[**reviewdog**](https://github.com/haya14busa/reviewdog)|:dog: A code review dog who keeps your codebase healthy|[:arrow_upper_right:](https://medium.com/@haya14busa/reviewdog-a-code-review-dog-who-keeps-your-codebase-healthy-d957c471938b#.8xctbaw5u)|
-|388|[@yosssi](https://github.com/yosssi)/[**gcss**](https://github.com/yosssi/gcss)|Pure Go CSS Preprocessor||
+|389|[@yosssi](https://github.com/yosssi)/[**gcss**](https://github.com/yosssi/gcss)|Pure Go CSS Preprocessor||
 |382|[@guregu](https://github.com/guregu)/[**null**](https://github.com/guregu/null)|reasonable handling of nullable values||
 |370|[@mattn](https://github.com/mattn)/[**go-xmpp**](https://github.com/mattn/go-xmpp)|go xmpp library (original was written by russ cox  )|[:arrow_upper_right:](http://golang.org/)|
 |366|[@c-bata](https://github.com/c-bata)/[**kube-prompt**](https://github.com/c-bata/kube-prompt)|An interactive kubernetes client featuring auto-complete using go-prompt.||
-|349|[@otiai10](https://github.com/otiai10)/[**gosseract**](https://github.com/otiai10/gosseract)|Golang OCR library, wrapping Tesseract-ocr|[:arrow_upper_right:](https://godoc.org/github.com/otiai10/gosseract)|
+|351|[@otiai10](https://github.com/otiai10)/[**gosseract**](https://github.com/otiai10/gosseract)|Golang OCR library, wrapping Tesseract-ocr|[:arrow_upper_right:](https://godoc.org/github.com/otiai10/gosseract)|
+|344|[@rhysd](https://github.com/rhysd)/[**gocaml**](https://github.com/rhysd/gocaml)|:camel: Practical statically typed functional programming language implementation with Go and LLVM||
 |327|[@mattn](https://github.com/mattn)/[**memo**](https://github.com/mattn/memo)|📓 Memo Life For You||
 |322|[@mkouhei](https://github.com/mkouhei)/[**gosh**](https://github.com/mkouhei/gosh)|interactive shell for Golang||
 |292|[@timakin](https://github.com/timakin)/[**gopli**](https://github.com/timakin/gopli)|DB replication tool to synchronize data with multi environments written in Golang.||
@@ -48,16 +49,16 @@
 |231|[@koyachi](https://github.com/koyachi)/[**go-nude**](https://github.com/koyachi/go-nude)|Nudity detection with Go.||
 |222|[@cubicdaiya](https://github.com/cubicdaiya)/[**nginx-build**](https://github.com/cubicdaiya/nginx-build)|Seamless nginx builder||
 |215|[@mattn](https://github.com/mattn)/[**go-v8**](https://github.com/mattn/go-v8)|Go binding for v8|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
-|213|[@summerwind](https://github.com/summerwind)/[**h2spec**](https://github.com/summerwind/h2spec)|A conformance testing tool for HTTP/2 implementation.||
+|215|[@summerwind](https://github.com/summerwind)/[**h2spec**](https://github.com/summerwind/h2spec)|A conformance testing tool for HTTP/2 implementation.||
 |208|[@hajimehoshi](https://github.com/hajimehoshi)/[**go-mp3**](https://github.com/hajimehoshi/go-mp3)|An MP3 decoder in pure Go||
 |205|[@mattn](https://github.com/mattn)/[**go-colorable**](https://github.com/mattn/go-colorable)||[:arrow_upper_right:](http://godoc.org/github.com/mattn/go-colorable)|
 |199|[@boj](https://github.com/boj)/[**redistore**](https://github.com/boj/redistore)|A session store backend for gorilla/sessions using Redis.||
 |196|[@mattn](https://github.com/mattn)/[**gopher**](https://github.com/mattn/gopher)|Windows Desktop Mascot Applicaiton "Gopher"||
-|195|[@zetamatta](https://github.com/zetamatta)/[**nyagos**](https://github.com/zetamatta/nyagos)|Nihongo Yet Anothoer GOing Shell 4000 (Extended Commandline Shell for Windows)|[:arrow_upper_right:](http://www.nyaos.org)|
+|194|[@zetamatta](https://github.com/zetamatta)/[**nyagos**](https://github.com/zetamatta/nyagos)|Nihongo Yet Anothoer GOing Shell 4000 (Extended Commandline Shell for Windows)|[:arrow_upper_right:](http://www.nyaos.org)|
+|193|[@naoina](https://github.com/naoina)/[**toml**](https://github.com/naoina/toml)|TOML parser and encoder library for Golang||
+|193|[@sugyan](https://github.com/sugyan)/[**ttygif**](https://github.com/sugyan/ttygif)|ttyrec to gif||
 |193|[@yosssi](https://github.com/yosssi)/[**gmq**](https://github.com/yosssi/gmq)|Pure Go MQTT Client||
-|192|[@naoina](https://github.com/naoina)/[**toml**](https://github.com/naoina/toml)|TOML parser and encoder library for Golang||
-|192|[@sugyan](https://github.com/sugyan)/[**ttygif**](https://github.com/sugyan/ttygif)|ttyrec to gif||
-|188|[@yuroyoro](https://github.com/yuroyoro)/[**goast-viewer**](https://github.com/yuroyoro/goast-viewer)|Golang AST visualizer||
+|189|[@yuroyoro](https://github.com/yuroyoro)/[**goast-viewer**](https://github.com/yuroyoro/goast-viewer)|Golang AST visualizer||
 |187|[@mattn](https://github.com/mattn)/[**go-mastodon**](https://github.com/mattn/go-mastodon)|mastodon client for golang||
 |178|[@fujiwara](https://github.com/fujiwara)/[**stretcher**](https://github.com/fujiwara/stretcher)|Deployment tool with consul/serf event notification.||
 |176|[@kyokomi](https://github.com/kyokomi)/[**emoji**](https://github.com/kyokomi/emoji)|:sushi: emoji terminal output for golang||
@@ -65,16 +66,16 @@
 |174|[@motemen](https://github.com/motemen)/[**gompatible**](https://github.com/motemen/gompatible)|A tool to show Go package's API changes between two (git) revisions||
 |172|[@yusukebe](https://github.com/yusukebe)/[**revealgo**](https://github.com/yusukebe/revealgo)|Markdown driven presentation tool written in Go!||
 |171|[@noborus](https://github.com/noborus)/[**trdsql**](https://github.com/noborus/trdsql)|A tool that can execute SQL queries on CSV and LTSV||
-|166|[@numa08](https://github.com/numa08)/[**git-gitlab**](https://github.com/numa08/git-gitlab)|gitlab command line interface||
+|167|[@numa08](https://github.com/numa08)/[**git-gitlab**](https://github.com/numa08/git-gitlab)|gitlab command line interface||
 |164|[@naoina](https://github.com/naoina)/[**kocha**](https://github.com/naoina/kocha)|A convenient web application framework for Go|[:arrow_upper_right:](http://naoina.github.io/kocha/)|
+|162|[@pocke](https://github.com/pocke)/[**lemonade**](https://github.com/pocke/lemonade)|Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.||
 |162|[@typester](https://github.com/typester)/[**gate**](https://github.com/typester/gate)|||
-|161|[@pocke](https://github.com/pocke)/[**lemonade**](https://github.com/pocke/lemonade)|Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.||
 |157|[@yosssi](https://github.com/yosssi)/[**gold**](https://github.com/yosssi/gold)|[DEPRECATED]Template engine for Go|[:arrow_upper_right:](http://gold.yoss.si/)|
+|156|[@tcnksm](https://github.com/tcnksm)/[**go-input**](https://github.com/tcnksm/go-input)|Go package for ideal tty prompt|[:arrow_upper_right:](https://godoc.org/github.com/tcnksm/go-input)|
+|156|[@utatti](https://github.com/utatti)/[**orange-cat**](https://github.com/utatti/orange-cat)|A Markdown previewer written in Go|[:arrow_upper_right:](https://github.com/noraesae/orange-cat)|
 |155|[@noraesae](https://github.com/noraesae)/[**orange-cat**](https://github.com/noraesae/orange-cat)|A Markdown previewer written in Go|[:arrow_upper_right:](https://github.com/noraesae/orange-cat)|
-|155|[@tcnksm](https://github.com/tcnksm)/[**go-input**](https://github.com/tcnksm/go-input)|Go package for ideal tty prompt|[:arrow_upper_right:](https://godoc.org/github.com/tcnksm/go-input)|
 |148|[@tcnksm](https://github.com/tcnksm)/[**go-httpstat**](https://github.com/tcnksm/go-httpstat)|Tracing golang HTTP request latency||
 |144|[@naoina](https://github.com/naoina)/[**genmai**](https://github.com/naoina/genmai)|Simple, better and easy-to-use ORM library for Golang||
-|142|[@rhysd](https://github.com/rhysd)/[**gocaml**](https://github.com/rhysd/gocaml)|:camel: Practical statically typed functional programming language implementation with Go and LLVM||
 |141|[@mattn](https://github.com/mattn)/[**goemon**](https://github.com/mattn/goemon)|五右衛門||
 |138|[@matsuu](https://github.com/matsuu)/[**kataribe**](https://github.com/matsuu/kataribe)|Nginx/Apache/Varnishncsa Log Analyzer||
 |138|[@mattn](https://github.com/mattn)/[**qq**](https://github.com/mattn/qq)|||
@@ -86,8 +87,8 @@
 |125|[@mackerelio](https://github.com/mackerelio)/[**mackerel-agent-plugins**](https://github.com/mackerelio/mackerel-agent-plugins)|Plugins for mackerel-agent|[:arrow_upper_right:](https://mackerel.io)|
 |124|[@monochromegane](https://github.com/monochromegane)/[**argen**](https://github.com/monochromegane/argen)|An ORM code-generation tool for Go, provides ActiveRecord-like functionality for your types.||
 |123|[@guregu](https://github.com/guregu)/[**dynamo**](https://github.com/guregu/dynamo)|expressive DynamoDB library for Go||
+|122|[@tcnksm](https://github.com/tcnksm)/[**go-slack-interactive**](https://github.com/tcnksm/go-slack-interactive)|Sample slack bot which uses slack interactive message (button & menue) written in Golang||
 |120|[@do-aki](https://github.com/do-aki)/[**gophp_sample**](https://github.com/do-aki/gophp_sample)|a sample of php extension by golang ||
-|120|[@tcnksm](https://github.com/tcnksm)/[**go-slack-interactive**](https://github.com/tcnksm/go-slack-interactive)|Sample slack bot which uses slack interactive message (button & menue) written in Golang||
 |119|[@minikomi](https://github.com/minikomi)/[**pipesock**](https://github.com/minikomi/pipesock)|||
 |118|[@haruyama](https://github.com/haruyama)/[**golang-goji-sample**](https://github.com/haruyama/golang-goji-sample)|||
 |118|[@mattn](https://github.com/mattn)/[**jedie**](https://github.com/mattn/jedie)|Static site generator written in golang|[:arrow_upper_right:](http://mattn.github.io/jedie/)|
@@ -95,7 +96,7 @@
 |115|[@bluele](https://github.com/bluele)/[**gforms**](https://github.com/bluele/gforms)|A flexible forms validation and rendering library for golang web development.Inspired by django-forms and wtforms.||
 |115|[@bluele](https://github.com/bluele)/[**slack**](https://github.com/bluele/slack)|Golang client for the Slack API.||
 |115|[@cubicdaiya](https://github.com/cubicdaiya)/[**slackboard**](https://github.com/cubicdaiya/slackboard)|A slack proxy server in Go||
-|113|[@b4b4r07](https://github.com/b4b4r07)/[**gomi**](https://github.com/b4b4r07/gomi)|Trash can in CLI|[:arrow_upper_right:](http://b4b4r07.com/gomi)|
+|114|[@b4b4r07](https://github.com/b4b4r07)/[**gomi**](https://github.com/b4b4r07/gomi)|Trash can in CLI|[:arrow_upper_right:](http://b4b4r07.com/gomi)|
 |109|[@gongo](https://github.com/gongo)/[**9t**](https://github.com/gongo/9t)|9t is multi-file tailer by golang||
 |109|[@mattn](https://github.com/mattn)/[**gof**](https://github.com/mattn/gof)|||
 |108|[@bluele](https://github.com/bluele)/[**factory-go**](https://github.com/bluele/factory-go)|A test fixtures replacement inspired by factory_boy and factory_girl.||
@@ -107,15 +108,15 @@
 |98|[@mattn](https://github.com/mattn)/[**jvgrep**](https://github.com/mattn/jvgrep)|grep for japanese vimmer|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
 |97|[@imkira](https://github.com/imkira)/[**go-libav**](https://github.com/imkira/go-libav)|Go language bindings for ffmpeg libraries||
 |97|[@mattn](https://github.com/mattn)/[**go-runewidth**](https://github.com/mattn/go-runewidth)|||
-|94|[@yuuki](https://github.com/yuuki)/[**droot**](https://github.com/yuuki/droot)|Droot - A simple chroot-based application container engine integrated with Docker.||
+|96|[@yuuki](https://github.com/yuuki)/[**droot**](https://github.com/yuuki/droot)|Droot - A simple chroot-based application container engine integrated with Docker.||
 |92|[@kaneshin](https://github.com/kaneshin)/[**pigeon**](https://github.com/kaneshin/pigeon)|Google Cloud Vision API on Golang.|[:arrow_upper_right:](http://kaneshin.github.io/pigeon/)|
 |92|[@kentaro](https://github.com/kentaro)/[**delta**](https://github.com/kentaro/delta)|HTTP shadow proxy server written in Go||
 |90|[@tcnksm](https://github.com/tcnksm)/[**go-latest**](https://github.com/tcnksm/go-latest)|Simple way to check version is latest or not from various sources in Golang|[:arrow_upper_right:](https://godoc.org/github.com/tcnksm/go-latest)|
 |88|[@mackerelio](https://github.com/mackerelio)/[**go-check-plugins**](https://github.com/mackerelio/go-check-plugins)|Check Plugins for monitoring written in golang||
 |86|[@shibukawa](https://github.com/shibukawa)/[**curl_as_dsl**](https://github.com/shibukawa/curl_as_dsl)|||
+|85|[@achiku](https://github.com/achiku)/[**planter**](https://github.com/achiku/planter)|Generate PlantUML ER diagram textual description from PostgreSQL tables||
 |85|[@mattn](https://github.com/mattn)/[**go-scan**](https://github.com/mattn/go-scan)|||
 |84|[@tcnksm](https://github.com/tcnksm)/[**license**](https://github.com/tcnksm/license)|Generate LICENSE file you want||
-|83|[@achiku](https://github.com/achiku)/[**planter**](https://github.com/achiku/planter)|Generate PlantUML ER diagram textual description from PostgreSQL tables||
 |83|[@monochromegane](https://github.com/monochromegane)/[**hoi**](https://github.com/monochromegane/hoi)|An easy file/message transfer tool using http file server.||
 |82|[@Songmu](https://github.com/Songmu)/[**horenso**](https://github.com/Songmu/horenso)|Command wrapper for reporting the result. It is useful for cron jobs.||
 |82|[@fujiwara](https://github.com/fujiwara)/[**fluent-agent-hydra**](https://github.com/fujiwara/fluent-agent-hydra)|A Fluentd log agent.||
@@ -130,23 +131,23 @@
 |75|[@fumiyas](https://github.com/fumiyas)/[**qrc**](https://github.com/fumiyas/qrc)|QR code generator for text terminals (ASCII art, Sixel)||
 |75|[@koron](https://github.com/koron)/[**go-dproxy**](https://github.com/koron/go-dproxy)|dProxy - document proxy||
 |75|[@mattn](https://github.com/mattn)/[**streeem**](https://github.com/mattn/streeem)|ごめんなさいごめんなさい||
+|75|[@yosssi](https://github.com/yosssi)/[**gohtml**](https://github.com/yosssi/gohtml)|HTML formatter for Go||
 |74|[@lestrrat](https://github.com/lestrrat)/[**go-libxml2**](https://github.com/lestrrat/go-libxml2)|Interface to libxml2, with DOM interface||
+|74|[@rhysd](https://github.com/rhysd)/[**dot-github**](https://github.com/rhysd/dot-github)|.github directory generator||
 |74|[@shibukawa](https://github.com/shibukawa)/[**nanogui-go**](https://github.com/shibukawa/nanogui-go)|||
-|74|[@yosssi](https://github.com/yosssi)/[**gohtml**](https://github.com/yosssi/gohtml)|HTML formatter for Go||
 |73|[@dtan4](https://github.com/dtan4)/[**k8sec**](https://github.com/dtan4/k8sec)|CLI tool to manage Kubernetes Secrets easily||
-|73|[@rhysd](https://github.com/rhysd)/[**dot-github**](https://github.com/rhysd/dot-github)|.github directory generator||
 |72|[@itchyny](https://github.com/itchyny)/[**fillin**](https://github.com/itchyny/fillin)|fill-in your command and execute||
 |72|[@shiena](https://github.com/shiena)/[**ansicolor**](https://github.com/shiena/ansicolor)|Ansicolor library provides color console in Windows as ANSICON for Golang.||
+|72|[@sonots](https://github.com/sonots)/[**lltsv**](https://github.com/sonots/lltsv)|List specified keys of LTSV (Labeled Tab Separated Values)||
 |72|[@yosssi](https://github.com/yosssi)/[**boltstore**](https://github.com/yosssi/boltstore)|Session store using Bolt||
 |71|[@r7kamura](https://github.com/r7kamura)/[**gospel**](https://github.com/r7kamura/gospel)|BDD-style testing library for Golang||
-|71|[@sonots](https://github.com/sonots)/[**lltsv**](https://github.com/sonots/lltsv)|List specified keys of LTSV (Labeled Tab Separated Values)||
 |71|[@tenntenn](https://github.com/tenntenn)/[**golang-samples**](https://github.com/tenntenn/golang-samples)|Samples of golang program for me.||
 |70|[@stormcat24](https://github.com/stormcat24)/[**ecs-formation**](https://github.com/stormcat24/ecs-formation)|Tool to build Docker cluster composition for Amazon EC2 Container Service(ECS)||
 |69|[@mattn](https://github.com/mattn)/[**go-uv**](https://github.com/mattn/go-uv)|Go binding for libuv|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
+|68|[@suin](https://github.com/suin)/[**kobito-cli**](https://github.com/suin/kobito-cli)|🛠 Kobitoをちょっぴり便利にするCLIツール: 記事のMarkdown/HTML/PDF出力、ファイル連携、stdinから新規記事作成、パスワードのリマインド…など|[:arrow_upper_right:](http://qiita.com/suin/items/22ef05df5b8cfab29148)|
 |68|[@tenntenn](https://github.com/tenntenn)/[**gohandson**](https://github.com/tenntenn/gohandson)|||
 |67|[@lestrrat](https://github.com/lestrrat)/[**go-file-rotatelogs**](https://github.com/lestrrat/go-file-rotatelogs)|Port of perl5 File::RotateLogs to Go||
 |67|[@mackerelio](https://github.com/mackerelio)/[**mkr**](https://github.com/mackerelio/mkr)|Command Line Tool for Mackerel|[:arrow_upper_right:](https://github.com/mackerelio/mkr)|
-|67|[@suin](https://github.com/suin)/[**kobito-cli**](https://github.com/suin/kobito-cli)|🛠 Kobitoをちょっぴり便利にするCLIツール: 記事のMarkdown/HTML/PDF出力、ファイル連携、stdinから新規記事作成、パスワードのリマインド…など|[:arrow_upper_right:](http://qiita.com/suin/items/22ef05df5b8cfab29148)|
 |66|[@kurehajime](https://github.com/kurehajime)/[**pong-command**](https://github.com/kurehajime/pong-command)|pong is not ping.   pong is CLI game.||
 |65|[@lestrrat](https://github.com/lestrrat)/[**go-jwx**](https://github.com/lestrrat/go-jwx)|Implementation of various JWx technologies||
 |65|[@syohex](https://github.com/syohex)/[**byzanz-window**](https://github.com/syohex/byzanz-window)|Go Port of byzanz_window.py||
@@ -159,30 +160,30 @@
 |62|[@lestrrat](https://github.com/lestrrat)/[**go-xslate**](https://github.com/lestrrat/go-xslate)|Powerful Template Engine for Go (port Perl5's Text::Xslate)||
 |62|[@tuvistavie](https://github.com/tuvistavie)/[**structomap**](https://github.com/tuvistavie/structomap)|Easily and dynamically generate maps from Go static structures|[:arrow_upper_right:](https://godoc.org/github.com/tuvistavie/structomap)|
 |62|[@yosuke-furukawa](https://github.com/yosuke-furukawa)/[**json5**](https://github.com/yosuke-furukawa/json5)|JSON5 implemented by golang||
+|62|[@yuuki](https://github.com/yuuki)/[**diamondb**](https://github.com/yuuki/diamondb)|[WIP] DiamonDB: Rebuild of time series database on AWS.||
 |61|[@nmerouze](https://github.com/nmerouze)/[**stack**](https://github.com/nmerouze/stack)|Stack is a framework in Go to build JSON APIs faster.||
 |61|[@yosssi](https://github.com/yosssi)/[**goat**](https://github.com/yosssi/goat)|File watcher||
-|61|[@yuuki](https://github.com/yuuki)/[**diamondb**](https://github.com/yuuki/diamondb)|[WIP] DiamonDB: Rebuild of time series database on AWS.||
+|60|[@Songmu](https://github.com/Songmu)/[**prompter**](https://github.com/Songmu/prompter)|golang utility for easy prompting||
 |60|[@cubicdaiya](https://github.com/cubicdaiya)/[**cachectl**](https://github.com/cubicdaiya/cachectl)|Page cache controller for regular file in Go||
 |60|[@mattn](https://github.com/mattn)/[**go-adodb**](https://github.com/mattn/go-adodb)|Microsoft ActiveX Object DataBase driver for go that using exp/sql|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
-|59|[@Songmu](https://github.com/Songmu)/[**prompter**](https://github.com/Songmu/prompter)|golang utility for easy prompting||
 |57|[@mattn](https://github.com/mattn)/[**files**](https://github.com/mattn/files)|Fast file find||
+|57|[@tokuhirom](https://github.com/tokuhirom)/[**git-xlsx-textconv**](https://github.com/tokuhirom/git-xlsx-textconv)|||
 |55|[@moznion](https://github.com/moznion)/[**go-setlock**](https://github.com/moznion/go-setlock)|Go port of setlock (an utility of daemontools)|[:arrow_upper_right:](http://moznion.hatenadiary.com/entry/2015/08/10/093500)|
 |55|[@plouc](https://github.com/plouc)/[**go-gitlab-client**](https://github.com/plouc/go-gitlab-client)|A simple gitlab api client written in Go||
-|55|[@tokuhirom](https://github.com/tokuhirom)/[**git-xlsx-textconv**](https://github.com/tokuhirom/git-xlsx-textconv)|||
+|55|[@ryotarai](https://github.com/ryotarai)/[**spotscaler**](https://github.com/ryotarai/spotscaler)|Auto scaling for Amazon EC2 using spot instances||
+|55|[@shijuvar](https://github.com/shijuvar)/[**go-recipes**](https://github.com/shijuvar/go-recipes)|Code examples for the book "Go Recipes" by Apress.||
+|55|[@summerwind](https://github.com/summerwind)/[**h2a**](https://github.com/summerwind/h2a)|Debugging reverse proxy for HTTP/2 developers||
 |55|[@typester](https://github.com/typester)/[**gh-open**](https://github.com/typester/gh-open)|||
+|55|[@zchee](https://github.com/zchee)/[**nvim-go**](https://github.com/zchee/nvim-go)|Go development plugin for Neovim written in pure Go||
 |54|[@ikeikeikeike](https://github.com/ikeikeikeike)/[**go-sitemap-generator**](https://github.com/ikeikeikeike/go-sitemap-generator)|go-sitemap-generator is the easiest way to generate Sitemaps in Go|[:arrow_upper_right:](https://github.com/ikeikeikeike/go-sitemap-generator)|
 |54|[@itchyny](https://github.com/itchyny)/[**maze**](https://github.com/itchyny/maze)|A maze command written in Go||
 |54|[@mattn](https://github.com/mattn)/[**todo**](https://github.com/mattn/todo)|A simple command-line todo list written in Go.||
 |54|[@nmerouze](https://github.com/nmerouze)/[**selfjs**](https://github.com/nmerouze/selfjs)|Self.js: Self-contained web server running Javascript Universal applications.||
 |54|[@operando](https://github.com/operando)/[**tonkotsu**](https://github.com/operando/tonkotsu)|Google Play Application & App Store Application & Kindle Store Application Update Checker in Go||
-|54|[@ryotarai](https://github.com/ryotarai)/[**spotscaler**](https://github.com/ryotarai/spotscaler)|Auto scaling for Amazon EC2 using spot instances||
-|54|[@summerwind](https://github.com/summerwind)/[**h2a**](https://github.com/summerwind/h2a)|Debugging reverse proxy for HTTP/2 developers||
 |53|[@monochromegane](https://github.com/monochromegane)/[**mdt**](https://github.com/monochromegane/mdt)|A markdown table generation tool from CSV/TSV.||
 |53|[@mumoshu](https://github.com/mumoshu)/[**concourse-aws**](https://github.com/mumoshu/concourse-aws)|Auto-scaling Concourse CI v2.2.1 on AWS with Terraform (since 2016.04.14)|[:arrow_upper_right:](http://www.slideshare.net/mumoshu/autoscaled-concourse-ci-on-aws-wo-bosh)|
-|53|[@shijuvar](https://github.com/shijuvar)/[**go-recipes**](https://github.com/shijuvar/go-recipes)|Code examples for the book "Go Recipes" by Apress.||
 |53|[@shirou](https://github.com/shirou)/[**mqttcli**](https://github.com/shirou/mqttcli)|MQTT client||
 |53|[@theplant](https://github.com/theplant)/[**batchputs**](https://github.com/theplant/batchputs)|Super fast batch inserts/updates to sql database, by packing data into sql with the least database roundtrip||
-|53|[@zchee](https://github.com/zchee)/[**nvim-go**](https://github.com/zchee/nvim-go)|Go development plugin for Neovim written in pure Go||
 |51|[@guregu](https://github.com/guregu)/[**mogi**](https://github.com/guregu/mogi)|fancy sql stubs||
 |51|[@haya14busa](https://github.com/haya14busa)/[**nintendo-switch-checker**](https://github.com/haya14busa/nintendo-switch-checker)|||
 |51|[@mattn](https://github.com/mattn)/[**go-slim**](https://github.com/mattn/go-slim)|Slim Template Engine for golang||
@@ -195,7 +196,7 @@
 |47|[@CAFxX](https://github.com/CAFxX)/[**pluggo**](https://github.com/CAFxX/pluggo)|In-process plugin framework for Golang code||
 |47|[@hokaccha](https://github.com/hokaccha)/[**sprinkler**](https://github.com/hokaccha/sprinkler)|End To End Testing framework.||
 |46|[@mattn](https://github.com/mattn)/[**cho**](https://github.com/mattn/cho)|||
-|45|[@zchee](https://github.com/zchee)/[**clang-server**](https://github.com/zchee/clang-server)|A C/C++ AST index server using libclang written in Go|[:arrow_upper_right:](https://godoc.org/github.com/zchee/clang-server)|
+|46|[@zchee](https://github.com/zchee)/[**clang-server**](https://github.com/zchee/clang-server)|A C/C++ AST index server using libclang written in Go|[:arrow_upper_right:](https://godoc.org/github.com/zchee/clang-server)|
 |44|[@fujiwara](https://github.com/fujiwara)/[**consul-kv-dashboard**](https://github.com/fujiwara/consul-kv-dashboard)|Consul KVS based dashboard web application.||
 |44|[@k0kubun](https://github.com/k0kubun)/[**tetris**](https://github.com/k0kubun/tetris)|TETRIS for your terminal||
 |44|[@mzp](https://github.com/mzp)/[**famicom**](https://github.com/mzp/famicom)|Famicom(NES) toolkit written by golang.||
@@ -203,12 +204,12 @@
 |43|[@shogo82148](https://github.com/shogo82148)/[**go-sql-proxy**](https://github.com/shogo82148/go-sql-proxy)|a proxy package is a proxy driver for dabase/sql.||
 |42|[@uetchy](https://github.com/uetchy)/[**alfred-qiita-workflow**](https://github.com/uetchy/alfred-qiita-workflow)|Qiita on Alfred||
 |41|[@CAFxX](https://github.com/CAFxX)/[**gcnotifier**](https://github.com/CAFxX/gcnotifier)|Know when GC runs from inside your golang code||
+|41|[@b4b4r07](https://github.com/b4b4r07)/[**zsh-history**](https://github.com/b4b4r07/zsh-history)|A plugin for zsh history extended by golang, dealing it like SQL||
 |41|[@kyokomi](https://github.com/kyokomi)/[**slackbot**](https://github.com/kyokomi/slackbot)|Plugin extension a simple slack bot for golang.||
 |41|[@lestrrat](https://github.com/lestrrat)/[**go-jsschema**](https://github.com/lestrrat/go-jsschema)|JSON Schema for Go||
 |41|[@lestrrat](https://github.com/lestrrat)/[**go-jsval**](https://github.com/lestrrat/go-jsval)|Validator toolset, aimed to be used with JSON Schema||
 |41|[@motemen](https://github.com/motemen)/[**gofind**](https://github.com/motemen/gofind)|gofind searches through Go source code by types.||
 |41|[@theplant](https://github.com/theplant)/[**pak**](https://github.com/theplant/pak)|Simple package management tool for Go.||
-|40|[@b4b4r07](https://github.com/b4b4r07)/[**zsh-history**](https://github.com/b4b4r07/zsh-history)|A plugin for zsh history extended by golang, dealing it like SQL||
 |40|[@evalphobia](https://github.com/evalphobia)/[**logrus_sentry**](https://github.com/evalphobia/logrus_sentry)|sentry hook for logrus||
 |39|[@hnakamur](https://github.com/hnakamur)/[**api2go-gorm-gin-crud-example**](https://github.com/hnakamur/api2go-gorm-gin-crud-example)|[NOT maintained] A CRUD example using api2go, gorm and gin||
 |39|[@tarao](https://github.com/tarao)/[**apiconsole**](https://github.com/tarao/apiconsole)|||
@@ -216,6 +217,7 @@
 |38|[@kentaro](https://github.com/kentaro)/[**takosan**](https://github.com/kentaro/takosan)|A Simple Web Interface to Slack (Ikachan for Slack)||
 |38|[@kentaro](https://github.com/kentaro)/[**verity**](https://github.com/kentaro/verity)|System information collector||
 |38|[@moznion](https://github.com/moznion)/[**naisho**](https://github.com/moznion/naisho)|:email: :key: Send short encrypted message by GitHub ID||
+|38|[@shibukawa](https://github.com/shibukawa)/[**configdir**](https://github.com/shibukawa/configdir)|Multi platform library of configuration directories for Golang||
 |38|[@tompng](https://github.com/tompng)/[**pokemon-go**](https://github.com/tompng/pokemon-go)|Go get pokemons in your local directory. demo: https://twitter.com/tompng/status/753935115097546753||
 |38|[@violetyk](https://github.com/violetyk)/[**graid**](https://github.com/violetyk/graid)|Graid is an image proxy daemon.||
 |37|[@hhatto](https://github.com/hhatto)/[**gocloc**](https://github.com/hhatto/gocloc)| A little fast cloc(Count Lines Of Code)||
@@ -226,10 +228,11 @@
 |36|[@achiku](https://github.com/achiku)/[**wbs**](https://github.com/achiku/wbs)|Watch, build, and (re)start Go net/http server auto-reloader customizeable by toml||
 |36|[@chobie](https://github.com/chobie)/[**momonga**](https://github.com/chobie/momonga)|momonga - MQTT Server in golang - ||
 |36|[@mattn](https://github.com/mattn)/[**ezoe**](https://github.com/mattn/ezoe)|||
-|36|[@shibukawa](https://github.com/shibukawa)/[**configdir**](https://github.com/shibukawa/configdir)|Multi platform library of configuration directories for Golang||
 |35|[@Code-Hex](https://github.com/Code-Hex)/[**battery**](https://github.com/Code-Hex/battery)|Draw battery unicode art written by Go||
 |35|[@youpy](https://github.com/youpy)/[**go-wav**](https://github.com/youpy/go-wav)|A Go library to read/write WAVE(RIFF waveform Audio) Format||
 |34|[@mattn](https://github.com/mattn)/[**rebuildfm**](https://github.com/mattn/rebuildfm)|||
+|34|[@motemen](https://github.com/motemen)/[**go-loghttp**](https://github.com/motemen/go-loghttp)|Go library to log http.Client's requests and responses automatically||
+|34|[@winebarrel](https://github.com/winebarrel)/[**gcredstash**](https://github.com/winebarrel/gcredstash)|gcredstash manages credentials using AWS Key Management Service (KMS) and DynamoDB.||
 |33|[@Songmu](https://github.com/Songmu)/[**ghg**](https://github.com/Songmu/ghg)|||
 |33|[@ksoichiro](https://github.com/ksoichiro)/[**rdotm**](https://github.com/ksoichiro/rdotm)|Objective-C resource definition generator like Android app's R.java.||
 |33|[@lestrrat](https://github.com/lestrrat)/[**go-slack**](https://github.com/lestrrat/go-slack)|Slack client for go||
@@ -237,12 +240,11 @@
 |33|[@mattn](https://github.com/mattn)/[**mattn-icons**](https://github.com/mattn/mattn-icons)|||
 |33|[@mattn](https://github.com/mattn)/[**ttyrec4windows**](https://github.com/mattn/ttyrec4windows)|||
 |33|[@osamingo](https://github.com/osamingo)/[**jsonrpc**](https://github.com/osamingo/jsonrpc)|The jsonrpc package helps implement of JSON-RPC 2.0||
+|32|[@achiku](https://github.com/achiku)/[**dgw**](https://github.com/achiku/dgw)|dgw generates Golang struct, and simple Table/Row Data Gateway functions from PostgreSQL table metadata||
 |32|[@kyokomi](https://github.com/kyokomi)/[**excel-to-markdown**](https://github.com/kyokomi/excel-to-markdown)|excel to markdown convert tool||
 |32|[@lestrrat](https://github.com/lestrrat)/[**sharaq**](https://github.com/lestrrat/sharaq)|Image Transformer||
 |32|[@mattn](https://github.com/mattn)/[**go-gimei**](https://github.com/mattn/go-gimei)|||
 |32|[@mattn](https://github.com/mattn)/[**go-jsonpointer**](https://github.com/mattn/go-jsonpointer)|||
-|32|[@winebarrel](https://github.com/winebarrel)/[**gcredstash**](https://github.com/winebarrel/gcredstash)|gcredstash manages credentials using AWS Key Management Service (KMS) and DynamoDB.||
-|31|[@achiku](https://github.com/achiku)/[**dgw**](https://github.com/achiku/dgw)|dgw generates Golang struct, and simple Table/Row Data Gateway functions from PostgreSQL table metadata||
 |31|[@fujiwara](https://github.com/fujiwara)/[**ridge**](https://github.com/fujiwara/ridge)|AWS Lambda HTTP Proxy integration event bridge to Go net/http.||
 |31|[@hakobe](https://github.com/hakobe)/[**present**](https://github.com/hakobe/present)|post news from Hatena::Bookmark||
 |31|[@handlename](https://github.com/handlename)/[**go-get-git-ignore**](https://github.com/handlename/go-get-git-ignore)|||
@@ -261,20 +263,20 @@
 |30|[@motemen](https://github.com/motemen)/[**go-typeswitch-gen**](https://github.com/motemen/go-typeswitch-gen)|Expands type switches with type variables to achieve generic functions in Golang||
 |30|[@naoina](https://github.com/naoina)/[**migu**](https://github.com/naoina/migu)|Database schema migration tool for Go||
 |30|[@plouc](https://github.com/plouc)/[**go-jira-client**](https://github.com/plouc/go-jira-client)|A simple jira api client written in Go||
+|30|[@yosuke-furukawa](https://github.com/yosuke-furukawa)/[**golang-study**](https://github.com/yosuke-furukawa/golang-study)|golang勉強用の資料です||
+|29|[@Code-Hex](https://github.com/Code-Hex)/[**Neo-cowsay**](https://github.com/Code-Hex/Neo-cowsay)|🐮 cowsay written in Go||
 |29|[@foostan](https://github.com/foostan)/[**fileconsul**](https://github.com/foostan/fileconsul)|Sharing files in a consul cluster.||
 |29|[@guregu](https://github.com/guregu)/[**db**](https://github.com/guregu/db)|shove database connections in your context||
 |29|[@informationsea](https://github.com/informationsea)/[**tableview**](https://github.com/informationsea/tableview)|Format CSV file as human readable table||
 |29|[@mattn](https://github.com/mattn)/[**gyagowin**](https://github.com/mattn/gyagowin)|gyazowin clone on golang||
 |29|[@typester](https://github.com/typester)/[**go-shotgun**](https://github.com/typester/go-shotgun)|lazy app loader for http web application||
-|29|[@yosuke-furukawa](https://github.com/yosuke-furukawa)/[**golang-study**](https://github.com/yosuke-furukawa/golang-study)|golang勉強用の資料です||
 |28|[@gongo](https://github.com/gongo)/[**go-airplay**](https://github.com/gongo/go-airplay)|Go bindings for AirPlay client||
 |28|[@hirose31](https://github.com/hirose31)/[**pinger**](https://github.com/hirose31/pinger)|||
 |28|[@koron](https://github.com/koron)/[**netupvim**](https://github.com/koron/netupvim)|Network updater for Vim (+kaoriya) on Windows||
 |28|[@mattn](https://github.com/mattn)/[**goji-wiki**](https://github.com/mattn/goji-wiki)|||
-|28|[@motemen](https://github.com/motemen)/[**go-loghttp**](https://github.com/motemen/go-loghttp)|Go library to log http.Client's requests and responses automatically||
 |28|[@najeira](https://github.com/najeira)/[**go-frameworks-benchmark**](https://github.com/najeira/go-frameworks-benchmark)|benchmark for golang web frameworks||
-|27|[@Code-Hex](https://github.com/Code-Hex)/[**Neo-cowsay**](https://github.com/Code-Hex/Neo-cowsay)|🐮 cowsay written in Go||
 |27|[@monochromegane](https://github.com/monochromegane)/[**torokko**](https://github.com/monochromegane/torokko)|A build proxy server using Docker container for Golang apps.||
+|27|[@yyoshiki41](https://github.com/yyoshiki41)/[**radigo**](https://github.com/yyoshiki41/radigo)|Record radiko 📻||
 |26|[@emiddleton](https://github.com/emiddleton)/[**gads**](https://github.com/emiddleton/gads)|Google Adwords API for Go||
 |26|[@mattn](https://github.com/mattn)/[**blogo**](https://github.com/mattn/blogo)|blosxom like blog server|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
 |26|[@mattn](https://github.com/mattn)/[**go-gntp**](https://github.com/mattn/go-gntp)|GNTP for golang. http://www.growlforwindows.com/gfw/help/gntp.aspx|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
@@ -283,16 +285,17 @@
 |26|[@naoina](https://github.com/naoina)/[**miyabi**](https://github.com/naoina/miyabi)|Graceful shutdown and restart for Go's net/http handlers||
 |26|[@naoty](https://github.com/naoty)/[**todo**](https://github.com/naoty/todo)|A todo management tool just for myself||
 |26|[@tcnksm](https://github.com/tcnksm)/[**go-binary-only-package**](https://github.com/tcnksm/go-binary-only-package)|Sample of Go1.7 Binary-Only Packages||
-|26|[@yyoshiki41](https://github.com/yyoshiki41)/[**radigo**](https://github.com/yyoshiki41/radigo)|Record radiko 📻||
 |25|[@hhatto](https://github.com/hhatto)/[**gorst**](https://github.com/hhatto/gorst)|Go implementation of reStructuredText||
 |25|[@mattn](https://github.com/mattn)/[**webapp-vim**](https://github.com/mattn/webapp-vim)|||
 |25|[@yamamoto-febc](https://github.com/yamamoto-febc)/[**docker-machine-sakuracloud**](https://github.com/yamamoto-febc/docker-machine-sakuracloud)|:cherry_blossom:SAKURA CLOUD driver for docker-machine||
+|24|[@b4b4r07](https://github.com/b4b4r07)/[**history**](https://github.com/b4b4r07/history)|A CLI to provide enhanced history for your shell||
 |24|[@haya14busa](https://github.com/haya14busa)/[**go-typeconv**](https://github.com/haya14busa/go-typeconv)|Bring implicit type conversion into Go in a explicit way||
 |24|[@kaakaa](https://github.com/kaakaa)/[**matterpoll-emoji**](https://github.com/kaakaa/matterpoll-emoji)|Poll server for Mattermost ||
 |24|[@mattn](https://github.com/mattn)/[**goravis**](https://github.com/mattn/goravis)|||
 |24|[@motemen](https://github.com/motemen)/[**github-list-starred**](https://github.com/motemen/github-list-starred)|List GitHub repositories starred by a user||
 |24|[@osamingo](https://github.com/osamingo)/[**indigo**](https://github.com/osamingo/indigo)|A distributed unique ID generator of using Sonyflake and encoded by Base58||
 |24|[@yosssi](https://github.com/yosssi)/[**go-fileserver**](https://github.com/yosssi/go-fileserver)|Go cached file server|[:arrow_upper_right:](http://www.reddit.com/r/golang/comments/28so0e/go_networking_performance_vs_nginx/cif19e1)|
+|24|[@yuin](https://github.com/yuin)/[**gluamapper**](https://github.com/yuin/gluamapper)|gluamapper: maps a GopherLua table to a Go struct||
 |23|[@hakobe](https://github.com/hakobe)/[**paranoidhttp**](https://github.com/hakobe/paranoidhttp)|Paranoidhttp provides a pre-configured http.Client that protects you from harm.||
 |23|[@hideo55](https://github.com/hideo55)/[**go-popcount**](https://github.com/hideo55/go-popcount)|PopCount implementation for Go. Using hardware POPCNT instruction if available it.||
 |23|[@koron](https://github.com/koron)/[**beni**](https://github.com/koron/beni)|code syntax highlighter written in golang (WIP)||
@@ -302,16 +305,15 @@
 |23|[@motemen](https://github.com/motemen)/[**gobump**](https://github.com/motemen/gobump)|Bumps up Go program version||
 |23|[@moznion](https://github.com/moznion)/[**linenotcat**](https://github.com/moznion/linenotcat)|A command line tool to send messages to LINE Notify||
 |23|[@nabeken](https://github.com/nabeken)/[**golang-sqs-worker-example**](https://github.com/nabeken/golang-sqs-worker-example)|||
+|23|[@pocke](https://github.com/pocke)/[**www**](https://github.com/pocke/www)|www is a minimal http server for static files.||
 |23|[@rosylilly](https://github.com/rosylilly)/[**gofu**](https://github.com/rosylilly/gofu)|on the fly image resizing application||
 |23|[@tcnksm](https://github.com/tcnksm)/[**cf-plugin-local-push**](https://github.com/tcnksm/cf-plugin-local-push)|CloudFoundry plugin local push (deploying CF application on local docker container with buildpack)||
 |23|[@tcnksm](https://github.com/tcnksm)/[**go-gitconfig**](https://github.com/tcnksm/go-gitconfig)|Use gitconfig values in Golang.|[:arrow_upper_right:](https://godoc.org/github.com/tcnksm/go-gitconfig)|
 |23|[@ymotongpoo](https://github.com/ymotongpoo)/[**goltsv**](https://github.com/ymotongpoo/goltsv)|LTSV reader/writer for Go||
 |23|[@yone098](https://github.com/yone098)/[**go-mysql**](https://github.com/yone098/go-mysql)|golang mysql-wrapper||
 |23|[@yosuke-furukawa](https://github.com/yosuke-furukawa)/[**socket.io-go-emitter**](https://github.com/yosuke-furukawa/socket.io-go-emitter)|socket.io-emitter golang implementation|[:arrow_upper_right:](http://godoc.org/github.com/yosuke-furukawa/socket.io-go-emitter)|
-|23|[@yuin](https://github.com/yuin)/[**gluamapper**](https://github.com/yuin/gluamapper)|gluamapper: maps a GopherLua table to a Go struct||
 |22|[@Songmu](https://github.com/Songmu)/[**make2help**](https://github.com/Songmu/make2help)|Utility for self-documented Makefile||
 |22|[@atotto](https://github.com/atotto)/[**travisci-golang-example**](https://github.com/atotto/travisci-golang-example)|Travis-CI example for Go #golang||
-|22|[@b4b4r07](https://github.com/b4b4r07)/[**history**](https://github.com/b4b4r07/history)|A CLI to provide enhanced history for your shell||
 |22|[@evalphobia](https://github.com/evalphobia)/[**wizard**](https://github.com/evalphobia/wizard)|Wizard is database/sql management library for multi instance and sharding in golang||
 |22|[@hiroshi](https://github.com/hiroshi)/[**cb**](https://github.com/hiroshi/cb)|Build container images locally using Google Cloud Container Builder compatible config file. 2017-08-22: Now there is official alternative https://github.com/GoogleCloudPlatform/container-builder-local.||
 |22|[@kohkimakimoto](https://github.com/kohkimakimoto)/[**cofu**](https://github.com/kohkimakimoto/cofu)|Minimum configuration management tool written in Go.||
@@ -322,7 +324,6 @@
 |22|[@motemen](https://github.com/motemen)/[**blogsync**](https://github.com/motemen/blogsync)|Push and pull blog entries from/to local filesystem||
 |22|[@motemen](https://github.com/motemen)/[**go-quickfix**](https://github.com/motemen/go-quickfix)|Quick fix non-compiling well-typed Go source code e.g. "x declared and not used."||
 |22|[@najeira](https://github.com/najeira)/[**hikaru**](https://github.com/najeira/hikaru)|A web framework for Go||
-|22|[@pocke](https://github.com/pocke)/[**www**](https://github.com/pocke/www)|www is a minimal http server for static files.||
 |22|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**go-nghttp2**](https://github.com/tatsuhiro-t/go-nghttp2)|HTTP/2 implementation in golang using nghttp2 C library||
 |21|[@KLab](https://github.com/KLab)/[**gohakai**](https://github.com/KLab/gohakai)|Internet hakai with Go||
 |21|[@kaneshin](https://github.com/kaneshin)/[**go-cloud-vision-api**](https://github.com/kaneshin/go-cloud-vision-api)|Usage of Google Cloud Vision API on Golang.||
@@ -353,6 +354,7 @@
 |20|[@shibukawa](https://github.com/shibukawa)/[**gui4go**](https://github.com/shibukawa/gui4go)|GUI framework on OpenGL/WebGL for golang||
 |20|[@stormcat24](https://github.com/stormcat24)/[**protodep**](https://github.com/stormcat24/protodep)|Collect necessary .proto files (Protocol Buffers IDL) and manage dependencies||
 |20|[@t-yuki](https://github.com/t-yuki)/[**gocover-cobertura**](https://github.com/t-yuki/gocover-cobertura)|golang : go tool cover to XML (Cobertura) export tool. **NOW WORKING BUT NOT ACCURATE**|[:arrow_upper_right:](https://github.com/t-yuki/gocover-cobertura/wiki/Screenshots)|
+|20|[@tcnksm](https://github.com/tcnksm)/[**go-algorithms**](https://github.com/tcnksm/go-algorithms)|Algorithms and data structure by golang||
 |20|[@tokuhirom](https://github.com/tokuhirom)/[**go-examples**](https://github.com/tokuhirom/go-examples)|my Golang examples repo.||
 |20|[@typester](https://github.com/typester)/[**go-pit**](https://github.com/typester/go-pit)|||
 |19|[@Code-Hex](https://github.com/Code-Hex)/[**go-version-update**](https://github.com/Code-Hex/go-version-update)|Update the version string of your go project.||
@@ -366,10 +368,12 @@
 |19|[@mattn](https://github.com/mattn)/[**drawcmd**](https://github.com/mattn/drawcmd)|Render image on Windows Command Prompt||
 |19|[@mattn](https://github.com/mattn)/[**ght**](https://github.com/mattn/ght)|GitHub Trend in CLI|[:arrow_upper_right:](http://mattn.kaoriya.net)|
 |19|[@mattn](https://github.com/mattn)/[**jsonargs**](https://github.com/mattn/jsonargs)|xargs for JSON stream||
+|19|[@mattn](https://github.com/mattn)/[**tate**](https://github.com/mattn/tate)|||
+|19|[@ngs](https://github.com/ngs)/[**go-amazon-product-advertising-api**](https://github.com/ngs/go-amazon-product-advertising-api)|Go Client Library for Amazon Product Advertising API|[:arrow_upper_right:](https://godoc.org/github.com/ngs/go-amazon-product-advertising-api/amazon)|
 |19|[@otiai10](https://github.com/otiai10)/[**mint**](https://github.com/otiai10/mint)|The very minimum assertion for Golang testing framework.|[:arrow_upper_right:](http://godoc.org/github.com/otiai10/mint)|
-|19|[@tcnksm](https://github.com/tcnksm)/[**go-algorithms**](https://github.com/tcnksm/go-algorithms)|Algorithms and data structure by golang||
 |19|[@tcnksm](https://github.com/tcnksm)/[**go-distributed-tracing**](https://github.com/tcnksm/go-distributed-tracing)|Sample kubernetes config and golang apps to try distributed tracing with Stackdriver||
 |19|[@tenntenn](https://github.com/tenntenn)/[**gpath**](https://github.com/tenntenn/gpath)|gpath is a Go package to access a field by a path using reflect pacakge||
+|18|[@Songmu](https://github.com/Songmu)/[**retry**](https://github.com/Songmu/retry)|||
 |18|[@Songmu](https://github.com/Songmu)/[**timeout**](https://github.com/Songmu/timeout)|||
 |18|[@dongri](https://github.com/dongri)/[**line-bot-sdk-go**](https://github.com/dongri/line-bot-sdk-go)|LINE Bot SDK for Go (Golang)||
 |18|[@fujiwara](https://github.com/fujiwara)/[**Rin**](https://github.com/fujiwara/Rin)|Rin is a Redshift data Importer by SQS messaging.||
@@ -377,14 +381,14 @@
 |18|[@hillbig](https://github.com/hillbig)/[**rsdic**](https://github.com/hillbig/rsdic)|A Go library for space-efficient rank/select operations for both sparse and dense bit arrays.||
 |18|[@kakakakakku](https://github.com/kakakakakku)/[**togoo**](https://github.com/kakakakakku/togoo)|Super Simple CLI for TODO management 🐠||
 |18|[@lestrrat](https://github.com/lestrrat)/[**go-ngram**](https://github.com/lestrrat/go-ngram)|Ngram for golang||
+|18|[@mattn](https://github.com/mattn)/[**go-tty**](https://github.com/mattn/go-tty)|||
 |18|[@mitsuse](https://github.com/mitsuse)/[**arcus**](https://github.com/mitsuse/arcus)|(NOT MAINTAINED): A command-line tool to send a message to devices via Pushbullet.||
 |18|[@monochromegane](https://github.com/monochromegane)/[**go-gitignore**](https://github.com/monochromegane/go-gitignore)|A fast gitignore matching library for Go.||
-|18|[@ngs](https://github.com/ngs)/[**go-amazon-product-advertising-api**](https://github.com/ngs/go-amazon-product-advertising-api)|Go Client Library for Amazon Product Advertising API|[:arrow_upper_right:](https://godoc.org/github.com/ngs/go-amazon-product-advertising-api/amazon)|
 |18|[@r9y9](https://github.com/r9y9)/[**gossp**](https://github.com/r9y9/gossp)|Speech Signal Processing for Go (not maintained)|[:arrow_upper_right:](http://godoc.org/github.com/r9y9/gossp)|
+|18|[@ryotarai](https://github.com/ryotarai)/[**simproxy**](https://github.com/ryotarai/simproxy)|Simple HTTP balancer (reverse proxy)||
 |18|[@syossan27](https://github.com/syossan27)/[**torisetsu**](https://github.com/syossan27/torisetsu)|Torisetsu - Add README.md Template.||
 |18|[@tenta-browser](https://github.com/tenta-browser)/[**nsnitch**](https://github.com/tenta-browser/nsnitch)|Find out which name servers are snitching on you.|[:arrow_upper_right:](https://tenta.com/test)|
 |18|[@upamune](https://github.com/upamune)/[**go-esa**](https://github.com/upamune/go-esa)|esa API v1 client library, written in Golang||
-|17|[@Songmu](https://github.com/Songmu)/[**retry**](https://github.com/Songmu/retry)|||
 |17|[@b4b4r07](https://github.com/b4b4r07)/[**brionac**](https://github.com/b4b4r07/brionac)|:dragon: A simple alternative means of the Brewfile||
 |17|[@haya14busa](https://github.com/haya14busa)/[**gosum**](https://github.com/haya14busa/gosum)|Sum/Union/Variant Type in Go and Static Check Tool of switch-case handling||
 |17|[@hokaccha](https://github.com/hokaccha)/[**go-prettyjson**](https://github.com/hokaccha/go-prettyjson)|JSON pretty print for Golang.||
@@ -393,7 +397,6 @@
 |17|[@mattn](https://github.com/mattn)/[**git-fixauthor**](https://github.com/mattn/git-fixauthor)|||
 |17|[@mattn](https://github.com/mattn)/[**go-haiku**](https://github.com/mattn/go-haiku)|||
 |17|[@mattn](https://github.com/mattn)/[**go-ieproxy**](https://github.com/mattn/go-ieproxy)||[:arrow_upper_right:](https://godoc.org/github.com/mattn/go-ieproxy)|
-|17|[@mattn](https://github.com/mattn)/[**go-tty**](https://github.com/mattn/go-tty)|||
 |17|[@mattn](https://github.com/mattn)/[**go-yql**](https://github.com/mattn/go-yql)|YQL database driver for golang.|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
 |17|[@methane](https://github.com/methane)/[**isucon3-qual-go**](https://github.com/methane/isucon3-qual-go)|isucon3予選時のコード||
 |17|[@shijuvar](https://github.com/shijuvar)/[**gokit**](https://github.com/shijuvar/gokit)|Go Examples||
@@ -417,7 +420,6 @@
 |16|[@minodisk](https://github.com/minodisk)/[**qiitactl**](https://github.com/minodisk/qiitactl)|Command line interface to manage the posts in Qiita.||
 |16|[@moutend](https://github.com/moutend)/[**gip**](https://github.com/moutend/gip)|CLI tool for displaying GitHub Issues and Pull requests||
 |16|[@r7kamura](https://github.com/r7kamura)/[**entoverse**](https://github.com/r7kamura/entoverse)|A library to implement host-based HTTP reverse-proxy in Golang.||
-|16|[@ryotarai](https://github.com/ryotarai)/[**simproxy**](https://github.com/ryotarai/simproxy)|Simple HTTP balancer (reverse proxy)||
 |16|[@shogo82148](https://github.com/shogo82148)/[**go-gracedown**](https://github.com/shogo82148/go-gracedown)|||
 |16|[@showwin](https://github.com/showwin)/[**ISHOCON1**](https://github.com/showwin/ISHOCON1)|iikanji na showwin contest 1st (like ISUCON)||
 |16|[@t-yuki](https://github.com/t-yuki)/[**godoc2puml**](https://github.com/t-yuki/godoc2puml)|godoc to PlantUML format converter for golang||
@@ -444,6 +446,7 @@
 |15|[@mattn](https://github.com/mattn)/[**gomate**](https://github.com/mattn/gomate)|||
 |15|[@methane](https://github.com/methane)/[**go-chat-sample**](https://github.com/methane/go-chat-sample)|まじめなチャット||
 |15|[@otiai10](https://github.com/otiai10)/[**chant**](https://github.com/otiai10/chant)|Enjoy chatting, then work.||
+|15|[@shogo82148](https://github.com/shogo82148)/[**go-mecab**](https://github.com/shogo82148/go-mecab)|MeCab binding for Golang||
 |15|[@suzuken](https://github.com/suzuken)/[**gigue**](https://github.com/suzuken/gigue)|Gigue is a minimal scheme interpriter written in Go||
 |15|[@swdyh](https://github.com/swdyh)/[**go-enumerable**](https://github.com/swdyh/go-enumerable)|||
 |15|[@tcnksm](https://github.com/tcnksm)/[**gox-server**](https://github.com/tcnksm/gox-server)|Golang cross-compile on Heroku||
@@ -460,9 +463,9 @@
 |14|[@mattn](https://github.com/mattn)/[**go-lingr**](https://github.com/mattn/go-lingr)|||
 |14|[@mattn](https://github.com/mattn)/[**gol-cmd**](https://github.com/mattn/gol-cmd)|||
 |14|[@methane](https://github.com/methane)/[**GoCon2016.04**](https://github.com/methane/GoCon2016.04)|||
+|14|[@mmyoji](https://github.com/mmyoji)/[**go-monkey**](https://github.com/mmyoji/go-monkey)|Code for "Writing An Interpreter in Go"||
 |14|[@motemen](https://github.com/motemen)/[**go-graphql-query**](https://github.com/motemen/go-graphql-query)|||
 |14|[@motemen](https://github.com/motemen)/[**go-pocket**](https://github.com/motemen/go-pocket)|Pocket (getpocket.com) API client for Go (golang).||
-|14|[@shogo82148](https://github.com/shogo82148)/[**go-mecab**](https://github.com/shogo82148/go-mecab)|MeCab binding for Golang||
 |14|[@sorah](https://github.com/sorah)/[**ec2nm**](https://github.com/sorah/ec2nm)|A DNS server serves  your AWS EC2 instances' IP addresses by Name tag||
 |14|[@suzuken](https://github.com/suzuken)/[**kinesis-tail**](https://github.com/suzuken/kinesis-tail)|tail for Kinesis Stream||
 |14|[@tenntenn](https://github.com/tenntenn)/[**gae-go-testing**](https://github.com/tenntenn/gae-go-testing)|Testing library for Go App Engine, giving you an appengine.Context fake that forwards to a dev_appserver.py child process.||
@@ -488,6 +491,7 @@
 |13|[@naoina](https://github.com/naoina)/[**kocha-urlrouter**](https://github.com/naoina/kocha-urlrouter)|Better URL router collection for Go||
 |13|[@ngs](https://github.com/ngs)/[**wiplock**](https://github.com/ngs/wiplock)|Wiplock is a tiny webhook application that prevents mistakenly merging in progress pull requests|[:arrow_upper_right:](https://wiplock.com)|
 |13|[@nyaxt](https://github.com/nyaxt)/[**otaru**](https://github.com/nyaxt/otaru)|Store 10MB-10GB-ish personal files on cloud ||
+|13|[@qt-luigi](https://github.com/qt-luigi)/[**go-web-workshop-jp**](https://github.com/qt-luigi/go-web-workshop-jp)|GoのApp EngineでWebアプリケーションを構築する (Japanese translation of https://github.com/campoy/go-web-workshop)||
 |13|[@rhysd](https://github.com/rhysd)/[**locerr**](https://github.com/rhysd/locerr)|:x: locerr (locational error): Library for nice-looking errors in source code||
 |13|[@rosylilly](https://github.com/rosylilly)/[**git-set-mtime**](https://github.com/rosylilly/git-set-mtime)|set files mtime by latest commit time.||
 |13|[@shijuvar](https://github.com/shijuvar)/[**go-samples-thenewstack**](https://github.com/shijuvar/go-samples-thenewstack)|Golang samples for the articles written in "The New Stack" Website. ||
@@ -512,10 +516,10 @@
 |12|[@mattn](https://github.com/mattn)/[**kinako**](https://github.com/mattn/kinako)|||
 |12|[@mattn](https://github.com/mattn)/[**lsdgrep**](https://github.com/mattn/lsdgrep)|||
 |12|[@mizoR](https://github.com/mizoR)/[**coo**](https://github.com/mizoR/coo)|Manage the transcripts of ssh||
+|12|[@motemen](https://github.com/motemen)/[**prchecklist**](https://github.com/motemen/prchecklist)|Provides checklists based on release PR||
 |12|[@naoya](https://github.com/naoya)/[**go-pit**](https://github.com/naoya/go-pit)|||
 |12|[@operando](https://github.com/operando)/[**google_play_update_checker**](https://github.com/operando/google_play_update_checker)|[Deprecated] Google Play Application & App Store Application Update Checker in Go||
 |12|[@otiai10](https://github.com/otiai10)/[**amesh**](https://github.com/otiai10/amesh)|東京アメッシュ！|[:arrow_upper_right:](http://tokyo-ame.jwa.or.jp/)|
-|12|[@qt-luigi](https://github.com/qt-luigi)/[**go-web-workshop-jp**](https://github.com/qt-luigi/go-web-workshop-jp)|GoのApp EngineでWebアプリケーションを構築する (Japanese translation of https://github.com/campoy/go-web-workshop)||
 |12|[@shijuvar](https://github.com/shijuvar)/[**gophercon-rest-demo**](https://github.com/shijuvar/gophercon-rest-demo)|REST API in Go with MongoDB as the data store.||
 |12|[@shogo82148](https://github.com/shogo82148)/[**androidbinary**](https://github.com/shogo82148/androidbinary)|Android binary file parser written in golang||
 |12|[@tcnksm](https://github.com/tcnksm)/[**go-holidayjp**](https://github.com/tcnksm/go-holidayjp)|Go package for detecting holiday in Japan|[:arrow_upper_right:](https://godoc.org/github.com/tcnksm/go-holidayjp)|
@@ -558,6 +562,7 @@
 |11|[@syossan27](https://github.com/syossan27)/[**kirimori**](https://github.com/syossan27/kirimori)|Tool for managing vim plugin.||
 |11|[@t-yuki](https://github.com/t-yuki)/[**gooxml**](https://github.com/t-yuki/gooxml)|Office Open XML Library for Go||
 |11|[@tenntenn](https://github.com/tenntenn)/[**gova**](https://github.com/tenntenn/gova)|validation tool of golang struct||
+|11|[@wyukawa](https://github.com/wyukawa)/[**hadoop_exporter**](https://github.com/wyukawa/hadoop_exporter)|Hadoop exporter||
 |11|[@y-matsuwitter](https://github.com/y-matsuwitter)/[**docker-assembler**](https://github.com/y-matsuwitter/docker-assembler)|Docker image assemble kit||
 |11|[@yuheiomori](https://github.com/yuheiomori)/[**beego-guestbook**](https://github.com/yuheiomori/beego-guestbook)|simple guestbook app with beego|[:arrow_upper_right:](http://beego-guestbook.herokuapp.com/)|
 |10|[@AkihiroSuda](https://github.com/AkihiroSuda)/[**go-replay**](https://github.com/AkihiroSuda/go-replay)|record-less semi-deterministic replayer for Go programs||
@@ -591,13 +596,13 @@
 |10|[@nobonobo](https://github.com/nobonobo)/[**gomobileapp**](https://github.com/nobonobo/gomobileapp)|utility wrapper for gomobile||
 |10|[@otiai10](https://github.com/otiai10)/[**rodeo**](https://github.com/otiai10/rodeo)|Simple Redis Client for Golang|[:arrow_upper_right:](http://godoc.org/github.com/otiai10/rodeo)|
 |10|[@papamitra](https://github.com/papamitra)/[**go-dbus**](https://github.com/papamitra/go-dbus)|Go bindings for D-Bus||
+|10|[@pei0804](https://github.com/pei0804)/[**eventory**](https://github.com/pei0804/eventory)|ITイベント情報分別アプリ||
 |10|[@r7kamura](https://github.com/r7kamura)/[**sugoi**](https://github.com/r7kamura/sugoi)|Sugoi client library for http://cal.syoboi.jp written in Golang.||
 |10|[@ruedap](https://github.com/ruedap)/[**go-alfred**](https://github.com/ruedap/go-alfred)|Alfred workflow utility library in Golang||
 |10|[@syohex](https://github.com/syohex)/[**go-texttable**](https://github.com/syohex/go-texttable)|go-texttable provides creating text table||
 |10|[@tcnksm](https://github.com/tcnksm)/[**alexa-irkit-ac**](https://github.com/tcnksm/alexa-irkit-ac)|A sample implementation of custom Alexa Smart Home Skill by Golang|[:arrow_upper_right:](https://vimeo.com/179021210)|
 |10|[@tcnksm](https://github.com/tcnksm)/[**go-crypto**](https://github.com/tcnksm/go-crypto)|Play with golang crypto package|[:arrow_upper_right:](https://golang.org/pkg/crypto/)|
 |10|[@tokuhirom](https://github.com/tokuhirom)/[**go-hsperfdata**](https://github.com/tokuhirom/go-hsperfdata)|Quite fast jps/jstat||
-|10|[@wyukawa](https://github.com/wyukawa)/[**hadoop_exporter**](https://github.com/wyukawa/hadoop_exporter)|Hadoop exporter||
 |10|[@yosuke-furukawa](https://github.com/yosuke-furukawa)/[**wt**](https://github.com/yosuke-furukawa/wt)|wt - watch then ||
 |10|[@yuroyoro](https://github.com/yuroyoro)/[**swalker**](https://github.com/yuroyoro/swalker)|extract value from map/struct by dot notated syntax like "Foo.Bar[0].Baz"||
 |9|[@ainoya](https://github.com/ainoya)/[**stamp**](https://github.com/ainoya/stamp)|Signing git commit id on your app icon face to identify which version of apps I test easily||
@@ -624,6 +629,7 @@
 |9|[@mackerelio](https://github.com/mackerelio)/[**checkers**](https://github.com/mackerelio/checkers)|||
 |9|[@mattn](https://github.com/mattn)/[**davc**](https://github.com/mattn/davc)|||
 |9|[@mattn](https://github.com/mattn)/[**go-drainclose**](https://github.com/mattn/go-drainclose)|||
+|9|[@mattn](https://github.com/mattn)/[**go-mjpeg**](https://github.com/mattn/go-mjpeg)|Motion JPEG Decoder||
 |9|[@mattn](https://github.com/mattn)/[**go-nhk**](https://github.com/mattn/go-nhk)|||
 |9|[@mattn](https://github.com/mattn)/[**gobanner**](https://github.com/mattn/gobanner)|||
 |9|[@mattn](https://github.com/mattn)/[**godeferred**](https://github.com/mattn/godeferred)|port of jsdeferred: http://cho45.stfuawsc.com/jsdeferred/|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
@@ -634,19 +640,17 @@
 |9|[@mattn](https://github.com/mattn)/[**vim-filewatcher**](https://github.com/mattn/vim-filewatcher)|||
 |9|[@mattn](https://github.com/mattn)/[**yomikata**](https://github.com/mattn/yomikata)|||
 |9|[@misodengaku](https://github.com/misodengaku)/[**car**](https://github.com/misodengaku/car)|car command||
-|9|[@mmyoji](https://github.com/mmyoji)/[**go-monkey**](https://github.com/mmyoji/go-monkey)|Code for "Writing An Interpreter in Go"||
 |9|[@monochromegane](https://github.com/monochromegane)/[**go-bincode**](https://github.com/monochromegane/go-bincode)|A tool for embedding Go code in a Go binary using go-bindata.||
-|9|[@motemen](https://github.com/motemen)/[**prchecklist**](https://github.com/motemen/prchecklist)|Provides checklists based on release PR||
 |9|[@najeira](https://github.com/najeira)/[**jpholiday**](https://github.com/najeira/jpholiday)|A package for Japanese holidays with Go||
 |9|[@nobonobo](https://github.com/nobonobo)/[**nobopiano**](https://github.com/nobonobo/nobopiano)|Simplest Piano App for gomobile||
 |9|[@nulab](https://github.com/nulab)/[**go-typetalk**](https://github.com/nulab/go-typetalk)|go-typetalk is a GO client library for accessing the Typetalk API.|[:arrow_upper_right:](http://developer.nulab-inc.com/docs/typetalk)|
 |9|[@ongaeshi](https://github.com/ongaeshi)/[**gomilk**](https://github.com/ongaeshi/gomilk)|Faster gmilk for Milkode written by Go||
-|9|[@pei0804](https://github.com/pei0804)/[**eventory**](https://github.com/pei0804/eventory)|ITイベント情報分別アプリ||
 |9|[@pepabo](https://github.com/pepabo)/[**facade**](https://github.com/pepabo/facade)|A utility that provides git-like sub command feature with one line of code||
 |9|[@pocke](https://github.com/pocke)/[**goevent**](https://github.com/pocke/goevent)|goevent is event dispatcher written by golang.||
 |9|[@rosylilly](https://github.com/rosylilly)/[**packer-provisioner-itamae**](https://github.com/rosylilly/packer-provisioner-itamae)|packer-provisioner-itamae is a Packer plugin for Itamae||
 |9|[@ryochack](https://github.com/ryochack)/[**gorep**](https://github.com/ryochack/gorep)|find and grep tool||
 |9|[@shibukawa](https://github.com/shibukawa)/[**localsocket**](https://github.com/shibukawa/localsocket)|||
+|9|[@suzuken](https://github.com/suzuken)/[**ats_checker**](https://github.com/suzuken/ats_checker)|||
 |9|[@tcnksm](https://github.com/tcnksm)/[**docc**](https://github.com/tcnksm/docc)|docc open your project document (GitHub page or README)||
 |9|[@theplant](https://github.com/theplant)/[**cldr**](https://github.com/theplant/cldr)|A golang i18n tool using CLDR data||
 |9|[@timakin](https://github.com/timakin)/[**gosto**](https://github.com/timakin/gosto)|Google Cloud Datastore Client Wrapper in Go, for automation of key attachment.||
@@ -689,11 +693,11 @@
 |8|[@mattn](https://github.com/mattn)/[**git-dropbox**](https://github.com/mattn/git-dropbox)|||
 |8|[@mattn](https://github.com/mattn)/[**go-aaencode**](https://github.com/mattn/go-aaencode)|aaencode filter for go|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
 |8|[@mattn](https://github.com/mattn)/[**go-ipmsg**](https://github.com/mattn/go-ipmsg)|||
-|8|[@mattn](https://github.com/mattn)/[**go-mjpeg**](https://github.com/mattn/go-mjpeg)|Motion JPEG Decoder||
 |8|[@mattn](https://github.com/mattn)/[**go-plist**](https://github.com/mattn/go-plist)|||
 |8|[@mattn](https://github.com/mattn)/[**gotr**](https://github.com/mattn/gotr)|entr clone in golang||
 |8|[@mattn](https://github.com/mattn)/[**vimgrep**](https://github.com/mattn/vimgrep)|vimgrep command same behavior of vim's :vimgrep.||
 |8|[@mizzy](https://github.com/mizzy)/[**packer-provisioner-command**](https://github.com/mizzy/packer-provisioner-command)|Packer Provisioner to execute commands directly||
+|8|[@nabeken](https://github.com/nabeken)/[**aws-go-sqs**](https://github.com/nabeken/aws-go-sqs)|A SQS client library built with aws/aws-sdk-go||
 |8|[@nabeken](https://github.com/nabeken)/[**mikoi**](https://github.com/nabeken/mikoi)|mikoi is a HAProxy's proxy protocol enabler for command line tools.||
 |8|[@osamingo](https://github.com/osamingo)/[**openbd**](https://github.com/osamingo/openbd)|an openbd client for go|[:arrow_upper_right:](https://openbd.jp)|
 |8|[@otiai10](https://github.com/otiai10)/[**botw**](https://github.com/otiai10/botw)|Create a twitter bot easily||
@@ -705,12 +709,12 @@
 |8|[@shibukawa](https://github.com/shibukawa)/[**git4go**](https://github.com/shibukawa/git4go)|||
 |8|[@shibukawa](https://github.com/shibukawa)/[**swap**](https://github.com/shibukawa/swap)|||
 |8|[@shogo82148](https://github.com/shogo82148)/[**go-shuffle**](https://github.com/shogo82148/go-shuffle)|||
-|8|[@suzuken](https://github.com/suzuken)/[**ats_checker**](https://github.com/suzuken/ats_checker)|||
 |8|[@suzuken](https://github.com/suzuken)/[**wiki**](https://github.com/suzuken/wiki)|Example implementation of wiki||
 |8|[@syohex](https://github.com/syohex)/[**go-aalib**](https://github.com/syohex/go-aalib)|AAlib binding for Go||
 |8|[@syohex](https://github.com/syohex)/[**gowsay**](https://github.com/syohex/gowsay)|cowsay implementation in Golang||
 |8|[@syou6162](https://github.com/syou6162)/[**go-easy-first**](https://github.com/syou6162/go-easy-first)|Dependency Parser with Easy-First Algorithm written in Go.||
 |8|[@taichi](https://github.com/taichi)/[**gontributions**](https://github.com/taichi/gontributions)|GitHub Contribution Graph Hack||
+|8|[@takebayashi](https://github.com/takebayashi)/[**terraform-provider-dozens**](https://github.com/takebayashi/terraform-provider-dozens)|||
 |8|[@tcnksm](https://github.com/tcnksm)/[**yo**](https://github.com/tcnksm/yo)|Yo to your twitter friend from CLI||
 |8|[@tikasan](https://github.com/tikasan)/[**eventory**](https://github.com/tikasan/eventory)|ITイベント情報分別アプリ||
 |8|[@udzura](https://github.com/udzura)/[**soko**](https://github.com/udzura/soko)|Metadata Inventory Manager, backended with Consul, EC2, OpenStack Nova and so on||
@@ -748,6 +752,7 @@
 |7|[@lestrrat](https://github.com/lestrrat)/[**go-pdebug**](https://github.com/lestrrat/go-pdebug)|Utilities for my print debugging fun. YMMV||
 |7|[@m0t0k1ch1](https://github.com/m0t0k1ch1)/[**lgtmize**](https://github.com/m0t0k1ch1/lgtmize)|LGTM image generator||
 |7|[@mattn](https://github.com/mattn)/[**go-docomo**](https://github.com/mattn/go-docomo)|||
+|7|[@mattn](https://github.com/mattn)/[**go-easyplugin**](https://github.com/mattn/go-easyplugin)|||
 |7|[@mattn](https://github.com/mattn)/[**go-eject**](https://github.com/mattn/go-eject)|||
 |7|[@mattn](https://github.com/mattn)/[**go-sizedwriter**](https://github.com/mattn/go-sizedwriter)|||
 |7|[@mattn](https://github.com/mattn)/[**go-stackbuilder**](https://github.com/mattn/go-stackbuilder)|||
@@ -756,7 +761,6 @@
 |7|[@motemen](https://github.com/motemen)/[**gobin.cc**](https://github.com/motemen/gobin.cc)||[:arrow_upper_right:](https://gobin.cc)|
 |7|[@motemen](https://github.com/motemen)/[**hub-pr**](https://github.com/motemen/hub-pr)|Personal workflow handling GitHub Pull Requests||
 |7|[@mtsmfm](https://github.com/mtsmfm)/[**vanir**](https://github.com/mtsmfm/vanir)|Vanir is a database masking tool.||
-|7|[@nabeken](https://github.com/nabeken)/[**aws-go-sqs**](https://github.com/nabeken/aws-go-sqs)|A SQS client library built with aws/aws-sdk-go||
 |7|[@nabeken](https://github.com/nabeken)/[**docker-cleaner**](https://github.com/nabeken/docker-cleaner)|A tool that removes orphaned volumes and images from Docker host||
 |7|[@najeira](https://github.com/najeira)/[**testbed**](https://github.com/najeira/testbed)|Runs test codes with service stubs for Google App Engine Go.||
 |7|[@naoya](https://github.com/naoya)/[**Gozo**](https://github.com/naoya/Gozo)|||
@@ -772,13 +776,14 @@
 |7|[@sue445](https://github.com/sue445)/[**zatsu_monitor**](https://github.com/sue445/zatsu_monitor)|simple url monitoring tool||
 |7|[@sugyan](https://github.com/sugyan)/[**idol-face-linebot**](https://github.com/sugyan/idol-face-linebot)|||
 |7|[@syohex](https://github.com/syohex)/[**go-shell-modoki**](https://github.com/syohex/go-shell-modoki)|Shell modoki in Go||
-|7|[@takebayashi](https://github.com/takebayashi)/[**terraform-provider-dozens**](https://github.com/takebayashi/terraform-provider-dozens)|||
 |7|[@tcnksm](https://github.com/tcnksm)/[**go-irkit**](https://github.com/tcnksm/go-irkit)|The unofficial golang client for IRKit|[:arrow_upper_right:](https://godoc.org/github.com/tcnksm/go-irkit/v1)|
 |7|[@tenntenn](https://github.com/tenntenn)/[**pso-go**](https://github.com/tenntenn/pso-go)|A library of PSO (Particle Swarm Optimization) for golang.||
 |7|[@timakin](https://github.com/timakin)/[**ts**](https://github.com/timakin/ts)|TechStack: Subscribe tech headlines from terminal.||
 |7|[@tokuhirom](https://github.com/tokuhirom)/[**go-system**](https://github.com/tokuhirom/go-system)|simple system(3) wrapper for golang.||
 |7|[@tokuhirom](https://github.com/tokuhirom)/[**jailingo**](https://github.com/tokuhirom/jailingo)|||
+|7|[@tom--bo](https://github.com/tom--bo)/[**chefviz**](https://github.com/tom--bo/chefviz)|Chefviz creates the dot files of recipes dependency-graph for graphviz.||
 |7|[@typester](https://github.com/typester)/[**clang-complete-helper**](https://github.com/typester/clang-complete-helper)|||
+|7|[@tzmfreedom](https://github.com/tzmfreedom)/[**spm**](https://github.com/tzmfreedom/spm)|Salesforce Package Manager||
 |7|[@udzura](https://github.com/udzura)/[**collector**](https://github.com/udzura/collector)|Collector of global IP and put them into DNS||
 |7|[@udzura](https://github.com/udzura)/[**packer-provisioner-serverspec**](https://github.com/udzura/packer-provisioner-serverspec)|Allows to run your serverspec in a packer prpvisioning phase||
 |7|[@ymotongpoo](https://github.com/ymotongpoo)/[**datemaki**](https://github.com/ymotongpoo/datemaki)|handy datetime library written in Go||
@@ -822,7 +827,6 @@
 |6|[@mattn](https://github.com/mattn)/[**bkfile**](https://github.com/mattn/bkfile)|||
 |6|[@mattn](https://github.com/mattn)/[**colorchan**](https://github.com/mattn/colorchan)|コロちゃん||
 |6|[@mattn](https://github.com/mattn)/[**excitetranslate**](https://github.com/mattn/excitetranslate)|||
-|6|[@mattn](https://github.com/mattn)/[**go-easyplugin**](https://github.com/mattn/go-easyplugin)|||
 |6|[@mattn](https://github.com/mattn)/[**go-fuzzy**](https://github.com/mattn/go-fuzzy)|||
 |6|[@mattn](https://github.com/mattn)/[**go-lingrbot**](https://github.com/mattn/go-lingrbot)|||
 |6|[@mattn](https://github.com/mattn)/[**golang_herokubot**](https://github.com/mattn/golang_herokubot)|||
@@ -851,13 +855,13 @@
 |6|[@stormcat24](https://github.com/stormcat24)/[**circlet**](https://github.com/stormcat24/circlet)|A simple job execution tool for CircleCI||
 |6|[@sue445](https://github.com/sue445)/[**goprecure**](https://github.com/sue445/goprecure)|goprecure is golang implementation of "Go! Princess PreCure"|[:arrow_upper_right:](https://godoc.org/github.com/sue445/goprecure)|
 |6|[@t-yuki](https://github.com/t-yuki)/[**goid**](https://github.com/t-yuki/goid)|Get current goroutine id for debugging. See also: https://github.com/huandu/goroutine||
+|6|[@takp](https://github.com/takp)/[**facebook-messenger-golang-bot**](https://github.com/takp/facebook-messenger-golang-bot)|Facebook Messenger Bot by Golang||
+|6|[@taku-k](https://github.com/taku-k)/[**swiro**](https://github.com/taku-k/swiro)|swiro - A switching route tool for AWS||
 |6|[@theplant](https://github.com/theplant)/[**gofixtures**](https://github.com/theplant/gofixtures)|Deadly simple and effective fixtures preparing for testing for Go||
 |6|[@theplant](https://github.com/theplant)/[**jsonhandlerfunc**](https://github.com/theplant/jsonhandlerfunc)|Convert Go func to http.HandleFunc that handle json request and response json||
 |6|[@theplant](https://github.com/theplant)/[**qortexapi**](https://github.com/theplant/qortexapi)|||
 |6|[@todoa2c](https://github.com/todoa2c)/[**hango**](https://github.com/todoa2c/hango)|大阪Go勉強会の資料置き場||
 |6|[@tokuhirom](https://github.com/tokuhirom)/[**json_path_scanner**](https://github.com/tokuhirom/json_path_scanner)|Scan JSON and get list of pairs of JSON path and value||
-|6|[@tom--bo](https://github.com/tom--bo)/[**chefviz**](https://github.com/tom--bo/chefviz)|Chefviz creates the dot files of recipes dependency-graph for graphviz.||
-|6|[@tzmfreedom](https://github.com/tzmfreedom)/[**spm**](https://github.com/tzmfreedom/spm)|Salesforce Package Manager||
 |6|[@udzura](https://github.com/udzura)/[**dsl-with-go-mruby**](https://github.com/udzura/dsl-with-go-mruby)|DSL sample using mitchellh/go-mruby||
 |6|[@y13i](https://github.com/y13i)/[**j2y**](https://github.com/y13i/j2y)|A tiny CLI to convert JSON/YAML.||
 |6|[@yaraki](https://github.com/yaraki)/[**yall**](https://github.com/yaraki/yall)|Yet Another Lightweight Lisp||
@@ -872,7 +876,9 @@
 |5|[@Songmu](https://github.com/Songmu)/[**go-ltsv**](https://github.com/Songmu/go-ltsv)|||
 |5|[@Tomohiro](https://github.com/Tomohiro)/[**go-gyazo**](https://github.com/Tomohiro/go-gyazo)|:camera: Go library for accessing the Gyazo API|[:arrow_upper_right:](http://tomohiro.me/go-gyazo)|
 |5|[@aereal](https://github.com/aereal)/[**go-text-hatena**](https://github.com/aereal/go-text-hatena)|Hatena Notation (はてな記法) Parser written in Go||
+|5|[@ariarijp](https://github.com/ariarijp)/[**horenso-reporter-slack**](https://github.com/ariarijp/horenso-reporter-slack)|||
 |5|[@atotto](https://github.com/atotto)/[**ptpip**](https://github.com/atotto/ptpip)|PIP/IP for golang||
+|5|[@atyenoria](https://github.com/atyenoria)/[**gin-websocket-mongo-mysql-client-jwt-redis**](https://github.com/atyenoria/gin-websocket-mongo-mysql-client-jwt-redis)|Jwt authentification is implemeted with gin using mysql, mongo,mysql or redis.||
 |5|[@b4b4r07](https://github.com/b4b4r07)/[**gotcha**](https://github.com/b4b4r07/gotcha)|gotcha is a simple tool that grabs Go packages||
 |5|[@client9](https://github.com/client9)/[**dmnt**](https://github.com/client9/dmnt)|In Docker, mount a directory into sibling containers without knowing it's origin (local or host data volume)||
 |5|[@codeout](https://github.com/codeout)/[**event-driven-bgpd**](https://github.com/codeout/event-driven-bgpd)|PoC: Event Driven BGPd||
@@ -930,6 +936,7 @@
 |5|[@mattn](https://github.com/mattn)/[**gover**](https://github.com/mattn/gover)|||
 |5|[@methane](https://github.com/methane)/[**rproxy**](https://github.com/methane/rproxy)|reverse proxy||
 |5|[@miiton](https://github.com/miiton)/[**kanaconv**](https://github.com/miiton/kanaconv)|ひらがな・カタカナ、全角・半角を変換するパッケージ written in Go||
+|5|[@minodisk](https://github.com/minodisk)/[**go-fix-orientation**](https://github.com/minodisk/go-fix-orientation)|Apply Exif orientation tag to pixels.||
 |5|[@mitsuse](https://github.com/mitsuse)/[**_kompl**](https://github.com/mitsuse/_kompl)|(deprecated) A server for K-best word completion based on N-gram frequency.||
 |5|[@motemen](https://github.com/motemen)/[**qiita-dl**](https://github.com/motemen/qiita-dl)|||
 |5|[@moznion](https://github.com/moznion)/[**persec**](https://github.com/moznion/persec)|A command to measure the throughput of per-sec which is on the basis of number of lines from STDIN||
@@ -941,8 +948,10 @@
 |5|[@operando](https://github.com/operando)/[**miyo**](https://github.com/operando/miyo)|Convert slack thread to crowi page.||
 |5|[@osamingo](https://github.com/osamingo)/[**gochic**](https://github.com/osamingo/gochic)|Check source code by go vet, golint, goimports||
 |5|[@otiai10](https://github.com/otiai10)/[**escalgo**](https://github.com/otiai10/escalgo)|[WIP] Elasticsearch Query DSL for Golang||
+|5|[@philopon](https://github.com/philopon)/[**go-toposort**](https://github.com/philopon/go-toposort)|deterministic topological sort implementation for golang||
 |5|[@pocke](https://github.com/pocke)/[**emo**](https://github.com/pocke/emo)|||
 |5|[@pocke](https://github.com/pocke)/[**xrandr-mirror**](https://github.com/pocke/xrandr-mirror)|Mirroring displays on Linux||
+|5|[@qt-luigi](https://github.com/qt-luigi)/[**gcp-compute-engine-go**](https://github.com/qt-luigi/gcp-compute-engine-go)|書籍「プログラマのためのGoogle Cloud Platform入門」第2章のサンプルアプリケーションをGoで実装||
 |5|[@riywo](https://github.com/riywo)/[**loginshell**](https://github.com/riywo/loginshell)|A golang library to get the login shell of the current user.||
 |5|[@rnitame](https://github.com/rnitame)/[**daily**](https://github.com/rnitame/daily)|CLI for get daily event from GitHub||
 |5|[@sassy](https://github.com/sassy)/[**KeiseiBusTime**](https://github.com/sassy/KeiseiBusTime)|You want to search the starting time of Keisei bus (from Fujitsu to Makuhari-Hongoh)||
@@ -950,6 +959,7 @@
 |5|[@shibukawa](https://github.com/shibukawa)/[**gotomation**](https://github.com/shibukawa/gotomation)|||
 |5|[@shogomuranushi](https://github.com/shogomuranushi)/[**awsregion**](https://github.com/shogomuranushi/awsregion)|||
 |5|[@shuhei](https://github.com/shuhei)/[**morning_pages**](https://github.com/shuhei/morning_pages)|A Morning Pages app for scriptio continua||
+|5|[@skatsuta](https://github.com/skatsuta)/[**monkey-interpreter**](https://github.com/skatsuta/monkey-interpreter)|Monkey programming language interpreter designed in "Writing An Interpreter In Go".||
 |5|[@soundTricker](https://github.com/soundTricker)/[**gmail-api-with-go**](https://github.com/soundTricker/gmail-api-with-go)|||
 |5|[@suguru](https://github.com/suguru)/[**dockertest**](https://github.com/suguru/dockertest)|testing tool to run docker container for each test||
 |5|[@suin](https://github.com/suin)/[**envar**](https://github.com/suin/envar)|🛠 Environment Variables Manager - Define environment variables in one place and make it easy to manage variables.||
@@ -957,10 +967,9 @@
 |5|[@suin](https://github.com/suin)/[**ishi**](https://github.com/suin/ishi)|Ad hoc http repeater/reverse proxy CLI tool for development. Example usage: $ ishi 192.168.100.1. This makes your Docker containers reachable from other machines on your LAN||
 |5|[@syohex](https://github.com/syohex)/[**speedline**](https://github.com/syohex/speedline)|Command line version hitode909's speedline in Go||
 |5|[@syou6162](https://github.com/syou6162)/[**go-active-learning**](https://github.com/syou6162/go-active-learning)|go-active-learning is a command line annotation tool for binary classification problem written in Go.|[:arrow_upper_right:](http://www.yasuhisay.info/entry/2017/05/18/080000)|
+|5|[@t2y](https://github.com/t2y)/[**go-pulsar**](https://github.com/t2y/go-pulsar)|go-pulsar is a client library for Pulsar||
 |5|[@t9md](https://github.com/t9md)/[**go-study**](https://github.com/t9md/go-study)|Golang self study notes — Edit||
 |5|[@takkanm](https://github.com/takkanm)/[**furueru**](https://github.com/takkanm/furueru)|create shake gif from png file||
-|5|[@takp](https://github.com/takp)/[**facebook-messenger-golang-bot**](https://github.com/takp/facebook-messenger-golang-bot)|Facebook Messenger Bot by Golang||
-|5|[@taku-k](https://github.com/taku-k)/[**swiro**](https://github.com/taku-k/swiro)|swiro - A switching route tool for AWS||
 |5|[@tcnksm](https://github.com/tcnksm)/[**bash-init**](https://github.com/tcnksm/bash-init)|The easy way to start building bash command-line application.||
 |5|[@tcnksm](https://github.com/tcnksm)/[**go-context101**](https://github.com/tcnksm/go-context101)|Sample codes to understand why context package ||
 |5|[@theplant](https://github.com/theplant)/[**assettube**](https://github.com/theplant/assettube)|AssetTube is a tool fingerprinting and serving asset files for Go Web applications.||
@@ -971,6 +980,7 @@
 |5|[@ukai](https://github.com/ukai)/[**blogplus-gae**](https://github.com/ukai/blogplus-gae)|blogplus in golang for Google App Engine||
 |5|[@wantedly](https://github.com/wantedly)/[**dockertags**](https://github.com/wantedly/dockertags)|Retrieve available Docker image tag list from image repository||
 |5|[@winebarrel](https://github.com/winebarrel)/[**cwlogs-tailf**](https://github.com/winebarrel/cwlogs-tailf)|Follow tail messages of CloudWatch Logs.||
+|5|[@winebarrel](https://github.com/winebarrel)/[**fstaid**](https://github.com/winebarrel/fstaid)|fstaid is a daemon that monitors the health condition of the server and executes the script if there is any problem.||
 |5|[@winebarrel](https://github.com/winebarrel)/[**haproxycmd**](https://github.com/winebarrel/haproxycmd)|HAProxy Unix Socket commands CLI||
 |5|[@wyukawa](https://github.com/wyukawa)/[**fluentd_exporter**](https://github.com/wyukawa/fluentd_exporter)|||
 |5|[@y13i](https://github.com/y13i)/[**metrin**](https://github.com/y13i/metrin)|Very simple CloudWatch CLI for Zabbix/Sensu/Mackerel/etc.||
@@ -998,8 +1008,6 @@
 |4|[@acomagu](https://github.com/acomagu)/[**miq**](https://github.com/acomagu/miq)|Simplest API Server||
 |4|[@ainoya](https://github.com/ainoya)/[**fune**](https://github.com/ainoya/fune)|An Event emitter triggered by docker daemon||
 |4|[@akr4](https://github.com/akr4)/[**mofu**](https://github.com/akr4/mofu)|A tool makes I18N strings files for multiple platforms from a definition file.||
-|4|[@ariarijp](https://github.com/ariarijp)/[**horenso-reporter-slack**](https://github.com/ariarijp/horenso-reporter-slack)|||
-|4|[@atyenoria](https://github.com/atyenoria)/[**gin-websocket-mongo-mysql-client-jwt-redis**](https://github.com/atyenoria/gin-websocket-mongo-mysql-client-jwt-redis)|Jwt authentification is implemeted with gin using mysql, mongo,mysql or redis.||
 |4|[@b4b4r07](https://github.com/b4b4r07)/[**epoch-cat**](https://github.com/b4b4r07/epoch-cat)|Epoch time converter and filter like less|[:arrow_upper_right:](http://www.tellme.tokyo/entry/2016/12/06/211226)|
 |4|[@bluele](https://github.com/bluele)/[**gosem**](https://github.com/bluele/gosem)|gosem provides multiple semaphore functions. Currently supports inmemory, redis implementation.||
 |4|[@boj](https://github.com/boj)/[**goenet**](https://github.com/boj/goenet)|A Go wrapper for the C based ENet UDP network library.||
@@ -1068,7 +1076,6 @@
 |4|[@mattn](https://github.com/mattn)/[**serialcat**](https://github.com/mattn/serialcat)|netcat for serial port||
 |4|[@mattn](https://github.com/mattn)/[**serve**](https://github.com/mattn/serve)|||
 |4|[@mattn](https://github.com/mattn)/[**travis-line-notify**](https://github.com/mattn/travis-line-notify)|Notify build result on Travis CI via LINE Notify||
-|4|[@minodisk](https://github.com/minodisk)/[**go-fix-orientation**](https://github.com/minodisk/go-fix-orientation)|Apply Exif orientation tag to pixels.||
 |4|[@mitsuse](https://github.com/mitsuse)/[**matrix-go**](https://github.com/mitsuse/matrix-go)|An experimental library for matrix manipulation implemented in Golang.||
 |4|[@mkouhei](https://github.com/mkouhei)/[**openssh-ldap-pubkey**](https://github.com/mkouhei/openssh-ldap-pubkey)|Provides command for OpenSSH with LDAP public key;  using OpenSSH AuthorizedKeysCommand|[:arrow_upper_right:](http://openssh-ldap-pubkey.rtfd.org/)|
 |4|[@monochromegane](https://github.com/monochromegane)/[**dsn**](https://github.com/monochromegane/dsn)|A data source name adapter for sql.Open in golang.||
@@ -1083,6 +1090,7 @@
 |4|[@mzp](https://github.com/mzp)/[**zoi-grep**](https://github.com/mzp/zoi-grep)|Grep for https://github.com/mzp/EagleJumpSystem||
 |4|[@nabeken](https://github.com/nabeken)/[**go-cwtail**](https://github.com/nabeken/go-cwtail)|`tail` command for Amazon CloudWatch Logs||
 |4|[@najeira](https://github.com/najeira)/[**snowflakeae**](https://github.com/najeira/snowflakeae)|A library for generating unique ID numbers on Google App Engine with Golang||
+|4|[@nak3](https://github.com/nak3)/[**kubernetes-manifest-scanner**](https://github.com/nak3/kubernetes-manifest-scanner)|kubernetes-manifest-scanner is CLI to refer manifest file from swagger API||
 |4|[@naoina](https://github.com/naoina)/[**go-stringutil**](https://github.com/naoina/go-stringutil)|Faster string utilities implementation for Go||
 |4|[@naoty](https://github.com/naoty)/[**hot**](https://github.com/naoty/hot)|List files in order of the commited count||
 |4|[@ngs](https://github.com/ngs)/[**go-google-email-audit-api**](https://github.com/ngs/go-google-email-audit-api)|Go Client Library for G Suite Email Audit API|[:arrow_upper_right:](https://godoc.org/github.com/ngs/go-google-email-audit-api/emailaudit)|
@@ -1091,8 +1099,6 @@
 |4|[@otiai10](https://github.com/otiai10)/[**flagg**](https://github.com/otiai10/flagg)|Yet another command-line flag handler for Go.|[:arrow_upper_right:](http://godoc.org/github.com/otiai10/flagg)|
 |4|[@otiai10](https://github.com/otiai10)/[**marmoset**](https://github.com/otiai10/marmoset)|The very minimum web framework for Golang|[:arrow_upper_right:](https://github.com/otiai10/marmoset-example)|
 |4|[@pepabo](https://github.com/pepabo)/[**triglav-agent**](https://github.com/pepabo/triglav-agent)|||
-|4|[@philopon](https://github.com/philopon)/[**go-toposort**](https://github.com/philopon/go-toposort)|deterministic topological sort implementation for golang||
-|4|[@qt-luigi](https://github.com/qt-luigi)/[**gcp-compute-engine-go**](https://github.com/qt-luigi/gcp-compute-engine-go)|書籍「プログラマのためのGoogle Cloud Platform入門」第2章のサンプルアプリケーションをGoで実装||
 |4|[@r7kamura](https://github.com/r7kamura)/[**sugoi_calendar**](https://github.com/r7kamura/sugoi_calendar)|||
 |4|[@r9y9](https://github.com/r9y9)/[**go-world**](https://github.com/r9y9/go-world)|Go port to WORLD - a high-quality speech analysis, modification and synthesis system.||
 |4|[@rosylilly](https://github.com/rosylilly)/[**envdef**](https://github.com/rosylilly/envdef)|envdef provides methods of getting environment value with default value||
@@ -1105,7 +1111,6 @@
 |4|[@shogo82148](https://github.com/shogo82148)/[**go-webtail**](https://github.com/shogo82148/go-webtail)|go porting for webtail(https://github.com/r7kamura/webtail)||
 |4|[@showwin](https://github.com/showwin)/[**hakari**](https://github.com/showwin/hakari)|Stress Test Tool for Web Application||
 |4|[@sinmetal](https://github.com/sinmetal)/[**sinmetalcraft**](https://github.com/sinmetal/sinmetalcraft)|||
-|4|[@skatsuta](https://github.com/skatsuta)/[**monkey-interpreter**](https://github.com/skatsuta/monkey-interpreter)|Monkey programming language interpreter designed in Writing An Interpreter In Go.||
 |4|[@sonots](https://github.com/sonots)/[**go-pastel**](https://github.com/sonots/go-pastel)|golang fork of https://github.com/bobpp/pastel, which is a copy and paste sharing web app||
 |4|[@sonots](https://github.com/sonots)/[**go-sql_metrics**](https://github.com/sonots/go-sql_metrics)|Instrument database/sql queries||
 |4|[@spiritloose](https://github.com/spiritloose)/[**consulkv**](https://github.com/spiritloose/consulkv)|CUI frontend for Consul Key/value store||
@@ -1121,6 +1126,7 @@
 |4|[@tektoh](https://github.com/tektoh)/[**gae-imageserver**](https://github.com/tektoh/gae-imageserver)|||
 |4|[@tenntenn](https://github.com/tenntenn)/[**goq**](https://github.com/tenntenn/goq)|Search Go's objects and ast nodes by queries||
 |4|[@tenntenn](https://github.com/tenntenn)/[**linebotsample**](https://github.com/tenntenn/linebotsample)|sample of LINE bot||
+|4|[@tjinjin](https://github.com/tjinjin)/[**ssm-edit**](https://github.com/tjinjin/ssm-edit)|Edit SSM parameter store on your EDITOR||
 |4|[@tmtk75](https://github.com/tmtk75)/[**hoko**](https://github.com/tmtk75/hoko)|||
 |4|[@tmtk75](https://github.com/tmtk75)/[**kii-cli**](https://github.com/tmtk75/kii-cli)|KiiCloud command line tools in golang||
 |4|[@tomill](https://github.com/tomill)/[**lougo**](https://github.com/tomill/lougo)|||
@@ -1131,8 +1137,9 @@
 |4|[@uetchy](https://github.com/uetchy)/[**go-qiita**](https://github.com/uetchy/go-qiita)|Go binding for Qiita API v2||
 |4|[@ukai](https://github.com/ukai)/[**blogplus**](https://github.com/ukai/blogplus)|blogplus in golang||
 |4|[@ukitazume](https://github.com/ukitazume)/[**ey-berks**](https://github.com/ukitazume/ey-berks)|||
+|4|[@uyorum](https://github.com/uyorum)/[**go-skkserv-google**](https://github.com/uyorum/go-skkserv-google)|SKK dictionary sever with Google IME||
+|4|[@vvatanabe](https://github.com/vvatanabe)/[**go-git-http-transfer**](https://github.com/vvatanabe/go-git-http-transfer)|Implements Git HTTP Transport.|[:arrow_upper_right:](https://git-scm.com/book/en/v2/Git-Internals-Transfer-Protocols)|
 |4|[@wantedly](https://github.com/wantedly)/[**pq2gorm**](https://github.com/wantedly/pq2gorm)|Generate gorm model structs from PostgreSQL database schema||
-|4|[@winebarrel](https://github.com/winebarrel)/[**fstaid**](https://github.com/winebarrel/fstaid)|fstaid is a daemon that monitors the health condition of the server and executes the script if there is any problem.||
 |4|[@winebarrel](https://github.com/winebarrel)/[**slack-notify**](https://github.com/winebarrel/slack-notify)|Notify message to Slack channel.||
 |4|[@ww24](https://github.com/ww24)/[**isucon6-qualify**](https://github.com/ww24/isucon6-qualify)|ISUCON6 オンライン予選|[:arrow_upper_right:](http://isucon.net/archives/48465737.html)|
 |4|[@yasuyk](https://github.com/yasuyk)/[**gocdnjs**](https://github.com/yasuyk/gocdnjs)|Command line interface for http://cdnjs.com||
@@ -1150,6 +1157,7 @@
 |4|[@yuya-takeyama](https://github.com/yuya-takeyama)/[**ltsv2json**](https://github.com/yuya-takeyama/ltsv2json)|Command to convert from LTSV to JSON||
 |4|[@yuya-takeyama](https://github.com/yuya-takeyama)/[**tee2err**](https://github.com/yuya-takeyama/tee2err)|Like tee, but prints to stdout and stderr||
 |4|[@zchee](https://github.com/zchee)/[**appleopensource**](https://github.com/zchee/appleopensource)|A https://opensource.apple.com resource management tool|[:arrow_upper_right:](https://godoc.org/github.com/zchee/appleopensource)|
+|4|[@zchee](https://github.com/zchee)/[**the_titanium_searcher**](https://github.com/zchee/the_titanium_searcher)|A code search tool using SIMD instructions written in Go||
 |4|[@ziyan](https://github.com/ziyan)/[**shadowtunnel**](https://github.com/ziyan/shadowtunnel)|A stunnel-like secure TCP tunneling tool with connection multiplexing.||
 |3|[@1000ch](https://github.com/1000ch)/[**go-md**](https://github.com/1000ch/go-md)|Markdown Parser in CLI||
 |3|[@FairyDevicesRD](https://github.com/FairyDevicesRD)/[**macomp**](https://github.com/FairyDevicesRD/macomp)|Morphological Analyzer Comparator||
@@ -1281,15 +1289,16 @@
 |3|[@moznion](https://github.com/moznion)/[**resque_exporter**](https://github.com/moznion/resque_exporter)|An exporter of Prometheus for resque's status.||
 |3|[@muddydixon](https://github.com/muddydixon)/[**go-mysqldiff**](https://github.com/muddydixon/go-mysqldiff)|||
 |3|[@najeira](https://github.com/najeira)/[**httpload**](https://github.com/najeira/httpload)|A HTTP load testing and benchmarking tool written by Go lang||
-|3|[@nak3](https://github.com/nak3)/[**kubernetes-manifest-scanner**](https://github.com/nak3/kubernetes-manifest-scanner)|kubernetes-manifest-scanner is CLI to refer manifest file from swagger API||
 |3|[@naoina](https://github.com/naoina)/[**go-adventcalendar-2014-bench**](https://github.com/naoina/go-adventcalendar-2014-bench)|Go Advent Calendar 2014 17日目ベンチマーク||
 |3|[@naoty](https://github.com/naoty)/[**ext**](https://github.com/naoty/ext)|A convention for command extensions||
 |3|[@naoty](https://github.com/naoty)/[**table**](https://github.com/naoty/table)|A command to print ASCII table from stdin||
 |3|[@netmarkjp](https://github.com/netmarkjp)/[**kagenui**](https://github.com/netmarkjp/kagenui)|profiler and analyzer for golang||
+|3|[@nshmura](https://github.com/nshmura)/[**dsio**](https://github.com/nshmura/dsio)|Command line tool for Google Cloud Datastore, written in Go||
 |3|[@nyarla](https://github.com/nyarla)/[**gojs-milkcocoa**](https://github.com/nyarla/gojs-milkcocoa)|(OBSOLETED) This code is no longer maintenance||
 |3|[@otiai10](https://github.com/otiai10)/[**log-kcwidget**](https://github.com/otiai10/log-kcwidget)|ocrのlog|[:arrow_upper_right:](http://log-kcwidget.oti10.com/)|
 |3|[@otiai10](https://github.com/otiai10)/[**primes**](https://github.com/otiai10/primes)|Find primes, factorize numbers and reduce fractions by Golang.|[:arrow_upper_right:](https://godoc.org/github.com/otiai10/primes)|
 |3|[@papix](https://github.com/papix)/[**primus**](https://github.com/papix/primus)|||
+|3|[@pei0804](https://github.com/pei0804)/[**goa-simple-sample**](https://github.com/pei0804/goa-simple-sample)|||
 |3|[@pocke](https://github.com/pocke)/[**get**](https://github.com/pocke/get)|get a repository||
 |3|[@pocke](https://github.com/pocke)/[**mayfly**](https://github.com/pocke/mayfly)|Mayfly restart the command at regular intervals.||
 |3|[@pyama86](https://github.com/pyama86)/[**openstack-ssh**](https://github.com/pyama86/openstack-ssh)|openstack ssh authrized key wrapper||
@@ -1297,6 +1306,7 @@
 |3|[@r3it](https://github.com/r3it)/[**sbms**](https://github.com/r3it/sbms)|sbms is simple bulk mail sender.||
 |3|[@rhysd](https://github.com/rhysd)/[**loc**](https://github.com/rhysd/loc)|:x: Nice-looking errors with source code location information||
 |3|[@rosylilly](https://github.com/rosylilly)/[**martini-graceful**](https://github.com/rosylilly/martini-graceful)|graceful shutdown for martini||
+|3|[@ryosan-470](https://github.com/ryosan-470)/[**factordb-go**](https://github.com/ryosan-470/factordb-go)|FactorDB CLI written by Golang||
 |3|[@sbwhitecap](https://github.com/sbwhitecap)/[**base64**](https://github.com/sbwhitecap/base64)|This command is imitative of GNU version.||
 |3|[@sheercat](https://github.com/sheercat)/[**fillinform**](https://github.com/sheercat/fillinform)|port from html fillinform lite||
 |3|[@shibukawa](https://github.com/shibukawa)/[**riakcs-helper**](https://github.com/shibukawa/riakcs-helper)|||
@@ -1310,13 +1320,14 @@
 |3|[@slightair](https://github.com/slightair)/[**goobbue-prototype**](https://github.com/slightair/goobbue-prototype)|tiny browser game||
 |3|[@soundTricker](https://github.com/soundTricker)/[**gas-library-box-go**](https://github.com/soundTricker/gas-library-box-go)|||
 |3|[@spesnova](https://github.com/spesnova)/[**iruka**](https://github.com/spesnova/iruka)|A lightweight container platform||
+|3|[@sugyan](https://github.com/sugyan)/[**shogi**](https://github.com/sugyan/shogi)|Shogi (将棋) program||
 |3|[@suin](https://github.com/suin)/[**iterm2-cli**](https://github.com/suin/iterm2-cli)|🛠 Control iTerm2 from cli. iterm2 is a command line tool to control iTerm2. You can change tab colors and titles with this command.||
 |3|[@summerwind](https://github.com/summerwind)/[**secretctl**](https://github.com/summerwind/secretctl)|A CLI based secret management tool.||
 |3|[@supermomonga](https://github.com/supermomonga)/[**go-conoha**](https://github.com/supermomonga/go-conoha)|||
 |3|[@t-yuki](https://github.com/t-yuki)/[**gotfmt**](https://github.com/t-yuki/gotfmt)|gotfmt: Go stack trace formatter library and utilities|[:arrow_upper_right:](http://gotfmt.appspot.com/)|
-|3|[@t2y](https://github.com/t2y)/[**go-pulsar**](https://github.com/t2y/go-pulsar)|go-pulsar is a client library for Pulsar||
 |3|[@takatoshiono](https://github.com/takatoshiono)/[**go-ab**](https://github.com/takatoshiono/go-ab)|Go implementation of ab (ApacheBench) for learning|[:arrow_upper_right:](http://takatoshiono.hatenablog.com/entry/2017/02/06/013323)|
 |3|[@takecy](https://github.com/takecy)/[**slack-cli**](https://github.com/takecy/slack-cli)|Simple command-line client for slack by golang||
+|3|[@takp](https://github.com/takp)/[**timely**](https://github.com/takp/timely)|CLI tool to fetch the timely info, like tech blog articles, respositories etc. Made by Go language.||
 |3|[@tcnksm](https://github.com/tcnksm)/[**dist-ghr**](https://github.com/tcnksm/dist-ghr)|Redirect distribution for|[:arrow_upper_right:](https://github.com/tcnksm/ghr)|
 |3|[@technohippy](https://github.com/technohippy)/[**go-whitespace**](https://github.com/technohippy/go-whitespace)|Whitespace Interpreter in Golang||
 |3|[@teitei-tk](https://github.com/teitei-tk)/[**tawawa-bot**](https://github.com/teitei-tk/tawawa-bot)|Deliver Happiness to Melancholy of Monday on LineBot.||
@@ -1327,7 +1338,7 @@
 |3|[@theplant](https://github.com/theplant)/[**airbraker**](https://github.com/theplant/airbraker)|Generic airbraker that integrated with airbrake service for Gin-backed web application||
 |3|[@timakin](https://github.com/timakin)/[**airshooter**](https://github.com/timakin/airshooter)|High-performance Notification and Messaging API for asynchronous job.||
 |3|[@tkak](https://github.com/tkak)/[**go-kata**](https://github.com/tkak/go-kata)|Coding KATA for Go||
-|3|[@tkc](https://github.com/tkc)/[**go-echo-server-sandbox**](https://github.com/tkc/go-echo-server-sandbox)|go echo server sandbox ||
+|3|[@tkc](https://github.com/tkc)/[**go-echo-server-sandbox**](https://github.com/tkc/go-echo-server-sandbox)|A scaffold of web server using labstack/echo||
 |3|[@tmtk75](https://github.com/tmtk75)/[**librarian-puppet-go**](https://github.com/tmtk75/librarian-puppet-go)|||
 |3|[@tokuhirom](https://github.com/tokuhirom)/[**cpan-repository**](https://github.com/tokuhirom/cpan-repository)|||
 |3|[@tompng](https://github.com/tompng)/[**go-ascii-canvas**](https://github.com/tompng/go-ascii-canvas)|go asciiart canvas||
@@ -1337,8 +1348,8 @@
 |3|[@typester](https://github.com/typester)/[**go-bonjour**](https://github.com/typester/go-bonjour)|||
 |3|[@tzmfreedom](https://github.com/tzmfreedom)/[**goroon**](https://github.com/tzmfreedom/goroon)|Cybozu garoon library and command line interface by golang||
 |3|[@upamune](https://github.com/upamune)/[**tw**](https://github.com/upamune/tw)|Twitter client on Golang.||
-|3|[@uyorum](https://github.com/uyorum)/[**go-skkserv-google**](https://github.com/uyorum/go-skkserv-google)|SKK dictionary sever with Google IME||
 |3|[@wadahiro](https://github.com/wadahiro)/[**gitss**](https://github.com/wadahiro/gitss)|GitSS - Git Source Search||
+|3|[@wadahiro](https://github.com/wadahiro)/[**go-transproxy**](https://github.com/wadahiro/go-transproxy)|Transparent proxy servers for HTTP, HTTPS, DNS and TCP.||
 |3|[@walf443](https://github.com/walf443)/[**go-sql-tracer**](https://github.com/walf443/go-sql-tracer)|my wrapper for go-sql-proxy||
 |3|[@walf443](https://github.com/walf443)/[**sqlparser**](https://github.com/walf443/sqlparser)|||
 |3|[@worker8](https://github.com/worker8)/[**go-lab**](https://github.com/worker8/go-lab)|My bunch of Go codes||
@@ -1362,6 +1373,5 @@
 |3|[@yuya-takeyama](https://github.com/yuya-takeyama)/[**ggallin**](https://github.com/yuya-takeyama/ggallin)|Compose gox and ghr as all-in-one||
 |3|[@yuya-takeyama](https://github.com/yuya-takeyama)/[**hi**](https://github.com/yuya-takeyama/hi)|HTTP Inspector for your Private Web APIs||
 |3|[@zchee](https://github.com/zchee)/[**docker-machine-hypercore**](https://github.com/zchee/docker-machine-hypercore)|docker-machine driver for maxogden/linux xhyve cli||
-|3|[@zchee](https://github.com/zchee)/[**the_titanium_searcher**](https://github.com/zchee/the_titanium_searcher)|A code search tool using SIMD instructions written in Go||
 |3|[@zetamatta](https://github.com/zetamatta)/[**go-getch**](https://github.com/zetamatta/go-getch)|A Library to read the console-event (keyboard-hits or screen-resize) for Go on Windows.||
 

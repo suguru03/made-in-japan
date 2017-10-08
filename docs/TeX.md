@@ -17,7 +17,7 @@
 |10|[@laysakura](https://github.com/laysakura)/[**TheoryOfComputation**](https://github.com/laysakura/TheoryOfComputation)|A memo of a lecture on Theory of Computation in the University of Tokyo.||
 |9|[@hamano](https://github.com/hamano)/[**zguide-ja**](https://github.com/hamano/zguide-ja)|||
 |9|[@okomok](https://github.com/okomok)/[**strcat**](https://github.com/okomok/strcat)|TeX files for summary of category theory||
-|8|[@orthez](https://github.com/orthez)/[**business-cards-latex**](https://github.com/orthez/business-cards-latex)|Business cards template in latex. Duplex (doubleside) printable. Two languages (back/front) supported. Optimized to be easily extensible.||
+|9|[@orthez](https://github.com/orthez)/[**business-cards-latex**](https://github.com/orthez/business-cards-latex)|Business cards template in latex. Duplex (doubleside) printable. Two languages (back/front) supported. Optimized to be easily extensible.||
 |8|[@ueokande](https://github.com/ueokande)/[**jletteraddress**](https://github.com/ueokande/jletteraddress)|A document class of LaTeX for address side of the Japanese letter.||
 |7|[@acgotaku](https://github.com/acgotaku)/[**USTC-SSE-THESIS**](https://github.com/acgotaku/USTC-SSE-THESIS)|适用于中科大软件学院工程硕士的Latex模板||
 |7|[@uwabami](https://github.com/uwabami)/[**beamerthemeKansaiDebianMeeting**](https://github.com/uwabami/beamerthemeKansaiDebianMeeting)|latex-beamer theme for KansaiDebianMeeting||
@@ -34,6 +34,7 @@
 |4|[@master-q](https://github.com/master-q)/[**masterq-docs**](https://github.com/master-q/masterq-docs)|My documents||
 |4|[@sonots](https://github.com/sonots)/[**cvprtoolbox-project**](https://github.com/sonots/cvprtoolbox-project)|Real projects solving problems using https://github.com/sonots/cvprtoolbox||
 |4|[@tdtds](https://github.com/tdtds)/[**free_as_in_freedom_2.0_ja**](https://github.com/tdtds/free_as_in_freedom_2.0_ja)|Free as in Freedom (2.0)の日本語訳をEPUB化してみる||
+|3|[@MizukiSonoko](https://github.com/MizukiSonoko)/[**Story**](https://github.com/MizukiSonoko/Story)|This is a read-only mirror of "水樹素子の物語"📝🎁||
 |3|[@Saito-](https://github.com/Saito-)/[**NITKC_Research**](https://github.com/Saito-/NITKC_Research)|釧路高専専攻科 特別研究2||
 |3|[@SythonUK](https://github.com/SythonUK)/[**NITKC_Research**](https://github.com/SythonUK/NITKC_Research)|釧路高専専攻科 特別研究2||
 |3|[@atsushieno](https://github.com/atsushieno)/[**TechBookFest3Xamarin**](https://github.com/atsushieno/TechBookFest3Xamarin)|技術書典3参加者用リポジトリ||

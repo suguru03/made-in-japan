@@ -23,4 +23,5 @@
 |3|[@hideyuki](https://github.com/hideyuki)/[**watering-robot**](https://github.com/hideyuki/watering-robot)|watering robot||
 |3|[@houtbrion](https://github.com/houtbrion)/[**arduino-grove**](https://github.com/houtbrion/arduino-grove)|grove module programs for arduino.||
 |3|[@keijiro](https://github.com/keijiro)/[**sustain-pedal-midi**](https://github.com/keijiro/sustain-pedal-midi)|Sustain pedal to MIDI converter||
+|3|[@okhiroyuki](https://github.com/okhiroyuki)/[**TamiyaHackTank**](https://github.com/okhiroyuki/TamiyaHackTank)|Arduinoを載せてモータ制御できるタンクの作り方（ベースはタミヤタンクキット）||
 

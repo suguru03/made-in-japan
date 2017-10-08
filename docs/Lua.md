@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|9412|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|1671|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|9446|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|1670|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
 |221|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |134|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |66|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
@@ -29,10 +29,10 @@
 |7|[@hnakamur](https://github.com/hnakamur)/[**docker-nginx-lua**](https://github.com/hnakamur/docker-nginx-lua)|Dockerfile for nginx with lua-nginx-module||
 |7|[@kengonakajima](https://github.com/kengonakajima)/[**mprpc**](https://github.com/kengonakajima/mprpc)|mini MessagePack RPC stub for both lua-msgpack-native and lua-msgpack||
 |7|[@mah0x211](https://github.com/mah0x211)/[**lua-etcd-resty**](https://github.com/mah0x211/lua-etcd-resty)|etcd client module for OpenResty.||
+|7|[@mzyy94](https://github.com/mzyy94)/[**ECHONET-Lite-dissector**](https://github.com/mzyy94/ECHONET-Lite-dissector)|ECHONET Lite プロトコル解析器 for Wireshark||
 |7|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb2**](https://github.com/nagadomi/kaggle-ndsb2)|Code for Second Annual Data Science Bowl. 16th place.||
 |7|[@umegaya](https://github.com/umegaya)/[**luact**](https://github.com/umegaya/luact)|framework for writing robust, scalable network application, heavily inspired by celluloid(ruby) and orleans(.NET)||
 |6|[@mah0x211](https://github.com/mah0x211)/[**lua-etcd**](https://github.com/mah0x211/lua-etcd)|etcd client module.||
-|6|[@mzyy94](https://github.com/mzyy94)/[**ECHONET-Lite-dissector**](https://github.com/mzyy94/ECHONET-Lite-dissector)|ECHONET Lite プロトコル解析器 for Wireshark||
 |6|[@nagadomi](https://github.com/nagadomi)/[**kaggle-decmeg2014**](https://github.com/nagadomi/kaggle-decmeg2014)|code for DecMeg2014. final place: 5th||
 |6|[@tacigar](https://github.com/tacigar)/[**maidroid**](https://github.com/tacigar/maidroid)|A Minetest Modpack, which provides Cute Maid Robots.||
 |6|[@torus](https://github.com/torus)/[**lua-call-cc**](https://github.com/torus/lua-call-cc)|implementing call/cc on Lua script language.||

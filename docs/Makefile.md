@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|101|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
+|103|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
 |65|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
 |47|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
@@ -9,8 +9,8 @@
 |24|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |23|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-24.5-doc-emacs**](https://github.com/ayatakesi/emacs-24.5-doc-emacs)|emacsマニュアルの日本語化と公開|[:arrow_upper_right:](https://ayatakesi.github.io/)|
 |22|[@norton](https://github.com/norton)/[**erlang-starter-kit**](https://github.com/norton/erlang-starter-kit)|Provide a basic set of Erlang/OTP tools for development and for testing||
+|20|[@uetchy](https://github.com/uetchy)/[**dockerfile-machinelearning**](https://github.com/uetchy/dockerfile-machinelearning)|Dockerfile for scientists studying Machine Learning.||
 |18|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-agent**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/mackerelio/mackerel-agent/)|
-|18|[@uetchy](https://github.com/uetchy)/[**dockerfile-machinelearning**](https://github.com/uetchy/dockerfile-machinelearning)|Dockerfile for scientists studying Machine Learning.||
 |15|[@keiji](https://github.com/keiji)/[**farewell-adt-book**](https://github.com/keiji/farewell-adt-book)|Android Studio完全移行ガイド||
 |14|[@atsushieno](https://github.com/atsushieno)/[**android-fluidsynth**](https://github.com/atsushieno/android-fluidsynth)|fluidsynth Android port / build||
 |14|[@itchyny](https://github.com/itchyny)/[**fastinvsqrt**](https://github.com/itchyny/fastinvsqrt)|Fast inverse square root in programming languages||
@@ -34,6 +34,7 @@
 |4|[@RKX1209](https://github.com/RKX1209)/[**OpenVpnRouter**](https://github.com/RKX1209/OpenVpnRouter)|OpenVpnRouter is a VPN router. ||
 |4|[@enukane](https://github.com/enukane)/[**c91-capturing-80211-2016**](https://github.com/enukane/c91-capturing-80211-2016)|C91頒布の「Capturing 802.11 ver.2016」の原稿データ (!= 完成pdf)||
 |4|[@matsumotory](https://github.com/matsumotory)/[**build-kernel-4.x-for-centos6**](https://github.com/matsumotory/build-kernel-4.x-for-centos6)|kernel-4.x build system for CentOS6 on CentOS6||
+|4|[@nobu](https://github.com/nobu)/[**build-files**](https://github.com/nobu/build-files)|||
 |4|[@osamingo](https://github.com/osamingo)/[**gae-bp**](https://github.com/osamingo/gae-bp)|GAE/Go Boilerplate||
 |4|[@polamjag](https://github.com/polamjag)/[**chrome-theme-simple-blue**](https://github.com/polamjag/chrome-theme-simple-blue)|a minimal theme for Google Chrome / Chromium|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/simple-blue/kglcjiiffdfngnjlgaalhdjjemihjfnd)|
 |4|[@ykzts](https://github.com/ykzts)/[**omanko.porn**](https://github.com/ykzts/omanko.porn)||[:arrow_upper_right:](https://omanko.porn/)|
@@ -44,6 +45,7 @@
 |3|[@kazuki](https://github.com/kazuki)/[**mediacodec.wasm**](https://github.com/kazuki/mediacodec.wasm)|Audio/Video Codec in WebAssembly||
 |3|[@kdmsnr](https://github.com/kdmsnr)/[**NexusGuide**](https://github.com/kdmsnr/NexusGuide)|||
 |3|[@mkouhei](https://github.com/mkouhei)/[**makefile-go**](https://github.com/mkouhei/makefile-go)|Makefile for Golang||
+|3|[@mordiford](https://github.com/mordiford)/[**device_zuk_z2_plus**](https://github.com/mordiford/device_zuk_z2_plus)|IceCold Device configuration for Lenovo/ZUK Z2 Plus||
 |3|[@mumoshu](https://github.com/mumoshu)/[**kube-logrotate**](https://github.com/mumoshu/kube-logrotate)|An ubuntu-slim/s6-overlay/confd based docker image for running logrotate via Kubernetes daemonsets||
 |3|[@r-plus](https://github.com/r-plus)/[**NoDictation**](https://github.com/r-plus/NoDictation)|Disable dictation key without disable Siri.||
 |3|[@renluckyclover](https://github.com/renluckyclover)/[**datingApp_swift**](https://github.com/renluckyclover/datingApp_swift)|||

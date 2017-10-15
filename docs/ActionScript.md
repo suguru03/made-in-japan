@@ -2,8 +2,8 @@
 |---|---|---|---|
 |287|[@glassesfactory](https://github.com/glassesfactory)/[**glassesfactory**](https://github.com/glassesfactory/glassesfactory)|俺々ライブラリ|[:arrow_upper_right:](http://blog.glasses-factory.net)|
 |51|[@Saqoosha](https://github.com/Saqoosha)/[**SAQAS3**](https://github.com/Saqoosha/SAQAS3)|Saqoosha's AS3 Library|[:arrow_upper_right:](http://saqoo.sh/a/)|
+|35|[@nihen](https://github.com/nihen)/[**JSocket**](https://github.com/nihen/JSocket)|Socket on Javascript(use flash)||
 |35|[@susisu](https://github.com/susisu)/[**Twitter-for-AS3**](https://github.com/susisu/Twitter-for-AS3)|(no longer maintained) ActionScript3 library for Twitter API v1.1||
-|34|[@nihen](https://github.com/nihen)/[**JSocket**](https://github.com/nihen/JSocket)|Socket on Javascript(use flash)||
 |33|[@euske](https://github.com/euske)/[**planpathplat**](https://github.com/euske/planpathplat)|Experimental Path Planning for Platformer||
 |27|[@yanbe](https://github.com/yanbe)/[**qrcode-as**](https://github.com/yanbe/qrcode-as)|QR Code reader written in ActionScript 3 which supports webcam on Windows, Mac and Linux by default||
 |18|[@euske](https://github.com/euske)/[**vgaplayer**](https://github.com/euske/vgaplayer)|Open source player for Adobe Flash Media Server streams (RTMP)||
@@ -27,7 +27,7 @@
 |7|[@sugamasao](https://github.com/sugamasao)/[**BrowserUtility**](https://github.com/sugamasao/BrowserUtility)|AS3 browser utility.  provide use ExternalInterface Utility methods|[:arrow_upper_right:](http://sugamasao.com)|
 |6|[@alumican](https://github.com/alumican)/[**alumican.as**](https://github.com/alumican/alumican.as)|My private ActionScript libs, PixelBender, and so on.|[:arrow_upper_right:](http://alumican.net/)|
 |6|[@cho45](https://github.com/cho45)/[**histogram-as**](https://github.com/cho45/histogram-as)|Small script for showing histogram (AS3)||
-|6|[@itoz](https://github.com/itoz)/[**romaticaAS3**](https://github.com/itoz/romaticaAS3)|オレオレAS3クラス|[:arrow_upper_right:](http://www.romatica.com/)|
+|6|[@itoz](https://github.com/itoz)/[**romaticaAS3**](https://github.com/itoz/romaticaAS3)|オレオレAS3クラス||
 |6|[@lyokato](https://github.com/lyokato)/[**as3saxparser**](https://github.com/lyokato/as3saxparser)|XML SAX Parser for ActionScript3||
 |6|[@nariyu](https://github.com/nariyu)/[**as3twitterlib**](https://github.com/nariyu/as3twitterlib)|Twitter API wrapper library for ActionScript 3.0||
 |6|[@umhr](https://github.com/umhr)/[**VideoChatMobile**](https://github.com/umhr/VideoChatMobile)|||

@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|573|[@hakobera](https://github.com/hakobera)/[**nvmw**](https://github.com/hakobera/nvmw)|Simple Node Version Manager for Windows||
-|135|[@kairyu](https://github.com/kairyu)/[**tkg-toolkit**](https://github.com/kairyu/tkg-toolkit)|A collection of tools used for supporting TKG (TMK Keymap Generator).||
+|576|[@hakobera](https://github.com/hakobera)/[**nvmw**](https://github.com/hakobera/nvmw)|Simple Node Version Manager for Windows||
+|136|[@kairyu](https://github.com/kairyu)/[**tkg-toolkit**](https://github.com/kairyu/tkg-toolkit)|A collection of tools used for supporting TKG (TMK Keymap Generator).||
 |10|[@mattn](https://github.com/mattn)/[**pcd**](https://github.com/mattn/pcd)|peco + cd = awesome!||
 |4|[@codelibs](https://github.com/codelibs)/[**fess-server**](https://github.com/codelibs/fess-server)|Fess release distribution on Tomcat||
 |4|[@osubera](https://github.com/osubera)/[**pm25-ibaraki**](https://github.com/osubera/pm25-ibaraki)|visualize PM 2.5 concentration shown at Ibaraki prefecture agency web site ||

@@ -8,5 +8,6 @@
 |5|[@kjunichi](https://github.com/kjunichi)/[**mruby-webcam**](https://github.com/kjunichi/mruby-webcam)|mruby can get image from webcam now!||
 |5|[@yoshimalucky](https://github.com/yoshimalucky)/[**pepper_navigation**](https://github.com/yoshimalucky/pepper_navigation)|||
 |3|[@flokart-world](https://github.com/flokart-world)/[**cmake-supports**](https://github.com/flokart-world/cmake-supports)|A collection of utilities for creating projects with CMake scripts.||
+|3|[@januswel](https://github.com/januswel)/[**ctest-gtest**](https://github.com/januswel/ctest-gtest)|CTest with Google Test||
 |3|[@sugarsweetrobotics](https://github.com/sugarsweetrobotics)/[**UrgRTC**](https://github.com/sugarsweetrobotics/UrgRTC)|||
 

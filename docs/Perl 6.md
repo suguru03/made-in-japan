@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|26|[@skaji](https://github.com/skaji)/[**mi6**](https://github.com/skaji/mi6)|minimal authoring tool for Perl6||
+|26|[@skaji](https://github.com/skaji)/[**mi6**](https://github.com/skaji/mi6)|minimal authoring tool for Perl6|[:arrow_upper_right:](https://www.cpan.org/authors/id/S/SK/SKAJI/Perl6/)|
 |14|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-Server-Tiny**](https://github.com/tokuhirom/p6-HTTP-Server-Tiny)|Web application server for Perl6||
 |8|[@tokuhirom](https://github.com/tokuhirom)/[**p6-WebSocket**](https://github.com/tokuhirom/p6-WebSocket)|||
 |4|[@moznion](https://github.com/moznion)/[**p6-Log-Minimal**](https://github.com/moznion/p6-Log-Minimal)|Minimal Logger for Perl6||

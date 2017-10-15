@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |36|[@rosylilly](https://github.com/rosylilly)/[**power_assert.cr**](https://github.com/rosylilly/power_assert.cr)|PowerAssert provides the more powerful assertion to you.|[:arrow_upper_right:](https://github.com/rosylilly/power_assert.cr)|
-|34|[@MakeNowJust](https://github.com/MakeNowJust)/[**crustache**](https://github.com/MakeNowJust/crustache)|{{Mustache}} for Crystal :gem:|[:arrow_upper_right:](https://mustache.github.io)|
+|35|[@MakeNowJust](https://github.com/MakeNowJust)/[**crustache**](https://github.com/MakeNowJust/crustache)|{{Mustache}} for Crystal :gem:|[:arrow_upper_right:](https://mustache.github.io)|
 |31|[@MakeNowJust](https://github.com/MakeNowJust)/[**crake**](https://github.com/MakeNowJust/crake)|CRystal mAKE library||
 |28|[@tbpgr](https://github.com/tbpgr)/[**crystal_samples**](https://github.com/tbpgr/crystal_samples)|||
 |17|[@rhysd](https://github.com/rhysd)/[**Crisp**](https://github.com/rhysd/Crisp)|Lisp dialect implemented with Crystal||
@@ -17,6 +17,7 @@
 |5|[@MakeNowJust](https://github.com/MakeNowJust)/[**8cc.cr**](https://github.com/MakeNowJust/8cc.cr)|compile-time C compiler implemented as Crystal macros||
 |5|[@karupanerura](https://github.com/karupanerura)/[**router-simple.cr**](https://github.com/karupanerura/router-simple.cr)|simple path router inspired by Router::Simple.||
 |4|[@dtan4](https://github.com/dtan4)/[**aws4_signer.cr**](https://github.com/dtan4/aws4_signer.cr)|||
+|3|[@MakeNowJust](https://github.com/MakeNowJust)/[**serialport**](https://github.com/MakeNowJust/serialport)|serial port library for Crystal||
 |3|[@MakeNowJust](https://github.com/MakeNowJust)/[**tap**](https://github.com/MakeNowJust/tap)|TAP (Test Anything Protocol) test framework for Crystal|[:arrow_upper_right:](https://testanything.org/)|
 |3|[@pine](https://github.com/pine)/[**crystal-lua**](https://github.com/pine/crystal-lua)|[EXPERIMENTAL] Lua embedded in Crystal||
 |3|[@rosylilly](https://github.com/rosylilly)/[**semver**](https://github.com/rosylilly/semver)|Semantic Versioning module for Crystal|[:arrow_upper_right:](https://github.com/rosylilly/semver)|

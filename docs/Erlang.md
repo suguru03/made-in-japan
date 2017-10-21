@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1073|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|1074|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
 |206|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
 |123|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |77|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
@@ -77,6 +77,7 @@
 |4|[@jj1bdx](https://github.com/jj1bdx)/[**sd-erlang-public**](https://github.com/jj1bdx/sd-erlang-public)|Software Design誌連載「Erlangで学ぶ並行プログラミング」のサポートページ||
 |4|[@leo-project](https://github.com/leo-project)/[**leo_cache**](https://github.com/leo-project/leo_cache)|leo_cache is an object caching server into RAM and Disc (SSD)|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |4|[@leo-project](https://github.com/leo-project)/[**leo_watchdog**](https://github.com/leo-project/leo_watchdog)|leo_watchdog keep monitoring an application in order to realize high-availability.||
+|4|[@leo-project](https://github.com/leo-project)/[**leofs_doctor**](https://github.com/leo-project/leofs_doctor)|Quick investigation into OTP applications on remote nodes with less operations.|[:arrow_upper_right:](https://github.com/leo-project/leofs)|
 |4|[@rramsden](https://github.com/rramsden)/[**experiments**](https://github.com/rramsden/experiments)|||
 |4|[@shirou](https://github.com/shirou)/[**erlang-ltsv**](https://github.com/shirou/erlang-ltsv)|Labeled Tab-separated Values Parser for Erlang ||
 |4|[@sile](https://github.com/sile)/[**erl_pfds**](https://github.com/sile/erl_pfds)|An Erlang implementation of the data structures described in 『Purely Functional Data Structures』||
@@ -94,7 +95,6 @@
 |3|[@kuenishi](https://github.com/kuenishi)/[**riak_cli**](https://github.com/kuenishi/riak_cli)|yet another Riak cli in Erlang/OTP, do things you can't do with curl||
 |3|[@leo-project](https://github.com/leo-project)/[**leo_dcerl**](https://github.com/leo-project/leo_dcerl)|leo_dcerl is a disc cache lib for Erlang|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |3|[@leo-project](https://github.com/leo-project)/[**leo_s3_libs**](https://github.com/leo-project/leo_s3_libs)|leo_s3_libs are S3 related libraries for LeoFS and other Erlang applications.|[:arrow_upper_right:](http://leo-project.net/leofs)|
-|3|[@leo-project](https://github.com/leo-project)/[**leofs_doctor**](https://github.com/leo-project/leofs_doctor)|Quick investigation into OTP applications on remote nodes with less operations.|[:arrow_upper_right:](https://github.com/leo-project/leofs)|
 |3|[@leo-project](https://github.com/leo-project)/[**nfs_rpc_server**](https://github.com/leo-project/nfs_rpc_server)|NFS RPC Server for LeoFS NFS Protocol||
 |3|[@mizchi](https://github.com/mizchi)/[**dehydrater**](https://github.com/mizchi/dehydrater)|Promise queue handler||
 |3|[@norton](https://github.com/norton)/[**gen-ets**](https://github.com/norton/gen-ets)|GEN_ETS is an generic wrapper for Erlang Term Storage with a callback interface for a backend implementation.||

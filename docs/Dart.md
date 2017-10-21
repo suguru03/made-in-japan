@@ -16,5 +16,6 @@
 |4|[@kyorohiro](https://github.com/kyorohiro)/[**doc_2dgame**](https://github.com/kyorohiro/doc_2dgame)|||
 |3|[@axross](https://github.com/axross)/[**before-run**](https://github.com/axross/before-run)||[:arrow_upper_right:](https://before.run/)|
 |3|[@gfx](https://github.com/gfx)/[**dart-sessionstorage**](https://github.com/gfx/dart-sessionstorage)|An example to make use of WebStorage||
+|3|[@ntaoo](https://github.com/ntaoo)/[**game_of_life.dart**](https://github.com/ntaoo/game_of_life.dart)|implementation of http://en.wikipedia.org/wiki/Conway's_Game_of_Life||
 |3|[@zick](https://github.com/zick)/[**DartLisp**](https://github.com/zick/DartLisp)|Lisp implementation in Dart||
 

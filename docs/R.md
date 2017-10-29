@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|293|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
-|90|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
+|294|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
+|91|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
 |41|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
 |35|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
@@ -9,9 +9,9 @@
 |22|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
 |22|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2||
 |15|[@hoxo-m](https://github.com/hoxo-m)/[**dplyrr**](https://github.com/hoxo-m/dplyrr)|Utilities for comfortable use of dplyr with databases||
+|12|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RFinanceJ**](https://github.com/teramonagi/RFinanceJ)|Get the data related to finance in Japan using variety types of data sources||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RODBCDBI**](https://github.com/teramonagi/RODBCDBI)|An implementation of R's DBI interface using ODBC package as a back-end. This allows R to connect to any DBMS that has a ODBC driver.|[:arrow_upper_right:](https://cran.r-project.org/web/packages/RODBCDBI/index.html)|
-|11|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
 |10|[@yutannihilation](https://github.com/yutannihilation)/[**estatapi**](https://github.com/yutannihilation/estatapi)|R package for e-Stat API in Japan||
 |10|[@yutannihilation](https://github.com/yutannihilation)/[**highstockR**](https://github.com/yutannihilation/highstockR)|An R package to draw highstock charts. This is for demonstration purpose of htmlwidgets at 46th Tokyo.R meeting.||
 |9|[@clear-code](https://github.com/clear-code)/[**sezemi-2014-readable-code**](https://github.com/clear-code/sezemi-2014-readable-code)|SEゼミ「プログラミングが好きな学生のためのリーダブルコード勉強会」関連のデータを置くリポジトリー||

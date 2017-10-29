@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|32|[@jhorology](https://github.com/jhorology)/[**nks-presets-collection**](https://github.com/jhorology/nks-presets-collection)|NKS(Native Kontrol Standard) presets collection||
+|34|[@jhorology](https://github.com/jhorology)/[**nks-presets-collection**](https://github.com/jhorology/nks-presets-collection)|NKS(Native Kontrol Standard) presets collection||
 |26|[@clicktx](https://github.com/clicktx)/[**eccube-on-bootstrap3**](https://github.com/clicktx/eccube-on-bootstrap3)|Bootstrap3を使ったEC-CUBE用のデザインテンプレート||
 |8|[@tkak](https://github.com/tkak)/[**terraform-coreos-docker-swarm-cluster**](https://github.com/tkak/terraform-coreos-docker-swarm-cluster)|Terraform + CoreOS + Docker Swarm cluster example||
 |3|[@Jeemusu](https://github.com/Jeemusu)/[**EC-Cube-Admin-Bootstrap**](https://github.com/Jeemusu/EC-Cube-Admin-Bootstrap)|EC-CUBE管理画面用のBOOTSTRAPテーマです。||

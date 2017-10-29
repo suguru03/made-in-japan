@@ -14,11 +14,11 @@
 |5|[@leios](https://github.com/leios)/[**algorithm-archive**](https://github.com/leios/algorithm-archive)|The Arcane Algorithm Archive for all our adventures on LeiosOS / simuleios||
 |5|[@r9y9](https://github.com/r9y9)/[**ConstantQ.jl**](https://github.com/r9y9/ConstantQ.jl)|A fast constant-q transform in Julia||
 |5|[@takuti](https://github.com/takuti)/[**Recommendation.jl**](https://github.com/takuti/Recommendation.jl)|Building recommender systems in Julia||
+|4|[@bicycle1885](https://github.com/bicycle1885)/[**ANMS.jl**](https://github.com/bicycle1885/ANMS.jl)|Adaptive Nelder-Mead Simplex Optimization||
 |4|[@bicycle1885](https://github.com/bicycle1885)/[**JSoC2015**](https://github.com/bicycle1885/JSoC2015)|Proposal for Julia Summer of Code 2015||
 |4|[@r9y9](https://github.com/r9y9)/[**Libfreenect2.jl**](https://github.com/r9y9/Libfreenect2.jl)|A Julia wrapper for libfreenect2||
 |4|[@r9y9](https://github.com/r9y9)/[**REAPER.jl**](https://github.com/r9y9/REAPER.jl)|A Julia interface for REAPER (Robust Epoch And Pitch EstimatoR)||
 |4|[@r9y9](https://github.com/r9y9)/[**RobustPCA.jl**](https://github.com/r9y9/RobustPCA.jl)|Robust Principal Component Analysis in Julia||
-|3|[@bicycle1885](https://github.com/bicycle1885)/[**ANMS.jl**](https://github.com/bicycle1885/ANMS.jl)|Adaptive Nelder-Mead Simplex Optimization||
 |3|[@bicycle1885](https://github.com/bicycle1885)/[**BioBenchmarks.jl**](https://github.com/bicycle1885/BioBenchmarks.jl)|Benchmark set of Bio.jl||
 |3|[@bicycle1885](https://github.com/bicycle1885)/[**ConcurrentCalls.jl**](https://github.com/bicycle1885/ConcurrentCalls.jl)|Call functions concurrently.||
 |3|[@bicycle1885](https://github.com/bicycle1885)/[**FMM.jl**](https://github.com/bicycle1885/FMM.jl)|||

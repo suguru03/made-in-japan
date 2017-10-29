@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|229|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
+|230|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
 |206|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|:hatched_chick: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
 |116|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |106|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||

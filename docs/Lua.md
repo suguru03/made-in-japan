@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|9537|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|1677|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|9595|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|1679|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
 |223|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |134|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |66|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
@@ -15,9 +15,9 @@
 |23|[@kengonakajima](https://github.com/kengonakajima)/[**luvit-mysql**](https://github.com/kengonakajima/luvit-mysql)|Luvit port of node-mysql||
 |19|[@hetima](https://github.com/hetima)/[**hammerspoon-hyperex**](https://github.com/hetima/hammerspoon-hyperex)|Hammerspoon configuration library which provides yet another modifier key.||
 |19|[@kenchan](https://github.com/kenchan)/[**dotfiles**](https://github.com/kenchan/dotfiles)|kenchan's dotfiles.||
-|15|[@nitoyon](https://github.com/nitoyon)/[**lua-console-lightroom-plugin**](https://github.com/nitoyon/lua-console-lightroom-plugin)|"Lua Console" plugin for Lightroom 3.0+||
+|16|[@nitoyon](https://github.com/nitoyon)/[**lua-console-lightroom-plugin**](https://github.com/nitoyon/lua-console-lightroom-plugin)|"Lua Console" plugin for Lightroom 3.0+||
+|13|[@miurahr](https://github.com/miurahr)/[**lua-nginx-osm**](https://github.com/miurahr/lua-nginx-osm)|OpenStreetMap extension for Nginx Lua module||
 |12|[@hetima](https://github.com/hetima)/[**hammerspoon-foundation_remapping**](https://github.com/hetima/hammerspoon-foundation_remapping)|Hammerspoon configuration script which remaps any keys for Sierra.||
-|12|[@miurahr](https://github.com/miurahr)/[**lua-nginx-osm**](https://github.com/miurahr/lua-nginx-osm)|OpenStreetMap extension for Nginx Lua module||
 |12|[@safx](https://github.com/safx)/[**LightroomPlugin-ClarifaiTagger**](https://github.com/safx/LightroomPlugin-ClarifaiTagger)|A Lightroom plugin suggests keywords of photo for you||
 |12|[@tenntenn](https://github.com/tenntenn)/[**lupe**](https://github.com/tenntenn/lupe)|LUPE - Lua Debugger||
 |11|[@toshi-k](https://github.com/toshi-k)/[**kaggle-santander-customer-satisfaction**](https://github.com/toshi-k/kaggle-santander-customer-satisfaction)|44th place solution in "Santander Customer Satisfaction"||

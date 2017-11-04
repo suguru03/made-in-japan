@@ -10,9 +10,9 @@
 |14|[@mzp](https://github.com/mzp)/[**fluent-agent-windows-lite**](https://github.com/mzp/fluent-agent-windows-lite)|Simple fluent agent for Windows||
 |10|[@Gab-km](https://github.com/Gab-km)/[**Funcy**](https://github.com/Gab-km/Funcy)|This is the insignificant one of the numberless functional libraries for C#/VB.|[:arrow_upper_right:](https://www.nuget.org/packages/Funcy/)|
 |10|[@Gab-km](https://github.com/Gab-km)/[**OAuth-in-FSharp**](https://github.com/Gab-km/OAuth-in-FSharp)|This library offers the OAuth API written in F#.|[:arrow_upper_right:](http://twitter.com/gab_km)|
+|8|[@pocketberserker](https://github.com/pocketberserker)/[**ComVu**](https://github.com/pocketberserker/ComVu)|||
 |8|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Automaton**](https://github.com/pocketberserker/FSharp.Automaton)|||
 |7|[@bleis-tift](https://github.com/bleis-tift)/[**TableDsl**](https://github.com/bleis-tift/TableDsl)|||
-|7|[@pocketberserker](https://github.com/pocketberserker)/[**ComVu**](https://github.com/pocketberserker/ComVu)|||
 |6|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Object.Diff**](https://github.com/pocketberserker/FSharp.Object.Diff)|||
 |6|[@vain0](https://github.com/vain0)/[**tokiwa_db**](https://github.com/vain0/tokiwa_db)|||
 |5|[@azyobuzin](https://github.com/azyobuzin)/[**kirabern**](https://github.com/azyobuzin/kirabern)|コンパイラつくるぞ！！！！||

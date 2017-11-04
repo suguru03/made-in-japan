@@ -1,4 +1,4 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|5|[@MakeNowJust](https://github.com/MakeNowJust)/[**bf.jq**](https://github.com/MakeNowJust/bf.jq)|Brainfuck interpreter written in jq -- This is the proof that jq is turing-complete!||
+|6|[@MakeNowJust](https://github.com/MakeNowJust)/[**bf.jq**](https://github.com/MakeNowJust/bf.jq)|Brainfuck interpreter written in jq -- This is the proof that jq is turing-complete!||
 

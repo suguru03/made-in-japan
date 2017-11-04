@@ -4,7 +4,6 @@
 |15|[@skaji](https://github.com/skaji)/[**Frinfon**](https://github.com/skaji/Frinfon)|minimal sinatra for perl6||
 |9|[@lopnor](https://github.com/lopnor)/[**p6-plackdo**](https://github.com/lopnor/p6-plackdo)|plack-like web interface for perl6||
 |6|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-MultiPartParser**](https://github.com/tokuhirom/p6-HTTP-MultiPartParser)|multipart/form-data parser for Perl6||
-|5|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-Parser**](https://github.com/tokuhirom/p6-HTTP-Parser)|||
 |5|[@uasi](https://github.com/uasi)/[**messagepack-pm6**](https://github.com/uasi/messagepack-pm6)|A MessagePack implementation written in Perl 6||
 |4|[@moznion](https://github.com/moznion)/[**p6-IO-Blob**](https://github.com/moznion/p6-IO-Blob)|IO:: interface for reading/writing a Blob||
 |4|[@uasi](https://github.com/uasi)/[**file-spec**](https://github.com/uasi/file-spec)|A port of the Perl 5 File::Spec module to Perl 6||

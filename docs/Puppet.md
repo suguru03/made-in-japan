@@ -6,6 +6,5 @@
 |6|[@glidenote](https://github.com/glidenote)/[**sensu-puppet-sample**](https://github.com/glidenote/sensu-puppet-sample)|||
 |5|[@mizzy](https://github.com/mizzy)/[**puppet-lxc-test-box**](https://github.com/mizzy/puppet-lxc-test-box)|||
 |4|[@Tomohiro](https://github.com/Tomohiro)/[**puppet-mackerel_agent**](https://github.com/Tomohiro/puppet-mackerel_agent)|Puppet module for mackerel-agent|[:arrow_upper_right:](https://forge.puppetlabs.com/tomohiro/mackerel_agent)|
-|4|[@hfm](https://github.com/hfm)/[**puppet-mha**](https://github.com/hfm/puppet-mha)|The MHA module handles installing, configuring, and running MHA for MySQL.|[:arrow_upper_right:](https://forge.puppetlabs.com/hfm/mha)|
 |3|[@ngs](https://github.com/ngs)/[**puppet-kaleidoscope**](https://github.com/ngs/puppet-kaleidoscope)|Kaleidoscope Puppet Module for Boxen||
 

@@ -1,31 +1,31 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1009|[@mooz](https://github.com/mooz)/[**js2-mode**](https://github.com/mooz/js2-mode)|Improved JavaScript editing mode for GNU Emacs||
-|585|[@kiwanami](https://github.com/kiwanami)/[**emacs-calfw**](https://github.com/kiwanami/emacs-calfw)|A calendar framework for Emacs||
+|1013|[@mooz](https://github.com/mooz)/[**js2-mode**](https://github.com/mooz/js2-mode)|Improved JavaScript editing mode for GNU Emacs||
+|589|[@kiwanami](https://github.com/kiwanami)/[**emacs-calfw**](https://github.com/kiwanami/emacs-calfw)|A calendar framework for Emacs||
 |520|[@syohex](https://github.com/syohex)/[**emacs-git-gutter**](https://github.com/syohex/emacs-git-gutter)|Emacs port of GitGutter which is Sublime Text Plugin||
-|443|[@ShingoFukuyama](https://github.com/ShingoFukuyama)/[**helm-swoop**](https://github.com/ShingoFukuyama/helm-swoop)|Efficiently hopping squeezed lines powered by Emacs helm interface||
-|415|[@yuya373](https://github.com/yuya373)/[**emacs-slack**](https://github.com/yuya373/emacs-slack)|slack client for emacs||
-|409|[@hayamiz](https://github.com/hayamiz)/[**twittering-mode**](https://github.com/hayamiz/twittering-mode)|An Emacs major mode for Twitter|[:arrow_upper_right:](http://twmode.sourceforge.net/)|
-|286|[@syohex](https://github.com/syohex)/[**emacs-helm-ag**](https://github.com/syohex/emacs-helm-ag)|The silver searcher with helm interface||
-|271|[@mopemope](https://github.com/mopemope)/[**meghanada-emacs**](https://github.com/mopemope/meghanada-emacs)|A Better Java Development Environment for Emacs||
-|266|[@yoshiki](https://github.com/yoshiki)/[**yaml-mode**](https://github.com/yoshiki/yaml-mode)|The emacs major mode for editing files in the YAML data serialization format.||
-|261|[@zk-phi](https://github.com/zk-phi)/[**sublimity**](https://github.com/zk-phi/sublimity)|[emacs] smooth-scrolling and minimap like sublime editor||
-|234|[@syohex](https://github.com/syohex)/[**emacs-quickrun**](https://github.com/syohex/emacs-quickrun)|Run command quickly. This packages is inspired quickrun.vim||
-|227|[@myuhe](https://github.com/myuhe)/[**org-gcal.el**](https://github.com/myuhe/org-gcal.el)|Org sync with Google Calendar||
-|218|[@kiwanami](https://github.com/kiwanami)/[**emacs-deferred**](https://github.com/kiwanami/emacs-deferred)|Simple asynchronous functions for emacs lisp||
-|217|[@syohex](https://github.com/syohex)/[**emacs-anzu**](https://github.com/syohex/emacs-anzu)|Emacs Port of anzu.vim||
+|444|[@ShingoFukuyama](https://github.com/ShingoFukuyama)/[**helm-swoop**](https://github.com/ShingoFukuyama/helm-swoop)|Efficiently hopping squeezed lines powered by Emacs helm interface||
+|417|[@yuya373](https://github.com/yuya373)/[**emacs-slack**](https://github.com/yuya373/emacs-slack)|slack client for emacs||
+|411|[@hayamiz](https://github.com/hayamiz)/[**twittering-mode**](https://github.com/hayamiz/twittering-mode)|An Emacs major mode for Twitter|[:arrow_upper_right:](http://twmode.sourceforge.net/)|
+|287|[@syohex](https://github.com/syohex)/[**emacs-helm-ag**](https://github.com/syohex/emacs-helm-ag)|The silver searcher with helm interface||
+|272|[@mopemope](https://github.com/mopemope)/[**meghanada-emacs**](https://github.com/mopemope/meghanada-emacs)|A Better Java Development Environment for Emacs||
+|268|[@yoshiki](https://github.com/yoshiki)/[**yaml-mode**](https://github.com/yoshiki/yaml-mode)|The emacs major mode for editing files in the YAML data serialization format.||
+|263|[@zk-phi](https://github.com/zk-phi)/[**sublimity**](https://github.com/zk-phi/sublimity)|[emacs] smooth-scrolling and minimap like sublime editor||
+|237|[@syohex](https://github.com/syohex)/[**emacs-quickrun**](https://github.com/syohex/emacs-quickrun)|Run command quickly. This packages is inspired quickrun.vim||
+|228|[@myuhe](https://github.com/myuhe)/[**org-gcal.el**](https://github.com/myuhe/org-gcal.el)|Org sync with Google Calendar||
+|220|[@kiwanami](https://github.com/kiwanami)/[**emacs-deferred**](https://github.com/kiwanami/emacs-deferred)|Simple asynchronous functions for emacs lisp||
+|218|[@syohex](https://github.com/syohex)/[**emacs-anzu**](https://github.com/syohex/emacs-anzu)|Emacs Port of anzu.vim||
 |208|[@kiwanami](https://github.com/kiwanami)/[**emacs-edbi**](https://github.com/kiwanami/emacs-edbi)|Database Interface for Emacs Lisp||
-|200|[@zk-phi](https://github.com/zk-phi)/[**indent-guide**](https://github.com/zk-phi/indent-guide)|[emacs] show vertical lines to guide indentation||
-|184|[@kiwanami](https://github.com/kiwanami)/[**emacs-window-manager**](https://github.com/kiwanami/emacs-window-manager)|Customizable window manager for emacs||
+|201|[@zk-phi](https://github.com/zk-phi)/[**indent-guide**](https://github.com/zk-phi/indent-guide)|[emacs] show vertical lines to guide indentation||
+|185|[@kiwanami](https://github.com/kiwanami)/[**emacs-window-manager**](https://github.com/kiwanami/emacs-window-manager)|Customizable window manager for emacs||
 |175|[@zk-phi](https://github.com/zk-phi)/[**symon**](https://github.com/zk-phi/symon)|[Emacs] tiny graphical system monitor||
-|168|[@syohex](https://github.com/syohex)/[**emacs-emamux**](https://github.com/syohex/emacs-emamux)|tmux manipulation from Emacs||
-|166|[@mhayashi1120](https://github.com/mhayashi1120)/[**Emacs-wgrep**](https://github.com/mhayashi1120/Emacs-wgrep)|Writable grep buffer and apply the changes to files||
+|169|[@syohex](https://github.com/syohex)/[**emacs-emamux**](https://github.com/syohex/emacs-emamux)|tmux manipulation from Emacs||
+|167|[@mhayashi1120](https://github.com/mhayashi1120)/[**Emacs-wgrep**](https://github.com/mhayashi1120/Emacs-wgrep)|Writable grep buffer and apply the changes to files||
+|166|[@yasuyk](https://github.com/yasuyk)/[**web-beautify**](https://github.com/yasuyk/web-beautify)|Format HTML, CSS and JavaScript/JSON by js-beautify||
 |165|[@syohex](https://github.com/syohex)/[**emacs-helm-gtags**](https://github.com/syohex/emacs-helm-gtags)|GNU GLOBAL helm interface||
-|165|[@yasuyk](https://github.com/yasuyk)/[**web-beautify**](https://github.com/yasuyk/web-beautify)|Format HTML, CSS and JavaScript/JSON by js-beautify||
 |136|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**Mew**](https://github.com/kazu-yamamoto/Mew)|Messaging in the Emacs World|[:arrow_upper_right:](http://www.mew.org/)|
+|120|[@gongo](https://github.com/gongo)/[**json-reformat**](https://github.com/gongo/json-reformat)|Reformat tool for JSON||
 |120|[@kiwanami](https://github.com/kiwanami)/[**emacs-epc**](https://github.com/kiwanami/emacs-epc)|A RPC stack for Emacs Lisp||
 |120|[@mhayashi1120](https://github.com/mhayashi1120)/[**Emacs-langtool**](https://github.com/mhayashi1120/Emacs-langtool)|LanguageTool for Emacs||
-|119|[@gongo](https://github.com/gongo)/[**json-reformat**](https://github.com/gongo/json-reformat)|Reformat tool for JSON||
 |117|[@ShingoFukuyama](https://github.com/ShingoFukuyama)/[**ov.el**](https://github.com/ShingoFukuyama/ov.el)|Overlay library for Emacs Lisp.||
 |114|[@syohex](https://github.com/syohex)/[**emacs-git-gutter-fringe**](https://github.com/syohex/emacs-git-gutter-fringe)|Fringe version of git-gutter.el||
 |112|[@kiwanami](https://github.com/kiwanami)/[**emacs-ctable**](https://github.com/kiwanami/emacs-ctable)|Table Component for elisp||
@@ -34,8 +34,8 @@
 |96|[@niku](https://github.com/niku)/[**markdown-preview-eww**](https://github.com/niku/markdown-preview-eww)|Realtime markdown preview by eww||
 |96|[@syohex](https://github.com/syohex)/[**emacs-git-messenger**](https://github.com/syohex/emacs-git-messenger)|Emacs Port of git-messenger.vim||
 |93|[@syohex](https://github.com/syohex)/[**emacs-go-eldoc**](https://github.com/syohex/emacs-go-eldoc)|eldoc for go language||
-|90|[@aki2o](https://github.com/aki2o)/[**emacs-tss**](https://github.com/aki2o/emacs-tss)|Provide a interface for auto-complete.el/flymake.el on typescript-mode.||
-|74|[@zk-phi](https://github.com/zk-phi)/[**togetherly**](https://github.com/zk-phi/togetherly)|[Emacs] allow multiple clients to edit a single file on-line||
+|91|[@aki2o](https://github.com/aki2o)/[**emacs-tss**](https://github.com/aki2o/emacs-tss)|Provide a interface for auto-complete.el/flymake.el on typescript-mode.||
+|76|[@zk-phi](https://github.com/zk-phi)/[**togetherly**](https://github.com/zk-phi/togetherly)|[Emacs] allow multiple clients to edit a single file on-line||
 |71|[@yoshinari-nomura](https://github.com/yoshinari-nomura)/[**org-octopress**](https://github.com/yoshinari-nomura/org-octopress)|org-mode in octopress||
 |70|[@kiwanami](https://github.com/kiwanami)/[**emacs-skype**](https://github.com/kiwanami/emacs-skype)|Skype UI for emacs users||
 |69|[@zk-phi](https://github.com/zk-phi)/[**magic-latex-buffer**](https://github.com/zk-phi/magic-latex-buffer)|[Emacs] magical syntax highlighting for LaTeX-mode buffers||
@@ -43,17 +43,17 @@
 |68|[@gongo](https://github.com/gongo)/[**org-redmine**](https://github.com/gongo/org-redmine)|Redmine tools using Emacs OrgMode||
 |65|[@myuhe](https://github.com/myuhe)/[**smartrep.el**](https://github.com/myuhe/smartrep.el)|Support sequential operation which omit prefix key||
 |64|[@yasuyk](https://github.com/yasuyk)/[**helm-git-grep**](https://github.com/yasuyk/helm-git-grep)|helm for git grep||
-|60|[@zk-phi](https://github.com/zk-phi)/[**phi-search**](https://github.com/zk-phi/phi-search)|[emacs] another incremental search command, compatible with “multiple-cursors”||
+|61|[@zk-phi](https://github.com/zk-phi)/[**phi-search**](https://github.com/zk-phi/phi-search)|[emacs] another incremental search command, compatible with “multiple-cursors”||
+|59|[@syohex](https://github.com/syohex)/[**emacs-terraform-mode**](https://github.com/syohex/emacs-terraform-mode)|Major mode of Terraform configuration file||
 |57|[@k1LoW](https://github.com/k1LoW)/[**emacs-ansible**](https://github.com/k1LoW/emacs-ansible)|||
-|57|[@syohex](https://github.com/syohex)/[**emacs-terraform-mode**](https://github.com/syohex/emacs-terraform-mode)|Major mode of Terraform configuration file||
 |54|[@akicho8](https://github.com/akicho8)/[**string-inflection**](https://github.com/akicho8/string-inflection)|underscore -> UPCASE -> CamelCase conversion of names||
 |54|[@syohex](https://github.com/syohex)/[**dot_files**](https://github.com/syohex/dot_files)|My dot files||
 |53|[@tarao](https://github.com/tarao)/[**term-plus-el**](https://github.com/tarao/term-plus-el)|A terminal emulator in Emacs (term.el enhancement: 256 colors, edit mode, logging, multiplexer and shell integration)||
 |52|[@syohex](https://github.com/syohex)/[**emacs-company-jedi**](https://github.com/syohex/emacs-company-jedi)|Company backend for Python jedi||
 |49|[@syohex](https://github.com/syohex)/[**emacs-dired-k**](https://github.com/syohex/emacs-dired-k)|Highlighting dired buffer like k||
 |49|[@syohex](https://github.com/syohex)/[**emacs-realtime-markdown-viewer**](https://github.com/syohex/emacs-realtime-markdown-viewer)|Emacs Realtime Markdown Viewer with websocket.el and Amon2||
+|48|[@zk-phi](https://github.com/zk-phi)/[**electric-align**](https://github.com/zk-phi/electric-align)|[Emacs] Insert a certain amout of spaces at once to easily align columns||
 |47|[@twada](https://github.com/twada)/[**coverlay.el**](https://github.com/twada/coverlay.el)|Test coverage overlay for Emacs||
-|47|[@zk-phi](https://github.com/zk-phi)/[**electric-align**](https://github.com/zk-phi/electric-align)|[Emacs] Insert a certain amout of spaces at once to easily align columns||
 |45|[@mhayashi1120](https://github.com/mhayashi1120)/[**Emacs-imagex**](https://github.com/mhayashi1120/Emacs-imagex)|Emacs image extensions||
 |45|[@tarao](https://github.com/tarao)/[**evil-plugins**](https://github.com/tarao/evil-plugins)|Plugins for Emacs Evil.||
 |44|[@uk-ar](https://github.com/uk-ar)/[**key-combo**](https://github.com/uk-ar/key-combo)|emacs plugin:enhanced smartchr||
@@ -69,15 +69,15 @@
 |36|[@nekop](https://github.com/nekop)/[**yasnippet-java-mode**](https://github.com/nekop/yasnippet-java-mode)|Java snippets for yasnippet||
 |35|[@myuhe](https://github.com/myuhe)/[**org-wunderlist.el**](https://github.com/myuhe/org-wunderlist.el)|Org sync with Wunderlist||
 |34|[@yu-i9](https://github.com/yu-i9)/[**oniisama**](https://github.com/yu-i9/oniisama)|麗しき理想の妹をあなたのEmacsに呼び出します||
-|33|[@zk-phi](https://github.com/zk-phi)/[**git-complete**](https://github.com/zk-phi/git-complete)|[Emacs] Yet another completion engine powered by "git grep"||
+|34|[@zk-phi](https://github.com/zk-phi)/[**git-complete**](https://github.com/zk-phi/git-complete)|[Emacs] Yet another completion engine powered by "git grep"||
 |32|[@aki2o](https://github.com/aki2o)/[**log4e**](https://github.com/aki2o/log4e)|Provide a logging framework for elisp||
 |32|[@sugyan](https://github.com/sugyan)/[**dotfiles**](https://github.com/sugyan/dotfiles)|my dotfiles configuration|[:arrow_upper_right:](http://sugyan.com/)|
 |31|[@hamano](https://github.com/hamano)/[**locale-eaw**](https://github.com/hamano/locale-eaw)|East Asian Ambiguous Width問題と絵文字の横幅問題の修正ロケール||
 |31|[@mooz](https://github.com/mooz)/[**js-doc**](https://github.com/mooz/js-doc)|Insert JsDoc style comment easily in Emacs||
 |31|[@tcnksm](https://github.com/tcnksm)/[**dotfiles**](https://github.com/tcnksm/dotfiles)|@tcnksm does dotfiles|[:arrow_upper_right:](http://dotfiles.github.io/)|
+|30|[@codesuki](https://github.com/codesuki)/[**add-node-modules-path**](https://github.com/codesuki/add-node-modules-path)|Adds the node_modules/.bin directory to the buffer exec_path. E.g. support project local eslint installations.||
 |30|[@kiwanami](https://github.com/kiwanami)/[**emacs-widget-mvc**](https://github.com/kiwanami/emacs-widget-mvc)|Web like MVC framework for emacs lisp||
 |29|[@aki2o](https://github.com/aki2o)/[**emacs-bts**](https://github.com/aki2o/emacs-bts)|A unified user Interface for various bug tracking systems in Emacs||
-|29|[@codesuki](https://github.com/codesuki)/[**add-node-modules-path**](https://github.com/codesuki/add-node-modules-path)|Adds the node_modules/.bin directory to the buffer exec_path. E.g. support project local eslint installations.||
 |29|[@naota](https://github.com/naota)/[**navi2ch**](https://github.com/naota/navi2ch)|Navi2ch is a navigator for 2ch which works on many Emacsen like GNU Emacs, XEmacs, and Meadow.|[:arrow_upper_right:](http://navi2ch.sourceforge.net)|
 |29|[@yukihr](https://github.com/yukihr)/[**Warp**](https://github.com/yukihr/Warp)|Web Article Realtime Preview for Emacs||
 |28|[@ShingoFukuyama](https://github.com/ShingoFukuyama)/[**manage-minor-mode**](https://github.com/ShingoFukuyama/manage-minor-mode)|Manage your minor-mode on the dedicated interface buffer. Emacs.||
@@ -91,10 +91,10 @@
 |26|[@daichirata](https://github.com/daichirata)/[**emacs-rotate**](https://github.com/daichirata/emacs-rotate)|Rotate the layout of emacs.||
 |26|[@k1LoW](https://github.com/k1LoW)/[**emacs-drill-instructor**](https://github.com/k1LoW/emacs-drill-instructor)|Enforce key-bind of Emacs. a.k.a 鬼軍曹.el|[:arrow_upper_right:](http://wiki.github.com/k1LoW/emacs-drill-instructor)|
 |26|[@syohex](https://github.com/syohex)/[**emacs-helm-themes**](https://github.com/syohex/emacs-helm-themes)|Emacs theme selection with helm interface||
+|26|[@zk-phi](https://github.com/zk-phi)/[**phi-grep**](https://github.com/zk-phi/phi-grep)|[Emacs] interactively-editable recursive grep implementation in elisp||
 |26|[@zk-phi](https://github.com/zk-phi)/[**setup**](https://github.com/zk-phi/setup)|[Emacs] helper macros to write faster, portable and robust init script||
 |25|[@syohex](https://github.com/syohex)/[**emacs-ac-etags**](https://github.com/syohex/emacs-ac-etags)|etags/ctags completion source for auto-complete||
 |25|[@syohex](https://github.com/syohex)/[**emacs-go-direx**](https://github.com/syohex/emacs-go-direx)|Tree style source code viewer for Go language||
-|25|[@zk-phi](https://github.com/zk-phi)/[**phi-grep**](https://github.com/zk-phi/phi-grep)|[Emacs] interactively-editable recursive grep implementation in elisp||
 |24|[@ShingoFukuyama](https://github.com/ShingoFukuyama)/[**emaXcode**](https://github.com/ShingoFukuyama/emaXcode)|My Emacs setting for Objective-C, Xcode||
 |24|[@ainame](https://github.com/ainame)/[**smart-newline.el**](https://github.com/ainame/smart-newline.el)|The smart-newline.el provide a stress-less newline command for programmer. ||
 |24|[@syohex](https://github.com/syohex)/[**emacs-ac-emoji**](https://github.com/syohex/emacs-ac-emoji)|auto-complete source of Emoji||
@@ -112,25 +112,25 @@
 |21|[@zk-phi](https://github.com/zk-phi)/[**spray**](https://github.com/zk-phi/spray)|[Emacs] an elisp implementation of OpenSpritz||
 |20|[@masutaka](https://github.com/masutaka)/[**emacs-helm-ghq**](https://github.com/masutaka/emacs-helm-ghq)|ghq with helm interface||
 |19|[@aki2o](https://github.com/aki2o)/[**auto-complete-nxml**](https://github.com/aki2o/auto-complete-nxml)|Provide a interface for auto-complete.el on nXML-mode||
-|19|[@aki2o](https://github.com/aki2o)/[**emacs-pophint**](https://github.com/aki2o/emacs-pophint)|Provide navigation like the Vimperator/KeySnail Hint Mode of Firfox||
 |19|[@aki2o](https://github.com/aki2o)/[**org-ac**](https://github.com/aki2o/org-ac)|Provide auto-complete sources for org-mode.||
 |19|[@kosh04](https://github.com/kosh04)/[**newlisp-mode**](https://github.com/kosh04/newlisp-mode)|newLISP editing mode for Emacs.||
 |19|[@twada](https://github.com/twada)/[**org-html5presentation.el**](https://github.com/twada/org-html5presentation.el)|HTML5 Presentation export for Org-mode||
+|19|[@zk-phi](https://github.com/zk-phi)/[**lenlen-theme**](https://github.com/zk-phi/lenlen-theme)|[Emacs] a solarized-based kawaii light theme||
+|18|[@aki2o](https://github.com/aki2o)/[**emacs-pophint**](https://github.com/aki2o/emacs-pophint)|Provide navigation like the Vimperator/KeySnail Hint Mode of Firfox||
 |18|[@gongo](https://github.com/gongo)/[**qiita-el**](https://github.com/gongo/qiita-el)|Qiita API Library for emacs||
 |18|[@k1LoW](https://github.com/k1LoW)/[**emacs-titanium**](https://github.com/k1LoW/emacs-titanium)|Minor Mode for editing Titanium code in Emacs||
 |18|[@mori-dev](https://github.com/mori-dev)/[**scratch-log**](https://github.com/mori-dev/scratch-log)|||
 |18|[@myuhe](https://github.com/myuhe)/[**ess-R-data-view.el**](https://github.com/myuhe/ess-R-data-view.el)|data viewer for GNU R||
 |18|[@yasuyk](https://github.com/yasuyk)/[**ac-helm**](https://github.com/yasuyk/ac-helm)|Helm interface for auto-complete||
 |18|[@zk-phi](https://github.com/zk-phi)/[**ac-c-headers**](https://github.com/zk-phi/ac-c-headers)|[emacs] auto-complete source for C headers and symbols in headers||
-|18|[@zk-phi](https://github.com/zk-phi)/[**lenlen-theme**](https://github.com/zk-phi/lenlen-theme)|[Emacs] a solarized-based kawaii light theme||
 |17|[@kozo2](https://github.com/kozo2)/[**emacs-bundle**](https://github.com/kozo2/emacs-bundle)|emacs version of vundle.vim||
 |17|[@syohex](https://github.com/syohex)/[**emacs-codic**](https://github.com/syohex/emacs-codic)|Codic for Emacs||
 |17|[@yashi](https://github.com/yashi)/[**org-asciidoc**](https://github.com/yashi/org-asciidoc)|An org-mode exporter backend for AsciiDoc||
 |17|[@yasuyk](https://github.com/yasuyk)/[**cdnjs.el**](https://github.com/yasuyk/cdnjs.el)|A front end for http://cdnjs.com||
+|17|[@zk-phi](https://github.com/zk-phi)/[**cedit**](https://github.com/zk-phi/cedit)|[emacs] [experimental] paredit-like commands for C-like languages||
 |16|[@ShingoFukuyama](https://github.com/ShingoFukuyama)/[**emacs-emoji-cheat-sheet**](https://github.com/ShingoFukuyama/emacs-emoji-cheat-sheet)|You can choose emojis (listed on http://www.emoji-cheat-sheet.com/) from emacs :open_mouth:||
 |16|[@kiwanami](https://github.com/kiwanami)/[**emacs-id-manager**](https://github.com/kiwanami/emacs-id-manager)|ID/Password management tool for emacs users||
 |16|[@zk-phi](https://github.com/zk-phi)/[**bfbuilder**](https://github.com/zk-phi/bfbuilder)|[Emacs] A brainfuck development environment with interactive debugger||
-|16|[@zk-phi](https://github.com/zk-phi)/[**cedit**](https://github.com/zk-phi/cedit)|[emacs] [experimental] paredit-like commands for C-like languages||
 |16|[@zonuexe](https://github.com/zonuexe)/[**right-click-context**](https://github.com/zonuexe/right-click-context)|Emacs Right Click Context menu|[:arrow_upper_right:](https://www.emacswiki.org/emacs/ZonuExe)|
 |15|[@aki2o](https://github.com/aki2o)/[**yaxception**](https://github.com/aki2o/yaxception)|Provide a framework of exception like Java for elisp||
 |15|[@hitode909](https://github.com/hitode909)/[**emacs-highlight-unique-symbol**](https://github.com/hitode909/emacs-highlight-unique-symbol)|typo finder||
@@ -140,6 +140,7 @@
 |15|[@tarao](https://github.com/tarao)/[**bundle-el**](https://github.com/tarao/bundle-el)|An el-get wrapper||
 |15|[@yoshinari-nomura](https://github.com/yoshinari-nomura)/[**epic**](https://github.com/yoshinari-nomura/epic)|Evernote Picker for Cocoa Emacs||
 |15|[@yoshinari-nomura](https://github.com/yoshinari-nomura)/[**mhc**](https://github.com/yoshinari-nomura/mhc)|MHC -- Message Harmonized Calendaring system|[:arrow_upper_right:](http://www.quickhack.net/mhc/)|
+|15|[@zk-phi](https://github.com/zk-phi)/[**highlight-stages**](https://github.com/zk-phi/highlight-stages)|[emacs] highlight staged (quasi-quoted) expressions||
 |14|[@10sr](https://github.com/10sr)/[**github-elpa**](https://github.com/10sr/github-elpa)|Build and Publish Your Own ELPA Repositories with GitHub Pages|[:arrow_upper_right:](https://10sr.github.io/github-elpa/elpa/)|
 |14|[@elim](https://github.com/elim)/[**dotemacs**](https://github.com/elim/dotemacs)|~/.emacs.d/||
 |14|[@gongo](https://github.com/gongo)/[**pokemon-emacs**](https://github.com/gongo/pokemon-emacs)|Pokemon might be in your open file....||
@@ -152,7 +153,6 @@
 |14|[@syohex](https://github.com/syohex)/[**emacs-hcl-mode**](https://github.com/syohex/emacs-hcl-mode)|Emacs major mode of HCL(Hashicorp Configuration Language)||
 |14|[@syohex](https://github.com/syohex)/[**emacs-helm-pydoc**](https://github.com/syohex/emacs-helm-pydoc)|pydoc with helm interface||
 |14|[@zk-phi](https://github.com/zk-phi)/[**electric-case**](https://github.com/zk-phi/electric-case)|[emacs] insert camelCase, snake_case words without "Shift"ing||
-|14|[@zk-phi](https://github.com/zk-phi)/[**highlight-stages**](https://github.com/zk-phi/highlight-stages)|[emacs] highlight staged (quasi-quoted) expressions||
 |13|[@fukamachi](https://github.com/fukamachi)/[**emacs-config**](https://github.com/fukamachi/emacs-config)|[OBSOLETE] More simplified version is|[:arrow_upper_right:](https://github.com/fukamachi/.emacs.d)|
 |13|[@hackers](https://github.com/hackers)/[**org-redmine**](https://github.com/hackers/org-redmine)|Redmine tools using Emacs OrgMode||
 |13|[@hitode909](https://github.com/hitode909)/[**emacs-auto-programming**](https://github.com/hitode909/emacs-auto-programming)|The Auto Programming Solution||
@@ -160,7 +160,6 @@
 |13|[@kiwanami](https://github.com/kiwanami)/[**emacs-3d-demo**](https://github.com/kiwanami/emacs-3d-demo)|||
 |13|[@myuhe](https://github.com/myuhe)/[**calfw-gcal.el**](https://github.com/myuhe/calfw-gcal.el)|||
 |13|[@myuhe](https://github.com/myuhe)/[**quick-preview.el**](https://github.com/myuhe/quick-preview.el)|Quick preview using GNOME sushi, gloobus or quick look||
-|13|[@sifue](https://github.com/sifue)/[**dotfiles**](https://github.com/sifue/dotfiles)|sifue's dotfiles|[:arrow_upper_right:](http://d.hatena.ne.jp/sifue/)|
 |13|[@syohex](https://github.com/syohex)/[**emacs-helm-github-issues**](https://github.com/syohex/emacs-helm-github-issues)|github issues with helm interface||
 |13|[@typester](https://github.com/typester)/[**emacs-config-old**](https://github.com/typester/emacs-config-old)|my ~/.emacs files||
 |13|[@zonuexe](https://github.com/zonuexe)/[**dotfiles**](https://github.com/zonuexe/dotfiles)|tadsan@zonuexe's dotfiles (.emacs, .zsh*, .profile... etc.)||
@@ -169,23 +168,25 @@
 |12|[@fukamachi](https://github.com/fukamachi)/[**.emacs.d**](https://github.com/fukamachi/.emacs.d)|My .emacs.d||
 |12|[@handlename](https://github.com/handlename)/[**dot-emacs**](https://github.com/handlename/dot-emacs)|emacs setting files||
 |12|[@handlename](https://github.com/handlename)/[**emacs-settings**](https://github.com/handlename/emacs-settings)|My .emacs file and elisp files which relations with that.|[:arrow_upper_right:](http://d.hatena.ne.jp/handlename)|
+|12|[@hchbaw](https://github.com/hchbaw)/[**eval-sexp-fu.el**](https://github.com/hchbaw/eval-sexp-fu.el)|Tiny functionality enhancements for evaluating sexps|[:arrow_upper_right:](http://wiki.github.com/hchbaw/eval-sexp-fu.el)|
 |12|[@k1LoW](https://github.com/k1LoW)/[**emacs-serverspec**](https://github.com/k1LoW/emacs-serverspec)|Serverspec minor mode||
 |12|[@kosh04](https://github.com/kosh04)/[**emacs-wandbox**](https://github.com/kosh04/emacs-wandbox)|Wandbox client for Emacs||
-|12|[@ongaeshi](https://github.com/ongaeshi)/[**auto-shell-command**](https://github.com/ongaeshi/auto-shell-command)|Run the shell command asynchronously that you specified when you save the file.||
+|12|[@sifue](https://github.com/sifue)/[**dotfiles**](https://github.com/sifue/dotfiles)|sifue's dotfiles|[:arrow_upper_right:](http://d.hatena.ne.jp/sifue/)|
 |12|[@syohex](https://github.com/syohex)/[**emacs-go-impl**](https://github.com/syohex/emacs-go-impl)|impl for Emacs||
 |12|[@syohex](https://github.com/syohex)/[**emacs-helm-ack**](https://github.com/syohex/emacs-helm-ack)|App::ack with helm interface||
 |12|[@tomoya](https://github.com/tomoya)/[**hiwin-mode**](https://github.com/tomoya/hiwin-mode)|Visible active window on Emacs||
 |12|[@uk-ar](https://github.com/uk-ar)/[**el-spec**](https://github.com/uk-ar/el-spec)|||
 |12|[@yasuyk](https://github.com/yasuyk)/[**ac-emmet**](https://github.com/yasuyk/ac-emmet)|auto-complete sources for emmet-mode's snippets||
 |12|[@yasuyk](https://github.com/yasuyk)/[**helm-go-package**](https://github.com/yasuyk/helm-go-package)|helm sources for Go programming language's package||
+|12|[@zk-phi](https://github.com/zk-phi)/[**jaword**](https://github.com/zk-phi/jaword)|[emacs] minor-mode for handling Japanese words better||
 |11|[@Kintaro](https://github.com/Kintaro)/[**dotfiles**](https://github.com/Kintaro/dotfiles)|My config files||
 |11|[@aki2o](https://github.com/aki2o)/[**emacs-vbasense**](https://github.com/aki2o/emacs-vbasense)|Provide the environment like Visual Basic Editor on Emacs||
-|11|[@hchbaw](https://github.com/hchbaw)/[**eval-sexp-fu.el**](https://github.com/hchbaw/eval-sexp-fu.el)|Tiny functionality enhancements for evaluating sexps|[:arrow_upper_right:](http://wiki.github.com/hchbaw/eval-sexp-fu.el)|
 |11|[@kiwanami](https://github.com/kiwanami)/[**emacs-inertial-scroll**](https://github.com/kiwanami/emacs-inertial-scroll)|Inertial scrolling for emacs||
 |11|[@knu](https://github.com/knu)/[**operate-on-number.el**](https://github.com/knu/operate-on-number.el)|Operate on number at point with arithmetic functions||
+|11|[@ongaeshi](https://github.com/ongaeshi)/[**auto-shell-command**](https://github.com/ongaeshi/auto-shell-command)|Run the shell command asynchronously that you specified when you save the file.||
 |11|[@uk-ar](https://github.com/uk-ar)/[**flex-autopair**](https://github.com/uk-ar/flex-autopair)|||
 |11|[@yoshinari-nomura](https://github.com/yoshinari-nomura)/[**orglue**](https://github.com/yoshinari-nomura/orglue)|More functionality to org-mode||
-|11|[@zk-phi](https://github.com/zk-phi)/[**jaword**](https://github.com/zk-phi/jaword)|[emacs] minor-mode for handling Japanese words better||
+|11|[@zk-phi](https://github.com/zk-phi)/[**scad-preview**](https://github.com/zk-phi/scad-preview)|[Emacs] Preview SCAD models in real-time in Emacs||
 |10|[@KeenS](https://github.com/KeenS)/[**stylefmt.el**](https://github.com/KeenS/stylefmt.el)|cssfmt wrapper for emacs,which is a gofmt like code formatter||
 |10|[@ganmacs](https://github.com/ganmacs)/[**jumplist**](https://github.com/ganmacs/jumplist)|Port of jumplist in vim||
 |10|[@gongo](https://github.com/gongo)/[**elfactory**](https://github.com/gongo/elfactory)|.emacs.d deploy system for gongo||
@@ -200,7 +201,7 @@
 |10|[@syohex](https://github.com/syohex)/[**emacs-pcre**](https://github.com/syohex/emacs-pcre)|libpcre binding of Emacs Lisp||
 |10|[@tarao](https://github.com/tarao)/[**el-get-lock**](https://github.com/tarao/el-get-lock)|Lock El-Get package repository versions||
 |10|[@typester](https://github.com/typester)/[**emacs-config**](https://github.com/typester/emacs-config)|||
-|10|[@zk-phi](https://github.com/zk-phi)/[**scad-preview**](https://github.com/zk-phi/scad-preview)|[Emacs] Preview SCAD models in real-time in Emacs||
+|10|[@zk-phi](https://github.com/zk-phi)/[**phi-rectangle**](https://github.com/zk-phi/phi-rectangle)|[emacs] another rectangle-mark command||
 |9|[@aki2o](https://github.com/aki2o)/[**owdriver**](https://github.com/aki2o/owdriver)|Do various action to other windows quickly in Emacs||
 |9|[@fukamachi](https://github.com/fukamachi)/[**kindly-mode**](https://github.com/fukamachi/kindly-mode)|Amazon Kindle-like view mode for Emacs.||
 |9|[@haruyama](https://github.com/haruyama)/[**Settings**](https://github.com/haruyama/Settings)|||
@@ -216,7 +217,7 @@
 |9|[@syohex](https://github.com/syohex)/[**emacs-jazzradio**](https://github.com/syohex/emacs-jazzradio)|www.jazzradio.com for Emacs||
 |9|[@uk-ar](https://github.com/uk-ar)/[**smart-region**](https://github.com/uk-ar/smart-region)|||
 |9|[@zk-phi](https://github.com/zk-phi)/[**download-region**](https://github.com/zk-phi/download-region)|[Emacs] simple in-buffer download manager for Emacs||
-|9|[@zk-phi](https://github.com/zk-phi)/[**phi-rectangle**](https://github.com/zk-phi/phi-rectangle)|[emacs] another rectangle-mark command||
+|9|[@zk-phi](https://github.com/zk-phi)/[**rpn-calc**](https://github.com/zk-phi/rpn-calc)|[emacs] quick RPN calculator for hackers||
 |9|[@zonuexe](https://github.com/zonuexe)/[**psysh.el**](https://github.com/zonuexe/psysh.el)|PsySH on Emacs, PHP interactive shell (REPL)|[:arrow_upper_right:](https://www.emacswiki.org/emacs/ZonuExe)|
 |8|[@10sr](https://github.com/10sr)/[**editorconfig-custom-majormode-el**](https://github.com/10sr/editorconfig-custom-majormode-el)|Decide major-mode from EditorConfig||
 |8|[@10sr](https://github.com/10sr)/[**switch-buffer-functions-el**](https://github.com/10sr/switch-buffer-functions-el)|Hook Run When Current Buffer Changed||
@@ -227,7 +228,6 @@
 |8|[@okkez](https://github.com/okkez)/[**dotfiles**](https://github.com/okkez/dotfiles)|my dotfiles||
 |8|[@ongaeshi](https://github.com/ongaeshi)/[**duplicate-thing**](https://github.com/ongaeshi/duplicate-thing)|Duplicate current line. Duplicate a selection when selection is active. |[:arrow_upper_right:](http://d.hatena.ne.jp/tuto0621/20120321/1332329935)|
 |8|[@syohex](https://github.com/syohex)/[**emacs-ac-racer**](https://github.com/syohex/emacs-ac-racer)|auto-complete source of racer||
-|8|[@zk-phi](https://github.com/zk-phi)/[**rpn-calc**](https://github.com/zk-phi/rpn-calc)|[emacs] quick RPN calculator for hackers||
 |8|[@zonuexe](https://github.com/zonuexe)/[**pandoc.el**](https://github.com/zonuexe/pandoc.el)|Pandoc for Emacs|[:arrow_upper_right:](https://www.emacswiki.org/emacs/ZonuExe)|
 |7|[@DQNEO](https://github.com/DQNEO)/[**dotfiles**](https://github.com/DQNEO/dotfiles)|my dot files (.gitconfig,  .emacs, .zshrc, .screenrc ..)||
 |7|[@KeenS](https://github.com/KeenS)/[**cssfmt.el**](https://github.com/KeenS/cssfmt.el)|cssfmt wrapper for emacs,which is a gofmt like code formatter||
@@ -247,7 +247,6 @@
 |7|[@mori-dev](https://github.com/mori-dev)/[**anything-myrurema**](https://github.com/mori-dev/anything-myrurema)|emacs/anything tool for myrurema||
 |7|[@mori-dev](https://github.com/mori-dev)/[**emacs-dayone**](https://github.com/mori-dev/emacs-dayone)|Utilitiy script for dayone||
 |7|[@myuhe](https://github.com/myuhe)/[**auto-complete-acr.el**](https://github.com/myuhe/auto-complete-acr.el)|auto-complete-mode extension for GNU R(statistics)||
-|7|[@n0ts](https://github.com/n0ts)/[**dotfiles**](https://github.com/n0ts/dotfiles)|My dotfiles||
 |7|[@naota](https://github.com/naota)/[**tc**](https://github.com/naota/tc)|Emacs T-Code input method||
 |7|[@snj14](https://github.com/snj14)/[**ndmacro.el**](https://github.com/snj14/ndmacro.el)|||
 |7|[@syohex](https://github.com/syohex)/[**emacs-browser-refresh**](https://github.com/syohex/emacs-browser-refresh)|Browser refresh utility||
@@ -274,13 +273,16 @@
 |6|[@mhayashi1120](https://github.com/mhayashi1120)/[**Emacs-pcsv**](https://github.com/mhayashi1120/Emacs-pcsv)|||
 |6|[@mhayashi1120](https://github.com/mhayashi1120)/[**auto-highlight-symbol-mode**](https://github.com/mhayashi1120/auto-highlight-symbol-mode)|automatic highlighting current symbol minor mode|[:arrow_upper_right:](http://github.com/mitsuo-saito/auto-highlight-symbol-mode/wiki/)|
 |6|[@mugijiru](https://github.com/mugijiru)/[**lupin-title**](https://github.com/mugijiru/lupin-title)|||
+|6|[@n0ts](https://github.com/n0ts)/[**dotfiles**](https://github.com/n0ts/dotfiles)|My dotfiles||
 |6|[@naota](https://github.com/naota)/[**gentoo-prefix-overlay**](https://github.com/naota/gentoo-prefix-overlay)|Gentoo/Prefix overlay||
 |6|[@ongaeshi](https://github.com/ongaeshi)/[**emacs-milkode**](https://github.com/ongaeshi/emacs-milkode)|Support Milkode search for Emacs.||
+|6|[@supermomonga](https://github.com/supermomonga)/[**dockerfile-emacs-daemon**](https://github.com/supermomonga/dockerfile-emacs-daemon)|||
 |6|[@syohex](https://github.com/syohex)/[**emacs-ac-tmux-complete**](https://github.com/syohex/emacs-ac-tmux-complete)|auto-complete source with content of tmux panes||
 |6|[@syohex](https://github.com/syohex)/[**emacs-helm-package**](https://github.com/syohex/emacs-helm-package)|Listing ELPA packages with helm interface||
 |6|[@syohex](https://github.com/syohex)/[**emacs-popup-complete**](https://github.com/syohex/emacs-popup-complete)|Completion with popup-el||
 |6|[@syohex](https://github.com/syohex)/[**emacs-rebuildfm**](https://github.com/syohex/emacs-rebuildfm)|A Emacs Client of rebuildfm||
 |6|[@syohex](https://github.com/syohex)/[**emacs-reverse-theme**](https://github.com/syohex/emacs-reverse-theme)|Emacs color theme of reverse(like 'emacs --reverse-video')||
+|6|[@syohex](https://github.com/syohex)/[**evil-textobj-line**](https://github.com/syohex/evil-textobj-line)|Evil Line text object||
 |6|[@takaishi](https://github.com/takaishi)/[**.emacs.d**](https://github.com/takaishi/.emacs.d)|||
 |6|[@takaishi](https://github.com/takaishi)/[**org-simple-presentation**](https://github.com/takaishi/org-simple-presentation)|||
 |6|[@tarao](https://github.com/tarao)/[**el-get-cli**](https://github.com/tarao/el-get-cli)|||
@@ -322,7 +324,6 @@
 |5|[@syohex](https://github.com/syohex)/[**emacs-octicons**](https://github.com/syohex/emacs-octicons)|Emacs octicons utility ||
 |5|[@syohex](https://github.com/syohex)/[**emacs-sound-wav**](https://github.com/syohex/emacs-sound-wav)|Play wav file||
 |5|[@syohex](https://github.com/syohex)/[**emacs-splitjoin**](https://github.com/syohex/emacs-splitjoin)|Emacs port of splitjoin.vim||
-|5|[@syohex](https://github.com/syohex)/[**evil-textobj-line**](https://github.com/syohex/evil-textobj-line)|Evil Line text object||
 |5|[@syohex](https://github.com/syohex)/[**minimum-dotfiles**](https://github.com/syohex/minimum-dotfiles)|My own minimum dotfiles||
 |5|[@syohex](https://github.com/syohex)/[**pos-tip**](https://github.com/syohex/pos-tip)|Show tooltip at point||
 |5|[@tarao](https://github.com/tarao)/[**term-plus-mux-el**](https://github.com/tarao/term-plus-mux-el)|A terminal multiplexer module for term+.el||
@@ -334,6 +335,7 @@
 |5|[@yasuyk](https://github.com/yasuyk)/[**helm-emmet**](https://github.com/yasuyk/helm-emmet)|helm sources for emmet-mode's snippets||
 |5|[@zenitani](https://github.com/zenitani)/[**elisp**](https://github.com/zenitani/elisp)|||
 |5|[@zev](https://github.com/zev)/[**nginx-mode**](https://github.com/zev/nginx-mode)|Emacs major-mode for nginx configuration files||
+|5|[@zk-phi](https://github.com/zk-phi)/[**scratch-pop**](https://github.com/zk-phi/scratch-pop)|[emacs] popup scratch buffer||
 |5|[@zonuexe](https://github.com/zonuexe)/[**twindrill-mode**](https://github.com/zonuexe/twindrill-mode)|[Twitter client for Emacs] ξ ^ω^)ξ ＜You are an idiot, really.||
 |4|[@aki2o](https://github.com/aki2o)/[**org-linkany**](https://github.com/aki2o/org-linkany)|Insert link using anything.el/helm.el on org-mode||
 |4|[@builtinnya](https://github.com/builtinnya)/[**dotfiles**](https://github.com/builtinnya/dotfiles)|My dotfiles||
@@ -375,7 +377,6 @@
 |4|[@quipper](https://github.com/quipper)/[**github-url.el**](https://github.com/quipper/github-url.el)|Create URL from current buffer and insert to kill-ring.||
 |4|[@rust](https://github.com/rust)/[**dotemacs**](https://github.com/rust/dotemacs)|My emacs lisp files.||
 |4|[@shinnya](https://github.com/shinnya)/[**dotfiles**](https://github.com/shinnya/dotfiles)|My dotfiles.||
-|4|[@supermomonga](https://github.com/supermomonga)/[**dockerfile-emacs-daemon**](https://github.com/supermomonga/dockerfile-emacs-daemon)|||
 |4|[@syohex](https://github.com/syohex)/[**emacs-gitignore**](https://github.com/syohex/emacs-gitignore)|Generate gitignore with gitignore.io||
 |4|[@takaishi](https://github.com/takaishi)/[**icloud-el**](https://github.com/takaishi/icloud-el)|||
 |4|[@takaishi](https://github.com/takaishi)/[**succor**](https://github.com/takaishi/succor)|Support your source reading life !||
@@ -386,7 +387,7 @@
 |4|[@tototoshi](https://github.com/tototoshi)/[**moomin-el**](https://github.com/tototoshi/moomin-el)|Edit MoinMoin with Emacs||
 |4|[@yasuyk](https://github.com/yasuyk)/[**flymake-yaml**](https://github.com/yasuyk/flymake-yaml)|A flymake handler for YAML||
 |4|[@yuya373](https://github.com/yuya373)/[**dotfiles**](https://github.com/yuya373/dotfiles)|||
-|4|[@zk-phi](https://github.com/zk-phi)/[**scratch-pop**](https://github.com/zk-phi/scratch-pop)|[emacs] popup scratch buffer||
+|4|[@zonuexe](https://github.com/zonuexe)/[**init-open-recentf.el**](https://github.com/zonuexe/init-open-recentf.el)|open-recentf on Emacs startup|[:arrow_upper_right:](https://www.emacswiki.org/emacs/ZonuExe)|
 |4|[@zonuexe](https://github.com/zonuexe)/[**magic-filetype.el**](https://github.com/zonuexe/magic-filetype.el)|Enhance filetype major mode|[:arrow_upper_right:](https://www.emacswiki.org/emacs/ZonuExe)|
 |4|[@zonuexe](https://github.com/zonuexe)/[**projectile-variable**](https://github.com/zonuexe/projectile-variable)|Store project local variables||
 |3|[@10sr](https://github.com/10sr)/[**prompt-text-el**](https://github.com/10sr/prompt-text-el)|Various Information in Minibuffer Prompt||
@@ -458,11 +459,12 @@
 |3|[@yewton](https://github.com/yewton)/[**garoon.el**](https://github.com/yewton/garoon.el)|A Garoon client.||
 |3|[@ymattu](https://github.com/ymattu)/[**helm-myR.el**](https://github.com/ymattu/helm-myR.el)|yet another helm interface for R||
 |3|[@yukihr](https://github.com/yukihr)/[**emacs-pow**](https://github.com/yukihr/emacs-pow)|Pow (http://pow.cx) apps management on emacs||
+|3|[@zk-phi](https://github.com/zk-phi)/[**key-chord**](https://github.com/zk-phi/key-chord)|zk-phi's fork of key-chord with `safety-interval'||
 |3|[@zk-phi](https://github.com/zk-phi)/[**phi-autopair**](https://github.com/zk-phi/phi-autopair)|[emacs] anohter simple-minded autopiar||
 |3|[@zk-phi](https://github.com/zk-phi)/[**phi-search-migemo**](https://github.com/zk-phi/phi-search-migemo)|[emacs] migemo extension for phi-search||
+|3|[@zk-phi](https://github.com/zk-phi)/[**scratch-palette**](https://github.com/zk-phi/scratch-palette)|[emacs] add notes on each files||
 |3|[@znz](https://github.com/znz)/[**dot-emacs**](https://github.com/znz/dot-emacs)|my emacs config||
 |3|[@zonuexe](https://github.com/zonuexe)/[**composer.el**](https://github.com/zonuexe/composer.el)|PHP Composer interface for Emacs|[:arrow_upper_right:](https://www.emacswiki.org/emacs/ZonuExe)|
-|3|[@zonuexe](https://github.com/zonuexe)/[**init-open-recentf.el**](https://github.com/zonuexe/init-open-recentf.el)|open-recentf on Emacs startup|[:arrow_upper_right:](https://www.emacswiki.org/emacs/ZonuExe)|
 |3|[@zonuexe](https://github.com/zonuexe)/[**shellenv-el**](https://github.com/zonuexe/shellenv-el)|We hate to repeat myself. Write setting in one place.||
 |3|[@zonuexe](https://github.com/zonuexe)/[**untitled-new-buffer.el**](https://github.com/zonuexe/untitled-new-buffer.el)|Open untitled new buffer like other text editors in Emacs||
 

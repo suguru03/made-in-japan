@@ -3,7 +3,7 @@
 |252|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
 |71|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
 |17|[@FMS-Cat](https://github.com/FMS-Cat)/[**automaton**](https://github.com/FMS-Cat/automaton)|Animation tool with Timeline GUI for art coding||
-|17|[@frandiox](https://github.com/frandiox)/[**vue-onsenui-kitchensink**](https://github.com/frandiox/vue-onsenui-kitchensink)|Vue.js + Onsen UI Kitchen Sink Example||
+|16|[@frandiox](https://github.com/frandiox)/[**vue-onsenui-kitchensink**](https://github.com/frandiox/vue-onsenui-kitchensink)|Vue.js + Onsen UI Kitchen Sink Example||
 |8|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
 |7|[@ktsn](https://github.com/ktsn)/[**typescript-webpack-simple**](https://github.com/ktsn/typescript-webpack-simple)|A simple TypeScript + Webpack + vue-loader setup.||
 |7|[@sho-yamane](https://github.com/sho-yamane)/[**nuxt-hp**](https://github.com/sho-yamane/nuxt-hp)|||

@@ -1,25 +1,25 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|9646|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|1682|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
-|223|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
+|9706|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|1687|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|225|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |134|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
-|67|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
-|59|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
-|47|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-driver-detection**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
+|68|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
+|61|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
+|48|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-driver-detection**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
 |43|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
 |42|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb**](https://github.com/nagadomi/kaggle-ndsb)|Code for National Data Science Bowl. 10th place.||
 |40|[@umegaya](https://github.com/umegaya)/[**ffiex**](https://github.com/umegaya/ffiex)|extend luajit ffi module to give more affinity to C codes||
-|34|[@hnakamur](https://github.com/hnakamur)/[**luajit-examples**](https://github.com/hnakamur/luajit-examples)|my example codes for LuaJIT||
+|35|[@hnakamur](https://github.com/hnakamur)/[**luajit-examples**](https://github.com/hnakamur/luajit-examples)|my example codes for LuaJIT||
 |30|[@kengonakajima](https://github.com/kengonakajima)/[**lua-msgpack**](https://github.com/kengonakajima/lua-msgpack)|msgpack implementation by pure Lua (5.1) works without LuajJIT and FFI.||
 |23|[@kengonakajima](https://github.com/kengonakajima)/[**luvit-mysql**](https://github.com/kengonakajima/luvit-mysql)|Luvit port of node-mysql||
 |19|[@hetima](https://github.com/hetima)/[**hammerspoon-hyperex**](https://github.com/hetima/hammerspoon-hyperex)|Hammerspoon configuration library which provides yet another modifier key.||
-|19|[@kenchan](https://github.com/kenchan)/[**dotfiles**](https://github.com/kenchan/dotfiles)|kenchan's dotfiles.||
+|18|[@kenchan](https://github.com/kenchan)/[**dotfiles**](https://github.com/kenchan/dotfiles)|kenchan's dotfiles.||
 |16|[@nitoyon](https://github.com/nitoyon)/[**lua-console-lightroom-plugin**](https://github.com/nitoyon/lua-console-lightroom-plugin)|"Lua Console" plugin for Lightroom 3.0+||
 |13|[@miurahr](https://github.com/miurahr)/[**lua-nginx-osm**](https://github.com/miurahr/lua-nginx-osm)|OpenStreetMap extension for Nginx Lua module||
+|13|[@tenntenn](https://github.com/tenntenn)/[**lupe**](https://github.com/tenntenn/lupe)|LUPE - Lua Debugger||
 |12|[@hetima](https://github.com/hetima)/[**hammerspoon-foundation_remapping**](https://github.com/hetima/hammerspoon-foundation_remapping)|Hammerspoon configuration script which remaps any keys for Sierra.||
 |12|[@safx](https://github.com/safx)/[**LightroomPlugin-ClarifaiTagger**](https://github.com/safx/LightroomPlugin-ClarifaiTagger)|A Lightroom plugin suggests keywords of photo for you||
-|12|[@tenntenn](https://github.com/tenntenn)/[**lupe**](https://github.com/tenntenn/lupe)|LUPE - Lua Debugger||
 |11|[@toshi-k](https://github.com/toshi-k)/[**kaggle-santander-customer-satisfaction**](https://github.com/toshi-k/kaggle-santander-customer-satisfaction)|44th place solution in "Santander Customer Satisfaction"||
 |10|[@naoya](https://github.com/naoya)/[**hammerspoon-init**](https://github.com/naoya/hammerspoon-init)|||
 |9|[@kengonakajima](https://github.com/kengonakajima)/[**luajit-mysql**](https://github.com/kengonakajima/luajit-mysql)|MySQL binding for LuaJIT with FFI||

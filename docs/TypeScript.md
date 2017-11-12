@@ -1,46 +1,46 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1760|[@rhysd](https://github.com/rhysd)/[**NyaoVim**](https://github.com/rhysd/NyaoVim)|Web-enhanced Extensible Neovim Frontend||
-|998|[@idiotWu](https://github.com/idiotWu)/[**smooth-scrollbar**](https://github.com/idiotWu/smooth-scrollbar)|Customizable, Pluginable, and High Performance Scrollbars!|[:arrow_upper_right:](https://idiotwu.github.io/smooth-scrollbar/)|
-|686|[@kazuhikoarase](https://github.com/kazuhikoarase)/[**qrcode-generator**](https://github.com/kazuhikoarase/qrcode-generator)|QR Code Generator implementation in JavaScript, Java and more.|[:arrow_upper_right:](https://kazuhikoarase.github.io/qrcode-generator/)|
+|1769|[@rhysd](https://github.com/rhysd)/[**NyaoVim**](https://github.com/rhysd/NyaoVim)|Web-enhanced Extensible Neovim Frontend||
+|1012|[@idiotWu](https://github.com/idiotWu)/[**smooth-scrollbar**](https://github.com/idiotWu/smooth-scrollbar)|Customizable, Pluginable, and High Performance Scrollbars!|[:arrow_upper_right:](https://idiotwu.github.io/smooth-scrollbar/)|
+|688|[@kazuhikoarase](https://github.com/kazuhikoarase)/[**qrcode-generator**](https://github.com/kazuhikoarase/qrcode-generator)|QR Code Generator implementation in JavaScript, Java and more.|[:arrow_upper_right:](https://kazuhikoarase.github.io/qrcode-generator/)|
 |544|[@rhysd](https://github.com/rhysd)/[**Shiba**](https://github.com/rhysd/Shiba)|Rich markdown live preview app with linter||
-|455|[@ahomu](https://github.com/ahomu)/[**Talkie**](https://github.com/ahomu/Talkie)|Simple slide presentation library. Responsive scaling & markdown ready.|[:arrow_upper_right:](http://ahomu.github.io/Talkie/)|
-|308|[@vvakame](https://github.com/vvakame)/[**typescript-formatter**](https://github.com/vvakame/typescript-formatter)|Formatter of TypeScript code||
-|274|[@rhysd](https://github.com/rhysd)/[**Mstdn**](https://github.com/rhysd/Mstdn)|Tiny web-based mastodon client for your desktop||
+|456|[@ahomu](https://github.com/ahomu)/[**Talkie**](https://github.com/ahomu/Talkie)|Simple slide presentation library. Responsive scaling & markdown ready.|[:arrow_upper_right:](http://ahomu.github.io/Talkie/)|
+|309|[@vvakame](https://github.com/vvakame)/[**typescript-formatter**](https://github.com/vvakame/typescript-formatter)|Formatter of TypeScript code||
+|277|[@rhysd](https://github.com/rhysd)/[**Mstdn**](https://github.com/rhysd/Mstdn)|Tiny web-based mastodon client for your desktop||
 |221|[@noraesae](https://github.com/noraesae)/[**koko**](https://github.com/noraesae/koko)|Yet another IRC client for me and you :koko:|[:arrow_upper_right:](https://github.com/noraesae/koko)|
 |206|[@aioutecism](https://github.com/aioutecism)/[**amVim-for-VSCode**](https://github.com/aioutecism/amVim-for-VSCode)|The Vim mode for Visual Studio Code(vscode) that works as expected.|[:arrow_upper_right:](https://marketplace.visualstudio.com/items/auiworks.amvim)|
 |152|[@rhysd](https://github.com/rhysd)/[**Trendy**](https://github.com/rhysd/Trendy)|Menubar app to keep you in the loop of GitHub trends :octocat:|[:arrow_upper_right:](http://rhysd.github.io/Trendy/)|
-|129|[@Quramy](https://github.com/Quramy)/[**ts-graphql-plugin**](https://github.com/Quramy/ts-graphql-plugin)|TypeScript Language Service Plugin for GraphQL developers||
-|115|[@ktsn](https://github.com/ktsn)/[**vuex-class**](https://github.com/ktsn/vuex-class)|Binding helpers for Vuex and vue-class-component||
+|134|[@Quramy](https://github.com/Quramy)/[**ts-graphql-plugin**](https://github.com/Quramy/ts-graphql-plugin)|TypeScript Language Service Plugin for GraphQL developers||
+|117|[@ktsn](https://github.com/ktsn)/[**vuex-class**](https://github.com/ktsn/vuex-class)|Binding helpers for Vuex and vue-class-component||
+|110|[@rhysd](https://github.com/rhysd)/[**neovim-component**](https://github.com/rhysd/neovim-component)|<neovim-editor> WebComponent to embed Neovim to your app with great ease|[:arrow_upper_right:](https://github.com/rhysd/NyaoVim)|
 |107|[@rhysd](https://github.com/rhysd)/[**electron-about-window**](https://github.com/rhysd/electron-about-window)|'About This App' mini-window for Electron apps|[:arrow_upper_right:](https://www.npmjs.com/package/about-window)|
-|107|[@rhysd](https://github.com/rhysd)/[**neovim-component**](https://github.com/rhysd/neovim-component)|<neovim-editor> WebComponent to embed Neovim to your app with great ease|[:arrow_upper_right:](https://github.com/rhysd/NyaoVim)|
-|85|[@yoshiko-pg](https://github.com/yoshiko-pg)/[**your-name**](https://github.com/yoshiko-pg/your-name)|ConnpassのURLから参加者の名札を印刷できます。|[:arrow_upper_right:](https://yoshiko-pg.github.io/your-name/)|
+|86|[@yoshiko-pg](https://github.com/yoshiko-pg)/[**your-name**](https://github.com/yoshiko-pg/your-name)|ConnpassのURLから参加者の名札を印刷できます。|[:arrow_upper_right:](https://yoshiko-pg.github.io/your-name/)|
 |84|[@vvakame](https://github.com/vvakame)/[**dtsm**](https://github.com/vvakame/dtsm)|The .d.ts manager||
 |80|[@laco0416](https://github.com/laco0416)/[**ng-dynamic**](https://github.com/laco0416/ng-dynamic)|dynamic contents projection in Angular||
 |78|[@rhysd](https://github.com/rhysd)/[**YourFukurou**](https://github.com/rhysd/YourFukurou)|Hackable YoruFukurou alternative Twitter client||
-|57|[@JayChase](https://github.com/JayChase)/[**angular2-useful-swiper**](https://github.com/JayChase/angular2-useful-swiper)|Use iDangero.us' great slider, Swiper in Angular 2.||
+|60|[@JayChase](https://github.com/JayChase)/[**angular2-useful-swiper**](https://github.com/JayChase/angular2-useful-swiper)|Use iDangero.us' great slider, Swiper in Angular 2.||
+|57|[@emonkak](https://github.com/emonkak)/[**feedpon**](https://github.com/emonkak/feedpon)|A feed reader which was developed for me||
 |57|[@kazuki](https://github.com/kazuki)/[**opus.js-sample**](https://github.com/kazuki/opus.js-sample)|Javascript Opus Encoder/Decoder, Speexdsp based Resampler and WebAudio Player Sample||
-|54|[@emonkak](https://github.com/emonkak)/[**feedpon**](https://github.com/emonkak/feedpon)|A feed reader which was developed for me||
 |54|[@horiuchi](https://github.com/horiuchi)/[**dtsgenerator**](https://github.com/horiuchi/dtsgenerator)|TypeScript d.ts file generate from JSON Schema file||
 |53|[@ktsn](https://github.com/ktsn)/[**vuex-assert**](https://github.com/ktsn/vuex-assert)|Assertion for Vuex state||
 |42|[@jmatsu](https://github.com/jmatsu)/[**vector-drawable-previewer**](https://github.com/jmatsu/vector-drawable-previewer)|Preview VectorDrawable files on Chrome.||
 |41|[@crescware](https://github.com/crescware)/[**walts**](https://github.com/crescware/walts)|One-way pub/sub architecture for Angular 2||
 |40|[@azu](https://github.com/azu)/[**immutable-array-prototype**](https://github.com/azu/immutable-array-prototype)|A collection of Immutable Array prototype methods(Per method packages).||
 |40|[@joe-re](https://github.com/joe-re)/[**cafe-pitch**](https://github.com/joe-re/cafe-pitch)|Markdown-driven presentation tool built on Electron.||
+|40|[@kazuki](https://github.com/kazuki)/[**video-codec.js**](https://github.com/kazuki/video-codec.js)|JavaScript Video Encoder/Decoder Sample (daala/libvpx/openH264 compiled with emscripten to JavaScript)||
 |40|[@ktsn](https://github.com/ktsn)/[**vuex-reducer**](https://github.com/ktsn/vuex-reducer)|Reducer in Vuex||
-|38|[@kazuki](https://github.com/kazuki)/[**video-codec.js**](https://github.com/kazuki/video-codec.js)|JavaScript Video Encoder/Decoder Sample (daala/libvpx/openH264 compiled with emscripten to JavaScript)||
-|38|[@mysticatea](https://github.com/mysticatea)/[**vue-eslint-parser**](https://github.com/mysticatea/vue-eslint-parser)|The ESLint custom parser for `.vue` files.||
-|37|[@ktsn](https://github.com/ktsn)/[**vuex-local**](https://github.com/ktsn/vuex-local)|Local state management within Vuex||
+|40|[@mysticatea](https://github.com/mysticatea)/[**vue-eslint-parser**](https://github.com/mysticatea/vue-eslint-parser)|The ESLint custom parser for `.vue` files.||
+|38|[@ktsn](https://github.com/ktsn)/[**vuex-local**](https://github.com/ktsn/vuex-local)|Local state management within Vuex||
 |35|[@vvakame](https://github.com/vvakame)/[**prh**](https://github.com/vvakame/prh)|proofreading helper||
 |34|[@3846masa](https://github.com/3846masa)/[**node-linebot**](https://github.com/3846masa/node-linebot)|LINE BOT API wrapper for Node.js||
 |34|[@laco0416](https://github.com/laco0416)/[**angular2-component-outlet**](https://github.com/laco0416/angular2-component-outlet)|Angular2 dynamic component outlet||
-|33|[@shiwano](https://github.com/shiwano)/[**typhen**](https://github.com/shiwano/typhen)|:cyclone: Generates code or documentation from TypeScript.||
+|34|[@shiwano](https://github.com/shiwano)/[**typhen**](https://github.com/shiwano/typhen)|:cyclone: Generates code or documentation from TypeScript.||
 |32|[@rhysd](https://github.com/rhysd)/[**Chromenu**](https://github.com/rhysd/Chromenu)|Mobile Chrome in your menubar||
 |31|[@yaakaito](https://github.com/yaakaito)/[**monapt**](https://github.com/yaakaito/monapt)|Like Scala Monads for TypeScript and JavaScript||
-|30|[@Quramy](https://github.com/Quramy)/[**graphql-decorator**](https://github.com/Quramy/graphql-decorator)|||
 |30|[@azu](https://github.com/azu)/[**faao**](https://github.com/azu/faao)|Faao is a GitHub issue/pull-request client on Electron.|[:arrow_upper_right:](https://azu.github.io/faao/)|
 |30|[@nobuoka](https://github.com/nobuoka)/[**GifWriter.js**](https://github.com/nobuoka/GifWriter.js)|GIF (version 89a) Encoder written in TypeScript|[:arrow_upper_right:](http://nobuoka.github.io/GifWriter.js/)|
-|28|[@ktsn](https://github.com/ktsn)/[**sinai**](https://github.com/ktsn/sinai)|Type safe state management inspired by Vuex||
+|29|[@Quramy](https://github.com/Quramy)/[**graphql-decorator**](https://github.com/Quramy/graphql-decorator)|||
+|29|[@ktsn](https://github.com/ktsn)/[**sinai**](https://github.com/ktsn/sinai)|Type safe state management inspired by Vuex||
 |28|[@rhysd](https://github.com/rhysd)/[**Tui**](https://github.com/rhysd/Tui)|Twitter client based on mobile.twitter.com in menu bar||
 |27|[@Kuniwak](https://github.com/Kuniwak)/[**html-dnd**](https://github.com/Kuniwak/html-dnd)|HTML Drag and Drop Simulator for E2E testing||
 |24|[@Quramy](https://github.com/Quramy)/[**ng2-lazy-load-demo**](https://github.com/Quramy/ng2-lazy-load-demo)|A sample repository for Angular2 lazy module loading||
@@ -49,18 +49,18 @@
 |22|[@ktsn](https://github.com/ktsn)/[**vue-vnode-helper**](https://github.com/ktsn/vue-vnode-helper)|Helpers for Vue's createElement inspired by hyperscript-helpers||
 |22|[@mattn](https://github.com/mattn)/[**vscode-runner**](https://github.com/mattn/vscode-runner)||[:arrow_upper_right:](https://marketplace.visualstudio.com/items/mattn.Runner)|
 |22|[@uryyyyyyy](https://github.com/uryyyyyyy)/[**react-redux-sample**](https://github.com/uryyyyyyy/react-redux-sample)|react/redux/Typescript sample. if you have question -> https://twitter.com/uryyyyyyy||
-|20|[@ktsn](https://github.com/ktsn)/[**vue-canvas**](https://github.com/ktsn/vue-canvas)|Declarative canvas rendering using Vue.js||
+|21|[@ktsn](https://github.com/ktsn)/[**vue-canvas**](https://github.com/ktsn/vue-canvas)|Declarative canvas rendering using Vue.js||
 |20|[@vvakame](https://github.com/vvakame)/[**language-review**](https://github.com/vvakame/language-review)|Re:VIEW support for Atom|[:arrow_upper_right:](https://atom.io/packages/language-review)|
 |20|[@yaakaito](https://github.com/yaakaito)/[**typescript-dddbase**](https://github.com/yaakaito/typescript-dddbase)|TypeScript DDD base modules||
 |19|[@JakeJP](https://github.com/JakeJP)/[**FlashAirJS**](https://github.com/JakeJP/FlashAirJS)|FlashAir(TM) Javascript Client Library||
 |19|[@motemen](https://github.com/motemen)/[**gas-slack-log-spreadsheet**](https://github.com/motemen/gas-slack-log-spreadsheet)|||
 |18|[@TsuyoshiUshio](https://github.com/TsuyoshiUshio)/[**KubernetesTask**](https://github.com/TsuyoshiUshio/KubernetesTask)|Kubernetes Task for Visual Studio Team Services ||
+|18|[@rhysd](https://github.com/rhysd)/[**electron-in-page-search**](https://github.com/rhysd/electron-in-page-search)|Module to introduce Electron's in-page search||
 |17|[@Keats](https://github.com/Keats)/[**react-ts-boilerplate**](https://github.com/Keats/react-ts-boilerplate)|A React + Typescript + Sass boilerplate||
 |17|[@Quramy](https://github.com/Quramy)/[**typescript-css-modules-demo**](https://github.com/Quramy/typescript-css-modules-demo)|A working demo of CSS Modules, using TypeScript, css-modulesify and typed-css-modules|[:arrow_upper_right:](http://quramy.github.io/typescript-css-modules-demo/)|
 |17|[@idiotWu](https://github.com/idiotWu)/[**tweet2gif**](https://github.com/idiotWu/tweet2gif)|Download videos in tweets as GIFs||
 |17|[@likr](https://github.com/likr)/[**interactive-sem**](https://github.com/likr/interactive-sem)|Interactive SEM|[:arrow_upper_right:](http://likr.github.io/interactive-sem/)|
 |17|[@likr](https://github.com/likr)/[**isem**](https://github.com/likr/isem)|Interactive SEM|[:arrow_upper_right:](https://isem.likr-lab.com/)|
-|17|[@rhysd](https://github.com/rhysd)/[**electron-in-page-search**](https://github.com/rhysd/electron-in-page-search)|Module to introduce Electron's in-page search||
 |16|[@JayChase](https://github.com/JayChase)/[**angular2-highlight-js**](https://github.com/JayChase/angular2-highlight-js)|highlight.js integration with Angular2.||
 |16|[@azu](https://github.com/azu)/[**irodr**](https://github.com/azu/irodr)|RSS reader client like LDR for Inoreader.|[:arrow_upper_right:](http://irodr.netlify.com/)|
 |16|[@laco0416](https://github.com/laco0416)/[**angular-modules-example**](https://github.com/laco0416/angular-modules-example)|ng new -> new NgModule -> Lazy Loading||
@@ -68,34 +68,35 @@
 |15|[@laco0416](https://github.com/laco0416)/[**light-ts-loader**](https://github.com/laco0416/light-ts-loader)|:zap: light weight & lightning fast TypeScript loader :zap:||
 |14|[@bouzuya](https://github.com/bouzuya)/[**b-o-a**](https://github.com/bouzuya/b-o-a)|A web application framework using RxJS 5 (alpha) |[:arrow_upper_right:](https://www.npmjs.com/package/b-o-a)|
 |14|[@bouzuya](https://github.com/bouzuya)/[**beater**](https://github.com/bouzuya/beater)|bouzuya's easy test runner|[:arrow_upper_right:](https://www.npmjs.com/package/beater)|
+|14|[@mike-north](https://github.com/mike-north)/[**typescript-fundamentals**](https://github.com/mike-north/typescript-fundamentals)| 👨‍🏫 Mike's TypeScript Fundamentals Course||
 |14|[@runceel](https://github.com/runceel)/[**plantumlpreview**](https://github.com/runceel/plantumlpreview)|||
 |14|[@seanchas116](https://github.com/seanchas116)/[**sketch-glass**](https://github.com/seanchas116/sketch-glass)|Simple & fast realtime online whiteboard powered by WebGL and Google Drive|[:arrow_upper_right:](http://seanchas116.github.io/sketch-glass/)|
 |13|[@Quramy](https://github.com/Quramy)/[**angular-puppeteer-demo**](https://github.com/Quramy/angular-puppeteer-demo)|A demonstration repository explains how to using Puppeteer in unit testing||
+|13|[@Quramy](https://github.com/Quramy)/[**lerna-yarn-workspaces-example**](https://github.com/Quramy/lerna-yarn-workspaces-example)|How to build TypeScript mono-repo project with yarn and lerna||
 |13|[@armorik83](https://github.com/armorik83)/[**ngx-testbedder**](https://github.com/armorik83/ngx-testbedder)|CLI tool for writing the test bed for Angular integration test||
+|13|[@bouzuya](https://github.com/bouzuya)/[**cookie-storage**](https://github.com/bouzuya/cookie-storage)|A Web Storage interface for Cookie|[:arrow_upper_right:](https://www.npmjs.com/package/cookie-storage)|
 |13|[@ktsn](https://github.com/ktsn)/[**vuetype**](https://github.com/ktsn/vuetype)|Generate TypeScript declaration files for .vue files||
 |13|[@motemen](https://github.com/motemen)/[**chrome-Flavoured-Favicon**](https://github.com/motemen/chrome-Flavoured-Favicon)|Change color tastes of favicons by their domains|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/flavoured-favicon/dlegfippiljfbacmikdigaimfngdibgh)|
 |13|[@mshr-h](https://github.com/mshr-h)/[**vscode-systemverilog-support**](https://github.com/mshr-h/vscode-systemverilog-support)|SystemVerilog support for VS Code||
+|13|[@rhysd](https://github.com/rhysd)/[**node-github-trend**](https://github.com/rhysd/node-github-trend)|node.js library for scraping GitHub trending repositories.||
 |13|[@vvakame](https://github.com/vvakame)/[**commandpost**](https://github.com/vvakame/commandpost)|command line option parser for Node.js||
 |13|[@vvakame](https://github.com/vvakame)/[**gapidts**](https://github.com/vvakame/gapidts)|TypeScript definition file generator for Google APIs Discovery Service||
-|12|[@bouzuya](https://github.com/bouzuya)/[**cookie-storage**](https://github.com/bouzuya/cookie-storage)|A Web Storage interface for Cookie|[:arrow_upper_right:](https://www.npmjs.com/package/cookie-storage)|
 |12|[@k--kato](https://github.com/k--kato)/[**vscode-docomment**](https://github.com/k--kato/vscode-docomment)|Generate XML documentation comments for Visual Studio Code|[:arrow_upper_right:](https://marketplace.visualstudio.com/items/k--kato.docomment)|
-|12|[@mike-north](https://github.com/mike-north)/[**typescript-fundamentals**](https://github.com/mike-north/typescript-fundamentals)| 👨‍🏫 Mike's TypeScript Fundamentals Course||
-|12|[@rhysd](https://github.com/rhysd)/[**node-github-trend**](https://github.com/rhysd/node-github-trend)|node.js library for scraping GitHub trending repositories.||
-|12|[@y13i](https://github.com/y13i)/[**serverless-ts-boilerplate**](https://github.com/y13i/serverless-ts-boilerplate)|Example project built with TypeScript, Serverless Framework, Webpack, TSLint, Source Map Support and Apex.js.||
+|12|[@y13i](https://github.com/y13i)/[**serverless-ts-boilerplate**](https://github.com/y13i/serverless-ts-boilerplate)|Example project built with TypeScript, Serverless Framework, Webpack, TSLint, Source Map Support and Dalamb.||
 |11|[@MisumiRize](https://github.com/MisumiRize)/[**tastespoon**](https://github.com/MisumiRize/tastespoon)|Micro infrastracture behavior testing framework||
 |11|[@bouzuya](https://github.com/bouzuya)/[**bath**](https://github.com/bouzuya/bath)|A simple path template engine|[:arrow_upper_right:](https://www.npmjs.com/package/bath)|
 |11|[@frontainer](https://github.com/frontainer)/[**ng2-start**](https://github.com/frontainer/ng2-start)|Angular2をとりあえず始めてみたい人向けのスターターキット(TypeScript & Webpack)||
+|11|[@mtsmfm](https://github.com/mtsmfm)/[**vscode-ruby-lsc**](https://github.com/mtsmfm/vscode-ruby-lsc)|ruby-lsc is a vscode extension to develop ruby application.|[:arrow_upper_right:](https://marketplace.visualstudio.com/items?itemName=mtsmfm.ruby-lsc)|
+|10|[@atsushieno](https://github.com/atsushieno)/[**vscode-language-review**](https://github.com/atsushieno/vscode-language-review)|Re:VIEW language Support for Visual Studio Code.||
 |10|[@hnw](https://github.com/hnw)/[**vscode-auto-open-markdown-preview**](https://github.com/hnw/vscode-auto-open-markdown-preview)|VSCode extension for opening Markdown-preview automatically when opening a Markdown file||
 |10|[@laco0416](https://github.com/laco0416)/[**angular2-testing-lite**](https://github.com/laco0416/angular2-testing-lite)|Jasmine-free Angular 2 Testing Library||
 |10|[@laco0416](https://github.com/laco0416)/[**c92-angular-pwa**](https://github.com/laco0416/c92-angular-pwa)||[:arrow_upper_right:](https://c92-angular-pwa.firebaseapp.com/)|
-|10|[@mtsmfm](https://github.com/mtsmfm)/[**vscode-ruby-lsc**](https://github.com/mtsmfm/vscode-ruby-lsc)|ruby-lsc is a vscode extension to develop ruby application.|[:arrow_upper_right:](https://marketplace.visualstudio.com/items?itemName=mtsmfm.ruby-lsc)|
 |10|[@pokutuna](https://github.com/pokutuna)/[**chrome-github-compaito**](https://github.com/pokutuna/chrome-github-compaito)|a chrome extension for jumping to compare view||
 |10|[@uryyyyyyy](https://github.com/uryyyyyyy)/[**js-pure-ddd**](https://github.com/uryyyyyyy/js-pure-ddd)|Frontend DDD sample without any Framework (like redux)||
 |10|[@wadahiro](https://github.com/wadahiro)/[**griddle-react-bootstrap**](https://github.com/wadahiro/griddle-react-bootstrap)|Bootstrap style for griddle-react|[:arrow_upper_right:](http://wadahiro.github.io/griddle-react-bootstrap/)|
 |9|[@Jxck](https://github.com/Jxck)/[**URLSearchParams**](https://github.com/Jxck/URLSearchParams)|implementaion of URLSearchParams at WHATWG Living Standard https://url.spec.whatwg.org/||
 |9|[@Jxck](https://github.com/Jxck)/[**utf8-encoding**](https://github.com/Jxck/utf8-encoding)|utf8 encoder/decoder of whatwg Encoding Living Standard https://encoding.spec.whatwg.org/||
 |9|[@argelius](https://github.com/argelius)/[**angular2-pokedex**](https://github.com/argelius/angular2-pokedex)|Angular 2 RC5 sample Pokémon app||
-|9|[@atsushieno](https://github.com/atsushieno)/[**vscode-language-review**](https://github.com/atsushieno/vscode-language-review)|Re:VIEW language Support for Visual Studio Code.||
 |9|[@kyo-ago](https://github.com/kyo-ago)/[**lifter**](https://github.com/kyo-ago/lifter)|||
 |9|[@motemen](https://github.com/motemen)/[**chrome-GitHub-Issue-Badges**](https://github.com/motemen/chrome-GitHub-Issue-Badges)|Chrome extension to embed GitHub Issue Badge's into GitHub issues|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/github-issue-badges/mkfiamgphibplgocbkifgcpnioogccfm)|
 |9|[@starhoshi](https://github.com/starhoshi)/[**AlcatrazSearch**](https://github.com/starhoshi/AlcatrazSearch)|Search Alcatraz better.||
@@ -115,9 +116,9 @@
 |8|[@rcjsuen](https://github.com/rcjsuen)/[**dockerfile-language-server-nodejs**](https://github.com/rcjsuen/dockerfile-language-server-nodejs)|A language server for Dockerfiles powered by NodeJS, TypeScript, and VSCode technologies.||
 |8|[@teppeis](https://github.com/teppeis)/[**bind.ts**](https://github.com/teppeis/bind.ts)|Function.prototype.bind with typings for TypeScript||
 |8|[@wadahiro](https://github.com/wadahiro)/[**bitbucket-browser**](https://github.com/wadahiro/bitbucket-browser)|Viewer for Atlassian Bitbucket (formerly Stash).||
+|8|[@ymotongpoo](https://github.com/ymotongpoo)/[**vsc-licenser**](https://github.com/ymotongpoo/vsc-licenser)|License handler extension for Visual Studio Code.||
 |7|[@KOBA789](https://github.com/KOBA789)/[**dfa-router**](https://github.com/KOBA789/dfa-router)|A simple server-side url router using Deterministic Finite Automaton.||
 |7|[@MSakamaki](https://github.com/MSakamaki)/[**rxjs-handson**](https://github.com/MSakamaki/rxjs-handson)|||
-|7|[@Quramy](https://github.com/Quramy)/[**lerna-yarn-workspaces-example**](https://github.com/Quramy/lerna-yarn-workspaces-example)|How to build TypeScript mono-repo project||
 |7|[@bokuweb](https://github.com/bokuweb)/[**rxjs-tetris**](https://github.com/bokuweb/rxjs-tetris)|DOM based rxjs tetris|[:arrow_upper_right:](https://bokuweb.github.io/rxjs-tetris/)|
 |7|[@bouzuya](https://github.com/bouzuya)/[**ts-redux-saga-ssr**](https://github.com/bouzuya/ts-redux-saga-ssr)|OBSOLETE||
 |7|[@joe-re](https://github.com/joe-re)/[**battle-ax**](https://github.com/joe-re/battle-ax)|vuex wrapper for type-safe||
@@ -126,8 +127,8 @@
 |7|[@motemen](https://github.com/motemen)/[**adsense-report-menubar**](https://github.com/motemen/adsense-report-menubar)|AdSense performance report on the menubar||
 |7|[@mshr-h](https://github.com/mshr-h)/[**vscode-verilog-hdl-support**](https://github.com/mshr-h/vscode-verilog-hdl-support)|Verilog HDL support for VS Code||
 |7|[@nukosuke](https://github.com/nukosuke)/[**annict.js**](https://github.com/nukosuke/annict.js)|:dvd: Annict API client library for JavaScript ( & TypeScript) :tv:|[:arrow_upper_right:](https://nukosuke.github.io/annict.js/)|
+|7|[@syuilo](https://github.com/syuilo)/[**cafy**](https://github.com/syuilo/cafy)|Simple, fun, flexible query-based validator||
 |7|[@taichi](https://github.com/taichi)/[**react-beautify**](https://github.com/taichi/react-beautify)|||
-|7|[@ymotongpoo](https://github.com/ymotongpoo)/[**vsc-licenser**](https://github.com/ymotongpoo/vsc-licenser)|License handler extension for Visual Studio Code.||
 |6|[@Quramy](https://github.com/Quramy)/[**nirvana-js**](https://github.com/Quramy/nirvana-js)|:zap: JavaScript file runner using Electron||
 |6|[@albatrosary](https://github.com/albatrosary)/[**start-angular**](https://github.com/albatrosary/start-angular)|Textbook - Start Angular|[:arrow_upper_right:](https://albatrosary.gitbooks.io/start-angular/content/)|
 |6|[@bokuweb](https://github.com/bokuweb)/[**rxjs-lifegame**](https://github.com/bokuweb/rxjs-lifegame)|||
@@ -138,10 +139,10 @@
 |6|[@mstssk](https://github.com/mstssk)/[**sw2dts**](https://github.com/mstssk/sw2dts)|Generates TypeScript definition file(d.ts) from swagger.json|[:arrow_upper_right:](https://www.npmjs.com/package/sw2dts)|
 |6|[@nulab](https://github.com/nulab)/[**botbuilder-typetalk**](https://github.com/nulab/botbuilder-typetalk)|Typetalk bot connector for Microsoft BotBuilder.||
 |6|[@progre](https://github.com/progre)/[**nginx-rtmp-frontend**](https://github.com/progre/nginx-rtmp-frontend)|||
+|6|[@rhysd](https://github.com/rhysd)/[**Irasutoyer**](https://github.com/rhysd/Irasutoyer)|Desktop app for Irasutoya lovers||
 |6|[@rhysd](https://github.com/rhysd)/[**Rocket**](https://github.com/rhysd/Rocket)|Graphical interface to search&launch anything||
 |6|[@rhysd](https://github.com/rhysd)/[**SoundKloud**](https://github.com/rhysd/SoundKloud)|SoundCloud Browser Integrated with Menu||
 |6|[@shirou](https://github.com/shirou)/[**vscode-dired**](https://github.com/shirou/vscode-dired)|Filer like emacs-dired for VSCode||
-|6|[@syuilo](https://github.com/syuilo)/[**cafy**](https://github.com/syuilo/cafy)|Simple, fun, flexible query-based validator||
 |6|[@tsuyoshiwada](https://github.com/tsuyoshiwada)/[**dot-wild**](https://github.com/tsuyoshiwada/dot-wild)|Use powerful dot notation (dot path + wildcard) to manipulate properties of JSON|[:arrow_upper_right:](https://tsuyoshiwada.github.io/dot-wild/)|
 |6|[@y13i](https://github.com/y13i)/[**amirotate**](https://github.com/y13i/amirotate)|Lambda functions to backup and rotate images of EC2 instance.||
 |6|[@y13i](https://github.com/y13i)/[**switz**](https://github.com/y13i/switz)|Yet another switch-like control structure.||
@@ -155,13 +156,13 @@
 |5|[@laco0416](https://github.com/laco0416)/[**ng-operators**](https://github.com/laco0416/ng-operators)|RxJS operators for Angular||
 |5|[@nulab](https://github.com/nulab)/[**backlog-js**](https://github.com/nulab/backlog-js)|Backlog API version 2 client for browser and node.|[:arrow_upper_right:](https://developer.nulab-inc.com/docs/backlog/)|
 |5|[@progre](https://github.com/progre)/[**developersyp**](https://github.com/progre/developersyp)|http://dp.prgrssv.net||
-|5|[@rhysd](https://github.com/rhysd)/[**Irasutoyer**](https://github.com/rhysd/Irasutoyer)|Desktop app for Irasutoya lovers||
 |5|[@seanchas116](https://github.com/seanchas116)/[**tparse**](https://github.com/seanchas116/tparse)|A Parser Combinator for JavaScript/TypeScript||
 |5|[@ubnt-intrepid](https://github.com/ubnt-intrepid)/[**neon-electron**](https://github.com/ubnt-intrepid/neon-electron)|A simple example of GUI application with Electron and Rust, by using neon-bindings/neon||
 |5|[@yaakaito](https://github.com/yaakaito)/[**fivefold**](https://github.com/yaakaito/fivefold)|View and routing||
 |4|[@Narazaka](https://github.com/Narazaka)/[**observable-collection.js**](https://github.com/Narazaka/observable-collection.js)|ObserbableCollection like classes for RxJS||
 |4|[@Quramy](https://github.com/Quramy)/[**ngx-zombie-compiler**](https://github.com/Quramy/ngx-zombie-compiler)|Fast JiT compiler for Angular testing||
 |4|[@Tatamo](https://github.com/Tatamo)/[**parsergenerator**](https://github.com/Tatamo/parsergenerator)|LR(1) Parser Generator written in TypeScript||
+|4|[@azu](https://github.com/azu)/[**nlp-pattern-match**](https://github.com/azu/nlp-pattern-match)|Natural Language pattern matching library for JavaScript.||
 |4|[@azu](https://github.com/azu)/[**reduce-flux**](https://github.com/azu/reduce-flux)|Reduce your <Word> by reduce-flux.||
 |4|[@bokuweb](https://github.com/bokuweb)/[**vscode-git-grep**](https://github.com/bokuweb/vscode-git-grep)|Git grep extension for Visual Studio Code|[:arrow_upper_right:](https://marketplace.visualstudio.com/items?itemName=bokuweb.vscode-git-grep)|
 |4|[@gfx](https://github.com/gfx)/[**proguard-retrace.js**](https://github.com/gfx/proguard-retrace.js)|||
@@ -184,7 +185,7 @@
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**ChickenClisp_ts**](https://github.com/alphaKAI/ChickenClisp_ts)|A minimum implementation of ChickenClisp in TypeScript||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**Orelang_TS**](https://github.com/alphaKAI/Orelang_TS)|A minimal implementation of Orelang in TypeScript||
 |3|[@atomic-package](https://github.com/atomic-package)/[**atomic-package**](https://github.com/atomic-package/atomic-package)|APB CSS (Atomic Parts Base CSS) + JavaScript framework.||
-|3|[@azu](https://github.com/azu)/[**nlp-pattern-match**](https://github.com/azu/nlp-pattern-match)|Natural Language pattern matching library for JavaScript.||
+|3|[@azu](https://github.com/azu)/[**text-map-kuromoji**](https://github.com/azu/text-map-kuromoji)|テキストを形態素解析した結果とテキストの関係をビジュアライズするエディタ|[:arrow_upper_right:](https://azu.github.io/text-map-kuromoji)|
 |3|[@bouzuya](https://github.com/bouzuya)/[**jekyll-markdown-parser**](https://github.com/bouzuya/jekyll-markdown-parser)|A Jekyll Markdown parser using TypeScript|[:arrow_upper_right:](https://www.npmjs.com/package/jekyll-markdown-parser)|
 |3|[@bouzuya](https://github.com/bouzuya)/[**rally-client-example-vuejs**](https://github.com/bouzuya/rally-client-example-vuejs)|An unofficial rally client using Vue.js|[:arrow_upper_right:](https://rally-client-example-vuejs.herokuapp.com/)|
 |3|[@bouzuya](https://github.com/bouzuya)/[**whatwg-streams-fns**](https://github.com/bouzuya/whatwg-streams-fns)|An utility library for WHATWG Streams|[:arrow_upper_right:](https://www.npmjs.com/package/whatwg-streams-fns)|
@@ -202,6 +203,7 @@
 |3|[@ovrmrw](https://github.com/ovrmrw)/[**angular-realtime-translation-presentation**](https://github.com/ovrmrw/angular-realtime-translation-presentation)|Realtime Translation Presentation using Angular and RxJS.||
 |3|[@ovrmrw](https://github.com/ovrmrw)/[**ngrx-store-simplr**](https://github.com/ovrmrw/ngrx-store-simplr)|A wrapper library for @ngrx/store to use Redux concept in an easy way.||
 |3|[@ovrmrw](https://github.com/ovrmrw)/[**savkins-angular2-rxjs-typescript-flux**](https://github.com/ovrmrw/savkins-angular2-rxjs-typescript-flux)|Rewrite of Managing State in Angular 2 Applications by Victor Savkin||
+|3|[@pine](https://github.com/pine)/[**MeteorShower**](https://github.com/pine/MeteorShower)|:star2: Do you remember all the repositories saw in the past?|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/fantastic-star-clicker/dlnjecnemdcmfbgpldflopmhifdigocb?hl=ja&gl=JP)|
 |3|[@plenprojectcompany](https://github.com/plenprojectcompany)/[**plen-MotionEditor**](https://github.com/plenprojectcompany/plen-MotionEditor)|Let PLEN move as you like! "Motion Editor" is a web based application to create easily a PLEN's motion.|[:arrow_upper_right:](http://plen.jp/playground/motion-editor/)|
 |3|[@plenprojectcompany](https://github.com/plenprojectcompany)/[**plen-ScratchX**](https://github.com/plenprojectcompany/plen-ScratchX)|Scratch X plugin to operate PLEN series robots.|[:arrow_upper_right:](http://scratchx.org/?url=https://plenprojectcompany.github.io/plen-ScratchX/plugin.js)|
 |3|[@progre](https://github.com/progre)/[**chatreader**](https://github.com/progre/chatreader)|Chat Reader for Broadcaster||

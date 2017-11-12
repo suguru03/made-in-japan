@@ -5,13 +5,14 @@
 |41|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
 |35|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
-|23|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
+|24|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
 |23|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
 |23|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2||
 |15|[@hoxo-m](https://github.com/hoxo-m)/[**dplyrr**](https://github.com/hoxo-m/dplyrr)|Utilities for comfortable use of dplyr with databases||
 |12|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RFinanceJ**](https://github.com/teramonagi/RFinanceJ)|Get the data related to finance in Japan using variety types of data sources||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RODBCDBI**](https://github.com/teramonagi/RODBCDBI)|An implementation of R's DBI interface using ODBC package as a back-end. This allows R to connect to any DBMS that has a ODBC driver.|[:arrow_upper_right:](https://cran.r-project.org/web/packages/RODBCDBI/index.html)|
+|10|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
 |10|[@yutannihilation](https://github.com/yutannihilation)/[**estatapi**](https://github.com/yutannihilation/estatapi)|R package for e-Stat API in Japan||
 |10|[@yutannihilation](https://github.com/yutannihilation)/[**highstockR**](https://github.com/yutannihilation/highstockR)|An R package to draw highstock charts. This is for demonstration purpose of htmlwidgets at 46th Tokyo.R meeting.||
 |9|[@clear-code](https://github.com/clear-code)/[**sezemi-2014-readable-code**](https://github.com/clear-code/sezemi-2014-readable-code)|SEゼミ「プログラミングが好きな学生のためのリーダブルコード勉強会」関連のデータを置くリポジトリー||
@@ -27,7 +28,6 @@
 |6|[@uribo](https://github.com/uribo)/[**jpndistrict**](https://github.com/uribo/jpndistrict)|🗾 Create Japansese Administration Area Maps|[:arrow_upper_right:](http://uribo.github.io/jpndistrict)|
 |5|[@dritoshi](https://github.com/dritoshi)/[**genesearchr**](https://github.com/dritoshi/genesearchr)|Fast full-text search in NCBI RefSeq, UniProt-KB and Genome DNA sequence||
 |5|[@hoxo-m](https://github.com/hoxo-m)/[**lambdaR**](https://github.com/hoxo-m/lambdaR)|Novel lambda expressions in R|[:arrow_upper_right:](https://github.com/hoxo-m/lambdaR)|
-|5|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
 |5|[@teramonagi](https://github.com/teramonagi)/[**oandar**](https://github.com/teramonagi/oandar)|R wrapper for the OANDA REST API (http://developer.oanda.com/rest-live/introduction/)||
 |5|[@uribo](https://github.com/uribo)/[**wakatimer**](https://github.com/uribo/wakatimer)|:hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.||
 |5|[@ymattu](https://github.com/ymattu)/[**MlBayesOpt**](https://github.com/ymattu/MlBayesOpt)|R package to tune parameters of machine learning(Support Vector Machine, Random Forest, and Xgboost), using bayesian optimization with gaussian process||

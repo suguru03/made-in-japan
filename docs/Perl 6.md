@@ -6,5 +6,6 @@
 |5|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-Parser**](https://github.com/tokuhirom/p6-HTTP-Parser)|||
 |4|[@moznion](https://github.com/moznion)/[**p6-Log-Minimal**](https://github.com/moznion/p6-Log-Minimal)|Minimal Logger for Perl6||
 |4|[@skaji](https://github.com/skaji)/[**perl6-HTTP-Tinyish**](https://github.com/skaji/perl6-HTTP-Tinyish)|||
+|3|[@akiym](https://github.com/akiym)/[**JSON-Hjson**](https://github.com/akiym/JSON-Hjson)|Human JSON (Hjson) deserializer for Perl 6||
 |3|[@cho45](https://github.com/cho45)/[**Test-Time**](https://github.com/cho45/Test-Time)|||
 

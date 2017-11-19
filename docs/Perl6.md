@@ -8,7 +8,6 @@
 |4|[@moznion](https://github.com/moznion)/[**p6-IO-Blob**](https://github.com/moznion/p6-IO-Blob)|IO:: interface for reading/writing a Blob||
 |4|[@uasi](https://github.com/uasi)/[**file-spec**](https://github.com/uasi/file-spec)|A port of the Perl 5 File::Spec module to Perl 6||
 |4|[@zigorou](https://github.com/zigorou)/[**p5-keyedmutex-memcached**](https://github.com/zigorou/p5-keyedmutex-memcached)|Keyed mutex using memcached|[:arrow_upper_right:](http://d.hatena.ne.jp/ZIGOROu/)|
-|3|[@akiym](https://github.com/akiym)/[**JSON-Hjson**](https://github.com/akiym/JSON-Hjson)|Human JSON (Hjson) deserializer for Perl 6||
 |3|[@hitode909](https://github.com/hitode909)/[**App-PerlPackage2PlantUMLClassDiagram**](https://github.com/hitode909/App-PerlPackage2PlantUMLClassDiagram)|Generates Plant UML's Class Diagram from Perl Modules||
 |3|[@imkira](https://github.com/imkira)/[**hunt-reaktor**](https://github.com/imkira/hunt-reaktor)|hunt.reaktor.com challenge||
 |3|[@mattn](https://github.com/mattn)/[**p6-Growl-GNTP**](https://github.com/mattn/p6-Growl-GNTP)|Perl6 implementation of Growl::GNTP||

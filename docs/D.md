@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |41|[@repeatedly](https://github.com/repeatedly)/[**mustache-d**](https://github.com/repeatedly/mustache-d)|Mustache template engine for D|[:arrow_upper_right:](http://mustache.github.com/)|
-|31|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
+|33|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
 |30|[@Rayerd](https://github.com/Rayerd)/[**dfl**](https://github.com/Rayerd/dfl)|This unofficial project for D2.x is a migration of D Forms Library (DFL) that is managed on SVN. DFL is a Win32 windowing library for the D programming language. We support only D2 HEAD.|[:arrow_upper_right:](http://wiki.dprogramming.com/Dfl/HomePage)|
-|26|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
+|25|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
 |24|[@thorikawa](https://github.com/thorikawa)/[**AndroidObjectRecognition**](https://github.com/thorikawa/AndroidObjectRecognition)|App to demo using android camera and recognize specific object.||
 |16|[@kotet](https://github.com/kotet)/[**progress**](https://github.com/kotet/progress)|Easy progress reporting for D||
 |13|[@repeatedly](https://github.com/repeatedly)/[**xxhash-d**](https://github.com/repeatedly/xxhash-d)|D implementation of xxhash||
@@ -17,6 +17,7 @@
 |6|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**numir**](https://github.com/ShigekiKarita/numir)|numpy-like API wrappers of mir||
 |6|[@alphaKAI](https://github.com/alphaKAI)/[**unlocker**](https://github.com/alphaKAI/unlocker)|unlock/lock your PC by touching with FeliCa||
 |6|[@karahiyo](https://github.com/karahiyo)/[**btrace**](https://github.com/karahiyo/btrace)|[https://kenai.com/projects/btrace/]'s project.||
+|6|[@kubo39](https://github.com/kubo39)/[**syscall-d**](https://github.com/kubo39/syscall-d)|syscall interface for D.|[:arrow_upper_right:](http://code.dlang.org/packages/syscall-d)|
 |6|[@shawnps](https://github.com/shawnps)/[**kanjihub**](https://github.com/shawnps/kanjihub)|a hub for kanji||
 |5|[@Pctg-x8](https://github.com/Pctg-x8)/[**nanovg-d**](https://github.com/Pctg-x8/nanovg-d)|NanoVG porting for dlang||
 |5|[@alphaKAI](https://github.com/alphaKAI)/[**twitnotify**](https://github.com/alphaKAI/twitnotify)|The Twitter Notification tool. Written in D.||
@@ -24,7 +25,6 @@
 |5|[@kazoo04](https://github.com/kazoo04)/[**libarow-d**](https://github.com/kazoo04/libarow-d)|A library for AROW linear classification||
 |5|[@kubo39](https://github.com/kubo39)/[**elfhook.d**](https://github.com/kubo39/elfhook.d)|monkey patching for shared object.||
 |5|[@kubo39](https://github.com/kubo39)/[**rikka**](https://github.com/kubo39/rikka)|anothor document database written in D||
-|5|[@kubo39](https://github.com/kubo39)/[**syscall-d**](https://github.com/kubo39/syscall-d)|syscall interface for D.|[:arrow_upper_right:](http://code.dlang.org/packages/syscall-d)|
 |5|[@namachan10777](https://github.com/namachan10777)/[**dmatch**](https://github.com/namachan10777/dmatch)|Pattern match for D Language.||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**HindleyMilnerD**](https://github.com/alphaKAI/HindleyMilnerD)|A HindleyMilner Type Inference System for mini-ML in D.||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dilo**](https://github.com/alphaKAI/dilo)|A minimal Text Editor in D Language, ported from Kilo||

@@ -35,7 +35,6 @@
 |5|[@cellfusion](https://github.com/cellfusion)/[**cellfusionAS3**](https://github.com/cellfusion/cellfusionAS3)|いままで作ったクラスを適当にまとめるリポジトリ||
 |5|[@juwalbose](https://github.com/juwalbose)/[**DynamicAtlasCeatorAirDemo**](https://github.com/juwalbose/DynamicAtlasCeatorAirDemo)|AIR version of Dynamic Texture Atlas with saving to ApplicationStorageDirectory for reuse||
 |5|[@nulab](https://github.com/nulab)/[**asclip**](https://github.com/nulab/asclip)|ActionScript library for clipboard copy||
-|5|[@tanabe](https://github.com/tanabe)/[**JSFL**](https://github.com/tanabe/JSFL)|Flash JSFL commands.||
 |5|[@yoshuki](https://github.com/yoshuki)/[**radiko**](https://github.com/yoshuki/radiko)|radiko.jp(http://radiko.jp/) プレイヤー|[:arrow_upper_right:](http://saikyoline.jp/air/radiko/)|
 |4|[@024t910](https://github.com/024t910)/[**yc2013**](https://github.com/024t910/yc2013)|||
 |4|[@Saqoosha](https://github.com/Saqoosha)/[**SimpleHTTPServer**](https://github.com/Saqoosha/SimpleHTTPServer)|GUI Frontend for python's SimpleHTTPServer module.|[:arrow_upper_right:](http://saqoo.sh/a)|
@@ -48,6 +47,7 @@
 |4|[@lyokato](https://github.com/lyokato)/[**as3emojitext**](https://github.com/lyokato/as3emojitext)|TextArea which includes some Emoji characters||
 |4|[@lyokato](https://github.com/lyokato)/[**as3oauth**](https://github.com/lyokato/as3oauth)|ActionScript 3.0 OAuth Client Library||
 |4|[@noblejasper](https://github.com/noblejasper)/[**dotfiles**](https://github.com/noblejasper/dotfiles)|dotfiles||
+|4|[@tanabe](https://github.com/tanabe)/[**JSFL**](https://github.com/tanabe/JSFL)|Flash JSFL commands.||
 |4|[@tkmr](https://github.com/tkmr)/[**as2js**](https://github.com/tkmr/as2js)|Object bridge from ActionScript 3.0 to JavaScript|[:arrow_upper_right:](http://blog.tkmr.org/as2js-test.html?twitter=tkmr&ustream=tkmr)|
 |3|[@axcelwork](https://github.com/axcelwork)/[**AXCELAS3**](https://github.com/axcelwork/AXCELAS3)|ASDoc : http://www.shift-style.org/asdoc|[:arrow_upper_right:](http://shift-style.org/blog)|
 |3|[@mackato](https://github.com/mackato)/[**rialy-flex-framework**](https://github.com/mackato/rialy-flex-framework)|RIALY(from "Building RIAs Easily") is a lightweight design pattern tool kit for Adobe Flex.|[:arrow_upper_right:](http://github.com/mackato/rialy-flex-framework)|

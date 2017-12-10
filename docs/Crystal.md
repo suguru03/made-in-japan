@@ -7,8 +7,8 @@
 |17|[@MakeNowJust](https://github.com/MakeNowJust)/[**crystal-diff**](https://github.com/MakeNowJust/crystal-diff)|A Crystal sequence differencing implementation||
 |17|[@rhysd](https://github.com/rhysd)/[**Crisp**](https://github.com/rhysd/Crisp)|Lisp dialect implemented with Crystal||
 |15|[@ne-sachirou](https://github.com/ne-sachirou)/[**git-cleanup-branch**](https://github.com/ne-sachirou/git-cleanup-branch)|[Deprecated] Cleanup Git merged branches interactively at both local and remote.||
+|13|[@MakeNowJust](https://github.com/MakeNowJust)/[**noir**](https://github.com/MakeNowJust/noir)|NOIR - Syntax Highlight Library for Crystal||
 |11|[@kubo39](https://github.com/kubo39)/[**syscall.cr**](https://github.com/kubo39/syscall.cr)|syscall interface for Crystal||
-|9|[@MakeNowJust](https://github.com/MakeNowJust)/[**noir**](https://github.com/MakeNowJust/noir)|NOIR - Syntax Highlight Library for Crystal||
 |8|[@rhysd](https://github.com/rhysd)/[**ezoe**](https://github.com/rhysd/ezoe)|`ezoe` command written in Crystal||
 |7|[@MakeNowJust](https://github.com/MakeNowJust)/[**tilt**](https://github.com/MakeNowJust/tilt)|TILT Is Loader of Template. It is generalized template engine interface.||
 |7|[@dmytro](https://github.com/dmytro)/[**shell.cr**](https://github.com/dmytro/shell.cr)|Small simplistic helper class for executing shell commands in Crystal.||

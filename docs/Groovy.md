@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|235|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
-|207|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|:hatched_chick: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
-|117|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
+|237|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
+|210|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|:snowboarder: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
+|119|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |106|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||
-|94|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
+|96|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
 |82|[@hotchemi](https://github.com/hotchemi)/[**gradle-proguard-plugin**](https://github.com/hotchemi/gradle-proguard-plugin)|The gradle plugin to add proguard snippets to your proguard setting file quickly.|[:arrow_upper_right:](http://hotchemi.github.io/gradle-proguard-plugin)|
 |77|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-mdicons**](https://github.com/tmiyamon/gradle-mdicons)|A gradle plugin for Android to handle material design icons Google published.||
 |76|[@int128](https://github.com/int128)/[**groovy-ssh**](https://github.com/int128/groovy-ssh)|SSH automation tool based on Groovy DSL|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
@@ -16,7 +16,7 @@
 |20|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-web-resource-plugin**](https://github.com/ksoichiro/gradle-web-resource-plugin)|Gradle plugin to use CoffeeScript, LESS and Bower libraries without Node.js/npm.||
 |20|[@uPhyca](https://github.com/uPhyca)/[**gradle-android-apt-plugin**](https://github.com/uPhyca/gradle-android-apt-plugin)|A Gradle plugin which enables annotations processing for Android builds.||
 |19|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-android-git**](https://github.com/ksoichiro/gradle-android-git)|Gradle plugin for Android apps to manage Git dependency (gag)||
-|17|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-plugin**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
+|18|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-plugin**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
 |15|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-reporter**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
 |15|[@sys1yagi](https://github.com/sys1yagi)/[**rxandroid-usecase**](https://github.com/sys1yagi/rxandroid-usecase)|||
 |14|[@uehaj](https://github.com/uehaj)/[**groovy-comprehension**](https://github.com/uehaj/groovy-comprehension)|||
@@ -53,6 +53,7 @@
 |3|[@gfx](https://github.com/gfx)/[**Android-JavassistExample**](https://github.com/gfx/Android-JavassistExample)|||
 |3|[@grimrose](https://github.com/grimrose)/[**gadvent2014**](https://github.com/grimrose/gadvent2014)|sample Ratpack app|[:arrow_upper_right:](http://grimrose.bitbucket.org/blog/html/2014/12/07/g_advent_calendar_2014_ratpack_02.html)|
 |3|[@int128](https://github.com/int128)/[**feign-oauth2-example**](https://github.com/int128/feign-oauth2-example)|Example of Spring Cloud Feign and Spring Security OAuth2||
+|3|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-replacer**](https://github.com/ksoichiro/gradle-replacer)|Gradle plugin that provides a minimalistic template engine feature.||
 |3|[@nobeans](https://github.com/nobeans)/[**irclog-viewer**](https://github.com/nobeans/irclog-viewer)|A simple viewer of IRC log archives powered by Grails||
 |3|[@nobeans](https://github.com/nobeans)/[**tddbc-yokohama-201111**](https://github.com/nobeans/tddbc-yokohama-201111)|||
 |3|[@tsuyo](https://github.com/tsuyo)/[**grails-captcha-sample**](https://github.com/tsuyo/grails-captcha-sample)|grails sample to login with captcha||

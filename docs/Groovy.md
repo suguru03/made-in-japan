@@ -22,17 +22,17 @@
 |14|[@uehaj](https://github.com/uehaj)/[**groovy-comprehension**](https://github.com/uehaj/groovy-comprehension)|||
 |14|[@uehaj](https://github.com/uehaj)/[**groovyz**](https://github.com/uehaj/groovyz)|POC of Type Class for Groovy||
 |13|[@kiy0taka](https://github.com/kiy0taka)/[**spock-shell**](https://github.com/kiy0taka/spock-shell)|||
+|12|[@gfx](https://github.com/gfx)/[**gradle-plugin-template**](https://github.com/gfx/gradle-plugin-template)|A template project for Gradle plugins||
 |12|[@taichi](https://github.com/taichi)/[**yuzen**](https://github.com/taichi/yuzen)|static contents generator|[:arrow_upper_right:](http://yuzen.koshinuke.org/)|
-|11|[@gfx](https://github.com/gfx)/[**gradle-plugin-template**](https://github.com/gfx/gradle-plugin-template)|A template project for Gradle plugins||
 |11|[@sys1yagi](https://github.com/sys1yagi)/[**faucet**](https://github.com/sys1yagi/faucet)|Super casual memory leak checker for Android. ||
 |11|[@takahirom](https://github.com/takahirom)/[**fire-annotation**](https://github.com/takahirom/fire-annotation)|Simple tool which help you to implement Firebase Analytics||
 |11|[@tkruse](https://github.com/tkruse)/[**gpi**](https://github.com/tkruse/gpi)|grape package installer||
 |11|[@yamkazu](https://github.com/yamkazu)/[**jggug-grails-bootcamp**](https://github.com/yamkazu/jggug-grails-bootcamp)|||
 |9|[@tyama](https://github.com/tyama)/[**ratpack-gorm-mongo-example**](https://github.com/tyama/ratpack-gorm-mongo-example)|||
 |7|[@int128](https://github.com/int128)/[**gradle-starter**](https://github.com/int128/gradle-starter)|Hello World application with Gradle||
+|7|[@int128](https://github.com/int128)/[**spock-spring-boot-example**](https://github.com/int128/spock-spring-boot-example)|An example of testing Spring Boot application with Spock framework||
 |7|[@mike-neck](https://github.com/mike-neck)/[**slim3-gradle**](https://github.com/mike-neck/slim3-gradle)|gradle build file and slim3 sample||
 |6|[@PoohSunny](https://github.com/PoohSunny)/[**geb-study**](https://github.com/PoohSunny/geb-study)|||
-|6|[@int128](https://github.com/int128)/[**spock-spring-boot-example**](https://github.com/int128/spock-spring-boot-example)|An example of testing Spring Boot application with Spock framework||
 |6|[@kiy0taka](https://github.com/kiy0taka)/[**groovy-consoles**](https://github.com/kiy0taka/groovy-consoles)||[:arrow_upper_right:](http://d.hatena.ne.jp/kiy0taka/)|
 |6|[@making](https://github.com/making)/[**spring-boot-demo-jvm-languages**](https://github.com/making/spring-boot-demo-jvm-languages)|Spring Boot Hello World project using some JVM languages||
 |6|[@nobeans](https://github.com/nobeans)/[**groovy-osgi-sample**](https://github.com/nobeans/groovy-osgi-sample)|Sample of OSGi powered by Groovy and Gradle||

@@ -1,17 +1,18 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|123|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
+|130|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
 |66|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
-|58|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Janus WebRTC Gateway Docker Image for Media Streaming Expert User||
+|60|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Janus WebRTC Gateway Docker Image for Media Streaming Expert User||
 |48|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
 |27|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
+|27|[@uetchy](https://github.com/uetchy)/[**dockerfile-machinelearning**](https://github.com/uetchy/dockerfile-machinelearning)|Dockerfile for scientists studying Machine Learning.||
 |25|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
-|25|[@uetchy](https://github.com/uetchy)/[**dockerfile-machinelearning**](https://github.com/uetchy/dockerfile-machinelearning)|Dockerfile for scientists studying Machine Learning.||
 |24|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |23|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-24.5-doc-emacs**](https://github.com/ayatakesi/emacs-24.5-doc-emacs)|emacsマニュアルの日本語化と公開|[:arrow_upper_right:](https://ayatakesi.github.io/)|
 |22|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-agent**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/mackerelio/mackerel-agent/)|
 |22|[@norton](https://github.com/norton)/[**erlang-starter-kit**](https://github.com/norton/erlang-starter-kit)|Provide a basic set of Erlang/OTP tools for development and for testing||
+|20|[@sfuku7](https://github.com/sfuku7)/[**googletest_android_ndk-build**](https://github.com/sfuku7/googletest_android_ndk-build)|Build googletest with Android NDK||
 |15|[@atsushieno](https://github.com/atsushieno)/[**android-fluidsynth**](https://github.com/atsushieno/android-fluidsynth)|fluidsynth Android port / build||
 |15|[@keiji](https://github.com/keiji)/[**farewell-adt-book**](https://github.com/keiji/farewell-adt-book)|Android Studio完全移行ガイド||
 |14|[@itchyny](https://github.com/itchyny)/[**fastinvsqrt**](https://github.com/itchyny/fastinvsqrt)|Fast inverse square root in programming languages||
@@ -43,6 +44,7 @@
 |4|[@nobu](https://github.com/nobu)/[**build-files**](https://github.com/nobu/build-files)|||
 |4|[@polamjag](https://github.com/polamjag)/[**chrome-theme-simple-blue**](https://github.com/polamjag/chrome-theme-simple-blue)|a minimal theme for Google Chrome / Chromium|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/simple-blue/kglcjiiffdfngnjlgaalhdjjemihjfnd)|
 |4|[@ykzts](https://github.com/ykzts)/[**omanko.porn**](https://github.com/ykzts/omanko.porn)||[:arrow_upper_right:](https://omanko.porn/)|
+|3|[@ToshihitoKon](https://github.com/ToshihitoKon)/[**Kotlin_study**](https://github.com/ToshihitoKon/Kotlin_study)|kotlin development env setting util||
 |3|[@acomagu](https://github.com/acomagu)/[**awesome-takadanobaba**](https://github.com/acomagu/awesome-takadanobaba)|Hack Takadanobaba.||
 |3|[@cybergarage](https://github.com/cybergarage)/[**round**](https://github.com/cybergarage/round)|Round for C|[:arrow_upper_right:](http://www.cybergarage.org/)|
 |3|[@enukane](https://github.com/enukane)/[**c90-plan9-assembler-handbook**](https://github.com/enukane/c90-plan9-assembler-handbook)|C90で頒布した "Plan 9 Assembler Handbook" の文章データ||
@@ -55,6 +57,8 @@
 |3|[@r-plus](https://github.com/r-plus)/[**NoDictation**](https://github.com/r-plus/NoDictation)|Disable dictation key without disable Siri.||
 |3|[@renluckyclover](https://github.com/renluckyclover)/[**datingApp_swift**](https://github.com/renluckyclover/datingApp_swift)|||
 |3|[@sesh-kebab](https://github.com/sesh-kebab)/[**raspi-sonar**](https://github.com/sesh-kebab/raspi-sonar)|RaspberryPi Ultrasonic sensor node extention||
+|3|[@sisimai](https://github.com/sisimai)/[**set-of-emails**](https://github.com/sisimai/set-of-emails)|bounce mail collection for tests and development on Sisimai||
 |3|[@tokuhirom](https://github.com/tokuhirom)/[**setusergroups**](https://github.com/tokuhirom/setusergroups)|set uid/pid/supplementary groups||
 |3|[@ueokande](https://github.com/ueokande)/[**tex-makefile**](https://github.com/ueokande/tex-makefile)|Makefile to compile TeX document.||
+|3|[@yantene](https://github.com/yantene)/[**sushiemoji**](https://github.com/yantene/sushiemoji)|High-quality sushi emoji set||
 

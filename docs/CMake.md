@@ -10,5 +10,6 @@
 |5|[@yoshimalucky](https://github.com/yoshimalucky)/[**pepper_navigation**](https://github.com/yoshimalucky/pepper_navigation)|||
 |3|[@flokart-world](https://github.com/flokart-world)/[**cmake-supports**](https://github.com/flokart-world/cmake-supports)|A collection of utilities for creating projects with CMake scripts.||
 |3|[@januswel](https://github.com/januswel)/[**ctest-gtest**](https://github.com/januswel/ctest-gtest)|CTest with Google Test||
+|3|[@pcboy](https://github.com/pcboy)/[**libwallet**](https://github.com/pcboy/libwallet)|Script to compile monero libwallet for Android (used by monujo wallet)||
 |3|[@sugarsweetrobotics](https://github.com/sugarsweetrobotics)/[**UrgRTC**](https://github.com/sugarsweetrobotics/UrgRTC)|||
 

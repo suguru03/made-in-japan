@@ -19,13 +19,13 @@
 |5|[@leque](https://github.com/leque)/[**Gauche-process-notation**](https://github.com/leque/Gauche-process-notation)|||
 |5|[@mokehehe](https://github.com/mokehehe)/[**bulletsml**](https://github.com/mokehehe/bulletsml)|BulletML on S expression, language for shoot'em up bullet behavior||
 |5|[@okuoku](https://github.com/okuoku)/[**nausicaa**](https://github.com/okuoku/nausicaa)|collection of libraries for R6RS Scheme supporting Ikarus, Larceny, Mosh, Petite Chez, Vicare and Ypsilon|[:arrow_upper_right:](http://marcomaggi.github.com/nausicaa.html)|
+|5|[@okuoku](https://github.com/okuoku)/[**yuni**](https://github.com/okuoku/yuni)|R6RS/R7RS portability library||
 |5|[@shinnya](https://github.com/shinnya)/[**Gauche-growl-gntp**](https://github.com/shinnya/Gauche-growl-gntp)|A library for Growl(GNTP) written in Scheme.||
 |4|[@higepon](https://github.com/higepon)/[**Scheme-junk-scripts**](https://github.com/higepon/Scheme-junk-scripts)|Junk Scheme R6RS scripts which work on Mosh Scheme||
 |4|[@higepon](https://github.com/higepon)/[**Scheme-rbtrees**](https://github.com/higepon/Scheme-rbtrees)|Red-Black trees||
 |4|[@keita](https://github.com/keita)/[**project_euler**](https://github.com/keita/project_euler)|solutions for project euler's problems||
 |4|[@liquidz](https://github.com/liquidz)/[**gauche**](https://github.com/liquidz/gauche)|source for gauche||
 |4|[@mtakuya](https://github.com/mtakuya)/[**gauche-yahoo-jp**](https://github.com/mtakuya/gauche-yahoo-jp)|Gauche module - Yahoo! Japan Developer Network API Module||
-|4|[@okuoku](https://github.com/okuoku)/[**yuni**](https://github.com/okuoku/yuni)|R6RS/R7RS portability library||
 |4|[@tabe](https://github.com/tabe)/[**Gauche-TeX**](https://github.com/tabe/Gauche-TeX)|A package of Gauche Scheme implementation for TeX|[:arrow_upper_right:](http://fixedpoint.jp/)|
 |4|[@torus](https://github.com/torus)/[**opakapaka**](https://github.com/torus/opakapaka)|A tiny Ajax and comet-based chat system.||
 |3|[@1995hnagamin](https://github.com/1995hnagamin)/[**yaoytoolkit**](https://github.com/1995hnagamin/yaoytoolkit)|Yet Another OpenYo Toolkit||

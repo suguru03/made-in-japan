@@ -1,182 +1,182 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|9302|[@ocornut](https://github.com/ocornut)/[**imgui**](https://github.com/ocornut/imgui)|Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies||
-|5808|[@tekezo](https://github.com/tekezo)/[**Karabiner-Elements**](https://github.com/tekezo/Karabiner-Elements)|Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.|[:arrow_upper_right:](https://pqrs.org/osx/karabiner/)|
-|3553|[@tekezo](https://github.com/tekezo)/[**Karabiner**](https://github.com/tekezo/Karabiner)|Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.|[:arrow_upper_right:](https://pqrs.org/osx/karabiner/)|
-|1938|[@rakshasa](https://github.com/rakshasa)/[**rtorrent**](https://github.com/rakshasa/rtorrent)|rTorrent BitTorrent client|[:arrow_upper_right:](https://github.com/rakshasa/rtorrent/wiki)|
-|973|[@syoyo](https://github.com/syoyo)/[**tinyobjloader**](https://github.com/syoyo/tinyobjloader)|Tiny but powerful single file wavefront obj loader||
-|673|[@rakshasa](https://github.com/rakshasa)/[**libtorrent**](https://github.com/rakshasa/libtorrent)|libTorrent BitTorrent library|[:arrow_upper_right:](http://rtorrent.net/downloads/)|
-|629|[@kazuho](https://github.com/kazuho)/[**picojson**](https://github.com/kazuho/picojson)|a header-file-only, JSON parser serializer in C++||
-|571|[@unity3d-jp](https://github.com/unity3d-jp)/[**FrameCapturer**](https://github.com/unity3d-jp/FrameCapturer)|export framebuffer, GBuffer or any RenderTextures from Unity to file. supported format: png, exr, gif, webm, mp4||
-|565|[@kw-udon](https://github.com/kw-udon)/[**constexpr-8cc**](https://github.com/kw-udon/constexpr-8cc)|Compile-time C Compiler implemented as C++14 constant expressions||
-|453|[@treefrogframework](https://github.com/treefrogframework)/[**treefrog-framework**](https://github.com/treefrogframework/treefrog-framework)|TreeFrog Framework : High-speed C++ MVC Framework for Web Application||
-|435|[@melpon](https://github.com/melpon)/[**wandbox**](https://github.com/melpon/wandbox)|Social Compilation Service|[:arrow_upper_right:](https://wandbox.org/)|
+|9444|[@ocornut](https://github.com/ocornut)/[**imgui**](https://github.com/ocornut/imgui)|Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies||
+|5914|[@tekezo](https://github.com/tekezo)/[**Karabiner-Elements**](https://github.com/tekezo/Karabiner-Elements)|Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.|[:arrow_upper_right:](https://pqrs.org/osx/karabiner/)|
+|3559|[@tekezo](https://github.com/tekezo)/[**Karabiner**](https://github.com/tekezo/Karabiner)|Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.|[:arrow_upper_right:](https://pqrs.org/osx/karabiner/)|
+|1947|[@rakshasa](https://github.com/rakshasa)/[**rtorrent**](https://github.com/rakshasa/rtorrent)|rTorrent BitTorrent client|[:arrow_upper_right:](https://github.com/rakshasa/rtorrent/wiki)|
+|983|[@syoyo](https://github.com/syoyo)/[**tinyobjloader**](https://github.com/syoyo/tinyobjloader)|Tiny but powerful single file wavefront obj loader||
+|675|[@rakshasa](https://github.com/rakshasa)/[**libtorrent**](https://github.com/rakshasa/libtorrent)|libTorrent BitTorrent library|[:arrow_upper_right:](http://rtorrent.net/downloads/)|
+|630|[@kazuho](https://github.com/kazuho)/[**picojson**](https://github.com/kazuho/picojson)|a header-file-only, JSON parser serializer in C++||
+|582|[@unity3d-jp](https://github.com/unity3d-jp)/[**FrameCapturer**](https://github.com/unity3d-jp/FrameCapturer)|export framebuffer, GBuffer or any RenderTextures from Unity to file. supported format: png, exr, gif, webm, mp4||
+|572|[@kw-udon](https://github.com/kw-udon)/[**constexpr-8cc**](https://github.com/kw-udon/constexpr-8cc)|Compile-time C Compiler implemented as C++14 constant expressions||
+|454|[@treefrogframework](https://github.com/treefrogframework)/[**treefrog-framework**](https://github.com/treefrogframework/treefrog-framework)|TreeFrog Framework : High-speed C++ MVC Framework for Web Application||
+|439|[@melpon](https://github.com/melpon)/[**wandbox**](https://github.com/melpon/wandbox)|Social Compilation Service|[:arrow_upper_right:](https://wandbox.org/)|
 |421|[@takmin](https://github.com/takmin)/[**OpenCV-Marker-less-AR**](https://github.com/takmin/OpenCV-Marker-less-AR)|This is a marker less augmented reality application developed using OpenCV. This code can be used under MIT license.  Demo movie: http://youtu.be/KgQguj78qMA||
-|416|[@imkira](https://github.com/imkira)/[**mobiledevice**](https://github.com/imkira/mobiledevice)|Command line utility for interacting with Apple's Private (Closed) Mobile Device Framework||
-|401|[@bolero-MURAKAMI](https://github.com/bolero-MURAKAMI)/[**Sprout**](https://github.com/bolero-MURAKAMI/Sprout)|C++11/14 constexpr based Containers, Algorithms, Random numbers, Parsing, Ray tracing, Synthesizer, and others.|[:arrow_upper_right:](http://bolero-murakami.github.io/Sprout/)|
-|381|[@client9](https://github.com/client9)/[**libinjection**](https://github.com/client9/libinjection)|SQL / SQLI tokenizer parser analyzer||
-|373|[@yvt](https://github.com/yvt)/[**openspades**](https://github.com/yvt/openspades)|Compatible client of Ace of Spades 0.75|[:arrow_upper_right:](http://openspades.yvt.jp/)|
-|349|[@chokkan](https://github.com/chokkan)/[**crfsuite**](https://github.com/chokkan/crfsuite)|CRFsuite: a fast implementation of Conditional Random Fields (CRFs)|[:arrow_upper_right:](http://www.chokkan.org/software/crfsuite/)|
-|321|[@unity3d-jp](https://github.com/unity3d-jp)/[**AlembicImporter**](https://github.com/unity3d-jp/AlembicImporter)|Alembic importer and exporter plugin for Unity||
-|313|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**Duration**](https://github.com/YCAMInterlab/Duration)|Duration is an application for designing change over time||
-|274|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**ProCamToolkit**](https://github.com/YCAMInterlab/ProCamToolkit)|Research and development of a new toolkit for projector-camera calibration at YCAM.||
+|420|[@imkira](https://github.com/imkira)/[**mobiledevice**](https://github.com/imkira/mobiledevice)|Command line utility for interacting with Apple's Private (Closed) Mobile Device Framework||
+|405|[@bolero-MURAKAMI](https://github.com/bolero-MURAKAMI)/[**Sprout**](https://github.com/bolero-MURAKAMI/Sprout)|C++11/14 constexpr based Containers, Algorithms, Random numbers, Parsing, Ray tracing, Synthesizer, and others.|[:arrow_upper_right:](http://bolero-murakami.github.io/Sprout/)|
+|383|[@client9](https://github.com/client9)/[**libinjection**](https://github.com/client9/libinjection)|SQL / SQLI tokenizer parser analyzer||
+|375|[@yvt](https://github.com/yvt)/[**openspades**](https://github.com/yvt/openspades)|Compatible client of Ace of Spades 0.75|[:arrow_upper_right:](http://openspades.yvt.jp/)|
+|357|[@chokkan](https://github.com/chokkan)/[**crfsuite**](https://github.com/chokkan/crfsuite)|CRFsuite: a fast implementation of Conditional Random Fields (CRFs)|[:arrow_upper_right:](http://www.chokkan.org/software/crfsuite/)|
+|326|[@unity3d-jp](https://github.com/unity3d-jp)/[**AlembicImporter**](https://github.com/unity3d-jp/AlembicImporter)|Alembic importer and exporter plugin for Unity||
+|314|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**Duration**](https://github.com/YCAMInterlab/Duration)|Duration is an application for designing change over time||
+|276|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**ProCamToolkit**](https://github.com/YCAMInterlab/ProCamToolkit)|Research and development of a new toolkit for projector-camera calibration at YCAM.||
 |272|[@taku910](https://github.com/taku910)/[**mecab**](https://github.com/taku910/mecab)|Yet another Japanese morphological analyzer||
-|262|[@Constellation](https://github.com/Constellation)/[**iv**](https://github.com/Constellation/iv)|ECMAScript Lexer / Parser / Interpreter / VM / method JIT written in C++||
-|230|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**ofxTimeline**](https://github.com/YCAMInterlab/ofxTimeline)|lightweight timeline tools for openFrameworks||
-|230|[@miyosuda](https://github.com/miyosuda)/[**TensorFlowAndroidDemo**](https://github.com/miyosuda/TensorFlowAndroidDemo)|TensorFlow Android stand-alone demo||
-|227|[@zaki](https://github.com/zaki)/[**irrlicht**](https://github.com/zaki/irrlicht)|An automatically updated mirror of the Irrlicht SVN repository on sourceforge|[:arrow_upper_right:](http://irrlicht.sourceforge.net)|
-|214|[@miyosuda](https://github.com/miyosuda)/[**TensorFlowAndroidMNIST**](https://github.com/miyosuda/TensorFlowAndroidMNIST)|Tensorflow MNIST demo on Android||
-|212|[@rdiankov](https://github.com/rdiankov)/[**openrave**](https://github.com/rdiankov/openrave)|Open Robotics Automation Virtual Environment: An environment for testing, developing, and deploying robotics motion planning algorithms.|[:arrow_upper_right:](http://www.openrave.org)|
+|264|[@Constellation](https://github.com/Constellation)/[**iv**](https://github.com/Constellation/iv)|ECMAScript Lexer / Parser / Interpreter / VM / method JIT written in C++||
+|234|[@miyosuda](https://github.com/miyosuda)/[**TensorFlowAndroidDemo**](https://github.com/miyosuda/TensorFlowAndroidDemo)|TensorFlow Android stand-alone demo||
+|231|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**ofxTimeline**](https://github.com/YCAMInterlab/ofxTimeline)|lightweight timeline tools for openFrameworks||
+|228|[@zaki](https://github.com/zaki)/[**irrlicht**](https://github.com/zaki/irrlicht)|An automatically updated mirror of the Irrlicht SVN repository on sourceforge|[:arrow_upper_right:](http://irrlicht.sourceforge.net)|
+|219|[@miyosuda](https://github.com/miyosuda)/[**TensorFlowAndroidMNIST**](https://github.com/miyosuda/TensorFlowAndroidMNIST)|Tensorflow MNIST demo on Android||
+|216|[@rdiankov](https://github.com/rdiankov)/[**openrave**](https://github.com/rdiankov/openrave)|Open Robotics Automation Virtual Environment: An environment for testing, developing, and deploying robotics motion planning algorithms.|[:arrow_upper_right:](http://www.openrave.org)|
 |209|[@zcbenz](https://github.com/zcbenz)/[**node-gui**](https://github.com/zcbenz/node-gui)|GTK+ for node||
+|199|[@ugo-nama-kun](https://github.com/ugo-nama-kun)/[**gym_torcs**](https://github.com/ugo-nama-kun/gym_torcs)|||
 |197|[@shuyo](https://github.com/shuyo)/[**ldig**](https://github.com/shuyo/ldig)|Language Detection with Infinity-gram|[:arrow_upper_right:](http://shuyo.wordpress.com/)|
-|195|[@ugo-nama-kun](https://github.com/ugo-nama-kun)/[**gym_torcs**](https://github.com/ugo-nama-kun/gym_torcs)|||
-|190|[@unity3d-jp](https://github.com/unity3d-jp)/[**USDForUnity**](https://github.com/unity3d-jp/USDForUnity)|USD (+Alembic) importer & exporter plugin for Unity||
-|185|[@keijiro](https://github.com/keijiro)/[**Pcx**](https://github.com/keijiro/Pcx)|Point cloud importer & renderer for Unity||
-|179|[@r-plus](https://github.com/r-plus)/[**substrate**](https://github.com/r-plus/substrate)|mirror of git://git.saurik.com/substrate.git||
+|191|[@unity3d-jp](https://github.com/unity3d-jp)/[**USDForUnity**](https://github.com/unity3d-jp/USDForUnity)|USD (+Alembic) importer & exporter plugin for Unity||
+|188|[@keijiro](https://github.com/keijiro)/[**Pcx**](https://github.com/keijiro/Pcx)|Point cloud importer & renderer for Unity||
+|181|[@r-plus](https://github.com/r-plus)/[**substrate**](https://github.com/r-plus/substrate)|mirror of git://git.saurik.com/substrate.git||
 |173|[@norton](https://github.com/norton)/[**lets**](https://github.com/norton/lets)|LETS - LevelDB-based Erlang Term Storage||
-|161|[@syoyo](https://github.com/syoyo)/[**tinyexr**](https://github.com/syoyo/tinyexr)|Tiny OpenEXR image loader/saver library||
-|152|[@Gnurou](https://github.com/Gnurou)/[**tagainijisho**](https://github.com/Gnurou/tagainijisho)|A free Japanese dictionary and learning assistant|[:arrow_upper_right:](http://www.tagaini.net)|
-|150|[@unity3d-jp](https://github.com/unity3d-jp)/[**NormalPainter**](https://github.com/unity3d-jp/NormalPainter)|vertex normal editor for Unity||
-|149|[@davidsiaw](https://github.com/davidsiaw)/[**luacppinterface**](https://github.com/davidsiaw/luacppinterface)|A Simple C++ Interface to Lua||
-|149|[@yaneurao](https://github.com/yaneurao)/[**YaneuraOu**](https://github.com/yaneurao/YaneuraOu)|shogi engine(AI player), stronger than Bonanza6 , educational and tiny code(about 2500 lines) , USI compliant engine , capable of being compiled by VC++2017||
-|143|[@idobatter](https://github.com/idobatter)/[**node-win32ole**](https://github.com/idobatter/node-win32ole)|Asynchronous, non-blocking win32ole bindings for node.js .|[:arrow_upper_right:](http://idobatter.github.com/node-win32ole/)|
+|167|[@syoyo](https://github.com/syoyo)/[**tinyexr**](https://github.com/syoyo/tinyexr)|Tiny OpenEXR image loader/saver library||
+|155|[@Gnurou](https://github.com/Gnurou)/[**tagainijisho**](https://github.com/Gnurou/tagainijisho)|A free Japanese dictionary and learning assistant|[:arrow_upper_right:](http://www.tagaini.net)|
+|155|[@unity3d-jp](https://github.com/unity3d-jp)/[**NormalPainter**](https://github.com/unity3d-jp/NormalPainter)|vertex normal editor for Unity||
+|151|[@yaneurao](https://github.com/yaneurao)/[**YaneuraOu**](https://github.com/yaneurao/YaneuraOu)|shogi engine(AI player), stronger than Bonanza6 , educational and tiny code(about 2500 lines) , USI compliant engine , capable of being compiled by VC++2017||
+|150|[@davidsiaw](https://github.com/davidsiaw)/[**luacppinterface**](https://github.com/davidsiaw/luacppinterface)|A Simple C++ Interface to Lua||
+|145|[@idobatter](https://github.com/idobatter)/[**node-win32ole**](https://github.com/idobatter/node-win32ole)|Asynchronous, non-blocking win32ole bindings for node.js .|[:arrow_upper_right:](http://idobatter.github.com/node-win32ole/)|
 |141|[@kensuke](https://github.com/kensuke)/[**How-to-Miracast-on-AOSP**](https://github.com/kensuke/How-to-Miracast-on-AOSP)|Miracast Patches to AOSP||
-|137|[@methane](https://github.com/methane)/[**echoserver**](https://github.com/methane/echoserver)|echo servers in many languages||
-|126|[@hecomi](https://github.com/hecomi)/[**uDesktopDuplication**](https://github.com/hecomi/uDesktopDuplication)|Desktop Duplication API implementation for Unity (only for Windows 8/10)||
+|138|[@methane](https://github.com/methane)/[**echoserver**](https://github.com/methane/echoserver)|echo servers in many languages||
+|130|[@hecomi](https://github.com/hecomi)/[**uDesktopDuplication**](https://github.com/hecomi/uDesktopDuplication)|Desktop Duplication API implementation for Unity (only for Windows 8/10)||
 |120|[@hkrn](https://github.com/hkrn)/[**MMDAI**](https://github.com/hkrn/MMDAI)|[DEVELOPMENT HAS BEEN DISCONTINUED] MMDAI was a fork project of MMDAgent and VPVM a.k.a. MMDAI2 was an application to create a motion compatible with MMD for OSX/Linux that is extended from MMDAI||
+|119|[@syoyo](https://github.com/syoyo)/[**tinygltf**](https://github.com/syoyo/tinygltf)|Header only C++ tiny glTF 2.0 library||
+|118|[@neubig](https://github.com/neubig)/[**lamtram**](https://github.com/neubig/lamtram)|lamtram: A toolkit for neural language and translation modeling||
 |117|[@neubig](https://github.com/neubig)/[**kytea**](https://github.com/neubig/kytea)|The Kyoto Text Analysis Toolkit for word segmentation and pronunciation estimation, etc.|[:arrow_upper_right:](http://www.phontron.com/kytea)|
-|117|[@neubig](https://github.com/neubig)/[**lamtram**](https://github.com/neubig/lamtram)|lamtram: A toolkit for neural language and translation modeling||
 |116|[@baku89](https://github.com/baku89)/[**VirtualMapper**](https://github.com/baku89/VirtualMapper)|A realtime preview tool for projection mapping||
-|112|[@fukatani](https://github.com/fukatani)/[**rgf_python**](https://github.com/fukatani/rgf_python)|Python Wrapper of Regularized Greedy Forest.||
-|108|[@kbinani](https://github.com/kbinani)/[**glsl-colormap**](https://github.com/kbinani/glsl-colormap)|A collection of GLSL fragment shaders to draw color maps.||
-|108|[@kyab](https://github.com/kyab)/[**mruby-arduino**](https://github.com/kyab/mruby-arduino)|Arduino API(a.k.a Wiring) wrapper for mruby.||
+|113|[@fukatani](https://github.com/fukatani)/[**rgf_python**](https://github.com/fukatani/rgf_python)|Python Wrapper of Regularized Greedy Forest and FastRGF.||
+|111|[@kbinani](https://github.com/kbinani)/[**glsl-colormap**](https://github.com/kbinani/glsl-colormap)|A collection of GLSL fragment shaders to draw color maps.||
+|109|[@ty4tw](https://github.com/ty4tw)/[**MQTT-SN**](https://github.com/ty4tw/MQTT-SN)|MQTT-SN Gateway & Client over XBee and UDP||
 |108|[@slankdev](https://github.com/slankdev)/[**cuishark**](https://github.com/slankdev/cuishark)|A protocol analyzer like a wireshark on CUI/TUI||
-|108|[@ty4tw](https://github.com/ty4tw)/[**MQTT-SN**](https://github.com/ty4tw/MQTT-SN)|MQTT-SN Gateway & Client over XBee and UDP||
-|105|[@syoyo](https://github.com/syoyo)/[**tinygltf**](https://github.com/syoyo/tinygltf)|Header only C++ tiny glTF 2.0 library||
+|107|[@kyab](https://github.com/kyab)/[**mruby-arduino**](https://github.com/kyab/mruby-arduino)|Arduino API(a.k.a Wiring) wrapper for mruby.||
 |104|[@hagino3000](https://github.com/hagino3000)/[**KinectJesture**](https://github.com/hagino3000/KinectJesture)|Control mouse by Kinect for Mac||
-|101|[@kanryu](https://github.com/kanryu)/[**quickviewer**](https://github.com/kanryu/quickviewer)|A image/comic viewer application for Windows and Linux, it can show images very fast||
+|104|[@kanryu](https://github.com/kanryu)/[**quickviewer**](https://github.com/kanryu/quickviewer)|A image/comic viewer application for Windows and Linux, it can show images very fast||
+|100|[@aflc](https://github.com/aflc)/[**editdistance**](https://github.com/aflc/editdistance)|Fast implementation of the edit distance(Levenshtein distance)||
 |100|[@yusuketomoto](https://github.com/yusuketomoto)/[**ofxEvm**](https://github.com/yusuketomoto/ofxEvm)|EVM(Eulerian Video Magnification) addon for openFrameworks||
-|95|[@recotana](https://github.com/recotana)/[**ArdOSC**](https://github.com/recotana/ArdOSC)|Open Sound Control(OSC) Library for Arduino (tested Arduino 1.0-rc1 & Arduino Ethernet)||
+|96|[@recotana](https://github.com/recotana)/[**ArdOSC**](https://github.com/recotana/ArdOSC)|Open Sound Control(OSC) Library for Arduino (tested Arduino 1.0-rc1 & Arduino Ethernet)||
 |95|[@tado](https://github.com/tado)/[**BeyondInteraction**](https://github.com/tado/BeyondInteraction)|openFrameworks examples for the book "Beyond Interaction".||
 |94|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxInkSim**](https://github.com/Akira-Hayasaka/ofxInkSim)|openFrameworks ink/fluid deposition simulator addon.||
-|94|[@aflc](https://github.com/aflc)/[**editdistance**](https://github.com/aflc/editdistance)|Fast implementation of the edit distance(Levenshtein distance)||
 |90|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**RAMDanceToolkit**](https://github.com/YCAMInterlab/RAMDanceToolkit)| ||
 |87|[@ku-nlp](https://github.com/ku-nlp)/[**jumanpp**](https://github.com/ku-nlp/jumanpp)|Juman++ (a Japanese Morphological Analyzer)|[:arrow_upper_right:](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN++)|
-|86|[@treefrogframework](https://github.com/treefrogframework)/[**cpi**](https://github.com/treefrogframework/cpi)|Tiny c++ interpreter||
-|85|[@zcbenz](https://github.com/zcbenz)/[**BPlusTree**](https://github.com/zcbenz/BPlusTree)|B+ tree implementation which stores data in file||
-|81|[@YuuichiAkagawa](https://github.com/YuuichiAkagawa)/[**USBH_MIDI**](https://github.com/YuuichiAkagawa/USBH_MIDI)|USB MIDI class driver for Arduino USB Host Shield 2.0 Library||
+|87|[@treefrogframework](https://github.com/treefrogframework)/[**cpi**](https://github.com/treefrogframework/cpi)|Tiny c++ interpreter||
+|86|[@zcbenz](https://github.com/zcbenz)/[**BPlusTree**](https://github.com/zcbenz/BPlusTree)|B+ tree implementation which stores data in file||
+|83|[@syoyo](https://github.com/syoyo)/[**tinyobjloader-c**](https://github.com/syoyo/tinyobjloader-c)|Header only tiny wavefront .obj loader in pure C89||
+|83|[@unity3d-jp](https://github.com/unity3d-jp)/[**BlendShapeBuilder**](https://github.com/unity3d-jp/BlendShapeBuilder)|tweak vertices and generate blend shapes in Unity||
+|82|[@YuuichiAkagawa](https://github.com/YuuichiAkagawa)/[**USBH_MIDI**](https://github.com/YuuichiAkagawa/USBH_MIDI)|USB MIDI class driver for Arduino USB Host Shield 2.0 Library||
+|81|[@keijiro](https://github.com/keijiro)/[**KlakSpout**](https://github.com/keijiro/KlakSpout)|Spout plugin for Unity||
 |81|[@mooz](https://github.com/mooz)/[**node-icu-charset-detector**](https://github.com/mooz/node-icu-charset-detector)|A simple binding of ICU character set detection for Node.js||
-|79|[@syoyo](https://github.com/syoyo)/[**tinyobjloader-c**](https://github.com/syoyo/tinyobjloader-c)|Header only tiny wavefront .obj loader in pure C89||
-|78|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxGLEditor**](https://github.com/Akira-Hayasaka/ofxGLEditor)|Script editor for oF Live Coding||
-|78|[@DQNEO](https://github.com/DQNEO)/[**CppTetris**](https://github.com/DQNEO/CppTetris)|Tetris made within an hour||
+|79|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxGLEditor**](https://github.com/Akira-Hayasaka/ofxGLEditor)|Script editor for oF Live Coding||
+|79|[@chokkan](https://github.com/chokkan)/[**simstring**](https://github.com/chokkan/simstring)|SimString|[:arrow_upper_right:](http://www.chokkan.org/software/simstring/)|
 |78|[@bobbens](https://github.com/bobbens)/[**clothes_parsing**](https://github.com/bobbens/clothes_parsing)|Code for the paper 'A High Performance CRF Model for Clothes Parsing'.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/fashion/)|
-|78|[@keijiro](https://github.com/keijiro)/[**KlakSpout**](https://github.com/keijiro/KlakSpout)|Spout plugin for Unity||
-|77|[@chokkan](https://github.com/chokkan)/[**simstring**](https://github.com/chokkan/simstring)|SimString|[:arrow_upper_right:](http://www.chokkan.org/software/simstring/)|
-|75|[@client9](https://github.com/client9)/[**stringencoders**](https://github.com/client9/stringencoders)|Fast c-string transformations||
+|77|[@DQNEO](https://github.com/DQNEO)/[**CppTetris**](https://github.com/DQNEO/CppTetris)|Tetris made within an hour||
+|77|[@unity3d-jp](https://github.com/unity3d-jp)/[**FbxExporter**](https://github.com/unity3d-jp/FbxExporter)|export meshes to .fbx or .obj from Unity||
 |75|[@mblondel](https://github.com/mblondel)/[**svmlight-loader**](https://github.com/mblondel/svmlight-loader)|Fast and memory-efficient svmlight / libsvm file loader for Python.||
 |74|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxPSBlend**](https://github.com/Akira-Hayasaka/ofxPSBlend)|openFrameworks Photoshop blending math with GLSL. Tested on OSX.||
+|74|[@client9](https://github.com/client9)/[**stringencoders**](https://github.com/client9/stringencoders)|Fast c-string transformations||
 |74|[@satoruhiga](https://github.com/satoruhiga)/[**ofxNodejs**](https://github.com/satoruhiga/ofxNodejs)|||
 |71|[@akuukka](https://github.com/akuukka)/[**quickhull**](https://github.com/akuukka/quickhull)|C++ implementation of the 3D QuickHull algorithm||
-|71|[@unity3d-jp](https://github.com/unity3d-jp)/[**BlendShapeBuilder**](https://github.com/unity3d-jp/BlendShapeBuilder)|tweak vertices and generate blend shapes in Unity||
-|69|[@cubicdaiya](https://github.com/cubicdaiya)/[**dtl**](https://github.com/cubicdaiya/dtl)|diff template library written by C++||
+|71|[@cubicdaiya](https://github.com/cubicdaiya)/[**dtl**](https://github.com/cubicdaiya/dtl)|diff template library written by C++||
+|71|[@unity3d-jp](https://github.com/unity3d-jp)/[**MeshSync**](https://github.com/unity3d-jp/MeshSync)|synchronize meshes between Unity <-> Metasequoia, xismo||
+|70|[@matsumotory](https://github.com/matsumotory)/[**pmilter**](https://github.com/matsumotory/pmilter)|Pmilter: Programmable Mail Filter Server Scripting with mruby||
 |69|[@gfx](https://github.com/gfx)/[**cpp-TimSort**](https://github.com/gfx/cpp-TimSort)|A C++ implementation of timsort||
-|69|[@matsumotory](https://github.com/matsumotory)/[**pmilter**](https://github.com/matsumotory/pmilter)|Pmilter: Programmable Mail Filter Server Scripting with mruby||
-|68|[@unity3d-jp](https://github.com/unity3d-jp)/[**FbxExporter**](https://github.com/unity3d-jp/FbxExporter)|export meshes to .fbx or .obj from Unity||
-|67|[@unity3d-jp](https://github.com/unity3d-jp)/[**MeshSync**](https://github.com/unity3d-jp/MeshSync)|synchronize meshes between Unity <-> Metasequoia, xismo||
 |65|[@mattn](https://github.com/mattn)/[**tinytinyhttpd**](https://github.com/mattn/tinytinyhttpd)|tiny tiny httpd|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
-|64|[@norishigefukushima](https://github.com/norishigefukushima)/[**OpenCP**](https://github.com/norishigefukushima/OpenCP)|Computational photography library. The code is parallelized by using SIMD intrinsics and multi-threading.||
+|65|[@norishigefukushima](https://github.com/norishigefukushima)/[**OpenCP**](https://github.com/norishigefukushima/OpenCP)|Computational photography library. The code is parallelized by using SIMD intrinsics and multi-threading.||
 |63|[@goccy](https://github.com/goccy)/[**gperl**](https://github.com/goccy/gperl)|fastest perl like language||
 |63|[@odashi](https://github.com/odashi)/[**nmtkit**](https://github.com/odashi/nmtkit)|Neural Network-based Statistical Machine Translation Toolkit.||
+|60|[@Tatsu-syo](https://github.com/Tatsu-syo)/[**noMeiryoUI**](https://github.com/Tatsu-syo/noMeiryoUI)|No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10.|[:arrow_upper_right:](http://tatsu.life.coocan.jp/MySoft/WinCust/index.html)|
 |60|[@satoruhiga](https://github.com/satoruhiga)/[**ofxPCL**](https://github.com/satoruhiga/ofxPCL)|http://www.pointclouds.org/||
 |60|[@sinya8282](https://github.com/sinya8282)/[**Regen**](https://github.com/sinya8282/Regen)|regular expression, generator||
+|60|[@ytakano](https://github.com/ytakano)/[**radix_tree**](https://github.com/ytakano/radix_tree)|STL like container of radix tree (a.k.a. PATRICIA trie) in C++||
 |60|[@yusuketomoto](https://github.com/yusuketomoto)/[**ofxTldTracker**](https://github.com/yusuketomoto/ofxTldTracker)|TLD Tracker addon for openFrameworks||
-|59|[@kazeburo](https://github.com/kazeburo)/[**Gazelle**](https://github.com/kazeburo/Gazelle)|Preforked Plack Handler for performance freaks|[:arrow_upper_right:](https://metacpan.org/release/Gazelle)|
 |59|[@osoumen](https://github.com/osoumen)/[**C700**](https://github.com/osoumen/C700)|Software Sampler plugin for AU/VST and MacOSX/Windows||
 |59|[@rhysd](https://github.com/rhysd)/[**Dachs**](https://github.com/rhysd/Dachs)|Dachs; A Doggy :dog: Programming Language||
-|59|[@ytakano](https://github.com/ytakano)/[**radix_tree**](https://github.com/ytakano/radix_tree)|STL like container of radix tree (a.k.a. PATRICIA trie) in C++||
-|58|[@Tatsu-syo](https://github.com/Tatsu-syo)/[**noMeiryoUI**](https://github.com/Tatsu-syo/noMeiryoUI)|No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10.|[:arrow_upper_right:](http://tatsu.life.coocan.jp/MySoft/WinCust/index.html)|
+|58|[@kazeburo](https://github.com/kazeburo)/[**Gazelle**](https://github.com/kazeburo/Gazelle)|Preforked Plack Handler for performance freaks|[:arrow_upper_right:](https://metacpan.org/release/Gazelle)|
 |58|[@odashi](https://github.com/odashi)/[**primitiv**](https://github.com/odashi/primitiv)|A Neural Network Toolkit.||
+|57|[@rigaya](https://github.com/rigaya)/[**NVEnc**](https://github.com/rigaya/NVEnc)|NVENCによる高速エンコードの性能実験||
 |56|[@kazuho](https://github.com/kazuho)/[**mysql_json**](https://github.com/kazuho/mysql_json)|a MySQL UDF for handling JSON||
-|55|[@rigaya](https://github.com/rigaya)/[**NVEnc**](https://github.com/rigaya/NVEnc)|NVENCによる高速エンコードの性能実験||
-|54|[@kittinunf](https://github.com/kittinunf)/[**flowcpp**](https://github.com/kittinunf/flowcpp)|Redux Implementation in C++14 - a predictable state container for C++||
-|54|[@leo-project](https://github.com/leo-project)/[**erocksdb**](https://github.com/leo-project/erocksdb)|Erlang bindings to RocksDB datastore ||
-|53|[@kyamagu](https://github.com/kyamagu)/[**mexplus**](https://github.com/kyamagu/mexplus)|C++ Matlab MEX development kit.||
+|55|[@kittinunf](https://github.com/kittinunf)/[**flowcpp**](https://github.com/kittinunf/flowcpp)|Redux Implementation in C++14 - a predictable state container for C++||
+|55|[@leo-project](https://github.com/leo-project)/[**erocksdb**](https://github.com/leo-project/erocksdb)|Erlang bindings to RocksDB datastore ||
+|54|[@kyamagu](https://github.com/kyamagu)/[**mexplus**](https://github.com/kyamagu/mexplus)|C++ Matlab MEX development kit.||
+|52|[@tokuhirom](https://github.com/tokuhirom)/[**node-perl**](https://github.com/tokuhirom/node-perl)|Node perl wrapper||
 |51|[@autch](https://github.com/autch)/[**aquaplus_gpl**](https://github.com/autch/aquaplus_gpl)|AQUAPLUSがGPLとして公開した4作品のソースコード。送付CD-R内のファイルをそのままミラー。|[:arrow_upper_right:](http://leaf.aquaplus.co.jp/product/xvid.html)|
-|51|[@tokuhirom](https://github.com/tokuhirom)/[**node-perl**](https://github.com/tokuhirom/node-perl)|Node perl wrapper||
-|50|[@kb10uy](https://github.com/kb10uy)/[**Seaurchin**](https://github.com/kb10uy/Seaurchin)|某スライドして手を跳ね上げる音ゲーシミュレーター||
+|51|[@kb10uy](https://github.com/kb10uy)/[**Seaurchin**](https://github.com/kb10uy/Seaurchin)|某スライドして手を跳ね上げる音ゲーシミュレーター||
 |50|[@taku910](https://github.com/taku910)/[**cabocha**](https://github.com/taku910/cabocha)|Yet Another Japanese Dependency Structure Analyzer||
 |49|[@FLCLjp](https://github.com/FLCLjp)/[**iPhone-Zinnia**](https://github.com/FLCLjp/iPhone-Zinnia)|手書き文字認識エンジンZinniaをiPhone上で利用するサンプルアプリケーション。|[:arrow_upper_right:](http://FLCL.jp)|
+|49|[@nariakiiwatani](https://github.com/nariakiiwatani)/[**ofxAE**](https://github.com/nariakiiwatani/ofxAE)|openFrameworks addon for porting Adobe AfterEffects composition to openFrameworks.||
 |49|[@rhysd](https://github.com/rhysd)/[**array_view**](https://github.com/rhysd/array_view)|Wrapper for references to array in C++.||
 |48|[@2bbb](https://github.com/2bbb)/[**ofxPubSubOsc**](https://github.com/2bbb/ofxPubSubOsc)|bind OSC messages and values with only writing tiny code on setup once.||
 |48|[@atsusy](https://github.com/atsusy)/[**tiarmarker**](https://github.com/atsusy/tiarmarker)|AR marker detecting module for titanium mobile.|[:arrow_upper_right:](http://atsusy.blogspot.com/2011/03/titanium-mobilear.html)|
-|48|[@nariakiiwatani](https://github.com/nariakiiwatani)/[**ofxAE**](https://github.com/nariakiiwatani/ofxAE)|openFrameworks addon for porting Adobe AfterEffects composition to openFrameworks.||
 |48|[@sadmb](https://github.com/sadmb)/[**ofxKinectNui**](https://github.com/sadmb/ofxKinectNui)|Kinect SDK 1.0 or higher addon for openFrameworks||
 |48|[@ytakano](https://github.com/ytakano)/[**libcage**](https://github.com/ytakano/libcage)|NATs free DHT(Kademlia) library in C++.||
 |47|[@atsusy](https://github.com/atsusy)/[**tiopengles**](https://github.com/atsusy/tiopengles)|OpenGL ES module for Titanium Mobile.||
+|47|[@syoyo](https://github.com/syoyo)/[**MMDLoader**](https://github.com/syoyo/MMDLoader)|Simple MMD(PMD/VMD) loader in C++ ||
 |47|[@takmin](https://github.com/takmin)/[**DataAugmentation**](https://github.com/takmin/DataAugmentation)|Image data augmentation tool for training of image recognition algorithm||
+|46|[@nyanp](https://github.com/nyanp)/[**mnisten**](https://github.com/nyanp/mnisten)|convert image files to mnist idx format||
+|46|[@saki4510t](https://github.com/saki4510t)/[**OpenCVwithUVC**](https://github.com/saki4510t/OpenCVwithUVC)|||
 |46|[@satoruhiga](https://github.com/satoruhiga)/[**ofxFastFboReader**](https://github.com/satoruhiga/ofxFastFboReader)|Read pixel data using PBO||
+|46|[@splhack](https://github.com/splhack)/[**Hello-LWF-Cocos2d-x**](https://github.com/splhack/Hello-LWF-Cocos2d-x)|Hello LWF for C++ with Cocos2d-x renderer||
+|45|[@UnaNancyOwen](https://github.com/UnaNancyOwen)/[**KinectGrabber**](https://github.com/UnaNancyOwen/KinectGrabber)|Grabber of Point Cloud Library based on Kinect for Windows SDK||
 |45|[@koyachi](https://github.com/koyachi)/[**ruby-barcodescanner**](https://github.com/koyachi/ruby-barcodescanner)|||
-|45|[@nyanp](https://github.com/nyanp)/[**mnisten**](https://github.com/nyanp/mnisten)|convert image files to mnist idx format||
+|45|[@ocornut](https://github.com/ocornut)/[**str**](https://github.com/ocornut/str)|Simple C++ string type with an optional local buffer||
 |45|[@s-nakaoka](https://github.com/s-nakaoka)/[**choreonoid**](https://github.com/s-nakaoka/choreonoid)|An integrated graphical robotics application framework|[:arrow_upper_right:](http://choreonoid.org)|
-|45|[@splhack](https://github.com/splhack)/[**Hello-LWF-Cocos2d-x**](https://github.com/splhack/Hello-LWF-Cocos2d-x)|Hello LWF for C++ with Cocos2d-x renderer||
-|44|[@UnaNancyOwen](https://github.com/UnaNancyOwen)/[**KinectGrabber**](https://github.com/UnaNancyOwen/KinectGrabber)|Grabber of Point Cloud Library based on Kinect for Windows SDK||
 |44|[@ashikase](https://github.com/ashikase)/[**libsymbolicate**](https://github.com/ashikase/libsymbolicate)|Library for parsing and symbolicating iOS crash reports.||
-|44|[@syoyo](https://github.com/syoyo)/[**MMDLoader**](https://github.com/syoyo/MMDLoader)|Simple MMD(PMD/VMD) loader in C++ ||
-|43|[@ocornut](https://github.com/ocornut)/[**str**](https://github.com/ocornut/str)|Simple C++ string type with an optional local buffer||
-|43|[@tado](https://github.com/tado)/[**ofxLiquidFun**](https://github.com/tado/ofxLiquidFun)|openFrameworks wrapper for LiquidFun.||
+|44|[@hiyohiyo](https://github.com/hiyohiyo)/[**CrystalDiskInfo**](https://github.com/hiyohiyo/CrystalDiskInfo)|||
+|44|[@tado](https://github.com/tado)/[**ofxLiquidFun**](https://github.com/tado/ofxLiquidFun)|openFrameworks wrapper for LiquidFun.||
+|43|[@soramimi](https://github.com/soramimi)/[**Guitar**](https://github.com/soramimi/Guitar)|Git GUI Client|[:arrow_upper_right:](https://soramimi.github.io/Guitar/)|
 |42|[@hassyGo](https://github.com/hassyGo)/[**N3LP**](https://github.com/hassyGo/N3LP)|C++ implementation for Neural Network-based NLP, such as LSTM machine translation!||
-|42|[@hiyohiyo](https://github.com/hiyohiyo)/[**CrystalDiskInfo**](https://github.com/hiyohiyo/CrystalDiskInfo)|||
-|42|[@soramimi](https://github.com/soramimi)/[**Guitar**](https://github.com/soramimi/Guitar)|Git GUI Client|[:arrow_upper_right:](https://soramimi.github.io/Guitar/)|
+|42|[@oguna](https://github.com/oguna)/[**MMDFormats**](https://github.com/oguna/MMDFormats)|File parser for PMD,PMX,VMD (used in MikuMikuDance)||
+|41|[@2bbb](https://github.com/2bbb)/[**node-abletonlink**](https://github.com/2bbb/node-abletonlink)|node.js porting of ableton Link||
+|41|[@norishigefukushima](https://github.com/norishigefukushima)/[**WeightedJointBilateralFilter**](https://github.com/norishigefukushima/WeightedJointBilateralFilter)|opencv based joint bilateral filter, guided filter for depth map refinement|[:arrow_upper_right:](http://nma.web.nitech.ac.jp/fukushima/research/weightedjointbilateralfilter.html)|
 |41|[@rjyo](https://github.com/rjyo)/[**libid3-ios**](https://github.com/rjyo/libid3-ios)|libid3-ios is a patched version based on id3lib 3.8.3-2. It includes a target of libid3.a static library for  iOS.||
-|41|[@saki4510t](https://github.com/saki4510t)/[**OpenCVwithUVC**](https://github.com/saki4510t/OpenCVwithUVC)|||
-|40|[@2bbb](https://github.com/2bbb)/[**node-abletonlink**](https://github.com/2bbb/node-abletonlink)|node.js porting of ableton Link||
 |40|[@hecomi](https://github.com/hecomi)/[**node-openjtalk**](https://github.com/hecomi/node-openjtalk)|Node.js TTS module using OpenJTalk||
-|40|[@norishigefukushima](https://github.com/norishigefukushima)/[**WeightedJointBilateralFilter**](https://github.com/norishigefukushima/WeightedJointBilateralFilter)|opencv based joint bilateral filter, guided filter for depth map refinement|[:arrow_upper_right:](http://nma.web.nitech.ac.jp/fukushima/research/weightedjointbilateralfilter.html)|
+|40|[@ryusas](https://github.com/ryusas)/[**maya_exprespy**](https://github.com/ryusas/maya_exprespy)|Python expression node for Maya.||
+|40|[@sonots](https://github.com/sonots)/[**tutorial-haartraining**](https://github.com/sonots/tutorial-haartraining)|Tutorial of OpenCV haartraining||
 |39|[@hideo55](https://github.com/hideo55)/[**node-murmurhash3**](https://github.com/hideo55/node-murmurhash3)|Node binding of MurmurHash3|[:arrow_upper_right:](http://hideo55.github.com/node-murmurhash3/)|
 |39|[@kaorun55](https://github.com/kaorun55)/[**OpenNI2-Kinect2Driver**](https://github.com/kaorun55/OpenNI2-Kinect2Driver)|OpenNI2 Kinect v2 DevPrev Driver||
-|39|[@ryusas](https://github.com/ryusas)/[**maya_exprespy**](https://github.com/ryusas/maya_exprespy)|Python expression node for Maya.||
 |39|[@satoruhiga](https://github.com/satoruhiga)/[**ofxNI2**](https://github.com/satoruhiga/ofxNI2)|a simple OpenNI2 wrapper||
-|39|[@sonots](https://github.com/sonots)/[**tutorial-haartraining**](https://github.com/sonots/tutorial-haartraining)|Tutorial of OpenCV haartraining||
 |39|[@tokuhirom](https://github.com/tokuhirom)/[**node-mruby**](https://github.com/tokuhirom/node-mruby)|||
 |38|[@neubig](https://github.com/neubig)/[**latticelm**](https://github.com/neubig/latticelm)|Software for unsupervised word segmentation and language model learning using lattices||
-|38|[@oguna](https://github.com/oguna)/[**MMDFormats**](https://github.com/oguna/MMDFormats)|File parser for PMD,PMX,VMD (used in MikuMikuDance)||
 |38|[@splhack](https://github.com/splhack)/[**Hello-LWF-UIKit**](https://github.com/splhack/Hello-LWF-UIKit)|Hello LWF for C++ with UIKit renderer||
-|37|[@odashi](https://github.com/odashi)/[**mteval**](https://github.com/odashi/mteval)|Collection of Evaluation Metrics and Algorithms for Machine Translation||
-|37|[@tanakh](https://github.com/tanakh)/[**bjne**](https://github.com/tanakh/bjne)|Beautiful Japanese NES Emulator|[:arrow_upper_right:](http://github.com/tanakh/bjne)|
 |37|[@unity3d-jp](https://github.com/unity3d-jp)/[**OpenToonzPluginForUnity**](https://github.com/unity3d-jp/OpenToonzPluginForUnity)|OpenToonzPlugin for Unity||
 |36|[@hassyGo](https://github.com/hassyGo)/[**paragraph-vector**](https://github.com/hassyGo/paragraph-vector)|paragraph vector trained by negative sampling||
 |36|[@nagadomi](https://github.com/nagadomi)/[**kaggle-lshtc**](https://github.com/nagadomi/kaggle-lshtc)|Code for Large Scale Hierarchical Text Classification competition. Final place: 3rd||
+|36|[@odashi](https://github.com/odashi)/[**mteval**](https://github.com/odashi/mteval)|Collection of Evaluation Metrics and Algorithms for Machine Translation||
 |36|[@sadmb](https://github.com/sadmb)/[**ofxKinect2**](https://github.com/sadmb/ofxKinect2)|kinect2 wrapper for openFrameworks||
+|36|[@tanakh](https://github.com/tanakh)/[**bjne**](https://github.com/tanakh/bjne)|Beautiful Japanese NES Emulator|[:arrow_upper_right:](http://github.com/tanakh/bjne)|
 |36|[@xtne6f](https://github.com/xtne6f)/[**TvtPlay**](https://github.com/xtne6f/TvtPlay)|TVTest plugin 【master】https://www.axfc.net/u/3716965 【work】https://www.axfc.net/u/3733851||
 |35|[@hhatto](https://github.com/hhatto)/[**pgmagick**](https://github.com/hhatto/pgmagick)|pgmagick is a yet another boost.python based wrapper for GraphicsMagick/ImageMagick.||
 |35|[@kentaroid](https://github.com/kentaroid)/[**ofxTrueTypeFontUL2**](https://github.com/kentaroid/ofxTrueTypeFontUL2)|Typography with HarfBuzz.||
 |35|[@winebarrel](https://github.com/winebarrel)/[**ruby-handlersocket**](https://github.com/winebarrel/ruby-handlersocket)|Ruby bindings for HandlerSocket-Plugin||
-|34|[@laiso](https://github.com/laiso)/[**RRBenchmark**](https://github.com/laiso/RRBenchmark)|A simple benckmark module for Objective-C.||
 |33|[@goccy](https://github.com/goccy)/[**p5-Compiler-CodeGenerator-LLVM**](https://github.com/goccy/p5-Compiler-CodeGenerator-LLVM)|Create LLVM IR for Perl5||
+|33|[@hideo55](https://github.com/hideo55)/[**cpp-HyperLogLog**](https://github.com/hideo55/cpp-HyperLogLog)|C++ implementation of HyperLogLog||
+|33|[@laiso](https://github.com/laiso)/[**RRBenchmark**](https://github.com/laiso/RRBenchmark)|A simple benckmark module for Objective-C.||
 |32|[@blackball](https://github.com/blackball)/[**squaredcirclepattern**](https://github.com/blackball/squaredcirclepattern)|A fast and accurate calibration pattern and its detector for camera calibration. ||
-|32|[@hideo55](https://github.com/hideo55)/[**cpp-HyperLogLog**](https://github.com/hideo55/cpp-HyperLogLog)|C++ implementation of HyperLogLog||
+|32|[@hak](https://github.com/hak)/[**AndroidPhysicallyBasedRendering**](https://github.com/hak/AndroidPhysicallyBasedRendering)|Physically based renderer demo in Android||
+|32|[@rdiankov](https://github.com/rdiankov)/[**collada-dom**](https://github.com/rdiankov/collada-dom)|COLLADA Document Object Model (DOM) C++ Library||
+|32|[@slankdev](https://github.com/slankdev)/[**libpgen**](https://github.com/slankdev/libpgen)|Header only packet analysis library written in C++11|[:arrow_upper_right:](http://libpgen.org)|
 |32|[@yasuhirohoshino](https://github.com/yasuhirohoshino)/[**ofxPBR**](https://github.com/yasuhirohoshino/ofxPBR)|||
 |31|[@Ushio](https://github.com/Ushio)/[**MetalFluidDemo**](https://github.com/Ushio/MetalFluidDemo)|iOS Metal Fuild Demo||
-|31|[@hak](https://github.com/hak)/[**AndroidPhysicallyBasedRendering**](https://github.com/hak/AndroidPhysicallyBasedRendering)|Physically based renderer demo in Android||
-|31|[@slankdev](https://github.com/slankdev)/[**libpgen**](https://github.com/slankdev/libpgen)|Header only packet analysis library written in C++11|[:arrow_upper_right:](http://libpgen.org)|
+|31|[@takmin](https://github.com/takmin)/[**BinaryCvMat**](https://github.com/takmin/BinaryCvMat)|Save and Load cv::Mat as a binary file.||
 |31|[@tanakh](https://github.com/tanakh)/[**concurrent_revisions**](https://github.com/tanakh/concurrent_revisions)|Concurrent Revisions implemented in C++|[:arrow_upper_right:](http://github.com/tanakh)|
 |31|[@ty4tw](https://github.com/ty4tw)/[**AsyncMQTT-SN**](https://github.com/ty4tw/AsyncMQTT-SN)|MQTT-SN Async Client and Gateway for Arduino and linux.||
+|31|[@yuntan](https://github.com/yuntan)/[**QMLBootstrap**](https://github.com/yuntan/QMLBootstrap)|QML UI Kit for Mobile||
 |30|[@chikuzen](https://github.com/chikuzen)/[**avs2pipemod**](https://github.com/chikuzen/avs2pipemod)|an assistance tool for video encoding with avisynth.||
 |30|[@deltaluca](https://github.com/deltaluca)/[**gl3font**](https://github.com/deltaluca/gl3font)|Generating signed-distance maps for font atlases, and rendering them with hx-ogl.||
 |30|[@i-saint](https://github.com/i-saint)/[**PatchLibrary**](https://github.com/i-saint/PatchLibrary)|||
 |30|[@unity3d-jp](https://github.com/unity3d-jp)/[**TweetMedia**](https://github.com/unity3d-jp/TweetMedia)|||
-|30|[@yuntan](https://github.com/yuntan)/[**QMLBootstrap**](https://github.com/yuntan/QMLBootstrap)|QML UI Kit for Mobile||
+|29|[@Ushio](https://github.com/Ushio)/[**KDTreeBasic**](https://github.com/Ushio/KDTreeBasic)|||
 |29|[@gin0606](https://github.com/gin0606)/[**cocos2dx-WebView**](https://github.com/gin0606/cocos2dx-WebView)|||
+|29|[@i-saint](https://github.com/i-saint)/[**scribble**](https://github.com/i-saint/scribble)|scribble||
 |29|[@kmc-jp](https://github.com/kmc-jp)/[**c90-compiler**](https://github.com/kmc-jp/c90-compiler)|ISO C90のコンパイラ||
 |29|[@odashi](https://github.com/odashi)/[**ckylark**](https://github.com/odashi/ckylark)|A latent-annotated probabilistic context-free grammar (LAPCFG) parser.||
-|29|[@takmin](https://github.com/takmin)/[**BinaryCvMat**](https://github.com/takmin/BinaryCvMat)|Save and Load cv::Mat as a binary file.||
 |29|[@wasabeef](https://github.com/wasabeef)/[**gifflen-sample**](https://github.com/wasabeef/gifflen-sample)|Bitmap color reduction and GIF encoding||
 |28|[@Harekaze](https://github.com/Harekaze)/[**pvr.chinachu**](https://github.com/Harekaze/pvr.chinachu)|Chinachu PVR client for Kodi/XBMC|[:arrow_upper_right:](https://mzyy94.com/blog/2017/02/04/pvr-chinachu-4/)|
-|28|[@Ushio](https://github.com/Ushio)/[**KDTreeBasic**](https://github.com/Ushio/KDTreeBasic)|||
 |28|[@baku89](https://github.com/baku89)/[**glslCanvas4AE**](https://github.com/baku89/glslCanvas4AE)|After Effects Plug-in to write GLSL with a format of glslCanvas||
 |28|[@i-saint](https://github.com/i-saint)/[**UnityCppScript**](https://github.com/i-saint/UnityCppScript)|||
-|28|[@i-saint](https://github.com/i-saint)/[**scribble**](https://github.com/i-saint/scribble)|scribble||
-|28|[@rdiankov](https://github.com/rdiankov)/[**collada-dom**](https://github.com/rdiankov/collada-dom)|COLLADA Document Object Model (DOM) C++ Library||
 |27|[@Saqoosha](https://github.com/Saqoosha)/[**BokehParticles**](https://github.com/Saqoosha/BokehParticles)|Source code of custom VJ app for event "REPUBLIC Vol.9".|[:arrow_upper_right:](http://saqoo.sh/a)|
 |27|[@baku89](https://github.com/baku89)/[**GLSLRenderer**](https://github.com/baku89/GLSLRenderer)|GLSL renderer for video production||
 |27|[@faithandbrave](https://github.com/faithandbrave)/[**OvenToBoost**](https://github.com/faithandbrave/OvenToBoost)|PStade.Oven to Boost.Range||
@@ -192,16 +192,17 @@
 |26|[@satoruhiga](https://github.com/satoruhiga)/[**ofxISF**](https://github.com/satoruhiga/ofxISF)|ISF (Interactive Shader Format) loader for openFrameworks|[:arrow_upper_right:](http://vdmx.vidvox.net/blog/isf)|
 |26|[@satoruhiga](https://github.com/satoruhiga)/[**ofxZmq**](https://github.com/satoruhiga/ofxZmq)|||
 |26|[@sinya8282](https://github.com/sinya8282)/[**RANS**](https://github.com/sinya8282/RANS)|RANS: Library & Tools, Implementation of ANS on a regular language||
+|26|[@yusuketomoto](https://github.com/yusuketomoto)/[**ofxCGAL**](https://github.com/yusuketomoto/ofxCGAL)|CGAL 4.3 addon for openFrameworks||
+|26|[@zchee](https://github.com/zchee)/[**cuda-sample**](https://github.com/zchee/cuda-sample)|CUDA official sample codes||
 |25|[@faithandbrave](https://github.com/faithandbrave)/[**Shand**](https://github.com/faithandbrave/Shand)|Shand C++ Library. This library is Boost Extension library. Shand means "small hand".|[:arrow_upper_right:](http://d.hatena.ne.jp/faith_and_brave/)|
 |25|[@i-saint](https://github.com/i-saint)/[**exception**](https://github.com/i-saint/exception)|http://i-saint.skr.jp/exception/||
 |25|[@ikegami-yukino](https://github.com/ikegami-yukino)/[**madoka-python**](https://github.com/ikegami-yukino/madoka-python)|Memory-efficient Count-Min Sketch Counter (based on Madoka C++ library)||
 |25|[@laysakura](https://github.com/laysakura)/[**PartialCsvParser**](https://github.com/laysakura/PartialCsvParser)|Parses specific part of CSV file. Used for PARALLEL CSV PARSING.||
 |25|[@leios](https://github.com/leios)/[**simuleios**](https://github.com/leios/simuleios)|Simulations for LeiosOS|[:arrow_upper_right:](https://www.youtube.com/user/LeiosOS)|
 |25|[@maropu](https://github.com/maropu)/[**integer_encoding_library**](https://github.com/maropu/integer_encoding_library)|An encoder/decoder collection for a sequence of integers||
+|25|[@rigaya](https://github.com/rigaya)/[**QSVEnc**](https://github.com/rigaya/QSVEnc)|QSVによる高速エンコードの性能実験|[:arrow_upper_right:](http://rigaya34589.blog135.fc2.com/blog-category-10.html)|
 |25|[@syoyo](https://github.com/syoyo)/[**eson**](https://github.com/syoyo/eson)|ESON, Exa-scale Storage Object Notation||
 |25|[@yasuhirohoshino](https://github.com/yasuhirohoshino)/[**GPUParticles**](https://github.com/yasuhirohoshino/GPUParticles)|||
-|25|[@yusuketomoto](https://github.com/yusuketomoto)/[**ofxCGAL**](https://github.com/yusuketomoto/ofxCGAL)|CGAL 4.3 addon for openFrameworks||
-|25|[@zchee](https://github.com/zchee)/[**cuda-sample**](https://github.com/zchee/cuda-sample)|CUDA official sample codes||
 |24|[@Ushio](https://github.com/Ushio)/[**CrystalSuger**](https://github.com/Ushio/CrystalSuger)|CrystalSuger on appstore||
 |24|[@christopherobin](https://github.com/christopherobin)/[**php-spidermonkey**](https://github.com/christopherobin/php-spidermonkey)|Interface for using spidermonkey in PHP|[:arrow_upper_right:](http://pecl.php.net/package/spidermonkey)|
 |24|[@codefirst](https://github.com/codefirst)/[**SKK-for-iOS**](https://github.com/codefirst/SKK-for-iOS)|SKK(Simple Kana to Kanji conversion program) for iOS||
@@ -222,6 +223,7 @@
 |22|[@h6ah4i](https://github.com/h6ah4i)/[**cxxdasp**](https://github.com/h6ah4i/cxxdasp)|"cxxdasp" : Digital Audio Signal Processing library for C++||
 |22|[@hanasaan](https://github.com/hanasaan)/[**ofxEquiMap**](https://github.com/hanasaan/ofxEquiMap)|OF addon for Equirectangular Projection Rendering||
 |22|[@imos](https://github.com/imos)/[**nineserver**](https://github.com/imos/nineserver)|HTTP server to develop a web app in C++ easily||
+|22|[@iwiwi](https://github.com/iwiwi)/[**parallel-radix-sort**](https://github.com/iwiwi/parallel-radix-sort)|An implementation of optimized parallel radix sort||
 |22|[@kumagi](https://github.com/kumagi)/[**nanahan**](https://github.com/kumagi/nanahan)|低レイテンシ志向のデータコンテナ群を作ろうと思います||
 |22|[@mohayonao](https://github.com/mohayonao)/[**node-macaudio**](https://github.com/mohayonao/node-macaudio)|The interface is an AudioUnit(Mac) which can generate audio directly using JavaScript.||
 |22|[@norishigefukushima](https://github.com/norishigefukushima)/[**RandomizedRedundantDCTDenoising**](https://github.com/norishigefukushima/RandomizedRedundantDCTDenoising)|real-time denoising|[:arrow_upper_right:](http://fukushima.web.nitech.ac.jp/research/rrdct/)|
@@ -231,30 +233,29 @@
 |21|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxRetroPixel**](https://github.com/Akira-Hayasaka/ofxRetroPixel)|addon for converting hi-res screen to low-res retro pixel (like 70's pong game)||
 |21|[@OTL](https://github.com/OTL)/[**oculus**](https://github.com/OTL/oculus)|Oculus RIft ros node||
 |21|[@cou929](https://github.com/cou929)/[**topcoder**](https://github.com/cou929/topcoder)|TopCoder ploblems which I've solved.|[:arrow_upper_right:](http://www.topcoder.com/tc?module=MemberProfile&cr=22740515)|
-|21|[@iwiwi](https://github.com/iwiwi)/[**parallel-radix-sort**](https://github.com/iwiwi/parallel-radix-sort)|An implementation of optimized parallel radix sort||
 |21|[@mntone](https://github.com/mntone)/[**RtmpClient**](https://github.com/mntone/RtmpClient)|RtmpClient for Windows Runtime||
 |21|[@motoishmz](https://github.com/motoishmz)/[**ofxCUPS**](https://github.com/motoishmz/ofxCUPS)|printer management for oF using CUPS API||
 |21|[@norishigefukushima](https://github.com/norishigefukushima)/[**EfficientLargeScaleStereo**](https://github.com/norishigefukushima/EfficientLargeScaleStereo)|Wrapper of ELAS Stereo Matcher for OpenCV||
-|21|[@rigaya](https://github.com/rigaya)/[**QSVEnc**](https://github.com/rigaya/QSVEnc)|QSVによる高速エンコードの性能実験|[:arrow_upper_right:](http://rigaya34589.blog135.fc2.com/blog-category-10.html)|
 |21|[@satoruhiga](https://github.com/satoruhiga)/[**ofxNatNet**](https://github.com/satoruhiga/ofxNatNet)|Addon for Optitrack NatNet protcol (http://www.naturalpoint.com/optitrack/products/natnet-sdk/)||
 |21|[@tado](https://github.com/tado)/[**tau_ma2_14**](https://github.com/tado/tau_ma2_14)|openFrameworks examples for thle class of Tama Art University 2014.|[:arrow_upper_right:](http://yoppa.org/ma2_14)|
+|21|[@tatsy](https://github.com/tatsy)/[**lime**](https://github.com/tatsy/lime)|lime (Library for Image Editing)|[:arrow_upper_right:](http://tatsy.github.io/lime)|
 |21|[@tek-nishi](https://github.com/tek-nishi)/[**BrickAndTrip**](https://github.com/tek-nishi/BrickAndTrip)|The source code of iOS App BRICK&TRIP||
 |21|[@tmyt](https://github.com/tmyt)/[**VDMHelper**](https://github.com/tmyt/VDMHelper)|Library for Windows10 VirtualDesktopManager over cross-process.||
 |21|[@tomoki](https://github.com/tomoki)/[**Shiranui**](https://github.com/tomoki/Shiranui)|Shiranui is new programming language supports live/test driven programming.||
-|21|[@unnonouno](https://github.com/unnonouno)/[**iconvpp**](https://github.com/unnonouno/iconvpp)|wrapper library of iconv for c++||
+|20|[@codelibs](https://github.com/codelibs)/[**libdxfrw**](https://github.com/codelibs/libdxfrw)|C++ library to read and write DXF/DWG files||
 |20|[@cybergarage](https://github.com/cybergarage)/[**mupnp-cc**](https://github.com/cybergarage/mupnp-cc)|mUPnP for C++ is a development package for UPnP™ developers. CyberLink controls these protocols automatically, and supports to create your devices and control points quickly.|[:arrow_upper_right:](http://www.cybergarage.org/)|
 |20|[@hecomi](https://github.com/hecomi)/[**uWintab**](https://github.com/hecomi/uWintab)|Wintab API plugin for Unity||
 |20|[@iwamatsu](https://github.com/iwamatsu)/[**slim**](https://github.com/iwamatsu/slim)| SLiM (Simple Login Manager) is a graphical login manager for X11||
 |20|[@keijiro](https://github.com/keijiro)/[**UnityPluginWithWSL**](https://github.com/keijiro/UnityPluginWithWSL)|Builds a Unity native plugin with using WSL (Windows Subsystem for Linux)||
 |20|[@moxuse](https://github.com/moxuse)/[**ofxGeoJSON**](https://github.com/moxuse/ofxGeoJSON)|openFrameworks addon to load and draw GeoJSON format files||
 |20|[@neubig](https://github.com/neubig)/[**travatar**](https://github.com/neubig/travatar)|This is a repository for the Travatar forest-to-string translation decoder||
+|20|[@planetchili](https://github.com/planetchili)/[**chili_framework**](https://github.com/planetchili/chili_framework)|This is the Chili Framework used in the world-famous, erection-inducing, cancer-curing Planet Chili C++ Tutorials. http://www.planetchili.net||
 |20|[@satoruhiga](https://github.com/satoruhiga)/[**ofxAnimationPrimitives**](https://github.com/satoruhiga/ofxAnimationPrimitives)|||
-|20|[@tatsy](https://github.com/tatsy)/[**lime**](https://github.com/tatsy/lime)|lime (Library for Image Editing)|[:arrow_upper_right:](http://tatsy.github.io/lime)|
+|20|[@unnonouno](https://github.com/unnonouno)/[**iconvpp**](https://github.com/unnonouno/iconvpp)|wrapper library of iconv for c++||
 |20|[@yasuhirohoshino](https://github.com/yasuhirohoshino)/[**ofxIBL**](https://github.com/yasuhirohoshino/ofxIBL)|||
-|19|[@codelibs](https://github.com/codelibs)/[**libdxfrw**](https://github.com/codelibs/libdxfrw)|C++ library to read and write DXF/DWG files||
+|19|[@giginet](https://github.com/giginet)/[**FCEUX-watchOS**](https://github.com/giginet/FCEUX-watchOS)|:space_invader: :watch: Play NES on watchOS||
 |19|[@morizotter](https://github.com/morizotter)/[**imgui-opengl-glfw-glew-cmake-demo**](https://github.com/morizotter/imgui-opengl-glfw-glew-cmake-demo)|Imgui w/ glfw + glew + cmake||
 |19|[@nocotan](https://github.com/nocotan)/[**chppl-tool**](https://github.com/nocotan/chppl-tool)|C/C++ package manager for header only libraries https://github.com/nocotan/chppL||
-|19|[@planetchili](https://github.com/planetchili)/[**chili_framework**](https://github.com/planetchili/chili_framework)|This is the Chili Framework used in the world-famous, erection-inducing, cancer-curing Planet Chili C++ Tutorials. http://www.planetchili.net||
 |19|[@sakuraio](https://github.com/sakuraio)/[**SakuraIOArduino**](https://github.com/sakuraio/SakuraIOArduino)|SAKURA Internet IoT Communication Module Library for Arduino||
 |19|[@satoruhiga](https://github.com/satoruhiga)/[**ofxAbletonLiveSet**](https://github.com/satoruhiga/ofxAbletonLiveSet)|Ableton Live Set (.als) Project File parser||
 |19|[@tado](https://github.com/tado)/[**idd_medilab15**](https://github.com/tado/idd_medilab15)|Media lab. 2015, at Tama Art University IDD.||
@@ -264,7 +265,6 @@
 |18|[@cos65535](https://github.com/cos65535)/[**ICPCLibrary**](https://github.com/cos65535/ICPCLibrary)|C++ Library for ICPC||
 |18|[@crishoj](https://github.com/crishoj)/[**OpenPNL**](https://github.com/crishoj/OpenPNL)|Open Source Probabilistic Networks Library from Intel (with community contributions)|[:arrow_upper_right:](http://sourceforge.net/projects/openpnl/)|
 |18|[@fujimizu](https://github.com/fujimizu)/[**mining**](https://github.com/fujimizu/mining)|programs for data mining||
-|18|[@giginet](https://github.com/giginet)/[**FCEUX-watchOS**](https://github.com/giginet/FCEUX-watchOS)|:space_invader: :watch: Play NES on watchOS||
 |18|[@ikegami-yukino](https://github.com/ikegami-yukino)/[**oll-python**](https://github.com/ikegami-yukino/oll-python)|Online machine learning algorithms (based on OLL C++ library)||
 |18|[@koron](https://github.com/koron)/[**bdf2ttf**](https://github.com/koron/bdf2ttf)|Convert BDF font file to TTF (embed bitmap as is, not conver to vector)||
 |18|[@kyokomi](https://github.com/kyokomi)/[**Cocos2dxSRPGQuest**](https://github.com/kyokomi/Cocos2dxSRPGQuest)|Cocos2d-xで作るSRPGゲーム||
@@ -274,22 +274,27 @@
 |18|[@tokuhirom](https://github.com/tokuhirom)/[**p5-http-server-fast**](https://github.com/tokuhirom/p5-http-server-fast)|(DEPRECATED)||
 |17|[@Code-Hex](https://github.com/Code-Hex)/[**White-MobileTerminal**](https://github.com/Code-Hex/White-MobileTerminal)|Supports ios versions from 7.0 to 8.1 !!||
 |17|[@VFR-maniac](https://github.com/VFR-maniac)/[**opencore-amr**](https://github.com/VFR-maniac/opencore-amr)|Unofficial mirror of the official opencore-amr repository.|[:arrow_upper_right:](http://sourceforge.net/projects/opencore-amr/)|
+|17|[@eagletmt](https://github.com/eagletmt)/[**misc**](https://github.com/eagletmt/misc)|いろいろ|[:arrow_upper_right:](https://wanko.cc/)|
 |17|[@hackerkid](https://github.com/hackerkid)/[**LightOJ-Solutions**](https://github.com/hackerkid/LightOJ-Solutions)|:sparkles: LightOJ Solutions with hints||
 |17|[@kazeburo](https://github.com/kazeburo)/[**Redis-Jet**](https://github.com/kazeburo/Redis-Jet)|Yet another XS implemented Redis client||
+|17|[@knu](https://github.com/knu)/[**ruby-unf_ext**](https://github.com/knu/ruby-unf_ext)|Unicode Normalization Form support library for CRuby||
 |17|[@kumagi](https://github.com/kumagi)/[**msgskip**](https://github.com/kumagi/msgskip)|lock-free skip list implementation with message-pack for avoiding indirection||
 |17|[@neubig](https://github.com/neubig)/[**modlm**](https://github.com/neubig/modlm)|modlm: A toolkit for mixture of distributions language models||
 |17|[@satoruhiga](https://github.com/satoruhiga)/[**ofws20014**](https://github.com/satoruhiga/ofws20014)|||
 |17|[@satoruhiga](https://github.com/satoruhiga)/[**ofxSPK**](https://github.com/satoruhiga/ofxSPK)|||
-|17|[@sorccu](https://github.com/sorccu)/[**node-jpeg-turbo**](https://github.com/sorccu/node-jpeg-turbo)|Limited libjpeg-turbo bindings for Node.js.||
 |17|[@tado](https://github.com/tado)/[**openFrameworks_examples_v0073**](https://github.com/tado/openFrameworks_examples_v0073)|||
 |17|[@zcbenz](https://github.com/zcbenz)/[**node-fork**](https://github.com/zcbenz/node-fork)|Add concurrency to node.js||
 |16|[@edsonsantoro](https://github.com/edsonsantoro)/[**NWheeledPlugin**](https://github.com/edsonsantoro/NWheeledPlugin)|A Vehicle Plugin for Unreal Engine 4||
-|16|[@knu](https://github.com/knu)/[**ruby-unf_ext**](https://github.com/knu/ruby-unf_ext)|Unicode Normalization Form support library for CRuby||
 |16|[@kuronekodaisuki](https://github.com/kuronekodaisuki)/[**StitchCam**](https://github.com/kuronekodaisuki/StitchCam)|Real time image stitch||
+|16|[@lyokato](https://github.com/lyokato)/[**cpp-cryptlite**](https://github.com/lyokato/cpp-cryptlite)|C++ library that supports base64-encoding, sha1/sha256 hashing, and hmac calculation||
+|16|[@nama-gatsuo](https://github.com/nama-gatsuo)/[**ofxDeferredShading**](https://github.com/nama-gatsuo/ofxDeferredShading)|an openFrameworks addon for shading, lighting, lens simulation.||
 |16|[@nariakiiwatani](https://github.com/nariakiiwatani)/[**ofxSegmentDisplay**](https://github.com/nariakiiwatani/ofxSegmentDisplay)|LED segment display||
+|16|[@neubig](https://github.com/neubig)/[**pgibbs**](https://github.com/neubig/pgibbs)|An implementation of parallel gibbs sampling for word segmentation and POS tagging.||
 |16|[@neubig](https://github.com/neubig)/[**pialign**](https://github.com/neubig/pialign)|pialign - A Phrasal ITG Aligner|[:arrow_upper_right:](http://www.phontron.com/pialign)|
 |16|[@rigaya](https://github.com/rigaya)/[**x264guiEx**](https://github.com/rigaya/x264guiEx)|拡張 x264 出力(GUI) Ex||
+|16|[@sorccu](https://github.com/sorccu)/[**node-jpeg-turbo**](https://github.com/sorccu/node-jpeg-turbo)|Limited libjpeg-turbo bindings for Node.js.||
 |16|[@tado](https://github.com/tado)/[**AudioVisualApps**](https://github.com/tado/AudioVisualApps)|Audio + Visual applications for live performance, using openFrameworks and SuperCollider.||
+|16|[@takmin](https://github.com/takmin)/[**ObjectMarker**](https://github.com/takmin/ObjectMarker)|Image Annotation Tool for Object Detection and Tracking written with OpenCV||
 |16|[@tatsy](https://github.com/tatsy)/[**LightField**](https://github.com/tatsy/LightField)|Light field viewer and virtual light field camera||
 |16|[@tatsy](https://github.com/tatsy)/[**educnn**](https://github.com/tatsy/educnn)|Simple implementation of CNN (convolutional neural network) with precise-comments.||
 |16|[@tekezo](https://github.com/tekezo)/[**Karabiner-VirtualHIDDevice**](https://github.com/tekezo/Karabiner-VirtualHIDDevice)|Karabiner-VirtualHIDDevice is a virtual HID device driver for macOS.||
@@ -302,17 +307,14 @@
 |15|[@gongo](https://github.com/gongo)/[**Tython**](https://github.com/gongo/Tython)|Muscle Language "Tython"||
 |15|[@i-saint](https://github.com/i-saint)/[**OpenToonzPluginForUnity**](https://github.com/i-saint/OpenToonzPluginForUnity)|OpenToonz plugin as Unity post effects||
 |15|[@kikairoya](https://github.com/kikairoya)/[**ntfmt**](https://github.com/kikairoya/ntfmt)|new type-safe string output formatter||
-|15|[@lyokato](https://github.com/lyokato)/[**cpp-cryptlite**](https://github.com/lyokato/cpp-cryptlite)|C++ library that supports base64-encoding, sha1/sha256 hashing, and hmac calculation||
 |15|[@melpon](https://github.com/melpon)/[**ginger**](https://github.com/melpon/ginger)|C++ Template Engine for HTML/CSS/JavaScript||
 |15|[@mimura1133](https://github.com/mimura1133)/[**mm_STEP_M**](https://github.com/mimura1133/mm_STEP_M)|STEP (タグエディタ) の派生版|[:arrow_upper_right:](http://mimumimu.net/software/#STEP_M)|
 |15|[@miyako](https://github.com/miyako)/[**4d-plugin-barcode**](https://github.com/miyako/4d-plugin-barcode)|4D implementation of libqrencode 3.4.1 and libzbar 0.10||
 |15|[@motoishmz](https://github.com/motoishmz)/[**ofxShadow**](https://github.com/motoishmz/ofxShadow)|simple shader for drawing shadows on the floor||
-|15|[@nama-gatsuo](https://github.com/nama-gatsuo)/[**ofxDeferredShading**](https://github.com/nama-gatsuo/ofxDeferredShading)|an openFrameworks addon for shading, lighting, lens simulation.||
-|15|[@neubig](https://github.com/neubig)/[**pgibbs**](https://github.com/neubig/pgibbs)|An implementation of parallel gibbs sampling for word segmentation and POS tagging.||
-|15|[@takmin](https://github.com/takmin)/[**ObjectMarker**](https://github.com/takmin/ObjectMarker)|Image Annotation Tool for Object Detection and Tracking written with OpenCV||
 |15|[@tatsy](https://github.com/tatsy)/[**spica**](https://github.com/tatsy/spica)|spica is a cross-platform renderer|[:arrow_upper_right:](https://tatsy.github.io/spica/)|
 |15|[@yoggy](https://github.com/yoggy)/[**sendosc**](https://github.com/yoggy/sendosc)|sendosc is a simple command-line tool for sending OSC packet.||
 |15|[@yosuke-furukawa](https://github.com/yosuke-furukawa)/[**execsyncs**](https://github.com/yosuke-furukawa/execsyncs)|execSync for node v0.10 and v0.11.||
+|14|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**ofxEpilog**](https://github.com/YCAMInterlab/ofxEpilog)|||
 |14|[@asi1024](https://github.com/asi1024)/[**competitive-library**](https://github.com/asi1024/competitive-library)|A library manager for competitive programming|[:arrow_upper_right:](https://asi1024.github.io/competitive-library/)|
 |14|[@blackball](https://github.com/blackball)/[**mui**](https://github.com/blackball/mui)|Mouse oriented UI library in 500 lines of codes||
 |14|[@blitzprog](https://github.com/blitzprog)/[**flua**](https://github.com/blitzprog/flua)|:gem: Programming language abstracting existing ones.|[:arrow_upper_right:](http://flua-lang.org)|
@@ -334,13 +336,14 @@
 |14|[@satoruhiga](https://github.com/satoruhiga)/[**ofxAUPlugin**](https://github.com/satoruhiga/ofxAUPlugin)|a Audio Unit library for openFrameworks||
 |14|[@satoruhiga](https://github.com/satoruhiga)/[**ofxPublishScreen**](https://github.com/satoruhiga/ofxPublishScreen)|Publish screen via TCP using zmq protocol||
 |14|[@satoruhiga](https://github.com/satoruhiga)/[**ofxUGen**](https://github.com/satoruhiga/ofxUGen)|http://code.google.com/p/ugen/||
+|14|[@tado](https://github.com/tado)/[**ofxAlphaMaskTexture**](https://github.com/tado/ofxAlphaMaskTexture)|Composit textures using GLSL||
 |14|[@tado](https://github.com/tado)/[**tau_ma2_13**](https://github.com/tado/tau_ma2_13)|openFrameworks examples for Media art II class at Tama Art University||
 |14|[@tatsy](https://github.com/tatsy)/[**ColorConstancy**](https://github.com/tatsy/ColorConstancy)|Implementation of several algorithms for color constancy||
 |14|[@tatsy](https://github.com/tatsy)/[**FastTranslucentShader**](https://github.com/tatsy/FastTranslucentShader)|Fast translucent object rendering with GLSL.||
+|14|[@tatsy](https://github.com/tatsy)/[**ImageProcessing**](https://github.com/tatsy/ImageProcessing)|Image processing programs||
 |14|[@vmarquet](https://github.com/vmarquet)/[**opencv-disparity-map-tuner**](https://github.com/vmarquet/opencv-disparity-map-tuner)|A simple Qt GUI application to tune OpenCV StereoCorrespondenceBM parameters and see live updates||
 |13|[@DaikiMaekawa](https://github.com/DaikiMaekawa)/[**neovim.cpp**](https://github.com/DaikiMaekawa/neovim.cpp)|C++ client for Neovim||
 |13|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**RMeCab**](https://github.com/IshidaMotohiro/RMeCab)|Interface to MeCab||
-|13|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**ofxEpilog**](https://github.com/YCAMInterlab/ofxEpilog)|||
 |13|[@akuukka](https://github.com/akuukka)/[**unitvectorpack**](https://github.com/akuukka/unitvectorpack)|Pack unit 3D vectors (such as normal vectors) into integer type||
 |13|[@deltaluca](https://github.com/deltaluca)/[**caxe**](https://github.com/deltaluca/caxe)|haXe preprocessor||
 |13|[@gatgui](https://github.com/gatgui)/[**SeExprArnold**](https://github.com/gatgui/SeExprArnold)|SeExpr shader for Arnold renderer||
@@ -354,6 +357,7 @@
 |13|[@ktnyt](https://github.com/ktnyt)/[**BMS**](https://github.com/ktnyt/BMS)|A cross platform BMS player project||
 |13|[@laysakura](https://github.com/laysakura)/[**MySQLite-Storage-Engine**](https://github.com/laysakura/MySQLite-Storage-Engine)|MySQL storage engine that reads/writes SQLite database files.||
 |13|[@nariakiiwatani](https://github.com/nariakiiwatani)/[**ofxMask**](https://github.com/nariakiiwatani/ofxMask)|||
+|13|[@norishigefukushima](https://github.com/norishigefukushima)/[**dct_simd**](https://github.com/norishigefukushima/dct_simd)|SIMD implementation of 4x4 and 8x8 Fast DCT with OpenCV demo||
 |13|[@satoruhiga](https://github.com/satoruhiga)/[**ofxBt**](https://github.com/satoruhiga/ofxBt)|a simple wrapper for Bullet Physics Library.||
 |13|[@satoruhiga](https://github.com/satoruhiga)/[**ofxGlobalContext**](https://github.com/satoruhiga/ofxGlobalContext)|||
 |13|[@satoruhiga](https://github.com/satoruhiga)/[**ofxInteractivePrimitives**](https://github.com/satoruhiga/ofxInteractivePrimitives)|WIP||
@@ -361,7 +365,6 @@
 |13|[@sbkro](https://github.com/sbkro)/[**Qco_for_iOS**](https://github.com/sbkro/Qco_for_iOS)|'Qco' is a simple Objective-C library for encode QR code.||
 |13|[@shokai](https://github.com/shokai)/[**cpp-libboost-study**](https://github.com/shokai/cpp-libboost-study)|boost c++ libのお勉強||
 |13|[@slankdev](https://github.com/slankdev)/[**stcp**](https://github.com/slankdev/stcp)|A High Performance Network Stack using DPDK.|[:arrow_upper_right:](https://susanow.github.io)|
-|13|[@tatsy](https://github.com/tatsy)/[**ImageProcessing**](https://github.com/tatsy/ImageProcessing)|Image processing programs||
 |12|[@2bbb](https://github.com/2bbb)/[**ofxJpegGlitch**](https://github.com/2bbb/ofxJpegGlitch)|glitch jpeg with openframeworks||
 |12|[@hagino3000](https://github.com/hagino3000)/[**kinectbook**](https://github.com/hagino3000/kinectbook)|Sample programs for Kinect Hackers Manual|[:arrow_upper_right:](http://www.rutles.net/books/303.html)|
 |12|[@hakobera](https://github.com/hakobera)/[**node-mecab-binding**](https://github.com/hakobera/node-mecab-binding)|Very simple MeCab binding for Node.js||
@@ -370,13 +373,12 @@
 |12|[@imos](https://github.com/imos)/[**Puzzle**](https://github.com/imos/Puzzle)|Solvers and makers for Pencil Puzzles||
 |12|[@kikairoya](https://github.com/kikairoya)/[**modern-git**](https://github.com/kikairoya/modern-git)|A modern implementation of Git with C++||
 |12|[@kyamagu](https://github.com/kyamagu)/[**pf-segmentation**](https://github.com/kyamagu/pf-segmentation)|Image segmentation algorithm of [P Felzenszwalb 2004] for Matlab||
+|12|[@mashiro](https://github.com/mashiro)/[**rabbit**](https://github.com/mashiro/rabbit)|very handy rapidjson wrapper library||
 |12|[@mattn](https://github.com/mattn)/[**libcallex-vim**](https://github.com/mattn/libcallex-vim)|libcall extension for vim|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
 |12|[@mcfiredrill](https://github.com/mcfiredrill)/[**libgme**](https://github.com/mcfiredrill/libgme)|Blargg's video game music file emulation/playback library||
 |12|[@nghialv](https://github.com/nghialv)/[**openGL-tankgame**](https://github.com/nghialv/openGL-tankgame)|A simple 3D game using openGL||
-|12|[@norishigefukushima](https://github.com/norishigefukushima)/[**dct_simd**](https://github.com/norishigefukushima/dct_simd)|SIMD implementation of 4x4 and 8x8 Fast DCT with OpenCV demo||
 |12|[@open-rdc](https://github.com/open-rdc)/[**autonomous-vehicle**](https://github.com/open-rdc/autonomous-vehicle)|This program is developed for Tsukuba Challenge|[:arrow_upper_right:](http://www.hayashibara.net/tsukuba_challenge)|
 |12|[@rhykw](https://github.com/rhykw)/[**pdns-mrubybackend**](https://github.com/rhykw/pdns-mrubybackend)|mruby backend for PowerDNS ||
-|12|[@tado](https://github.com/tado)/[**ofxAlphaMaskTexture**](https://github.com/tado/ofxAlphaMaskTexture)|Composit textures using GLSL||
 |12|[@thorikawa](https://github.com/thorikawa)/[**akaze-opencv**](https://github.com/thorikawa/akaze-opencv)|wrap AKAZE features implementatino to cv::Feature2D API without rebuilding OpenCV||
 |12|[@tork-a](https://github.com/tork-a)/[**rtmros_nextage**](https://github.com/tork-a/rtmros_nextage)|ROS-OpenRTM-based opensource robot controller software for dual-armed robot Nextage from Kawada Industries|[:arrow_upper_right:](http://wiki.ros.org/rtmros_nextage)|
 |12|[@wellflat](https://github.com/wellflat)/[**opencv-samples**](https://github.com/wellflat/opencv-samples)|OpenCV sample codes (C++/Python)|[:arrow_upper_right:](http://opencv.org/)|
@@ -395,21 +397,21 @@
 |11|[@iwiwi](https://github.com/iwiwi)/[**minimal-perfect-hash**](https://github.com/iwiwi/minimal-perfect-hash)|An implementation of minimal perfect hash function||
 |11|[@kyamagu](https://github.com/kyamagu)/[**matlab-leveldb**](https://github.com/kyamagu/matlab-leveldb)|Matlab LevelDB wrapper||
 |11|[@maekawatoshiki](https://github.com/maekawatoshiki)/[**qcc**](https://github.com/maekawatoshiki/qcc)|qcc is a small toy C compiler||
-|11|[@mashiro](https://github.com/mashiro)/[**rabbit**](https://github.com/mashiro/rabbit)|very handy rapidjson wrapper library||
 |11|[@naotokui](https://github.com/naotokui)/[**ofxBPMDetector**](https://github.com/naotokui/ofxBPMDetector)|openFrameworks addon for BPM detection||
 |11|[@nyanp](https://github.com/nyanp)/[**picotest**](https://github.com/nyanp/picotest)|Single-header unit testing framework, subset of googletest||
 |11|[@peta-okechan](https://github.com/peta-okechan)/[**emris**](https://github.com/peta-okechan/emris)|3D TETRIS implementation in C++ (for Emscripten)||
-|11|[@planetchili](https://github.com/planetchili)/[**3D_Fundamentals**](https://github.com/planetchili/3D_Fundamentals)|Base code for the Planet Chili tutorial series "3D Fundamentals" on YouTube.||
 |11|[@rezoo](https://github.com/rezoo)/[**cvutil**](https://github.com/rezoo/cvutil)|Convenient algorithms for OpenCV||
 |11|[@rigaya](https://github.com/rigaya)/[**VCEEnc**](https://github.com/rigaya/VCEEnc)|VCEによる高速エンコードの性能実験||
 |11|[@satoruhiga](https://github.com/satoruhiga)/[**ofxIterativeBoxBlur**](https://github.com/satoruhiga/ofxIterativeBoxBlur)|Fast and large radius blur||
 |11|[@satoruhiga](https://github.com/satoruhiga)/[**ofxPy**](https://github.com/satoruhiga/ofxPy)|||
 |11|[@syuhari](https://github.com/syuhari)/[**CCMask**](https://github.com/syuhari/CCMask)|mask a CCSprite with cocos2d-x v2.0||
+|11|[@tatsy](https://github.com/tatsy)/[**qt5-shadow-maps**](https://github.com/tatsy/qt5-shadow-maps)|Shadow mapping implementation with Qt5 and OpenGL||
 |11|[@tmichi](https://github.com/tmichi)/[**image**](https://github.com/tmichi/image)|Sample codes for image processing in C++ and Java.||
 |11|[@tokuhirom](https://github.com/tokuhirom)/[**devel-bindpp**](https://github.com/tokuhirom/devel-bindpp)|Devel::BindPP makes writing perl extension easily||
 |11|[@vvakame](https://github.com/vvakame)/[**C92-Splatoon2Guide**](https://github.com/vvakame/C92-Splatoon2Guide)|負けたくない！Splatoon2本のリポジトリ||
 |11|[@wolfv](https://github.com/wolfv)/[**pygal**](https://github.com/wolfv/pygal)|Python Geometric Algorithms Library (CGAL Bindings)||
 |11|[@yasuhirohoshino](https://github.com/yasuhirohoshino)/[**oF-MultiShadowExample**](https://github.com/yasuhirohoshino/oF-MultiShadowExample)|||
+|10|[@UnaNancyOwen](https://github.com/UnaNancyOwen)/[**Tutorials**](https://github.com/UnaNancyOwen/Tutorials)|Visual Studio Projects for PCL Tutorials|[:arrow_upper_right:](http://pointclouds.org/documentation/tutorials/)|
 |10|[@VFR-maniac](https://github.com/VFR-maniac)/[**VapourSynth-FFT3DFilter**](https://github.com/VFR-maniac/VapourSynth-FFT3DFilter)|VapourSynth port of FFT3DFilter||
 |10|[@akisaarinen](https://github.com/akisaarinen)/[**qmltweeter**](https://github.com/akisaarinen/qmltweeter)|QML-based Twitter-client for educational purposes||
 |10|[@chikuzen](https://github.com/chikuzen)/[**TCannyMod**](https://github.com/chikuzen/TCannyMod)|Canny edge detection filter for Avisynth2.6||
@@ -421,8 +423,8 @@
 |10|[@kubohiroya](https://github.com/kubohiroya)/[**node-libpafe**](https://github.com/kubohiroya/node-libpafe)|a Node.js addon to access FeliCa with SONY PaSoRi(RC-S310,RC-S320,RC-S330)||
 |10|[@kumagi](https://github.com/kumagi)/[**dissector-msgpack-rpc**](https://github.com/kumagi/dissector-msgpack-rpc)|Wireshark Pluguin of MessagePack-RPC||
 |10|[@kyokomi](https://github.com/kyokomi)/[**Cocos2dxNovelGame**](https://github.com/kyokomi/Cocos2dxNovelGame)|Cocos2dxで作るNovelGame。||
-|10|[@leios](https://github.com/leios)/[**algorithm-archive**](https://github.com/leios/algorithm-archive)|The Arcane Algorithm Archive for all our adventures on LeiosOS / simuleios||
 |10|[@loveandsheep](https://github.com/loveandsheep)/[**ofxKsmrFragmentFx**](https://github.com/loveandsheep/ofxKsmrFragmentFx)|Visual effects addon with fragment shader for openFrameworks.||
+|10|[@mattn](https://github.com/mattn)/[**mruby-fltk3**](https://github.com/mattn/mruby-fltk3)|||
 |10|[@milk-cocoa](https://github.com/milk-cocoa)/[**Milkcocoa_ESP8266_SDK**](https://github.com/milk-cocoa/Milkcocoa_ESP8266_SDK)|Milkcocoa ESP8266 SDK||
 |10|[@miyosuda](https://github.com/miyosuda)/[**rodent**](https://github.com/miyosuda/rodent)|3D learning environment for Linux/MacOSX||
 |10|[@mzyy94](https://github.com/mzyy94)/[**pvr.chinachu**](https://github.com/mzyy94/pvr.chinachu)|Chinachu client for Kodi/XBMC|[:arrow_upper_right:](http://mzyy94.com/blog/2015/08/08/pvr-chinachu-addon/)|
@@ -431,11 +433,11 @@
 |10|[@noppoMan](https://github.com/noppoMan)/[**node-native-extension-in-swift**](https://github.com/noppoMan/node-native-extension-in-swift)|An experimental repo for Node.js native addons that written in Swift.||
 |10|[@nyaxt](https://github.com/nyaxt)/[**ptnk**](https://github.com/nyaxt/ptnk)|ptnk: A Log-structured Database Manager optimized for new storage devices||
 |10|[@open-rdc](https://github.com/open-rdc)/[**icart**](https://github.com/open-rdc/icart)|icart packages provides robot models regarding i-Cart series, simulation environments and ypspur control bridge on ROS.|[:arrow_upper_right:](http://wiki.ros.org/icart_mini)|
+|10|[@planetchili](https://github.com/planetchili)/[**3D_Fundamentals**](https://github.com/planetchili/3D_Fundamentals)|Base code for the Planet Chili tutorial series "3D Fundamentals" on YouTube.||
 |10|[@pochi0701](https://github.com/pochi0701)/[**TinyJS**](https://github.com/pochi0701/TinyJS)|TinyJS aims to be an extremely simple (~2000 line) JavaScript interpreter||
 |10|[@seanchas116](https://github.com/seanchas116)/[**amulet**](https://github.com/seanchas116/amulet)|C++ library for container manipulation and monads||
 |10|[@susanow](https://github.com/susanow)/[**susanow**](https://github.com/susanow/susanow)|Thread based NFVi on DPDK|[:arrow_upper_right:](http://susanow.dpdk.ninja)|
 |10|[@syoyo](https://github.com/syoyo)/[**aobench_cs**](https://github.com/syoyo/aobench_cs)|aobench in OpenGL compute shader!||
-|10|[@tatsy](https://github.com/tatsy)/[**qt5-shadow-maps**](https://github.com/tatsy/qt5-shadow-maps)|Shadow mapping implementation with Qt5 and OpenGL||
 |9|[@Ushio](https://github.com/Ushio)/[**HaltonSequenceVSRandom**](https://github.com/Ushio/HaltonSequenceVSRandom)|HaltonSequence vs Random in openframeworks||
 |9|[@Ushio](https://github.com/Ushio)/[**MathBasedCoverFlow**](https://github.com/Ushio/MathBasedCoverFlow)|||
 |9|[@a4lg](https://github.com/a4lg)/[**ffuzzypp**](https://github.com/a4lg/ffuzzypp)|C++ implementation of ssdeep-compatible fast fuzzy hashing||
@@ -452,7 +454,6 @@
 |9|[@kumagi](https://github.com/kumagi)/[**lfmalloc**](https://github.com/kumagi/lfmalloc)|lock-free malloc implementation||
 |9|[@luqmanarifin](https://github.com/luqmanarifin)/[**cp**](https://github.com/luqmanarifin/cp)|A repository to backup my competitive programming source code since 2013||
 |9|[@mattn](https://github.com/mattn)/[**coffee-script-v8**](https://github.com/mattn/coffee-script-v8)|CoffeeScript compiler/runner|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
-|9|[@mattn](https://github.com/mattn)/[**mruby-fltk3**](https://github.com/mattn/mruby-fltk3)|||
 |9|[@mattn](https://github.com/mattn)/[**mysql-mruby**](https://github.com/mattn/mysql-mruby)|||
 |9|[@mik14a](https://github.com/mik14a)/[**VOX4U**](https://github.com/mik14a/VOX4U)|MagicaVoxel VOX Format import plugin for Unreal Engine 4||
 |9|[@naoa](https://github.com/naoa)/[**groonga-word2vec**](https://github.com/naoa/groonga-word2vec)|||
@@ -464,9 +465,11 @@
 |9|[@satoruhiga](https://github.com/satoruhiga)/[**ofxOpenGLContextScope**](https://github.com/satoruhiga/ofxOpenGLContextScope)|||
 |9|[@satoruhiga](https://github.com/satoruhiga)/[**ofxPolyline2Mesh**](https://github.com/satoruhiga/ofxPolyline2Mesh)|ofPolyline to ofMesh||
 |9|[@shimat](https://github.com/shimat)/[**videoinputsharp**](https://github.com/shimat/videoinputsharp)|.NET wrapper to the videoInput library||
+|9|[@sile](https://github.com/sile)/[**ipc-msgque**](https://github.com/sile/ipc-msgque)|Lock-Free message queue for IPC ||
 |9|[@snaka](https://github.com/snaka)/[**IPMsg_meets_Growl**](https://github.com/snaka/IPMsg_meets_Growl)|IP MessengerクライアントにGrowlへの通知機能を追加してみた。 english: IP Messenger's notification via Growl for Windows (GNTP server).||
 |9|[@syuhari](https://github.com/syuhari)/[**CCBigImage**](https://github.com/syuhari/CCBigImage)|||
 |9|[@tado](https://github.com/tado)/[**ofxVboParticles**](https://github.com/tado/ofxVboParticles)|||
+|9|[@ty4tw](https://github.com/ty4tw)/[**KashiwaGeeks**](https://github.com/ty4tw/KashiwaGeeks)|LoRaWAN Application framework for Arduino.||
 |8|[@0x0c](https://github.com/0x0c)/[**AeonNodeEditor**](https://github.com/0x0c/AeonNodeEditor)|||
 |8|[@173210](https://github.com/173210)/[**vita-analyze**](https://github.com/173210/vita-analyze)|A tool to add missing metadata specific to PS Vita to ELF||
 |8|[@2bbb](https://github.com/2bbb)/[**ofxJsonUtils**](https://github.com/2bbb/ofxJsonUtils)|utilities for ofJson||
@@ -478,7 +481,6 @@
 |8|[@ToruNiina](https://github.com/ToruNiina)/[**Mjolnir**](https://github.com/ToruNiina/Mjolnir)|general purpose molecular dynamics simulation package||
 |8|[@ToruNiina](https://github.com/ToruNiina)/[**toml11**](https://github.com/ToruNiina/toml11)|TOML for Modern C++||
 |8|[@UnaNancyOwen](https://github.com/UnaNancyOwen)/[**PCLFusion**](https://github.com/UnaNancyOwen/PCLFusion)|Drawing Point Cloud that reconstructed with Kinect Fusion using Point Cloud Library||
-|8|[@UnaNancyOwen](https://github.com/UnaNancyOwen)/[**Tutorials**](https://github.com/UnaNancyOwen/Tutorials)|Visual Studio Projects for PCL Tutorials|[:arrow_upper_right:](http://pointclouds.org/documentation/tutorials/)|
 |8|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**mapamok**](https://github.com/YCAMInterlab/mapamok)|||
 |8|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**ofxSubtitles**](https://github.com/YCAMInterlab/ofxSubtitles)|an addon for displaying a subtitle track along with a video or audio file||
 |8|[@baku89](https://github.com/baku89)/[**depthcope-tools**](https://github.com/baku89/depthcope-tools)|Shooting system for 'depthcope'|[:arrow_upper_right:](http://baku89.com/work/depthcope)|
@@ -505,12 +507,10 @@
 |8|[@kikairoya](https://github.com/kikairoya)/[**black_circle**](https://github.com/kikairoya/black_circle)|twitter client||
 |8|[@mitmul](https://github.com/mitmul)/[**pybing**](https://github.com/mitmul/pybing)|A Python wrapper of OpenCV implementation of BING Objectness||
 |8|[@nara256](https://github.com/nara256)/[**mhz19_uart**](https://github.com/nara256/mhz19_uart)|Arduino IDE library for operating the MH-Z19 CO2 sensor in ESP-WROOM-02/32(esp8266/ESP32) or Arduino||
-|8|[@primenumber](https://github.com/primenumber)/[**issen**](https://github.com/primenumber/issen)|オセロAIの高速な実装||
 |8|[@recruitcojp](https://github.com/recruitcojp)/[**OdbcHive**](https://github.com/recruitcojp/OdbcHive)|Hive ODBC driver for Windows|[:arrow_upper_right:](http://www.recruit.co.jp/)|
 |8|[@rettuce](https://github.com/rettuce)/[**.hito-project**](https://github.com/rettuce/.hito-project)|.hito project||
 |8|[@satoruhiga](https://github.com/satoruhiga)/[**ofxDataPath**](https://github.com/satoruhiga/ofxDataPath)|||
 |8|[@seanchas116](https://github.com/seanchas116)/[**Garnet**](https://github.com/seanchas116/Garnet)|mruby bindings for Qt (QObject & QML)||
-|8|[@sile](https://github.com/sile)/[**ipc-msgque**](https://github.com/sile/ipc-msgque)|Lock-Free message queue for IPC ||
 |8|[@tado](https://github.com/tado)/[**CodingEveryMorning**](https://github.com/tado/CodingEveryMorning)|openFrameworks coding exercise every morning||
 |8|[@tado](https://github.com/tado)/[**TidalVisual**](https://github.com/tado/TidalVisual)|TidalCycles + openFrameworks experiments||
 |8|[@tado](https://github.com/tado)/[**ofxGLSLSimplexNoise**](https://github.com/tado/ofxGLSLSimplexNoise)|Simplex noise generator using GLSL||
@@ -532,6 +532,7 @@
 |7|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofAnimatedCrowdRenderingExample**](https://github.com/Akira-Hayasaka/ofAnimatedCrowdRenderingExample)|openFrameworks Animated Crowd Rendering Example||
 |7|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxBulletPhysics**](https://github.com/Akira-Hayasaka/ofxBulletPhysics)|###Danger, not completed yet### openFrameworks Bullet addon.||
 |7|[@Atrac613](https://github.com/Atrac613)/[**egawer-iOS**](https://github.com/Atrac613/egawer-iOS)|||
+|7|[@DaikiMaekawa](https://github.com/DaikiMaekawa)/[**RoboticsProject**](https://github.com/DaikiMaekawa/RoboticsProject)|千葉工業大学　ロボティクスディベロップメントプロジェクト　参考資料||
 |7|[@Gnurou](https://github.com/Gnurou)/[**kdevelop**](https://github.com/Gnurou/kdevelop)|Some experiments with KDevelop||
 |7|[@HatsuneMiku3939](https://github.com/HatsuneMiku3939)/[**activity-tracker**](https://github.com/HatsuneMiku3939/activity-tracker)|An agent of personal activity monitoring system for Windows desktop.||
 |7|[@Hiroki11x](https://github.com/Hiroki11x)/[**openFrameworksSample**](https://github.com/Hiroki11x/openFrameworksSample)|openFrameworks Project Sample Code|[:arrow_upper_right:](http://qiita.com/Hiroki11x)|
@@ -564,7 +565,7 @@
 |7|[@kana](https://github.com/kana)/[**keyremap4macbook**](https://github.com/kana/keyremap4macbook)|Copy of KeyRemap4MacBook with some my hacks.||
 |7|[@kanreisa](https://github.com/kanreisa)/[**TSAppSelector**](https://github.com/kanreisa/TSAppSelector)|Resolves Battle of TypeScript vs MPEG-2 TS.|[:arrow_upper_right:](https://r2.ag/ts-app-selector/)|
 |7|[@kaorun55](https://github.com/kaorun55)/[**kinect_sdk_sandbox**](https://github.com/kaorun55/kinect_sdk_sandbox)|MS Kinect 公式 SDKをつかっていろいろと||
-|7|[@katahiromz](https://github.com/katahiromz)/[**RisohEditor**](https://github.com/katahiromz/RisohEditor)|Win32API resource editor|[:arrow_upper_right:](http://katahiromz.web.fc2.com/re/en/index.html)|
+|7|[@katahiromz](https://github.com/katahiromz)/[**RisohEditor**](https://github.com/katahiromz/RisohEditor)|Another free Win32 resource editor|[:arrow_upper_right:](http://katahiromz.web.fc2.com/re/en/index.html)|
 |7|[@knu](https://github.com/knu)/[**ruby-digest-extra**](https://github.com/knu/ruby-digest-extra)|Modules related to message digesting algorithms that conform to the standard Digest API (ext/digest)||
 |7|[@kobake](https://github.com/kobake)/[**mlocate32**](https://github.com/kobake/mlocate32)|mlocate for Windows||
 |7|[@komiya-atsushi](https://github.com/komiya-atsushi)/[**node-marisa-trie**](https://github.com/komiya-atsushi/node-marisa-trie)|marisa-trie for Node.js||
@@ -582,6 +583,7 @@
 |7|[@norishigefukushima](https://github.com/norishigefukushima)/[**Separable-Edge-Preserving-Filter**](https://github.com/norishigefukushima/Separable-Edge-Preserving-Filter)|http://fukushima.web.nitech.ac.jp/research/separable.html||
 |7|[@ohac](https://github.com/ohac)/[**sha1coin**](https://github.com/ohac/sha1coin)|Finding 2ch tripcode with mining||
 |7|[@otmb](https://github.com/otmb)/[**cocoPuzzle**](https://github.com/otmb/cocoPuzzle)|Cocos2d-xでツム○ム風パズルを作る||
+|7|[@primenumber](https://github.com/primenumber)/[**issen**](https://github.com/primenumber/issen)|オセロAIの高速な実装||
 |7|[@r9y9](https://github.com/r9y9)/[**WORLD**](https://github.com/r9y9/WORLD)|A modified version of WORLD (original: http://ml.cs.yamanashi.ac.jp/world/english/index.html)||
 |7|[@rhysd](https://github.com/rhysd)/[**FrozenString**](https://github.com/rhysd/FrozenString)|C++ immutable string library in C++11 constexpr and type-level||
 |7|[@rti7743](https://github.com/rti7743)/[**homefs**](https://github.com/rti7743/homefs)|||
@@ -596,11 +598,9 @@
 |7|[@thorikawa](https://github.com/thorikawa)/[**Glascouter**](https://github.com/thorikawa/Glascouter)|Dragonball Z Scouter for Google Glass||
 |7|[@tokuhirom](https://github.com/tokuhirom)/[**Text-Markdown-Hoedown**](https://github.com/tokuhirom/Text-Markdown-Hoedown)|||
 |7|[@tokuhirom](https://github.com/tokuhirom)/[**nanosocket**](https://github.com/tokuhirom/nanosocket)|tiny portable socket library||
-|7|[@ty4tw](https://github.com/ty4tw)/[**KashiwaGeeks**](https://github.com/ty4tw/KashiwaGeeks)|LoRaWAN Application framework for Arduino.||
 |7|[@vmarquet](https://github.com/vmarquet)/[**table-tennis-computer-vision**](https://github.com/vmarquet/table-tennis-computer-vision)|Apply computer vision to table tennis for match / training analysis||
 |7|[@wolfv](https://github.com/wolfv)/[**xtensor-benchmark**](https://github.com/wolfv/xtensor-benchmark)|Easy to use benchmarks for linear algebra frameworks||
 |7|[@yasuhirohoshino](https://github.com/yasuhirohoshino)/[**ofxMonitorInfo**](https://github.com/yasuhirohoshino/ofxMonitorInfo)|||
-|6|[@DaikiMaekawa](https://github.com/DaikiMaekawa)/[**RoboticsProject**](https://github.com/DaikiMaekawa/RoboticsProject)|千葉工業大学　ロボティクスディベロップメントプロジェクト　参考資料||
 |6|[@GRGSIBERIA](https://github.com/GRGSIBERIA)/[**TinyCL**](https://github.com/GRGSIBERIA/TinyCL)|OpenCL Tiny Wrapper||
 |6|[@KageKirin](https://github.com/KageKirin)/[**KaniTexTool**](https://github.com/KageKirin/KaniTexTool)|Multi-format texture conversion tool||
 |6|[@KengoSawa2](https://github.com/KengoSawa2)/[**RapidCopy**](https://github.com/KengoSawa2/RapidCopy)|RapidCopy is portable version of FastCopy that runs GNU/Linux with Qt5.|[:arrow_upper_right:](http://www.lespace.co.jp/file_bl/rapidcopy/rapidcopy_en.html)|
@@ -645,8 +645,10 @@
 |6|[@nemasu](https://github.com/nemasu)/[**utf8encode**](https://github.com/nemasu/utf8encode)|Encode binary files to valid UTF-8.||
 |6|[@neubig](https://github.com/neubig)/[**latticelm-v2**](https://github.com/neubig/latticelm-v2)|Second version of latticelm, a tool for learning language models from lattices||
 |6|[@nishimotz](https://github.com/nishimotz)/[**libopenjtalk**](https://github.com/nishimotz/libopenjtalk)|Dynamic library version of Open-JTalk (Japanese TTS) used for nvdajp|[:arrow_upper_right:](http://ja.nishimotz.com/project:libopenjtalk)|
+|6|[@norishigefukushima](https://github.com/norishigefukushima)/[**domainTransformFilter**](https://github.com/norishigefukushima/domainTransformFilter)|domain transform filter for opencv||
 |6|[@nus](https://github.com/nus)/[**NPAPISample**](https://github.com/nus/NPAPISample)|Nixysaを利用したNPAPIのサンプルプラグイン||
 |6|[@ohac](https://github.com/ohac)/[**sakuracoin**](https://github.com/ohac/sakuracoin)|Sakuracoin is compatible with old monacoin||
+|6|[@open-rdc](https://github.com/open-rdc)/[**biped-control-lib**](https://github.com/open-rdc/biped-control-lib)|ロボット設計・制御研究室の勉強会にて作成されたプログラムを公開|[:arrow_upper_right:](https://github.com/HumanoidSystem/Slide)|
 |6|[@philipperemy](https://github.com/philipperemy)/[**OrderBook-TWAP**](https://github.com/philipperemy/OrderBook-TWAP)|Programming Test||
 |6|[@pine](https://github.com/pine)/[**p5-Text-Diff-Unified-XS**](https://github.com/pine/p5-Text-Diff-Unified-XS)|:dash: The fast Text::Diff module implemented by XS|[:arrow_upper_right:](https://metacpan.org/pod/Text::Diff::Unified::XS)|
 |6|[@planetchili](https://github.com/planetchili)/[**ssehandrelief**](https://github.com/planetchili/ssehandrelief)|SSE optimization tutorial code||
@@ -698,6 +700,7 @@
 |5|[@hassyGo](https://github.com/hassyGo)/[**RelEmb**](https://github.com/hassyGo/RelEmb)|Task-Oriented Learning of Word Embeddings for Semantic Relation Classification||
 |5|[@hassyGo](https://github.com/hassyGo)/[**cpp-neural-exercise**](https://github.com/hassyGo/cpp-neural-exercise)|Basic C++ programming exercise by implementing simple neural networks from scratch||
 |5|[@himura](https://github.com/himura)/[**p-stade**](https://github.com/himura/p-stade)|Unofficial mirror of https://p-stade.svn.sourceforge.net/svnroot/p-stade/. Usage: git svn init --prefix=origin/ -s https://p-stade.svn.sourceforge.net/svnroot/p-stade; git svn fetch|[:arrow_upper_right:](http://p-stade.sourceforge.net/)|
+|5|[@hotchpotch](https://github.com/hotchpotch)/[**Arduino-i2cdetect**](https://github.com/hotchpotch/Arduino-i2cdetect)|Arduino-i2cdetect is scan an I2C bus for devices||
 |5|[@iknow](https://github.com/iknow)/[**FreeLing**](https://github.com/iknow/FreeLing)|||
 |5|[@imos](https://github.com/imos)/[**icfpc2014**](https://github.com/imos/icfpc2014)|Repository for ICFPC 2014||
 |5|[@imos](https://github.com/imos)/[**icfpc2017**](https://github.com/imos/icfpc2017)|Team Unagi's repository for ICFPC 2017||
@@ -727,7 +730,7 @@
 |5|[@norishigefukushima](https://github.com/norishigefukushima)/[**jinriki2x**](https://github.com/norishigefukushima/jinriki2x)|Image Super-Resolution for Anime-Style-Art without NN||
 |5|[@ntddk](https://github.com/ntddk)/[**blue**](https://github.com/ntddk/blue)|Some anti QEMU trick used by in-the-wild malware.||
 |5|[@okuoku](https://github.com/okuoku)/[**leveldb-cmake**](https://github.com/okuoku/leveldb-cmake)|Win32 / CMake port of leveldb|[:arrow_upper_right:](http://code.google.com/p/leveldb/)|
-|5|[@open-rdc](https://github.com/open-rdc)/[**biped-control-lib**](https://github.com/open-rdc/biped-control-lib)|ロボット設計・制御研究室の勉強会にて作成されたプログラムを公開|[:arrow_upper_right:](https://github.com/HumanoidSystem/Slide)|
+|5|[@open-rdc](https://github.com/open-rdc)/[**fulanghua_navigation**](https://github.com/open-rdc/fulanghua_navigation)|fulanghua_navigation provides mobile robot navigation tools on ros. For example, 2D pose estimator using EKF, waypoints navigation and static path publisher.||
 |5|[@philipperemy](https://github.com/philipperemy)/[**digital-setting-circles**](https://github.com/philipperemy/digital-setting-circles)|Compatible with Raspberry Pi. Setting circles are used on telescopes equipped with an equatorial mount to find astronomical objects in the sky by their equatorial coordinates.||
 |5|[@philscher](https://github.com/philscher)/[**gkc**](https://github.com/philscher/gkc)|A gyrokinetic code written in C++/Cilk+||
 |5|[@planetchili](https://github.com/planetchili)/[**Ballistiks-Mk-I**](https://github.com/planetchili/Ballistiks-Mk-I)|Planetchili.net AI Fight Club arena engine inspired by Bomb Ball|[:arrow_upper_right:](http://www.planetchili.net/forum)|
@@ -750,6 +753,7 @@
 |5|[@tado](https://github.com/tado)/[**ofxChromaKey**](https://github.com/tado/ofxChromaKey)|A very simple chroma keying addon using GLSL.||
 |5|[@tado](https://github.com/tado)/[**openFrameworks_workshop12_day1**](https://github.com/tado/openFrameworks_workshop12_day1)|||
 |5|[@takmin](https://github.com/takmin)/[**ConnectedComponentAnalysis**](https://github.com/takmin/ConnectedComponentAnalysis)|Connected Component Analysis using OpenCV||
+|5|[@tatsy](https://github.com/tatsy)/[**BagOfFeatures**](https://github.com/tatsy/BagOfFeatures)|bag of features implementation||
 |5|[@tek-nishi](https://github.com/tek-nishi)/[**FBXSDK_Sample3**](https://github.com/tek-nishi/FBXSDK_Sample3)|FBX SDK Sample with Cinder 0.8.6||
 |5|[@tek-nishi](https://github.com/tek-nishi)/[**SkeletalCinder0.9.0**](https://github.com/tek-nishi/SkeletalCinder0.9.0)|Skeletal animation with cinder 0.9.0 and assimp||
 |5|[@tnantoka](https://github.com/tnantoka)/[**munode**](https://github.com/tnantoka/munode)|Nodeで作る人工無脳|[:arrow_upper_right:](http://looseleaf.bornneet.com/munode/)|
@@ -800,6 +804,7 @@
 |4|[@chikuzen](https://github.com/chikuzen)/[**DCTFilter**](https://github.com/chikuzen/DCTFilter)|a rewrite of DctFilter for Avisynth+||
 |4|[@chikuzen](https://github.com/chikuzen)/[**HighBitDepth_VFWSource**](https://github.com/chikuzen/HighBitDepth_VFWSource)|AviSynth sourcefilter for HighBit depth YUV using Video for Windows||
 |4|[@chikuzen](https://github.com/chikuzen)/[**PlanarTools**](https://github.com/chikuzen/PlanarTools)|avisynth filter plugin||
+|4|[@chokkan](https://github.com/chokkan)/[**seekgzip**](https://github.com/chokkan/seekgzip)|A module for random seek on gzip stream||
 |4|[@clongbupt](https://github.com/clongbupt)/[**algorithm_cookbook**](https://github.com/clongbupt/algorithm_cookbook)|data structure & algorithm for interview||
 |4|[@cou929](https://github.com/cou929)/[**polygonise**](https://github.com/cou929/polygonise)|Built a feature of Marching Cubes algorith using codes from Polygonising a sclar field (http://local.wasp.uwa.edu.au/~pbourke/geometry/polygonise/)||
 |4|[@cybergarage](https://github.com/cybergarage)/[**CyberX3D4CC**](https://github.com/cybergarage/CyberX3D4CC)|CyberX3D for C++ is a development package for X3D/!VRML and Java programmers. Using the package, you can easily read and write the X3D/!VRML files, set and get the scene graph information, draw the geometries, run the behaviors easily.|[:arrow_upper_right:](http://www.cybergarage.org/)|
@@ -810,7 +815,6 @@
 |4|[@hillbig](https://github.com/hillbig)/[**wat-array**](https://github.com/hillbig/wat-array)|Automatically exported from code.google.com/p/wat-array||
 |4|[@hirose31](https://github.com/hirose31)/[**Sys-PageCache**](https://github.com/hirose31/Sys-PageCache)|||
 |4|[@hotchpotch](https://github.com/hotchpotch)/[**Arduino-HDC1000**](https://github.com/hotchpotch/Arduino-HDC1000)|HDC1000  (A temperature & humidity sensor) library for Arduino||
-|4|[@hotchpotch](https://github.com/hotchpotch)/[**Arduino-i2cdetect**](https://github.com/hotchpotch/Arduino-i2cdetect)|Arduino-i2cdetect is scan an I2C bus for devices||
 |4|[@informationsea](https://github.com/informationsea)/[**wirelessloader**](https://github.com/informationsea/wirelessloader)|Bootloader for AVR devices, optimized to write via wireless usart access.||
 |4|[@iwiwi](https://github.com/iwiwi)/[**graph3d**](https://github.com/iwiwi/graph3d)|A graph visualizer||
 |4|[@iwiwi](https://github.com/iwiwi)/[**hip-hyperloglog**](https://github.com/iwiwi/hip-hyperloglog)|C++ implementation of an approximate distinct counter by HIP estimator on HyperLogLog||
@@ -828,6 +832,7 @@
 |4|[@kmc-jp](https://github.com/kmc-jp)/[**Klang**](https://github.com/kmc-jp/Klang)|ぼくのかんがえたさいきょうのげんご|[:arrow_upper_right:](https://github.com/kmc-jp/Klang-Koan)|
 |4|[@kobake](https://github.com/kobake)/[**ApiHookSample**](https://github.com/kobake/ApiHookSample)|WIN32 API Hook sample||
 |4|[@korosuke613](https://github.com/korosuke613)/[**etrobocon2017**](https://github.com/korosuke613/etrobocon2017)|ETロボコン2017|[:arrow_upper_right:](https://korosuke613.github.io/etrobocon2017/annotated.html)|
+|4|[@kshoji](https://github.com/kshoji)/[**pxt-bluetooth-keyboard**](https://github.com/kshoji/pxt-bluetooth-keyboard)|BLE HID Keyboard module for micro:bit||
 |4|[@kuenishi](https://github.com/kuenishi)/[**libhdfs_httpfs**](https://github.com/kuenishi/libhdfs_httpfs)|C++ client for hadoop's httpfs||
 |4|[@kumagi](https://github.com/kumagi)/[**hashmap**](https://github.com/kumagi/hashmap)|concurrent hashmap implementation with striped lock.||
 |4|[@leo-project](https://github.com/leo-project)/[**leo_jerasure**](https://github.com/leo-project/leo_jerasure)|Move the repository to https://github.com/leo-project/leo_erasure||
@@ -846,17 +851,17 @@
 |4|[@nama-gatsuo](https://github.com/nama-gatsuo)/[**SolidSubstanceVJ**](https://github.com/nama-gatsuo/SolidSubstanceVJ)|a VJ set using motifs like mass solid substances||
 |4|[@naoyam](https://github.com/naoyam)/[**MemoryTracer-pintool**](https://github.com/naoyam/MemoryTracer-pintool)|||
 |4|[@norishigefukushima](https://github.com/norishigefukushima)/[**SSII2014**](https://github.com/norishigefukushima/SSII2014)|code for SSII2014||
-|4|[@norishigefukushima](https://github.com/norishigefukushima)/[**domainTransformFilter**](https://github.com/norishigefukushima/domainTransformFilter)|domain transform filter for opencv||
+|4|[@norishigefukushima](https://github.com/norishigefukushima)/[**nonLocalMeans**](https://github.com/norishigefukushima/nonLocalMeans)|non-local means filter for OpenCV||
 |4|[@obono](https://github.com/obono)/[**ArduboyWorks**](https://github.com/obono/ArduboyWorks)|My works for Arduboy||
 |4|[@odashi](https://github.com/odashi)/[**encoding**](https://github.com/odashi/encoding)|Shift_JIS, EUC-JP, UTF-8, UTF-16LE/BEをUnicodeコードポイントに変換する．||
 |4|[@ohac](https://github.com/ohac)/[**tn_fnds**](https://github.com/ohac/tn_fnds)|||
 |4|[@oke-ya](https://github.com/oke-ya)/[**CCFirebase**](https://github.com/oke-ya/CCFirebase)|Firebase SDK wrapper for cocos2d-x.||
-|4|[@open-rdc](https://github.com/open-rdc)/[**fulanghua_navigation**](https://github.com/open-rdc/fulanghua_navigation)|fulanghua_navigation provides mobile robot navigation tools on ros. For example, 2D pose estimator using EKF, waypoints navigation and static path publisher.||
 |4|[@otmb](https://github.com/otmb)/[**cocoPuzdra**](https://github.com/otmb/cocoPuzdra)|Cocos2d-xでパズドラ風パズルを作る||
 |4|[@rigaya](https://github.com/rigaya)/[**pmd_mt**](https://github.com/rigaya/pmd_mt)|Aviutl PMD_MT ノイズ除去フィルタ 高速化版||
 |4|[@saitoha](https://github.com/saitoha)/[**eck**](https://github.com/saitoha/eck)|A fork of cygwin ck terminal emulator||
 |4|[@saitoha](https://github.com/saitoha)/[**zuse**](https://github.com/saitoha/zuse)|A ecmascript like interpreter. supports x86 jit and IActiveScriptParse integration.||
 |4|[@satoruhiga](https://github.com/satoruhiga)/[**ControlOF**](https://github.com/satoruhiga/ControlOF)|a openFrameworks gui library / clone of ControlP5||
+|4|[@satoruhiga](https://github.com/satoruhiga)/[**TouchDesigner-OpenCV**](https://github.com/satoruhiga/TouchDesigner-OpenCV)|||
 |4|[@satoruhiga](https://github.com/satoruhiga)/[**ofxCL**](https://github.com/satoruhiga/ofxCL)|||
 |4|[@satoruhiga](https://github.com/satoruhiga)/[**ofxGwen**](https://github.com/satoruhiga/ofxGwen)|WIP|[:arrow_upper_right:](http://code.google.com/p/gwen/)|
 |4|[@satoruhiga](https://github.com/satoruhiga)/[**ofxOpenGLPrimitives**](https://github.com/satoruhiga/ofxOpenGLPrimitives)|WIP||
@@ -877,7 +882,6 @@
 |4|[@take-cheeze](https://github.com/take-cheeze)/[**mruby-glfw3**](https://github.com/take-cheeze/mruby-glfw3)|mruby GLFW binding.||
 |4|[@takeokunn](https://github.com/takeokunn)/[**DoNotPushGame**](https://github.com/takeokunn/DoNotPushGame)|||
 |4|[@takmin](https://github.com/takmin)/[**SaveBinaryOpenCV**](https://github.com/takmin/SaveBinaryOpenCV)|Save cv::Mat, cv::Point, cv::Size, cv::KeyPoint, and std::vector<cv::KeyPoint> as binary file.||
-|4|[@tatsy](https://github.com/tatsy)/[**BagOfFeatures**](https://github.com/tatsy/BagOfFeatures)|bag of features implementation||
 |4|[@tatsy](https://github.com/tatsy)/[**tatsy-pppm**](https://github.com/tatsy/tatsy-pppm)|Physically-based ray tracer for "Ray Tracing Capm 3!!!"||
 |4|[@technohippy](https://github.com/technohippy)/[**raytracinginoneweekend**](https://github.com/technohippy/raytracinginoneweekend)|||
 |4|[@thomas-moulard](https://github.com/thomas-moulard)/[**libretinex**](https://github.com/thomas-moulard/libretinex)|Implementation of the Retinex algorithm||
@@ -945,7 +949,6 @@
 |3|[@chezou](https://github.com/chezou)/[**pficommon_json_test**](https://github.com/chezou/pficommon_json_test)|pficommon::text::json test||
 |3|[@chikuzen](https://github.com/chikuzen)/[**TMM2**](https://github.com/chikuzen/TMM2)|rewite of TMM for Avisynth2.6/Avisynth+||
 |3|[@chikuzen](https://github.com/chikuzen)/[**YV12To422**](https://github.com/chikuzen/YV12To422)|an avisynth filter||
-|3|[@chokkan](https://github.com/chokkan)/[**seekgzip**](https://github.com/chokkan/seekgzip)|A module for random seek on gzip stream||
 |3|[@cordarei](https://github.com/cordarei)/[**chart-parser**](https://github.com/cordarei/chart-parser)|a simple chart parser in C++||
 |3|[@darashi](https://github.com/darashi)/[**arduino-morse**](https://github.com/darashi/arduino-morse)|||
 |3|[@dibben](https://github.com/dibben)/[**qt-creator-cppunit-plugin**](https://github.com/dibben/qt-creator-cppunit-plugin)|A plugin for helping with creating CPPUNIT tests in QtCreator||
@@ -977,6 +980,7 @@
 |3|[@i-saint](https://github.com/i-saint)/[**LazyD3D11DeviceContext**](https://github.com/i-saint/LazyD3D11DeviceContext)|||
 |3|[@i-saint](https://github.com/i-saint)/[**MemoryLeakBuster**](https://github.com/i-saint/MemoryLeakBuster)|||
 |3|[@i-saint](https://github.com/i-saint)/[**WebInterface**](https://github.com/i-saint/WebInterface)|||
+|3|[@idobatter](https://github.com/idobatter)/[**wcurses**](https://github.com/idobatter/wcurses)|A Python curses module for Windows|[:arrow_upper_right:](http://code.google.com/p/wcurses/)|
 |3|[@itchyny](https://github.com/itchyny)/[**llvm-brainfuck**](https://github.com/itchyny/llvm-brainfuck)|Brainfuck compiler based on LLVM API||
 |3|[@iwiwi](https://github.com/iwiwi)/[**agl**](https://github.com/iwiwi/agl)|a graph algorithm library with a strong focus on algorithm prototyping and scalable network analysis||
 |3|[@iwiwi](https://github.com/iwiwi)/[**map-sort**](https://github.com/iwiwi/map-sort)|An implementation of map sort||
@@ -1004,7 +1008,6 @@
 |3|[@kmc-jp](https://github.com/kmc-jp)/[**PokemonShiritoriAIServer**](https://github.com/kmc-jp/PokemonShiritoriAIServer)|ポケモンしりとりのAI||
 |3|[@koron](https://github.com/koron)/[**ABrowser**](https://github.com/koron/ABrowser)|ANSI Text  Viewer for Windows||
 |3|[@kou](https://github.com/kou)/[**poppler-test**](https://github.com/kou/poppler-test)|Poppler's test with Cutter||
-|3|[@kshoji](https://github.com/kshoji)/[**pxt-bluetooth-keyboard**](https://github.com/kshoji/pxt-bluetooth-keyboard)|BLE HID Keyboard module for micro:bit||
 |3|[@ktnyt](https://github.com/ktnyt)/[**Spira**](https://github.com/ktnyt/Spira)|Yet another C++ library for functional reactive style programming||
 |3|[@kumagi](https://github.com/kumagi)/[**msgcache**](https://github.com/kumagi/msgcache)|fast memcached using msgpack||
 |3|[@kyamagu](https://github.com/kyamagu)/[**lda-matlab**](https://github.com/kyamagu/lda-matlab)|Latent Dirichlet Allocation for Matlab||
@@ -1043,7 +1046,6 @@
 |3|[@nishimotz](https://github.com/nishimotz)/[**pyaa**](https://github.com/nishimotz/pyaa)|Microsoft Active Accessibility for Python : for multibyte environments|[:arrow_upper_right:](http://en.nishimotz.com/pyaa)|
 |3|[@nminoru](https://github.com/nminoru)/[**pg_plan_tree_dot**](https://github.com/nminoru/pg_plan_tree_dot)|PostgreSQL extension which visualizes a plan tree using Graphviz||
 |3|[@norishigefukushima](https://github.com/norishigefukushima)/[**DepthMapCompression**](https://github.com/norishigefukushima/DepthMapCompression)|OpenCV based depth map compression app.|[:arrow_upper_right:](http://fukushima.web.nitech.ac.jp/research/dpf/)|
-|3|[@norishigefukushima](https://github.com/norishigefukushima)/[**nonLocalMeans**](https://github.com/norishigefukushima/nonLocalMeans)|non-local means filter for OpenCV||
 |3|[@nyuichi](https://github.com/nyuichi)/[**picrin-old**](https://github.com/nyuichi/picrin-old)|||
 |3|[@objectx](https://github.com/objectx)/[**salsa20**](https://github.com/objectx/salsa20)|salsa20 stream cipher||
 |3|[@oist](https://github.com/oist)/[**GPU_group**](https://github.com/oist/GPU_group)|All important information related to the GPU User group at OIST||
@@ -1060,7 +1062,6 @@
 |3|[@rti7743](https://github.com/rti7743)/[**xreturn**](https://github.com/rti7743/xreturn)|エラーと例外をまぜこぜにして良い感じに記述できるライブラリ||
 |3|[@safx](https://github.com/safx)/[**CobuildConv**](https://github.com/safx/CobuildConv)|a tool for converting data of a CD-ROM titled 'Collins COBUILD Advanced Leaner's English Dictionary NEW EDITION' to data for Dictionay.app||
 |3|[@saitoha](https://github.com/saitoha)/[**aPSL**](https://github.com/saitoha/aPSL)|aPSL||
-|3|[@satoruhiga](https://github.com/satoruhiga)/[**TouchDesigner-OpenCV**](https://github.com/satoruhiga/TouchDesigner-OpenCV)|||
 |3|[@satoruhiga](https://github.com/satoruhiga)/[**ofxBeamSyncDropper**](https://github.com/satoruhiga/ofxBeamSyncDropper)|Disabling OSX system vsync http://www.tonymacx86.com/customization/92201-beamsyncdropper-tool-disable-beamsync-permanently.html||
 |3|[@satoruhiga](https://github.com/satoruhiga)/[**ofxPDF**](https://github.com/satoruhiga/ofxPDF)|PDF file loader. same interface with ofxSvg||
 |3|[@seanchas116](https://github.com/seanchas116)/[**receive-tablet-event**](https://github.com/seanchas116/receive-tablet-event)|Receive digitizer events in Electron||

@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|10228|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|1732|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
-|234|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
+|10361|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|1739|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|236|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |134|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |72|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
 |60|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
-|50|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-driver-detection**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
-|46|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
+|51|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-driver-detection**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
+|49|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
 |42|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb**](https://github.com/nagadomi/kaggle-ndsb)|Code for National Data Science Bowl. 10th place.||
 |40|[@umegaya](https://github.com/umegaya)/[**ffiex**](https://github.com/umegaya/ffiex)|extend luajit ffi module to give more affinity to C codes||
 |34|[@hnakamur](https://github.com/hnakamur)/[**luajit-examples**](https://github.com/hnakamur/luajit-examples)|my example codes for LuaJIT||
@@ -17,9 +17,9 @@
 |18|[@kenchan](https://github.com/kenchan)/[**dotfiles**](https://github.com/kenchan/dotfiles)|kenchan's dotfiles.||
 |16|[@nitoyon](https://github.com/nitoyon)/[**lua-console-lightroom-plugin**](https://github.com/nitoyon/lua-console-lightroom-plugin)|"Lua Console" plugin for Lightroom 3.0+||
 |13|[@miurahr](https://github.com/miurahr)/[**lua-nginx-osm**](https://github.com/miurahr/lua-nginx-osm)|OpenStreetMap extension for Nginx Lua module||
+|13|[@safx](https://github.com/safx)/[**LightroomPlugin-ClarifaiTagger**](https://github.com/safx/LightroomPlugin-ClarifaiTagger)|A Lightroom plugin suggests keywords of photo for you||
 |13|[@tenntenn](https://github.com/tenntenn)/[**lupe**](https://github.com/tenntenn/lupe)|LUPE - Lua Debugger||
 |12|[@hetima](https://github.com/hetima)/[**hammerspoon-foundation_remapping**](https://github.com/hetima/hammerspoon-foundation_remapping)|Hammerspoon configuration script which remaps any keys for Sierra.||
-|12|[@safx](https://github.com/safx)/[**LightroomPlugin-ClarifaiTagger**](https://github.com/safx/LightroomPlugin-ClarifaiTagger)|A Lightroom plugin suggests keywords of photo for you||
 |11|[@toshi-k](https://github.com/toshi-k)/[**kaggle-santander-customer-satisfaction**](https://github.com/toshi-k/kaggle-santander-customer-satisfaction)|44th place solution in "Santander Customer Satisfaction"||
 |10|[@naoya](https://github.com/naoya)/[**hammerspoon-init**](https://github.com/naoya/hammerspoon-init)|||
 |9|[@kengonakajima](https://github.com/kengonakajima)/[**luajit-mysql**](https://github.com/kengonakajima/luajit-mysql)|MySQL binding for LuaJIT with FFI||
@@ -27,18 +27,18 @@
 |8|[@jmettraux](https://github.com/jmettraux)/[**lack**](https://github.com/jmettraux/lack)|(experiment) Rack clone in Lua|[:arrow_upper_right:](http://jmettraux.wordpress.com)|
 |8|[@knu](https://github.com/knu)/[**hs-knu**](https://github.com/knu/hs-knu)|My Hammerspoon modules, mainly for keyboard customization||
 |8|[@koron](https://github.com/koron)/[**redis-hyperloglog**](https://github.com/koron/redis-hyperloglog)|Hyperloglog counter on redis||
+|8|[@mah0x211](https://github.com/mah0x211)/[**lua-etcd-resty**](https://github.com/mah0x211/lua-etcd-resty)|etcd client module for OpenResty.||
 |8|[@xinqiyang](https://github.com/xinqiyang)/[**yagami..ko**](https://github.com/xinqiyang/yagami..ko)|yagamiko is a api server project implementation by lua && nginx ( openresty) .||
 |7|[@farseerfc](https://github.com/farseerfc)/[**dotfiles**](https://github.com/farseerfc/dotfiles)|My dotfiles controlled by GNU Stow||
 |7|[@hnakamur](https://github.com/hnakamur)/[**docker-nginx-lua**](https://github.com/hnakamur/docker-nginx-lua)|Dockerfile for nginx with lua-nginx-module||
 |7|[@kengonakajima](https://github.com/kengonakajima)/[**mprpc**](https://github.com/kengonakajima/mprpc)|mini MessagePack RPC stub for both lua-msgpack-native and lua-msgpack||
-|7|[@mah0x211](https://github.com/mah0x211)/[**lua-etcd-resty**](https://github.com/mah0x211/lua-etcd-resty)|etcd client module for OpenResty.||
 |7|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb2**](https://github.com/nagadomi/kaggle-ndsb2)|Code for Second Annual Data Science Bowl. 16th place.||
+|7|[@torus](https://github.com/torus)/[**lua-call-cc**](https://github.com/torus/lua-call-cc)|implementing call/cc on Lua script language.||
 |7|[@umegaya](https://github.com/umegaya)/[**luact**](https://github.com/umegaya/luact)|framework for writing robust, scalable network application, heavily inspired by celluloid(ruby) and orleans(.NET)||
+|6|[@10sr](https://github.com/10sr)/[**editorconfig-micro**](https://github.com/10sr/editorconfig-micro)|EditorConfig Plugin for micro Editor||
 |6|[@mah0x211](https://github.com/mah0x211)/[**lua-etcd**](https://github.com/mah0x211/lua-etcd)|etcd client module.||
 |6|[@nagadomi](https://github.com/nagadomi)/[**kaggle-decmeg2014**](https://github.com/nagadomi/kaggle-decmeg2014)|code for DecMeg2014. final place: 5th||
 |6|[@tacigar](https://github.com/tacigar)/[**maidroid**](https://github.com/tacigar/maidroid)|:video_game: Minetest modpack: Provides cute maid robots||
-|6|[@torus](https://github.com/torus)/[**lua-call-cc**](https://github.com/torus/lua-call-cc)|implementing call/cc on Lua script language.||
-|5|[@10sr](https://github.com/10sr)/[**editorconfig-micro**](https://github.com/10sr/editorconfig-micro)|EditorConfig Plugin for micro Editor||
 |5|[@aw](https://github.com/aw)/[**roomba-nodemcu**](https://github.com/aw/roomba-nodemcu)|Roomba control library for NodeMCU platform|[:arrow_upper_right:](https://nodemcu.a1w.ca)|
 |5|[@mah0x211](https://github.com/mah0x211)/[**lua-coevent**](https://github.com/mah0x211/lua-coevent)|coroutine based kqueue/epoll module||
 |5|[@osafune](https://github.com/osafune)/[**canarium_air**](https://github.com/osafune/canarium_air)|IntelFPGA configuration & Avalon-MM access library for FlashAir||

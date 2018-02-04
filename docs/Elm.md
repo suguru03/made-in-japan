@@ -6,12 +6,12 @@
 |52|[@jinjor](https://github.com/jinjor)/[**elm-devtool**](https://github.com/jinjor/elm-devtool)|An attempt to use Elm's debugger on Chrome DevTools||
 |35|[@jinjor](https://github.com/jinjor)/[**elm-html-parser**](https://github.com/jinjor/elm-html-parser)|Parse HTML in Elm!|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-html-parser/latest)|
 |22|[@jinjor](https://github.com/jinjor)/[**elm-drill**](https://github.com/jinjor/elm-drill)|手を動かしながら Elm に慣れるためのドリルです。||
-|17|[@3tty0n](https://github.com/3tty0n)/[**elm-online-markdown-editor**](https://github.com/3tty0n/elm-online-markdown-editor)|An online markdown editor written in Elm.|[:arrow_upper_right:](https://3tty0n.github.io/elm-online-markdown-editor/)|
 |17|[@jinjor](https://github.com/jinjor)/[**elm-debounce**](https://github.com/jinjor/elm-debounce)|Yet another debouncer for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-debounce/latest/)|
-|15|[@shuhei](https://github.com/shuhei)/[**pixelm**](https://github.com/shuhei/pixelm)|A pixel art editor written in Elm|[:arrow_upper_right:](http://shuheikagawa.com/pixelm/)|
+|16|[@3tty0n](https://github.com/3tty0n)/[**elm-online-markdown-editor**](https://github.com/3tty0n/elm-online-markdown-editor)|An online markdown editor written in Elm.|[:arrow_upper_right:](https://3tty0n.github.io/elm-online-markdown-editor/)|
+|16|[@shuhei](https://github.com/shuhei)/[**pixelm**](https://github.com/shuhei/pixelm)|A pixel art editor written in Elm|[:arrow_upper_right:](http://shuheikagawa.com/pixelm/)|
 |13|[@jinjor](https://github.com/jinjor)/[**elm-video-chat**](https://github.com/jinjor/elm-video-chat)|video chat system by Elm||
 |12|[@jinjor](https://github.com/jinjor)/[**elm-inline-hover**](https://github.com/jinjor/elm-inline-hover)|An utility for using :hover by inline style|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-inline-hover/latest)|
-|10|[@jinjor](https://github.com/jinjor)/[**elm-contextmenu**](https://github.com/jinjor/elm-contextmenu)|Flexible context menu for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-contextmenu/latest)|
+|11|[@jinjor](https://github.com/jinjor)/[**elm-contextmenu**](https://github.com/jinjor/elm-contextmenu)|Flexible context menu for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-contextmenu/latest)|
 |10|[@jinjor](https://github.com/jinjor)/[**elm-diff**](https://github.com/jinjor/elm-diff)|A diff implementation for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-diff/latest)|
 |8|[@jinjor](https://github.com/jinjor)/[**elm-binary-decoder**](https://github.com/jinjor/elm-binary-decoder)|Experimental binary decoder|[:arrow_upper_right:](https://jinjor.github.io/elm-binary-decoder/)|
 |8|[@jinjor](https://github.com/jinjor)/[**elm-transition**](https://github.com/jinjor/elm-transition)|A simple transition library for Elm||
@@ -28,6 +28,7 @@
 |4|[@suzuki-shin](https://github.com/suzuki-shin)/[**doubutsuShogi**](https://github.com/suzuki-shin/doubutsuShogi)|||
 |4|[@suzuki-shin](https://github.com/suzuki-shin)/[**elm-chartjs**](https://github.com/suzuki-shin/elm-chartjs)|Elm bindings for Chart.js||
 |4|[@tshm](https://github.com/tshm)/[**elm-doctest**](https://github.com/tshm/elm-doctest)|doctest runner against Elm-lang source files||
+|3|[@arowM](https://github.com/arowM)/[**elm-monoid**](https://github.com/arowM/elm-monoid)|A module to define generic functions for monoid.||
 |3|[@jinjor](https://github.com/jinjor)/[**elm-dropdown**](https://github.com/jinjor/elm-dropdown)|Flexible dropdown menu for Elm||
 |3|[@jinjor](https://github.com/jinjor)/[**elm-reversi**](https://github.com/jinjor/elm-reversi)|Just for joy|[:arrow_upper_right:](https://jinjor.github.io/elm-reversi/)|
 |3|[@jinjor](https://github.com/jinjor)/[**elm-visual-vdom**](https://github.com/jinjor/elm-visual-vdom)|Where in the view is actually rendered?|[:arrow_upper_right:](https://jinjor.github.io/elm-visual-vdom/)|

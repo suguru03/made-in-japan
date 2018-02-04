@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1111|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|1120|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
 |213|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
 |128|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
-|77|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
+|76|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
 |59|[@jj1bdx](https://github.com/jj1bdx)/[**sfmt-erlang**](https://github.com/jj1bdx/sfmt-erlang)|sfmt-erlang: SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang|[:arrow_upper_right:](http://jj1bdx.github.io/sfmt-erlang/)|
-|39|[@chvanikoff](https://github.com/chvanikoff)/[**cowboy_session**](https://github.com/chvanikoff/cowboy_session)|Cowboy session management||
+|38|[@chvanikoff](https://github.com/chvanikoff)/[**cowboy_session**](https://github.com/chvanikoff/cowboy_session)|Cowboy session management||
 |38|[@higepon](https://github.com/higepon)/[**mio**](https://github.com/higepon/mio)|In short, mio is memcached + "range search".||
 |33|[@MiCHiLU](https://github.com/MiCHiLU)/[**shirasu**](https://github.com/MiCHiLU/shirasu)|Shirasu.ws is a WebSocket server framework based on Misultin and Erlang/OTP|[:arrow_upper_right:](http://code.google.com/p/shirasu/)|
 |33|[@iij](https://github.com/iij)/[**lmq**](https://github.com/iij/lmq)|Lightweight Message Queue||
@@ -19,13 +19,13 @@
 |19|[@voluntas](https://github.com/voluntas)/[**erlang_otp_self_study**](https://github.com/voluntas/erlang_otp_self_study)|||
 |18|[@norton](https://github.com/norton)/[**qc**](https://github.com/norton/qc)|Wrappers for QuickCheck and PropEr testing tools||
 |17|[@mururu](https://github.com/mururu)/[**erlang-mruby**](https://github.com/mururu/erlang-mruby)|[WIP] mruby on erlang||
+|17|[@sile](https://github.com/sile)/[**evel**](https://github.com/sile/evel)|An Eventual Leader Election Library for Erlang||
 |16|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
 |15|[@chvanikoff](https://github.com/chvanikoff)/[**githubizer**](https://github.com/chvanikoff/githubizer)|automatic deploy from github to server||
 |15|[@kuenishi](https://github.com/kuenishi)/[**erezrdfh**](https://github.com/kuenishi/erezrdfh)|MessagePack MessageQueue without AMQP||
 |15|[@leo-project](https://github.com/leo-project)/[**leo_storage**](https://github.com/leo-project/leo_storage)|🚫 DEPRECATED: leo_storage was merged into leo-project/leofs|[:arrow_upper_right:](https://github.com/leo-project/leofs/tree/master/apps/leo_storage)|
 |14|[@norton](https://github.com/norton)/[**asciiedoc**](https://github.com/norton/asciiedoc)|EDoc extension for generating HTML or GitHub-flavored Markdown from AsciiDoc sources||
 |13|[@jj1bdx](https://github.com/jj1bdx)/[**erltrek**](https://github.com/jj1bdx/erltrek)|An Erlang Star Trek game|[:arrow_upper_right:](http://jj1bdx.github.io/erltrek)|
-|13|[@sile](https://github.com/sile)/[**evel**](https://github.com/sile/evel)|An Eventual Leader Election Library for Erlang||
 |12|[@kuenishi](https://github.com/kuenishi)/[**fluent-logger-erlang**](https://github.com/kuenishi/fluent-logger-erlang)|Moved.|[:arrow_upper_right:](https://github.com/fluent/fluent-logger-erlang)|
 |11|[@chvanikoff](https://github.com/chvanikoff)/[**cowboyd**](https://github.com/chvanikoff/cowboyd)|Daemonized Cowboy web server||
 |11|[@hibari](https://github.com/hibari)/[**gdss-brick**](https://github.com/hibari/gdss-brick)||[:arrow_upper_right:](http://hibari.github.com/hibari-doc/)|
@@ -51,10 +51,10 @@
 |7|[@hibari](https://github.com/hibari)/[**cluster-info**](https://github.com/hibari/cluster-info)||[:arrow_upper_right:](http://hibari.github.com/hibari-doc/)|
 |7|[@jj1bdx](https://github.com/jj1bdx)/[**exs64**](https://github.com/jj1bdx/exs64)|Xorshift64star for Erlang||
 |7|[@leo-project](https://github.com/leo-project)/[**leo_backend_db**](https://github.com/leo-project/leo_backend_db)|leo_backend_db is a wrapper library for Basho bitcask, Basho eleveldb and Erlang ETS. They are used as local KVS in LeoFS.|[:arrow_upper_right:](http://leo-project.net/leofs)|
+|7|[@leo-project](https://github.com/leo-project)/[**leo_mq**](https://github.com/leo-project/leo_mq)|leo_mq is a local message-queueing library.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |7|[@leo-project](https://github.com/leo-project)/[**leo_redundant_manager**](https://github.com/leo-project/leo_redundant_manager)|leo_redundant_manager monitors Gateway-node(s) and Storage-node(s) to keep availability and consistency. leo_redundant_manager also manages and provides routing-table(RING).|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@cooldaemon](https://github.com/cooldaemon)/[**BasicStudyForErlang**](https://github.com/cooldaemon/BasicStudyForErlang)|I study the Erlang over from the basics.||
 |6|[@leo-project](https://github.com/leo-project)/[**leo_logger**](https://github.com/leo-project/leo_logger)|leo_logger is a logging library for LeoFS and other Erlang applications. It has plugin-mechanism.|[:arrow_upper_right:](http://leo-project.net/leofs)|
-|6|[@leo-project](https://github.com/leo-project)/[**leo_mq**](https://github.com/leo-project/leo_mq)|leo_mq is a local message-queueing library.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@leo-project](https://github.com/leo-project)/[**leo_ordning_reda**](https://github.com/leo-project/leo_ordning_reda)|leo_ordning_reda is a library to stack objects and  send stacked objects with async.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@leo-project](https://github.com/leo-project)/[**leo_pod**](https://github.com/leo-project/leo_pod)|leo_pod - A Fast Erlang worker pool manager|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@leo-project](https://github.com/leo-project)/[**leo_statistics**](https://github.com/leo-project/leo_statistics)|leo_statistics collects Erlang VM’s statistics and application’s statistics.|[:arrow_upper_right:](http://leo-project.net/leofs)|
@@ -74,6 +74,7 @@
 |4|[@jj1bdx](https://github.com/jj1bdx)/[**exs1024**](https://github.com/jj1bdx/exs1024)|Xorshift1024star for Erlang||
 |4|[@jj1bdx](https://github.com/jj1bdx)/[**exsplus128**](https://github.com/jj1bdx/exsplus128)|Xorshift128plus for Erlang||
 |4|[@jj1bdx](https://github.com/jj1bdx)/[**sd-erlang-public**](https://github.com/jj1bdx/sd-erlang-public)|Software Design誌連載「Erlangで学ぶ並行プログラミング」のサポートページ||
+|4|[@leo-project](https://github.com/leo-project)/[**leo_cache**](https://github.com/leo-project/leo_cache)|leo_cache is an object caching server into RAM and Disc (SSD)|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |4|[@leo-project](https://github.com/leo-project)/[**leo_mcerl**](https://github.com/leo-project/leo_mcerl)|leo_mcerl is a memory cache lib for Erlang|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |4|[@leo-project](https://github.com/leo-project)/[**leo_watchdog**](https://github.com/leo-project/leo_watchdog)|leo_watchdog keep monitoring an application in order to realize high-availability.||
 |4|[@leo-project](https://github.com/leo-project)/[**leofs_doctor**](https://github.com/leo-project/leofs_doctor)|Quick investigation into OTP applications on remote nodes with less operations.|[:arrow_upper_right:](https://github.com/leo-project/leofs)|
@@ -94,7 +95,6 @@
 |3|[@kgbu](https://github.com/kgbu)/[**erlandom**](https://github.com/kgbu/erlandom)|random code fragments to share by someone who have time to spare||
 |3|[@kuenishi](https://github.com/kuenishi)/[**jubatus-erlang-client**](https://github.com/kuenishi/jubatus-erlang-client)|||
 |3|[@kuenishi](https://github.com/kuenishi)/[**riak_cli**](https://github.com/kuenishi/riak_cli)|yet another Riak cli in Erlang/OTP, do things you can't do with curl||
-|3|[@leo-project](https://github.com/leo-project)/[**leo_cache**](https://github.com/leo-project/leo_cache)|leo_cache is an object caching server into RAM and Disc (SSD)|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |3|[@leo-project](https://github.com/leo-project)/[**leo_dcerl**](https://github.com/leo-project/leo_dcerl)|leo_dcerl is a disc cache lib for Erlang|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |3|[@leo-project](https://github.com/leo-project)/[**leo_s3_libs**](https://github.com/leo-project/leo_s3_libs)|leo_s3_libs are S3 related libraries for LeoFS and other Erlang applications.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |3|[@leo-project](https://github.com/leo-project)/[**nfs_rpc_server**](https://github.com/leo-project/nfs_rpc_server)|NFS RPC Server for LeoFS NFS Protocol||

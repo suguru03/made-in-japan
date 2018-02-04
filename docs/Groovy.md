@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |239|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
-|213|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|:snowboarder: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
-|121|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
+|214|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|:snowboarder: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
+|123|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |106|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||
 |96|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
-|82|[@hotchemi](https://github.com/hotchemi)/[**gradle-proguard-plugin**](https://github.com/hotchemi/gradle-proguard-plugin)|The gradle plugin to add proguard snippets to your proguard setting file quickly.|[:arrow_upper_right:](http://hotchemi.github.io/gradle-proguard-plugin)|
+|83|[@hotchemi](https://github.com/hotchemi)/[**gradle-proguard-plugin**](https://github.com/hotchemi/gradle-proguard-plugin)|The gradle plugin to add proguard snippets to your proguard setting file quickly.|[:arrow_upper_right:](http://hotchemi.github.io/gradle-proguard-plugin)|
 |78|[@int128](https://github.com/int128)/[**groovy-ssh**](https://github.com/int128/groovy-ssh)|SSH automation tool based on Groovy DSL|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
-|77|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-mdicons**](https://github.com/tmiyamon/gradle-mdicons)|A gradle plugin for Android to handle material design icons Google published.||
+|76|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-mdicons**](https://github.com/tmiyamon/gradle-mdicons)|A gradle plugin for Android to handle material design icons Google published.||
 |48|[@gfx](https://github.com/gfx)/[**android-power-assert-plugin**](https://github.com/gfx/android-power-assert-plugin)|Power Assert for Android||
 |36|[@tkruse](https://github.com/tkruse)/[**gradle-groovysh-plugin**](https://github.com/tkruse/gradle-groovysh-plugin)|gradle plugin allowing to start a command-line shell||
 |30|[@nobeans](https://github.com/nobeans)/[**gexcelapi**](https://github.com/nobeans/gexcelapi)|GExcelAPI is a thin Groovy-ish wrapper library of not JExcelAPI but Apache POI.||
@@ -41,6 +41,7 @@
 |5|[@uehaj](https://github.com/uehaj)/[**groovy-optional**](https://github.com/uehaj/groovy-optional)|Extension module which enhances handilng of Java8's Optional Class in Groovy||
 |5|[@wadahiro](https://github.com/wadahiro)/[**gradle-samples**](https://github.com/wadahiro/gradle-samples)|||
 |4|[@YukiMatsumura](https://github.com/YukiMatsumura)/[**MaterialDesignResources**](https://github.com/YukiMatsumura/MaterialDesignResources)|MaterialDesign Android Resources||
+|4|[@int128](https://github.com/int128)/[**feign-oauth2-example**](https://github.com/int128/feign-oauth2-example)|Example of Spring Cloud Feign and Spring Security OAuth2||
 |4|[@mike-neck](https://github.com/mike-neck)/[**idea-gradle-javaee-template**](https://github.com/mike-neck/idea-gradle-javaee-template)|template project of JavaEE-Glassfish application for IntelliJ IDEA and Gradle||
 |4|[@nicolas-raoul](https://github.com/nicolas-raoul)/[**OxygenPump**](https://github.com/nicolas-raoul/OxygenPump)|Downloads the wikicode of Wikitravel.org articles (which are Creative Commons Attribution-ShareAlike 3.0)|[:arrow_upper_right:](http://code.google.com/p/oxygenpump/)|
 |4|[@nobeans](https://github.com/nobeans)/[**grails-request-tracelog**](https://github.com/nobeans/grails-request-tracelog)|Grails 3 plugin to get info logs of request||
@@ -53,7 +54,7 @@
 |3|[@gfx](https://github.com/gfx)/[**Android-JavassistExample**](https://github.com/gfx/Android-JavassistExample)|||
 |3|[@grimrose](https://github.com/grimrose)/[**gadvent2014**](https://github.com/grimrose/gadvent2014)|sample Ratpack app|[:arrow_upper_right:](http://grimrose.bitbucket.org/blog/html/2014/12/07/g_advent_calendar_2014_ratpack_02.html)|
 |3|[@inokappa](https://github.com/inokappa)/[**rundeck-fluentd-plugin**](https://github.com/inokappa/rundeck-fluentd-plugin)|||
-|3|[@int128](https://github.com/int128)/[**feign-oauth2-example**](https://github.com/int128/feign-oauth2-example)|Example of Spring Cloud Feign and Spring Security OAuth2||
+|3|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-plugin-template**](https://github.com/ksoichiro/gradle-plugin-template)|Template project for Gradle plugin.||
 |3|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-replacer**](https://github.com/ksoichiro/gradle-replacer)|Gradle plugin that provides a minimalistic template engine feature.||
 |3|[@nobeans](https://github.com/nobeans)/[**irclog-viewer**](https://github.com/nobeans/irclog-viewer)|A simple viewer of IRC log archives powered by Grails||
 |3|[@nobeans](https://github.com/nobeans)/[**tddbc-yokohama-201111**](https://github.com/nobeans/tddbc-yokohama-201111)|||

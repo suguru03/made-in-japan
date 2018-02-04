@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|61|[@r7kamura](https://github.com/r7kamura)/[**mastodon-terraform**](https://github.com/r7kamura/mastodon-terraform)|Boilerplate for running Mastodon on AWS using Terraform and CircleCI.||
+|62|[@r7kamura](https://github.com/r7kamura)/[**mastodon-terraform**](https://github.com/r7kamura/mastodon-terraform)|Boilerplate for running Mastodon on AWS using Terraform and CircleCI.||
 |16|[@knakayama](https://github.com/knakayama)/[**aws-terraform-playground**](https://github.com/knakayama/aws-terraform-playground)|terraform examples on AWS||
 |13|[@freedomofkeima](https://github.com/freedomofkeima)/[**terraform-docker-ecs**](https://github.com/freedomofkeima/terraform-docker-ecs)|Manage your ASG + ECS Cluster (Docker) with Terraform||
 |12|[@shufo](https://github.com/shufo)/[**terraform-boilerplate-ecs-alb**](https://github.com/shufo/terraform-boilerplate-ecs-alb)|Terraform boilerplate for ECS with ALB.||
@@ -17,6 +17,7 @@
 |4|[@tcnksm](https://github.com/tcnksm)/[**tf-dnsimple-gh-pages**](https://github.com/tcnksm/tf-dnsimple-gh-pages)|Setup custom apex domain for your GitHub pages with Terraform||
 |4|[@toshimaru](https://github.com/toshimaru)/[**terraform-digitalocean-rails**](https://github.com/toshimaru/terraform-digitalocean-rails)|A terraform simple sample on DigitalOcean for Ruby on Rails.||
 |3|[@cotoami](https://github.com/cotoami)/[**cotoami-infra**](https://github.com/cotoami/cotoami-infra)|Cotoami infrastructure for cotoa.me||
+|3|[@int128](https://github.com/int128)/[**kops-alb-starter**](https://github.com/int128/kops-alb-starter)|Kubernetes starter with kops and Terraform||
 |3|[@jun06t](https://github.com/jun06t)/[**terraform-sample**](https://github.com/jun06t/terraform-sample)|terraform examples||
 |3|[@knakayama](https://github.com/knakayama)/[**tf-alb-demo**](https://github.com/knakayama/tf-alb-demo)|||
 

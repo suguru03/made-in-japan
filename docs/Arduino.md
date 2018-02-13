@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |40|[@addsict](https://github.com/addsict)/[**YetAnotherHHKBController**](https://github.com/addsict/YetAnotherHHKBController)|Yet another controller for Happy Hacking Keyboard Professional2||
-|20|[@9SQ](https://github.com/9SQ)/[**esp8266-wifi-setup**](https://github.com/9SQ/esp8266-wifi-setup)|ESP8266 Wifi setup using SoftAP, Captive Portal and EEPROM.||
+|21|[@9SQ](https://github.com/9SQ)/[**esp8266-wifi-setup**](https://github.com/9SQ/esp8266-wifi-setup)|ESP8266 Wifi setup using SoftAP, Captive Portal and EEPROM.||
 |19|[@9SQ](https://github.com/9SQ)/[**minIRum**](https://github.com/9SQ/minIRum)|A minimal implementation of infrared sender/receiver like IRKit by ESP8266|[:arrow_upper_right:](http://eleclog.quitsq.com/2016/09/minirum.html)|
 |19|[@tomozh](https://github.com/tomozh)/[**arduino_ST7032**](https://github.com/tomozh/arduino_ST7032)|ST7032.cpp - Arduino LiquidCrystal compatible library||
 |17|[@kyab](https://github.com/kyab)/[**travis-test-arduino**](https://github.com/kyab/travis-test-arduino)|Test Project to do Travis-CI for Arduino sketch.||

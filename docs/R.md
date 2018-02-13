@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|313|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
-|101|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
-|44|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
-|41|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2||
+|316|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
+|102|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
+|47|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
+|45|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2||
 |35|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
 |25|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
@@ -23,13 +23,13 @@
 |8|[@uribo](https://github.com/uribo)/[**Japan.useR**](https://github.com/uribo/Japan.useR)|:crossed_flags:Japanese R user community materials and information datasets||
 |7|[@yutannihilation](https://github.com/yutannihilation)/[**kokudosuuchi**](https://github.com/yutannihilation/kokudosuuchi)|国土数値情報ダウンロードサービスWeb APIからデータを取得するためのRパッケージです||
 |6|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**Detectives**](https://github.com/IshidaMotohiro/Detectives)|for "Data Detectives", Soft Bank 2015||
+|6|[@chezou](https://github.com/chezou)/[**sparklyr-distribute**](https://github.com/chezou/sparklyr-distribute)|Example code of spark_apply with sparklyr for CDH||
 |6|[@dichika](https://github.com/dichika)/[**jaguchi**](https://github.com/dichika/jaguchi)|||
 |6|[@hoxo-m](https://github.com/hoxo-m)/[**bayesopt**](https://github.com/hoxo-m/bayesopt)|An R Implementation of Bayesian Optimization|[:arrow_upper_right:](https://github.com/hoxo-m/bayesopt)|
 |6|[@teramonagi](https://github.com/teramonagi)/[**SABRCalibrationOnShiny**](https://github.com/teramonagi/SABRCalibrationOnShiny)|SABR model calibration on shiny||
 |6|[@teramonagi](https://github.com/teramonagi)/[**oandar**](https://github.com/teramonagi/oandar)|R wrapper for the OANDA REST API (http://developer.oanda.com/rest-live/introduction/)||
 |6|[@uribo](https://github.com/uribo)/[**jpndistrict**](https://github.com/uribo/jpndistrict)|🗾 Create Japansese Administration Area Maps|[:arrow_upper_right:](http://uribo.github.io/jpndistrict)|
 |5|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**TextMining**](https://github.com/IshidaMotohiro/TextMining)|||
-|5|[@chezou](https://github.com/chezou)/[**sparklyr-distribute**](https://github.com/chezou/sparklyr-distribute)|Example code of spark_apply with sparklyr for CDH||
 |5|[@dritoshi](https://github.com/dritoshi)/[**genesearchr**](https://github.com/dritoshi/genesearchr)|Fast full-text search in NCBI RefSeq, UniProt-KB and Genome DNA sequence||
 |5|[@hoxo-m](https://github.com/hoxo-m)/[**lambdaR**](https://github.com/hoxo-m/lambdaR)|Novel lambda expressions in R|[:arrow_upper_right:](https://github.com/hoxo-m/lambdaR)|
 |5|[@uribo](https://github.com/uribo)/[**wakatimer**](https://github.com/uribo/wakatimer)|:hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.||

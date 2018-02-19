@@ -2,6 +2,7 @@
 |---|---|---|---|
 |56|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.FusionTasks**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
 |55|[@vain0](https://github.com/vain0)/[**VainZero.Friends**](https://github.com/vain0/VainZero.Friends)|PL for friends in the Japaripark (ジャパリパークのフレンズのためのプログラミング言語)||
+|55|[@vain0](https://github.com/vain0)/[**friends-lang**](https://github.com/vain0/friends-lang)|PL for friends in the Japaripark (ジャパリパークのフレンズのためのプログラミング言語)||
 |37|[@pocketberserker](https://github.com/pocketberserker)/[**FsMachines**](https://github.com/pocketberserker/FsMachines)|A stream processing library for F#||
 |35|[@bleis-tift](https://github.com/bleis-tift)/[**FsYaml**](https://github.com/bleis-tift/FsYaml)|Typed Yaml Library for F#|[:arrow_upper_right:](http://bleis-tift.github.com/FsYaml)|
 |24|[@pocketberserker](https://github.com/pocketberserker)/[**FsAttoparsec**](https://github.com/pocketberserker/FsAttoparsec)|A port of Bryan O'Sullivan's attoparsec from Haskell to F#||

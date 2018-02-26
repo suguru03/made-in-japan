@@ -15,8 +15,8 @@
 |15|[@kentaro](https://github.com/kentaro)/[**Bancor_Protocol_Whitepaper_ja**](https://github.com/kentaro/Bancor_Protocol_Whitepaper_ja)|Japanese Translation of The Bancor Protocol Whitepaper||
 |15|[@uribo](https://github.com/uribo)/[**lab.note**](https://github.com/uribo/lab.note)|:notebook_with_decorative_cover: Create Laboratory Note and Report Using R Markdown||
 |13|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
+|12|[@laysakura](https://github.com/laysakura)/[**TheoryOfComputation**](https://github.com/laysakura/TheoryOfComputation)|A memo of a lecture on Theory of Computation in the University of Tokyo.||
 |12|[@orthez](https://github.com/orthez)/[**business-cards-latex**](https://github.com/orthez/business-cards-latex)|Business cards template in latex. Duplex (doubleside) printable. Two languages (back/front) supported. Optimized to be easily extensible.||
-|11|[@laysakura](https://github.com/laysakura)/[**TheoryOfComputation**](https://github.com/laysakura/TheoryOfComputation)|A memo of a lecture on Theory of Computation in the University of Tokyo.||
 |11|[@okomok](https://github.com/okomok)/[**strcat**](https://github.com/okomok/strcat)|TeX files for summary of category theory||
 |10|[@hamano](https://github.com/hamano)/[**zguide-ja**](https://github.com/hamano/zguide-ja)|||
 |9|[@ueokande](https://github.com/ueokande)/[**jletteraddress**](https://github.com/ueokande/jletteraddress)|A document class of LaTeX for address side of the Japanese letter.||
@@ -24,6 +24,7 @@
 |7|[@Runnrairu](https://github.com/Runnrairu)/[**machinelearning_text**](https://github.com/Runnrairu/machinelearning_text)|||
 |7|[@kmaed](https://github.com/kmaed)/[**pdffill**](https://github.com/kmaed/pdffill)|LaTeX macros to fill in PDF.||
 |7|[@masui](https://github.com/masui)/[**EpisoPass**](https://github.com/masui/EpisoPass)|EpisoPass - creating passwords from episodic memory||
+|7|[@masui](https://github.com/masui)/[**EpisoPass-vps**](https://github.com/masui/EpisoPass-vps)|EpisoPass - creating passwords from episodic memory||
 |7|[@miyukki](https://github.com/miyukki)/[**graduate-thesis**](https://github.com/miyukki/graduate-thesis)|My Graduate Thesis in Keio Univ. Murai Lab.||
 |7|[@uwabami](https://github.com/uwabami)/[**beamerthemeKansaiDebianMeeting**](https://github.com/uwabami/beamerthemeKansaiDebianMeeting)|latex-beamer theme for KansaiDebianMeeting||
 |5|[@farseerfc](https://github.com/farseerfc)/[**sjtu-thesis-xelatex**](https://github.com/farseerfc/sjtu-thesis-xelatex)|This repo is UNMAINTAINED and DEPRECATED, 代码已过时，请使用下面的模板|[:arrow_upper_right:](https://github.com/weijianwen/sjtu-thesis-template-latex)|
@@ -47,6 +48,7 @@
 |3|[@masayukig](https://github.com/masayukig)/[**better-testing-through-statistics**](https://github.com/masayukig/better-testing-through-statistics)|||
 |3|[@nichiyoubi](https://github.com/nichiyoubi)/[**temporal_logic_ml**](https://github.com/nichiyoubi/temporal_logic_ml)|時相論理勉強会/Haskell勉強会 用リポジトリ||
 |3|[@ntddk](https://github.com/ntddk)/[**paper**](https://github.com/ntddk/paper)|LaTeX template||
+|3|[@nulab](https://github.com/nulab)/[**book-template**](https://github.com/nulab/book-template)||[:arrow_upper_right:](https://nulab-inc.com/ja/blog/nulab/infra-engineer-book/)|
 |3|[@ryuichiueda](https://github.com/ryuichiueda)/[**commentary_on_graph-based_slam**](https://github.com/ryuichiueda/commentary_on_graph-based_slam)|graph-based SLAMの説明文||
 |3|[@uetchy](https://github.com/uetchy)/[**heroku-buildpack-pandoc**](https://github.com/uetchy/heroku-buildpack-pandoc)|A buildpack provides pandoc and pandoc-citeproc.||
 |3|[@yusuketomoto](https://github.com/yusuketomoto)/[**ofDocset**](https://github.com/yusuketomoto/ofDocset)|||

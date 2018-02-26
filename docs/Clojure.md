@@ -2,7 +2,7 @@
 |---|---|---|---|
 |908|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
 |528|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
-|341|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
+|342|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
 |325|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
 |265|[@kawasima](https://github.com/kawasima)/[**jagrid**](https://github.com/kawasima/jagrid)|Japanese-styled grid framework.||
 |147|[@runexec](https://github.com/runexec)/[**chp**](https://github.com/runexec/chp)|ClojureHomePage is a Compojure based web framework that allows you to write the backend and frontend with Clojure.|[:arrow_upper_right:](https://github.com/runexec/chp/)|
@@ -13,7 +13,7 @@
 |59|[@liquidz](https://github.com/liquidz)/[**jubot**](https://github.com/liquidz/jubot)|Chatbot framework in Clojure||
 |55|[@athos](https://github.com/athos)/[**Pinpointer**](https://github.com/athos/Pinpointer)|Pinpointer is yet another clojure.spec error reporter based on a precise error analysis||
 |48|[@runexec](https://github.com/runexec)/[**equate**](https://github.com/runexec/equate)|A Clojure fact management library||
-|40|[@yokolet](https://github.com/yokolet)/[**hiccup-samples**](https://github.com/yokolet/hiccup-samples)|hiccup samples for clojure cookbook||
+|41|[@yokolet](https://github.com/yokolet)/[**hiccup-samples**](https://github.com/yokolet/hiccup-samples)|hiccup samples for clojure cookbook||
 |39|[@federkasten](https://github.com/federkasten)/[**butler**](https://github.com/federkasten/butler)|Bring Web Workers to ClojureScript||
 |35|[@dvcrn](https://github.com/dvcrn)/[**ajom**](https://github.com/dvcrn/ajom)|atom plugins in clojurescript||
 |31|[@hellonico](https://github.com/hellonico)/[**niclojure**](https://github.com/hellonico/niclojure)|Candid whitebook on Clojure ecosystem||
@@ -27,17 +27,17 @@
 |21|[@runexec](https://github.com/runexec)/[**porta**](https://github.com/runexec/porta)| Clojure utility that generates a Clojure abstraction for an existing Java Class.||
 |18|[@ayamada](https://github.com/ayamada)/[**clan**](https://github.com/ayamada/clan)|CLAN : Clojure, LibGDX, Android, Neko application construct kit||
 |18|[@ayato-p](https://github.com/ayato-p)/[**kuuga**](https://github.com/ayato-p/kuuga)|An extensible transformer for Hiccup(-like) data structure||
+|15|[@k2nr](https://github.com/k2nr)/[**docker-clj**](https://github.com/k2nr/docker-clj)|Docker Remote API client library for Clojure||
 |15|[@kawasima](https://github.com/kawasima)/[**fressian-cljs**](https://github.com/kawasima/fressian-cljs)|Fressian library for clojurescript||
 |14|[@bobuhiro11](https://github.com/bobuhiro11)/[**aparapi-matrix**](https://github.com/bobuhiro11/aparapi-matrix)|aparapi-matrix is a core.matrix implementation, and uses aparapi which is API for GPU calculation.||
-|14|[@k2nr](https://github.com/k2nr)/[**docker-clj**](https://github.com/k2nr/docker-clj)|Docker Remote API client library for Clojure||
 |14|[@making](https://github.com/making)/[**clj-aws-ecs**](https://github.com/making/clj-aws-ecs)|Clojure Client Library for Amazon Product Advertising API||
 |14|[@youz](https://github.com/youz)/[**4clojure-golf**](https://github.com/youz/4clojure-golf)|golfing solutions|[:arrow_upper_right:](http://4clojure.com)|
 |13|[@making](https://github.com/making)/[**clj-gae-blank**](https://github.com/making/clj-gae-blank)|a blank project for Clojure on Google App Engine||
+|12|[@athos](https://github.com/athos)/[**kitchen-async**](https://github.com/athos/kitchen-async)|A Promise library for ClojureScript, or a poor man's core.async||
+|12|[@federkasten](https://github.com/federkasten)/[**clucie**](https://github.com/federkasten/clucie)|Clojure for the Lucene||
 |11|[@ayamada](https://github.com/ayamada)/[**op0010**](https://github.com/ayamada/op0010)|おしいれクエスト|[:arrow_upper_right:](http://vnctst.tir.jp/op0010/)|
 |11|[@boxp](https://github.com/boxp)/[**spellcard**](https://github.com/boxp/spellcard)|A Leiningen template for k8s deployment automation.||
-|11|[@federkasten](https://github.com/federkasten)/[**clucie**](https://github.com/federkasten/clucie)|Clojure for the Lucene||
 |11|[@pasberth](https://github.com/pasberth)/[**granjure**](https://github.com/pasberth/granjure)|Levelheaded, book-smart and is very good with logic.||
-|10|[@athos](https://github.com/athos)/[**kitchen-async**](https://github.com/athos/kitchen-async)|A Promise library for ClojureScript, or a poor man's core.async||
 |10|[@clj-nakano](https://github.com/clj-nakano)/[**situated-program-challenge**](https://github.com/clj-nakano/situated-program-challenge)|Rich HickeyのClojure/Conj2017キーノートの考察として、外界の変化を言語ごとにどれだけ上手く扱えるか比較する||
 |10|[@kawasima](https://github.com/kawasima)/[**tower-cljs**](https://github.com/kawasima/tower-cljs)|Clojurescript i18n & L10n library, compatible with https://github.com/ptaoussanis/tower/||
 |9|[@athos](https://github.com/athos)/[**genuine-highlighter**](https://github.com/athos/genuine-highlighter)|a macro-aware syntax highlighter for Clojure||

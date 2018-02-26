@@ -35,13 +35,14 @@
 |6|[@PoohSunny](https://github.com/PoohSunny)/[**geb-study**](https://github.com/PoohSunny/geb-study)|||
 |6|[@kiy0taka](https://github.com/kiy0taka)/[**groovy-consoles**](https://github.com/kiy0taka/groovy-consoles)||[:arrow_upper_right:](http://d.hatena.ne.jp/kiy0taka/)|
 |6|[@making](https://github.com/making)/[**spring-boot-demo-jvm-languages**](https://github.com/making/spring-boot-demo-jvm-languages)|Spring Boot Hello World project using some JVM languages||
-|6|[@nobeans](https://github.com/nobeans)/[**groovy-osgi-sample**](https://github.com/nobeans/groovy-osgi-sample)|Sample of OSGi powered by Groovy and Gradle||
 |6|[@operando](https://github.com/operando)/[**gradle-zundokokiyoshi-plugin**](https://github.com/operando/gradle-zundokokiyoshi-plugin)|gradle zundokokiyoshi plugin||
 |5|[@kimukou](https://github.com/kimukou)/[**griffontest**](https://github.com/kimukou/griffontest)|groovy griffon||
+|5|[@nobeans](https://github.com/nobeans)/[**groovy-osgi-sample**](https://github.com/nobeans/groovy-osgi-sample)|Sample of OSGi powered by Groovy and Gradle||
 |5|[@uehaj](https://github.com/uehaj)/[**groovy-optional**](https://github.com/uehaj/groovy-optional)|Extension module which enhances handilng of Java8's Optional Class in Groovy||
 |5|[@wadahiro](https://github.com/wadahiro)/[**gradle-samples**](https://github.com/wadahiro/gradle-samples)|||
 |4|[@YukiMatsumura](https://github.com/YukiMatsumura)/[**MaterialDesignResources**](https://github.com/YukiMatsumura/MaterialDesignResources)|MaterialDesign Android Resources||
 |4|[@int128](https://github.com/int128)/[**feign-oauth2-example**](https://github.com/int128/feign-oauth2-example)|Example of Spring Cloud Feign and Spring Security OAuth2||
+|4|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-plugin-template**](https://github.com/ksoichiro/gradle-plugin-template)|Template project for Gradle plugin.||
 |4|[@mike-neck](https://github.com/mike-neck)/[**idea-gradle-javaee-template**](https://github.com/mike-neck/idea-gradle-javaee-template)|template project of JavaEE-Glassfish application for IntelliJ IDEA and Gradle||
 |4|[@nicolas-raoul](https://github.com/nicolas-raoul)/[**OxygenPump**](https://github.com/nicolas-raoul/OxygenPump)|Downloads the wikicode of Wikitravel.org articles (which are Creative Commons Attribution-ShareAlike 3.0)|[:arrow_upper_right:](http://code.google.com/p/oxygenpump/)|
 |4|[@nobeans](https://github.com/nobeans)/[**grails-request-tracelog**](https://github.com/nobeans/grails-request-tracelog)|Grails 3 plugin to get info logs of request||
@@ -55,7 +56,6 @@
 |3|[@grimrose](https://github.com/grimrose)/[**gadvent2014**](https://github.com/grimrose/gadvent2014)|sample Ratpack app|[:arrow_upper_right:](http://grimrose.bitbucket.org/blog/html/2014/12/07/g_advent_calendar_2014_ratpack_02.html)|
 |3|[@inokappa](https://github.com/inokappa)/[**rundeck-fluentd-plugin**](https://github.com/inokappa/rundeck-fluentd-plugin)|||
 |3|[@int128](https://github.com/int128)/[**spring-cloud-api-gateway-example**](https://github.com/int128/spring-cloud-api-gateway-example)|Example Implementation of API Gateway Pattern using Spring Cloud Netflix||
-|3|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-plugin-template**](https://github.com/ksoichiro/gradle-plugin-template)|Template project for Gradle plugin.||
 |3|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-replacer**](https://github.com/ksoichiro/gradle-replacer)|Gradle plugin that provides a minimalistic template engine feature.||
 |3|[@nobeans](https://github.com/nobeans)/[**irclog-viewer**](https://github.com/nobeans/irclog-viewer)|A simple viewer of IRC log archives powered by Grails||
 |3|[@nobeans](https://github.com/nobeans)/[**tddbc-yokohama-201111**](https://github.com/nobeans/tddbc-yokohama-201111)|||

@@ -1,54 +1,55 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|28575|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-ui**](https://github.com/wasabeef/awesome-android-ui)|A curated list of awesome Android UI/UX libraries|[:arrow_upper_right:](https://twitter.com/wasabeef_jp)|
-|9992|[@cjwirth](https://github.com/cjwirth)/[**awesome-ios-ui**](https://github.com/cjwirth/awesome-ios-ui)|A curated list of awesome iOS UI/UX libraries||
-|4143|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-libraries**](https://github.com/wasabeef/awesome-android-libraries)|This is an alphabetical list of libraries for Android development, the majority being actively maintained.|[:arrow_upper_right:](https://twitter.com/wasabeef_jp)|
-|1732|[@hatena](https://github.com/hatena)/[**Hatena-Textbook**](https://github.com/hatena/Hatena-Textbook)|はてな研修用教科書||
-|1410|[@sotayamashita](https://github.com/sotayamashita)/[**awesome-css**](https://github.com/sotayamashita/awesome-css)|:art: A curated contents of amazing CSS Ever :)||
-|1097|[@hoosin](https://github.com/hoosin)/[**mobile-web-favorites**](https://github.com/hoosin/mobile-web-favorites)|This is a favorites, with a mobile web tips.||
-|1019|[@diasks2](https://github.com/diasks2)/[**ruby-nlp**](https://github.com/diasks2/ruby-nlp)|A collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software||
-|914|[@ShingoFukuyama](https://github.com/ShingoFukuyama)/[**WKWebViewTips**](https://github.com/ShingoFukuyama/WKWebViewTips)|WKWebView Tips (iOS 8.1.0)||
-|898|[@cookpad](https://github.com/cookpad)/[**styleguide**](https://github.com/cookpad/styleguide)|Cookpad's coding style guides||
+|28656|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-ui**](https://github.com/wasabeef/awesome-android-ui)|A curated list of awesome Android UI/UX libraries|[:arrow_upper_right:](https://twitter.com/wasabeef_jp)|
+|10001|[@cjwirth](https://github.com/cjwirth)/[**awesome-ios-ui**](https://github.com/cjwirth/awesome-ios-ui)|A curated list of awesome iOS UI/UX libraries||
+|4163|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-libraries**](https://github.com/wasabeef/awesome-android-libraries)|This is an alphabetical list of libraries for Android development, the majority being actively maintained.|[:arrow_upper_right:](https://twitter.com/wasabeef_jp)|
+|1737|[@hatena](https://github.com/hatena)/[**Hatena-Textbook**](https://github.com/hatena/Hatena-Textbook)|はてな研修用教科書||
+|1417|[@sotayamashita](https://github.com/sotayamashita)/[**awesome-css**](https://github.com/sotayamashita/awesome-css)|:art: A curated contents of amazing CSS Ever :)||
+|1106|[@hoosin](https://github.com/hoosin)/[**mobile-web-favorites**](https://github.com/hoosin/mobile-web-favorites)|This is a favorites, with a mobile web tips.||
+|1026|[@diasks2](https://github.com/diasks2)/[**ruby-nlp**](https://github.com/diasks2/ruby-nlp)|A collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software||
+|916|[@ShingoFukuyama](https://github.com/ShingoFukuyama)/[**WKWebViewTips**](https://github.com/ShingoFukuyama/WKWebViewTips)|WKWebView Tips (iOS 8.1.0)||
+|901|[@cookpad](https://github.com/cookpad)/[**styleguide**](https://github.com/cookpad/styleguide)|Cookpad's coding style guides||
 |850|[@JuanitoFatas](https://github.com/JuanitoFatas)/[**what-do-you-call-this-in-ruby**](https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby)|Solving the second hard problem in Computer Science.|[:arrow_upper_right:](https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby)|
-|847|[@hail2u](https://github.com/hail2u)/[**html-best-practices**](https://github.com/hail2u/html-best-practices)|For writing maintainable and scalable HTML documents||
-|617|[@JorgeBucaran](https://github.com/JorgeBucaran)/[**awesome-fish**](https://github.com/JorgeBucaran/awesome-fish)|A curated list of awesome tools, prompts and other cool nuggets for the amazing fish-shell.||
-|616|[@hackerkid](https://github.com/hackerkid)/[**bots**](https://github.com/hackerkid/bots)| :zap: Tools for building bots||
+|850|[@hail2u](https://github.com/hail2u)/[**html-best-practices**](https://github.com/hail2u/html-best-practices)|For writing maintainable and scalable HTML documents||
+|623|[@JorgeBucaran](https://github.com/JorgeBucaran)/[**awesome-fish**](https://github.com/JorgeBucaran/awesome-fish)|A curated list of awesome tools, prompts and other cool nuggets for the amazing fish-shell.||
+|623|[@hackerkid](https://github.com/hackerkid)/[**bots**](https://github.com/hackerkid/bots)| :zap: Tools for building bots||
 |613|[@hotchemi](https://github.com/hotchemi)/[**awesome-android-testing**](https://github.com/hotchemi/awesome-android-testing)|A curated list of awesome android testing libraries.||
 |583|[@coliff](https://github.com/coliff)/[**bootstrap-ie7**](https://github.com/coliff/bootstrap-ie7)|Bootstrap 3 CSS for IE7||
-|567|[@nagadomi](https://github.com/nagadomi)/[**lbpcascade_animeface**](https://github.com/nagadomi/lbpcascade_animeface)|A Face detector for anime/manga using OpenCV||
-|541|[@yusukekamiyamane](https://github.com/yusukekamiyamane)/[**fugue-icons**](https://github.com/yusukekamiyamane/fugue-icons)|Free stock icons.|[:arrow_upper_right:](http://p.yusukekamiyamane.com/)|
+|569|[@nagadomi](https://github.com/nagadomi)/[**lbpcascade_animeface**](https://github.com/nagadomi/lbpcascade_animeface)|A Face detector for anime/manga using OpenCV||
+|542|[@yusukekamiyamane](https://github.com/yusukekamiyamane)/[**fugue-icons**](https://github.com/yusukekamiyamane/fugue-icons)|Free stock icons.|[:arrow_upper_right:](http://p.yusukekamiyamane.com/)|
 |533|[@hiloki](https://github.com/hiloki)/[**flocss**](https://github.com/hiloki/flocss)|CSS organization methodology.||
 |509|[@myui](https://github.com/myui)/[**hivemall**](https://github.com/myui/hivemall)|Scalable machine learning library for Apache Hive/Spark/Pig|[:arrow_upper_right:](http://hivemall.incubator.apache.org/)|
 |499|[@jbucaran](https://github.com/jbucaran)/[**awesome-fish**](https://github.com/jbucaran/awesome-fish)|A curated list of awesome tools, prompts and other cool nuggets for the amazing fish-shell.||
 |480|[@philipperemy](https://github.com/philipperemy)/[**yolo-9000**](https://github.com/philipperemy/yolo-9000)|YOLO9000: Better, Faster, Stronger - Real-Time Object Detection. 9000 classes!||
+|474|[@cherryljr](https://github.com/cherryljr)/[**PanDownload**](https://github.com/cherryljr/PanDownload)|This product may not be used for commercial purposes Only for entertainment to enjoy||
 |464|[@azu](https://github.com/azu)/[**awesome-commit-english**](https://github.com/azu/awesome-commit-english)|コミット英語についての記事まとめ||
-|464|[@cherryljr](https://github.com/cherryljr)/[**PanDownload**](https://github.com/cherryljr/PanDownload)|This product may not be used for commercial purposes Only for entertainment to enjoy||
-|403|[@hoosin](https://github.com/hoosin)/[**EveryDaySport**](https://github.com/hoosin/EveryDaySport)|从今天开始做一个健康的程序员。||
-|386|[@uiureo](https://github.com/uiureo)/[**remote-in-japan**](https://github.com/uiureo/remote-in-japan)|Tech companies in Japan that hire remote workers||
-|382|[@JorgeBucaran](https://github.com/JorgeBucaran)/[**fish-shell-cookbook**](https://github.com/JorgeBucaran/fish-shell-cookbook)|Tips and recipes for fish, from shell to plate.||
+|404|[@hoosin](https://github.com/hoosin)/[**EveryDaySport**](https://github.com/hoosin/EveryDaySport)|从今天开始做一个健康的程序员。||
+|389|[@uiureo](https://github.com/uiureo)/[**remote-in-japan**](https://github.com/uiureo/remote-in-japan)|Tech companies in Japan that hire remote workers||
+|386|[@JorgeBucaran](https://github.com/JorgeBucaran)/[**fish-shell-cookbook**](https://github.com/JorgeBucaran/fish-shell-cookbook)|Tips and recipes for fish, from shell to plate.||
 |359|[@mohayonao](https://github.com/mohayonao)/[**timbre**](https://github.com/mohayonao/timbre)|||
-|314|[@JuanitoFatas](https://github.com/JuanitoFatas)/[**Ruby-Functional-Programming**](https://github.com/JuanitoFatas/Ruby-Functional-Programming)|:battery: From Conferencia Rails 2011: Functional Programming with Ruby||
-|302|[@sanographix](https://github.com/sanographix)/[**azusa-keynote**](https://github.com/sanographix/azusa-keynote)|大体いい感じになるKeynoteテンプレート|[:arrow_upper_right:](http://sanographix.github.io/azusa-keynote)|
-|267|[@marcan](https://github.com/marcan)/[**speculation-bugs**](https://github.com/marcan/speculation-bugs)|Docs and resources on CPU Speculative Execution bugs||
-|263|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-tools**](https://github.com/wasabeef/awesome-android-tools)|A curated list of awesome Android Tools.||
-|261|[@fengjueming](https://github.com/fengjueming)/[**unblock-NetEaseMusic**](https://github.com/fengjueming/unblock-NetEaseMusic)|海外网易云音乐代理||
-|259|[@sanographix](https://github.com/sanographix)/[**azusa-colors**](https://github.com/sanographix/azusa-colors)|Keynote template|[:arrow_upper_right:](http://sanographix.github.io/azusa-colors/)|
+|315|[@JuanitoFatas](https://github.com/JuanitoFatas)/[**Ruby-Functional-Programming**](https://github.com/JuanitoFatas/Ruby-Functional-Programming)|:battery: From Conferencia Rails 2011: Functional Programming with Ruby||
+|303|[@sanographix](https://github.com/sanographix)/[**azusa-keynote**](https://github.com/sanographix/azusa-keynote)|大体いい感じになるKeynoteテンプレート|[:arrow_upper_right:](http://sanographix.github.io/azusa-keynote)|
+|275|[@marcan](https://github.com/marcan)/[**speculation-bugs**](https://github.com/marcan/speculation-bugs)|Docs and resources on CPU Speculative Execution bugs||
+|268|[@fengjueming](https://github.com/fengjueming)/[**unblock-NetEaseMusic**](https://github.com/fengjueming/unblock-NetEaseMusic)|海外网易云音乐代理||
+|264|[@wasabeef](https://github.com/wasabeef)/[**awesome-android-tools**](https://github.com/wasabeef/awesome-android-tools)|A curated list of awesome Android Tools.||
+|260|[@sanographix](https://github.com/sanographix)/[**azusa-colors**](https://github.com/sanographix/azusa-colors)|Keynote template|[:arrow_upper_right:](http://sanographix.github.io/azusa-colors/)|
+|258|[@kudakurage](https://github.com/kudakurage)/[**LigatureSymbols**](https://github.com/kudakurage/LigatureSymbols)|Ligature Symbols is WebFont project to display the symbol with a ligature features. This Font is licensed under the SIL Open Font License.|[:arrow_upper_right:](http://kudakurage.com/ligature_symbols/)|
 |257|[@jbucaran](https://github.com/jbucaran)/[**fish-shell-cookbook**](https://github.com/jbucaran/fish-shell-cookbook)|Tips and recipes for fish, from shell to plate.||
-|257|[@kudakurage](https://github.com/kudakurage)/[**LigatureSymbols**](https://github.com/kudakurage/LigatureSymbols)|Ligature Symbols is WebFont project to display the symbol with a ligature features. This Font is licensed under the SIL Open Font License.|[:arrow_upper_right:](http://kudakurage.com/ligature_symbols/)|
 |235|[@fengjueming](https://github.com/fengjueming)/[**unblock-NeteastMusic**](https://github.com/fengjueming/unblock-NeteastMusic)|海外网易云音乐代理||
-|232|[@Shinpeim](https://github.com/Shinpeim)/[**introduction-to-git**](https://github.com/Shinpeim/introduction-to-git)|Gitをはじめからていねいに||
+|233|[@Shinpeim](https://github.com/Shinpeim)/[**introduction-to-git**](https://github.com/Shinpeim/introduction-to-git)|Gitをはじめからていねいに||
 |221|[@hatena](https://github.com/hatena)/[**Git-for-Designers**](https://github.com/hatena/Git-for-Designers)|はてなのデザイナ向けの Git 入門ドキュメントです。||
+|192|[@JorgeBucaran](https://github.com/JorgeBucaran)/[**awesome-hyperapp**](https://github.com/JorgeBucaran/awesome-hyperapp)|A curated list of awesome projects built with Hyperapp & more. |[:arrow_upper_right:](https://hyperapp.js.org)|
 |184|[@expede](https://github.com/expede)/[**awesome-relay**](https://github.com/expede/awesome-relay)|Awesome resources for Relay||
-|182|[@mitsuruog](https://github.com/mitsuruog)/[**javascript-style-guide**](https://github.com/mitsuruog/javascript-style-guide)|常に気をつけたい、JavaScriptへの正しい接し方|[:arrow_upper_right:](http://mitsuruog.github.com/javascript-style-guide)|
-|169|[@linyows](https://github.com/linyows)/[**github-wiki-search**](https://github.com/linyows/github-wiki-search)|:octocat: Search wiki of the repository on Github|[:arrow_upper_right:](http://userscripts.org/scripts/show/129930)|
-|167|[@splhack](https://github.com/splhack)/[**macvim-kaoriya**](https://github.com/splhack/macvim-kaoriya)|MacVim-KaoriYa||
-|162|[@Wizcorp](https://github.com/Wizcorp)/[**japanese-dev-lingo**](https://github.com/Wizcorp/japanese-dev-lingo)|Japanese Lingo for Developers||
-|154|[@g6ling](https://github.com/g6ling)/[**React-Native-Tips**](https://github.com/g6ling/React-Native-Tips)|||
+|183|[@mitsuruog](https://github.com/mitsuruog)/[**javascript-style-guide**](https://github.com/mitsuruog/javascript-style-guide)|常に気をつけたい、JavaScriptへの正しい接し方|[:arrow_upper_right:](http://mitsuruog.github.com/javascript-style-guide)|
+|170|[@linyows](https://github.com/linyows)/[**github-wiki-search**](https://github.com/linyows/github-wiki-search)|:octocat: Search wiki of the repository on Github|[:arrow_upper_right:](http://userscripts.org/scripts/show/129930)|
+|170|[@splhack](https://github.com/splhack)/[**macvim-kaoriya**](https://github.com/splhack/macvim-kaoriya)|MacVim-KaoriYa||
+|163|[@Wizcorp](https://github.com/Wizcorp)/[**japanese-dev-lingo**](https://github.com/Wizcorp/japanese-dev-lingo)|Japanese Lingo for Developers||
+|161|[@g6ling](https://github.com/g6ling)/[**React-Native-Tips**](https://github.com/g6ling/React-Native-Tips)|||
 |154|[@juno](https://github.com/juno)/[**bem-methodology-ja**](https://github.com/juno/bem-methodology-ja)|Japanese Translations of BEM-Methodology (BEMの日本語訳) http://bem.info/method/||
-|150|[@ksoichiro](https://github.com/ksoichiro)/[**awesome-gradle**](https://github.com/ksoichiro/awesome-gradle)|A curated list of awesome Gradle plugins and resources for a better development workflow automation.||
-|147|[@unity3d-jp](https://github.com/unity3d-jp)/[**FirstTutorial**](https://github.com/unity3d-jp/FirstTutorial)|||
-|138|[@DenisIzmaylov](https://github.com/DenisIzmaylov)/[**awesome-telegram-bots**](https://github.com/DenisIzmaylov/awesome-telegram-bots)|Collection of examples, libraries and starter-kits for Telegram Bots||
-|138|[@UnaNancyOwen](https://github.com/UnaNancyOwen)/[**Kinect2Sample**](https://github.com/UnaNancyOwen/Kinect2Sample)|Kinect for Windows SDK v2 Sample Program||
+|152|[@ksoichiro](https://github.com/ksoichiro)/[**awesome-gradle**](https://github.com/ksoichiro/awesome-gradle)|A curated list of awesome Gradle plugins and resources for a better development workflow automation.||
+|146|[@unity3d-jp](https://github.com/unity3d-jp)/[**FirstTutorial**](https://github.com/unity3d-jp/FirstTutorial)|||
+|142|[@DenisIzmaylov](https://github.com/DenisIzmaylov)/[**awesome-telegram-bots**](https://github.com/DenisIzmaylov/awesome-telegram-bots)|Collection of examples, libraries and starter-kits for Telegram Bots||
+|139|[@UnaNancyOwen](https://github.com/UnaNancyOwen)/[**Kinect2Sample**](https://github.com/UnaNancyOwen/Kinect2Sample)|Kinect for Windows SDK v2 Sample Program||
 |136|[@cpprefjp](https://github.com/cpprefjp)/[**site**](https://github.com/cpprefjp/site)|cpprefjpサイトのMarkdownソース|[:arrow_upper_right:](https://cpprefjp.github.io/)|
 |135|[@greymd](https://github.com/greymd)/[**CVE-2017-1000117**](https://github.com/greymd/CVE-2017-1000117)|Check Git's vulnerability CVE-2017-1000117||
 |134|[@onevcat](https://github.com/onevcat)/[**iOSWeekly**](https://github.com/onevcat/iOSWeekly)|iOS Weekly issue for InfoQ CN||
@@ -56,58 +57,59 @@
 |130|[@hatena](https://github.com/hatena)/[**solr-tutorial**](https://github.com/hatena/solr-tutorial)|Solrの導入資料です。LAMP構成に特化しています。||
 |127|[@cmod](https://github.com/cmod)/[**ahab**](https://github.com/cmod/ahab)|Ahab! Is a .mobi template for helping you produce Amazon Kindle specific ebooks. ||
 |125|[@dav009](https://github.com/dav009)/[**awesome-spanish-nlp**](https://github.com/dav009/awesome-spanish-nlp)|Curated list of Linguistic Resources for doing NLP & CL on Spanish||
-|120|[@BoostIO](https://github.com/BoostIO)/[**boost-releases**](https://github.com/BoostIO/boost-releases)|🚀 Boostnote app releases & changelog|[:arrow_upper_right:](https://boostnote.io/)|
+|121|[@BoostIO](https://github.com/BoostIO)/[**boost-releases**](https://github.com/BoostIO/boost-releases)|🚀 Boostnote app releases & changelog|[:arrow_upper_right:](https://boostnote.io/)|
 |109|[@operando](https://github.com/operando)/[**Android-Command-Note**](https://github.com/operando/Android-Command-Note)|Android Command Note||
 |108|[@hiroakis](https://github.com/hiroakis)/[**docker-sensu-server**](https://github.com/hiroakis/docker-sensu-server)|A Dockerfile for Sensu on CentOS||
 |105|[@cellfusion](https://github.com/cellfusion)/[**LESS.sugar**](https://github.com/cellfusion/LESS.sugar)|An Espresso sugar for LESS||
-|101|[@willnet](https://github.com/willnet)/[**capybara-readme-ja**](https://github.com/willnet/capybara-readme-ja)|Capybara の README 和訳|[:arrow_upper_right:](https://willnet.github.io/capybara-readme-ja/)|
+|102|[@willnet](https://github.com/willnet)/[**capybara-readme-ja**](https://github.com/willnet/capybara-readme-ja)|Capybara の README 和訳|[:arrow_upper_right:](https://willnet.github.io/capybara-readme-ja/)|
 |99|[@tcnksm](https://github.com/tcnksm)/[**awesome-container**](https://github.com/tcnksm/awesome-container)|A curated list of awesome container technologies and services||
 |98|[@amachang](https://github.com/amachang)/[**webkitd**](https://github.com/amachang/webkitd)|Simple WebKit Server||
 |98|[@yuki-kimoto](https://github.com/yuki-kimoto)/[**mojolicious-guides-japanese**](https://github.com/yuki-kimoto/mojolicious-guides-japanese)|Mojolicious API Japanese Translation||
 |96|[@azu](https://github.com/azu)/[**browser-javascript-resource**](https://github.com/azu/browser-javascript-resource)|The Collection of official Resources/Status/Issues for browsers.||
-|95|[@kaiinui](https://github.com/kaiinui)/[**android-awesome-libraries**](https://github.com/kaiinui/android-awesome-libraries)|There are many libraries which helps your android development!||
+|96|[@kaiinui](https://github.com/kaiinui)/[**android-awesome-libraries**](https://github.com/kaiinui/android-awesome-libraries)|There are many libraries which helps your android development!||
 |94|[@manabuyasuda](https://github.com/manabuyasuda)/[**styleguide**](https://github.com/manabuyasuda/styleguide)|arrange coding rule.||
-|86|[@icoxfog417](https://github.com/icoxfog417)/[**awesome-text-summarization**](https://github.com/icoxfog417/awesome-text-summarization)|The guide to tackle with the Text Summarization||
-|85|[@JeremyMain](https://github.com/JeremyMain)/[**GPUProfiler**](https://github.com/JeremyMain/GPUProfiler)|GPUProfiler - Understand your application and workflow resource requirements||
+|90|[@icoxfog417](https://github.com/icoxfog417)/[**awesome-text-summarization**](https://github.com/icoxfog417/awesome-text-summarization)|The guide to tackle with the Text Summarization||
+|87|[@JeremyMain](https://github.com/JeremyMain)/[**GPUProfiler**](https://github.com/JeremyMain/GPUProfiler)|GPUProfiler - Understand your application and workflow resource requirements||
 |84|[@chomado](https://github.com/chomado)/[**xamarin-dev-doc**](https://github.com/chomado/xamarin-dev-doc)|Xamarin Dev Days Japan で使う 日本語ドキュメントです。||
-|82|[@jrjohansson](https://github.com/jrjohansson)/[**qutip-lectures**](https://github.com/jrjohansson/qutip-lectures)|Lectures on QuTiP: slides and ipython notebooks||
+|83|[@jrjohansson](https://github.com/jrjohansson)/[**qutip-lectures**](https://github.com/jrjohansson/qutip-lectures)|Lectures on QuTiP: slides and ipython notebooks||
 |76|[@yonchu](https://github.com/yonchu)/[**grunt-zsh-completion**](https://github.com/yonchu/grunt-zsh-completion)|The zsh completion script for grunt.||
 |73|[@glidenote](https://github.com/glidenote)/[**learning-tmux**](https://github.com/glidenote/learning-tmux)|||
 |72|[@rosylilly](https://github.com/rosylilly)/[**zengin_code**](https://github.com/rosylilly/zengin_code)|bank codes and branch codes for japanese||
+|70|[@tokuhirom](https://github.com/tokuhirom)/[**java-handbook**](https://github.com/tokuhirom/java-handbook)|||
 |69|[@mzyy94](https://github.com/mzyy94)/[**like2sushi**](https://github.com/mzyy94/like2sushi)|ついたーの:star:が:heart:に変えられてしまったので:sushi:に戻すやつ|[:arrow_upper_right:](https://poem.mzyy94.com/items/like2sushi)|
 |68|[@expede](https://github.com/expede)/[**awesome-culture**](https://github.com/expede/awesome-culture)|A curated list of awesome thought on tech culture. Inspired by the various awesome-* projects||
 |68|[@nejumi](https://github.com/nejumi)/[**kaggle_memo**](https://github.com/nejumi/kaggle_memo)|||
-|67|[@tokuhirom](https://github.com/tokuhirom)/[**java-handbook**](https://github.com/tokuhirom/java-handbook)|||
 |66|[@AkihiroSuda](https://github.com/AkihiroSuda)/[**docker-issues**](https://github.com/AkihiroSuda/docker-issues)|:whale: Docker Issues and Tips (aufs/overlay/btrfs..)||
 |66|[@cookpad](https://github.com/cookpad)/[**cookpad-internship-2015-summer**](https://github.com/cookpad/cookpad-internship-2015-summer)|http://techlife.cookpad.com/entry/2015/09/08/113442|[:arrow_upper_right:](https://recruit.cookpad.com/internship/summer2015-engineer/)|
 |66|[@operando](https://github.com/operando)/[**DroidKaigi**](https://github.com/operando/DroidKaigi)|DroidKaigiの資料もろもろ||
+|66|[@philipperemy](https://github.com/philipperemy)/[**financial-news-dataset**](https://github.com/philipperemy/financial-news-dataset)|450,341 news from Bloomberg and 109,110 news from Reuters.||
+|64|[@keijiro](https://github.com/keijiro)/[**ShaderGraphExamples**](https://github.com/keijiro/ShaderGraphExamples)|Simple examples of Unity shader graphs.||
 |64|[@livedoor](https://github.com/livedoor)/[**datasets**](https://github.com/livedoor/datasets)|研究用データセットです。||
 |63|[@igaiga](https://github.com/igaiga)/[**hitotsubashi-ruby-2013**](https://github.com/igaiga/hitotsubashi-ruby-2013)|Ruby and Rails lecture documents in Hitotsubashi Univ. in 2013.||
 |62|[@JuanitoFatas](https://github.com/JuanitoFatas)/[**railsconf-2015**](https://github.com/JuanitoFatas/railsconf-2015)|Railsconf 2015 talks & videos|[:arrow_upper_right:](http://railsconf.com/schedule)|
-|61|[@philipperemy](https://github.com/philipperemy)/[**financial-news-dataset**](https://github.com/philipperemy/financial-news-dataset)|450,341 news from Bloomberg and 109,110 news from Reuters.||
 |60|[@ko1](https://github.com/ko1)/[**uc_ja**](https://github.com/ko1/uc_ja)|書籍『アンダースタンディング コンピュテーション』のサポートリポジトリです。||
 |59|[@linyows](https://github.com/linyows)/[**jquery-emoji**](https://github.com/linyows/jquery-emoji)|A simple, lightweight jQuery plugin for emoji parser.||
+|59|[@wantedly](https://github.com/wantedly)/[**learning-resources**](https://github.com/wantedly/learning-resources)|エンジニア向け教材集||
 |58|[@gfx](https://github.com/gfx)/[**docker-android-project**](https://github.com/gfx/docker-android-project)|DEPRECATED because Android SDK license does not allow re-distribution of its binaries||
-|58|[@wantedly](https://github.com/wantedly)/[**learning-resources**](https://github.com/wantedly/learning-resources)|エンジニア向け教材集||
+|57|[@codesuki](https://github.com/codesuki)/[**ecs-nginx-proxy**](https://github.com/codesuki/ecs-nginx-proxy)|Reverse proxy for AWS ECS. Lets you address your docker containers by sub domain.||
 |57|[@glidenote](https://github.com/glidenote)/[**serverspec-snippets**](https://github.com/glidenote/serverspec-snippets)|vim snippets for Serverspec.|[:arrow_upper_right:](http://blog.glidenote.com/blog/2014/06/17/serverspec-snippets/)|
 |57|[@r7kamura](https://github.com/r7kamura)/[**awesome-fantasy**](https://github.com/r7kamura/awesome-fantasy)|A collection of awesome FinalFantasy-ish libraries, tools, frameworks and software.||
 |57|[@shigeki](https://github.com/shigeki)/[**node-class-diagram**](https://github.com/shigeki/node-class-diagram)|Class Diagram of Node.js||
 |56|[@ledsun](https://github.com/ledsun)/[**cookbook-of-jmeter**](https://github.com/ledsun/cookbook-of-jmeter)|Cookbook of Apache JMeter||
 |55|[@SeitaroShinagawa](https://github.com/SeitaroShinagawa)/[**FavoritePapers**](https://github.com/SeitaroShinagawa/FavoritePapers)|||
-|55|[@codesuki](https://github.com/codesuki)/[**ecs-nginx-proxy**](https://github.com/codesuki/ecs-nginx-proxy)|Reverse proxy for AWS ECS. Lets you address your docker containers by sub domain.||
 |55|[@foostan](https://github.com/foostan)/[**consul-with-docker**](https://github.com/foostan/consul-with-docker)|The environment of Consul with Docker include Consul Template and Registrator||
+|54|[@takanabe](https://github.com/takanabe)/[**introduction-to-git**](https://github.com/takanabe/introduction-to-git)|https://github.com/Shinpeim/introduction-to-gitに各章で利用するレポジトリを追加したものです。||
+|54|[@tcnksm](https://github.com/tcnksm)/[**dockerfile-rbenv**](https://github.com/tcnksm/dockerfile-rbenv)|Dockerfile to build Image which is installed muliple versions of ruby|[:arrow_upper_right:](http://deeeet.com/writing/2013/12/12/docker-rbenv-en/)|
 |54|[@voluntas](https://github.com/voluntas)/[**japanese-erlang-elixir-companies**](https://github.com/voluntas/japanese-erlang-elixir-companies)|日本で Erlang/OTP や Elixir を利用している会社一覧||
 |54|[@ytbdken](https://github.com/ytbdken)/[**Meeting-materials**](https://github.com/ytbdken/Meeting-materials)|打ち合わせで使う用の資料。ヒアリングやアイデア出しなどのフォーマット。汎用性のあるものを目指します。||
 |53|[@IAMAS](https://github.com/IAMAS)/[**makeathon_agreement**](https://github.com/IAMAS/makeathon_agreement)|アンケートにご協力ください☞|[:arrow_upper_right:](https://docs.google.com/forms/d/1I61_0vSBIpvizHwm8a4JRX0XQZkCU1fwvVV2ZXROG4k/viewform)|
-|53|[@tcnksm](https://github.com/tcnksm)/[**dockerfile-rbenv**](https://github.com/tcnksm/dockerfile-rbenv)|Dockerfile to build Image which is installed muliple versions of ruby|[:arrow_upper_right:](http://deeeet.com/writing/2013/12/12/docker-rbenv-en/)|
 |52|[@Kinokkory](https://github.com/Kinokkory)/[**wiwinwlh-jp**](https://github.com/Kinokkory/wiwinwlh-jp)|What I Wish I Knew When Learning Haskell 日本語訳||
 |52|[@jpmartha](https://github.com/jpmartha)/[**iOS-Conferences**](https://github.com/jpmartha/iOS-Conferences)|iOS Conferences||
+|52|[@ngs](https://github.com/ngs)/[**sketchplugin-swift-color**](https://github.com/ngs/sketchplugin-swift-color)|A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.|[:arrow_upper_right:](http://ngs.io/2015/12/11/sketch-swift-color/)|
 |52|[@nguyen-toan](https://github.com/nguyen-toan)/[**Python3**](https://github.com/nguyen-toan/Python3)|"Python 3: The Python Environment" online course||
-|52|[@takanabe](https://github.com/takanabe)/[**introduction-to-git**](https://github.com/takanabe/introduction-to-git)|https://github.com/Shinpeim/introduction-to-gitに各章で利用するレポジトリを追加したものです。||
 |52|[@wantedly](https://github.com/wantedly)/[**objective-c-style-guide**](https://github.com/wantedly/objective-c-style-guide)|||
 |51|[@masaru-b-cl](https://github.com/masaru-b-cl)/[**introduction-to-vcs**](https://github.com/masaru-b-cl/introduction-to-vcs)|Introduction to VCS (Version Control System). Description VCS power, soul, usage considerd SCM (Software Configuration Management).||
-|51|[@ngs](https://github.com/ngs)/[**sketchplugin-swift-color**](https://github.com/ngs/sketchplugin-swift-color)|A Sketch Plugin for generating UIColor and NSColor initializer Swift code from fill color of selected layers.|[:arrow_upper_right:](http://ngs.io/2015/12/11/sketch-swift-color/)|
-|49|[@keijiro](https://github.com/keijiro)/[**Fragments**](https://github.com/keijiro/Fragments)|Fragment mesh objects for particle effects in Unity||
+|50|[@keijiro](https://github.com/keijiro)/[**Fragments**](https://github.com/keijiro/Fragments)|Fragment mesh objects for particle effects in Unity||
 |48|[@aonotas](https://github.com/aonotas)/[**neural-figures**](https://github.com/aonotas/neural-figures)|Neural Networks Figures||
 |48|[@knu](https://github.com/knu)/[**zsh-git-escape-magic**](https://github.com/knu/zsh-git-escape-magic)|zle tweak for git command line arguments||
 |47|[@is8r](https://github.com/is8r)/[**ios-psdset**](https://github.com/is8r/ios-psdset)|||
@@ -125,7 +127,6 @@
 |39|[@cookpad](https://github.com/cookpad)/[**gradle-android-sdk-manager**](https://github.com/cookpad/gradle-android-sdk-manager)|DEPRECATED||
 |39|[@fujita](https://github.com/fujita)/[**swift3**](https://github.com/fujita/swift3)|Swift3 project has moved to OpenStack official repository.|[:arrow_upper_right:](https://github.com/openstack/swift3)|
 |39|[@k2works](https://github.com/k2works)/[**atom_introduction**](https://github.com/k2works/atom_introduction)|Atom入門||
-|39|[@keijiro](https://github.com/keijiro)/[**ShaderGraphExamples**](https://github.com/keijiro/ShaderGraphExamples)|||
 |38|[@Shougo](https://github.com/Shougo)/[**BattleEditors**](https://github.com/Shougo/BattleEditors)|"Battle editors" novel in English||
 |37|[@keijiro](https://github.com/keijiro)/[**unity-shader-bundle**](https://github.com/keijiro/unity-shader-bundle)|Shows how to use a 'common-bundle', to avoid shader compilations.||
 |37|[@zchee](https://github.com/zchee)/[**h2o-proxy**](https://github.com/zchee/h2o-proxy)|Automated H2O reverse proxy for Docker containers. An alternative jwilder/nginx-proxy.|[:arrow_upper_right:](https://registry.hub.docker.com/u/zchee/h2o-proxy/)|
@@ -175,13 +176,13 @@
 |27|[@hoosin](https://github.com/hoosin)/[**pay**](https://github.com/hoosin/pay)|Pay API document||
 |27|[@shimizu](https://github.com/shimizu)/[**H25_yearly_income**](https://github.com/shimizu/H25_yearly_income)|平成25年住宅・土地統計調査 - H25家計を主に支える者の年齢・世帯年収区分||
 |27|[@sonots](https://github.com/sonots)/[**growthforecast-tuning**](https://github.com/sonots/growthforecast-tuning)|GrowthForecast/RRDtool チューニング秘伝の書||
+|27|[@sonots](https://github.com/sonots)/[**isucon3_cheatsheet**](https://github.com/sonots/isucon3_cheatsheet)|cheat sheets for isucon3 middleware settings||
 |27|[@tnantoka](https://github.com/tnantoka)/[**hello-spritekit**](https://github.com/tnantoka/hello-spritekit)|How to create a breakout clone with Sprite Kit.|[:arrow_upper_right:](http://spritekit.jp/etc/2013/12/04/breakout-tutorial/)|
 |27|[@yoshiori](https://github.com/yoshiori)/[**social_hosts**](https://github.com/yoshiori/social_hosts)|みんなで変なところは弾く hosts ファイルを共有しましょう。||
 |26|[@BoostIO](https://github.com/BoostIO)/[**boost-app-discussions**](https://github.com/BoostIO/boost-app-discussions)|Is there some trouble with using Boostnote app? Feel free to ask us :D|[:arrow_upper_right:](https://b00st.io)|
 |26|[@JuanitoFatas](https://github.com/JuanitoFatas)/[**slime-user-manual**](https://github.com/JuanitoFatas/slime-user-manual)|This repo is for my personal reading, translation's credit belongs to @unionx|[:arrow_upper_right:](https://github.com/unionx/slime-user-manual-cn)|
 |26|[@mayuco](https://github.com/mayuco)/[**emolett**](https://github.com/mayuco/emolett)|||
 |26|[@nakamap](https://github.com/nakamap)/[**docs**](https://github.com/nakamap/docs)|API Documents||
-|26|[@sonots](https://github.com/sonots)/[**isucon3_cheatsheet**](https://github.com/sonots/isucon3_cheatsheet)|cheat sheets for isucon3 middleware settings||
 |26|[@tcnksm](https://github.com/tcnksm)/[**dockerfile-gox**](https://github.com/tcnksm/dockerfile-gox)|Docekerfile for gox, cross-compiling golang project parallelly|[:arrow_upper_right:](https://registry.hub.docker.com/u/tcnksm/gox/)|
 |26|[@tokiwoousaka](https://github.com/tokiwoousaka)/[**YuruhuwaHaskell**](https://github.com/tokiwoousaka/YuruhuwaHaskell)|ゆるふわHaskell入門会||
 |25|[@gfx](https://github.com/gfx)/[**swift-words**](https://github.com/gfx/swift-words)|Swift訳語集|[:arrow_upper_right:](https://github.com/gfx/swift-words/blob/master/README.md)|
@@ -194,19 +195,19 @@
 |24|[@idobatter](https://github.com/idobatter)/[**node-win32api**](https://github.com/idobatter/node-win32api)|Asynchronous, non-blocking win32api bindings for node.js .|[:arrow_upper_right:](http://idobatter.github.com/node-win32api/)|
 |24|[@keijiro](https://github.com/keijiro)/[**LowPolyShapes**](https://github.com/keijiro/LowPolyShapes)|Low poly basic shape library for Unity||
 |24|[@mah0x211](https://github.com/mah0x211)/[**lenv**](https://github.com/mah0x211/lenv)|Lua Version Manager||
+|24|[@philipperemy](https://github.com/philipperemy)/[**timit**](https://github.com/philipperemy/timit)|The DARPA TIMIT Acoustic-Phonetic Continuous Speech Corpus||
 |24|[@r7kamura](https://github.com/r7kamura)/[**works**](https://github.com/r7kamura/works)|過去につくったもの||
 |23|[@STAIR-Lab-CIT](https://github.com/STAIR-Lab-CIT)/[**STAIR-captions**](https://github.com/STAIR-Lab-CIT/STAIR-captions)|STAIR captions: large-scale Japanese image caption dataset|[:arrow_upper_right:](http://captions.stair.center)|
 |23|[@bati11](https://github.com/bati11)/[**learn-scala**](https://github.com/bati11/learn-scala)|Scala入門ハンズオンの資料|[:arrow_upper_right:](http://sscala.connpass.com/)|
+|23|[@justlaputa](https://github.com/justlaputa)/[**collectd-influxdb-grafana-docker**](https://github.com/justlaputa/collectd-influxdb-grafana-docker)|simple demo for influxdb and grafana by docker-compose|[:arrow_upper_right:](https://blog.laputa.io/try-influxdb-and-grafana-by-docker-6b4d50c6a446)|
 |23|[@lotz84](https://github.com/lotz84)/[**machine-learning**](https://github.com/lotz84/machine-learning)|||
 |23|[@pasberth](https://github.com/pasberth)/[**gijinka**](https://github.com/pasberth/gijinka)|#言語擬人化学園もの||
-|23|[@philipperemy](https://github.com/philipperemy)/[**timit**](https://github.com/philipperemy/timit)|The DARPA TIMIT Acoustic-Phonetic Continuous Speech Corpus||
 |23|[@plenproject](https://github.com/plenproject)/[**PLEN2**](https://github.com/plenproject/PLEN2)|PLEN2 starter kit. (This repository has *.stl files, firmware, and motions.)||
 |23|[@ryonakae](https://github.com/ryonakae)/[**micss**](https://github.com/ryonakae/micss)|My CSS Rules||
 |23|[@sjitech](https://github.com/sjitech)/[**nodejs-android-prebuilt-binaries**](https://github.com/sjitech/nodejs-android-prebuilt-binaries)|Prebuilt binaries of NodeJS for Android(arm,arm64,x86,x64,mipsel), full or limited(by --without-snapshot --without-inspector --without-intl)||
 |23|[@wasabeef](https://github.com/wasabeef)/[**vagrant-kali-linux**](https://github.com/wasabeef/vagrant-kali-linux)|Vagrant Boxes - Kali Linux||
 |22|[@eiel](https://github.com/eiel)/[**StudySessions**](https://github.com/eiel/StudySessions)|日本の勉強会についてまとめたり、談義したり。||
 |22|[@igaiga](https://github.com/igaiga)/[**hitotsubashi-ruby-2012**](https://github.com/igaiga/hitotsubashi-ruby-2012)|Ruby and Rails lecture documents in Hitotsubashi Univ. in 2012.||
-|22|[@justlaputa](https://github.com/justlaputa)/[**collectd-influxdb-grafana-docker**](https://github.com/justlaputa/collectd-influxdb-grafana-docker)|simple demo for influxdb and grafana by docker-compose|[:arrow_upper_right:](https://blog.laputa.io/try-influxdb-and-grafana-by-docker-6b4d50c6a446)|
 |22|[@masahide](https://github.com/masahide)/[**ansible-lssd**](https://github.com/masahide/ansible-lssd)|Large scale server deploys using BitTorrent and the BitTornado library by Murder (https://github.com/lg/murder)||
 |22|[@rbtnn](https://github.com/rbtnn)/[**etc-about-vimscript**](https://github.com/rbtnn/etc-about-vimscript)|About vimrc and summarizes change of the language specification on Vim script.  ||
 |22|[@ymrl](https://github.com/ymrl)/[**thesis-template**](https://github.com/ymrl/thesis-template)|SFCの修士論文に（たぶん）準拠したLaTeXテンプレート|[:arrow_upper_right:](http://ymrl.github.com/thesis-template/)|
@@ -243,11 +244,13 @@
 |18|[@clear-code](https://github.com/clear-code)/[**internship**](https://github.com/clear-code/internship)|Log for internship by ClearCode.|[:arrow_upper_right:](http://www.clear-code.com/internship/)|
 |18|[@cookpad](https://github.com/cookpad)/[**2018-newgrads-engineer-portfolio**](https://github.com/cookpad/2018-newgrads-engineer-portfolio)|クックパッド 2018 年度新卒採用選考エントリーシート提出方法と、その時に利用するファイル一式です。|[:arrow_upper_right:](https://recruit.cookpad.com/2018)|
 |18|[@erutaso](https://github.com/erutaso)/[**THE-IDOL-MASTER-MOVIE**](https://github.com/erutaso/THE-IDOL-MASTER-MOVIE)|劇場版 THE IDOL M@STER MOVIE 輝きの向こう側へ をテキストで補完した|[:arrow_upper_right:](http://www.idolmaster-anime.jp/)|
+|18|[@guicho271828](https://github.com/guicho271828)/[**sbcl-wiki**](https://github.com/guicho271828/sbcl-wiki)|maybe-wrong sbcl internals||
 |18|[@lestrrat](https://github.com/lestrrat)/[**daemontools-plack-runner**](https://github.com/lestrrat/daemontools-plack-runner)|My utility script to run plack scripts ||
 |18|[@matsuu](https://github.com/matsuu)/[**terraform-templates**](https://github.com/matsuu/terraform-templates)|Template files for Terraform||
 |18|[@onevcat](https://github.com/onevcat)/[**Notes**](https://github.com/onevcat/Notes)|My Notes: http://notes.onevcat.com||
 |18|[@plenprojectcompany](https://github.com/plenprojectcompany)/[**plen-3DModel_Fusion360**](https://github.com/plenprojectcompany/plen-3DModel_Fusion360)|PLEN2's 3D model data implemented by Autodesk Fusion 360.||
 |18|[@razorgirl](https://github.com/razorgirl)/[**docker-couchpotato**](https://github.com/razorgirl/docker-couchpotato)|Dockerfile to set up a Couchpotato container||
+|18|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus-keymaps-for-surround**](https://github.com/t9md/atom-vim-mode-plus-keymaps-for-surround)|provides default keymap for surround|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus-keymaps-for-surround)|
 |18|[@tokuhirom](https://github.com/tokuhirom)/[**gearman-stat.psgi**](https://github.com/tokuhirom/gearman-stat.psgi)|Display gearman stats.||
 |18|[@yusuke](https://github.com/yusuke)/[**twitter4s**](https://github.com/yusuke/twitter4s)|A Scala wrapper for Twitter4J||
 |17|[@IAMAS](https://github.com/IAMAS)/[**open_source_project_policy**](https://github.com/IAMAS/open_source_project_policy)|||
@@ -255,7 +258,6 @@
 |17|[@mattn](https://github.com/mattn)/[**vim-vfs**](https://github.com/mattn/vim-vfs)|||
 |17|[@nao-pon](https://github.com/nao-pon)/[**elFinder-nightly**](https://github.com/nao-pon/elFinder-nightly)|elFinder nightly builds||
 |17|[@susieyy](https://github.com/susieyy)/[**react-native-catalog**](https://github.com/susieyy/react-native-catalog)|A catalog of React Native components and examples||
-|17|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus-keymaps-for-surround**](https://github.com/t9md/atom-vim-mode-plus-keymaps-for-surround)|provides default keymap for surround|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus-keymaps-for-surround)|
 |17|[@tdtds](https://github.com/tdtds)/[**kindlizer-backend**](https://github.com/tdtds/kindlizer-backend)|this project was closed||
 |17|[@tkmru](https://github.com/tkmru)/[**awesome-linux-rootkits**](https://github.com/tkmru/awesome-linux-rootkits)|||
 |17|[@toru-hamaguchi](https://github.com/toru-hamaguchi)/[**sublime-fish-shell**](https://github.com/toru-hamaguchi/sublime-fish-shell)|Sublime text 2 package for fish-shell.||
@@ -266,6 +268,7 @@
 |16|[@hiloki](https://github.com/hiloki)/[**spacer**](https://github.com/hiloki/spacer)|Just a space.||
 |16|[@karlcow](https://github.com/karlcow)/[**webarch**](https://github.com/karlcow/webarch)|How to explain in simple terms Web Architecture and HTTP for UX, marketing, front-end developers, etc.||
 |16|[@quipper](https://github.com/quipper)/[**handbook**](https://github.com/quipper/handbook)|||
+|16|[@ryuichiueda](https://github.com/ryuichiueda)/[**raspimouse_book_info**](https://github.com/ryuichiueda/raspimouse_book_info)|「Raspberry Piで学ぶ ROSロボット入門」の情報ポータル||
 |16|[@snaka](https://github.com/snaka)/[**cyg-apt**](https://github.com/snaka/cyg-apt)|apt-get like package manager for Cygwin. Forked from http://lilypond.org/~janneke/software/  |[:arrow_upper_right:](http://d.hatena.ne.jp/snaka72/)|
 |16|[@uniba](https://github.com/uniba)/[**knowledge_base**](https://github.com/uniba/knowledge_base)|||
 |16|[@uzulla](https://github.com/uzulla)/[**how_to_setup_path_on_windows**](https://github.com/uzulla/how_to_setup_path_on_windows)|色んなWindowsに環境変数のPathを設定する方法||
@@ -280,7 +283,6 @@
 |15|[@oshow](https://github.com/oshow)/[**why-bundler-exists**](https://github.com/oshow/why-bundler-exists)|http://gembundler.com/v1.3/rationale.html の翻訳||
 |15|[@rosylilly](https://github.com/rosylilly)/[**docrystal**](https://github.com/rosylilly/docrystal)|docrystal.org hosts documentation for Crystal packages on GitHub|[:arrow_upper_right:](http://www.docrystal.org)|
 |15|[@rosylilly](https://github.com/rosylilly)/[**isucondar**](https://github.com/rosylilly/isucondar)|"イスコンダル" is Benchmarker framework for ISUCON||
-|15|[@ryuichiueda](https://github.com/ryuichiueda)/[**raspimouse_book_info**](https://github.com/ryuichiueda/raspimouse_book_info)|「Raspberry Piで学ぶ ROSロボット入門」の情報ポータル||
 |15|[@uiureo](https://github.com/uiureo)/[**seiseki.pdf**](https://github.com/uiureo/seiseki.pdf)|||
 |15|[@yhoshino11](https://github.com/yhoshino11)/[**ArchLinux**](https://github.com/yhoshino11/ArchLinux)|my minimum Arch Linux Installution||
 |14|[@DQNEO](https://github.com/DQNEO)/[**Renshu**](https://github.com/DQNEO/Renshu)|練習用です。ご自由にforkしてPull Requestを送ってください。↓ 「Git/Github超入門：猿でもできるPull Request」|[:arrow_upper_right:](http://dqn.sakusakutto.jp/2011/10/git_github_pull_request.html)|
@@ -297,6 +299,7 @@
 |14|[@j1wu](https://github.com/j1wu)/[**read-the-source**](https://github.com/j1wu/read-the-source)|Explore the magic behind things||
 |14|[@karlcow](https://github.com/karlcow)/[**browserfeatures**](https://github.com/karlcow/browserfeatures)|A very simple JSON db on browser features and their associated bugs in different bug trackers||
 |14|[@mohayonao](https://github.com/mohayonao)/[**MMLEmitter**](https://github.com/mohayonao/MMLEmitter)|this package is renamed to mml-emitter||
+|14|[@odashi](https://github.com/odashi)/[**small_parallel_enja**](https://github.com/odashi/small_parallel_enja)|50k English-Japanese Parallel Corpus for Machine Translation Benchmark.||
 |14|[@p1ch-jp](https://github.com/p1ch-jp)/[**emoji-commit-message-guideline**](https://github.com/p1ch-jp/emoji-commit-message-guideline)|:art: 絵文字を使ったコミットメッセージの書き方ガイドライン||
 |14|[@pepabo](https://github.com/pepabo)/[**contents**](https://github.com/pepabo/contents)|インターネットコンテンツ置き場です。||
 |14|[@tomorrowkey](https://github.com/tomorrowkey)/[**sketch3-mosaic-plugin**](https://github.com/tomorrowkey/sketch3-mosaic-plugin)|A plugin for Sketch3 to apply mosaic easily||
@@ -352,7 +355,6 @@
 |12|[@kenjiskywalker](https://github.com/kenjiskywalker)/[**memo**](https://github.com/kenjiskywalker/memo)|||
 |12|[@kurihei](https://github.com/kurihei)/[**Ethereum-WhitePaper-JP**](https://github.com/kurihei/Ethereum-WhitePaper-JP)|Japanese translation of Ethereum White Paper ||
 |12|[@leonhartX](https://github.com/leonhartX)/[**docker-machine-zsh-completion**](https://github.com/leonhartX/docker-machine-zsh-completion)|A more functional and up-to-date zsh completion for docker-machine||
-|12|[@odashi](https://github.com/odashi)/[**small_parallel_enja**](https://github.com/odashi/small_parallel_enja)|50k English-Japanese Parallel Corpus for Machine Translation Benchmark.||
 |12|[@operando](https://github.com/operando)/[**Notes**](https://github.com/operando/Notes)|Notes||
 |12|[@osakavim](https://github.com/osakavim)/[**OsakaVim**](https://github.com/osakavim/OsakaVim)|Vimに関する何かをやる会。  https://github.com/osakavim/OsakaVim/wiki||
 |12|[@remore](https://github.com/remore)/[**gemstat**](https://github.com/remore/gemstat)|A PoC rubygem recommends you a bunch of gems by collaborative filtering approach(something like Amazon's "Customers Who Bought This Also Bought")||
@@ -396,6 +398,7 @@
 |10|[@ashchan](https://github.com/ashchan)/[**cheatsheets**](https://github.com/ashchan/cheatsheets)|drop in whatever I find useful||
 |10|[@bannzai](https://github.com/bannzai)/[**SwiftLove**](https://github.com/bannzai/SwiftLove)|hogehogehogehoge||
 |10|[@doches](https://github.com/doches)/[**ConfigParser.sugar**](https://github.com/doches/ConfigParser.sugar)|A ConfigParser (RFC 822) Sugar for Espresso|[:arrow_upper_right:](http://www.texasexpat.net/posts/configparser.html)|
+|10|[@fumiyas](https://github.com/fumiyas)/[**translation-ja**](https://github.com/fumiyas/translation-ja)|各種文書の日本語訳||
 |10|[@g200kg](https://github.com/g200kg)/[**WebGL-Audio-processing**](https://github.com/g200kg/WebGL-Audio-processing)|audio processing sample with WebGL shader program||
 |10|[@guicho271828](https://github.com/guicho271828)/[**common-lisp-project-ideas**](https://github.com/guicho271828/common-lisp-project-ideas)|Discuss future project ideas||
 |10|[@gunta](https://github.com/gunta)/[**ios-otalistphp**](https://github.com/gunta/ios-otalistphp)|Generates a list of the .ipa files for download, by parsing the .plist files in the current directory.||
@@ -411,8 +414,10 @@
 |10|[@kubosho](https://github.com/kubosho)/[**Curriculum-Vitae**](https://github.com/kubosho/Curriculum-Vitae)|kubosho's CV.||
 |10|[@mattn](https://github.com/mattn)/[**freenode-mobile-gateway**](https://github.com/mattn/freenode-mobile-gateway)|IRC gateway for freenode writen in perl. |[:arrow_upper_right:](http://mattn.kaoriya.net/)|
 |10|[@meso](https://github.com/meso)/[**dwanGo**](https://github.com/meso/dwanGo)|ドワンゴ主催によるGolang勉強会|[:arrow_upper_right:](http://dwgo.connpass.com/)|
+|10|[@mooz](https://github.com/mooz)/[**awesome-inequality**](https://github.com/mooz/awesome-inequality)|A curated list of inequalities in our life||
 |10|[@motemen](https://github.com/motemen)/[**Travel-Handbook**](https://github.com/motemen/Travel-Handbook)|旅の栞||
 |10|[@myfinder](https://github.com/myfinder)/[**aws-casual-3**](https://github.com/myfinder/aws-casual-3)|AWS Casual Talks #3||
+|10|[@myui](https://github.com/myui)/[**dockernized-digdag-server**](https://github.com/myui/dockernized-digdag-server)|Dockerfile to run digdag-server on Amazon ECS||
 |10|[@operando](https://github.com/operando)/[**JobScheduler-Code-Reading**](https://github.com/operando/JobScheduler-Code-Reading)|JobScheduler Code Reading||
 |10|[@pottava](https://github.com/pottava)/[**dockerized-ecr-credential-helper**](https://github.com/pottava/dockerized-ecr-credential-helper)||[:arrow_upper_right:](https://hub.docker.com/r/pottava/amazon-ecr-credential-helper/)|
 |10|[@predominant](https://github.com/predominant)/[**deploy_kit**](https://github.com/predominant/deploy_kit)|CakePHP Deployment Kit|[:arrow_upper_right:](http://grahamweldon.com)|
@@ -430,6 +435,7 @@
 |9|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxOpenCV22**](https://github.com/Akira-Hayasaka/ofxOpenCV22)|openCV2.2 addon for opanFrameworks. Tested and created on OSX 10.6 oF0062..||
 |9|[@Asyley](https://github.com/Asyley)/[**taisyoku**](https://github.com/Asyley/taisyoku)|say goodbye||
 |9|[@Gab-km](https://github.com/Gab-km)/[**update-monads_jp**](https://github.com/Gab-km/update-monads_jp)|F# 界の重鎮、とましゅぴー御大による update monad の記事( http://tomasp.net/blog/2014/update-monads/index.html )についての非公式翻訳||
+|9|[@Hypercubed](https://github.com/Hypercubed)/[**javascript-the-esoteric-parts**](https://github.com/Hypercubed/javascript-the-esoteric-parts)|JavaScript: The Esoteric Parts||
 |9|[@IAMAS](https://github.com/IAMAS)/[**co-creation_project_agreement**](https://github.com/IAMAS/co-creation_project_agreement)|||
 |9|[@JuanitoFatas](https://github.com/JuanitoFatas)/[**remote**](https://github.com/JuanitoFatas/remote)|:sparkling_heart: Remote resources for you and me :revolving_hearts:||
 |9|[@Kimtaro](https://github.com/Kimtaro)/[**docker-mecab**](https://github.com/Kimtaro/docker-mecab)|Dockerfile with MeCab, the Japanese morphological analyzer and IPADIC||
@@ -445,7 +451,6 @@
 |9|[@drselump14](https://github.com/drselump14)/[**alfred-change-sound-output**](https://github.com/drselump14/alfred-change-sound-output)|alfred-change-sound-output||
 |9|[@fukamachi](https://github.com/fukamachi)/[**yapool**](https://github.com/fukamachi/yapool)|A Common Lisp command-line tool for executing shell commands via SSH.||
 |9|[@fullkawa](https://github.com/fullkawa)/[**dqz**](https://github.com/fullkawa/dqz)|"dqz"(あるいは"Xan")は四則演算を基本システムとするカードゲームです。|[:arrow_upper_right:](http://open-design-games.net/)|
-|9|[@fumiyas](https://github.com/fumiyas)/[**translation-ja**](https://github.com/fumiyas/translation-ja)|各種文書の日本語訳||
 |9|[@funnythingz](https://github.com/funnythingz)/[**AburaSoba**](https://github.com/funnythingz/AburaSoba)|油そばのレシピ||
 |9|[@glidenote](https://github.com/glidenote)/[**hub-zsh-completion**](https://github.com/glidenote/hub-zsh-completion)|||
 |9|[@gyuque](https://github.com/gyuque)/[**shadergo**](https://github.com/gyuque/shadergo)|shader test using golang||
@@ -458,13 +463,13 @@
 |9|[@kairyu](https://github.com/kairyu)/[**tkg-firmware**](https://github.com/kairyu/tkg-firmware)|A collection of firmwares compiled for TKG (TMK Keymap Generator).||
 |9|[@kazutan](https://github.com/kazutan)/[**awesome-ggplot2**](https://github.com/kazutan/awesome-ggplot2)|ggplot2に関連する素敵なパッケージリスト||
 |9|[@kimh](https://github.com/kimh)/[**circleci-build-recipies**](https://github.com/kimh/circleci-build-recipies)|||
+|9|[@kmc-jp](https://github.com/kmc-jp)/[**git_hands_on**](https://github.com/kmc-jp/git_hands_on)|イケイケなgit 講座||
 |9|[@knu](https://github.com/knu)/[**imedic-shogi**](https://github.com/knu/imedic-shogi)|Shogi terminology dictionary for Japanese input method editors|[:arrow_upper_right:](http://idaemons.org/projects/shogidic/)|
 |9|[@komagata](https://github.com/komagata)/[**heroku-static**](https://github.com/komagata/heroku-static)|Static file application template in Heroku.|[:arrow_upper_right:](http://docs.komagata.org/)|
 |9|[@machu](https://github.com/machu)/[**dotfiles**](https://github.com/machu/dotfiles)|Mac OS X dotfiles||
 |9|[@makimoto](https://github.com/makimoto)/[**handson**](https://github.com/makimoto/handson)|||
 |9|[@mattn](https://github.com/mattn)/[**awesome-ezoe**](https://github.com/mattn/awesome-ezoe)|||
 |9|[@mikewlange](https://github.com/mikewlange)/[**cheatsheets-ai-fork**](https://github.com/mikewlange/cheatsheets-ai-fork)|Cheat Sheets for deep learning and machine learning. |[:arrow_upper_right:](http://www.asimovinstitute.org/neural-network-zoo/)|
-|9|[@myui](https://github.com/myui)/[**dockernized-digdag-server**](https://github.com/myui/dockernized-digdag-server)|Dockerfile to run digdag-server on Amazon ECS||
 |9|[@pepabo](https://github.com/pepabo)/[**textbook**](https://github.com/pepabo/textbook)|ペパボの研修の教科書||
 |9|[@polm](https://github.com/polm)/[**gamefaces**](https://github.com/polm/gamefaces)|Public domain headshots||
 |9|[@ryugoo](https://github.com/ryugoo)/[**SummerTi**](https://github.com/ryugoo/SummerTi)|Summer Titanium||
@@ -480,7 +485,6 @@
 |9|[@yaakaito](https://github.com/yaakaito)/[**nice-catch-precure**](https://github.com/yaakaito/nice-catch-precure)|ナイスキャッチ！プリキュア！ ||
 |9|[@yosuke-furukawa](https://github.com/yosuke-furukawa)/[**awesome-sonots**](https://github.com/yosuke-furukawa/awesome-sonots)|awesomeなsonotsを集める所です。|[:arrow_upper_right:](http://togetter.com/li/795833)|
 |9|[@yukiawano](https://github.com/yukiawano)/[**dclbasicjp**](https://github.com/yukiawano/dclbasicjp)|Dart Code Lab Basic (Japanese) https://www.dartlang.org/codelabs/darrrt/||
-|8|[@Hypercubed](https://github.com/Hypercubed)/[**javascript-the-esoteric-parts**](https://github.com/Hypercubed/javascript-the-esoteric-parts)|JavaScript: The Esoteric Parts||
 |8|[@Kinokkory](https://github.com/Kinokkory)/[**fp-blogs**](https://github.com/Kinokkory/fp-blogs)|関数型プログラミング界隈のブログの非公式日本語訳||
 |8|[@MihailJP](https://github.com/MihailJP)/[**merydef**](https://github.com/MihailJP/merydef)|Keyword highlighting definition for Mery||
 |8|[@STAR-ZERO](https://github.com/STAR-ZERO)/[**necomimi**](https://github.com/STAR-ZERO/necomimi)|#scmbc 2012/07/22||
@@ -500,7 +504,6 @@
 |8|[@kaminogoya](https://github.com/kaminogoya)/[**scss-corner-ribbon**](https://github.com/kaminogoya/scss-corner-ribbon)|SCSS Corner Ribbon||
 |8|[@kawasima](https://github.com/kawasima)/[**money-saving-engineer**](https://github.com/kawasima/money-saving-engineer)|節約エンジニアのためのポータルを目指します。||
 |8|[@kazunori279](https://github.com/kazunori279)/[**my-sessions-and-bio**](https://github.com/kazunori279/my-sessions-and-bio)|My bio and the list of session agendas||
-|8|[@kmc-jp](https://github.com/kmc-jp)/[**git_hands_on**](https://github.com/kmc-jp/git_hands_on)|イケイケなgit 講座||
 |8|[@ktoso](https://github.com/ktoso)/[**GitHubDiff**](https://github.com/ktoso/GitHubDiff)|An Gmail Contextual Gadget, that allows viewing diffs if an commit url is mentioned in the email.|[:arrow_upper_right:](http://www.project13.pl)|
 |8|[@ktoso](https://github.com/ktoso)/[**intellij-colors-happy-hakking**](https://github.com/ktoso/intellij-colors-happy-hakking)|My custom IntelliJ colour scheme, nicknamed "happy hakking"||
 |8|[@l15n](https://github.com/l15n)/[**fish-tmbundle**](https://github.com/l15n/fish-tmbundle)|TextMate bundle for the fish shell||
@@ -513,7 +516,6 @@
 |8|[@mattn](https://github.com/mattn)/[**learn-vimscript**](https://github.com/mattn/learn-vimscript)|japanese knowhow text for vimscript.|[:arrow_upper_right:](http://d.hatena.ne.jp/thinca/20100201/1265009821)|
 |8|[@maxime](https://github.com/maxime)/[**ruby-pg-for-ruby-1.9.1rc2**](https://github.com/maxime/ruby-pg-for-ruby-1.9.1rc2)|this is just a hacked version of ruby-pg that compiles with ruby 1.9.1rc2||
 |8|[@mohayonao](https://github.com/mohayonao)/[**react-code-reading**](https://github.com/mohayonao/react-code-reading)|||
-|8|[@mooz](https://github.com/mooz)/[**awesome-inequality**](https://github.com/mooz/awesome-inequality)|A curated list of inequalities in our life||
 |8|[@motemen](https://github.com/motemen)/[**hatena-welcome-speech**](https://github.com/motemen/hatena-welcome-speech)|||
 |8|[@moutend](https://github.com/moutend)/[**raspi-playbook**](https://github.com/moutend/raspi-playbook)|My ansible playbooks for Raspberry Pi.||
 |8|[@moznion](https://github.com/moznion)/[**MyLife**](https://github.com/moznion/MyLife)|This is my life.||
@@ -606,10 +608,10 @@
 |7|[@shin1x1](https://github.com/shin1x1)/[**cakephp_composer_json**](https://github.com/shin1x1/cakephp_composer_json)|||
 |7|[@shinokada](https://github.com/shinokada)/[**vimnotes**](https://github.com/shinokada/vimnotes)|Personal Vim notes||
 |7|[@showwin](https://github.com/showwin)/[**FeVPN**](https://github.com/showwin/FeVPN)|VPN Auto Connection App for OS X written in AppleScript||
-|7|[@shufo](https://github.com/shufo)/[**docker-phoenix**](https://github.com/shufo/docker-phoenix)|A script for creating elixir image for  phoenix framework.|[:arrow_upper_right:](https://hub.docker.com/r/shufo/phoenix/)|
 |7|[@smellman](https://github.com/smellman)/[**job_transfer_request**](https://github.com/smellman/job_transfer_request)|my job transfer request||
 |7|[@srndpty](https://github.com/srndpty)/[**unity5-ugui-fader**](https://github.com/srndpty/unity5-ugui-fader)|Fader utility script for unity5 using uGUI(C#).||
 |7|[@t32k](https://github.com/t32k)/[**Coda-Completion-for-jQuery-Mobile**](https://github.com/t32k/Coda-Completion-for-jQuery-Mobile)||[:arrow_upper_right:](http://t32k.me/mol/log/coda-completion-for-jquery-mobile/)|
+|7|[@takahashim](https://github.com/takahashim)/[**ruby-history**](https://github.com/takahashim/ruby-history)|||
 |7|[@tako0910](https://github.com/tako0910)/[**release**](https://github.com/tako0910/release)|||
 |7|[@tcnksm](https://github.com/tcnksm)/[**vagrant-runc**](https://github.com/tcnksm/vagrant-runc)|Play with runC on Ubuntu14.04 by Vagrant||
 |7|[@tobynet](https://github.com/tobynet)/[**japanese_test**](https://github.com/tobynet/japanese_test)|test git repogitory for japanese characters||
@@ -617,13 +619,13 @@
 |7|[@yuroyoro](https://github.com/yuroyoro)/[**Hatsu-Kakiko-domo**](https://github.com/yuroyoro/Hatsu-Kakiko-domo)|||
 |7|[@zaki50](https://github.com/zaki50)/[**bundles_maven_repo**](https://github.com/zaki50/bundles_maven_repo)|||
 |7|[@zchee](https://github.com/zchee)/[**docker-rubymine**](https://github.com/zchee/docker-rubymine)|Rails development using docker for rubymine.|[:arrow_upper_right:](https://registry.hub.docker.com/u/zchee/rubymine/)|
-|7|[@zchee](https://github.com/zchee)/[**template**](https://github.com/zchee/template)|A repository template implements a project template README with CI badge.||
 |7|[@zick](https://github.com/zick)/[**NewNicoLisp**](https://github.com/zick/NewNicoLisp)|A Lisp interpreter on Nico Nico Douga|[:arrow_upper_right:](http://www.nicovideo.jp/watch/sm13570088)|
 |7|[@znz](https://github.com/znz)/[**ansible-role-rbenv**](https://github.com/znz/ansible-role-rbenv)|rbenv install to /opt/rbenv|[:arrow_upper_right:](https://galaxy.ansible.com/list#/roles/968)|
 |6|[@BoostIO](https://github.com/BoostIO)/[**boostio.github.io**](https://github.com/BoostIO/boostio.github.io)|Boostnote landing page! :D|[:arrow_upper_right:](https://boostnote.io)|
 |6|[@BoostIO](https://github.com/BoostIO)/[**boostnote-locale**](https://github.com/BoostIO/boostnote-locale)|Boostnote landing page! :D|[:arrow_upper_right:](https://boostnote.io)|
 |6|[@DenisIzmaylov](https://github.com/DenisIzmaylov)/[**webstorm-twilight2-theme**](https://github.com/DenisIzmaylov/webstorm-twilight2-theme)|Custom Webstorm color theme based on Twilight||
 |6|[@JohnEstropia](https://github.com/JohnEstropia)/[**RxCoreStore**](https://github.com/JohnEstropia/RxCoreStore)|RxSwift extensions for CoreStore||
+|6|[@KamitaniLab](https://github.com/KamitaniLab)/[**DeepImageReconstruction**](https://github.com/KamitaniLab/DeepImageReconstruction)|Data and demo codes for Shen, Horikawa, Majima, and Kamitani, "Deep image reconstruction from human brain activity".||
 |6|[@Shougo](https://github.com/Shougo)/[**deorise.nvim**](https://github.com/Shougo/deorise.nvim)|The dark powered hexa decimal editor interface for neovim||
 |6|[@akabekobeko](https://github.com/akabekobeko)/[**electron-release-notes-ja-private-edition**](https://github.com/akabekobeko/electron-release-notes-ja-private-edition)|Electron release notes translated into Japanese (Private Edition).||
 |6|[@algas](https://github.com/algas)/[**haskell-playbook**](https://github.com/algas/haskell-playbook)|Ansible playbook to install GHC and cabal||
@@ -676,6 +678,7 @@
 |6|[@ryuichiueda](https://github.com/ryuichiueda)/[**writers_checklist**](https://github.com/ryuichiueda/writers_checklist)|Checklist for writers mainly for academic writing||
 |6|[@safx](https://github.com/safx)/[**Metal-CommandLine-Sample-Swift**](https://github.com/safx/Metal-CommandLine-Sample-Swift)|A sample command line app for compute command of Metal, written in Swift||
 |6|[@shigeki](https://github.com/shigeki)/[**interop-iij-http2**](https://github.com/shigeki/interop-iij-http2)|Information for HTTP/20 interop testing for iij-http2||
+|6|[@shufo](https://github.com/shufo)/[**docker-phoenix**](https://github.com/shufo/docker-phoenix)|A script for creating elixir image for  phoenix framework.|[:arrow_upper_right:](https://hub.docker.com/r/shufo/phoenix/)|
 |6|[@ssig33](https://github.com/ssig33)/[**money_requirements**](https://github.com/ssig33/money_requirements)|金くれ||
 |6|[@suvene](https://github.com/suvene)/[**plagger**](https://github.com/suvene/plagger)|||
 |6|[@syou6162](https://github.com/syou6162)/[**SimpleHMM**](https://github.com/syou6162/SimpleHMM)|||
@@ -694,12 +697,12 @@
 |6|[@y13i](https://github.com/y13i)/[**bucket2bucket**](https://github.com/y13i/bucket2bucket)|A ruby script to copy every objects from a Amazon S3 bucket to another.||
 |6|[@yimajo](https://github.com/yimajo)/[**swift-style-guide**](https://github.com/yimajo/swift-style-guide)|Swiftコーディングスタイルガイド||
 |6|[@youcune](https://github.com/youcune)/[**wordpress-ansible-sakura**](https://github.com/youcune/wordpress-ansible-sakura)|さくらのレンタルサーバーに WordPress を設置するための Ansible Playbook です||
+|6|[@zchee](https://github.com/zchee)/[**template**](https://github.com/zchee/template)|A repository template implements a project template README with CI badge.||
 |6|[@zick](https://github.com/zick)/[**Lisp-on-Printers**](https://github.com/zick/Lisp-on-Printers)|A Lisp interpreter in PostScript||
 |6|[@zzak](https://github.com/zzak)/[**ruby-openssl-docker**](https://github.com/zzak/ruby-openssl-docker)|This project has moved:|[:arrow_upper_right:](https://github.com/ruby/openssl/tree/master/tool/ruby-openssl-docker)|
 |5|[@10sr](https://github.com/10sr)/[**editorconfig-core-emacslisp**](https://github.com/10sr/editorconfig-core-emacslisp)|EditorConfig Core Library Written Purely in Emacs Lisp||
 |5|[@DQNEO](https://github.com/DQNEO)/[**ansible-role-php7**](https://github.com/DQNEO/ansible-role-php7)|||
 |5|[@JunichiIto](https://github.com/JunichiIto)/[**task-management-sheet**](https://github.com/JunichiIto/task-management-sheet)|For your better task management.||
-|5|[@KamitaniLab](https://github.com/KamitaniLab)/[**DeepImageReconstruction**](https://github.com/KamitaniLab/DeepImageReconstruction)|Data and demo codes for Shen, Horikawa, Majima, and Kamitani, "Deep image reconstruction from human brain activity".||
 |5|[@MakeNowJust](https://github.com/MakeNowJust)/[**commlog**](https://github.com/MakeNowJust/commlog)|Commit Log as a Blog|[:arrow_upper_right:](https://makenowjust.github.io/commlog)|
 |5|[@Nodeclipse](https://github.com/Nodeclipse)/[**nodeclipse-blog**](https://github.com/Nodeclipse/nodeclipse-blog)|Nodeclipse team old blog|[:arrow_upper_right:](http://www.nodeclipse.org/share.html)|
 |5|[@Pittan](https://github.com/Pittan)/[**sushi**](https://github.com/Pittan/sushi)|Sushi images||
@@ -729,7 +732,6 @@
 |5|[@fukatani](https://github.com/fukatani)/[**awesome-hdl**](https://github.com/fukatani/awesome-hdl)|A curated list of awesome HDL, libraries, typical implementation and references.||
 |5|[@glidenote](https://github.com/glidenote)/[**git-issue-zsh-completion**](https://github.com/glidenote/git-issue-zsh-completion)|||
 |5|[@gsc-aoyama](https://github.com/gsc-aoyama)/[**pokemongo4agu**](https://github.com/gsc-aoyama/pokemongo4agu)|Pokémon GO ｘ 青山学院大学：ゲーム以外の活用法を探るリポジトリ||
-|5|[@guicho271828](https://github.com/guicho271828)/[**sbcl-wiki**](https://github.com/guicho271828/sbcl-wiki)|maybe-wrong sbcl internals||
 |5|[@hansode](https://github.com/hansode)/[**life-with-vagrant**](https://github.com/hansode/life-with-vagrant)|Life with Vagrant||
 |5|[@hashnao](https://github.com/hashnao)/[**monit**](https://github.com/hashnao/monit)|configurations for monit||
 |5|[@hbase-study-ja](https://github.com/hbase-study-ja)/[**project-home**](https://github.com/hbase-study-ja/project-home)|||
@@ -764,6 +766,7 @@
 |5|[@kmc-jp](https://github.com/kmc-jp)/[**tanzaku**](https://github.com/kmc-jp/tanzaku)|INORI||
 |5|[@kmuto](https://github.com/kmuto)/[**review-coteditor**](https://github.com/kmuto/review-coteditor)|ReVIEW helper macro mode of CotEditor||
 |5|[@koike](https://github.com/koike)/[**public**](https://github.com/koike/public)|Past presentation slides||
+|5|[@ktoso](https://github.com/ktoso)/[**intellij-theme-happy-hakking**](https://github.com/ktoso/intellij-theme-happy-hakking)|||
 |5|[@kyohsuke](https://github.com/kyohsuke)/[**srpms**](https://github.com/kyohsuke/srpms)|CentOS Source RPMs|[:arrow_upper_right:](http://blog.conafie.jp/p/centos-srpms.html)|
 |5|[@lambdalisue](https://github.com/lambdalisue)/[**vital-System-Job**](https://github.com/lambdalisue/vital-System-Job)|[Deprecated] Job wrapper Vital module for Vim/Neovim||
 |5|[@lanyusea](https://github.com/lanyusea)/[**djiros**](https://github.com/lanyusea/djiros)|||
@@ -801,6 +804,7 @@
 |5|[@r-plus](https://github.com/r-plus)/[**AppTweeter**](https://github.com/r-plus/AppTweeter)|Tweet about appInfo from AppStore's "Tell a Friend" button.||
 |5|[@r7kamura](https://github.com/r7kamura)/[**mastodon-docker**](https://github.com/r7kamura/mastodon-docker)|Build and push assets-precompiled Mastodon Docker image using CircleCI.||
 |5|[@razorgirl](https://github.com/razorgirl)/[**nzedb-blacklists**](https://github.com/razorgirl/nzedb-blacklists)|Optional binary blacklist filters for nZEDb||
+|5|[@reiinakano](https://github.com/reiinakano)/[**my-resume**](https://github.com/reiinakano/my-resume)|Here be my resume.||
 |5|[@riywo](https://github.com/riywo)/[**CAPtheorem**](https://github.com/riywo/CAPtheorem)|||
 |5|[@ryo24](https://github.com/ryo24)/[**PhotoshopDuotoneExplain**](https://github.com/ryo24/PhotoshopDuotoneExplain)|Photoshopの基本機能を学びながらDuotone画像を作成する方法||
 |5|[@ryuzee](https://github.com/ryuzee)/[**neosnippet_chef_recipe_snippet**](https://github.com/ryuzee/neosnippet_chef_recipe_snippet)|Vim snippet for Chef||
@@ -994,7 +998,6 @@
 |4|[@rbtnn](https://github.com/rbtnn)/[**cpp-vimgrep**](https://github.com/rbtnn/cpp-vimgrep)|This is `vimgrep` which is an external command.||
 |4|[@reactarmory](https://github.com/reactarmory)/[**react-armory-helpers**](https://github.com/reactarmory/react-armory-helpers)|Packages that can used with ES6 `import` within React Armory guides||
 |4|[@reallyenglish](https://github.com/reallyenglish)/[**bootstrap-freebsd-ami**](https://github.com/reallyenglish/bootstrap-freebsd-ami)|bootstrapping scripts for FreeBSD AMI||
-|4|[@reiinakano](https://github.com/reiinakano)/[**my-resume**](https://github.com/reiinakano/my-resume)|Here be my resume.||
 |4|[@rightgo09](https://github.com/rightgo09)/[**Perl-for-Rubyist**](https://github.com/rightgo09/Perl-for-Rubyist)|RubyistのためのPerl||
 |4|[@ryosms](https://github.com/ryosms)/[**AndroidLibraries**](https://github.com/ryosms/AndroidLibraries)|||
 |4|[@sakuraio](https://github.com/sakuraio)/[**sakuraio-pcb-libraries**](https://github.com/sakuraio/sakuraio-pcb-libraries)|PCB Libraries for Sakura IoT Platform||
@@ -1033,6 +1036,7 @@
 |4|[@tokuhirom](https://github.com/tokuhirom)/[**flanki**](https://github.com/tokuhirom/flanki)|our own wiki||
 |4|[@tokuhirom](https://github.com/tokuhirom)/[**p5-devel-ffi**](https://github.com/tokuhirom/p5-devel-ffi)|libffi wrapper for perl5||
 |4|[@tomonari-yamashita](https://github.com/tomonari-yamashita)/[**japan-camel-user-group**](https://github.com/tomonari-yamashita/japan-camel-user-group)|||
+|4|[@tomoya](https://github.com/tomoya)/[**material-ui-snippets**](https://github.com/tomoya/material-ui-snippets)|Material-UI snippets for Atom|[:arrow_upper_right:](https://atom.io/packages/material-ui-snippets)|
 |4|[@unity3d-jp](https://github.com/unity3d-jp)/[**unityads-help-jp**](https://github.com/unity3d-jp/unityads-help-jp)|Unity Ads ヘルプ||
 |4|[@ursm](https://github.com/ursm)/[**watch-night**](https://github.com/ursm/watch-night)|A timer application based on SproutCore.||
 |4|[@uzyexe](https://github.com/uzyexe)/[**dockerfile-kibana-packetbeat**](https://github.com/uzyexe/dockerfile-kibana-packetbeat)|packetbeat Dockerfile||
@@ -1098,6 +1102,7 @@
 |3|[@ashchan](https://github.com/ashchan)/[**dockerfiles**](https://github.com/ashchan/dockerfiles)|Toy around with dockerized containers. Some are production ready some not.||
 |3|[@awakia](https://github.com/awakia)/[**catchup**](https://github.com/awakia/catchup)|Issue based repository to catch up technologies and movements||
 |3|[@aya-eiya](https://github.com/aya-eiya)/[**Othello-Scala-Practice-**](https://github.com/aya-eiya/Othello-Scala-Practice-)|Scala練習プロジェクト|[:arrow_upper_right:](http://d.natena.ne.jp/aya_eiya/)|
+|3|[@bannzai](https://github.com/bannzai)/[**PersonalHistory**](https://github.com/bannzai/PersonalHistory)|My programmer personal history.||
 |3|[@becyn](https://github.com/becyn)/[**kc-tsuyama-wiki**](https://github.com/becyn/kc-tsuyama-wiki)|高専カンファレンスin津山のWikiの更新履歴をこちらで管理します。（バックアップ大切）||
 |3|[@blivesta](https://github.com/blivesta)/[**font-jp-subset**](https://github.com/blivesta/font-jp-subset)|||
 |3|[@blockworks](https://github.com/blockworks)/[**EmojiSymbolsFont**](https://github.com/blockworks/EmojiSymbolsFont)|EmojiSymbols Font. This is a Web font specialized for use on the Internet.||
@@ -1444,6 +1449,7 @@
 |3|[@yuji](https://github.com/yuji)/[**mt-plugin-this-is-good**](https://github.com/yuji/mt-plugin-this-is-good)|A Plugin for quick comment form.|[:arrow_upper_right:](http://plugins.movabletype.org/thi-is-good/)|
 |3|[@yuk7](https://github.com/yuk7)/[**arch-prebuilt**](https://github.com/yuk7/arch-prebuilt)|prebuilt pkg.tar.xz  files for Arch Linux||
 |3|[@yusugomori](https://github.com/yusugomori)/[**jQueryPinterest**](https://github.com/yusugomori/jQueryPinterest)|||
+|3|[@yusukebe](https://github.com/yusukebe)/[**Instagram-Search**](https://github.com/yusukebe/Instagram-Search)|Search Instagram photos from Twitter.||
 |3|[@yusukebe](https://github.com/yusukebe)/[**neta**](https://github.com/yusukebe/neta)||[:arrow_upper_right:](http://yusuke.be/)|
 |3|[@yusukebe](https://github.com/yusukebe)/[**webservice-oneday-02**](https://github.com/yusukebe/webservice-oneday-02)|1日でわかるWebサービス制作実践講座|[:arrow_upper_right:](http://event.shoeisha.jp/mza/20131119/)|
 |3|[@yyuu](https://github.com/yyuu)/[**fabfile-redis**](https://github.com/yyuu/fabfile-redis)|fabric recipe to build and deploy redis||

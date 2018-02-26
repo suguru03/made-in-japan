@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|770|[@yuki-kimoto](https://github.com/yuki-kimoto)/[**gitprep**](https://github.com/yuki-kimoto/gitprep)|Portable GitHub system into your own server|[:arrow_upper_right:](http://gitprep.yukikimoto.com/)|
-|742|[@hokaccha](https://github.com/hokaccha)/[**nodebrew**](https://github.com/hokaccha/nodebrew)|Node.js version manager||
-|258|[@neubig](https://github.com/neubig)/[**nmt-tips**](https://github.com/neubig/nmt-tips)|A tutorial about neural machine translation including tips on building practical systems||
+|772|[@yuki-kimoto](https://github.com/yuki-kimoto)/[**gitprep**](https://github.com/yuki-kimoto/gitprep)|Portable GitHub system into your own server|[:arrow_upper_right:](http://gitprep.yukikimoto.com/)|
+|743|[@hokaccha](https://github.com/hokaccha)/[**nodebrew**](https://github.com/hokaccha/nodebrew)|Node.js version manager||
+|262|[@neubig](https://github.com/neubig)/[**nmt-tips**](https://github.com/neubig/nmt-tips)|A tutorial about neural machine translation including tips on building practical systems||
 |234|[@kazeburo](https://github.com/kazeburo)/[**GrowthForecast**](https://github.com/kazeburo/GrowthForecast)|Lightning Fast Graphing/Visualization|[:arrow_upper_right:](http://kazeburo.github.com/GrowthForecast/)|
-|188|[@neubig](https://github.com/neubig)/[**nlptutorial**](https://github.com/neubig/nlptutorial)|A Tutorial about Programming for Natural Language Processing||
+|191|[@neubig](https://github.com/neubig)/[**nlptutorial**](https://github.com/neubig/nlptutorial)|A Tutorial about Programming for Natural Language Processing||
 |170|[@naoya](https://github.com/naoya)/[**md2inao**](https://github.com/naoya/md2inao)|Convert markdown to inao-format for WEB+DB PRESS|[:arrow_upper_right:](http://md2inao.bloghackers.net/)|
 |156|[@s-aska](https://github.com/s-aska)/[**dropbox-api-command**](https://github.com/s-aska/dropbox-api-command)|command line interface to access Dropbox API||
 |149|[@tokuhirom](https://github.com/tokuhirom)/[**Amon**](https://github.com/tokuhirom/Amon)|yet another web application framework|[:arrow_upper_right:](http://amon.64p.org/)|
@@ -12,7 +12,7 @@
 |122|[@kazuho](https://github.com/kazuho)/[**jailing**](https://github.com/kazuho/jailing)|super-easy chroot jail builder/runner for Linux||
 |103|[@hirose31](https://github.com/hirose31)/[**redis-traffic-stats**](https://github.com/hirose31/redis-traffic-stats)|Redis query analyzer for counting, traffic stats by command||
 |91|[@tokuhirom](https://github.com/tokuhirom)/[**Furl**](https://github.com/tokuhirom/Furl)|pretty fast http client library for perl5||
-|90|[@moznion](https://github.com/moznion)/[**Perl-Lint**](https://github.com/moznion/Perl-Lint)|Yet Another Perl Source Code Linter|[:arrow_upper_right:](https://metacpan.org/pod/Perl::Lint)|
+|89|[@moznion](https://github.com/moznion)/[**Perl-Lint**](https://github.com/moznion/Perl-Lint)|Yet Another Perl Source Code Linter|[:arrow_upper_right:](https://metacpan.org/pod/Perl::Lint)|
 |86|[@yoshiki](https://github.com/yoshiki)/[**markdown2impress**](https://github.com/yoshiki/markdown2impress)|markdown2impress is script to convert markdown into presentation using impress.js.||
 |85|[@kentaro](https://github.com/kentaro)/[**cinnamon**](https://github.com/kentaro/cinnamon)|a simple deploy tool||
 |83|[@kentaro](https://github.com/kentaro)/[**serf-hosts**](https://github.com/kentaro/serf-hosts)|||
@@ -22,8 +22,8 @@
 |75|[@nekokak](https://github.com/nekokak)/[**p5-Teng**](https://github.com/nekokak/p5-Teng)|simple DBI wrapper/ORMapper|[:arrow_upper_right:](http://nekokak.org/)|
 |75|[@typester](https://github.com/typester)/[**ark-perl**](https://github.com/typester/ark-perl)|||
 |73|[@matschaffer](https://github.com/matschaffer)/[**profile**](https://github.com/matschaffer/profile)|My Bash profile||
+|72|[@skaji](https://github.com/skaji)/[**cpm**](https://github.com/skaji/cpm)|fast CPAN module installer|[:arrow_upper_right:](https://metacpan.org/release/App-cpm)|
 |72|[@tokuhirom](https://github.com/tokuhirom)/[**Minilla**](https://github.com/tokuhirom/Minilla)|Authorizing tool for CPAN modules|[:arrow_upper_right:](https://metacpan.org/release/Minilla)|
-|70|[@skaji](https://github.com/skaji)/[**cpm**](https://github.com/skaji/cpm)|fast CPAN module installer|[:arrow_upper_right:](https://metacpan.org/release/App-cpm)|
 |67|[@xaicron](https://github.com/xaicron)/[**mysqlenv**](https://github.com/xaicron/mysqlenv)|mysql binary manager||
 |66|[@kazeburo](https://github.com/kazeburo)/[**Kurado**](https://github.com/kazeburo/Kurado)|monitor metrics||
 |60|[@kazuho](https://github.com/kazuho)/[**Starlet**](https://github.com/kazuho/Starlet)|a Plack Server, formerly known as Plack::Server::Standalone::Prefork::Server::Starter||
@@ -53,9 +53,9 @@
 |36|[@Kimtaro](https://github.com/Kimtaro)/[**jisho.org**](https://github.com/Kimtaro/jisho.org)|The source for classic.jisho.org|[:arrow_upper_right:](http://jisho.org)|
 |36|[@nekokak](https://github.com/nekokak)/[**qudo**](https://github.com/nekokak/qudo)|job queue system||
 |36|[@typester](https://github.com/typester)/[**perldojo**](https://github.com/typester/perldojo)|online perl testing!||
+|36|[@yusukebe](https://github.com/yusukebe)/[**App-revealup**](https://github.com/yusukebe/App-revealup)|HTTP Server app for viewing Markdown formatted text as slides|[:arrow_upper_right:](https://metacpan.org/pod/App::revealup)|
 |35|[@typester](https://github.com/typester)/[**nim**](https://github.com/typester/nim)|minimal command-line based contents generator||
 |35|[@yasuaki](https://github.com/yasuaki)/[**git-doc-ja**](https://github.com/yasuaki/git-doc-ja)|Japanese translation of git/Documentation/|[:arrow_upper_right:](http://www8.atwiki.jp/git_jp/)|
-|35|[@yusukebe](https://github.com/yusukebe)/[**App-revealup**](https://github.com/yusukebe/App-revealup)|HTTP Server app for viewing Markdown formatted text as slides|[:arrow_upper_right:](https://metacpan.org/pod/App::revealup)|
 |34|[@kazeburo](https://github.com/kazeburo)/[**Proclet**](https://github.com/kazeburo/Proclet)|minimalistic Supervisor||
 |33|[@dann](https://github.com/dann)/[**angelos**](https://github.com/dann/angelos)|yet another web application framework|[:arrow_upper_right:](http://dann.g.hatena.ne.jp/dann/)|
 |33|[@gfx](https://github.com/gfx)/[**p5-Data-Validator**](https://github.com/gfx/p5-Data-Validator)|Type constraints based data validator for Perl5||
@@ -76,10 +76,10 @@
 |28|[@glidenote](https://github.com/glidenote)/[**dotfiles**](https://github.com/glidenote/dotfiles)|my dotfiles||
 |28|[@goccy](https://github.com/goccy)/[**p5-Compiler-Tools-CopyPasteDetector**](https://github.com/goccy/p5-Compiler-Tools-CopyPasteDetector)|detect Copy and Paste of Perl5 Codes||
 |28|[@karupanerura](https://github.com/karupanerura)/[**Aniki**](https://github.com/karupanerura/Aniki)|The ORM as our great brother.||
+|28|[@kazeburo](https://github.com/kazeburo)/[**Kossy**](https://github.com/kazeburo/Kossy)|sinatra-ish simple waf||
 |28|[@tokuhirom](https://github.com/tokuhirom)/[**p5-psgiref**](https://github.com/tokuhirom/p5-psgiref)|(DEPRECATED)just a prototype!||
 |27|[@ahiguti](https://github.com/ahiguti)/[**gdbperl**](https://github.com/ahiguti/gdbperl)|||
 |27|[@goccy](https://github.com/goccy)/[**p5-Compiler-Lexer**](https://github.com/goccy/p5-Compiler-Lexer)|Lexical Analyzer for Perl5||
-|27|[@kazeburo](https://github.com/kazeburo)/[**Kossy**](https://github.com/kazeburo/Kossy)|sinatra-ish simple waf||
 |27|[@motemen](https://github.com/motemen)/[**App-htmlcat**](https://github.com/motemen/App-htmlcat)|redirect stdin to web browser||
 |27|[@motemen](https://github.com/motemen)/[**Plack-Middleware-WebSocket**](https://github.com/motemen/Plack-Middleware-WebSocket)|WebSocket handshake helper middleware||
 |27|[@tokuhirom](https://github.com/tokuhirom)/[**Web-Query**](https://github.com/tokuhirom/Web-Query)|||
@@ -107,6 +107,7 @@
 |21|[@cooldaemon](https://github.com/cooldaemon)/[**AnyEvent-RabbitMQ**](https://github.com/cooldaemon/AnyEvent-RabbitMQ)|An asynchronous and multi channel Perl AMQP client.|[:arrow_upper_right:](http://search.cpan.org/~ikuta/AnyEvent-RabbitMQ/)|
 |21|[@hirose31](https://github.com/hirose31)/[**doumeki**](https://github.com/hirose31/doumeki)|photo uploader bridge for Eye-Fi that uploads into multi photo storage services||
 |21|[@kamipo](https://github.com/kamipo)/[**dotfiles**](https://github.com/kamipo/dotfiles)|kamipo's dotfiles||
+|21|[@livedoor](https://github.com/livedoor)/[**Sledge**](https://github.com/livedoor/Sledge)|ancient Perl Web Application Framework.||
 |21|[@naoya](https://github.com/naoya)/[**perl-Text-LTSV**](https://github.com/naoya/perl-Text-LTSV)|Text::LTSV - Labeled Tab Separated Value manipulator||
 |21|[@typester](https://github.com/typester)/[**Path-AttrRouter**](https://github.com/typester/Path-AttrRouter)|||
 |21|[@typester](https://github.com/typester)/[**net-github-upload-perl**](https://github.com/typester/net-github-upload-perl)|||
@@ -114,7 +115,6 @@
 |20|[@hakobe](https://github.com/hakobe)/[**p5-Fiber**](https://github.com/hakobe/p5-Fiber)|Ruby like Fiber on Perl||
 |20|[@kan](https://github.com/kan)/[**p5-anyevent-irc-server**](https://github.com/kan/p5-anyevent-irc-server)|AnyEvent::IRC::Server||
 |20|[@kazeburo](https://github.com/kazeburo)/[**Plack-Middleware-ServerStatus-Lite**](https://github.com/kazeburo/Plack-Middleware-ServerStatus-Lite)|Plack-Middleware-ServerStatus-Lite||
-|20|[@livedoor](https://github.com/livedoor)/[**Sledge**](https://github.com/livedoor/Sledge)|ancient Perl Web Application Framework.||
 |20|[@onishi](https://github.com/onishi)/[**Text-Hatena**](https://github.com/onishi/Text-Hatena)|The new "Text-to-HTML converter" with Hatena syntax||
 |20|[@spiritloose](https://github.com/spiritloose)/[**Schenker**](https://github.com/spiritloose/Schenker)|DSL for quickly creating web applications||
 |20|[@tokuhirom](https://github.com/tokuhirom)/[**FormValidator-Lite**](https://github.com/tokuhirom/FormValidator-Lite)|very lite and fast validation library for perl||
@@ -149,6 +149,7 @@
 |17|[@mattn](https://github.com/mattn)/[**p5-Growl-Any**](https://github.com/mattn/p5-Growl-Any)|perl module that provide any growl application|[:arrow_upper_right:](http://search.cpan.org/dist/Growl-Any)|
 |17|[@nekoya](https://github.com/nekoya)/[**p5-dbix-skinny-schema-loader**](https://github.com/nekoya/p5-dbix-skinny-schema-loader)|Schema loader for DBIx::Skinny||
 |17|[@pine](https://github.com/pine)/[**crystal-build**](https://github.com/pine/crystal-build)|:gem: crystal-build is an crenv plugin that provides an crenv install command.|[:arrow_upper_right:](http://crystal-lang.org/)|
+|17|[@shogo82148](https://github.com/shogo82148)/[**Redis-Fast**](https://github.com/shogo82148/Redis-Fast)|fast perl binding for Redis database|[:arrow_upper_right:](https://metacpan.org/release/Redis-Fast)|
 |17|[@skaji](https://github.com/skaji)/[**relocatable-perl**](https://github.com/skaji/relocatable-perl)|self-contained, portable perl binaries|[:arrow_upper_right:](https://github.com/skaji/relocatable-perl/releases/latest)|
 |17|[@tokuhirom](https://github.com/tokuhirom)/[**Archer**](https://github.com/tokuhirom/Archer)|||
 |17|[@tokuhirom](https://github.com/tokuhirom)/[**Router-Boom**](https://github.com/tokuhirom/Router-Boom)|||
@@ -161,7 +162,6 @@
 |16|[@kazeburo](https://github.com/kazeburo)/[**custom-mackerel-plugins**](https://github.com/kazeburo/custom-mackerel-plugins)|my custom mackerel plugins||
 |16|[@lyokato](https://github.com/lyokato)/[**p5-net-opensocial-client**](https://github.com/lyokato/p5-net-opensocial-client)|opensocial perl client||
 |16|[@onishi](https://github.com/onishi)/[**Redmine-Chan**](https://github.com/onishi/Redmine-Chan)|||
-|16|[@shogo82148](https://github.com/shogo82148)/[**Redis-Fast**](https://github.com/shogo82148/Redis-Fast)|fast perl binding for Redis database|[:arrow_upper_right:](https://metacpan.org/release/Redis-Fast)|
 |16|[@tokuhirom](https://github.com/tokuhirom)/[**HTML-TreeBuilder-LibXML**](https://github.com/tokuhirom/HTML-TreeBuilder-LibXML)|drop-in-replacement for HTML::TreeBuilder::XPath||
 |16|[@tokuhirom](https://github.com/tokuhirom)/[**mouse**](https://github.com/tokuhirom/mouse)|Moose minus the antlers||
 |16|[@typester](https://github.com/typester)/[**ark-document-ja**](https://github.com/typester/ark-document-ja)|Japanese ark documentation||
@@ -269,6 +269,7 @@
 |11|[@ngs](https://github.com/ngs)/[**PrettyJSON.codaplugin**](https://github.com/ngs/PrettyJSON.codaplugin)|||
 |11|[@ntddk](https://github.com/ntddk)/[**peeling-onions**](https://github.com/ntddk/peeling-onions)|A repository to store Deep Web (onion domain) crawler, scraper, and NLP tools for Tor network.||
 |11|[@riywo](https://github.com/riywo)/[**plagger**](https://github.com/riywo/plagger)|Plaggerのプラグインとか書いたらあげるところ|[:arrow_upper_right:](http://blog.riywo.com/tag/plagger)|
+|11|[@skaji](https://github.com/skaji)/[**App-RemoteCommand**](https://github.com/skaji/App-RemoteCommand)|simple remote command launcher via ssh|[:arrow_upper_right:](https://metacpan.org/release/App-RemoteCommand)|
 |11|[@tagomoris](https://github.com/tagomoris)/[**Apache-Log-Parser**](https://github.com/tagomoris/Apache-Log-Parser)|Log Parser for Apache common, combined and other custom styles||
 |11|[@tokuhirom](https://github.com/tokuhirom)/[**Amon2-Lite**](https://github.com/tokuhirom/Amon2-Lite)|||
 |11|[@tokuhirom](https://github.com/tokuhirom)/[**Cache-KyotoTycoon**](https://github.com/tokuhirom/Cache-KyotoTycoon)|KyotoTycoon client library for Perl5||
@@ -300,7 +301,6 @@
 |10|[@papix](https://github.com/papix)/[**Anego**](https://github.com/papix/Anego)|The database migration utility as our elder sister.||
 |10|[@s-aska](https://github.com/s-aska)/[**markdown-binder**](https://github.com/s-aska/markdown-binder)|Ajax Markdown Viewer written in Perl, to run under Plack.|[:arrow_upper_right:](http://pad.demo.7kai.org/note/)|
 |10|[@skaji](https://github.com/skaji)/[**App-FatPacker-Simple**](https://github.com/skaji/App-FatPacker-Simple)||[:arrow_upper_right:](https://metacpan.org/release/App-FatPacker-Simple)|
-|10|[@skaji](https://github.com/skaji)/[**App-RemoteCommand**](https://github.com/skaji/App-RemoteCommand)|simple remote command launcher via ssh|[:arrow_upper_right:](https://metacpan.org/release/App-RemoteCommand)|
 |10|[@sugyan](https://github.com/sugyan)/[**App-Prove-Plugin-Growl**](https://github.com/sugyan/App-Prove-Plugin-Growl)|proveのGrowl通知プラグイン|[:arrow_upper_right:](http://d.hatena.ne.jp/sugyan/20110404/1301848272)|
 |10|[@tokuhirom](https://github.com/tokuhirom)/[**DBIx-Kohada**](https://github.com/tokuhirom/DBIx-Kohada)|||
 |10|[@tokuhirom](https://github.com/tokuhirom)/[**Harriet**](https://github.com/tokuhirom/Harriet)|||
@@ -495,6 +495,7 @@
 |6|[@alfasado](https://github.com/alfasado)/[**mt-plugin-customconfig**](https://github.com/alfasado/mt-plugin-customconfig)|Create and manage system scope coutom configuration and you can register a custom MT tag on system level.||
 |6|[@alfasado](https://github.com/alfasado)/[**mt-plugin-mtentries-status-filter**](https://github.com/alfasado/mt-plugin-mtentries-status-filter)|||
 |6|[@anazawa](https://github.com/anazawa)/[**metakgs.org**](https://github.com/anazawa/metakgs.org)|Unofficial JSON API for KGS Go Server|[:arrow_upper_right:](https://metakgs.org/)|
+|6|[@bobbens](https://github.com/bobbens)/[**tae-kim_latex**](https://github.com/bobbens/tae-kim_latex)|Script to convert the Tae-Kim online website "Japanese Grammar Guide" to multiple pdf types.|[:arrow_upper_right:](http://www.guidetojapanese.org/learn/grammar)|
 |6|[@cho45](https://github.com/cho45)/[**Config-ENV**](https://github.com/cho45/Config-ENV)|||
 |6|[@cybergarage](https://github.com/cybergarage)/[**cpan-net-upnp**](https://github.com/cybergarage/cpan-net-upnp)|Net::UPnP is a development package for UPnP™ developers. CyberLink controls these protocols automatically, and supports to create your devices and control points quickly.|[:arrow_upper_right:](http://www.cybergarage.org/)|
 |6|[@dann](https://github.com/dann)/[**p5-perl-metrics-lite**](https://github.com/dann/p5-perl-metrics-lite)|Pluggable Perl Metrics System||
@@ -597,7 +598,6 @@
 |5|[@alfasado](https://github.com/alfasado)/[**mt-plugin-requestcache**](https://github.com/alfasado/mt-plugin-requestcache)|Template code to speed rebuilds in single request.||
 |5|[@alfasado](https://github.com/alfasado)/[**mt-plugin-snippet**](https://github.com/alfasado/mt-plugin-snippet)|Insert snippet to edit_entry.tmpl.||
 |5|[@bayashi](https://github.com/bayashi)/[**Data-Dumper-AutoEncode**](https://github.com/bayashi/Data-Dumper-AutoEncode)|Dump with recursive encoding||
-|5|[@bobbens](https://github.com/bobbens)/[**tae-kim_latex**](https://github.com/bobbens/tae-kim_latex)|Script to convert the Tae-Kim online website "Japanese Grammar Guide" to multiple pdf types.|[:arrow_upper_right:](http://www.guidetojapanese.org/learn/grammar)|
 |5|[@bobpp](https://github.com/bobpp)/[**pastel**](https://github.com/bobpp/pastel)|pastel on Perl w/Amon2::Lite||
 |5|[@cho45](https://github.com/cho45)/[**Config-Pit**](https://github.com/cho45/Config-Pit)|||
 |5|[@cho45](https://github.com/cho45)/[**SQL-NamedPlaceholder**](https://github.com/cho45/SQL-NamedPlaceholder)|||
@@ -661,6 +661,7 @@
 |5|[@naoya](https://github.com/naoya)/[**perl-hatena-bookmark**](https://github.com/naoya/perl-hatena-bookmark)|||
 |5|[@nekokak](https://github.com/nekokak)/[**Qudo-Parallel-Worker**](https://github.com/nekokak/Qudo-Parallel-Worker)|fork child workers|[:arrow_upper_right:](http://qudo.org/)|
 |5|[@nekokak](https://github.com/nekokak)/[**qudo-web**](https://github.com/nekokak/qudo-web)|qudo web interface||
+|5|[@neubig](https://github.com/neubig)/[**util-scripts**](https://github.com/neubig/util-scripts)|Various utility scripts useful for natural language processing, machine translation, etc.||
 |5|[@nihen](https://github.com/nihen)/[**Any-Image**](https://github.com/nihen/Any-Image)|||
 |5|[@nihen](https://github.com/nihen)/[**Plack-Middleware-RefererCheck**](https://github.com/nihen/Plack-Middleware-RefererCheck)|||
 |5|[@nihen](https://github.com/nihen)/[**pascut**](https://github.com/nihen/pascut)|rascut clone by perl||
@@ -817,7 +818,6 @@
 |4|[@nekokak](https://github.com/nekokak)/[**Sub-Args**](https://github.com/nekokak/Sub-Args)|Smart check/get arguments.|[:arrow_upper_right:](http://nekokak.org/)|
 |4|[@nekokak](https://github.com/nekokak)/[**p5-dbix-skinny-cache**](https://github.com/nekokak/p5-dbix-skinny-cache)|skinny cache mixin||
 |4|[@nekoya](https://github.com/nekoya)/[**p5-dbix-skinny-inflatecolumn-datetime**](https://github.com/nekoya/p5-dbix-skinny-inflatecolumn-datetime)|DateTime inflate/deflate and auto insert update time for DBIx::Skinny||
-|4|[@neubig](https://github.com/neubig)/[**util-scripts**](https://github.com/neubig/util-scripts)|Various utility scripts useful for natural language processing, machine translation, etc.||
 |4|[@nihen](https://github.com/nihen)/[**Plack-Middleware-LastModified**](https://github.com/nihen/Plack-Middleware-LastModified)|||
 |4|[@ogawa](https://github.com/ogawa)/[**mt-DisqusExporter**](https://github.com/ogawa/mt-DisqusExporter)|||
 |4|[@ogawa](https://github.com/ogawa)/[**mt-plugin-DuplicateEntries**](https://github.com/ogawa/mt-plugin-DuplicateEntries)|||
@@ -834,6 +834,7 @@
 |4|[@shiba-yu36](https://github.com/shiba-yu36)/[**WebService-Bitly**](https://github.com/shiba-yu36/WebService-Bitly)|This let you to use bit.ly API easily.||
 |4|[@shiba-yu36](https://github.com/shiba-yu36)/[**p5-Mvac-Sample**](https://github.com/shiba-yu36/p5-Mvac-Sample)|MVACでの開発環境のサンプル||
 |4|[@shogo82148](https://github.com/shogo82148)/[**Redis-Namespace**](https://github.com/shogo82148/Redis-Namespace)|||
+|4|[@skaji](https://github.com/skaji)/[**Mojo-SlackRTM**](https://github.com/skaji/Mojo-SlackRTM)||[:arrow_upper_right:](https://metacpan.org/release/Mojo-SlackRTM)|
 |4|[@skaji](https://github.com/skaji)/[**Parallel-Pipes**](https://github.com/skaji/Parallel-Pipes)|||
 |4|[@spiritloose](https://github.com/spiritloose)/[**schenker-sample**](https://github.com/spiritloose/schenker-sample)|Schenker sample application||
 |4|[@stelcheck](https://github.com/stelcheck)/[**node-vim-blowfish**](https://github.com/stelcheck/node-vim-blowfish)|Effort to decrypt vim7.3 blowfish encrypted files using node||
@@ -1141,7 +1142,6 @@
 |3|[@shingt](https://github.com/shingt)/[**AI-Classifier-Japanese**](https://github.com/shingt/AI-Classifier-Japanese)|Japanese-text category classifier module using Naive Bayes and MeCab.|[:arrow_upper_right:](http://search.cpan.org/~shingt/AI-Classifier-Japanese-0.01/lib/AI/Classifier/Japanese.pm)|
 |3|[@shogo82148](https://github.com/shogo82148)/[**p5-AnySan-Provider-Slack**](https://github.com/shogo82148/p5-AnySan-Provider-Slack)|AnySan::Provider::Slack - AnySan provider for Slack|[:arrow_upper_right:](https://metacpan.org/release/AnySan-Provider-Slack)|
 |3|[@skaji](https://github.com/skaji)/[**CPAN-Mirror-Tiny**](https://github.com/skaji/CPAN-Mirror-Tiny)||[:arrow_upper_right:](https://metacpan.org/release/CPAN-Mirror-Tiny)|
-|3|[@skaji](https://github.com/skaji)/[**Mojo-SlackRTM**](https://github.com/skaji/Mojo-SlackRTM)||[:arrow_upper_right:](https://metacpan.org/release/Mojo-SlackRTM)|
 |3|[@skaji](https://github.com/skaji)/[**perl-tldr**](https://github.com/skaji/perl-tldr)|a perl client for http://tldr-pages.github.io/|[:arrow_upper_right:](https://metacpan.org/release/App-tldr)|
 |3|[@spiritloose](https://github.com/spiritloose)/[**Net-Presto**](https://github.com/spiritloose/Net-Presto)|Presto client library for Perl|[:arrow_upper_right:](https://metacpan.org/release/Net-Presto)|
 |3|[@sugyan](https://github.com/sugyan)/[**App-dayonetools**](https://github.com/sugyan/App-dayonetools)|tools for Day One.app||

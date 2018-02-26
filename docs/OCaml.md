@@ -8,9 +8,9 @@
 You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)|
 |26|[@kuy](https://github.com/kuy)/[**reason-of-life**](https://github.com/kuy/reason-of-life)|Conway's Lifegame in Reason + reason-react with webpack + bs-loader.||
 |23|[@UnixJunkie](https://github.com/UnixJunkie)/[**dolog**](https://github.com/UnixJunkie/dolog)|A dumb OCaml logger||
+|18|[@mzp](https://github.com/mzp)/[**bs-lwt**](https://github.com/mzp/bs-lwt)|BuckleScript bindings for Lwt||
 |16|[@UnixJunkie](https://github.com/UnixJunkie)/[**daft**](https://github.com/UnixJunkie/daft)|DAFT Allows File Transfers||
 |16|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|parallelize anything||
-|16|[@mzp](https://github.com/mzp)/[**bs-lwt**](https://github.com/mzp/bs-lwt)|BuckleScript bindings for Lwt||
 |15|[@mzp](https://github.com/mzp)/[**websocket-ocaml**](https://github.com/mzp/websocket-ocaml)|WebSocket Server for OCaml|[:arrow_upper_right:](http://eva-lu-ator.net/redmine/projects/websocket-ocaml)|
 |13|[@UnixJunkie](https://github.com/UnixJunkie)/[**bisec-tree**](https://github.com/UnixJunkie/bisec-tree)|Bisector tree implementation in OCaml||
 |13|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
@@ -48,6 +48,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |4|[@0zat](https://github.com/0zat)/[**gen-bs**](https://github.com/0zat/gen-bs)|generate bucklescript from javascript type specifications||
 |4|[@0zat](https://github.com/0zat)/[**webidl**](https://github.com/0zat/webidl)|Web IDL parser of OCaml||
 |4|[@AltGr](https://github.com/AltGr)/[**opam-lock**](https://github.com/AltGr/opam-lock)|Create locked opam files to share build environments across hosts||
+|4|[@UnixJunkie](https://github.com/UnixJunkie)/[**okdt**](https://github.com/UnixJunkie/okdt)|OCaml implementation of a kd-tree||
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**opmer**](https://github.com/UnixJunkie/opmer)|OPAM repository tree fingerprinter and differ using a Merkle tree||
 |4|[@aigarashi](https://github.com/aigarashi)/[**copl-tools**](https://github.com/aigarashi/copl-tools)|tools for the book "Concepts of Programming Languages"||
 |4|[@kaznum](https://github.com/kaznum)/[**programming_in_ocaml_exercise**](https://github.com/kaznum/programming_in_ocaml_exercise)|Practical Exercise of the book 'Programming in OCaml'||
@@ -57,8 +58,8 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |4|[@mzp](https://github.com/mzp)/[**coq-ide-for-ios**](https://github.com/mzp/coq-ide-for-ios)|||
 |4|[@mzp](https://github.com/mzp)/[**coq-js**](https://github.com/mzp/coq-js)|||
 |4|[@tyage](https://github.com/tyage)/[**experiment-4-ocaml**](https://github.com/tyage/experiment-4-ocaml)|計算機科学実験及演習4 プログラム検証||
-|3|[@UnixJunkie](https://github.com/UnixJunkie)/[**okdt**](https://github.com/UnixJunkie/okdt)|OCaml implementation of a kd-tree||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**orc4**](https://github.com/UnixJunkie/orc4)|RC4 implementation in OCaml||
+|3|[@UnixJunkie](https://github.com/UnixJunkie)/[**orsvm-e1071**](https://github.com/UnixJunkie/orsvm-e1071)|Access the Linear or RBF kernel SVM from OCaml using the R e1071 package under the carpet||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**vector3**](https://github.com/UnixJunkie/vector3)|module for 3D vectors (implemented as a record of x, y and z floats)||
 |3|[@keigoi](https://github.com/keigoi)/[**olt_ocaml**](https://github.com/keigoi/olt_ocaml)|An encoding of Ordered Linear Types in OCaml||
 |3|[@khibino](https://github.com/khibino)/[**pfds**](https://github.com/khibino/pfds)|Codes for the book "Purely Functional Data Structure"|[:arrow_upper_right:](http://twitter.com/khibino)|

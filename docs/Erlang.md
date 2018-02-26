@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1130|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|1131|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
 |211|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
-|131|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
+|132|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |76|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
 |59|[@jj1bdx](https://github.com/jj1bdx)/[**sfmt-erlang**](https://github.com/jj1bdx/sfmt-erlang)|sfmt-erlang: SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang|[:arrow_upper_right:](http://jj1bdx.github.io/sfmt-erlang/)|
 |38|[@chvanikoff](https://github.com/chvanikoff)/[**cowboy_session**](https://github.com/chvanikoff/cowboy_session)|Cowboy session management||
@@ -16,30 +16,30 @@
 |21|[@higepon](https://github.com/higepon)/[**memcached-client**](https://github.com/higepon/memcached-client)|A memcached client library for Erlang.||
 |20|[@shino](https://github.com/shino)/[**kai**](https://github.com/shino/kai)|Kai is a distributed key-value datastore mainly inspired by Amazon's Dynamo. (fork from sourceforge)|[:arrow_upper_right:](https://sourceforge.net/apps/mediawiki/kai/index.php?title=Main_Page)|
 |19|[@cooldaemon](https://github.com/cooldaemon)/[**ermlia**](https://github.com/cooldaemon/ermlia)|The ermlia is Erlang implementation of Kademlia. This is easy key-value store.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/)|
+|19|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
 |19|[@voluntas](https://github.com/voluntas)/[**erlang_otp_self_study**](https://github.com/voluntas/erlang_otp_self_study)|||
 |18|[@norton](https://github.com/norton)/[**qc**](https://github.com/norton/qc)|Wrappers for QuickCheck and PropEr testing tools||
-|18|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
+|18|[@sile](https://github.com/sile)/[**evel**](https://github.com/sile/evel)|An Eventual Leader Election Library for Erlang||
 |17|[@mururu](https://github.com/mururu)/[**erlang-mruby**](https://github.com/mururu/erlang-mruby)|[WIP] mruby on erlang||
-|17|[@sile](https://github.com/sile)/[**evel**](https://github.com/sile/evel)|An Eventual Leader Election Library for Erlang||
 |15|[@chvanikoff](https://github.com/chvanikoff)/[**githubizer**](https://github.com/chvanikoff/githubizer)|automatic deploy from github to server||
 |15|[@kuenishi](https://github.com/kuenishi)/[**erezrdfh**](https://github.com/kuenishi/erezrdfh)|MessagePack MessageQueue without AMQP||
 |15|[@leo-project](https://github.com/leo-project)/[**leo_storage**](https://github.com/leo-project/leo_storage)|🚫 DEPRECATED: leo_storage was merged into leo-project/leofs|[:arrow_upper_right:](https://github.com/leo-project/leofs/tree/master/apps/leo_storage)|
 |14|[@norton](https://github.com/norton)/[**asciiedoc**](https://github.com/norton/asciiedoc)|EDoc extension for generating HTML or GitHub-flavored Markdown from AsciiDoc sources||
 |13|[@jj1bdx](https://github.com/jj1bdx)/[**erltrek**](https://github.com/jj1bdx/erltrek)|An Erlang Star Trek game|[:arrow_upper_right:](http://jj1bdx.github.io/erltrek)|
 |12|[@kuenishi](https://github.com/kuenishi)/[**fluent-logger-erlang**](https://github.com/kuenishi/fluent-logger-erlang)|Moved.|[:arrow_upper_right:](https://github.com/fluent/fluent-logger-erlang)|
+|12|[@sile](https://github.com/sile)/[**ppg**](https://github.com/sile/ppg)|Plumtree based Distributed Process Group||
 |11|[@chvanikoff](https://github.com/chvanikoff)/[**cowboyd**](https://github.com/chvanikoff/cowboyd)|Daemonized Cowboy web server||
 |11|[@hibari](https://github.com/hibari)/[**gdss-brick**](https://github.com/hibari/gdss-brick)||[:arrow_upper_right:](http://hibari.github.com/hibari-doc/)|
 |11|[@hibari](https://github.com/hibari)/[**partition-detector**](https://github.com/hibari/partition-detector)||[:arrow_upper_right:](http://hibari.github.com/hibari-doc/)|
 |11|[@leo-project](https://github.com/leo-project)/[**leo_gateway**](https://github.com/leo-project/leo_gateway)|🚫 DEPRECATED: leo_gateway was merged into leo-project/leofs|[:arrow_upper_right:](https://github.com/leo-project/leofs/tree/master/apps/leo_gateway)|
-|11|[@sile](https://github.com/sile)/[**ppg**](https://github.com/sile/ppg)|Plumtree based Distributed Process Group||
 |10|[@leo-project](https://github.com/leo-project)/[**leo_manager**](https://github.com/leo-project/leo_manager)|🚫 DEPRECATED: leo_manager was merged into leo-project/leofs|[:arrow_upper_right:](https://github.com/leo-project/leofs/tree/master/apps/leo_manager)|
 |10|[@mururu](https://github.com/mururu)/[**fifocache**](https://github.com/mururu/fifocache)|FIFO cache implementation in Erlang||
+|10|[@sile](https://github.com/sile)/[**erl-splay-tree**](https://github.com/sile/erl-splay-tree)|A splay-tree implementation in Erlang||
 |9|[@everpeace](https://github.com/everpeace)/[**programming-erlang-code**](https://github.com/everpeace/programming-erlang-code)|erlang codes in "Programming Erlang" http://pragprog.com/book/jaerlang/programming-erlang||
 |9|[@jj1bdx](https://github.com/jj1bdx)/[**emprng**](https://github.com/jj1bdx/emprng)|Erlang/OTP rand module prototype repository until OTP 20 (for reference use only) - multiple PRNG suite||
 |9|[@kuenishi](https://github.com/kuenishi)/[**poolcat**](https://github.com/kuenishi/poolcat)|Active worker pool in OTP manner||
 |9|[@leo-project](https://github.com/leo-project)/[**leo_rpc**](https://github.com/leo-project/leo_rpc)|An original RPC library written in Erlang whose interface is similar to Erlang's buildin RPC.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |9|[@rramsden](https://github.com/rramsden)/[**sassy**](https://github.com/rramsden/sassy)|Sass stylesheet compilation for Erlang||
-|9|[@sile](https://github.com/sile)/[**erl-splay-tree**](https://github.com/sile/erl-splay-tree)|A splay-tree implementation in Erlang||
 |8|[@chvanikoff](https://github.com/chvanikoff)/[**webserver**](https://github.com/chvanikoff/webserver)|Simple webserver based on Cowboy||
 |8|[@cooldaemon](https://github.com/cooldaemon)/[**erljob**](https://github.com/cooldaemon/erljob)|Job Scheduler for Erlang.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/)|
 |8|[@cooldaemon](https://github.com/cooldaemon)/[**gen_paxos**](https://github.com/cooldaemon/gen_paxos)|generic paxos module written in erlang|[:arrow_upper_right:](http://d.hatena.ne.jp/kuenishi)|
@@ -64,6 +64,7 @@
 |5|[@jj1bdx](https://github.com/jj1bdx)/[**nsplit**](https://github.com/jj1bdx/nsplit)|Erlang mapping function library splitting a job to n-process concurrent execution||
 |5|[@jj1bdx](https://github.com/jj1bdx)/[**v6hex**](https://github.com/jj1bdx/v6hex)|IPv6 hex address library for Erlang||
 |5|[@kuenishi](https://github.com/kuenishi)/[**colloxy**](https://github.com/kuenishi/colloxy)|Pluggable http proxy. Write your filter and hooks.||
+|5|[@leo-project](https://github.com/leo-project)/[**leo_cache**](https://github.com/leo-project/leo_cache)|leo_cache is an object caching server into RAM and Disc (SSD)|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |5|[@leo-project](https://github.com/leo-project)/[**leo_commons**](https://github.com/leo-project/leo_commons)|leo_commons include common modules for LeoFS and other Erlang applications.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |5|[@sile](https://github.com/sile)/[**erl-creole**](https://github.com/sile/erl-creole)|Converting strings between multibyte encodings and Unicode.||
 |5|[@sile](https://github.com/sile)/[**logi**](https://github.com/sile/logi)|A Logger Interface Library for Erlang/OTP||
@@ -74,7 +75,6 @@
 |4|[@jj1bdx](https://github.com/jj1bdx)/[**exs1024**](https://github.com/jj1bdx/exs1024)|Xorshift1024star for Erlang||
 |4|[@jj1bdx](https://github.com/jj1bdx)/[**exsplus128**](https://github.com/jj1bdx/exsplus128)|Xorshift128plus for Erlang||
 |4|[@jj1bdx](https://github.com/jj1bdx)/[**sd-erlang-public**](https://github.com/jj1bdx/sd-erlang-public)|Software Design誌連載「Erlangで学ぶ並行プログラミング」のサポートページ||
-|4|[@leo-project](https://github.com/leo-project)/[**leo_cache**](https://github.com/leo-project/leo_cache)|leo_cache is an object caching server into RAM and Disc (SSD)|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |4|[@leo-project](https://github.com/leo-project)/[**leo_mcerl**](https://github.com/leo-project/leo_mcerl)|leo_mcerl is a memory cache lib for Erlang|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |4|[@leo-project](https://github.com/leo-project)/[**leo_watchdog**](https://github.com/leo-project/leo_watchdog)|leo_watchdog keep monitoring an application in order to realize high-availability.||
 |4|[@leo-project](https://github.com/leo-project)/[**leofs_doctor**](https://github.com/leo-project/leofs_doctor)|Quick investigation into OTP applications on remote nodes with less operations.|[:arrow_upper_right:](https://github.com/leo-project/leofs)|
@@ -101,6 +101,8 @@
 |3|[@mizchi](https://github.com/mizchi)/[**dehydrater**](https://github.com/mizchi/dehydrater)|Promise queue handler||
 |3|[@norton](https://github.com/norton)/[**gen-ets**](https://github.com/norton/gen-ets)|GEN_ETS is an generic wrapper for Erlang Term Storage with a callback interface for a backend implementation.||
 |3|[@otphub](https://github.com/otphub)/[**mnesia**](https://github.com/otphub/mnesia)|||
+|3|[@sile](https://github.com/sile)/[**erl-finger-tree**](https://github.com/sile/erl-finger-tree)|An Erlang implementation of Finger Tree||
+|3|[@sile](https://github.com/sile)/[**hashtrie**](https://github.com/sile/hashtrie)|Hash like trie||
 |3|[@sile](https://github.com/sile)/[**pfun**](https://github.com/sile/pfun)|Erlang Portable Functions||
 |3|[@sile](https://github.com/sile)/[**proxy**](https://github.com/sile/proxy)|An Erlang Process Proxy Library||
 |3|[@sile](https://github.com/sile)/[**rafte**](https://github.com/sile/rafte)|An Erlang implementation of the Raft consensus algorithm||

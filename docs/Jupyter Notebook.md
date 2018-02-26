@@ -1,35 +1,36 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2014|[@jrjohansson](https://github.com/jrjohansson)/[**scientific-python-lectures**](https://github.com/jrjohansson/scientific-python-lectures)|Lectures on scientific computing with python, as IPython notebooks.||
-|1095|[@ctgk](https://github.com/ctgk)/[**PRML**](https://github.com/ctgk/PRML)|PRML algorithms implemented in Python||
-|888|[@tatsuyah](https://github.com/tatsuyah)/[**vehicle-detection**](https://github.com/tatsuyah/vehicle-detection)|Vehicle detection using machine learning and computer vision techniques for Udacity's self-driving car course.||
-|443|[@Hironsan](https://github.com/Hironsan)/[**awesome-embedding-models**](https://github.com/Hironsan/awesome-embedding-models)|A curated list of awesome embedding models tutorials, projects and communities.||
-|221|[@soskek](https://github.com/soskek)/[**attention_is_all_you_need**](https://github.com/soskek/attention_is_all_you_need)|Transformer of "Attention Is All You Need" (Vaswani et al. 2017) by Chainer. ||
-|164|[@nzw0301](https://github.com/nzw0301)/[**keras-examples**](https://github.com/nzw0301/keras-examples)|||
+|2020|[@jrjohansson](https://github.com/jrjohansson)/[**scientific-python-lectures**](https://github.com/jrjohansson/scientific-python-lectures)|Lectures on scientific computing with python, as IPython notebooks.||
+|1105|[@ctgk](https://github.com/ctgk)/[**PRML**](https://github.com/ctgk/PRML)|PRML algorithms implemented in Python||
+|892|[@tatsuyah](https://github.com/tatsuyah)/[**vehicle-detection**](https://github.com/tatsuyah/vehicle-detection)|Vehicle detection using machine learning and computer vision techniques for Udacity's self-driving car course.||
+|453|[@Hironsan](https://github.com/Hironsan)/[**awesome-embedding-models**](https://github.com/Hironsan/awesome-embedding-models)|A curated list of awesome embedding models tutorials, projects and communities.||
+|223|[@soskek](https://github.com/soskek)/[**attention_is_all_you_need**](https://github.com/soskek/attention_is_all_you_need)|Transformer of "Attention Is All You Need" (Vaswani et al. 2017) by Chainer. ||
+|165|[@nzw0301](https://github.com/nzw0301)/[**keras-examples**](https://github.com/nzw0301/keras-examples)|||
 |145|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-for-absolute-beginners**](https://github.com/kazunori279/TensorFlow-for-absolute-beginners)|TensorFlow for absolute beginners: a 3-hour codelab for self-learning neural network basics without hard math.||
+|100|[@r9y9](https://github.com/r9y9)/[**gantts**](https://github.com/r9y9/gantts)|PyTorch implementation of GAN-based text-to-speech synthesis and voice conversion (VC)||
 |92|[@chezou](https://github.com/chezou)/[**julia-100-exercises**](https://github.com/chezou/julia-100-exercises)|julia version of 100 numpy exercises||
-|85|[@r9y9](https://github.com/r9y9)/[**gantts**](https://github.com/r9y9/gantts)|PyTorch implementation of GAN-based text-to-speech synthesis and voice conversion (VC)||
-|72|[@r9y9](https://github.com/r9y9)/[**tacotron_pytorch**](https://github.com/r9y9/tacotron_pytorch)|PyTorch implementation of Tacotron speech synthesis model.|[:arrow_upper_right:](http://nbviewer.jupyter.org/github/r9y9/tacotron_pytorch/blob/master/notebooks/Test%20Tacotron.ipynb)|
+|73|[@r9y9](https://github.com/r9y9)/[**tacotron_pytorch**](https://github.com/r9y9/tacotron_pytorch)|PyTorch implementation of Tacotron speech synthesis model.|[:arrow_upper_right:](http://nbviewer.jupyter.org/github/r9y9/tacotron_pytorch/blob/master/notebooks/Test%20Tacotron.ipynb)|
 |69|[@bicycle1885](https://github.com/bicycle1885)/[**Julia-Tutorial**](https://github.com/bicycle1885/Julia-Tutorial)|高速でJuliaを学ぶチュートリアル||
 |68|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-Intro**](https://github.com/kazunori279/TensorFlow-Intro)|An easy TensorFlow introduction for all ML newbies.||
 |64|[@knjcode](https://github.com/knjcode)/[**mxnet-finetuner**](https://github.com/knjcode/mxnet-finetuner)|An all-in-one Deep Learning toolkit for image classification to fine-tuning pretrained models using MXNet.||
 |61|[@mitmul](https://github.com/mitmul)/[**chainer-handson**](https://github.com/mitmul/chainer-handson)|ハンズオンの資料||
-|58|[@neubig](https://github.com/neubig)/[**yrsnlp-2016**](https://github.com/neubig/yrsnlp-2016)|Structured Neural Networks for NLP: From Idea to Code||
-|58|[@philipperemy](https://github.com/philipperemy)/[**tensorflow-multi-dimensional-lstm**](https://github.com/philipperemy/tensorflow-multi-dimensional-lstm)|Multi dimensional LSTM as described in Alex Graves' Paper https://arxiv.org/pdf/0705.2011.pdf||
+|60|[@neubig](https://github.com/neubig)/[**yrsnlp-2016**](https://github.com/neubig/yrsnlp-2016)|Structured Neural Networks for NLP: From Idea to Code||
+|59|[@philipperemy](https://github.com/philipperemy)/[**tensorflow-multi-dimensional-lstm**](https://github.com/philipperemy/tensorflow-multi-dimensional-lstm)|Multi dimensional LSTM as described in Alex Graves' Paper https://arxiv.org/pdf/0705.2011.pdf||
 |55|[@jrjohansson](https://github.com/jrjohansson)/[**numerical-python-book-code**](https://github.com/jrjohansson/numerical-python-book-code)|||
-|40|[@applenob](https://github.com/applenob)/[**RNN-for-Joint-NLU**](https://github.com/applenob/RNN-for-Joint-NLU)|Tensorflow implementation of "Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling" (https://arxiv.org/abs/1609.01454)||
+|41|[@applenob](https://github.com/applenob)/[**RNN-for-Joint-NLU**](https://github.com/applenob/RNN-for-Joint-NLU)|Tensorflow implementation of "Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling" (https://arxiv.org/abs/1609.01454)||
 |34|[@takerum](https://github.com/takerum)/[**adversarial_autoencoder**](https://github.com/takerum/adversarial_autoencoder)|Implementation of Adversarial Autoencoder with Theano||
 |33|[@chezou](https://github.com/chezou)/[**notebooks**](https://github.com/chezou/notebooks)|||
-|31|[@istellartech](https://github.com/istellartech)/[**OpenMOMO**](https://github.com/istellartech/OpenMOMO)|Sounding Rocket "MOMO"||
+|33|[@istellartech](https://github.com/istellartech)/[**OpenMOMO**](https://github.com/istellartech/OpenMOMO)|Sounding Rocket "MOMO"||
 |26|[@ikegami-yukino](https://github.com/ikegami-yukino)/[**misc**](https://github.com/ikegami-yukino/misc)|Machine Learning / Randomized Algorithm and more||
 |23|[@ryuichiueda](https://github.com/ryuichiueda)/[**probrobo_practice**](https://github.com/ryuichiueda/probrobo_practice)|確率ロボティクスのアルゴリズム解説|[:arrow_upper_right:](https://blog.ueda.asia/?p=9479)|
 |21|[@himkt](https://github.com/himkt)/[**nlp-100knock**](https://github.com/himkt/nlp-100knock)|言語処理100本ノック 2015, nlp-100knock 2015||
+|21|[@icoxfog417](https://github.com/icoxfog417)/[**baby_steps_of_machine_learning**](https://github.com/icoxfog417/baby_steps_of_machine_learning)|basic tutorial for machine learning implementation||
 |21|[@kazunori279](https://github.com/kazunori279)/[**ml-misc**](https://github.com/kazunori279/ml-misc)|Misc code snippets for Jupyter/Cloud Datalab||
-|20|[@icoxfog417](https://github.com/icoxfog417)/[**baby_steps_of_machine_learning**](https://github.com/icoxfog417/baby_steps_of_machine_learning)|basic tutorial for machine learning implementation||
-|20|[@ytakzk](https://github.com/ytakzk)/[**CoreML-samples**](https://github.com/ytakzk/CoreML-samples)|Sample code for Core ML using ResNet50 provided by Apple and a custom model generated by coremltools.||
+|21|[@ytakzk](https://github.com/ytakzk)/[**CoreML-samples**](https://github.com/ytakzk/CoreML-samples)|Sample code for Core ML using ResNet50 provided by Apple and a custom model generated by coremltools.||
 |18|[@c-bata](https://github.com/c-bata)/[**datascience-notebook**](https://github.com/c-bata/datascience-notebook)|Data Science Notebooks in Python3||
+|16|[@Hironsan](https://github.com/Hironsan)/[**HateSonar**](https://github.com/Hironsan/HateSonar)|Hate Speech Detection Library for Python.||
+|16|[@neubig](https://github.com/neubig)/[**howtocode-2017**](https://github.com/neubig/howtocode-2017)|An example of DyNet autobatching for the NIPS "how to code a paper" workshop||
 |16|[@ongxuanhong](https://github.com/ongxuanhong)/[**data-science-works**](https://github.com/ongxuanhong/data-science-works)|||
-|15|[@neubig](https://github.com/neubig)/[**howtocode-2017**](https://github.com/neubig/howtocode-2017)|An example of DyNet autobatching for the NIPS "how to code a paper" workshop||
 |14|[@minhpqn](https://github.com/minhpqn)/[**DeepLunch**](https://github.com/minhpqn/DeepLunch)|Repository for Deep Learning study group at FTI (FPT)||
 |14|[@mitmul](https://github.com/mitmul)/[**chainer-notebooks**](https://github.com/mitmul/chainer-notebooks)|Jupyter notebooks for Chainer hands-on||
 |14|[@r9y9](https://github.com/r9y9)/[**nnmnkwii_gallery**](https://github.com/r9y9/nnmnkwii_gallery)|A collection of examples demonstrating how we can build speech synthesis systems using nnmnkwii.|[:arrow_upper_right:](https://github.com/r9y9/nnmnkwii)|
@@ -41,7 +42,6 @@
 |10|[@philipperemy](https://github.com/philipperemy)/[**advanced-deep-learning-keras**](https://github.com/philipperemy/advanced-deep-learning-keras)|File repository for the course [Advanced Deep Learning with Keras]. Packt Publishing.|[:arrow_upper_right:](https://www.packtpub.com/)|
 |9|[@cookpad](https://github.com/cookpad)/[**cookpad-internship-2017-summer**](https://github.com/cookpad/cookpad-internship-2017-summer)|||
 |9|[@icoxfog417](https://github.com/icoxfog417)/[**cv_tutorial**](https://github.com/icoxfog417/cv_tutorial)|OpenCV Tutorial||
-|8|[@Hironsan](https://github.com/Hironsan)/[**HateSonar**](https://github.com/Hironsan/HateSonar)|Hate Speech Detection Library for Python.||
 |8|[@araobp](https://github.com/araobp)/[**nlan**](https://github.com/araobp/nlan)|Interactive SDN/IOT with tega db and Jupyter/IPython||
 |8|[@icoxfog417](https://github.com/icoxfog417)/[**scikit-learn-notebook**](https://github.com/icoxfog417/scikit-learn-notebook)|japanese scikit-learn tutorial||
 |8|[@ryo0921](https://github.com/ryo0921)/[**KyotoUx-009x**](https://github.com/ryo0921/KyotoUx-009x)|||
@@ -76,6 +76,7 @@
 |4|[@wanasit](https://github.com/wanasit)/[**katakana**](https://github.com/wanasit/katakana)|Training machine to write Katakana using Sequence-to-Sequence technique||
 |3|[@RyosukeHonda](https://github.com/RyosukeHonda)/[**Advanced_Lane_Lines**](https://github.com/RyosukeHonda/Advanced_Lane_Lines)|Finding lane lines on the road||
 |3|[@applenob](https://github.com/applenob)/[**linux_basic**](https://github.com/applenob/linux_basic)|notebooks for my linux learning blog.||
+|3|[@applenob](https://github.com/applenob)/[**tensorflow_learning_notes**](https://github.com/applenob/tensorflow_learning_notes)|tensorflow实践集||
 |3|[@buntyke](https://github.com/buntyke)/[**pytorch-hed**](https://github.com/buntyke/pytorch-hed)|||
 |3|[@chemo-wakate](https://github.com/chemo-wakate)/[**tutorial-6th**](https://github.com/chemo-wakate/tutorial-6th)|第６回ケモインフォマティクス入門講座配布資料||
 |3|[@domitry](https://github.com/domitry)/[**nyaplot-notebooks**](https://github.com/domitry/nyaplot-notebooks)|examples of nyaplot||

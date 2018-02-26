@@ -23,6 +23,7 @@
 |4|[@r9y9](https://github.com/r9y9)/[**RobustPCA.jl**](https://github.com/r9y9/RobustPCA.jl)|Robust Principal Component Analysis in Julia||
 |3|[@bicycle1885](https://github.com/bicycle1885)/[**BioBenchmarks.jl**](https://github.com/bicycle1885/BioBenchmarks.jl)|Benchmark set of Bio.jl||
 |3|[@bicycle1885](https://github.com/bicycle1885)/[**FMM.jl**](https://github.com/bicycle1885/FMM.jl)|||
+|3|[@bicycle1885](https://github.com/bicycle1885)/[**Snappy.jl**](https://github.com/bicycle1885/Snappy.jl)|A fast compressor/decompressor||
 |3|[@bicycle1885](https://github.com/bicycle1885)/[**docker-biojulia**](https://github.com/bicycle1885/docker-biojulia)|Dockerfile for BioJulia||
 |3|[@nzw0301](https://github.com/nzw0301)/[**TopicModels.jl**](https://github.com/nzw0301/TopicModels.jl)|||
 |3|[@r9y9](https://github.com/r9y9)/[**julia-nmf-ss-toy**](https://github.com/r9y9/julia-nmf-ss-toy)|NMF-based Music Source Separation Demo in Julia||

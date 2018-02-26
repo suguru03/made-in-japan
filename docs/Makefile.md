@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|148|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
-|77|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Janus WebRTC Gateway Docker Image for Media Streaming Expert User||
+|149|[@mumoshu](https://github.com/mumoshu)/[**kube-airflow**](https://github.com/mumoshu/kube-airflow)|A docker image and kubernetes config files to run Airflow on Kubernetes||
+|78|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Janus WebRTC Gateway Docker Image for Media Streaming Expert User||
 |68|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
 |51|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
 |30|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
-|28|[@uetchy](https://github.com/uetchy)/[**dockerfile-machinelearning**](https://github.com/uetchy/dockerfile-machinelearning)|Dockerfile for scientists studying Machine Learning.||
+|29|[@uetchy](https://github.com/uetchy)/[**dockerfile-machinelearning**](https://github.com/uetchy/dockerfile-machinelearning)|Dockerfile for scientists studying Machine Learning.||
 |25|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |25|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
 |23|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-24.5-doc-emacs**](https://github.com/ayatakesi/emacs-24.5-doc-emacs)|emacsマニュアルの日本語化と公開|[:arrow_upper_right:](https://ayatakesi.github.io/)|

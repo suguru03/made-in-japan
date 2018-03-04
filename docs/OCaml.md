@@ -25,12 +25,12 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |9|[@0zat](https://github.com/0zat)/[**bs-dom**](https://github.com/0zat/bs-dom)|A DOM Library for BuckleScript||
 |9|[@AltGr](https://github.com/AltGr)/[**opam-bundle**](https://github.com/AltGr/opam-bundle)|A tool that creates stand-alone source bundles from opam packages||
 |8|[@AltGr](https://github.com/AltGr)/[**opam-ed**](https://github.com/AltGr/opam-ed)|A small  command-line tool to help with mechanical edition of opam files||
+|8|[@UnixJunkie](https://github.com/UnixJunkie)/[**minicli**](https://github.com/UnixJunkie/minicli)|minimalist OCaml library for command line parsing||
 |8|[@mzp](https://github.com/mzp)/[**coq-for-ipad**](https://github.com/mzp/coq-for-ipad)|||
 |8|[@mzp](https://github.com/mzp)/[**min-caml**](https://github.com/mzp/min-caml)|min-caml[forked]|[:arrow_upper_right:](http://min-caml.sourceforge.net/)|
 |8|[@mzp](https://github.com/mzp)/[**scheme-abc**](https://github.com/mzp/scheme-abc)|Scheme compiler for ActionScript3 Bytecode/Flash|[:arrow_upper_right:](http://happyabc.org)|
 |8|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |7|[@UnixJunkie](https://github.com/UnixJunkie)/[**interval-tree**](https://github.com/UnixJunkie/interval-tree)|tree for float intervals||
-|7|[@UnixJunkie](https://github.com/UnixJunkie)/[**minicli**](https://github.com/UnixJunkie/minicli)|minimalist OCaml library for command line parsing||
 |7|[@mzp](https://github.com/mzp)/[**trello.md**](https://github.com/mzp/trello.md)|📋Copy trello board information to clipboard as markdown format.|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/trellomd/ibjelhogbfmmcpdblpjipdpmaocngjdm)|
 |7|[@zick](https://github.com/zick)/[**OCamLisp**](https://github.com/zick/OCamLisp)|Lisp implementation in OCaml||
 |6|[@kuy](https://github.com/kuy)/[**nada.re**](https://github.com/kuy/nada.re)|Visualization of Abelian sandpile model written in Reason + Obelisk.js.||

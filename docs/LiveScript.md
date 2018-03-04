@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |59|[@hakatashi](https://github.com/hakatashi)/[**unicode-map**](https://github.com/hakatashi/unicode-map)|A bunch of Unicode characters in a poster, on a Hilbert curve.||
-|20|[@hakatashi](https://github.com/hakatashi)/[**slack-ikku**](https://github.com/hakatashi/slack-ikku)|一句||
+|21|[@hakatashi](https://github.com/hakatashi)/[**slack-ikku**](https://github.com/hakatashi/slack-ikku)|一句||
 |9|[@polm](https://github.com/polm)/[**palladian-facades**](https://github.com/polm/palladian-facades)|Palladian Facade Generator for ProcJam2015||
 |5|[@hakatashi](https://github.com/hakatashi)/[**chars**](https://github.com/hakatashi/chars)|“Semmantically-correct” JavaScript module to split string into array of characters.||
 |5|[@polm](https://github.com/polm)/[**deltos**](https://github.com/polm/deltos)|A magic notepad. δ||

@@ -13,8 +13,8 @@
 |10|[@Gab-km](https://github.com/Gab-km)/[**OAuth-in-FSharp**](https://github.com/Gab-km/OAuth-in-FSharp)|This library offers the OAuth API written in F#.|[:arrow_upper_right:](http://twitter.com/gab_km)|
 |9|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Automaton**](https://github.com/pocketberserker/FSharp.Automaton)|||
 |8|[@pocketberserker](https://github.com/pocketberserker)/[**ComVu**](https://github.com/pocketberserker/ComVu)|||
+|8|[@pocketberserker](https://github.com/pocketberserker)/[**Diff.Match.Patch**](https://github.com/pocketberserker/Diff.Match.Patch)|||
 |7|[@bleis-tift](https://github.com/bleis-tift)/[**TableDsl**](https://github.com/bleis-tift/TableDsl)|||
-|7|[@pocketberserker](https://github.com/pocketberserker)/[**Diff.Match.Patch**](https://github.com/pocketberserker/Diff.Match.Patch)|||
 |6|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Object.Diff**](https://github.com/pocketberserker/FSharp.Object.Diff)|||
 |6|[@vain0](https://github.com/vain0)/[**tokiwa_db**](https://github.com/vain0/tokiwa_db)|||
 |5|[@azyobuzin](https://github.com/azyobuzin)/[**kirabern**](https://github.com/azyobuzin/kirabern)|コンパイラつくるぞ！！！！||

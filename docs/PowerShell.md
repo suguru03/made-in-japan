@@ -2,7 +2,7 @@
 |---|---|---|---|
 |99|[@guitarrapc](https://github.com/guitarrapc)/[**PowerShellUtil**](https://github.com/guitarrapc/PowerShellUtil)|PowerShell Common Utilities||
 |54|[@guitarrapc](https://github.com/guitarrapc)/[**valentia**](https://github.com/guitarrapc/valentia)|PowerShell Remote deployment library for Windows Servers|[:arrow_upper_right:](http://guitarrapc.github.io/valentia/)|
-|31|[@guitarrapc](https://github.com/guitarrapc)/[**GraniResource**](https://github.com/guitarrapc/GraniResource)|PowerShell Desired State Configuration Resources.||
+|31|[@guitarrapc](https://github.com/guitarrapc)/[**GraniResource**](https://github.com/guitarrapc/GraniResource)|PowerShell Desired State Configuration Resources for real production workload.|[:arrow_upper_right:](https://www.powershellgallery.com/packages/GraniResource)|
 |10|[@guitarrapc](https://github.com/guitarrapc)/[**WindowsCredentialVault**](https://github.com/guitarrapc/WindowsCredentialVault)|Windows 8 Store App style Windows Credential Management Module for Windows PowerShell||
 |7|[@guitarrapc](https://github.com/guitarrapc)/[**DSCSample**](https://github.com/guitarrapc/DSCSample)|DSC Sample for Windows PowerShell||
 |7|[@guitarrapc](https://github.com/guitarrapc)/[**WinCredManager**](https://github.com/guitarrapc/WinCredManager)|PowerShell Credential Store wrapper to use Windows Credential Manager||

@@ -20,6 +20,7 @@
 |3|[@OTL](https://github.com/OTL)/[**uarm**](https://github.com/OTL/uarm)|ROS tools for UArm by UFactory||
 |3|[@bluemooninc](https://github.com/bluemooninc)/[**smartcar**](https://github.com/bluemooninc/smartcar)|Make smart car with Arduino||
 |3|[@chpesa](https://github.com/chpesa)/[**Arduino_FaceTracking**](https://github.com/chpesa/Arduino_FaceTracking)|Face tracking algorithm (programmed in C++ - OpenCV) sends control commands to Arduino based Pan-Tilt camera programmed in Java ||
+|3|[@darashi](https://github.com/darashi)/[**arduino-pc9801-boot-sound**](https://github.com/darashi/arduino-pc9801-boot-sound)|||
 |3|[@hideyuki](https://github.com/hideyuki)/[**watering-robot**](https://github.com/hideyuki/watering-robot)|watering robot||
 |3|[@houtbrion](https://github.com/houtbrion)/[**arduino-grove**](https://github.com/houtbrion/arduino-grove)|grove module programs for arduino.||
 |3|[@keijiro](https://github.com/keijiro)/[**sustain-pedal-midi**](https://github.com/keijiro/sustain-pedal-midi)|Sustain pedal to MIDI converter||

@@ -11,9 +11,9 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |19|[@mzp](https://github.com/mzp)/[**bs-lwt**](https://github.com/mzp/bs-lwt)|BuckleScript bindings for Lwt||
 |16|[@UnixJunkie](https://github.com/UnixJunkie)/[**daft**](https://github.com/UnixJunkie/daft)|DAFT Allows File Transfers||
 |16|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|parallelize anything||
+|15|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
 |15|[@mzp](https://github.com/mzp)/[**websocket-ocaml**](https://github.com/mzp/websocket-ocaml)|WebSocket Server for OCaml|[:arrow_upper_right:](http://eva-lu-ator.net/redmine/projects/websocket-ocaml)|
 |13|[@UnixJunkie](https://github.com/UnixJunkie)/[**bisec-tree**](https://github.com/UnixJunkie/bisec-tree)|Bisector tree implementation in OCaml||
-|13|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
 |13|[@ksuenaga](https://github.com/ksuenaga)/[**IoPLMaterials**](https://github.com/ksuenaga/IoPLMaterials)|Materials for the class "Implementation of Programming Languages" in Kyoto University.||
 |13|[@mzp](https://github.com/mzp)/[**msgpack-ocaml**](https://github.com/mzp/msgpack-ocaml)|MessagePack for OCaml/Coq|[:arrow_upper_right:](http://mzp.github.com/msgpack-ocaml/refman)|
 |12|[@AltGr](https://github.com/AltGr)/[**Camelus**](https://github.com/AltGr/Camelus)|Bot posting reports on opam-repository pull-request using a web hook||

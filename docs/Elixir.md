@@ -1,28 +1,28 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
+|355|[@parroty](https://github.com/parroty)/[**excoveralls**](https://github.com/parroty/excoveralls)|Coverage report tool for Elixir with coveralls.io integration.||
 |355|[@parroty](https://github.com/parroty)/[**exvcr**](https://github.com/parroty/exvcr)|HTTP request/response recording library for elixir, inspired by VCR.||
-|352|[@parroty](https://github.com/parroty)/[**excoveralls**](https://github.com/parroty/excoveralls)|Coverage report tool for Elixir with coveralls.io integration.||
-|318|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
-|300|[@parroty](https://github.com/parroty)/[**extwitter**](https://github.com/parroty/extwitter)|Twitter client library for elixir. ||
-|249|[@parroty](https://github.com/parroty)/[**excheck**](https://github.com/parroty/excheck)|Property-based testing library for Elixir (QuickCheck style).||
-|165|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
+|322|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
+|301|[@parroty](https://github.com/parroty)/[**extwitter**](https://github.com/parroty/extwitter)|Twitter client library for elixir. ||
+|251|[@parroty](https://github.com/parroty)/[**excheck**](https://github.com/parroty/excheck)|Property-based testing library for Elixir (QuickCheck style).||
+|166|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
 |154|[@ma2gedev](https://github.com/ma2gedev)/[**power_assert_ex**](https://github.com/ma2gedev/power_assert_ex)|Power Assert in Elixir. Shows evaluation results each expression.|[:arrow_upper_right:](https://github.com/ma2gedev/power_assert_ex)|
-|111|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
+|113|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
 |99|[@tuvistavie](https://github.com/tuvistavie)/[**ex_cli**](https://github.com/tuvistavie/ex_cli)|User friendly CLI apps for Elixir|[:arrow_upper_right:](https://hex.pm/packages/ex_cli)|
 |91|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
 |89|[@parroty](https://github.com/parroty)/[**exprof**](https://github.com/parroty/exprof)|A simple code profiler for Elixir using eprof.||
 |72|[@keichan34](https://github.com/keichan34)/[**exfile**](https://github.com/keichan34/exfile)|File upload persistence and processing for Phoenix / Plug||
 |63|[@chvanikoff](https://github.com/chvanikoff)/[**apns4ex**](https://github.com/chvanikoff/apns4ex)|APNS for Elixir||
 |62|[@chvanikoff](https://github.com/chvanikoff)/[**reph**](https://github.com/chvanikoff/reph)|React/Redux + Phoenix (Elixir)||
-|58|[@parroty](https://github.com/parroty)/[**exfirebase**](https://github.com/parroty/exfirebase)|An elixir library for accessing the Firebase REST API.||
+|59|[@parroty](https://github.com/parroty)/[**exfirebase**](https://github.com/parroty/exfirebase)|An elixir library for accessing the Firebase REST API.||
 |57|[@tuvistavie](https://github.com/tuvistavie)/[**pushex**](https://github.com/tuvistavie/pushex)|Push notifications for Elixir|[:arrow_upper_right:](https://hexdocs.pm/pushex)|
+|56|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
 |55|[@parroty](https://github.com/parroty)/[**oauth2ex**](https://github.com/parroty/oauth2ex)|An OAuth 2.0 client library for elixir.||
-|54|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
-|53|[@ikeikeikeike](https://github.com/ikeikeikeike)/[**sitemap**](https://github.com/ikeikeikeike/sitemap)|Sitemap is the easiest way to generate Sitemaps in Elixir.|[:arrow_upper_right:](https://hex.pm/packages/sitemap)|
+|54|[@ikeikeikeike](https://github.com/ikeikeikeike)/[**sitemap**](https://github.com/ikeikeikeike/sitemap)|Sitemap is the easiest way to generate Sitemaps in Elixir.|[:arrow_upper_right:](https://hex.pm/packages/sitemap)|
 |53|[@mururu](https://github.com/mururu)/[**mongoex**](https://github.com/mururu/mongoex)|Elixir ODM-like module for MongoDB||
 |52|[@mururu](https://github.com/mururu)/[**msgpack-elixir**](https://github.com/mururu/msgpack-elixir)|MessagePack Implementation for Elixir / msgpack.org[Elixir]||
-|38|[@tuvistavie](https://github.com/tuvistavie)/[**elixir-browser**](https://github.com/tuvistavie/elixir-browser)|Browser detection for Elixir|[:arrow_upper_right:](https://hex.pm/packages/browser)|
-|37|[@tuvistavie](https://github.com/tuvistavie)/[**opencov**](https://github.com/tuvistavie/opencov)|Open source code coverage history webapp|[:arrow_upper_right:](http://demo.opencov.com)|
+|39|[@tuvistavie](https://github.com/tuvistavie)/[**elixir-browser**](https://github.com/tuvistavie/elixir-browser)|Browser detection for Elixir|[:arrow_upper_right:](https://hex.pm/packages/browser)|
+|38|[@tuvistavie](https://github.com/tuvistavie)/[**opencov**](https://github.com/tuvistavie/opencov)|Open source code coverage history webapp|[:arrow_upper_right:](http://demo.opencov.com)|
 |32|[@chatgris](https://github.com/chatgris)/[**funnel**](https://github.com/chatgris/funnel)|Streaming Elixir API built upon ElasticSearch's percolation.||
 |31|[@tatsuya6502](https://github.com/tatsuya6502)/[**recon_ex**](https://github.com/tatsuya6502/recon_ex)|Elixir wrapper for Recon, tools to diagnose Erlang VM safely in production||
 |31|[@tuvistavie](https://github.com/tuvistavie)/[**phoenix-active-link**](https://github.com/tuvistavie/phoenix-active-link)|Elixir/Phoenix view helper to manage "active" state of a link|[:arrow_upper_right:](https://hex.pm/packages/phoenix_active_link)|
@@ -32,7 +32,7 @@
 |25|[@increments](https://github.com/increments)/[**react_phoenix**](https://github.com/increments/react_phoenix)|Phoenix Template Engine for React (WIP)||
 |24|[@parroty](https://github.com/parroty)/[**exprintf**](https://github.com/parroty/exprintf)|A printf / sprintf library for Elixir. It works as a wrapper for :io.format.||
 |23|[@Joe-noh](https://github.com/Joe-noh)/[**tane**](https://github.com/Joe-noh/tane)|||
-|20|[@melpon](https://github.com/melpon)/[**memoize**](https://github.com/melpon/memoize)|A method caching macro for elixir using CAS on ETS.|[:arrow_upper_right:](https://hex.pm/packages/memoize)|
+|21|[@melpon](https://github.com/melpon)/[**memoize**](https://github.com/melpon/memoize)|A method caching macro for elixir using CAS on ETS.|[:arrow_upper_right:](https://hex.pm/packages/memoize)|
 |20|[@tuvistavie](https://github.com/tuvistavie)/[**seedex**](https://github.com/tuvistavie/seedex)|Seed data generation for Ecto|[:arrow_upper_right:](https://hex.pm/packages/seedex)|
 |19|[@hirocaster](https://github.com/hirocaster)/[**surge**](https://github.com/hirocaster/surge)|Amazon DynamoDB for Elixir||
 |19|[@ma2gedev](https://github.com/ma2gedev)/[**breadcrumble_ex**](https://github.com/ma2gedev/breadcrumble_ex)|Elixir lang port of Breadcrumble||
@@ -43,7 +43,7 @@
 |16|[@tuvistavie](https://github.com/tuvistavie)/[**elixir-web-push-encryption**](https://github.com/tuvistavie/elixir-web-push-encryption)|Elixir implementation of Web Push Payload encryption.|[:arrow_upper_right:](https://hex.pm/packages/web_push_encryption)|
 |15|[@i2y](https://github.com/i2y)/[**jet**](https://github.com/i2y/jet)|Jet is a simple OOP, dynamically typed, functional language that runs on the Erlang virtual machine (BEAM). Jet's syntax is Ruby-like syntax.||
 |15|[@niku](https://github.com/niku)/[**ff_stack_chat_example**](https://github.com/niku/ff_stack_chat_example)|A chat example build on FF(Elixir/Phoenix/Mithril) Stack||
-|14|[@ryo33](https://github.com/ryo33)/[**phoenix-channel-client**](https://github.com/ryo33/phoenix-channel-client)|It's a Phoenix Channels client library for Elixir.||
+|15|[@ryo33](https://github.com/ryo33)/[**phoenix-channel-client**](https://github.com/ryo33/phoenix-channel-client)|It's a Phoenix Channels client library for Elixir.||
 |13|[@archSeer](https://github.com/archSeer)/[**elixir.nvim**](https://github.com/archSeer/elixir.nvim)|A repackage of awetzel/vim-elixir with only the neovim bits + support for deoplete.||
 |13|[@ma2gedev](https://github.com/ma2gedev)/[**mix-star**](https://github.com/ma2gedev/mix-star)|Elixir Mix task to starring GitHub repository with `mix deps.get`ting dependent library||
 |13|[@tatsuya6502](https://github.com/tatsuya6502)/[**elixir_rust_interop_demo**](https://github.com/tatsuya6502/elixir_rust_interop_demo)|Demonstrate calling Rust functions from Elixir using Erlang NIF interface||

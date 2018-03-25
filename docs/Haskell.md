@@ -1,25 +1,25 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |227|[@itchyny](https://github.com/itchyny)/[**sjsp**](https://github.com/itchyny/sjsp)|Simple JavaScript Profiler|[:arrow_upper_right:](https://hackage.haskell.org/package/sjsp)|
-|183|[@fujimura](https://github.com/fujimura)/[**hi**](https://github.com/fujimura/hi)|Generate scaffold for a Haskell project||
-|171|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**unit-test-example**](https://github.com/kazu-yamamoto/unit-test-example)|Unit test example for Haskell||
-|169|[@khibino](https://github.com/khibino)/[**haskell-relational-record**](https://github.com/khibino/haskell-relational-record)|This repository includes a joined query generator based on typefull relational algebra, and mapping tools between SQL values list and Haskell record type.||
-|138|[@lotz84](https://github.com/lotz84)/[**haskell**](https://github.com/lotz84/haskell)|Haskell 俯瞰まとめ|[:arrow_upper_right:](http://lotz84.github.io/haskell/)|
+|184|[@fujimura](https://github.com/fujimura)/[**hi**](https://github.com/fujimura/hi)|Generate scaffold for a Haskell project||
+|172|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**unit-test-example**](https://github.com/kazu-yamamoto/unit-test-example)|Unit test example for Haskell||
+|170|[@khibino](https://github.com/khibino)/[**haskell-relational-record**](https://github.com/khibino/haskell-relational-record)|This repository includes a joined query generator based on typefull relational algebra, and mapping tools between SQL values list and Haskell record type.||
+|143|[@lotz84](https://github.com/lotz84)/[**haskell**](https://github.com/lotz84/haskell)|Haskell 俯瞰まとめ|[:arrow_upper_right:](http://lotz84.github.io/haskell/)|
 |124|[@himura](https://github.com/himura)/[**twitter-conduit**](https://github.com/himura/twitter-conduit)|Twitter API package for Haskell, including enumerator interfaces and Streaming API supports.||
-|103|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**mighttpd2**](https://github.com/kazu-yamamoto/mighttpd2)|File/CGI web server on warp||
-|96|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**logger**](https://github.com/kazu-yamamoto/logger)|A fast logging system for Haskell||
+|105|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**mighttpd2**](https://github.com/kazu-yamamoto/mighttpd2)|File/CGI web server on warp||
+|97|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**logger**](https://github.com/kazu-yamamoto/logger)|A fast logging system for Haskell||
 |85|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**recursion-drill**](https://github.com/kazu-yamamoto/recursion-drill)|Drill to study recursive programming in Haskell||
 |77|[@msakai](https://github.com/msakai)/[**toysolver**](https://github.com/msakai/toysolver)|My sandbox for experimenting solver algorithms.||
-|71|[@tanakh](https://github.com/tanakh)/[**Peggy**](https://github.com/tanakh/Peggy)|The Parser Generator for Haskell|[:arrow_upper_right:](http://tanakh.github.com/Peggy)|
+|72|[@tanakh](https://github.com/tanakh)/[**Peggy**](https://github.com/tanakh/Peggy)|The Parser Generator for Haskell|[:arrow_upper_right:](http://tanakh.github.com/Peggy)|
 |69|[@philopon](https://github.com/philopon)/[**apiary**](https://github.com/philopon/apiary)|Simple and type safe web framework that can be automatically generate API documentation. ||
 |65|[@iand675](https://github.com/iand675)/[**haskell-checklist**](https://github.com/iand675/haskell-checklist)|Preflight checklist for Haskell code. Aspire to greatness!||
 |62|[@algas](https://github.com/algas)/[**haskell-servant-cookbook**](https://github.com/algas/haskell-servant-cookbook)|Haskell Servant Cookbook||
 |61|[@cdepillabout](https://github.com/cdepillabout)/[**pretty-simple**](https://github.com/cdepillabout/pretty-simple)|pretty-printer for Haskell data types that have a Show instance|[:arrow_upper_right:](https://hackage.haskell.org/package/pretty-simple)|
 |61|[@fumieval](https://github.com/fumieval)/[**free-game**](https://github.com/fumieval/free-game)|The free game engine|[:arrow_upper_right:](http://hackage.haskell.org/package/free-game)|
 |55|[@guillaume-nargeot](https://github.com/guillaume-nargeot)/[**hpc-coveralls**](https://github.com/guillaume-nargeot/hpc-coveralls)|coveralls.io support for haskell code coverage with hpc|[:arrow_upper_right:](http://hackage.haskell.org/package/hpc-coveralls)|
+|54|[@rnons](https://github.com/rnons)/[**shadowsocks-haskell**](https://github.com/rnons/shadowsocks-haskell)|shadowsocks in haskell||
 |53|[@fumieval](https://github.com/fumieval)/[**extensible**](https://github.com/fumieval/extensible)|Extensible records, variants, structs, effects, tangles||
 |53|[@itchyny](https://github.com/itchyny)/[**miv**](https://github.com/itchyny/miv)|Vim plugin manager written in Haskell||
-|52|[@rnons](https://github.com/rnons)/[**shadowsocks-haskell**](https://github.com/rnons/shadowsocks-haskell)|shadowsocks in haskell||
 |51|[@msakai](https://github.com/msakai)/[**cpl**](https://github.com/msakai/cpl)|An interpreter of Hagino's Categorical Programming Language (CPL).|[:arrow_upper_right:](http://hackage.haskell.org/package/CPL)|
 |50|[@mokehehe](https://github.com/mokehehe)/[**monao**](https://github.com/mokehehe/monao)|Super monao bros. in Haskell||
 |50|[@rnons](https://github.com/rnons)/[**ted2srt**](https://github.com/rnons/ted2srt)|Download bilingual subtitles of TED talks |[:arrow_upper_right:](https://ted2srt.org)|
@@ -28,8 +28,8 @@
 |44|[@codeharuka](https://github.com/codeharuka)/[**dotfiles**](https://github.com/codeharuka/dotfiles)|Yune's blahblah urxvt, conky's, etc config files, especially xmonad ❤ lov it||
 |44|[@maoe](https://github.com/maoe)/[**influxdb-haskell**](https://github.com/maoe/influxdb-haskell)|Haskell client library for InfluxDB|[:arrow_upper_right:](https://hackage.haskell.org/package/influxdb)|
 |43|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**dns**](https://github.com/kazu-yamamoto/dns)|DNS libary in Haskell||
-|37|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**mighttpd**](https://github.com/kazu-yamamoto/mighttpd)|A simple but practical HTTP server in Haskell. 'mighttpd' should be called 'mighty'.|[:arrow_upper_right:](http://www.mew.org/~kazu/proj/mighttpd/)|
 |37|[@rnons](https://github.com/rnons)/[**lord**](https://github.com/rnons/lord)|A unified interface to online radios using mpd/mplayer as backend|[:arrow_upper_right:](http://rnons.github.io/lord/)|
+|36|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**mighttpd**](https://github.com/kazu-yamamoto/mighttpd)|A simple but practical HTTP server in Haskell. 'mighttpd' should be called 'mighty'.|[:arrow_upper_right:](http://www.mew.org/~kazu/proj/mighttpd/)|
 |35|[@fumieval](https://github.com/fumieval)/[**xml-lens**](https://github.com/fumieval/xml-lens)|Lenses and traversals for xml-conduit||
 |35|[@iand675](https://github.com/iand675)/[**hs-mesos**](https://github.com/iand675/hs-mesos)|Mesos bindings for Haskell||
 |35|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**cab**](https://github.com/kazu-yamamoto/cab)|A maintenance command of Haskell cabal packages||
@@ -38,8 +38,8 @@
 |35|[@philopon](https://github.com/philopon)/[**haddocset**](https://github.com/philopon/haddocset)|Generate docset of Dash by Haddock haskell documentation tool||
 |35|[@tanakh](https://github.com/tanakh)/[**optparse-declarative**](https://github.com/tanakh/optparse-declarative)|Declarative command-line option parser||
 |34|[@cdepillabout](https://github.com/cdepillabout)/[**servant-checked-exceptions**](https://github.com/cdepillabout/servant-checked-exceptions)|type-level errors for Servant APIs.|[:arrow_upper_right:](https://hackage.haskell.org/package/servant-checked-exceptions)|
+|34|[@liyang](https://github.com/liyang)/[**thyme**](https://github.com/liyang/thyme)|||
 |33|[@CodeHaruka](https://github.com/CodeHaruka)/[**dotfiles**](https://github.com/CodeHaruka/dotfiles)|||
-|33|[@liyang](https://github.com/liyang)/[**thyme**](https://github.com/liyang/thyme)|||
 |32|[@lotz84](https://github.com/lotz84)/[**double-pendulum-simulation**](https://github.com/lotz84/double-pendulum-simulation)|二重振り子シミュレーション|[:arrow_upper_right:](https://twitter.com/lotz84_/status/866661941279834112)|
 |32|[@maoe](https://github.com/maoe)/[**tkyprof**](https://github.com/maoe/tkyprof)|An interactive GHC profiling visualizer|[:arrow_upper_right:](https://hackage.haskell.org/package/tkyprof)|
 |32|[@rnons](https://github.com/rnons)/[**HadouRex**](https://github.com/rnons/HadouRex)|douban.fm CLI client in Haskell. You might be interested in https://github.com/rnons/lord||
@@ -87,6 +87,8 @@
 |13|[@maoe](https://github.com/maoe)/[**lifted-async**](https://github.com/maoe/lifted-async)|Run lifted IO operations asynchronously and wait for their results|[:arrow_upper_right:](http://hackage.haskell.org/package/lifted-async)|
 |12|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**unix-time**](https://github.com/kazu-yamamoto/unix-time)|Fast time library||
 |12|[@nakaji-dayo](https://github.com/nakaji-dayo)/[**yesod-job-queue**](https://github.com/nakaji-dayo/yesod-job-queue)|Background job queue library for Yesod.||
+|11|[@fumieval](https://github.com/fumieval)/[**MonadicShooter**](https://github.com/fumieval/MonadicShooter)|High-level "danmaku" expressions||
+|11|[@fumieval](https://github.com/fumieval)/[**drinkery**](https://github.com/fumieval/drinkery)|Boozy streaming library||
 |11|[@fumieval](https://github.com/fumieval)/[**rhythm-game-tutorial**](https://github.com/fumieval/rhythm-game-tutorial)|Create a rhythm game with Haskell!||
 |11|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**simple-sendfile**](https://github.com/kazu-yamamoto/simple-sendfile)|Cross platform library for the sendfile system call||
 |11|[@liyang](https://github.com/liyang)/[**vector-th-unbox**](https://github.com/liyang/vector-th-unbox)|Deriver for unboxed vectors using Template Haskell||
@@ -95,7 +97,6 @@
 |11|[@tanakh](https://github.com/tanakh)/[**pandoc-html5slide**](https://github.com/tanakh/pandoc-html5slide)|Google HTML5 Slide generator||
 |10|[@aiya000](https://github.com/aiya000)/[**hs-kemono-friends**](https://github.com/aiya000/hs-kemono-friends)|あなたはプログラミング言語フレンズなんだね！（Haskell）||
 |10|[@cutsea110](https://github.com/cutsea110)/[**Kestrel**](https://github.com/cutsea110/Kestrel)|Kestrel is a WIKI clone written in Haskell||
-|10|[@fumieval](https://github.com/fumieval)/[**MonadicShooter**](https://github.com/fumieval/MonadicShooter)|High-level "danmaku" expressions||
 |10|[@hiratara](https://github.com/hiratara)/[**TypedPerl**](https://github.com/hiratara/TypedPerl)|A subset of perl language based on typed lambda calculus.||
 |10|[@lotz84](https://github.com/lotz84)/[**cli-rss-reader**](https://github.com/lotz84/cli-rss-reader)|Vtyを使って作る簡単なRSSリーダー||
 |10|[@nineties](https://github.com/nineties)/[**Choco**](https://github.com/nineties/Choco)|MinCaml Compiler implementation by Haskell||
@@ -106,7 +107,6 @@
 |9|[@dpwright](https://github.com/dpwright)/[**jsonresume.hs**](https://github.com/dpwright/jsonresume.hs)|Haskell parser and datatypes for the JSON Resume format||
 |9|[@fujimura](https://github.com/fujimura)/[**houseman**](https://github.com/fujimura/houseman)|A Haskell implementation of Foreman||
 |9|[@fumieval](https://github.com/fumieval)/[**Lazy-SLYR**](https://github.com/fumieval/Lazy-SLYR)|Pure functional programming language||
-|9|[@fumieval](https://github.com/fumieval)/[**drinkery**](https://github.com/fumieval/drinkery)|Boozy streaming library||
 |9|[@fumieval](https://github.com/fumieval)/[**mtl-c**](https://github.com/fumieval/mtl-c)|Monad transformers in CPS||
 |9|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**witty**](https://github.com/kazu-yamamoto/witty)|A web server to show bottlenecks of GHC||
 |9|[@konn](https://github.com/konn)/[**Yablog**](https://github.com/konn/Yablog)|Yet another Blog engine written in Haskell powered by yesod.||
@@ -125,6 +125,7 @@
 |8|[@guillaume-nargeot](https://github.com/guillaume-nargeot)/[**project-euler-haskell**](https://github.com/guillaume-nargeot/project-euler-haskell)|My Haskell solutions to Project Euler problems||
 |8|[@iand675](https://github.com/iand675)/[**growler**](https://github.com/iand675/growler)|A small Sinatra-esque web framework for Haskell||
 |8|[@igrep](https://github.com/igrep)/[**igreque.info**](https://github.com/igrep/igreque.info)|My website|[:arrow_upper_right:](http://the.igreque.info/)|
+|8|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**appar**](https://github.com/kazu-yamamoto/appar)|A simple applicative parser in Parsec style||
 |8|[@lotz84](https://github.com/lotz84)/[**ac2015-servant-example**](https://github.com/lotz84/ac2015-servant-example)|Servant Example for Haskell Advent Calendar 2015|[:arrow_upper_right:](http://qiita.com/lotz/items/883b41fa79f060e59efa)|
 |8|[@lotz84](https://github.com/lotz84)/[**bitcoin-spv-wallet**](https://github.com/lotz84/bitcoin-spv-wallet)|||
 |8|[@motemen](https://github.com/motemen)/[**jusk**](https://github.com/motemen/jusk)|Haskell implemented JavaScript interpreter||
@@ -141,7 +142,6 @@
 |7|[@iand675](https://github.com/iand675)/[**Zoom**](https://github.com/iand675/Zoom)|A Rake/Thor-like task runner for Haskell||
 |7|[@iand675](https://github.com/iand675)/[**datadog**](https://github.com/iand675/datadog)|Haskell DataDog client library||
 |7|[@iand675](https://github.com/iand675)/[**pipes-wai**](https://github.com/iand675/pipes-wai)|A port of wai-conduit for the pipes ecosystem||
-|7|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**appar**](https://github.com/kazu-yamamoto/appar)|A simple applicative parser in Parsec style||
 |7|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**concurrent-dns-cache**](https://github.com/kazu-yamamoto/concurrent-dns-cache)|Concurrent DNS cache in Haskell||
 |7|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**monad**](https://github.com/kazu-yamamoto/monad)|A book on Monad of Haskell in Japanese||
 |7|[@konn](https://github.com/konn)/[**sized**](https://github.com/konn/sized)|Sized sequence data-types||
@@ -169,6 +169,7 @@
 |6|[@konn](https://github.com/konn)/[**AttoJSON**](https://github.com/konn/AttoJSON)|ByteString based lightweight JSON Parser||
 |6|[@konn](https://github.com/konn)/[**hskk**](https://github.com/konn/hskk)|SKK implemented in Haskell||
 |6|[@lotz84](https://github.com/lotz84)/[**deep-learning-from-scratch**](https://github.com/lotz84/deep-learning-from-scratch)|||
+|6|[@maoe](https://github.com/maoe)/[**ghc-prof**](https://github.com/maoe/ghc-prof)|Library for parsing GHC time and allocation profiling reports||
 |6|[@maoe](https://github.com/maoe)/[**htmlcat**](https://github.com/maoe/htmlcat)|A Haskell clone of http://subtech.g.hatena.ne.jp/motemen/20120120/1326987165|[:arrow_upper_right:](http://d.hatena.ne.jp/maoe/20120120/1327061692)|
 |6|[@maoe](https://github.com/maoe)/[**sensu-run**](https://github.com/maoe/sensu-run)|A tool to send command execution results to Sensu||
 |6|[@nakaji-dayo](https://github.com/nakaji-dayo)/[**gremlin-haskell**](https://github.com/nakaji-dayo/gremlin-haskell)| Haskell graph database client for TinkerPop3 Gremlin Server||
@@ -185,6 +186,7 @@
 |5|[@cdepillabout](https://github.com/cdepillabout)/[**servant-static-th**](https://github.com/cdepillabout/servant-static-th)|Embed a directory of static files in your application and serve them from your Servant server|[:arrow_upper_right:](http://hackage.haskell.org/package/servant-static-th)|
 |5|[@cutsea110](https://github.com/cutsea110)/[**servant-csharp**](https://github.com/cutsea110/servant-csharp)|Generate servant client library for C#||
 |5|[@himura](https://github.com/himura)/[**lens-regex**](https://github.com/himura/lens-regex)|Lens powered regular expression||
+|5|[@himura](https://github.com/himura)/[**neco**](https://github.com/himura/neco)|NECO - A Tiny HTTP Client||
 |5|[@himura](https://github.com/himura)/[**rio**](https://github.com/himura/rio)|Remote IO - A Tiny HTTP Client||
 |5|[@hiratara](https://github.com/hiratara)/[**Haskell-Nyumon-Sample**](https://github.com/hiratara/Haskell-Nyumon-Sample)|技術評論社の書籍「Haskell入門」のサンプルコードリポジトリ|[:arrow_upper_right:](http://gihyo.jp/book/2017/978-4-7741-9237-6)|
 |5|[@itchyny](https://github.com/itchyny)/[**mackerel-client-hs**](https://github.com/itchyny/mackerel-client-hs)|Mackerel API client in Haskell|[:arrow_upper_right:](https://hackage.haskell.org/package/mackerel-client)|
@@ -202,7 +204,6 @@
 |5|[@konn](https://github.com/konn)/[**lk-proof-assistant**](https://github.com/konn/lk-proof-assistant)|Simple Proof assistant for LK Calculus (First-Order logic)||
 |5|[@konn](https://github.com/konn)/[**pandoc-japanese-filters**](https://github.com/konn/pandoc-japanese-filters)|Pandoc filters to treat Japanese-specific markups||
 |5|[@liyang](https://github.com/liyang)/[**true-name**](https://github.com/liyang/true-name)|Template Haskell hack to violate another module's abstractions||
-|5|[@maoe](https://github.com/maoe)/[**ghc-prof**](https://github.com/maoe/ghc-prof)|Library for parsing GHC time and allocation profiling reports||
 |5|[@morishin](https://github.com/morishin)/[**poem-generator**](https://github.com/morishin/poem-generator)|Generate poem from source text|[:arrow_upper_right:](http://morishin.hatenablog.com/entry/haskell-poem-generator)|
 |5|[@msakai](https://github.com/msakai)/[**nonlinear-optimization-ad**](https://github.com/msakai/nonlinear-optimization-ad)|Wrapper of nonlinear-optimization package for using with AD package||
 |5|[@pasberth](https://github.com/pasberth)/[**Macra**](https://github.com/pasberth/Macra)|Macro Oriented Language||
@@ -225,6 +226,7 @@
 |4|[@fumieval](https://github.com/fumieval)/[**holz**](https://github.com/fumieval/holz)|(Un)abstract graphics library||
 |4|[@fumieval](https://github.com/fumieval)/[**jugendstil**](https://github.com/fumieval/jugendstil)|New Style GUI Library||
 |4|[@fumieval](https://github.com/fumieval)/[**liszt**](https://github.com/fumieval/liszt)|Publish & Subscribe||
+|4|[@haskell-jp](https://github.com/haskell-jp)/[**antenna**](https://github.com/haskell-jp/antenna)||[:arrow_upper_right:](https://haskell.jp/antenna/)|
 |4|[@hiratara](https://github.com/hiratara)/[**lambdabot-hipchat-plugins**](https://github.com/hiratara/lambdabot-hipchat-plugins)|A plugin to connect lambdabot to HipChat||
 |4|[@iand675](https://github.com/iand675)/[**hs-flowdock**](https://github.com/iand675/hs-flowdock)|Flowdock API bindings for Haskell||
 |4|[@igrep](https://github.com/igrep)/[**typesafe-precure**](https://github.com/igrep/typesafe-precure)|Type-safe transformations and purifications of PreCures (Japanese battle heroine)|[:arrow_upper_right:](http://hackage.haskell.org/package/typesafe-precure)|
@@ -286,7 +288,6 @@
 |3|[@fumieval](https://github.com/fumieval)/[**indexed-free**](https://github.com/fumieval/indexed-free)|||
 |3|[@great-h](https://github.com/great-h)/[**auto_participant**](https://github.com/great-h/auto_participant)|すごい広島の参加者リストを作成するプログラム||
 |3|[@halogenandtoast](https://github.com/halogenandtoast)/[**mirin**](https://github.com/halogenandtoast/mirin)|A tiny redirection server in Spock backed by MySQL.||
-|3|[@haskell-jp](https://github.com/haskell-jp)/[**antenna**](https://github.com/haskell-jp/antenna)||[:arrow_upper_right:](https://haskell.jp/antenna/)|
 |3|[@iand675](https://github.com/iand675)/[**GitMega**](https://github.com/iand675/GitMega)|Common operations against lots of repos at once||
 |3|[@iand675](https://github.com/iand675)/[**hs-brotli**](https://github.com/iand675/hs-brotli)|||
 |3|[@iand675](https://github.com/iand675)/[**serf**](https://github.com/iand675/serf)|Haskell library to interact with Serf||

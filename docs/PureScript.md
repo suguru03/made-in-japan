@@ -5,6 +5,7 @@
 |9|[@rnons](https://github.com/rnons)/[**purescript-halogen-day-picker**](https://github.com/rnons/purescript-halogen-day-picker)|A day picker written in purescript halogen|[:arrow_upper_right:](https://rnons.github.io/purescript-halogen-day-picker)|
 |8|[@philopon](https://github.com/philopon)/[**purescript-xhr**](https://github.com/philopon/purescript-xhr)|simple XMLHttpRequest wrapper for purescript.||
 |6|[@fujimura](https://github.com/fujimura)/[**purescript-react-example**](https://github.com/fujimura/purescript-react-example)|PureScript + React.js example, based on https://github.com/purescript-contrib/purescript-react.||
+|6|[@rnons](https://github.com/rnons)/[**purescript-halogen-storybook**](https://github.com/rnons/purescript-halogen-storybook)|A library to assemble examples or develop components separately.|[:arrow_upper_right:](https://rnons.github.io/purescript-halogen-storybook/)|
 |6|[@utatti](https://github.com/utatti)/[**purescript-halogen-free-html**](https://github.com/utatti/purescript-halogen-free-html)|Free monad for Halogen HTML||
 |5|[@algas](https://github.com/algas)/[**purescript-enchantjs**](https://github.com/algas/purescript-enchantjs)|PureScript interface for Enchant.js||
 |4|[@noraesae](https://github.com/noraesae)/[**purescript-halogen-free-html**](https://github.com/noraesae/purescript-halogen-free-html)|Free monad for Halogen HTML||
@@ -12,5 +13,4 @@
 |4|[@oreshinya](https://github.com/oreshinya)/[**purescript-mysql**](https://github.com/oreshinya/purescript-mysql)|Bindings mysql for PureScript||
 |3|[@bouzuya](https://github.com/bouzuya)/[**purescript-examples**](https://github.com/bouzuya/purescript-examples)|||
 |3|[@philopon](https://github.com/philopon)/[**purescript-html**](https://github.com/philopon/purescript-html)|middle level virtual-dom binding for purescript||
-|3|[@rnons](https://github.com/rnons)/[**purescript-halogen-storybook**](https://github.com/rnons/purescript-halogen-storybook)|A library to assemble examples or develop components separately.|[:arrow_upper_right:](https://rnons.github.io/purescript-halogen-storybook/)|
 

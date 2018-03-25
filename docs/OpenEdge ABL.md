@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|124|[@kevincobain2000](https://github.com/kevincobain2000)/[**sentiment_classifier**](https://github.com/kevincobain2000/sentiment_classifier)|Sentiment Classification using Word Sense Disambiguation||
-|87|[@kevincobain2000](https://github.com/kevincobain2000)/[**jProcessing**](https://github.com/kevincobain2000/jProcessing)|Japanese Natural Langauge Processing Libraries||
+|125|[@kevincobain2000](https://github.com/kevincobain2000)/[**sentiment_classifier**](https://github.com/kevincobain2000/sentiment_classifier)|Sentiment Classification using Word Sense Disambiguation||
+|89|[@kevincobain2000](https://github.com/kevincobain2000)/[**jProcessing**](https://github.com/kevincobain2000/jProcessing)|Japanese Natural Langauge Processing Libraries|[:arrow_upper_right:](http://readthedocs.org/docs/jprocessing/en/latest/)|
 |3|[@buntyke](https://github.com/buntyke)/[**TRo2017**](https://github.com/buntyke/TRo2017)|||
 

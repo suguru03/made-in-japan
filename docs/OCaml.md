@@ -32,11 +32,12 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |8|[@mzp](https://github.com/mzp)/[**scheme-abc**](https://github.com/mzp/scheme-abc)|Scheme compiler for ActionScript3 Bytecode/Flash|[:arrow_upper_right:](http://happyabc.org)|
 |8|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |7|[@UnixJunkie](https://github.com/UnixJunkie)/[**interval-tree**](https://github.com/UnixJunkie/interval-tree)|tree for float intervals||
+|7|[@UnixJunkie](https://github.com/UnixJunkie)/[**orxgboost**](https://github.com/UnixJunkie/orxgboost)|Gradient boosting for OCaml using the R xgboost package under the carpet||
 |7|[@mzp](https://github.com/mzp)/[**trello.md**](https://github.com/mzp/trello.md)|📋Copy trello board information to clipboard as markdown format.|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/trellomd/ibjelhogbfmmcpdblpjipdpmaocngjdm)|
 |7|[@zick](https://github.com/zick)/[**OCamLisp**](https://github.com/zick/OCamLisp)|Lisp implementation in OCaml||
+|6|[@AltGr](https://github.com/AltGr)/[**Contre-jour**](https://github.com/AltGr/Contre-jour)|A toy image gallery application for OPA||
 |6|[@kuy](https://github.com/kuy)/[**nada.re**](https://github.com/kuy/nada.re)|Visualization of Abelian sandpile model written in Reason + Obelisk.js.||
 |6|[@master-q](https://github.com/master-q)/[**readPurelyFunctionalDataStructures**](https://github.com/master-q/readPurelyFunctionalDataStructures)|||
-|5|[@AltGr](https://github.com/AltGr)/[**Contre-jour**](https://github.com/AltGr/Contre-jour)|A toy image gallery application for OPA||
 |5|[@AltGr](https://github.com/AltGr)/[**ocp-sha**](https://github.com/AltGr/ocp-sha)|Pure OCaml implementation of SHA256 and SHA512||
 |5|[@UnixJunkie](https://github.com/UnixJunkie)/[**consent**](https://github.com/UnixJunkie/consent)|ligand-based virtual screening with consensus queries||
 |5|[@UnixJunkie](https://github.com/UnixJunkie)/[**get_line**](https://github.com/UnixJunkie/get_line)|get line at index i from file f (a missing unix command); will crash early and loud if any problem on the contrary to awk||

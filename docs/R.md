@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|337|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
+|342|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
 |103|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
-|51|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
+|52|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
 |49|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2||
 |36|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
 |26|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
 |25|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
 |15|[@hoxo-m](https://github.com/hoxo-m)/[**dplyrr**](https://github.com/hoxo-m/dplyrr)|Utilities for comfortable use of dplyr with databases||
-|14|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
+|15|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
 |13|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RFinanceJ**](https://github.com/teramonagi/RFinanceJ)|Get the data related to finance in Japan using variety types of data sources||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RODBCDBI**](https://github.com/teramonagi/RODBCDBI)|An implementation of R's DBI interface using ODBC package as a back-end. This allows R to connect to any DBMS that has a ODBC driver.|[:arrow_upper_right:](https://cran.r-project.org/web/packages/RODBCDBI/index.html)|
@@ -33,6 +33,7 @@
 |6|[@uribo](https://github.com/uribo)/[**jpndistrict**](https://github.com/uribo/jpndistrict)|🗾 Create Japansese Administration Area Maps|[:arrow_upper_right:](http://uribo.github.io/jpndistrict)|
 |5|[@dritoshi](https://github.com/dritoshi)/[**genesearchr**](https://github.com/dritoshi/genesearchr)|Fast full-text search in NCBI RefSeq, UniProt-KB and Genome DNA sequence||
 |5|[@hoxo-m](https://github.com/hoxo-m)/[**lambdaR**](https://github.com/hoxo-m/lambdaR)|Novel lambda expressions in R|[:arrow_upper_right:](https://github.com/hoxo-m/lambdaR)|
+|5|[@uribo](https://github.com/uribo)/[**tst**](https://github.com/uribo/tst)|🔭 Precision Instrument for Geo Spatial Data 🌎||
 |5|[@uribo](https://github.com/uribo)/[**wakatimer**](https://github.com/uribo/wakatimer)|:hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.||
 |5|[@yutannihilation](https://github.com/yutannihilation)/[**wunderlistr**](https://github.com/yutannihilation/wunderlistr)|R bindings for Wunderlist API||
 |4|[@chezou](https://github.com/chezou)/[**sparkavro**](https://github.com/chezou/sparkavro)|Load Avro data into Spark with sparklyr||
@@ -56,5 +57,6 @@
 |3|[@teramonagi](https://github.com/teramonagi)/[**GlobalTokyoR1**](https://github.com/teramonagi/GlobalTokyoR1)|Souce codes for study meeting "Global Tokyo.R 1"||
 |3|[@teramonagi](https://github.com/teramonagi)/[**R-FRBData**](https://github.com/teramonagi/R-FRBData)|Download data from FRB's website||
 |3|[@ymyzk](https://github.com/ymyzk)/[**RTConnect**](https://github.com/ymyzk/RTConnect)|Tools for analyzing sales report files of iTunes Connect.|[:arrow_upper_right:](http://cran.r-project.org/web/packages/RTConnect/index.html)|
+|3|[@yutannihilation](https://github.com/yutannihilation)/[**mediumr**](https://github.com/yutannihilation/mediumr)|R Interface to Medium API||
 |3|[@yutannihilation](https://github.com/yutannihilation)/[**qiitaddin**](https://github.com/yutannihilation/qiitaddin)|An RStudio addin to post a knitted R Markdown file to Qiita||
 

@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|776|[@yuki-kimoto](https://github.com/yuki-kimoto)/[**gitprep**](https://github.com/yuki-kimoto/gitprep)|Portable GitHub system into your own server|[:arrow_upper_right:](http://gitprep.yukikimoto.com/)|
-|751|[@hokaccha](https://github.com/hokaccha)/[**nodebrew**](https://github.com/hokaccha/nodebrew)|Node.js version manager||
-|263|[@neubig](https://github.com/neubig)/[**nmt-tips**](https://github.com/neubig/nmt-tips)|A tutorial about neural machine translation including tips on building practical systems||
+|775|[@yuki-kimoto](https://github.com/yuki-kimoto)/[**gitprep**](https://github.com/yuki-kimoto/gitprep)|Portable GitHub system into your own server|[:arrow_upper_right:](http://gitprep.yukikimoto.com/)|
+|755|[@hokaccha](https://github.com/hokaccha)/[**nodebrew**](https://github.com/hokaccha/nodebrew)|Node.js version manager||
+|265|[@neubig](https://github.com/neubig)/[**nmt-tips**](https://github.com/neubig/nmt-tips)|A tutorial about neural machine translation including tips on building practical systems||
 |234|[@kazeburo](https://github.com/kazeburo)/[**GrowthForecast**](https://github.com/kazeburo/GrowthForecast)|Lightning Fast Graphing/Visualization|[:arrow_upper_right:](http://kazeburo.github.com/GrowthForecast/)|
-|197|[@neubig](https://github.com/neubig)/[**nlptutorial**](https://github.com/neubig/nlptutorial)|A Tutorial about Programming for Natural Language Processing||
+|200|[@neubig](https://github.com/neubig)/[**nlptutorial**](https://github.com/neubig/nlptutorial)|A Tutorial about Programming for Natural Language Processing||
 |171|[@naoya](https://github.com/naoya)/[**md2inao**](https://github.com/naoya/md2inao)|Convert markdown to inao-format for WEB+DB PRESS|[:arrow_upper_right:](http://md2inao.bloghackers.net/)|
 |156|[@s-aska](https://github.com/s-aska)/[**dropbox-api-command**](https://github.com/s-aska/dropbox-api-command)|command line interface to access Dropbox API||
 |149|[@tokuhirom](https://github.com/tokuhirom)/[**Amon**](https://github.com/tokuhirom/Amon)|yet another web application framework|[:arrow_upper_right:](http://amon.64p.org/)|
@@ -20,9 +20,9 @@
 |81|[@punchdrunker](https://github.com/punchdrunker)/[**iOSEmoji**](https://github.com/punchdrunker/iOSEmoji)|information about unicode6 emoji used in iOS5||
 |76|[@tagomoris](https://github.com/tagomoris)/[**fluent-agent-lite**](https://github.com/tagomoris/fluent-agent-lite)|Lightweight log delivery agent works w/ fluentd||
 |75|[@nekokak](https://github.com/nekokak)/[**p5-Teng**](https://github.com/nekokak/p5-Teng)|simple DBI wrapper/ORMapper|[:arrow_upper_right:](http://nekokak.org/)|
+|74|[@matschaffer](https://github.com/matschaffer)/[**profile**](https://github.com/matschaffer/profile)|My Bash profile||
+|74|[@tokuhirom](https://github.com/tokuhirom)/[**Minilla**](https://github.com/tokuhirom/Minilla)|Authorizing tool for CPAN modules|[:arrow_upper_right:](https://metacpan.org/release/Minilla)|
 |74|[@typester](https://github.com/typester)/[**ark-perl**](https://github.com/typester/ark-perl)|||
-|73|[@matschaffer](https://github.com/matschaffer)/[**profile**](https://github.com/matschaffer/profile)|My Bash profile||
-|73|[@tokuhirom](https://github.com/tokuhirom)/[**Minilla**](https://github.com/tokuhirom/Minilla)|Authorizing tool for CPAN modules|[:arrow_upper_right:](https://metacpan.org/release/Minilla)|
 |72|[@skaji](https://github.com/skaji)/[**cpm**](https://github.com/skaji/cpm)|fast CPAN module installer|[:arrow_upper_right:](https://metacpan.org/release/App-cpm)|
 |67|[@xaicron](https://github.com/xaicron)/[**mysqlenv**](https://github.com/xaicron/mysqlenv)|mysql binary manager||
 |66|[@kazeburo](https://github.com/kazeburo)/[**Kurado**](https://github.com/kazeburo/Kurado)|monitor metrics||
@@ -30,8 +30,8 @@
 |58|[@kazeburo](https://github.com/kazeburo)/[**Monoceros**](https://github.com/kazeburo/Monoceros)|PSGI/Plack server with event driven connection manager, preforking workers||
 |52|[@tokuhirom](https://github.com/tokuhirom)/[**Perl-Build**](https://github.com/tokuhirom/Perl-Build)|||
 |51|[@hatena](https://github.com/hatena)/[**Ridge**](https://github.com/hatena/Ridge)|||
+|51|[@tokuhirom](https://github.com/tokuhirom)/[**tora**](https://github.com/tokuhirom/tora)|Tora! Tora! Tora!||
 |50|[@tokuhirom](https://github.com/tokuhirom)/[**cpan-outdated**](https://github.com/tokuhirom/cpan-outdated)|detect outdated CPAN modules|[:arrow_upper_right:](http://xrl.us/cpanoutdated)|
-|50|[@tokuhirom](https://github.com/tokuhirom)/[**tora**](https://github.com/tokuhirom/tora)|Tora! Tora! Tora!||
 |49|[@motemen](https://github.com/motemen)/[**Wight**](https://github.com/motemen/Wight)|Communicate with PhantomJS in Perl (Capybara+Poltergeist to Perl)||
 |48|[@kazeburo](https://github.com/kazeburo)/[**HRForecast**](https://github.com/kazeburo/HRForecast)|||
 |47|[@kfdm](https://github.com/kfdm)/[**irssi-growl**](https://github.com/kfdm/irssi-growl)|Growl notification script for irssi|[:arrow_upper_right:](http://axman6.homeip.net/blog/growl-net-irssi-script-its-back.html)|
@@ -48,9 +48,9 @@
 |39|[@tokuhirom](https://github.com/tokuhirom)/[**teng-handbook**](https://github.com/tokuhirom/teng-handbook)|||
 |39|[@typester](https://github.com/typester)/[**kamaitachi**](https://github.com/typester/kamaitachi)|perl flash media server||
 |38|[@cooldaemon](https://github.com/cooldaemon)/[**RabbitFoot**](https://github.com/cooldaemon/RabbitFoot)|An asynchronous and multi channel Perl AMQP client. It uses Coro and AnyEvent::RabbitMQ.|[:arrow_upper_right:](http://search.cpan.org/~ikuta/Net-RabbitFoot/)|
+|37|[@Kimtaro](https://github.com/Kimtaro)/[**jisho.org**](https://github.com/Kimtaro/jisho.org)|The source for classic.jisho.org|[:arrow_upper_right:](http://jisho.org)|
 |37|[@dann](https://github.com/dann)/[**p5-cpan-packager**](https://github.com/dann/p5-cpan-packager)|CPAN::Packager is a tool to help you make packages from perl modules on CPAN.||
 |37|[@tokuhirom](https://github.com/tokuhirom)/[**Daiku**](https://github.com/tokuhirom/Daiku)|Yet another build tool on Perl5||
-|36|[@Kimtaro](https://github.com/Kimtaro)/[**jisho.org**](https://github.com/Kimtaro/jisho.org)|The source for classic.jisho.org|[:arrow_upper_right:](http://jisho.org)|
 |36|[@nekokak](https://github.com/nekokak)/[**qudo**](https://github.com/nekokak/qudo)|job queue system||
 |36|[@typester](https://github.com/typester)/[**perldojo**](https://github.com/typester/perldojo)|online perl testing!||
 |36|[@yusukebe](https://github.com/yusukebe)/[**App-revealup**](https://github.com/yusukebe/App-revealup)|HTTP Server app for viewing Markdown formatted text as slides|[:arrow_upper_right:](https://metacpan.org/pod/App::revealup)|
@@ -63,7 +63,7 @@
 |33|[@tokuhirom](https://github.com/tokuhirom)/[**p5-router-simple**](https://github.com/tokuhirom/p5-router-simple)|simple http router||
 |33|[@tomill](https://github.com/tomill)/[**Template-Semantic**](https://github.com/tomill/Template-Semantic)|Use pure XHTML/XML as a template|[:arrow_upper_right:](http://search.cpan.org/dist/Template-Semantic/)|
 |33|[@xaicron](https://github.com/xaicron)/[**p5-www-youtube-download**](https://github.com/xaicron/p5-www-youtube-download)|YouTube video download interface.|[:arrow_upper_right:](http://blog.livedoor.jp/xaicron/)|
-|31|[@matsuu](https://github.com/matsuu)/[**auwifispot-client**](https://github.com/matsuu/auwifispot-client)|au Wi-Fi SPOT CLI client||
+|32|[@matsuu](https://github.com/matsuu)/[**auwifispot-client**](https://github.com/matsuu/auwifispot-client)|au Wi-Fi SPOT CLI client||
 |31|[@tokuhirom](https://github.com/tokuhirom)/[**Test-TCP**](https://github.com/tokuhirom/Test-TCP)|Test::TCP for perl||
 |30|[@gfx](https://github.com/gfx)/[**p5-Mouse**](https://github.com/gfx/p5-Mouse)|Lightweight class builder as a subset of Moose|[:arrow_upper_right:](https://metacpan.org/release/Mouse)|
 |30|[@goccy](https://github.com/goccy)/[**p5-Compiler-Parser**](https://github.com/goccy/p5-Compiler-Parser)|Create Abstract Syntax Tree for Perl5||
@@ -90,6 +90,7 @@
 |25|[@cho45](https://github.com/cho45)/[**Niro**](https://github.com/cho45/Niro)|Blogging System for personal use written in Perl.||
 |25|[@lopnor](https://github.com/lopnor)/[**Plack-App-DAV**](https://github.com/lopnor/Plack-App-DAV)|simple DAV server for Plack||
 |25|[@mala](https://github.com/mala)/[**AnyEvent-Curl**](https://github.com/mala/AnyEvent-Curl)|AnyEvent + WWW::Curl||
+|25|[@skaji](https://github.com/skaji)/[**remote-pbcopy-iterm2**](https://github.com/skaji/remote-pbcopy-iterm2)|||
 |25|[@tokuhirom](https://github.com/tokuhirom)/[**OrePAN**](https://github.com/tokuhirom/OrePAN)|||
 |25|[@tokuhirom](https://github.com/tokuhirom)/[**menta**](https://github.com/tokuhirom/menta)|General extlib/ for CGI applications.||
 |24|[@lestrrat](https://github.com/lestrrat)/[**Plack-Handler-Mongrel2**](https://github.com/lestrrat/Plack-Handler-Mongrel2)|Plack Handler For Mongrel2||
@@ -100,7 +101,6 @@
 |23|[@kazeburo](https://github.com/kazeburo)/[**GreenBuckets**](https://github.com/kazeburo/GreenBuckets)|||
 |23|[@masaki](https://github.com/masaki)/[**Brownie**](https://github.com/masaki/Brownie)|Browser integration framework inspired by Capybara||
 |23|[@okinawarb](https://github.com/okinawarb)/[**faker-okinawa**](https://github.com/okinawarb/faker-okinawa)|Faker::Okinawa generates Okinawa fake data.||
-|23|[@skaji](https://github.com/skaji)/[**remote-pbcopy-iterm2**](https://github.com/skaji/remote-pbcopy-iterm2)|||
 |22|[@kazeburo](https://github.com/kazeburo)/[**Log-Minimal**](https://github.com/kazeburo/Log-Minimal)|Minimal Logger|[:arrow_upper_right:](http://search.cpan.org/dist/Log-Minimal/)|
 |22|[@kazuho](https://github.com/kazuho)/[**p5-text-microtemplate**](https://github.com/kazuho/p5-text-microtemplate)|Text::MicroTemplate||
 |22|[@tokuhirom](https://github.com/tokuhirom)/[**data-model-tutorial**](https://github.com/tokuhirom/data-model-tutorial)|the tutorial documents for Data::Model||
@@ -318,6 +318,7 @@
 |10|[@yoshiki](https://github.com/yoshiki)/[**perl-app-waffy**](https://github.com/yoshiki/perl-app-waffy)|Twitter proxy for iPhone, Mobile(jp) and IRC||
 |10|[@yusukebe](https://github.com/yusukebe)/[**Dropdown**](https://github.com/yusukebe/Dropdown)|Display Markdown on Dropbox as cool HTML.|[:arrow_upper_right:](http://yusukebe.com/)|
 |10|[@yusukebe](https://github.com/yusukebe)/[**TailF**](https://github.com/yusukebe/TailF)|Web Application like a "tail -f xxx" command for Twitter etc.|[:arrow_upper_right:](http://tail-f.net/)|
+|10|[@zcbenz](https://github.com/zcbenz)/[**dotfiles**](https://github.com/zcbenz/dotfiles)|My dotfiles for POSIX systems and cygwin.||
 |10|[@zentooo](https://github.com/zentooo)/[**Viyond**](https://github.com/zentooo/Viyond)|Viyond is Vim plugin manager which uses github as a repository. Use Viva if you use pathogen + git submodule||
 |9|[@alfasado](https://github.com/alfasado)/[**mt-plugin-post2facebook**](https://github.com/alfasado/mt-plugin-post2facebook)|Post entry to Facebook.||
 |9|[@dann](https://github.com/dann)/[**p5-plack-middleware-profiler-nytprof**](https://github.com/dann/p5-plack-middleware-profiler-nytprof)|profiler middleware||
@@ -366,7 +367,6 @@
 |9|[@upa](https://github.com/upa)/[**vrf-vyatta**](https://github.com/upa/vrf-vyatta)|Vyatta Virtual Routing and Forwarding extension using Network Namespace||
 |9|[@xaicron](https://github.com/xaicron)/[**Kagura**](https://github.com/xaicron/Kagura)|minimalistic web application framework||
 |9|[@ysasaki](https://github.com/ysasaki)/[**Text-Sass-XS**](https://github.com/ysasaki/Text-Sass-XS)|Perl Binding for libsass||
-|9|[@zcbenz](https://github.com/zcbenz)/[**dotfiles**](https://github.com/zcbenz/dotfiles)|My dotfiles for POSIX systems and cygwin.||
 |9|[@zigorou](https://github.com/zigorou)/[**perl-json-pointer**](https://github.com/zigorou/perl-json-pointer)|A JSON Pointer implementation for Perl||
 |8|[@Cside](https://github.com/Cside)/[**StartFromHatebu.crx**](https://github.com/Cside/StartFromHatebu.crx)|Chromeのスタートページをはてなブックマークの一覧に||
 |8|[@Hiroyuki-Nagata](https://github.com/Hiroyuki-Nagata)/[**foltia**](https://github.com/Hiroyuki-Nagata/foltia)|安定版は → https://github.com/Hiroyuki-Nagata/foltia/releases/tag/v1.0|[:arrow_upper_right:](http://www.dcc-jpl.com/soft/foltia/)|

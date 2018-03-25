@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|10682|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|1745|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|10735|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|1747|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
 |237|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |133|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
-|114|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
-|76|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
-|59|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
+|126|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
+|77|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
+|60|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
 |52|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-driver-detection**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
 |49|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
 |42|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb**](https://github.com/nagadomi/kaggle-ndsb)|Code for National Data Science Bowl. 10th place.||
@@ -15,6 +15,7 @@
 |32|[@kengonakajima](https://github.com/kengonakajima)/[**lua-msgpack**](https://github.com/kengonakajima/lua-msgpack)|msgpack implementation by pure Lua (5.1) works without LuajJIT and FFI.||
 |23|[@kengonakajima](https://github.com/kengonakajima)/[**luvit-mysql**](https://github.com/kengonakajima/luvit-mysql)|Luvit port of node-mysql||
 |21|[@hetima](https://github.com/hetima)/[**hammerspoon-hyperex**](https://github.com/hetima/hammerspoon-hyperex)|Hammerspoon configuration library which provides yet another modifier key.||
+|19|[@shirosaidev](https://github.com/shirosaidev)/[**sharesniffer**](https://github.com/shirosaidev/sharesniffer)|Network share sniffer and auto-mounter for crawling remote file systems||
 |18|[@kenchan](https://github.com/kenchan)/[**dotfiles**](https://github.com/kenchan/dotfiles)|kenchan's dotfiles.||
 |18|[@nitoyon](https://github.com/nitoyon)/[**lua-console-lightroom-plugin**](https://github.com/nitoyon/lua-console-lightroom-plugin)|"Lua Console" plugin for Lightroom 3.0+||
 |16|[@safx](https://github.com/safx)/[**LightroomPlugin-ClarifaiTagger**](https://github.com/safx/LightroomPlugin-ClarifaiTagger)|A Lightroom plugin suggests keywords of photo for you||

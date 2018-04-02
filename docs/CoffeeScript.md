@@ -1,24 +1,24 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|6605|[@yhatt](https://github.com/yhatt)/[**marp**](https://github.com/yhatt/marp)|Markdown presentation writer, powered by Electron.|[:arrow_upper_right:](https://yhatt.github.io/marp/)|
-|1122|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus**](https://github.com/t9md/atom-vim-mode-plus)|vim-mode improved|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus)|
-|676|[@iizukanao](https://github.com/iizukanao)/[**node-rtsp-rtmp-server**](https://github.com/iizukanao/node-rtsp-rtmp-server)|RTSP/RTMP/HTTP hybrid server||
-|428|[@fulmicoton](https://github.com/fulmicoton)/[**fattable**](https://github.com/fulmicoton/fattable)|Javascript Library to create scrollable table with infinite rows and columns.||
-|317|[@tmtk75](https://github.com/tmtk75)/[**jumly**](https://github.com/tmtk75/jumly)|Rendering engine for UML diagrams in JavaScript|[:arrow_upper_right:](http://jumly.tmtk.net/)|
-|292|[@cognitom](https://github.com/cognitom)/[**gulp-sketch**](https://github.com/cognitom/gulp-sketch)|A SketchTool plugin for gulp||
+|6630|[@yhatt](https://github.com/yhatt)/[**marp**](https://github.com/yhatt/marp)|Markdown presentation writer, powered by Electron.|[:arrow_upper_right:](https://yhatt.github.io/marp/)|
+|1132|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus**](https://github.com/t9md/atom-vim-mode-plus)|vim-mode improved|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus)|
+|680|[@iizukanao](https://github.com/iizukanao)/[**node-rtsp-rtmp-server**](https://github.com/iizukanao/node-rtsp-rtmp-server)|RTSP/RTMP/HTTP hybrid server||
+|429|[@fulmicoton](https://github.com/fulmicoton)/[**fattable**](https://github.com/fulmicoton/fattable)|Javascript Library to create scrollable table with infinite rows and columns.||
+|318|[@tmtk75](https://github.com/tmtk75)/[**jumly**](https://github.com/tmtk75/jumly)|Rendering engine for UML diagrams in JavaScript|[:arrow_upper_right:](http://jumly.tmtk.net/)|
+|293|[@cognitom](https://github.com/cognitom)/[**gulp-sketch**](https://github.com/cognitom/gulp-sketch)|A SketchTool plugin for gulp||
 |236|[@k2nr](https://github.com/k2nr)/[**ViChrome**](https://github.com/k2nr/ViChrome)|vi like key binds for Google Chrome||
 |218|[@mizchi](https://github.com/mizchi)/[**arda**](https://github.com/mizchi/arda)|Meta-Flux Framework||
+|196|[@yuki540net](https://github.com/yuki540net)/[**satella.io**](https://github.com/yuki540net/satella.io)|イラストに「命」を吹き込むソフトウェア||
 |192|[@increments](https://github.com/increments)/[**kobito-oss**](https://github.com/increments/kobito-oss)|Markdown Processor built on Electron based on kobito-for-windows||
-|189|[@yuki540net](https://github.com/yuki540net)/[**satella.io**](https://github.com/yuki540net/satella.io)|イラストに「命」を吹き込むソフトウェア||
 |122|[@yujinakayama](https://github.com/yujinakayama)/[**atom-lint**](https://github.com/yujinakayama/atom-lint)|Obsolete: Generic code linting support for Atom|[:arrow_upper_right:](https://atom.io/packages/atom-lint)|
 |109|[@knu](https://github.com/knu)/[**noreferrer**](https://github.com/knu/noreferrer)|Cross-browser support for HTML5's noreferrer link type.||
 |105|[@ashchan](https://github.com/ashchan)/[**safarikai**](https://github.com/ashchan/safarikai)|Safari extension for translating Japanese words.|[:arrow_upper_right:](http://ashchan.github.io/safarikai/)|
 |99|[@koba04](https://github.com/koba04)/[**vuejs-book**](https://github.com/koba04/vuejs-book)|This book is vue.js guide book.|[:arrow_upper_right:](http://koba04.github.io/vuejs-book)|
 |94|[@naoya](https://github.com/naoya)/[**hubot-sushiyuki**](https://github.com/naoya/hubot-sushiyuki)|||
 |89|[@aki77](https://github.com/aki77)/[**atom-expand-region**](https://github.com/aki77/atom-expand-region)|expanding selection|[:arrow_upper_right:](https://atom.io/packages/expand-region)|
+|88|[@yuki540net](https://github.com/yuki540net)/[**toa**](https://github.com/yuki540net/toa)|シンプルで可愛いミュージックプレイヤー「兎亜」||
 |87|[@tuvistavie](https://github.com/tuvistavie)/[**atomic-chrome-atom**](https://github.com/tuvistavie/atomic-chrome-atom)|Edit Chrome textareas in Atom|[:arrow_upper_right:](https://goo.gl/haazl1)|
-|86|[@yuki540net](https://github.com/yuki540net)/[**toa**](https://github.com/yuki540net/toa)|シンプルで可愛いミュージックプレイヤー「兎亜」||
-|76|[@cognitom](https://github.com/cognitom)/[**tokoro**](https://github.com/cognitom/tokoro)|住所緯度経度変換ライブラリ (ジオコーディング)|[:arrow_upper_right:](http://cognitom.github.io/tokoro/)|
+|77|[@cognitom](https://github.com/cognitom)/[**tokoro**](https://github.com/cognitom/tokoro)|住所緯度経度変換ライブラリ (ジオコーディング)|[:arrow_upper_right:](http://cognitom.github.io/tokoro/)|
 |76|[@lepture](https://github.com/lepture)/[**flask-turbolinks**](https://github.com/lepture/flask-turbolinks)|Turbolinks for Flask.||
 |75|[@satococoa](https://github.com/satococoa)/[**atom-rubymotion**](https://github.com/satococoa/atom-rubymotion)|RubyMotion support in Atom|[:arrow_upper_right:](https://atom.io/packages/RubyMotion)|
 |72|[@sakatam](https://github.com/sakatam)/[**hubot-reviewer-lotto**](https://github.com/sakatam/hubot-reviewer-lotto)|A reviewer lottery script for Hubot||
@@ -32,7 +32,7 @@
 |49|[@mizchi](https://github.com/mizchi)/[**horn.js**](https://github.com/mizchi/horn.js)|simple reactive view framework inspired by knockout, angular and backbone||
 |48|[@yuki540net](https://github.com/yuki540net)/[**Shuvi**](https://github.com/yuki540net/Shuvi)|フレームレスなYouTubeプレイヤー「Shuvi」||
 |47|[@sugi](https://github.com/sugi)/[**jquery-gcal-flow**](https://github.com/sugi/jquery-gcal-flow)|jQuery Google Calendar Flow plugin||
-|45|[@buhrmi](https://github.com/buhrmi)/[**hashgraph-js**](https://github.com/buhrmi/hashgraph-js)|A "proof-of-concept" hashgraph implementation on IPFS||
+|46|[@buhrmi](https://github.com/buhrmi)/[**hashgraph-js**](https://github.com/buhrmi/hashgraph-js)|A "proof-of-concept" hashgraph implementation on IPFS||
 |45|[@cognitom](https://github.com/cognitom)/[**symbol-font-in-web**](https://github.com/cognitom/symbol-font-in-web)|||
 |45|[@harai](https://github.com/harai)/[**indent-guide-improved**](https://github.com/harai/indent-guide-improved)|Improved indent guides for Atom Editor|[:arrow_upper_right:](https://atom.io/packages/indent-guide-improved)|
 |44|[@bouzuya](https://github.com/bouzuya)/[**hubot-twada**](https://github.com/bouzuya/hubot-twada)|A Hubot script that returns a t_wada.png||
@@ -50,9 +50,9 @@
 |30|[@bokuweb](https://github.com/bokuweb)/[**bmsjs**](https://github.com/bokuweb/bmsjs)|browser bms player project.|[:arrow_upper_right:](http://bokuweb.github.io/bmsjs)|
 |30|[@shokai](https://github.com/shokai)/[**nhk-news-app**](https://github.com/shokai/nhk-news-app)|auto play NHK News using node-webkit||
 |30|[@tricknotes](https://github.com/tricknotes)/[**nothub**](https://github.com/tricknotes/nothub)|Chrome Extension for GitHub Notification|[:arrow_upper_right:](http://nothub.org)|
+|30|[@umakoz](https://github.com/umakoz)/[**hubot-line**](https://github.com/umakoz/hubot-line)|A Hubot adapter for LINE.|[:arrow_upper_right:](https://www.npmjs.com/package/hubot-line)|
 |29|[@sebastibe](https://github.com/sebastibe)/[**brunch-django-examples**](https://github.com/sebastibe/brunch-django-examples)|Some examples of projects using Django and Brunch||
 |29|[@syon](https://github.com/syon)/[**atom-japanese-menu**](https://github.com/syon/atom-japanese-menu)|Atom のメニューバーとコンテキストメニュー、設定画面を日本語化します。|[:arrow_upper_right:](https://atom.io/packages/japanese-menu)|
-|29|[@umakoz](https://github.com/umakoz)/[**hubot-line**](https://github.com/umakoz/hubot-line)|A Hubot adapter for LINE.|[:arrow_upper_right:](https://www.npmjs.com/package/hubot-line)|
 |28|[@bokuweb](https://github.com/bokuweb)/[**ithildin**](https://github.com/bokuweb/ithildin)|Twitter Client built on Electron with Mithril.js||
 |28|[@geta6](https://github.com/geta6)/[**teitoku**](https://github.com/geta6/teitoku)|kancolle browser|[:arrow_upper_right:](http://makebooth.com/i/1xkN1)|
 |27|[@aki77](https://github.com/aki77)/[**atom-gist**](https://github.com/aki77/atom-gist)|create and insert Gists|[:arrow_upper_right:](https://atom.io/packages/gist)|
@@ -139,6 +139,7 @@
 |10|[@k2wanko](https://github.com/k2wanko)/[**nicoapi**](https://github.com/k2wanko/nicoapi)|Nico API is NiconicoAPI Client|[:arrow_upper_right:](https://www.npmjs.com/package/nicoapi)|
 |10|[@sorah](https://github.com/sorah)/[**hubot-zabbix**](https://github.com/sorah/hubot-zabbix)|||
 |10|[@toshimaru](https://github.com/toshimaru)/[**hubot-hanakin**](https://github.com/toshimaru/hubot-hanakin)|花金だーワッショーイ！テンションAGEAGEマック||
+|10|[@yuki540net](https://github.com/yuki540net)/[**nicoJS**](https://github.com/yuki540net/nicoJS)|ニコニコ風コメントを実装するライブラリ||
 |9|[@59naga](https://github.com/59naga)/[**jaggy**](https://github.com/59naga/jaggy)|Keep the sharpness for Pixel-Art.||
 |9|[@59naga](https://github.com/59naga)/[**nicolive**](https://github.com/59naga/nicolive)|Command Line Comment Viewer||
 |9|[@59naga](https://github.com/59naga)/[**pixel**](https://github.com/59naga/pixel)|Parse file to ImageData in cross-platform||
@@ -168,7 +169,6 @@
 |9|[@utatti](https://github.com/utatti)/[**party-hard**](https://github.com/utatti/party-hard)|Yet another useless Atom package to literally *party hard*|[:arrow_upper_right:](https://atom.io/packages/party-hard)|
 |9|[@ymrl](https://github.com/ymrl)/[**kincolle**](https://github.com/ymrl/kincolle)|禁これ Chrome Extension|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/%E7%A6%81%E3%81%93%E3%82%8C/lngkpddeahoeaidiapcheehjpkkdggjg)|
 |9|[@yuhiisk](https://github.com/yuhiisk)/[**starter-kit**](https://github.com/yuhiisk/starter-kit)|StarterKit for web devlopers.||
-|9|[@yuki540net](https://github.com/yuki540net)/[**nicoJS**](https://github.com/yuki540net/nicoJS)|ニコニコ風コメントを実装するライブラリ||
 |9|[@yusuke024](https://github.com/yusuke024)/[**drop-up**](https://github.com/yusuke024/drop-up)|Drag and drop image files to Atom, upload to Imgur and insert link, GitHub style.|[:arrow_upper_right:](https://atom.io/packages/drop-up)|
 |8|[@MisumiRize](https://github.com/MisumiRize)/[**GHCache**](https://github.com/MisumiRize/GHCache)|An example for implementing Flux architecture on Electron||
 |8|[@ashchan](https://github.com/ashchan)/[**japanese-coffee-kit**](https://github.com/ashchan/japanese-coffee-kit)|Tools for Japanese romanization, verb deinflection, etc.||
@@ -188,6 +188,7 @@
 |8|[@ngs](https://github.com/ngs)/[**hubot-hotpepper**](https://github.com/ngs/hubot-hotpepper)|Searches restaurants from Hotpepper with Hubot.|[:arrow_upper_right:](http://ja.ngs.io/2014/05/24/hubot-rws/)|
 |8|[@riaf](https://github.com/riaf)/[**gyazobank**](https://github.com/riaf/gyazobank)|Private Gyazo Server (s3)|[:arrow_upper_right:](http://engineering.otobank.co.jp/entry/2014/10/29/170800)|
 |8|[@soundTricker](https://github.com/soundTricker)/[**ScriptManager**](https://github.com/soundTricker/ScriptManager)|Script Manager of Google Apps Script / Apps Script Library||
+|8|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus-move-selected-text**](https://github.com/t9md/atom-vim-mode-plus-move-selected-text)|Move selected text like object|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus-move-selected-text)|
 |8|[@unasuke](https://github.com/unasuke)/[**do-not-use-atom**](https://github.com/unasuke/do-not-use-atom)|DO NOT USE ATOM! You should use vim or emacs. OK?||
 |8|[@ympbyc](https://github.com/ympbyc)/[**coffeehack**](https://github.com/ympbyc/coffeehack)|nethack-like game in browser. writing from scratch.||
 |8|[@yoshiori](https://github.com/yoshiori)/[**kamina**](https://github.com/yoshiori/kamina)|file watch and browser reload||
@@ -204,7 +205,6 @@
 |7|[@kamiyam](https://github.com/kamiyam)/[**grunt-livereload-starter**](https://github.com/kamiyam/grunt-livereload-starter)|grunt template livereload basic||
 |7|[@ktty1220](https://github.com/ktty1220)/[**sqlite3-webapi-kit**](https://github.com/ktty1220/sqlite3-webapi-kit)|SQLite3をデータベースサーバー化するNode.js用APIキット||
 |7|[@shokai](https://github.com/shokai)/[**blendmicro-node**](https://github.com/shokai/blendmicro-node)|Node.js module for BlendMicro/BLENano with BLE|[:arrow_upper_right:](https://www.npmjs.org/package/blendmicro)|
-|7|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus-move-selected-text**](https://github.com/t9md/atom-vim-mode-plus-move-selected-text)|Move selected text like object|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus-move-selected-text)|
 |7|[@udzura](https://github.com/udzura)/[**hubot-gmail-fetcher**](https://github.com/udzura/hubot-gmail-fetcher)|Hubot plugin to fetch Gmail||
 |7|[@uiureo](https://github.com/uiureo)/[**hubot-gyazo**](https://github.com/uiureo/hubot-gyazo)|hubot scripts for gyazo||
 |7|[@yasslab](https://github.com/yasslab)/[**atom-turnip-step**](https://github.com/yasslab/atom-turnip-step)|When in a feature file this will jump to the step definition for the current line.||
@@ -433,7 +433,6 @@
 |3|[@soundTricker](https://github.com/soundTricker)/[**gas-github**](https://github.com/soundTricker/gas-github)|Github API for Google Apps Script||
 |3|[@stomita](https://github.com/stomita)/[**lightning-template-coffeescript**](https://github.com/stomita/lightning-template-coffeescript)|Lightning framework template for building with coffeescript||
 |3|[@sugyan](https://github.com/sugyan)/[**genki-bot-slack**](https://github.com/sugyan/genki-bot-slack)|Hubot genkidashitebot for Slack||
-|3|[@t9md](https://github.com/t9md)/[**atom-markdown-toc-auto**](https://github.com/t9md/atom-markdown-toc-auto)|auto insert and update table of contents on save|[:arrow_upper_right:](https://atom.io/packages/markdown-toc-auto)|
 |3|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus-project-find-from-search**](https://github.com/t9md/atom-vim-mode-plus-project-find-from-search)|Seamless flow from vmp's search to find-and-replace's project-find|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus-project-find-from-search)|
 |3|[@tanakaworld](https://github.com/tanakaworld)/[**google-spreadsheets-parser**](https://github.com/tanakaworld/google-spreadsheets-parser)|Simple Google Spreadsheets parser for JavaScript||
 |3|[@thorikawa](https://github.com/thorikawa)/[**hubot-repl**](https://github.com/thorikawa/hubot-repl)|||

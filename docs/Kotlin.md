@@ -1,36 +1,36 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1590|[@kittinunf](https://github.com/kittinunf)/[**Fuel**](https://github.com/kittinunf/Fuel)|The easiest HTTP networking library for Kotlin/Android||
-|787|[@kiruto](https://github.com/kiruto)/[**debug-bottle**](https://github.com/kiruto/debug-bottle)|🍼Debug Bottle is an Android runtime debug / develop tools written using kotlin language.|[:arrow_upper_right:](http://exyui.com/article/3/Android-Debug-Bottle-v11)|
+|1610|[@kittinunf](https://github.com/kittinunf)/[**Fuel**](https://github.com/kittinunf/Fuel)|The easiest HTTP networking library for Kotlin/Android||
+|788|[@kiruto](https://github.com/kiruto)/[**debug-bottle**](https://github.com/kiruto/debug-bottle)|🍼Debug Bottle is an Android runtime debug / develop tools written using kotlin language.|[:arrow_upper_right:](http://exyui.com/article/3/Android-Debug-Bottle-v11)|
 |540|[@shiraji](https://github.com/shiraji)/[**permissions-dispatcher-plugin**](https://github.com/shiraji/permissions-dispatcher-plugin)|IntelliJ plugin for supporting PermissionsDispatcher|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/8349)|
 |403|[@konifar](https://github.com/konifar)/[**material-cat**](https://github.com/konifar/material-cat)|Cat photos app for Material Design Animation sample.||
-|261|[@kittinunf](https://github.com/kittinunf)/[**Result**](https://github.com/kittinunf/Result)|The modelling for success/failure of operations in Kotlin||
-|219|[@satorufujiwara](https://github.com/satorufujiwara)/[**kotlin-android-flux**](https://github.com/satorufujiwara/kotlin-android-flux)|Example of Android app with Flux and Kotlin and Dagger2 and famous libraries.||
-|203|[@hotchemi](https://github.com/hotchemi)/[**khronos**](https://github.com/hotchemi/khronos)|An intuitive Date extensions in Kotlin.|[:arrow_upper_right:](http://hotchemi.github.io/khronos)|
-|187|[@satorufujiwara](https://github.com/satorufujiwara)/[**kotlin-architecture-components**](https://github.com/satorufujiwara/kotlin-architecture-components)|This is a sample app that uses Android Architecture Components with Kotlin and Dagger 2.||
-|90|[@yshrsmz](https://github.com/yshrsmz)/[**monotweety**](https://github.com/yshrsmz/monotweety)|Simple Twitter Client just for tweeting, written in Kotlin with reactive MVVM-like approach||
-|82|[@kittinunf](https://github.com/kittinunf)/[**Fuse**](https://github.com/kittinunf/Fuse)|The simple generic LRU memory/disk cache for Android written in Kotlin||
-|70|[@siosio](https://github.com/siosio)/[**GradleDependenciesHelperPlugin**](https://github.com/siosio/GradleDependenciesHelperPlugin)|Gradleのdependencies内で、mavenからライブラリ検索して補完出来るプラグイン||
+|262|[@kittinunf](https://github.com/kittinunf)/[**Result**](https://github.com/kittinunf/Result)|The modelling for success/failure of operations in Kotlin||
+|218|[@satorufujiwara](https://github.com/satorufujiwara)/[**kotlin-android-flux**](https://github.com/satorufujiwara/kotlin-android-flux)|Example of Android app with Flux and Kotlin and Dagger2 and famous libraries.||
+|205|[@hotchemi](https://github.com/hotchemi)/[**khronos**](https://github.com/hotchemi/khronos)|An intuitive Date extensions in Kotlin.|[:arrow_upper_right:](http://hotchemi.github.io/khronos)|
+|188|[@satorufujiwara](https://github.com/satorufujiwara)/[**kotlin-architecture-components**](https://github.com/satorufujiwara/kotlin-architecture-components)|This is a sample app that uses Android Architecture Components with Kotlin and Dagger 2.||
+|89|[@yshrsmz](https://github.com/yshrsmz)/[**monotweety**](https://github.com/yshrsmz/monotweety)|Simple Twitter Client just for tweeting, written in Kotlin with reactive MVVM-like approach||
+|85|[@kittinunf](https://github.com/kittinunf)/[**Fuse**](https://github.com/kittinunf/Fuse)|The simple generic LRU memory/disk cache for Android written in Kotlin||
+|72|[@siosio](https://github.com/siosio)/[**GradleDependenciesHelperPlugin**](https://github.com/siosio/GradleDependenciesHelperPlugin)|Gradleのdependencies内で、mavenからライブラリ検索して補完出来るプラグイン||
+|70|[@shiraji](https://github.com/shiraji)/[**databinding-support**](https://github.com/shiraji/databinding-support)|Intellij plugin for supporting Android Data Binding Library|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/9271)|
 |68|[@kittinunf](https://github.com/kittinunf)/[**ReactiveAndroid**](https://github.com/kittinunf/ReactiveAndroid)|Reactive events and properties with RxJava for Android ||
-|61|[@shiraji](https://github.com/shiraji)/[**databinding-support**](https://github.com/shiraji/databinding-support)|Intellij plugin for supporting Android Data Binding Library|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/9271)|
-|61|[@sys1yagi](https://github.com/sys1yagi)/[**mastodon4j**](https://github.com/sys1yagi/mastodon4j)|mastodon client for java, kotlin https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md||
+|62|[@sys1yagi](https://github.com/sys1yagi)/[**mastodon4j**](https://github.com/sys1yagi/mastodon4j)|mastodon client for java, kotlin https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md||
 |59|[@seratch](https://github.com/seratch)/[**kotliquery**](https://github.com/seratch/kotliquery)|A handy Database access library in Kotlin||
 |58|[@ntaro](https://github.com/ntaro)/[**knit**](https://github.com/ntaro/knit)|JUnit API set for Kotlin||
 |49|[@androhi](https://github.com/androhi)/[**AndroidDrawableViewer**](https://github.com/androhi/AndroidDrawableViewer)|This plugin provide the function that see drawable resources of the android project.||
 |47|[@AAkira](https://github.com/AAkira)/[**ExoPlayerManager**](https://github.com/AAkira/ExoPlayerManager)|An android library that wraps the ExoPlayer and the IMA Android SDK which plays a video advertisement. This is written in Kotlin.||
+|47|[@satorufujiwara](https://github.com/satorufujiwara)/[**android-flux-architecture**](https://github.com/satorufujiwara/android-flux-architecture)|A showcase of Flux architecture patterns for Android apps.||
 |47|[@shiraji](https://github.com/shiraji)/[**emoji**](https://github.com/shiraji/emoji)|Intellij plugin for supporting Emoji completion|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/9174)|
-|46|[@satorufujiwara](https://github.com/satorufujiwara)/[**android-flux-architecture**](https://github.com/satorufujiwara/android-flux-architecture)|A showcase of Flux architecture patterns for Android apps.||
+|47|[@takahirom](https://github.com/takahirom)/[**debug-alter**](https://github.com/takahirom/debug-alter)|Alter Android app behavior without rebuild when debugging.||
 |46|[@shiraji](https://github.com/shiraji)/[**color-manager**](https://github.com/shiraji/color-manager)|Android color manager plugin for Android Studio/Intellij|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/8583)|
-|46|[@takahirom](https://github.com/takahirom)/[**debug-alter**](https://github.com/takahirom/debug-alter)|Alter Android app behavior without rebuild when debugging.||
 |41|[@shiraji](https://github.com/shiraji)/[**find-pull-request**](https://github.com/shiraji/find-pull-request)|Intellij plugin that jumps to the pull request page|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/8262)|
 |40|[@takuji31](https://github.com/takuji31)/[**Koreference**](https://github.com/takuji31/Koreference)|Android SharedPreference delegate property for Kotlin||
 |38|[@kittinunf](https://github.com/kittinunf)/[**Cookpit**](https://github.com/kittinunf/Cookpit)|Flickr Client implementation for Android/iOS with C++ core and Djinni||
 |36|[@kirimin](https://github.com/kirimin)/[**mitsumine**](https://github.com/kirimin/mitsumine)|Android用はてなブックマーククライアント||
-|28|[@kgmyshin](https://github.com/kgmyshin)/[**annict-android**](https://github.com/kgmyshin/annict-android)|||
-|27|[@siosio](https://github.com/siosio)/[**DomaSupport**](https://github.com/siosio/DomaSupport)|IntelliJ Doma support plugin.||
+|29|[@kgmyshin](https://github.com/kgmyshin)/[**annict-android**](https://github.com/kgmyshin/annict-android)|||
+|28|[@siosio](https://github.com/siosio)/[**DomaSupport**](https://github.com/siosio/DomaSupport)|IntelliJ Doma support plugin.||
+|22|[@wasabeef](https://github.com/wasabeef)/[**kotlin-mvvm**](https://github.com/wasabeef/kotlin-mvvm)|Sample for MVVM using Kotlin||
 |21|[@ksoichiro](https://github.com/ksoichiro)/[**Android-PageControl**](https://github.com/ksoichiro/Android-PageControl)|Clickable PageControl for Android apps.||
 |20|[@kirimin](https://github.com/kirimin)/[**WhoOnGitHub**](https://github.com/kirimin/WhoOnGitHub)|GitHub profile viewer written in Kotlin.||
-|20|[@wasabeef](https://github.com/wasabeef)/[**kotlin-mvvm**](https://github.com/wasabeef/kotlin-mvvm)|Sample for MVVM using Kotlin||
 |19|[@shogo4405](https://github.com/shogo4405)/[**HaishinKit.kt**](https://github.com/shogo4405/HaishinKit.kt)|[WIP]Camera and Microphone streaming library via RTMP for Android.||
 |18|[@kirimin](https://github.com/kirimin)/[**Annictroid**](https://github.com/kirimin/Annictroid)|Unofficial Annict client app for Android.|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=me.kirimin.annictroid)|
 |18|[@sys1yagi](https://github.com/sys1yagi)/[**kmockito**](https://github.com/sys1yagi/kmockito)|Mockito for Kotlin.||
@@ -47,10 +47,10 @@
 |13|[@pine](https://github.com/pine)/[**rxkotlin-collections**](https://github.com/pine/rxkotlin-collections)|:hatched_chick: Kotlin Collections Methods for RxJava2.|[:arrow_upper_right:](https://bintray.com/pinemz/maven/rxkotlin-collections/view)|
 |13|[@sys1yagi](https://github.com/sys1yagi)/[**implementation-of-async-request-with-rxjava2-or-coroutine**](https://github.com/sys1yagi/implementation-of-async-request-with-rxjava2-or-coroutine)|||
 |12|[@AAkira](https://github.com/AAkira)/[**DaggerInstantApps**](https://github.com/AAkira/DaggerInstantApps)|Instant apps sample using dagger2 android support.||
+|12|[@kobakei](https://github.com/kobakei)/[**Android-Kotlin-Example**](https://github.com/kobakei/Android-Kotlin-Example)|Android example written by Kotlin||
 |11|[@gfx](https://github.com/gfx)/[**OrmaWithKotlin**](https://github.com/gfx/OrmaWithKotlin)|Example Kotlin app for Orma|[:arrow_upper_right:](https://github.com/gfx/Android-Orma)|
 |11|[@kgmyshin](https://github.com/kgmyshin)/[**Qiitlin**](https://github.com/kgmyshin/Qiitlin)|||
 |11|[@kirimin](https://github.com/kirimin)/[**osero-kotlin**](https://github.com/kirimin/osero-kotlin)|Reversi game for Android written in Kotlin.||
-|11|[@kobakei](https://github.com/kobakei)/[**Android-Kotlin-Example**](https://github.com/kobakei/Android-Kotlin-Example)|Android example written by Kotlin||
 |10|[@TakuSemba](https://github.com/TakuSemba)/[**DribbbleKotlinApp**](https://github.com/TakuSemba/DribbbleKotlinApp)|this is a dribbble app written in kotlin||
 |10|[@cookpad](https://github.com/cookpad)/[**StringsPatcher**](https://github.com/cookpad/StringsPatcher)|An android lib for updating string resources on the fly||
 |10|[@int128](https://github.com/int128)/[**gradleupdate**](https://github.com/int128/gradleupdate)|Automatic Gradle Updater|[:arrow_upper_right:](https://gradleupdate.appspot.com)|
@@ -58,10 +58,10 @@
 |10|[@sakebook](https://github.com/sakebook)/[**MultiLineDivider**](https://github.com/sakebook/MultiLineDivider)|Multi divider in RecyclerView on Android.||
 |10|[@sakebook](https://github.com/sakebook)/[**aws_lambda_gradle_kotlin**](https://github.com/sakebook/aws_lambda_gradle_kotlin)|AWS Lambda with Kotlin sample||
 |9|[@Reyurnible](https://github.com/Reyurnible)/[**kotlin-sample-newsapp**](https://github.com/Reyurnible/kotlin-sample-newsapp)|Made in Full Kotlin project.||
+|9|[@kirimin](https://github.com/kirimin)/[**DroidKaigiKiriminDemoApp2018**](https://github.com/kirimin/DroidKaigiKiriminDemoApp2018)|DroidKaigi2018セッション「How to improve your MVP architecture and tests」用のサンプルアプリです。||
 |9|[@worker8](https://github.com/worker8)/[**learning-architecture-for-android**](https://github.com/worker8/learning-architecture-for-android)|||
 |8|[@hotchemi](https://github.com/hotchemi)/[**dexfm-android**](https://github.com/hotchemi/dexfm-android)|WIP||
 |8|[@keiji](https://github.com/keiji)/[**region_cropper**](https://github.com/keiji/region_cropper)|Help creating image dataset for machine learning.||
-|8|[@kirimin](https://github.com/kirimin)/[**DroidKaigiKiriminDemoApp2018**](https://github.com/kirimin/DroidKaigiKiriminDemoApp2018)|DroidKaigi2018セッション「How to improve your MVP architecture and tests」用のサンプルアプリです。||
 |8|[@numa08](https://github.com/numa08)/[**Gochisou**](https://github.com/numa08/Gochisou)|||
 |8|[@sakebook](https://github.com/sakebook)/[**Zipangu**](https://github.com/sakebook/Zipangu)|You can handle prefectures information more easily in Android.||
 |8|[@shiraji](https://github.com/shiraji)/[**intellij-plugin-with-gradle-wizard**](https://github.com/shiraji/intellij-plugin-with-gradle-wizard)|IntelliJ plugin that adds a wizard that creates a plugin module with gradle-intellij-plugin|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/8450)|
@@ -84,6 +84,7 @@
 |6|[@rejasupotaro](https://github.com/rejasupotaro)/[**logic-gate**](https://github.com/rejasupotaro/logic-gate)|Show how to train and how to run trained model using TensorFlow Mobile/Lite||
 |6|[@rejasupotaro](https://github.com/rejasupotaro)/[**onesky-gradle-plugin**](https://github.com/rejasupotaro/onesky-gradle-plugin)|||
 |6|[@sakebook](https://github.com/sakebook)/[**BottomNavigationViewSample**](https://github.com/sakebook/BottomNavigationViewSample)|BottomNavigation sample with support library.||
+|6|[@sys1yagi](https://github.com/sys1yagi)/[**alertdialog-channel**](https://github.com/sys1yagi/alertdialog-channel)|||
 |6|[@sys1yagi](https://github.com/sys1yagi)/[**goat-reader-2-android-prototype**](https://github.com/sys1yagi/goat-reader-2-android-prototype)|RSSリーダです。Kotlinで書いています。||
 |6|[@yuyakaido](https://github.com/yuyakaido)/[**Flow-Android**](https://github.com/yuyakaido/Flow-Android)|||
 |5|[@TakuSemba](https://github.com/TakuSemba)/[**RtmpPlayer**](https://github.com/TakuSemba/RtmpPlayer)|RTMP player on Android||
@@ -97,6 +98,7 @@
 |4|[@STAR-ZERO](https://github.com/STAR-ZERO)/[**paging-retrofit-sample**](https://github.com/STAR-ZERO/paging-retrofit-sample)|Paging Library + API(Retrofit) Sample||
 |4|[@backpaper0](https://github.com/backpaper0)/[**syobotsum**](https://github.com/backpaper0/syobotsum)|しょぼつむ･:*+.\(( °ω° ))/.:+|[:arrow_upper_right:](http://backpaper0.github.io/2014/12/24/syobotsum.html)|
 |4|[@ntaro](https://github.com/ntaro)/[**todolist-ktor**](https://github.com/ntaro/todolist-ktor)|||
+|4|[@quangctkm9207](https://github.com/quangctkm9207)/[**hoga**](https://github.com/quangctkm9207/hoga)|A mobile image box allows you to search and download free and beautiful pictures which you definitely love. ||
 |4|[@sys1yagi](https://github.com/sys1yagi)/[**nativechain-kotlin**](https://github.com/sys1yagi/nativechain-kotlin)|https://github.com/lhartikk/naivechain by kotlin||
 |4|[@sys1yagi](https://github.com/sys1yagi)/[**swipe-android**](https://github.com/sys1yagi/swipe-android)|It is implementation of the swipe on android.|[:arrow_upper_right:](https://github.com/snakajima/swipe/)|
 |4|[@tokuhirom](https://github.com/tokuhirom)/[**ktor-samples**](https://github.com/tokuhirom/ktor-samples)|||

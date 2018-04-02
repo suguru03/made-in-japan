@@ -9,11 +9,11 @@
 |10|[@suharahiromichi](https://github.com/suharahiromichi)/[**doc**](https://github.com/suharahiromichi/doc)|Documents||
 |9|[@matschaffer](https://github.com/matschaffer)/[**eulermonday**](https://github.com/matschaffer/eulermonday)|A shared repo to get peoples submissions for CIM's #eulermonday|[:arrow_upper_right:](http://projecteuler.net)|
 |7|[@mhayashi1120](https://github.com/mhayashi1120)/[**Gauche-net-twitter**](https://github.com/mhayashi1120/Gauche-net-twitter)|Twitter API access library for Gauche|[:arrow_upper_right:](http://practical-scheme.net/gauche/)|
+|7|[@okuoku](https://github.com/okuoku)/[**nausicaa**](https://github.com/okuoku/nausicaa)|collection of libraries for R6RS Scheme supporting Ikarus, Larceny, Mosh, Petite Chez, Vicare and Ypsilon|[:arrow_upper_right:](http://marcomaggi.github.com/nausicaa.html)|
 |7|[@okuoku](https://github.com/okuoku)/[**r7rs-bridge**](https://github.com/okuoku/r7rs-bridge)|R7RS libraries in R6RS library format||
 |6|[@ayamada](https://github.com/ayamada)/[**mplus-1mn-medium-16-fnt-tir**](https://github.com/ayamada/mplus-1mn-medium-16-fnt-tir)|A bitmap font contains japanese characters||
 |6|[@mokehehe](https://github.com/mokehehe)/[**3imp**](https://github.com/mokehehe/3imp)|Three Implementation Models for Scheme by R. Kent Dybvig||
 |6|[@mokehehe](https://github.com/mokehehe)/[**scm2js**](https://github.com/mokehehe/scm2js)|scheme to javascript translator|[:arrow_upper_right:](http://www.mokehehe.com/temp/scm2js/)|
-|6|[@okuoku](https://github.com/okuoku)/[**nausicaa**](https://github.com/okuoku/nausicaa)|collection of libraries for R6RS Scheme supporting Ikarus, Larceny, Mosh, Petite Chez, Vicare and Ypsilon|[:arrow_upper_right:](http://marcomaggi.github.com/nausicaa.html)|
 |6|[@okuoku](https://github.com/okuoku)/[**yuni**](https://github.com/okuoku/yuni)|R6RS/R7RS portability library||
 |5|[@ayamada](https://github.com/ayamada)/[**copy-of-svn.tir.jp**](https://github.com/ayamada/copy-of-svn.tir.jp)|||
 |5|[@cynthia](https://github.com/cynthia)/[**art_of_fighting_neogeo_mvs**](https://github.com/cynthia/art_of_fighting_neogeo_mvs)|Archive of the original source code for Art of Fighting (Neo-Geo and MVS).||

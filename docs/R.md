@@ -2,12 +2,12 @@
 |---|---|---|---|
 |342|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
 |103|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
-|52|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
-|49|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2||
+|54|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
+|50|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2||
 |36|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
 |26|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
-|25|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
+|26|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
 |15|[@hoxo-m](https://github.com/hoxo-m)/[**dplyrr**](https://github.com/hoxo-m/dplyrr)|Utilities for comfortable use of dplyr with databases||
 |15|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
 |13|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||

@@ -50,6 +50,7 @@
 |4|[@tanabe](https://github.com/tanabe)/[**JSFL**](https://github.com/tanabe/JSFL)|Flash JSFL commands.||
 |4|[@tkmr](https://github.com/tkmr)/[**as2js**](https://github.com/tkmr/as2js)|Object bridge from ActionScript 3.0 to JavaScript|[:arrow_upper_right:](http://blog.tkmr.org/as2js-test.html?twitter=tkmr&ustream=tkmr)|
 |3|[@axcelwork](https://github.com/axcelwork)/[**AXCELAS3**](https://github.com/axcelwork/AXCELAS3)|ASDoc : http://www.shift-style.org/asdoc|[:arrow_upper_right:](http://shift-style.org/blog)|
+|3|[@lyokato](https://github.com/lyokato)/[**as3mixivoice**](https://github.com/lyokato/as3mixivoice)|ActionScript 3.0 mixi voice client library||
 |3|[@mackato](https://github.com/mackato)/[**rialy-flex-framework**](https://github.com/mackato/rialy-flex-framework)|RIALY(from "Building RIAs Easily") is a lightweight design pattern tool kit for Adobe Flex.|[:arrow_upper_right:](http://github.com/mackato/rialy-flex-framework)|
 |3|[@nazo](https://github.com/nazo)/[**as3gamelib**](https://github.com/nazo/as3gamelib)|||
 |3|[@nitoyon](https://github.com/nitoyon)/[**hokkaido**](https://github.com/nitoyon/hokkaido)||[:arrow_upper_right:](http://d.hatena.ne.jp/nitoyon/20090415/hokkaido)|

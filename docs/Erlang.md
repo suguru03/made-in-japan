@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1148|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|1152|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
 |216|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
 |138|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |76|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
@@ -16,8 +16,8 @@
 |21|[@higepon](https://github.com/higepon)/[**memcached-client**](https://github.com/higepon/memcached-client)|A memcached client library for Erlang.||
 |21|[@norton](https://github.com/norton)/[**qc**](https://github.com/norton/qc)|Wrappers for QuickCheck and PropEr testing tools||
 |20|[@shino](https://github.com/shino)/[**kai**](https://github.com/shino/kai)|Kai is a distributed key-value datastore mainly inspired by Amazon's Dynamo. (fork from sourceforge)|[:arrow_upper_right:](https://sourceforge.net/apps/mediawiki/kai/index.php?title=Main_Page)|
+|20|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
 |19|[@cooldaemon](https://github.com/cooldaemon)/[**ermlia**](https://github.com/cooldaemon/ermlia)|The ermlia is Erlang implementation of Kademlia. This is easy key-value store.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/)|
-|19|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
 |19|[@voluntas](https://github.com/voluntas)/[**erlang_otp_self_study**](https://github.com/voluntas/erlang_otp_self_study)|||
 |18|[@sile](https://github.com/sile)/[**evel**](https://github.com/sile/evel)|An Eventual Leader Election Library for Erlang||
 |17|[@mururu](https://github.com/mururu)/[**erlang-mruby**](https://github.com/mururu/erlang-mruby)|[WIP] mruby on erlang||
@@ -53,10 +53,10 @@
 |7|[@hibari](https://github.com/hibari)/[**cluster-info**](https://github.com/hibari/cluster-info)||[:arrow_upper_right:](http://hibari.github.com/hibari-doc/)|
 |7|[@jj1bdx](https://github.com/jj1bdx)/[**exs64**](https://github.com/jj1bdx/exs64)|Xorshift64star for Erlang||
 |7|[@leo-project](https://github.com/leo-project)/[**leo_mq**](https://github.com/leo-project/leo_mq)|leo_mq is a local message-queueing library.|[:arrow_upper_right:](http://leo-project.net/leofs)|
+|7|[@leo-project](https://github.com/leo-project)/[**leo_pod**](https://github.com/leo-project/leo_pod)|leo_pod - A Fast Erlang worker pool manager|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@cooldaemon](https://github.com/cooldaemon)/[**BasicStudyForErlang**](https://github.com/cooldaemon/BasicStudyForErlang)|I study the Erlang over from the basics.||
 |6|[@leo-project](https://github.com/leo-project)/[**leo_logger**](https://github.com/leo-project/leo_logger)|leo_logger is a logging library for LeoFS and other Erlang applications. It has plugin-mechanism.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@leo-project](https://github.com/leo-project)/[**leo_ordning_reda**](https://github.com/leo-project/leo_ordning_reda)|leo_ordning_reda is a library to stack objects and  send stacked objects with async.|[:arrow_upper_right:](http://leo-project.net/leofs)|
-|6|[@leo-project](https://github.com/leo-project)/[**leo_pod**](https://github.com/leo-project/leo_pod)|leo_pod - A Fast Erlang worker pool manager|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@leo-project](https://github.com/leo-project)/[**leo_statistics**](https://github.com/leo-project/leo_statistics)|leo_statistics collects Erlang VM’s statistics and application’s statistics.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@leo-project](https://github.com/leo-project)/[**simplenfs**](https://github.com/leo-project/simplenfs)|NFS implementation by Erlang||
 |6|[@ytakano](https://github.com/ytakano)/[**ermdia**](https://github.com/ytakano/ermdia)|An implementation of DHT in Erlang.||
@@ -84,6 +84,7 @@
 |4|[@sile](https://github.com/sile)/[**erl-rtmpmsg**](https://github.com/sile/erl-rtmpmsg)|An Erlang library to encode/decode RTMP message||
 |4|[@sile](https://github.com/sile)/[**erl_pfds**](https://github.com/sile/erl_pfds)|An Erlang implementation of the data structures described in 『Purely Functional Data Structures』||
 |4|[@sile](https://github.com/sile)/[**mqttm**](https://github.com/sile/mqttm)|An Erlang library for encoding/decoding MQTT message ||
+|4|[@sile](https://github.com/sile)/[**rafte**](https://github.com/sile/rafte)|An Erlang implementation of the Raft consensus algorithm||
 |4|[@tkyk](https://github.com/tkyk)/[**erlang-exercise---**](https://github.com/tkyk/erlang-exercise---)|Programing Erlang 8.１１ exercise|[:arrow_upper_right:](http://wp.serpere.info/)|
 |4|[@voluntas](https://github.com/voluntas)/[**kappa**](https://github.com/voluntas/kappa)|kappa ("河童") is erlang hook application.||
 |4|[@voluntas](https://github.com/voluntas)/[**mnesia_key_cache**](https://github.com/voluntas/mnesia_key_cache)|Mnesia Key Cache||
@@ -106,7 +107,6 @@
 |3|[@sile](https://github.com/sile)/[**jaeger_passage**](https://github.com/sile/jaeger_passage)|Jaeger client library for Erlang||
 |3|[@sile](https://github.com/sile)/[**pfun**](https://github.com/sile/pfun)|Erlang Portable Functions||
 |3|[@sile](https://github.com/sile)/[**proxy**](https://github.com/sile/proxy)|An Erlang Process Proxy Library||
-|3|[@sile](https://github.com/sile)/[**rafte**](https://github.com/sile/rafte)|An Erlang implementation of the Raft consensus algorithm||
 |3|[@sile](https://github.com/sile)/[**recvbench**](https://github.com/sile/recvbench)|gen_tcp:recv banchmark ( Erlang)||
 |3|[@simulacre](https://github.com/simulacre)/[**rabbitmq-events**](https://github.com/simulacre/rabbitmq-events)|RabbitMQ plugin that publishes internal events||
 |3|[@siritori](https://github.com/siritori)/[**recrio**](https://github.com/siritori/recrio)|An open implementation MIPS R3000 in Erlang||

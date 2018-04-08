@@ -10,9 +10,9 @@
 |11|[@sorami](https://github.com/sorami)/[**DependencyParser.jl**](https://github.com/sorami/DependencyParser.jl)|Dependency parser written in Julia.||
 |9|[@r9y9](https://github.com/r9y9)/[**MelGeneralizedCepstrums.jl**](https://github.com/r9y9/MelGeneralizedCepstrums.jl)|Mel-Generalized Cepstrum analysis||
 |9|[@r9y9](https://github.com/r9y9)/[**SynthesisFilters.jl**](https://github.com/r9y9/SynthesisFilters.jl)|Speech waveform synthesis filters||
+|8|[@takuti](https://github.com/takuti)/[**Recommendation.jl**](https://github.com/takuti/Recommendation.jl)|Building recommender systems in Julia||
 |7|[@bicycle1885](https://github.com/bicycle1885)/[**CodecZlib.jl**](https://github.com/bicycle1885/CodecZlib.jl)|zlib codecs for TranscodingStreams.jl.||
 |7|[@r9y9](https://github.com/r9y9)/[**SPTK.jl**](https://github.com/r9y9/SPTK.jl)|A thin Julia wrapper for Speech Signal Processing Toolkit (SPTK) API||
-|7|[@takuti](https://github.com/takuti)/[**Recommendation.jl**](https://github.com/takuti/Recommendation.jl)|Building recommender systems in Julia||
 |6|[@r9y9](https://github.com/r9y9)/[**ConstantQ.jl**](https://github.com/r9y9/ConstantQ.jl)|A fast constant-q transform in Julia||
 |5|[@vchuravy](https://github.com/vchuravy)/[**IACA.jl**](https://github.com/vchuravy/IACA.jl)|A wrapper for Intel Architecture Code Analyzer for Julia||
 |4|[@bicycle1885](https://github.com/bicycle1885)/[**ANMS.jl**](https://github.com/bicycle1885/ANMS.jl)|Adaptive Nelder-Mead Simplex Optimization||
@@ -27,4 +27,5 @@
 |3|[@bicycle1885](https://github.com/bicycle1885)/[**docker-biojulia**](https://github.com/bicycle1885/docker-biojulia)|Dockerfile for BioJulia||
 |3|[@nzw0301](https://github.com/nzw0301)/[**TopicModels.jl**](https://github.com/nzw0301/TopicModels.jl)|||
 |3|[@r9y9](https://github.com/r9y9)/[**julia-nmf-ss-toy**](https://github.com/r9y9/julia-nmf-ss-toy)|NMF-based Music Source Separation Demo in Julia||
+|3|[@yuifu](https://github.com/yuifu)/[**FastqSubsample**](https://github.com/yuifu/FastqSubsample)|Subsample reads in FASTQ formt using Julia||
 

@@ -1,20 +1,25 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
+|3512|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
+|382|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
 |73|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |62|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
 |53|[@taikomatsu](https://github.com/taikomatsu)/[**SeExprMeshMaya**](https://github.com/taikomatsu/SeExprMeshMaya)|Polygon deformer node plugin for Maya that using Disney's SeExpr||
+|49|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |32|[@mzp](https://github.com/mzp)/[**ocaml-hoogle**](https://github.com/mzp/ocaml-hoogle)|OCaml API search allows you to search many standard O'Caml libraries by either function name, or by approximate type signature. It is similar to Hoogle, which is a Haskell API search engine.
 
 You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)|
 |26|[@kuy](https://github.com/kuy)/[**reason-of-life**](https://github.com/kuy/reason-of-life)|Conway's Lifegame in Reason + reason-react with webpack + bs-loader.||
 |23|[@UnixJunkie](https://github.com/UnixJunkie)/[**dolog**](https://github.com/UnixJunkie/dolog)|A dumb OCaml logger||
 |19|[@mzp](https://github.com/mzp)/[**bs-lwt**](https://github.com/mzp/bs-lwt)|BuckleScript bindings for Lwt||
+|18|[@BYVoid](https://github.com/BYVoid)/[**Dlist**](https://github.com/BYVoid/Dlist)|Difference list library for OCaml||
 |16|[@UnixJunkie](https://github.com/UnixJunkie)/[**daft**](https://github.com/UnixJunkie/daft)|DAFT Allows File Transfers||
 |16|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|parallelize anything||
 |15|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
 |15|[@mzp](https://github.com/mzp)/[**websocket-ocaml**](https://github.com/mzp/websocket-ocaml)|WebSocket Server for OCaml|[:arrow_upper_right:](http://eva-lu-ator.net/redmine/projects/websocket-ocaml)|
+|14|[@BYVoid](https://github.com/BYVoid)/[**OCamlProblems**](https://github.com/BYVoid/OCamlProblems)|Solutions of Problems in OCaml||
+|14|[@ksuenaga](https://github.com/ksuenaga)/[**IoPLMaterials**](https://github.com/ksuenaga/IoPLMaterials)|Materials for the class "Implementation of Programming Languages" in Kyoto University.||
 |13|[@UnixJunkie](https://github.com/UnixJunkie)/[**bisec-tree**](https://github.com/UnixJunkie/bisec-tree)|Bisector tree implementation in OCaml||
-|13|[@ksuenaga](https://github.com/ksuenaga)/[**IoPLMaterials**](https://github.com/ksuenaga/IoPLMaterials)|Materials for the class "Implementation of Programming Languages" in Kyoto University.||
 |13|[@mzp](https://github.com/mzp)/[**msgpack-ocaml**](https://github.com/mzp/msgpack-ocaml)|MessagePack for OCaml/Coq|[:arrow_upper_right:](http://mzp.github.com/msgpack-ocaml/refman)|
 |12|[@AltGr](https://github.com/AltGr)/[**Camelus**](https://github.com/AltGr/Camelus)|Bot posting reports on opam-repository pull-request using a web hook||
 |12|[@UnixJunkie](https://github.com/UnixJunkie)/[**ACPC**](https://github.com/UnixJunkie/ACPC)|Chemoinformatics tool for ligand-based virtual screening||
@@ -30,12 +35,12 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |8|[@mzp](https://github.com/mzp)/[**coq-for-ipad**](https://github.com/mzp/coq-for-ipad)|||
 |8|[@mzp](https://github.com/mzp)/[**min-caml**](https://github.com/mzp/min-caml)|min-caml[forked]|[:arrow_upper_right:](http://min-caml.sourceforge.net/)|
 |8|[@mzp](https://github.com/mzp)/[**scheme-abc**](https://github.com/mzp/scheme-abc)|Scheme compiler for ActionScript3 Bytecode/Flash|[:arrow_upper_right:](http://happyabc.org)|
-|8|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |7|[@UnixJunkie](https://github.com/UnixJunkie)/[**interval-tree**](https://github.com/UnixJunkie/interval-tree)|tree for float intervals||
 |7|[@UnixJunkie](https://github.com/UnixJunkie)/[**orxgboost**](https://github.com/UnixJunkie/orxgboost)|Gradient boosting for OCaml using the R xgboost package under the carpet||
 |7|[@mzp](https://github.com/mzp)/[**trello.md**](https://github.com/mzp/trello.md)|📋Copy trello board information to clipboard as markdown format.|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/trellomd/ibjelhogbfmmcpdblpjipdpmaocngjdm)|
 |7|[@zick](https://github.com/zick)/[**OCamLisp**](https://github.com/zick/OCamLisp)|Lisp implementation in OCaml||
 |6|[@AltGr](https://github.com/AltGr)/[**Contre-jour**](https://github.com/AltGr/Contre-jour)|A toy image gallery application for OPA||
+|6|[@kogai](https://github.com/kogai)/[**typed_i18n**](https://github.com/kogai/typed_i18n)|Generate strictly typed definition of TFunction from own i18next-locale file||
 |6|[@kuy](https://github.com/kuy)/[**nada.re**](https://github.com/kuy/nada.re)|Visualization of Abelian sandpile model written in Reason + Obelisk.js.||
 |6|[@master-q](https://github.com/master-q)/[**readPurelyFunctionalDataStructures**](https://github.com/master-q/readPurelyFunctionalDataStructures)|||
 |5|[@AltGr](https://github.com/AltGr)/[**ocp-sha**](https://github.com/AltGr/ocp-sha)|Pure OCaml implementation of SHA256 and SHA512||
@@ -58,6 +63,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |4|[@komamitsu](https://github.com/komamitsu)/[**OCaml-minilisp**](https://github.com/komamitsu/OCaml-minilisp)|mini lisp in OCaml||
 |4|[@mzp](https://github.com/mzp)/[**coq-ide-for-ios**](https://github.com/mzp/coq-ide-for-ios)|||
 |4|[@mzp](https://github.com/mzp)/[**coq-js**](https://github.com/mzp/coq-js)|||
+|4|[@susisu](https://github.com/susisu)/[**est-ocaml**](https://github.com/susisu/est-ocaml)|A simple command line tool for statistical calculation||
 |4|[@tyage](https://github.com/tyage)/[**experiment-4-ocaml**](https://github.com/tyage/experiment-4-ocaml)|計算機科学実験及演習4 プログラム検証||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**orc4**](https://github.com/UnixJunkie/orc4)|RC4 implementation in OCaml||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**orsvm-e1071**](https://github.com/UnixJunkie/orsvm-e1071)|Access the Linear or RBF kernel SVM from OCaml using the R e1071 package under the carpet||
@@ -65,10 +71,11 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |3|[@keigoi](https://github.com/keigoi)/[**olt_ocaml**](https://github.com/keigoi/olt_ocaml)|An encoding of Ordered Linear Types in OCaml||
 |3|[@khibino](https://github.com/khibino)/[**pfds**](https://github.com/khibino/pfds)|Codes for the book "Purely Functional Data Structure"|[:arrow_upper_right:](http://twitter.com/khibino)|
 |3|[@kw-udon](https://github.com/kw-udon)/[**min-rt-c**](https://github.com/kw-udon/min-rt-c)|Port of min-rt to ANSI-C||
+|3|[@masashi-y](https://github.com/masashi-y)/[**ppx_deriving_argparse**](https://github.com/masashi-y/ppx_deriving_argparse)|Very simple ppx deriver for command line parser||
 |3|[@mzp](https://github.com/mzp)/[**asig**](https://github.com/mzp/asig)|AsakusaSatellite IRC Gateway|[:arrow_upper_right:](https://github.com/mzp/asig/wiki)|
 |3|[@mzp](https://github.com/mzp)/[**happyabc**](https://github.com/mzp/happyabc)|HappyABC driver & release script|[:arrow_upper_right:](http://happyabc.org)|
-|3|[@susisu](https://github.com/susisu)/[**est-ocaml**](https://github.com/susisu/est-ocaml)|A simple command line tool for statistical calculation||
 |3|[@takano32](https://github.com/takano32)/[**myocaml**](https://github.com/takano32/myocaml)|My OCaml Scripts.||
 |3|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocaml_parsec**](https://github.com/yoshihiro503/ocaml_parsec)|parser library for ocaml like Parsec||
 |3|[@yutopp](https://github.com/yutopp)/[**SemiCaml**](https://github.com/yutopp/SemiCaml)|MinMinCaml→蝉Caml||
+|3|[@zaki-joho](https://github.com/zaki-joho)/[**ProLangTest**](https://github.com/zaki-joho/ProLangTest)|プロ言の単位、欲しい！|[:arrow_upper_right:](https://github.com/aigarashi/PL-LectureNotes)|
 

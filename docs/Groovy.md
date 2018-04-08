@@ -34,10 +34,10 @@
 |7|[@mike-neck](https://github.com/mike-neck)/[**slim3-gradle**](https://github.com/mike-neck/slim3-gradle)|gradle build file and slim3 sample||
 |6|[@PoohSunny](https://github.com/PoohSunny)/[**geb-study**](https://github.com/PoohSunny/geb-study)|||
 |6|[@int128](https://github.com/int128)/[**feign-oauth2-example**](https://github.com/int128/feign-oauth2-example)|Example of Spring Cloud Feign and Spring Security OAuth2||
+|6|[@kimukou](https://github.com/kimukou)/[**griffontest**](https://github.com/kimukou/griffontest)|groovy griffon||
 |6|[@kiy0taka](https://github.com/kiy0taka)/[**groovy-consoles**](https://github.com/kiy0taka/groovy-consoles)||[:arrow_upper_right:](http://d.hatena.ne.jp/kiy0taka/)|
 |6|[@making](https://github.com/making)/[**spring-boot-demo-jvm-languages**](https://github.com/making/spring-boot-demo-jvm-languages)|Spring Boot Hello World project using some JVM languages||
 |6|[@operando](https://github.com/operando)/[**gradle-zundokokiyoshi-plugin**](https://github.com/operando/gradle-zundokokiyoshi-plugin)|gradle zundokokiyoshi plugin||
-|5|[@kimukou](https://github.com/kimukou)/[**griffontest**](https://github.com/kimukou/griffontest)|groovy griffon||
 |5|[@nobeans](https://github.com/nobeans)/[**groovy-osgi-sample**](https://github.com/nobeans/groovy-osgi-sample)|Sample of OSGi powered by Groovy and Gradle||
 |5|[@uehaj](https://github.com/uehaj)/[**groovy-optional**](https://github.com/uehaj/groovy-optional)|Extension module which enhances handilng of Java8's Optional Class in Groovy||
 |5|[@wadahiro](https://github.com/wadahiro)/[**gradle-samples**](https://github.com/wadahiro/gradle-samples)|||

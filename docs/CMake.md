@@ -2,8 +2,8 @@
 |---|---|---|---|
 |13|[@DaikiMaekawa](https://github.com/DaikiMaekawa)/[**hector_slam_example**](https://github.com/DaikiMaekawa/hector_slam_example)|Example for using openni or UTM-30LX with hector_slam of ROS node|[:arrow_upper_right:](http://daikimaekawa.github.io/ros/2014/04/03/HectorSLAM/)|
 |13|[@open-rdc](https://github.com/open-rdc)/[**orne_navigation**](https://github.com/open-rdc/orne_navigation)|This repository provides mobile navigation system with i-Cart mini for Tsukuba Challenge under Project ORNE.||
+|9|[@wolfv](https://github.com/wolfv)/[**xtensor_ros**](https://github.com/wolfv/xtensor_ros)|ROS (Robot Operating System) bindings for xtensor, the multidimensional linear algebra library||
 |8|[@kunalkushwaha](https://github.com/kunalkushwaha)/[**wingpanel-indicator-weather**](https://github.com/kunalkushwaha/wingpanel-indicator-weather)|Weather app for elementary os ||
-|8|[@wolfv](https://github.com/wolfv)/[**xtensor_ros**](https://github.com/wolfv/xtensor_ros)|ROS (Robot Operating System) bindings for xtensor, the multidimensional linear algebra library||
 |7|[@karupanerura](https://github.com/karupanerura)/[**c-git-git**](https://github.com/karupanerura/c-git-git)|git git git git git git git git status|[:arrow_upper_right:](https://twitter.com/hitode909/status/584997211345289216)|
 |6|[@charmie11](https://github.com/charmie11)/[**PTAMonUbuntu14.04**](https://github.com/charmie11/PTAMonUbuntu14.04)|a bash script and patches to compile PTAM (Parallel Tracking and Mapping) on Ubuntu 14.04 with CMake||
 |5|[@flokart-world](https://github.com/flokart-world)/[**cmake-supports**](https://github.com/flokart-world/cmake-supports)|A collection of utilities for creating projects with CMake scripts.||

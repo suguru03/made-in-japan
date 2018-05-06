@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|67|[@hakatashi](https://github.com/hakatashi)/[**unicode-map**](https://github.com/hakatashi/unicode-map)|The Unicode Map Project||
+|68|[@hakatashi](https://github.com/hakatashi)/[**unicode-map**](https://github.com/hakatashi/unicode-map)|The Unicode Map Project||
 |21|[@hakatashi](https://github.com/hakatashi)/[**slack-ikku**](https://github.com/hakatashi/slack-ikku)|一句||
 |9|[@polm](https://github.com/polm)/[**palladian-facades**](https://github.com/polm/palladian-facades)|Palladian Facade Generator for ProcJam2015||
 |5|[@hakatashi](https://github.com/hakatashi)/[**chars**](https://github.com/hakatashi/chars)|“Semmantically-correct” JavaScript module to split string into array of characters.||

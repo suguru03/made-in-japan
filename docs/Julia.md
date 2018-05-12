@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|30|[@r9y9](https://github.com/r9y9)/[**VoiceConversion.jl**](https://github.com/r9y9/VoiceConversion.jl)|[Deprecated] Statistical Voice Conversion in Julia. See the website link for new library|[:arrow_upper_right:](https://github.com/r9y9/nnmnkwii)|
+|31|[@r9y9](https://github.com/r9y9)/[**VoiceConversion.jl**](https://github.com/r9y9/VoiceConversion.jl)|[Deprecated] Statistical Voice Conversion in Julia. See the website link for new library|[:arrow_upper_right:](https://github.com/r9y9/nnmnkwii)|
 |23|[@bicycle1885](https://github.com/bicycle1885)/[**RandomForests.jl**](https://github.com/bicycle1885/RandomForests.jl)|Random Forests in Julia||
 |22|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
 |16|[@bicycle1885](https://github.com/bicycle1885)/[**TranscodingStreams.jl**](https://github.com/bicycle1885/TranscodingStreams.jl)|Simple, consistent interfaces for any codec.||
@@ -10,7 +10,7 @@
 |11|[@sorami](https://github.com/sorami)/[**DependencyParser.jl**](https://github.com/sorami/DependencyParser.jl)|Dependency parser written in Julia.||
 |9|[@r9y9](https://github.com/r9y9)/[**MelGeneralizedCepstrums.jl**](https://github.com/r9y9/MelGeneralizedCepstrums.jl)|Mel-Generalized Cepstrum analysis||
 |9|[@r9y9](https://github.com/r9y9)/[**SynthesisFilters.jl**](https://github.com/r9y9/SynthesisFilters.jl)|Speech waveform synthesis filters||
-|8|[@takuti](https://github.com/takuti)/[**Recommendation.jl**](https://github.com/takuti/Recommendation.jl)|Building recommender systems in Julia||
+|9|[@takuti](https://github.com/takuti)/[**Recommendation.jl**](https://github.com/takuti/Recommendation.jl)|Building recommender systems in Julia||
 |7|[@bicycle1885](https://github.com/bicycle1885)/[**CodecZlib.jl**](https://github.com/bicycle1885/CodecZlib.jl)|zlib codecs for TranscodingStreams.jl.||
 |7|[@r9y9](https://github.com/r9y9)/[**SPTK.jl**](https://github.com/r9y9/SPTK.jl)|A thin Julia wrapper for Speech Signal Processing Toolkit (SPTK) API||
 |6|[@r9y9](https://github.com/r9y9)/[**ConstantQ.jl**](https://github.com/r9y9/ConstantQ.jl)|A fast constant-q transform in Julia||

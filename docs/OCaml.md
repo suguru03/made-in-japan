@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3525|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
-|421|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
-|73|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
+|3533|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
+|427|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|74|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |62|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
+|53|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |53|[@taikomatsu](https://github.com/taikomatsu)/[**SeExprMeshMaya**](https://github.com/taikomatsu/SeExprMeshMaya)|Polygon deformer node plugin for Maya that using Disney's SeExpr||
-|52|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |32|[@mzp](https://github.com/mzp)/[**ocaml-hoogle**](https://github.com/mzp/ocaml-hoogle)|OCaml API search allows you to search many standard O'Caml libraries by either function name, or by approximate type signature. It is similar to Hoogle, which is a Haskell API search engine.
 
 You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)|
@@ -44,13 +44,13 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |6|[@kogai](https://github.com/kogai)/[**typed_i18n**](https://github.com/kogai/typed_i18n)|Generate strictly typed definition of TFunction from own i18next-locale file||
 |6|[@kuy](https://github.com/kuy)/[**nada.re**](https://github.com/kuy/nada.re)|Visualization of Abelian sandpile model written in Reason + Obelisk.js.||
 |6|[@master-q](https://github.com/master-q)/[**readPurelyFunctionalDataStructures**](https://github.com/master-q/readPurelyFunctionalDataStructures)|||
+|6|[@susisu](https://github.com/susisu)/[**est-ocaml**](https://github.com/susisu/est-ocaml)|A simple command line tool for statistical calculation||
 |5|[@AltGr](https://github.com/AltGr)/[**ocp-sha**](https://github.com/AltGr/ocp-sha)|Pure OCaml implementation of SHA256 and SHA512||
 |5|[@AltGr](https://github.com/AltGr)/[**opam-lock**](https://github.com/AltGr/opam-lock)|Create locked opam files to share build environments across hosts||
 |5|[@UnixJunkie](https://github.com/UnixJunkie)/[**consent**](https://github.com/UnixJunkie/consent)|ligand-based virtual screening with consensus queries||
 |5|[@UnixJunkie](https://github.com/UnixJunkie)/[**get_line**](https://github.com/UnixJunkie/get_line)|get line at index i from file f (a missing unix command); will crash early and loud if any problem on the contrary to awk||
 |5|[@komamitsu](https://github.com/komamitsu)/[**OCatra**](https://github.com/komamitsu/OCatra)|Simple web server library for OCaml like Sinatra||
 |5|[@nineties](https://github.com/nineties)/[**puref**](https://github.com/nineties/puref)|Simple purely functional language.||
-|5|[@susisu](https://github.com/susisu)/[**est-ocaml**](https://github.com/susisu/est-ocaml)|A simple command line tool for statistical calculation||
 |5|[@ymyzk](https://github.com/ymyzk)/[**gsrinfer**](https://github.com/ymyzk/gsrinfer)|A type reconstruction algorithm implementation for the implicitly and gradually typed language with shift and reset|[:arrow_upper_right:](https://gsrinfer.ymyzk.com)|
 |5|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocaml_asm**](https://github.com/yoshihiro503/ocaml_asm)|GNU as library for ocaml||
 |5|[@yutopp](https://github.com/yutopp)/[**loga**](https://github.com/yutopp/loga)|Logging library for OCaml||

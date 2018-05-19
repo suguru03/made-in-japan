@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|43|[@jhorology](https://github.com/jhorology)/[**nks-presets-collection**](https://github.com/jhorology/nks-presets-collection)|NKS(Native Kontrol Standard) presets collection||
+|44|[@jhorology](https://github.com/jhorology)/[**nks-presets-collection**](https://github.com/jhorology/nks-presets-collection)|NKS(Native Kontrol Standard) presets collection||
 |27|[@clicktx](https://github.com/clicktx)/[**eccube-on-bootstrap3**](https://github.com/clicktx/eccube-on-bootstrap3)|Bootstrap3を使ったEC-CUBE用のデザインテンプレート||
 |9|[@tkak](https://github.com/tkak)/[**terraform-coreos-docker-swarm-cluster**](https://github.com/tkak/terraform-coreos-docker-swarm-cluster)|Terraform + CoreOS + Docker Swarm cluster example||
 |7|[@int128](https://github.com/int128)/[**kubernetes-dashboard-proxy**](https://github.com/int128/kubernetes-dashboard-proxy)|Protect the Kubernetes Dashboard with OpenID Connect (OIDC) by the reverse proxy||

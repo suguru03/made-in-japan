@@ -3,8 +3,8 @@
 |68|[@hakatashi](https://github.com/hakatashi)/[**unicode-map**](https://github.com/hakatashi/unicode-map)|The Unicode Map Project||
 |21|[@hakatashi](https://github.com/hakatashi)/[**slack-ikku**](https://github.com/hakatashi/slack-ikku)|一句||
 |9|[@polm](https://github.com/polm)/[**palladian-facades**](https://github.com/polm/palladian-facades)|Palladian Facade Generator for ProcJam2015||
+|6|[@hakatashi](https://github.com/hakatashi)/[**kindlegen**](https://github.com/hakatashi/kindlegen)|Simple Node.js wrapper for kindlegen program||
 |5|[@hakatashi](https://github.com/hakatashi)/[**chars**](https://github.com/hakatashi/chars)|“Semmantically-correct” JavaScript module to split string into array of characters.||
-|5|[@hakatashi](https://github.com/hakatashi)/[**kindlegen**](https://github.com/hakatashi/kindlegen)|Simple Node.js wrapper for kindlegen program||
 |5|[@polm](https://github.com/polm)/[**deltos**](https://github.com/polm/deltos)|A magic notepad. δ||
 |4|[@e-jigsaw](https://github.com/e-jigsaw)/[**gulp-jade-template**](https://github.com/e-jigsaw/gulp-jade-template)|gulp plugin for jade template||
 |4|[@hakatashi](https://github.com/hakatashi)/[**AsianBreak**](https://github.com/hakatashi/AsianBreak)|Line Break for East Asian People||

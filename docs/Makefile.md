@@ -29,6 +29,7 @@
 |8|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-25.1-doc-emacs**](https://github.com/ayatakesi/emacs-25.1-doc-emacs)|emacs25.1マニュアルの日本語化と公開||
 |8|[@kenhys](https://github.com/kenhys)/[**debian-leapmotion**](https://github.com/kenhys/debian-leapmotion)|||
 |8|[@omochi](https://github.com/omochi)/[**JavaScriptCore-android-build**](https://github.com/omochi/JavaScriptCore-android-build)|Build JavaScriptCore for Android||
+|7|[@2bbb](https://github.com/2bbb)/[**ofxCrushAppsUsingOfxOscReceiver**](https://github.com/2bbb/ofxCrushAppsUsingOfxOscReceiver)|if you wanna be no.1 in exhibition everyone use openFrameworks!||
 |7|[@lestrrat](https://github.com/lestrrat)/[**CatalystX-AppBuilder**](https://github.com/lestrrat/CatalystX-AppBuilder)|Programatically Build Your Catalyst Apps||
 |6|[@Tomohiro](https://github.com/Tomohiro)/[**air**](https://github.com/Tomohiro/air)|Command-line AirPlay video client for Apple TV||
 |5|[@TemTemmie](https://github.com/TemTemmie)/[**3Camera**](https://github.com/TemTemmie/3Camera)|A camera homebrew for the Nintendo 3DS.||
@@ -36,6 +37,7 @@
 |5|[@lestrrat](https://github.com/lestrrat)/[**p5-Data-OpenGraph**](https://github.com/lestrrat/p5-Data-OpenGraph)|||
 |5|[@osamingo](https://github.com/osamingo)/[**gae-bp**](https://github.com/osamingo/gae-bp)|GAE/Go Boilerplate||
 |5|[@polamjag](https://github.com/polamjag)/[**chrome-theme-simple-blue**](https://github.com/polamjag/chrome-theme-simple-blue)|a minimal theme for Google Chrome / Chromium|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/simple-blue/kglcjiiffdfngnjlgaalhdjjemihjfnd)|
+|5|[@wadahiro](https://github.com/wadahiro)/[**gitlab-ecs-cloudformation**](https://github.com/wadahiro/gitlab-ecs-cloudformation)|||
 |5|[@wasawi](https://github.com/wasawi)/[**ofxRestartOFApp**](https://github.com/wasawi/ofxRestartOFApp)|Restarts your OF app.||
 |5|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiTwilioVoice**](https://github.com/yagitoshiro/TiTwilioVoice)|||
 |4|[@Keats](https://github.com/Keats)/[**vincent.is**](https://github.com/Keats/vincent.is)|My personal blog, powered by Pelican||
@@ -45,10 +47,10 @@
 |4|[@hakuturu583](https://github.com/hakuturu583)/[**robocup_packages**](https://github.com/hakuturu583/robocup_packages)|Codes for playing soccer in robocup SPL||
 |4|[@hanasaan](https://github.com/hanasaan)/[**ofxBinaryPatternMessegner**](https://github.com/hanasaan/ofxBinaryPatternMessegner)|Messaging via Image||
 |4|[@kazuho](https://github.com/kazuho)/[**quic-perf-metrics**](https://github.com/kazuho/quic-perf-metrics)|||
+|4|[@linyows](https://github.com/linyows)/[**tomohisaoda.com**](https://github.com/linyows/tomohisaoda.com)|📝 my blog|[:arrow_upper_right:](http://tomohisaoda.com)|
 |4|[@matsumotory](https://github.com/matsumotory)/[**build-kernel-4.x-for-centos6**](https://github.com/matsumotory/build-kernel-4.x-for-centos6)|kernel-4.x build system for CentOS6 on CentOS6||
 |4|[@mkouhei](https://github.com/mkouhei)/[**makefile-go**](https://github.com/mkouhei/makefile-go)|Makefile for Golang||
 |4|[@nobu](https://github.com/nobu)/[**build-files**](https://github.com/nobu/build-files)|||
-|4|[@wadahiro](https://github.com/wadahiro)/[**gitlab-ecs-cloudformation**](https://github.com/wadahiro/gitlab-ecs-cloudformation)|||
 |4|[@ykzts](https://github.com/ykzts)/[**omanko.porn**](https://github.com/ykzts/omanko.porn)||[:arrow_upper_right:](https://omanko.porn/)|
 |3|[@ToshihitoKon](https://github.com/ToshihitoKon)/[**Kotlin_study**](https://github.com/ToshihitoKon/Kotlin_study)|kotlin development env setting util||
 |3|[@abcang](https://github.com/abcang)/[**azpainter-mac**](https://github.com/abcang/azpainter-mac)|AzPainter for Mac||

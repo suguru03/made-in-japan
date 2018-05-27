@@ -3,91 +3,91 @@
 > A list of cool projects in Japan. (This repo is inspired by [@IonicaBizau/made-in](https://github.com/IonicaBizau/made-in))
 
  
-## Top 10 Developers out of 18027 (2018/05/19)
+## Top 10 Developers out of 18027 (2018/05/26)
 |Rank|Name|:star2:|
 |---|---|---|
-|1|[wasabeef](https://github.com/wasabeef)|59081|
-|2|[onevcat](https://github.com/onevcat)|30274|
-|3|[chrislgarry](https://github.com/chrislgarry)|26714|
-|4|[mattn](https://github.com/mattn)|24322|
-|5|[shu223](https://github.com/shu223)|22142|
-|6|[keijiro](https://github.com/keijiro)|21492|
-|7|[Shougo](https://github.com/Shougo)|20104|
-|8|[kishikawakatsumi](https://github.com/kishikawakatsumi)|16162|
-|9|[nagadomi](https://github.com/nagadomi)|12362|
-|10|[lepture](https://github.com/lepture)|11660|
+|1|[wasabeef](https://github.com/wasabeef)|59310|
+|2|[onevcat](https://github.com/onevcat)|30381|
+|3|[chrislgarry](https://github.com/chrislgarry)|26754|
+|4|[mattn](https://github.com/mattn)|24403|
+|5|[shu223](https://github.com/shu223)|22155|
+|6|[keijiro](https://github.com/keijiro)|21743|
+|7|[Shougo](https://github.com/Shougo)|20159|
+|8|[kishikawakatsumi](https://github.com/kishikawakatsumi)|16201|
+|9|[nagadomi](https://github.com/nagadomi)|12437|
+|10|[lepture](https://github.com/lepture)|11698|
 
 -> [Top 1000/ Developers out of 18027](https://github.com/suguru03/made-in-japan/blob/master/docs/rankers.md)
  
 ## Languages
 |Rank|Language|:star2:|Number of Repositories|
 |---|---|---|---|
-|1|[JavaScript](https://github.com/suguru03/made-in-japan/blob/master/docs/JavaScript.md)|212913|5231|
-|2|[Java](https://github.com/suguru03/made-in-japan/blob/master/docs/Java.md)|138040|1569|
-|3|[Swift](https://github.com/suguru03/made-in-japan/blob/master/docs/Swift.md)|134272|964|
-|4|[Ruby](https://github.com/suguru03/made-in-japan/blob/master/docs/Ruby.md)|118310|4094|
-|5|[Documents](https://github.com/suguru03/made-in-japan/blob/master/docs/Documents.md)|91081|1553|
-|6|[Objective-C](https://github.com/suguru03/made-in-japan/blob/master/docs/Objective-C.md)|87869|1154|
-|7|[Python](https://github.com/suguru03/made-in-japan/blob/master/docs/Python.md)|80253|1747|
-|8|[Go](https://github.com/suguru03/made-in-japan/blob/master/docs/Go.md)|78435|1646|
-|9|[C++](https://github.com/suguru03/made-in-japan/blob/master/docs/C++.md)|56355|1234|
-|10|[C](https://github.com/suguru03/made-in-japan/blob/master/docs/C.md)|43109|1212|
-|11|[C#](https://github.com/suguru03/made-in-japan/blob/master/docs/C#.md)|40906|909|
-|12|[Vim script](https://github.com/suguru03/made-in-japan/blob/master/docs/Vim%20script.md)|37032|302|
-|13|[Shell](https://github.com/suguru03/made-in-japan/blob/master/docs/Shell.md)|31668|935|
-|14|[Assembly](https://github.com/suguru03/made-in-japan/blob/master/docs/Assembly.md)|28420|17|
-|15|[HTML](https://github.com/suguru03/made-in-japan/blob/master/docs/HTML.md)|20937|495|
-|16|[CSS](https://github.com/suguru03/made-in-japan/blob/master/docs/CSS.md)|20634|453|
-|17|[PHP](https://github.com/suguru03/made-in-japan/blob/master/docs/PHP.md)|17320|981|
-|18|[CoffeeScript](https://github.com/suguru03/made-in-japan/blob/master/docs/CoffeeScript.md)|16116|452|
-|19|[Emacs Lisp](https://github.com/suguru03/made-in-japan/blob/master/docs/Emacs%20Lisp.md)|14849|490|
-|20|[TypeScript](https://github.com/suguru03/made-in-japan/blob/master/docs/TypeScript.md)|14616|370|
-|21|[Perl](https://github.com/suguru03/made-in-japan/blob/master/docs/Perl.md)|14406|1260|
-|22|[Lua](https://github.com/suguru03/made-in-japan/blob/master/docs/Lua.md)|14351|71|
-|23|[VimL](https://github.com/suguru03/made-in-japan/blob/master/docs/VimL.md)|12213|513|
-|24|[Kotlin](https://github.com/suguru03/made-in-japan/blob/master/docs/Kotlin.md)|9730|152|
-|25|[Jupyter Notebook](https://github.com/suguru03/made-in-japan/blob/master/docs/Jupyter%20Notebook.md)|9544|134|
-|26|[Scala](https://github.com/suguru03/made-in-japan/blob/master/docs/Scala.md)|8058|411|
-|27|[Rust](https://github.com/suguru03/made-in-japan/blob/master/docs/Rust.md)|6083|188|
-|28|[Common Lisp](https://github.com/suguru03/made-in-japan/blob/master/docs/Common%20Lisp.md)|5463|174|
-|29|[Haskell](https://github.com/suguru03/made-in-japan/blob/master/docs/Haskell.md)|5315|365|
-|30|[OCaml](https://github.com/suguru03/made-in-japan/blob/master/docs/OCaml.md)|4772|77|
-|31|[Clojure](https://github.com/suguru03/made-in-japan/blob/master/docs/Clojure.md)|4170|138|
-|32|[Elixir](https://github.com/suguru03/made-in-japan/blob/master/docs/Elixir.md)|4103|132|
-|33|[Erlang](https://github.com/suguru03/made-in-japan/blob/master/docs/Erlang.md)|2628|111|
-|34|[Groovy](https://github.com/suguru03/made-in-japan/blob/master/docs/Groovy.md)|1680|63|
-|35|[ShaderLab](https://github.com/suguru03/made-in-japan/blob/master/docs/ShaderLab.md)|1050|25|
-|36|[R](https://github.com/suguru03/made-in-japan/blob/master/docs/R.md)|1039|68|
-|37|[GLSL](https://github.com/suguru03/made-in-japan/blob/master/docs/GLSL.md)|962|51|
-|38|[TeX](https://github.com/suguru03/made-in-japan/blob/master/docs/TeX.md)|933|56|
-|39|[Vue](https://github.com/suguru03/made-in-japan/blob/master/docs/Vue.md)|917|34|
-|40|[Matlab](https://github.com/suguru03/made-in-japan/blob/master/docs/Matlab.md)|881|21|
-|41|[HLSL](https://github.com/suguru03/made-in-japan/blob/master/docs/HLSL.md)|852|20|
-|42|[ActionScript](https://github.com/suguru03/made-in-japan/blob/master/docs/ActionScript.md)|814|58|
-|43|[Makefile](https://github.com/suguru03/made-in-japan/blob/master/docs/Makefile.md)|810|74|
-|44|[Batchfile](https://github.com/suguru03/made-in-japan/blob/master/docs/Batchfile.md)|804|9|
-|45|[Haxe](https://github.com/suguru03/made-in-japan/blob/master/docs/Haxe.md)|737|14|
-|46|[Objective-C++](https://github.com/suguru03/made-in-japan/blob/master/docs/Objective-C++.md)|645|21|
-|47|[Elm](https://github.com/suguru03/made-in-japan/blob/master/docs/Elm.md)|548|37|
+|1|[JavaScript](https://github.com/suguru03/made-in-japan/blob/master/docs/JavaScript.md)|213817|5239|
+|2|[Java](https://github.com/suguru03/made-in-japan/blob/master/docs/Java.md)|138485|1572|
+|3|[Swift](https://github.com/suguru03/made-in-japan/blob/master/docs/Swift.md)|134760|967|
+|4|[Ruby](https://github.com/suguru03/made-in-japan/blob/master/docs/Ruby.md)|118492|4095|
+|5|[Documents](https://github.com/suguru03/made-in-japan/blob/master/docs/Documents.md)|91643|1561|
+|6|[Objective-C](https://github.com/suguru03/made-in-japan/blob/master/docs/Objective-C.md)|87919|1155|
+|7|[Python](https://github.com/suguru03/made-in-japan/blob/master/docs/Python.md)|80822|1750|
+|8|[Go](https://github.com/suguru03/made-in-japan/blob/master/docs/Go.md)|78825|1653|
+|9|[C++](https://github.com/suguru03/made-in-japan/blob/master/docs/C++.md)|56648|1235|
+|10|[C](https://github.com/suguru03/made-in-japan/blob/master/docs/C.md)|43255|1214|
+|11|[C#](https://github.com/suguru03/made-in-japan/blob/master/docs/C#.md)|41285|913|
+|12|[Vim script](https://github.com/suguru03/made-in-japan/blob/master/docs/Vim%20script.md)|37151|303|
+|13|[Shell](https://github.com/suguru03/made-in-japan/blob/master/docs/Shell.md)|31764|939|
+|14|[Assembly](https://github.com/suguru03/made-in-japan/blob/master/docs/Assembly.md)|28462|17|
+|15|[HTML](https://github.com/suguru03/made-in-japan/blob/master/docs/HTML.md)|20966|494|
+|16|[CSS](https://github.com/suguru03/made-in-japan/blob/master/docs/CSS.md)|20714|453|
+|17|[PHP](https://github.com/suguru03/made-in-japan/blob/master/docs/PHP.md)|17347|981|
+|18|[CoffeeScript](https://github.com/suguru03/made-in-japan/blob/master/docs/CoffeeScript.md)|16171|453|
+|19|[Emacs Lisp](https://github.com/suguru03/made-in-japan/blob/master/docs/Emacs%20Lisp.md)|14891|490|
+|20|[TypeScript](https://github.com/suguru03/made-in-japan/blob/master/docs/TypeScript.md)|14753|371|
+|21|[Lua](https://github.com/suguru03/made-in-japan/blob/master/docs/Lua.md)|14429|71|
+|22|[Perl](https://github.com/suguru03/made-in-japan/blob/master/docs/Perl.md)|14422|1260|
+|23|[VimL](https://github.com/suguru03/made-in-japan/blob/master/docs/VimL.md)|12186|512|
+|24|[Kotlin](https://github.com/suguru03/made-in-japan/blob/master/docs/Kotlin.md)|9782|152|
+|25|[Jupyter Notebook](https://github.com/suguru03/made-in-japan/blob/master/docs/Jupyter%20Notebook.md)|9666|134|
+|26|[Scala](https://github.com/suguru03/made-in-japan/blob/master/docs/Scala.md)|8087|412|
+|27|[Rust](https://github.com/suguru03/made-in-japan/blob/master/docs/Rust.md)|6148|189|
+|28|[Common Lisp](https://github.com/suguru03/made-in-japan/blob/master/docs/Common%20Lisp.md)|5491|174|
+|29|[Haskell](https://github.com/suguru03/made-in-japan/blob/master/docs/Haskell.md)|5328|365|
+|30|[OCaml](https://github.com/suguru03/made-in-japan/blob/master/docs/OCaml.md)|4785|77|
+|31|[Clojure](https://github.com/suguru03/made-in-japan/blob/master/docs/Clojure.md)|4178|138|
+|32|[Elixir](https://github.com/suguru03/made-in-japan/blob/master/docs/Elixir.md)|4123|132|
+|33|[Erlang](https://github.com/suguru03/made-in-japan/blob/master/docs/Erlang.md)|2631|111|
+|34|[Groovy](https://github.com/suguru03/made-in-japan/blob/master/docs/Groovy.md)|1701|63|
+|35|[ShaderLab](https://github.com/suguru03/made-in-japan/blob/master/docs/ShaderLab.md)|1070|25|
+|36|[R](https://github.com/suguru03/made-in-japan/blob/master/docs/R.md)|1045|68|
+|37|[GLSL](https://github.com/suguru03/made-in-japan/blob/master/docs/GLSL.md)|968|51|
+|38|[Vue](https://github.com/suguru03/made-in-japan/blob/master/docs/Vue.md)|939|34|
+|39|[TeX](https://github.com/suguru03/made-in-japan/blob/master/docs/TeX.md)|936|56|
+|40|[Matlab](https://github.com/suguru03/made-in-japan/blob/master/docs/Matlab.md)|887|21|
+|41|[HLSL](https://github.com/suguru03/made-in-japan/blob/master/docs/HLSL.md)|860|20|
+|42|[Makefile](https://github.com/suguru03/made-in-japan/blob/master/docs/Makefile.md)|829|75|
+|43|[ActionScript](https://github.com/suguru03/made-in-japan/blob/master/docs/ActionScript.md)|813|58|
+|44|[Batchfile](https://github.com/suguru03/made-in-japan/blob/master/docs/Batchfile.md)|808|9|
+|45|[Haxe](https://github.com/suguru03/made-in-japan/blob/master/docs/Haxe.md)|738|14|
+|46|[Objective-C++](https://github.com/suguru03/made-in-japan/blob/master/docs/Objective-C++.md)|646|21|
+|47|[Elm](https://github.com/suguru03/made-in-japan/blob/master/docs/Elm.md)|549|37|
 |48|[Processing](https://github.com/suguru03/made-in-japan/blob/master/docs/Processing.md)|547|9|
 |49|[F#](https://github.com/suguru03/made-in-japan/blob/master/docs/F#.md)|428|29|
 |50|[D](https://github.com/suguru03/made-in-japan/blob/master/docs/D.md)|393|46|
 |51|[Scheme](https://github.com/suguru03/made-in-japan/blob/master/docs/Scheme.md)|388|43|
-|52|[Dart](https://github.com/suguru03/made-in-japan/blob/master/docs/Dart.md)|330|20|
+|52|[Dart](https://github.com/suguru03/made-in-japan/blob/master/docs/Dart.md)|336|20|
 |53|[Crystal](https://github.com/suguru03/made-in-japan/blob/master/docs/Crystal.md)|299|25|
 |54|[Ragel in Ruby Host](https://github.com/suguru03/made-in-japan/blob/master/docs/Ragel%20in%20Ruby%20Host.md)|256|1|
 |55|[PowerShell](https://github.com/suguru03/made-in-japan/blob/master/docs/PowerShell.md)|255|17|
-|56|[KiCad](https://github.com/suguru03/made-in-japan/blob/master/docs/KiCad.md)|247|5|
-|57|[Julia](https://github.com/suguru03/made-in-japan/blob/master/docs/Julia.md)|245|28|
-|58|[Arduino](https://github.com/suguru03/made-in-japan/blob/master/docs/Arduino.md)|243|29|
+|56|[KiCad](https://github.com/suguru03/made-in-japan/blob/master/docs/KiCad.md)|248|5|
+|57|[Julia](https://github.com/suguru03/made-in-japan/blob/master/docs/Julia.md)|247|28|
+|58|[Arduino](https://github.com/suguru03/made-in-japan/blob/master/docs/Arduino.md)|244|29|
 |59|[OpenEdge ABL](https://github.com/suguru03/made-in-japan/blob/master/docs/OpenEdge%20ABL.md)|224|3|
-|60|[HCL](https://github.com/suguru03/made-in-japan/blob/master/docs/HCL.md)|212|21|
-|61|[E](https://github.com/suguru03/made-in-japan/blob/master/docs/E.md)|201|1|
+|60|[HCL](https://github.com/suguru03/made-in-japan/blob/master/docs/HCL.md)|221|22|
+|61|[E](https://github.com/suguru03/made-in-japan/blob/master/docs/E.md)|202|1|
 |62|[Logos](https://github.com/suguru03/made-in-japan/blob/master/docs/Logos.md)|192|15|
 |63|[Eagle](https://github.com/suguru03/made-in-japan/blob/master/docs/Eagle.md)|179|7|
 |64|[ApacheConf](https://github.com/suguru03/made-in-japan/blob/master/docs/ApacheConf.md)|162|8|
 |65|[Perl 6](https://github.com/suguru03/made-in-japan/blob/master/docs/Perl%206.md)|148|11|
-|66|[AutoHotkey](https://github.com/suguru03/made-in-japan/blob/master/docs/AutoHotkey.md)|139|6|
+|66|[AutoHotkey](https://github.com/suguru03/made-in-japan/blob/master/docs/AutoHotkey.md)|140|6|
 |67|[Coq](https://github.com/suguru03/made-in-japan/blob/master/docs/Coq.md)|134|13|
 |67|[LiveScript](https://github.com/suguru03/made-in-japan/blob/master/docs/LiveScript.md)|134|12|
 |69|[Verilog](https://github.com/suguru03/made-in-japan/blob/master/docs/Verilog.md)|129|11|
@@ -95,21 +95,21 @@
 |71|[PostScript](https://github.com/suguru03/made-in-japan/blob/master/docs/PostScript.md)|108|2|
 |72|[Smarty](https://github.com/suguru03/made-in-japan/blob/master/docs/Smarty.md)|104|8|
 |73|[PureScript](https://github.com/suguru03/made-in-japan/blob/master/docs/PureScript.md)|90|13|
-|74|[CMake](https://github.com/suguru03/made-in-japan/blob/master/docs/CMake.md)|86|13|
-|75|[Roff](https://github.com/suguru03/made-in-japan/blob/master/docs/Roff.md)|83|7|
-|76|[Nim](https://github.com/suguru03/made-in-japan/blob/master/docs/Nim.md)|82|6|
-|77|[AppleScript](https://github.com/suguru03/made-in-japan/blob/master/docs/AppleScript.md)|79|6|
-|77|[Gosu](https://github.com/suguru03/made-in-japan/blob/master/docs/Gosu.md)|79|2|
-|77|[Nginx](https://github.com/suguru03/made-in-japan/blob/master/docs/Nginx.md)|79|9|
-|80|[VHDL](https://github.com/suguru03/made-in-japan/blob/master/docs/VHDL.md)|78|7|
-|81|[Perl6](https://github.com/suguru03/made-in-japan/blob/master/docs/Perl6.md)|76|17|
+|74|[Nim](https://github.com/suguru03/made-in-japan/blob/master/docs/Nim.md)|87|6|
+|75|[CMake](https://github.com/suguru03/made-in-japan/blob/master/docs/CMake.md)|86|13|
+|76|[AppleScript](https://github.com/suguru03/made-in-japan/blob/master/docs/AppleScript.md)|79|6|
+|76|[Gosu](https://github.com/suguru03/made-in-japan/blob/master/docs/Gosu.md)|79|2|
+|76|[Nginx](https://github.com/suguru03/made-in-japan/blob/master/docs/Nginx.md)|79|9|
+|79|[VHDL](https://github.com/suguru03/made-in-japan/blob/master/docs/VHDL.md)|78|7|
+|80|[Perl6](https://github.com/suguru03/made-in-japan/blob/master/docs/Perl6.md)|76|17|
+|81|[Solidity](https://github.com/suguru03/made-in-japan/blob/master/docs/Solidity.md)|75|1|
 |82|[Puppet](https://github.com/suguru03/made-in-japan/blob/master/docs/Puppet.md)|73|9|
-|82|[Solidity](https://github.com/suguru03/made-in-japan/blob/master/docs/Solidity.md)|73|1|
-|84|[RAML](https://github.com/suguru03/made-in-japan/blob/master/docs/RAML.md)|69|1|
+|83|[Roff](https://github.com/suguru03/made-in-japan/blob/master/docs/Roff.md)|72|6|
+|84|[RAML](https://github.com/suguru03/made-in-japan/blob/master/docs/RAML.md)|70|1|
 |85|[Apex](https://github.com/suguru03/made-in-japan/blob/master/docs/Apex.md)|51|8|
 |86|[Visual Basic](https://github.com/suguru03/made-in-japan/blob/master/docs/Visual%20Basic.md)|48|9|
 |87|[FORTRAN](https://github.com/suguru03/made-in-japan/blob/master/docs/FORTRAN.md)|43|7|
-|88|[ANTLR](https://github.com/suguru03/made-in-japan/blob/master/docs/ANTLR.md)|41|1|
+|88|[ANTLR](https://github.com/suguru03/made-in-japan/blob/master/docs/ANTLR.md)|42|1|
 |89|[XSLT](https://github.com/suguru03/made-in-japan/blob/master/docs/XSLT.md)|33|3|
 |90|[Max](https://github.com/suguru03/made-in-japan/blob/master/docs/Max.md)|32|5|
 |90|[Nix](https://github.com/suguru03/made-in-japan/blob/master/docs/Nix.md)|32|2|
@@ -133,13 +133,13 @@
 |109|[Gnuplot](https://github.com/suguru03/made-in-japan/blob/master/docs/Gnuplot.md)|11|2|
 |109|[NewLisp](https://github.com/suguru03/made-in-japan/blob/master/docs/NewLisp.md)|11|2|
 |109|[Smalltalk](https://github.com/suguru03/made-in-japan/blob/master/docs/Smalltalk.md)|11|2|
+|112|[Cuda](https://github.com/suguru03/made-in-japan/blob/master/docs/Cuda.md)|10|2|
 |112|[MAXScript](https://github.com/suguru03/made-in-japan/blob/master/docs/MAXScript.md)|10|1|
-|113|[Boo](https://github.com/suguru03/made-in-japan/blob/master/docs/Boo.md)|9|2|
-|113|[Cuda](https://github.com/suguru03/made-in-japan/blob/master/docs/Cuda.md)|9|2|
-|113|[JSONiq](https://github.com/suguru03/made-in-japan/blob/master/docs/JSONiq.md)|9|1|
-|113|[Protocol Buffer](https://github.com/suguru03/made-in-japan/blob/master/docs/Protocol%20Buffer.md)|9|1|
-|113|[PureBasic](https://github.com/suguru03/made-in-japan/blob/master/docs/PureBasic.md)|9|1|
-|113|[Ren'Py](https://github.com/suguru03/made-in-japan/blob/master/docs/Ren'Py.md)|9|1|
+|114|[Boo](https://github.com/suguru03/made-in-japan/blob/master/docs/Boo.md)|9|2|
+|114|[JSONiq](https://github.com/suguru03/made-in-japan/blob/master/docs/JSONiq.md)|9|1|
+|114|[Protocol Buffer](https://github.com/suguru03/made-in-japan/blob/master/docs/Protocol%20Buffer.md)|9|1|
+|114|[PureBasic](https://github.com/suguru03/made-in-japan/blob/master/docs/PureBasic.md)|9|1|
+|114|[Ren'Py](https://github.com/suguru03/made-in-japan/blob/master/docs/Ren'Py.md)|9|1|
 |119|[Fortran](https://github.com/suguru03/made-in-japan/blob/master/docs/Fortran.md)|8|1|
 |119|[Nimrod](https://github.com/suguru03/made-in-japan/blob/master/docs/Nimrod.md)|8|1|
 |121|[COBOL](https://github.com/suguru03/made-in-japan/blob/master/docs/COBOL.md)|7|1|

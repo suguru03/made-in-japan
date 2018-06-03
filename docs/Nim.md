@@ -6,4 +6,5 @@
 |7|[@2vg](https://github.com/2vg)/[**msh**](https://github.com/2vg/msh)|msh is minimal shell of Nim.||
 |7|[@CORDEA](https://github.com/CORDEA)/[**oauth**](https://github.com/CORDEA/oauth)|OAuth library for nim||
 |6|[@2vg](https://github.com/2vg)/[**nimuv**](https://github.com/2vg/nimuv)|nimuv is libuv dynamic bind for nim.||
+|3|[@2vg](https://github.com/2vg)/[**MOLFO**](https://github.com/2vg/MOLFO)|MOLFO is MOre Light Flexible Orm.||
 

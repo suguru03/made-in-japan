@@ -23,10 +23,10 @@
 |6|[@youpy](https://github.com/youpy)/[**elm-midi**](https://github.com/youpy/elm-midi)|An Elm library for working with MIDI||
 |5|[@arowM](https://github.com/arowM)/[**elm-time-machine**](https://github.com/arowM/elm-time-machine)|A module empowering any model to undo/redo in elm architecture way||
 |5|[@dfordivam](https://github.com/dfordivam)/[**elm-mind-map**](https://github.com/dfordivam/elm-mind-map)|Elm based mind mapping||
+|5|[@jinjor](https://github.com/jinjor)/[**elm-reversi**](https://github.com/jinjor/elm-reversi)|Just for joy|[:arrow_upper_right:](https://jinjor.github.io/elm-reversi/)|
 |5|[@suzuki-shin](https://github.com/suzuki-shin)/[**elm-chartjs**](https://github.com/suzuki-shin/elm-chartjs)|Elm bindings for Chart.js||
 |4|[@igrep](https://github.com/igrep)/[**lovely-commune**](https://github.com/igrep/lovely-commune)|Simulator of Lovely Commune in Dokidoki! PreCure.|[:arrow_upper_right:](http://lovely-commune.igreque.info/)|
 |4|[@jinjor](https://github.com/jinjor)/[**elm-large-form-example**](https://github.com/jinjor/elm-large-form-example)|Trying to find the best way|[:arrow_upper_right:](https://jinjor.github.io/elm-large-form-sample/)|
-|4|[@jinjor](https://github.com/jinjor)/[**elm-reversi**](https://github.com/jinjor/elm-reversi)|Just for joy|[:arrow_upper_right:](https://jinjor.github.io/elm-reversi/)|
 |4|[@jinjor](https://github.com/jinjor)/[**elm-task-emulator**](https://github.com/jinjor/elm-task-emulator)|task emulator for ports||
 |4|[@suzuki-shin](https://github.com/suzuki-shin)/[**doubutsuShogi**](https://github.com/suzuki-shin/doubutsuShogi)|||
 |4|[@tshm](https://github.com/tshm)/[**elm-doctest**](https://github.com/tshm/elm-doctest)|doctest runner against Elm-lang source files||

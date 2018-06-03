@@ -1,9 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|213|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
+|219|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
 |17|[@ntaoo](https://github.com/ntaoo)/[**material2_dart**](https://github.com/ntaoo/material2_dart)|angular/material2 for Dart.||
 |13|[@ehr174](https://github.com/ehr174)/[**dartstrap**](https://github.com/ehr174/dartstrap)|||
 |13|[@sh4869](https://github.com/sh4869)/[**twitter.dart**](https://github.com/sh4869/twitter.dart)|Twitter API Library in Dart |[:arrow_upper_right:](https://pub.dartlang.org/packages/twitter)|
+|11|[@konifar](https://github.com/konifar)/[**flutter-for-non-engineers**](https://github.com/konifar/flutter-for-non-engineers)|エンジニア以外の職種の方がFlutterでの開発を通してなんとなくアプリ開発について知るためのリポジトリです||
 |9|[@vvakame](https://github.com/vvakame)/[**teaolive**](https://github.com/vvakame/teaolive)|BDD Test Framework for Dart. it was inspired by the Jasmine(JavaScript).||
 |8|[@ntaoo](https://github.com/ntaoo)/[**ng2_g_signin**](https://github.com/ntaoo/ng2_g_signin)|Google sign-in component for Angular2 Dart||
 |8|[@technohippy](https://github.com/technohippy)/[**angular-translate.dart**](https://github.com/technohippy/angular-translate.dart)|I18N Library for AngularDart||

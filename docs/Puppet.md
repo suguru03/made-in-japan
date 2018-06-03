@@ -8,5 +8,6 @@
 |5|[@mizzy](https://github.com/mizzy)/[**puppet-lxc-test-box**](https://github.com/mizzy/puppet-lxc-test-box)|||
 |4|[@Tomohiro](https://github.com/Tomohiro)/[**puppet-mackerel_agent**](https://github.com/Tomohiro/puppet-mackerel_agent)|Puppet module for mackerel-agent|[:arrow_upper_right:](https://forge.puppetlabs.com/tomohiro/mackerel_agent)|
 |4|[@viirya](https://github.com/viirya)/[**puppet-zookeeper**](https://github.com/viirya/puppet-zookeeper)|Puppet module for deploying Apache Zookeeper cluster||
+|3|[@hfm](https://github.com/hfm)/[**puppet-remi**](https://github.com/hfm/puppet-remi)|Configure the remi repository and import the GPG keys.|[:arrow_upper_right:](https://forge.puppet.com/hfm/remi)|
 |3|[@ngs](https://github.com/ngs)/[**puppet-kaleidoscope**](https://github.com/ngs/puppet-kaleidoscope)|Kaleidoscope Puppet Module for Boxen||
 

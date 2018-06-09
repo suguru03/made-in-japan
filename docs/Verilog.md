@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|56|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
-|22|[@osafune](https://github.com/osafune)/[**peridot**](https://github.com/osafune/peridot)|'PERIDOT' - Simple & Compact FPGA board||
+|57|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
+|23|[@osafune](https://github.com/osafune)/[**peridot**](https://github.com/osafune/peridot)|'PERIDOT' - Simple & Compact FPGA board||
 |15|[@kazunori279](https://github.com/kazunori279)/[**CPU32**](https://github.com/kazunori279/CPU32)|Tiny MIPS for Terasic DE0||
 |7|[@mzp](https://github.com/mzp)/[**lambda**](https://github.com/mzp/lambda)|simple typed lambda calculus on Coq|[:arrow_upper_right:](http://d.hatena.ne.jp/mzp/)|
 |6|[@ksksue](https://github.com/ksksue)/[**Android-FPGA-FIFO-Transfer**](https://github.com/ksksue/Android-FPGA-FIFO-Transfer)|Android-FPGA FIFO Transfer||

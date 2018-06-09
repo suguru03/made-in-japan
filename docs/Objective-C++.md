@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|328|[@fjolnir](https://github.com/fjolnir)/[**Tranquil**](https://github.com/fjolnir/Tranquil)|A language built on top of the Objective-C runtime, and ABI compatible with Objective-C.||
+|327|[@fjolnir](https://github.com/fjolnir)/[**Tranquil**](https://github.com/fjolnir/Tranquil)|A language built on top of the Objective-C runtime, and ABI compatible with Objective-C.||
 |95|[@craftzdog](https://github.com/craftzdog)/[**caffe-ios-sample**](https://github.com/craftzdog/caffe-ios-sample)|An example of XCode project using Caffe: a fast open framework for deep learning||
 |89|[@noradaiko](https://github.com/noradaiko)/[**caffe-ios-sample**](https://github.com/noradaiko/caffe-ios-sample)|An example of XCode project using Caffe: a fast open framework for deep learning||
 |20|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxDisplayConf**](https://github.com/Akira-Hayasaka/ofxDisplayConf)|openFrameworks addon for display/projector configuration using CoreGraphics (private) API.||
@@ -12,9 +12,9 @@
 |9|[@hisui](https://github.com/hisui)/[**scrapingkit**](https://github.com/hisui/scrapingkit)|ObjC library: easy DOM traversing in jQuery-like API for web scraping.||
 |7|[@2bbb](https://github.com/2bbb)/[**ofxBonjour**](https://github.com/2bbb/ofxBonjour)|use Bonjour in openFrameowkrs||
 |7|[@miyabi](https://github.com/miyabi)/[**unity-ios-keyboard-patch**](https://github.com/miyabi/unity-ios-keyboard-patch)|Adjusts position and height of input field above keyboard when status bar is shown in iOS 7 or later.||
+|6|[@ashikase](https://github.com/ashikase)/[**libcrashreport**](https://github.com/ashikase/libcrashreport)|Library for parsing and symbolicating iOS crash log files.||
 |5|[@2bbb](https://github.com/2bbb)/[**ofxMacScreenRecorder**](https://github.com/2bbb/ofxMacScreenRecorder)|programmable screen recorder for oF||
 |5|[@2bbb](https://github.com/2bbb)/[**ofxMioAlpha**](https://github.com/2bbb/ofxMioAlpha)|Receive data from Mio Alpha in openFrameworks (only OS X 10.7- / iOS 5-)||
-|5|[@ashikase](https://github.com/ashikase)/[**libcrashreport**](https://github.com/ashikase/libcrashreport)|Library for parsing and symbolicating iOS crash log files.||
 |4|[@2bbb](https://github.com/2bbb)/[**ofxMacTrackpad**](https://github.com/2bbb/ofxMacTrackpad)|using MBP Trackpad events on openFrameworks||
 |4|[@kapsy](https://github.com/kapsy)/[**handmade_osx**](https://github.com/kapsy/handmade_osx)|My implementation of Handmade Hero's platform layer for OSX.||
 |4|[@n-yoda](https://github.com/n-yoda)/[**metal-without-xcode**](https://github.com/n-yoda/metal-without-xcode)|A command-line-compilable example of Metal.||

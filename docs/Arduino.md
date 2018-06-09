@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |41|[@addsict](https://github.com/addsict)/[**YetAnotherHHKBController**](https://github.com/addsict/YetAnotherHHKBController)|Yet another controller for Happy Hacking Keyboard Professional2||
-|23|[@9SQ](https://github.com/9SQ)/[**esp8266-wifi-setup**](https://github.com/9SQ/esp8266-wifi-setup)|ESP8266 Wifi setup using SoftAP, Captive Portal and EEPROM.||
+|24|[@9SQ](https://github.com/9SQ)/[**esp8266-wifi-setup**](https://github.com/9SQ/esp8266-wifi-setup)|ESP8266 Wifi setup using SoftAP, Captive Portal and EEPROM.||
 |19|[@tomozh](https://github.com/tomozh)/[**arduino_ST7032**](https://github.com/tomozh/arduino_ST7032)|ST7032.cpp - Arduino LiquidCrystal compatible library||
 |17|[@kyab](https://github.com/kyab)/[**travis-test-arduino**](https://github.com/kyab/travis-test-arduino)|Test Project to do Travis-CI for Arduino sketch.||
+|16|[@9SQ](https://github.com/9SQ)/[**RESTful-Toilet**](https://github.com/9SQ/RESTful-Toilet)|トイレにRESTfulなAPIを実装してみた|[:arrow_upper_right:](http://eleclog.quitsq.com/2016/01/restful-toilet.html)|
 |16|[@shokai](https://github.com/shokai)/[**node-ble-firmata**](https://github.com/shokai/node-ble-firmata)|BlendMicro & Arduino BLE-Shield Firmata implementation for Node.js|[:arrow_upper_right:](https://www.npmjs.org/package/ble-firmata)|
 |14|[@soramimi](https://github.com/soramimi)/[**ESP8266Tweet**](https://github.com/soramimi/ESP8266Tweet)|Twitter client for ESP8266||
-|12|[@9SQ](https://github.com/9SQ)/[**RESTful-Toilet**](https://github.com/9SQ/RESTful-Toilet)|トイレにRESTfulなAPIを実装してみた|[:arrow_upper_right:](http://eleclog.quitsq.com/2016/01/restful-toilet.html)|
 |12|[@PuceBaboon](https://github.com/PuceBaboon)/[**ESP8266-AIT-T5**](https://github.com/PuceBaboon/ESP8266-AIT-T5)|ESP8266 code (Arduino-ESP core) for the modified AI Thinker T5 board, implementing an MQTT-enabled DHT11 sensor.||
 |12|[@ics-creative](https://github.com/ics-creative)/[**151217_arduino_ESP-WROOM-02_v1**](https://github.com/ics-creative/151217_arduino_ESP-WROOM-02_v1)|||
 |8|[@akirayou](https://github.com/akirayou)/[**yukkuriCut**](https://github.com/akirayou/yukkuriCut)|CNC hot wire cutter for acrylic board.||

@@ -11,22 +11,22 @@
 |19|[@shuhei](https://github.com/shuhei)/[**pixelm**](https://github.com/shuhei/pixelm)|A pixel art editor written in Elm|[:arrow_upper_right:](http://shuheikagawa.com/pixelm/)|
 |14|[@jinjor](https://github.com/jinjor)/[**elm-inline-hover**](https://github.com/jinjor/elm-inline-hover)|An utility for using :hover by inline style|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-inline-hover/latest)|
 |13|[@jinjor](https://github.com/jinjor)/[**elm-video-chat**](https://github.com/jinjor/elm-video-chat)|video chat system by Elm||
-|11|[@jinjor](https://github.com/jinjor)/[**elm-contextmenu**](https://github.com/jinjor/elm-contextmenu)|Flexible context menu for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-contextmenu/latest)|
+|12|[@jinjor](https://github.com/jinjor)/[**elm-contextmenu**](https://github.com/jinjor/elm-contextmenu)|Flexible context menu for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-contextmenu/latest)|
 |10|[@jinjor](https://github.com/jinjor)/[**elm-diff**](https://github.com/jinjor/elm-diff)|A diff implementation for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-diff/latest)|
 |8|[@jinjor](https://github.com/jinjor)/[**elm-binary-decoder**](https://github.com/jinjor/elm-binary-decoder)|Experimental binary decoder|[:arrow_upper_right:](https://jinjor.github.io/elm-binary-decoder/)|
 |8|[@jinjor](https://github.com/jinjor)/[**elm-transition**](https://github.com/jinjor/elm-transition)|A simple transition library for Elm||
-|7|[@arowM](https://github.com/arowM)/[**elm-tokyo4**](https://github.com/arowM/elm-tokyo4)|Presentations for Elm Tokyo Meetup #4.|[:arrow_upper_right:](https://arowm.github.io/elm-tokyo4/presentation/)|
 |7|[@jinjor](https://github.com/jinjor)/[**toy-lang**](https://github.com/jinjor/toy-lang)|Just for fun!||
+|6|[@arowM](https://github.com/arowM)/[**elm-tokyo4**](https://github.com/arowM/elm-tokyo4)|Presentations for Elm Tokyo Meetup #4.|[:arrow_upper_right:](https://arowm.github.io/elm-tokyo4/presentation/)|
 |6|[@jinjor](https://github.com/jinjor)/[**elm-csv-decode**](https://github.com/jinjor/elm-csv-decode)|CSV decoder for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-csv-decode/latest/CsvDecode)|
 |6|[@jinjor](https://github.com/jinjor)/[**elm-xml-parser**](https://github.com/jinjor/elm-xml-parser)|XML parser for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-xml-parser/latest)|
 |6|[@rnons](https://github.com/rnons)/[**elm-svg-loader**](https://github.com/rnons/elm-svg-loader)|A webpack loader that inlines external SVG file into Elm views||
 |6|[@youpy](https://github.com/youpy)/[**elm-midi**](https://github.com/youpy/elm-midi)|An Elm library for working with MIDI||
 |5|[@arowM](https://github.com/arowM)/[**elm-time-machine**](https://github.com/arowM/elm-time-machine)|A module empowering any model to undo/redo in elm architecture way||
 |5|[@dfordivam](https://github.com/dfordivam)/[**elm-mind-map**](https://github.com/dfordivam/elm-mind-map)|Elm based mind mapping||
-|5|[@jinjor](https://github.com/jinjor)/[**elm-reversi**](https://github.com/jinjor/elm-reversi)|Just for joy|[:arrow_upper_right:](https://jinjor.github.io/elm-reversi/)|
 |5|[@suzuki-shin](https://github.com/suzuki-shin)/[**elm-chartjs**](https://github.com/suzuki-shin/elm-chartjs)|Elm bindings for Chart.js||
 |4|[@igrep](https://github.com/igrep)/[**lovely-commune**](https://github.com/igrep/lovely-commune)|Simulator of Lovely Commune in Dokidoki! PreCure.|[:arrow_upper_right:](http://lovely-commune.igreque.info/)|
 |4|[@jinjor](https://github.com/jinjor)/[**elm-large-form-example**](https://github.com/jinjor/elm-large-form-example)|Trying to find the best way|[:arrow_upper_right:](https://jinjor.github.io/elm-large-form-sample/)|
+|4|[@jinjor](https://github.com/jinjor)/[**elm-reversi**](https://github.com/jinjor/elm-reversi)|Just for joy|[:arrow_upper_right:](https://jinjor.github.io/elm-reversi/)|
 |4|[@jinjor](https://github.com/jinjor)/[**elm-task-emulator**](https://github.com/jinjor/elm-task-emulator)|task emulator for ports||
 |4|[@suzuki-shin](https://github.com/suzuki-shin)/[**doubutsuShogi**](https://github.com/suzuki-shin/doubutsuShogi)|||
 |4|[@tshm](https://github.com/tshm)/[**elm-doctest**](https://github.com/tshm/elm-doctest)|doctest runner against Elm-lang source files||

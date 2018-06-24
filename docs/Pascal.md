@@ -18,6 +18,7 @@
 |4|[@oguna](https://github.com/oguna)/[**SharpDXTex**](https://github.com/oguna/SharpDXTex)|SharpDXTex texture processing library||
 |3|[@1995hnagamin](https://github.com/1995hnagamin)/[**yapcasia2015-piet**](https://github.com/1995hnagamin/yapcasia2015-piet)|YAPC::Asia 2015 のあれ||
 |3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**BlockBuilder**](https://github.com/LUXOPHIA/BlockBuilder)|任意の形状をブロックでモデリングする方法。||
+|3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**FFTW**](https://github.com/LUXOPHIA/FFTW)|高速フーリエ変換ライブラリ FFTW を利用する方法。||
 |3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**LUX**](https://github.com/LUXOPHIA/LUX)|luxidea 製の汎用ライブラリ。||
 |3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**LUX.DICOM**](https://github.com/LUXOPHIA/LUX.DICOM)|医用画像フォーマット「DICOM:Digital Imaging and COmmunication in Medicine」を扱うためのライブラリ。||
 |3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**LUX.Raytrace**](https://github.com/LUXOPHIA/LUX.Raytrace)|luxidea 製の レイトレーシング ライブラリ。||

@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1181|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
-|218|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
-|146|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
+|1183|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|219|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
+|148|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |76|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
 |60|[@jj1bdx](https://github.com/jj1bdx)/[**sfmt-erlang**](https://github.com/jj1bdx/sfmt-erlang)|sfmt-erlang: SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang|[:arrow_upper_right:](http://jj1bdx.github.io/sfmt-erlang/)|
 |39|[@higepon](https://github.com/higepon)/[**mio**](https://github.com/higepon/mio)|In short, mio is memcached + "range search".||
@@ -12,14 +12,14 @@
 |33|[@jj1bdx](https://github.com/jj1bdx)/[**sshrpc**](https://github.com/jj1bdx/sshrpc)|Erlang SSH RPC module (experimental)||
 |31|[@kuenishi](https://github.com/kuenishi)/[**riak_scr_jp**](https://github.com/kuenishi/riak_scr_jp)|Repository for Riak Source Code Reading @Tokyo||
 |26|[@jj1bdx](https://github.com/jj1bdx)/[**tinymt-erlang**](https://github.com/jj1bdx/tinymt-erlang)|This software is no longer maintained. For archive/reference use only. -- Tiny Mersenne Twister (TinyMT) for Erlang||
+|22|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
 |21|[@higepon](https://github.com/higepon)/[**memcached-client**](https://github.com/higepon/memcached-client)|A memcached client library for Erlang.||
 |21|[@norton](https://github.com/norton)/[**qc**](https://github.com/norton/qc)|Wrappers for QuickCheck and PropEr testing tools||
 |21|[@rramsden](https://github.com/rramsden)/[**gen_gossip**](https://github.com/rramsden/gen_gossip)|Interface for implementing Gossip Protocols in Erlang||
-|21|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
 |20|[@shino](https://github.com/shino)/[**kai**](https://github.com/shino/kai)|Kai is a distributed key-value datastore mainly inspired by Amazon's Dynamo. (fork from sourceforge)|[:arrow_upper_right:](https://sourceforge.net/apps/mediawiki/kai/index.php?title=Main_Page)|
+|19|[@sile](https://github.com/sile)/[**evel**](https://github.com/sile/evel)|An Eventual Leader Election Library for Erlang||
 |19|[@voluntas](https://github.com/voluntas)/[**erlang_otp_self_study**](https://github.com/voluntas/erlang_otp_self_study)|||
 |18|[@cooldaemon](https://github.com/cooldaemon)/[**ermlia**](https://github.com/cooldaemon/ermlia)|The ermlia is Erlang implementation of Kademlia. This is easy key-value store.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/)|
-|18|[@sile](https://github.com/sile)/[**evel**](https://github.com/sile/evel)|An Eventual Leader Election Library for Erlang||
 |17|[@mururu](https://github.com/mururu)/[**erlang-mruby**](https://github.com/mururu/erlang-mruby)|[WIP] mruby on erlang||
 |15|[@chvanikoff](https://github.com/chvanikoff)/[**githubizer**](https://github.com/chvanikoff/githubizer)|automatic deploy from github to server||
 |15|[@kuenishi](https://github.com/kuenishi)/[**erezrdfh**](https://github.com/kuenishi/erezrdfh)|MessagePack MessageQueue without AMQP||
@@ -59,6 +59,7 @@
 |6|[@leo-project](https://github.com/leo-project)/[**leo_logger**](https://github.com/leo-project/leo_logger)|leo_logger is a logging library for LeoFS and other Erlang applications. It has plugin-mechanism.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@leo-project](https://github.com/leo-project)/[**leo_ordning_reda**](https://github.com/leo-project/leo_ordning_reda)|leo_ordning_reda is a library to stack objects and  send stacked objects with async.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@leo-project](https://github.com/leo-project)/[**leo_statistics**](https://github.com/leo-project/leo_statistics)|leo_statistics collects Erlang VM’s statistics and application’s statistics.|[:arrow_upper_right:](http://leo-project.net/leofs)|
+|6|[@sile](https://github.com/sile)/[**logi**](https://github.com/sile/logi)|A Logger Interface Library for Erlang/OTP||
 |6|[@ytakano](https://github.com/ytakano)/[**ermdia**](https://github.com/ytakano/ermdia)|An implementation of DHT in Erlang.||
 |5|[@cooldaemon](https://github.com/cooldaemon)/[**yamd**](https://github.com/cooldaemon/yamd)|Yet Another Memcached.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/20071113/1194943502)|
 |5|[@jj1bdx](https://github.com/jj1bdx)/[**nsplit**](https://github.com/jj1bdx/nsplit)|Erlang mapping function library splitting a job to n-process concurrent execution||
@@ -68,7 +69,6 @@
 |5|[@leo-project](https://github.com/leo-project)/[**leo_commons**](https://github.com/leo-project/leo_commons)|leo_commons include common modules for LeoFS and other Erlang applications.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |5|[@sile](https://github.com/sile)/[**erl-creole**](https://github.com/sile/erl-creole)|Converting strings between multibyte encodings and Unicode.||
 |5|[@sile](https://github.com/sile)/[**local**](https://github.com/sile/local)|A Local Name Registration Facility for Erlang||
-|5|[@sile](https://github.com/sile)/[**logi**](https://github.com/sile/logi)|A Logger Interface Library for Erlang/OTP||
 |5|[@sile](https://github.com/sile)/[**otp_passage**](https://github.com/sile/otp_passage)|OpenTracing instrumentation library for the Erlang/OTP standard modules||
 |5|[@yoichiro](https://github.com/yoichiro)/[**mixi-staging**](https://github.com/yoichiro/mixi-staging)|||
 |4|[@cooldaemon](https://github.com/cooldaemon)/[**ssd**](https://github.com/cooldaemon/ssd)|The Simple Storage Daemon. It has a RESTfull I/F.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/20080206/1202265372)|

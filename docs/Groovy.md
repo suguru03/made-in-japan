@@ -5,7 +5,7 @@
 |134|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
 |124|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |106|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||
-|96|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
+|95|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
 |84|[@hotchemi](https://github.com/hotchemi)/[**gradle-proguard-plugin**](https://github.com/hotchemi/gradle-proguard-plugin)|The gradle plugin to add proguard snippets to your proguard setting file quickly.|[:arrow_upper_right:](http://hotchemi.github.io/gradle-proguard-plugin)|
 |80|[@int128](https://github.com/int128)/[**groovy-ssh**](https://github.com/int128/groovy-ssh)|SSH automation tool based on Groovy DSL|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
 |76|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-mdicons**](https://github.com/tmiyamon/gradle-mdicons)|A gradle plugin for Android to handle material design icons Google published.||
@@ -30,8 +30,8 @@
 |11|[@sys1yagi](https://github.com/sys1yagi)/[**faucet**](https://github.com/sys1yagi/faucet)|Super casual memory leak checker for Android. ||
 |11|[@tkruse](https://github.com/tkruse)/[**gpi**](https://github.com/tkruse/gpi)|grape package installer||
 |11|[@yamkazu](https://github.com/yamkazu)/[**jggug-grails-bootcamp**](https://github.com/yamkazu/jggug-grails-bootcamp)|||
-|9|[@int128](https://github.com/int128)/[**feign-oauth2-example**](https://github.com/int128/feign-oauth2-example)|Example of Spring Cloud Feign and Spring Security OAuth2||
 |9|[@tyama](https://github.com/tyama)/[**ratpack-gorm-mongo-example**](https://github.com/tyama/ratpack-gorm-mongo-example)|||
+|8|[@int128](https://github.com/int128)/[**feign-oauth2-example**](https://github.com/int128/feign-oauth2-example)|Example of Spring Cloud Feign and Spring Security OAuth2||
 |7|[@int128](https://github.com/int128)/[**gradle-starter**](https://github.com/int128/gradle-starter)|Hello World application with Gradle||
 |7|[@mike-neck](https://github.com/mike-neck)/[**slim3-gradle**](https://github.com/mike-neck/slim3-gradle)|gradle build file and slim3 sample||
 |6|[@PoohSunny](https://github.com/PoohSunny)/[**geb-study**](https://github.com/PoohSunny/geb-study)|||

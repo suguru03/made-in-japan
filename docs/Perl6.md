@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|16|[@skaji](https://github.com/skaji)/[**Frinfon**](https://github.com/skaji/Frinfon)|minimal sinatra for perl6||
+|18|[@skaji](https://github.com/skaji)/[**Frinfon**](https://github.com/skaji/Frinfon)|minimal sinatra for perl6||
 |9|[@lopnor](https://github.com/lopnor)/[**p6-plackdo**](https://github.com/lopnor/p6-plackdo)|plack-like web interface for perl6||
 |5|[@uasi](https://github.com/uasi)/[**messagepack-pm6**](https://github.com/uasi/messagepack-pm6)|A MessagePack implementation written in Perl 6||
 |4|[@imkira](https://github.com/imkira)/[**hunt-reaktor**](https://github.com/imkira/hunt-reaktor)|hunt.reaktor.com challenge||

@@ -12,5 +12,6 @@
 |4|[@oreshinya](https://github.com/oreshinya)/[**purescript-cherry**](https://github.com/oreshinya/purescript-cherry)|PureScript simple SPA framework.||
 |4|[@oreshinya](https://github.com/oreshinya)/[**purescript-mysql**](https://github.com/oreshinya/purescript-mysql)|Bindings mysql for PureScript||
 |3|[@bouzuya](https://github.com/bouzuya)/[**purescript-examples**](https://github.com/bouzuya/purescript-examples)|||
+|3|[@cdepillabout](https://github.com/cdepillabout)/[**purescript-email-validate**](https://github.com/cdepillabout/purescript-email-validate)|Validating an email address string against RFC 5322||
 |3|[@philopon](https://github.com/philopon)/[**purescript-html**](https://github.com/philopon/purescript-html)|middle level virtual-dom binding for purescript||
 

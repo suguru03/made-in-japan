@@ -6,8 +6,8 @@
 |26|[@ashikase](https://github.com/ashikase)/[**ShowCase**](https://github.com/ashikase/ShowCase)|iOS: Make keyboard show current case.||
 |16|[@novi](https://github.com/novi)/[**FakeClockUp**](https://github.com/novi/FakeClockUp)|FakeClockUp iOS MobileSubstrate PlugIn||
 |10|[@r-plus](https://github.com/r-plus)/[**CloakStatus**](https://github.com/r-plus/CloakStatus)|iOS statusbar item manager.||
-|9|[@r-plus](https://github.com/r-plus)/[**SwitcherCleaner**](https://github.com/r-plus/SwitcherCleaner)|Show only running apps with quit button for iOS AppSwitcher.||
 |8|[@r-plus](https://github.com/r-plus)/[**PullBulletin**](https://github.com/r-plus/PullBulletin)|Pull to clear all bulletin.||
+|8|[@r-plus](https://github.com/r-plus)/[**SwitcherCleaner**](https://github.com/r-plus/SwitcherCleaner)|Show only running apps with quit button for iOS AppSwitcher.||
 |5|[@masui](https://github.com/masui)/[**Gear**](https://github.com/masui/Gear)|「超ナビゲーション」 - ダイヤル/ローラー/パドルなどだけで何でもブラウズする||
 |4|[@r-plus](https://github.com/r-plus)/[**Fascy**](https://github.com/r-plus/Fascy)|Fast scroll fixity.||
 |3|[@r-plus](https://github.com/r-plus)/[**Diclose**](https://github.com/r-plus/Diclose)|Swipe to close iOS system-wide 'Look Up' modal view.||

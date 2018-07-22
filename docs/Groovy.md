@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |248|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
-|222|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|:snowboarder: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
+|223|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|:snowboarder: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
 |138|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
-|124|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
+|125|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |106|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||
 |95|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
 |84|[@hotchemi](https://github.com/hotchemi)/[**gradle-proguard-plugin**](https://github.com/hotchemi/gradle-proguard-plugin)|The gradle plugin to add proguard snippets to your proguard setting file quickly.|[:arrow_upper_right:](http://hotchemi.github.io/gradle-proguard-plugin)|
@@ -12,7 +12,7 @@
 |48|[@gfx](https://github.com/gfx)/[**android-power-assert-plugin**](https://github.com/gfx/android-power-assert-plugin)|Power Assert for Android||
 |37|[@tkruse](https://github.com/tkruse)/[**gradle-groovysh-plugin**](https://github.com/tkruse/gradle-groovysh-plugin)|gradle plugin allowing to start a command-line shell||
 |30|[@nobeans](https://github.com/nobeans)/[**gexcelapi**](https://github.com/nobeans/gexcelapi)|GExcelAPI is a thin Groovy-ish wrapper library of not JExcelAPI but Apache POI.||
-|27|[@int128](https://github.com/int128)/[**gradle-plugin-starter**](https://github.com/int128/gradle-plugin-starter)|Gradle plugin template project||
+|28|[@int128](https://github.com/int128)/[**gradle-plugin-starter**](https://github.com/int128/gradle-plugin-starter)|Gradle plugin template project||
 |23|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-plugin**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
 |23|[@tomorrowkey](https://github.com/tomorrowkey)/[**notifier-plugin**](https://github.com/tomorrowkey/notifier-plugin)|This plugin provide a ability of notifying you that gradle task is finished.||
 |22|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-reporter**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
@@ -39,12 +39,12 @@
 |6|[@kiy0taka](https://github.com/kiy0taka)/[**groovy-consoles**](https://github.com/kiy0taka/groovy-consoles)||[:arrow_upper_right:](http://d.hatena.ne.jp/kiy0taka/)|
 |6|[@making](https://github.com/making)/[**spring-boot-demo-jvm-languages**](https://github.com/making/spring-boot-demo-jvm-languages)|Spring Boot Hello World project using some JVM languages||
 |6|[@operando](https://github.com/operando)/[**gradle-zundokokiyoshi-plugin**](https://github.com/operando/gradle-zundokokiyoshi-plugin)|gradle zundokokiyoshi plugin||
+|5|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-plugin-template**](https://github.com/ksoichiro/gradle-plugin-template)|Template project for Gradle plugin.||
 |5|[@nobeans](https://github.com/nobeans)/[**groovy-osgi-sample**](https://github.com/nobeans/groovy-osgi-sample)|Sample of OSGi powered by Groovy and Gradle||
 |5|[@uehaj](https://github.com/uehaj)/[**groovy-optional**](https://github.com/uehaj/groovy-optional)|Extension module which enhances handilng of Java8's Optional Class in Groovy||
 |5|[@wadahiro](https://github.com/wadahiro)/[**gradle-samples**](https://github.com/wadahiro/gradle-samples)|||
 |4|[@YukiMatsumura](https://github.com/YukiMatsumura)/[**MaterialDesignResources**](https://github.com/YukiMatsumura/MaterialDesignResources)|MaterialDesign Android Resources||
 |4|[@int128](https://github.com/int128)/[**spring-cloud-api-gateway-example**](https://github.com/int128/spring-cloud-api-gateway-example)|Example Implementation of API Gateway Pattern using Spring Cloud Netflix||
-|4|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-plugin-template**](https://github.com/ksoichiro/gradle-plugin-template)|Template project for Gradle plugin.||
 |4|[@mike-neck](https://github.com/mike-neck)/[**idea-gradle-javaee-template**](https://github.com/mike-neck/idea-gradle-javaee-template)|template project of JavaEE-Glassfish application for IntelliJ IDEA and Gradle||
 |4|[@nicolas-raoul](https://github.com/nicolas-raoul)/[**OxygenPump**](https://github.com/nicolas-raoul/OxygenPump)|Downloads the wikicode of Wikitravel.org articles (which are Creative Commons Attribution-ShareAlike 3.0)|[:arrow_upper_right:](http://code.google.com/p/oxygenpump/)|
 |4|[@nobeans](https://github.com/nobeans)/[**grails-request-tracelog**](https://github.com/nobeans/grails-request-tracelog)|Grails 3 plugin to get info logs of request||

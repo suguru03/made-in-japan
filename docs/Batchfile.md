@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|622|[@hakobera](https://github.com/hakobera)/[**nvmw**](https://github.com/hakobera/nvmw)|Simple Node Version Manager for Windows||
+|623|[@hakobera](https://github.com/hakobera)/[**nvmw**](https://github.com/hakobera/nvmw)|Simple Node Version Manager for Windows||
 |162|[@kairyu](https://github.com/kairyu)/[**tkg-toolkit**](https://github.com/kairyu/tkg-toolkit)|A collection of tools used for supporting TKG (TMK Keymap Generator).||
 |11|[@mattn](https://github.com/mattn)/[**pcd**](https://github.com/mattn/pcd)|peco + cd = awesome!||
 |4|[@codelibs](https://github.com/codelibs)/[**fess-server**](https://github.com/codelibs/fess-server)|Fess release distribution on Tomcat||

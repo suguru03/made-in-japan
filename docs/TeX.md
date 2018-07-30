@@ -17,12 +17,13 @@
 |16|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
 |16|[@hitode909](https://github.com/hitode909)/[**soturon**](https://github.com/hitode909/soturon)|卒論||
 |16|[@uribo](https://github.com/uribo)/[**lab.note**](https://github.com/uribo/lab.note)|:notebook_with_decorative_cover: Create Laboratory Note and Report Using R Markdown||
+|14|[@Runnrairu](https://github.com/Runnrairu)/[**machinelearning_text**](https://github.com/Runnrairu/machinelearning_text)|||
 |14|[@orthez](https://github.com/orthez)/[**business-cards-latex**](https://github.com/orthez/business-cards-latex)|Business cards template in latex. Duplex (doubleside) printable. Two languages (back/front) supported. Optimized to be easily extensible.||
-|13|[@Runnrairu](https://github.com/Runnrairu)/[**machinelearning_text**](https://github.com/Runnrairu/machinelearning_text)|||
 |12|[@laysakura](https://github.com/laysakura)/[**TheoryOfComputation**](https://github.com/laysakura/TheoryOfComputation)|A memo of a lecture on Theory of Computation in the University of Tokyo.||
 |11|[@okomok](https://github.com/okomok)/[**strcat**](https://github.com/okomok/strcat)|TeX files for summary of category theory||
 |11|[@vvakame](https://github.com/vvakame)/[**review-css-typesetting**](https://github.com/vvakame/review-css-typesetting)|CSS組版やっていき！||
 |10|[@hamano](https://github.com/hamano)/[**zguide-ja**](https://github.com/hamano/zguide-ja)|||
+|9|[@2K20TC](https://github.com/2K20TC)/[**data-structures-tutorial**](https://github.com/2K20TC/data-structures-tutorial)|HackerEarth Data Structures practice series||
 |9|[@masui](https://github.com/masui)/[**GitHelp**](https://github.com/masui/GitHelp)|GitコマンドのヘルプをExpandHelpで||
 |9|[@ueokande](https://github.com/ueokande)/[**jletteraddress**](https://github.com/ueokande/jletteraddress)|A document class of LaTeX for address side of the Japanese letter.||
 |8|[@acgotaku](https://github.com/acgotaku)/[**USTC-SSE-THESIS**](https://github.com/acgotaku/USTC-SSE-THESIS)|适用于中科大软件学院工程硕士的Latex模板||
@@ -32,19 +33,20 @@
 |7|[@masui](https://github.com/masui)/[**EpisoPass**](https://github.com/masui/EpisoPass)|EpisoPass - creating passwords from episodic memory||
 |7|[@masui](https://github.com/masui)/[**EpisoPass-vps**](https://github.com/masui/EpisoPass-vps)|EpisoPass - creating passwords from episodic memory||
 |7|[@miyukki](https://github.com/miyukki)/[**graduate-thesis**](https://github.com/miyukki/graduate-thesis)|My Graduate Thesis in Keio Univ. Murai Lab.||
+|6|[@master-q](https://github.com/master-q)/[**masterq-docs**](https://github.com/master-q/masterq-docs)|My documents||
 |6|[@sonots](https://github.com/sonots)/[**cvprtoolbox-project**](https://github.com/sonots/cvprtoolbox-project)|Real projects solving problems using https://github.com/sonots/cvprtoolbox||
+|5|[@MizukiSonoko](https://github.com/MizukiSonoko)/[**Story**](https://github.com/MizukiSonoko/Story)|This is a read-only mirror of "水樹素子の物語"📝🎁||
 |5|[@farseerfc](https://github.com/farseerfc)/[**sjtu-thesis-xelatex**](https://github.com/farseerfc/sjtu-thesis-xelatex)|This repo is UNMAINTAINED and DEPRECATED, 代码已过时，请使用下面的模板|[:arrow_upper_right:](https://github.com/weijianwen/sjtu-thesis-template-latex)|
 |5|[@frandiox](https://github.com/frandiox)/[**Nipponline**](https://github.com/frandiox/Nipponline)|||
 |5|[@frankdiox](https://github.com/frankdiox)/[**Nipponline**](https://github.com/frankdiox/Nipponline)|||
 |5|[@ken0nek](https://github.com/ken0nek)/[**thesis-sample**](https://github.com/ken0nek/thesis-sample)|卒業論文のテンプレート|[:arrow_upper_right:](http://qiita.com/ken0nek/items/f98f88c9c45d8499786e)|
 |5|[@tdtds](https://github.com/tdtds)/[**free_as_in_freedom_2.0_ja**](https://github.com/tdtds/free_as_in_freedom_2.0_ja)|Free as in Freedom (2.0)の日本語訳をEPUB化してみる||
-|4|[@MizukiSonoko](https://github.com/MizukiSonoko)/[**Story**](https://github.com/MizukiSonoko/Story)|This is a read-only mirror of "水樹素子の物語"📝🎁||
+|4|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**PythonRoboticsPaper**](https://github.com/AtsushiSakai/PythonRoboticsPaper)|PythonRoboticsPaper||
 |4|[@jilljenn](https://github.com/jilljenn)/[**phd**](https://github.com/jilljenn/phd)|Modèles de tests adaptatifs pour le diagnostic de connaissances dans un cadre d’apprentissage à grande échelle|[:arrow_upper_right:](http://jiji.cat)|
 |4|[@jilljenn](https://github.com/jilljenn)/[**qna**](https://github.com/jilljenn/qna)|Comparing models for adaptive testing (Rasch, DINA, MIRT, GenMA)||
 |4|[@kazuito](https://github.com/kazuito)/[**jkreport**](https://github.com/kazuito/jkreport)|A LaTeX style file for "Jokkō" students.||
 |4|[@leios](https://github.com/leios)/[**CompPhys**](https://github.com/leios/CompPhys)|An open source computational physics book||
 |4|[@liyang](https://github.com/liyang)/[**thesis**](https://github.com/liyang/thesis)|Compiling Concurrency Correctly—Verifying Software Transactional Memory||
-|4|[@master-q](https://github.com/master-q)/[**masterq-docs**](https://github.com/master-q/masterq-docs)|My documents||
 |3|[@Saito-](https://github.com/Saito-)/[**NITKC_Research**](https://github.com/Saito-/NITKC_Research)|釧路高専専攻科 特別研究2||
 |3|[@SythonUK](https://github.com/SythonUK)/[**NITKC_Research**](https://github.com/SythonUK/NITKC_Research)|釧路高専専攻科 特別研究2||
 |3|[@atsushieno](https://github.com/atsushieno)/[**TechBookFest3Xamarin**](https://github.com/atsushieno/TechBookFest3Xamarin)|技術書典3参加者用リポジトリ||

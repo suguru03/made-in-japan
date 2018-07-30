@@ -2,7 +2,7 @@
 |---|---|---|---|
 |248|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
 |223|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|:snowboarder: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
-|138|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
+|141|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
 |125|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |106|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||
 |95|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
@@ -19,7 +19,7 @@
 |22|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-web-resource-plugin**](https://github.com/ksoichiro/gradle-web-resource-plugin)|Gradle plugin to use CoffeeScript, LESS and Bower libraries without Node.js/npm.||
 |20|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-android-git**](https://github.com/ksoichiro/gradle-android-git)|Gradle plugin for Android apps to manage Git dependency (gag)||
 |20|[@uPhyca](https://github.com/uPhyca)/[**gradle-android-apt-plugin**](https://github.com/uPhyca/gradle-android-apt-plugin)|A Gradle plugin which enables annotations processing for Android builds.||
-|16|[@int128](https://github.com/int128)/[**spock-spring-boot-example**](https://github.com/int128/spock-spring-boot-example)|An example of testing Spring Boot application with Spock framework||
+|18|[@int128](https://github.com/int128)/[**spock-spring-boot-example**](https://github.com/int128/spock-spring-boot-example)|An example of testing Spring Boot application with Spock framework||
 |14|[@sys1yagi](https://github.com/sys1yagi)/[**rxandroid-usecase**](https://github.com/sys1yagi/rxandroid-usecase)|||
 |14|[@uehaj](https://github.com/uehaj)/[**groovy-comprehension**](https://github.com/uehaj/groovy-comprehension)|||
 |14|[@uehaj](https://github.com/uehaj)/[**groovyz**](https://github.com/uehaj/groovyz)|POC of Type Class for Groovy||

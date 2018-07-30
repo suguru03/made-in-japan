@@ -4,8 +4,8 @@
 |1809|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
 |251|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
 |236|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
-|184|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/sketch_master/)|
-|136|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
+|191|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/sketch_master/)|
+|135|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |78|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
 |61|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
 |53|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-driver-detection**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
@@ -44,13 +44,16 @@
 |6|[@mah0x211](https://github.com/mah0x211)/[**lua-etcd**](https://github.com/mah0x211/lua-etcd)|etcd client module.||
 |6|[@nagadomi](https://github.com/nagadomi)/[**kaggle-decmeg2014**](https://github.com/nagadomi/kaggle-decmeg2014)|code for DecMeg2014. final place: 5th||
 |6|[@tacigar](https://github.com/tacigar)/[**maidroid**](https://github.com/tacigar/maidroid)|:video_game: Minetest modpack: Provides cute maid robots||
+|5|[@ahq1993](https://github.com/ahq1993)/[**Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction**](https://github.com/ahq1993/Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction)|Multimodal Deep Q-Network (MDQN) for modelling human-like social intelligence.  ||
 |5|[@aw](https://github.com/aw)/[**roomba-nodemcu**](https://github.com/aw/roomba-nodemcu)|Roomba control library for NodeMCU platform|[:arrow_upper_right:](https://nodemcu.a1w.ca)|
+|5|[@farizrahman4u](https://github.com/farizrahman4u)/[**neural_question_generation**](https://github.com/farizrahman4u/neural_question_generation)|Server version of https://github.com/xinyadu/nqg||
 |5|[@mah0x211](https://github.com/mah0x211)/[**lua-coevent**](https://github.com/mah0x211/lua-coevent)|coroutine based kqueue/epoll module||
 |5|[@mirakui](https://github.com/mirakui)/[**nginx-lua-mysql-example**](https://github.com/mirakui/nginx-lua-mysql-example)|||
 |5|[@osafune](https://github.com/osafune)/[**canarium_air**](https://github.com/osafune/canarium_air)|IntelFPGA configuration & Avalon-MM access library for FlashAir||
 |5|[@randrew](https://github.com/randrew)/[**layoutexample**](https://github.com/randrew/layoutexample)|Example use of Layout in a Stingray project||
 |5|[@rhenium](https://github.com/rhenium)/[**awesome-battmon**](https://github.com/rhenium/awesome-battmon)|A simple battery monitor for awesome WM||
 |5|[@takahashim](https://github.com/takahashim)/[**review-pandoc**](https://github.com/takahashim/review-pandoc)|Re:VIEW Writer for Pandoc||
+|4|[@fang2hou](https://github.com/fang2hou)/[**ElvUI_WindTools**](https://github.com/fang2hou/ElvUI_WindTools)|Enhanced Features for ElvUI||
 |4|[@kdrl](https://github.com/kdrl)/[**Wear-This-Today**](https://github.com/kdrl/Wear-This-Today)|Deep learningでファッションコーディネーションを！||
 |4|[@kengonakajima](https://github.com/kengonakajima)/[**lua-parser**](https://github.com/kengonakajima/lua-parser)|Parse and convert Lua script into Sexp with only Ruby and Racc||
 |4|[@koron](https://github.com/koron)/[**redis-qdigest**](https://github.com/koron/redis-qdigest)|||
@@ -61,7 +64,6 @@
 |4|[@umegaya](https://github.com/umegaya)/[**luby**](https://github.com/umegaya/luby)|ruby syntax + luajit performance & ffi||
 |4|[@zick](https://github.com/zick)/[**LuaLisp**](https://github.com/zick/LuaLisp)|Lisp implementation in Lua||
 |3|[@FMS-Cat](https://github.com/FMS-Cat)/[**obj2ms3dascii**](https://github.com/FMS-Cat/obj2ms3dascii)|Wavefront .obj to Milkshape 3d Ascii conversion script||
-|3|[@ahq1993](https://github.com/ahq1993)/[**Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction**](https://github.com/ahq1993/Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction)|Multimodal Deep Q-Network (MDQN) for modelling human-like social intelligence.  ||
 |3|[@ahq1993](https://github.com/ahq1993)/[**Perceivable-Human-Robot-Interaction-using-Neural-Attention-Q-Networks**](https://github.com/ahq1993/Perceivable-Human-Robot-Interaction-using-Neural-Attention-Q-Networks)|Multimodal Deep Attention Recurrent Q-Network for perceivable social human-robot interaction. ||
 |3|[@gajop](https://github.com/gajop)/[**Scened-Core**](https://github.com/gajop/Scened-Core)|Scened: core module||
 |3|[@gajop](https://github.com/gajop)/[**Toolbox**](https://github.com/gajop/Toolbox)|UNOFFICIAL source for: Spring engine based in-game tools useful to developers||

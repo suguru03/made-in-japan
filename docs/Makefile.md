@@ -6,7 +6,7 @@
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
 |32|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
 |27|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
-|25|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-agent**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/mackerelio/mackerel-agent/)|
+|26|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-agent**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/mackerelio/mackerel-agent/)|
 |25|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
 |23|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-24.5-doc-emacs**](https://github.com/ayatakesi/emacs-24.5-doc-emacs)|emacsマニュアルの日本語化と公開|[:arrow_upper_right:](https://ayatakesi.github.io/)|
 |22|[@norton](https://github.com/norton)/[**erlang-starter-kit**](https://github.com/norton/erlang-starter-kit)|Provide a basic set of Erlang/OTP tools for development and for testing||
@@ -34,7 +34,8 @@
 |7|[@Tomohiro](https://github.com/Tomohiro)/[**air**](https://github.com/Tomohiro/air)|Command-line AirPlay video client for Apple TV||
 |7|[@lestrrat](https://github.com/lestrrat)/[**CatalystX-AppBuilder**](https://github.com/lestrrat/CatalystX-AppBuilder)|Programatically Build Your Catalyst Apps||
 |7|[@wadahiro](https://github.com/wadahiro)/[**gitlab-ecs-cloudformation**](https://github.com/wadahiro/gitlab-ecs-cloudformation)|||
-|5|[@TemTemmie](https://github.com/TemTemmie)/[**3Camera**](https://github.com/TemTemmie/3Camera)|A camera homebrew for the Nintendo 3DS.||
+|6|[@TemTemmie](https://github.com/TemTemmie)/[**3Camera**](https://github.com/TemTemmie/3Camera)|A camera homebrew for the Nintendo 3DS.||
+|5|[@abcang](https://github.com/abcang)/[**azpainter-mac**](https://github.com/abcang/azpainter-mac)|AzPainter for Mac||
 |5|[@hanasaan](https://github.com/hanasaan)/[**ofxBinaryPatternMessenger**](https://github.com/hanasaan/ofxBinaryPatternMessenger)|Messaging via Image||
 |5|[@lestrrat](https://github.com/lestrrat)/[**p5-Data-OpenGraph**](https://github.com/lestrrat/p5-Data-OpenGraph)|||
 |5|[@matsumotory](https://github.com/matsumotory)/[**build-kernel-4.x-for-centos6**](https://github.com/matsumotory/build-kernel-4.x-for-centos6)|kernel-4.x build system for CentOS6 on CentOS6||
@@ -56,7 +57,6 @@
 |4|[@nobu](https://github.com/nobu)/[**build-files**](https://github.com/nobu/build-files)|||
 |4|[@ykzts](https://github.com/ykzts)/[**omanko.porn**](https://github.com/ykzts/omanko.porn)||[:arrow_upper_right:](https://omanko.porn/)|
 |3|[@ToshihitoKon](https://github.com/ToshihitoKon)/[**Kotlin_study**](https://github.com/ToshihitoKon/Kotlin_study)|kotlin development env setting util||
-|3|[@abcang](https://github.com/abcang)/[**azpainter-mac**](https://github.com/abcang/azpainter-mac)|AzPainter for Mac||
 |3|[@acomagu](https://github.com/acomagu)/[**awesome-takadanobaba**](https://github.com/acomagu/awesome-takadanobaba)|Hack Takadanobaba.||
 |3|[@cybergarage](https://github.com/cybergarage)/[**round**](https://github.com/cybergarage/round)|Round for C|[:arrow_upper_right:](http://www.cybergarage.org/)|
 |3|[@everpeace](https://github.com/everpeace)/[**kube-zookeeper**](https://github.com/everpeace/kube-zookeeper)|||

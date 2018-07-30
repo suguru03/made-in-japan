@@ -1,37 +1,37 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1614|[@Kintaro](https://github.com/Kintaro)/[**wtftw**](https://github.com/Kintaro/wtftw)|Window Tiling For The Win. A tiling window manager written in Rust||
-|955|[@Keats](https://github.com/Keats)/[**gutenberg**](https://github.com/Keats/gutenberg)|A fast static site generator in a single binary with everything built-in.|[:arrow_upper_right:](https://www.getgutenberg.io)|
-|557|[@Keats](https://github.com/Keats)/[**tera**](https://github.com/Keats/tera)|A template engine for Rust based on Jinja2/Django|[:arrow_upper_right:](https://tera.netlify.com/)|
+|1617|[@Kintaro](https://github.com/Kintaro)/[**wtftw**](https://github.com/Kintaro/wtftw)|Window Tiling For The Win. A tiling window manager written in Rust||
+|967|[@Keats](https://github.com/Keats)/[**gutenberg**](https://github.com/Keats/gutenberg)|A fast static site generator in a single binary with everything built-in.|[:arrow_upper_right:](https://www.getgutenberg.io)|
+|564|[@Keats](https://github.com/Keats)/[**tera**](https://github.com/Keats/tera)|A template engine for Rust based on Jinja2/Django|[:arrow_upper_right:](https://tera.netlify.com/)|
 |348|[@lloydmeta](https://github.com/lloydmeta)/[**frunk**](https://github.com/lloydmeta/frunk)|Funktional generic programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.|[:arrow_upper_right:](https://beachape.com/frunk/)|
-|284|[@maekawatoshiki](https://github.com/maekawatoshiki)/[**naglfar**](https://github.com/maekawatoshiki/naglfar)|A toy web browser implemented in Rust from scratch||
+|287|[@maekawatoshiki](https://github.com/maekawatoshiki)/[**naglfar**](https://github.com/maekawatoshiki/naglfar)|A toy web browser implemented in Rust from scratch||
 |189|[@termoshtt](https://github.com/termoshtt)/[**accel**](https://github.com/termoshtt/accel)|GPGPU Framework for Rust||
-|167|[@bokuweb](https://github.com/bokuweb)/[**rustynes**](https://github.com/bokuweb/rustynes)|👾  An NES emulator by Rust and WebAssembly|[:arrow_upper_right:](https://bokuweb.github.io/rustynes/)|
-|161|[@Keats](https://github.com/Keats)/[**validator**](https://github.com/Keats/validator)|Simple validation for Rust structs||
-|156|[@Keats](https://github.com/Keats)/[**jsonwebtoken**](https://github.com/Keats/jsonwebtoken)|JWT lib in rust||
+|168|[@bokuweb](https://github.com/bokuweb)/[**rustynes**](https://github.com/bokuweb/rustynes)|👾  An NES emulator by Rust and WebAssembly|[:arrow_upper_right:](https://bokuweb.github.io/rustynes/)|
+|163|[@Keats](https://github.com/Keats)/[**validator**](https://github.com/Keats/validator)|Simple validation for Rust structs||
+|160|[@Keats](https://github.com/Keats)/[**jsonwebtoken**](https://github.com/Keats/jsonwebtoken)|JWT lib in rust||
 |107|[@ubnt-intrepid](https://github.com/ubnt-intrepid)/[**susanoo**](https://github.com/ubnt-intrepid/susanoo)|[DEPRECATED] A micro Web framework for Rust, based on Hyper and Tokio|[:arrow_upper_right:](https://ubnt-intrepid.github.io/susanoo/)|
 |76|[@termoshtt](https://github.com/termoshtt)/[**rust-numpy**](https://github.com/termoshtt/rust-numpy)|Rust binding of NumPy C-API||
-|73|[@maekawatoshiki](https://github.com/maekawatoshiki)/[**rapidus**](https://github.com/maekawatoshiki/rapidus)|A toy JavaScript engine in Rust||
+|75|[@maekawatoshiki](https://github.com/maekawatoshiki)/[**rapidus**](https://github.com/maekawatoshiki/rapidus)|A toy JavaScript engine in Rust||
+|68|[@mopp](https://github.com/mopp)/[**Axel**](https://github.com/mopp/Axel)|Operating System||
 |67|[@likr](https://github.com/likr)/[**rust-webgl2-example**](https://github.com/likr/rust-webgl2-example)||[:arrow_upper_right:](https://likr.github.io/rust-webgl2-example)|
-|66|[@mopp](https://github.com/mopp)/[**Axel**](https://github.com/mopp/Axel)|Operating System||
-|63|[@maekawatoshiki](https://github.com/maekawatoshiki)/[**rucc**](https://github.com/maekawatoshiki/rucc)|rucc is a tiny toy C compiler in Rust.||
+|64|[@maekawatoshiki](https://github.com/maekawatoshiki)/[**rucc**](https://github.com/maekawatoshiki/rucc)|rucc is a tiny toy C compiler in Rust.||
 |52|[@Keats](https://github.com/Keats)/[**webrust**](https://github.com/Keats/webrust)|||
 |52|[@nullpo-head](https://github.com/nullpo-head)/[**WSL-Hello-sudo**](https://github.com/nullpo-head/WSL-Hello-sudo)|sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL), or Bash on Ubuntu on Windows. Actually this is a PAM module for Linux.||
-|48|[@Keats](https://github.com/Keats)/[**dbmigrate**](https://github.com/Keats/dbmigrate)|PostgreSQL/SQLite/MySQL migration tool in rust||
+|49|[@Keats](https://github.com/Keats)/[**dbmigrate**](https://github.com/Keats/dbmigrate)|PostgreSQL/SQLite/MySQL migration tool in rust||
 |47|[@termoshtt](https://github.com/termoshtt)/[**ndarray-linalg**](https://github.com/termoshtt/ndarray-linalg)|Linear algebra package for rust-ndarray using LAPACK binding||
 |40|[@jedahan](https://github.com/jedahan)/[**zr**](https://github.com/jedahan/zr)|zsh plugin manager written in rust||
 |39|[@bschwind](https://github.com/bschwind)/[**yoga-rs**](https://github.com/bschwind/yoga-rs)|A Rust Wrapper of Facebook's Yoga, a Flexbox layout engine||
-|37|[@maekawatoshiki](https://github.com/maekawatoshiki)/[**rcaml**](https://github.com/maekawatoshiki/rcaml)|rcaml is an OCaml implementation in Rust ||
-|34|[@OTL](https://github.com/OTL)/[**urdf-viz**](https://github.com/OTL/urdf-viz)|visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux||
+|38|[@maekawatoshiki](https://github.com/maekawatoshiki)/[**rcaml**](https://github.com/maekawatoshiki/rcaml)|rcaml is an OCaml implementation in Rust ||
+|37|[@OTL](https://github.com/OTL)/[**urdf-viz**](https://github.com/OTL/urdf-viz)|visualize URDF/XACRO file, URDF Viewer works on Windows/MacOS/Linux||
 |33|[@sile](https://github.com/sile)/[**libflate**](https://github.com/sile/libflate)|A Rust implementation of DEFLATE algorithm and related formats (ZLIB, GZIP)||
 |31|[@keijiro](https://github.com/keijiro)/[**UnityRustPlugin**](https://github.com/keijiro/UnityRustPlugin)|An example showing how to write a Unity native plugin in Rust||
 |31|[@rhysd](https://github.com/rhysd)/[**git-brws**](https://github.com/rhysd/git-brws)|Command line tool to browse a page for repository, file, commit or diff.|[:arrow_upper_right:](https://crates.io/crates/git-brws)|
 |31|[@sorccu](https://github.com/sorccu)/[**r2d2-redis**](https://github.com/sorccu/r2d2-redis)|||
 |30|[@Keats](https://github.com/Keats)/[**rust-bcrypt**](https://github.com/Keats/rust-bcrypt)|Easily hash and verify passwords using Bcrypt||
-|29|[@farseerfc](https://github.com/farseerfc)/[**ydcv-rs**](https://github.com/farseerfc/ydcv-rs)|A rust version of https://github.com/felixonmars/ydcv/ .||
-|26|[@bokuweb](https://github.com/bokuweb)/[**rust-wasm-game-of-life**](https://github.com/bokuweb/rust-wasm-game-of-life)|👾 Conway's Game of Life written by Rust with WebAssembly|[:arrow_upper_right:](https://bokuweb.github.io/rust-wasm-game-of-life/)|
+|28|[@farseerfc](https://github.com/farseerfc)/[**ydcv-rs**](https://github.com/farseerfc/ydcv-rs)|A rust version of https://github.com/felixonmars/ydcv/ .||
+|27|[@bokuweb](https://github.com/bokuweb)/[**rust-wasm-game-of-life**](https://github.com/bokuweb/rust-wasm-game-of-life)|👾 Conway's Game of Life written by Rust with WebAssembly|[:arrow_upper_right:](https://bokuweb.github.io/rust-wasm-game-of-life/)|
+|27|[@chikoski](https://github.com/chikoski)/[**rust-exercises**](https://github.com/chikoski/rust-exercises)|Rustのエクササイズ||
 |25|[@bokuweb](https://github.com/bokuweb)/[**lcs-image-diff-rs**](https://github.com/bokuweb/lcs-image-diff-rs)|🖼 Image diff tool with LCS algorithm||
-|24|[@chikoski](https://github.com/chikoski)/[**rust-exercises**](https://github.com/chikoski/rust-exercises)|Rustのエクササイズ||
 |24|[@kubo](https://github.com/kubo)/[**rust-oracle**](https://github.com/kubo/rust-oracle)|Oracle driver for Rust||
 |23|[@raskr](https://github.com/raskr)/[**rust-autograd**](https://github.com/raskr/rust-autograd)|Tensors and differentiable operations in Rust|[:arrow_upper_right:](https://docs.rs/autograd/)|
 |21|[@gam0022](https://github.com/gam0022)/[**hanamaru-renderer**](https://github.com/gam0022/hanamaru-renderer)|PathTracing in Rust||
@@ -43,21 +43,23 @@
 |18|[@lloydmeta](https://github.com/lloydmeta)/[**rusqbin**](https://github.com/lloydmeta/rusqbin)|A server that stashes your requests for later retrieval to so you can do end-to-end testing of code that makes HTTP calls. Available as a binary, a Docker image, and a library.||
 |18|[@ubnt-intrepid](https://github.com/ubnt-intrepid)/[**rustplotlib**](https://github.com/ubnt-intrepid/rustplotlib)|A Rust's binding of matplotlib|[:arrow_upper_right:](https://ubnt-intrepid.github.io/rustplotlib/rustplotlib/index.html)|
 |18|[@y-yu](https://github.com/y-yu)/[**trpl-ja-pdf**](https://github.com/y-yu/trpl-ja-pdf)||[:arrow_upper_right:](https://y-yu.github.io/trpl-ja-pdf/a4.pdf)|
+|17|[@KoharaKazuya](https://github.com/KoharaKazuya)/[**forest**](https://github.com/KoharaKazuya/forest)|forest は行指向で構造化された木構造を表すテキストを整形して出力するコマンド||
 |17|[@ryanmcgrath](https://github.com/ryanmcgrath)/[**jelly**](https://github.com/ryanmcgrath/jelly)|User authentication/sessions/etc for Actix-Web. More of a sample project than a crate, but probably useful to some people.||
 |17|[@ubnt-intrepid](https://github.com/ubnt-intrepid)/[**rhq**](https://github.com/ubnt-intrepid/rhq)|Manages your local repositories||
-|16|[@KoharaKazuya](https://github.com/KoharaKazuya)/[**forest**](https://github.com/KoharaKazuya/forest)|forest は行指向で構造化された木構造を表すテキストを整形して出力するコマンド||
 |16|[@sile](https://github.com/sile)/[**erl_dist**](https://github.com/sile/erl_dist)|Rust Implementation of Erlang Distribution Protocol||
+|15|[@Kintaro](https://github.com/Kintaro)/[**sabiwm**](https://github.com/Kintaro/sabiwm)|Tiling Window Manager in Rust for X.org and Wayland. Spiritual successor of WTFTW||
 |15|[@nocotan](https://github.com/nocotan)/[**rmessenger**](https://github.com/nocotan/rmessenger)|A Rust Wrapper for the FaceBook Messenger Bot API||
 |14|[@KOBA789](https://github.com/KOBA789)/[**rust-reversi**](https://github.com/KOBA789/rust-reversi)|Cookpad Spring 1day Internship 2018 Rust プログラミングコースで使用された講義資料||
-|14|[@Kintaro](https://github.com/Kintaro)/[**sabiwm**](https://github.com/Kintaro/sabiwm)|Tiling Window Manager in Rust for X.org and Wayland. Spiritual successor of WTFTW||
 |14|[@banyan](https://github.com/banyan)/[**rust-pretty-bytes**](https://github.com/banyan/rust-pretty-bytes)|Convert bytes to a human readable string: 1337 → 1.34 kB||
 |13|[@azyobuzin](https://github.com/azyobuzin)/[**rust-oauthcli**](https://github.com/azyobuzin/rust-oauthcli)|Yet Another OAuth 1.0 Client Library for Rust|[:arrow_upper_right:](http://azyobuzin.github.io/rust-oauthcli/oauthcli/)|
 |13|[@sile](https://github.com/sile)/[**rustun**](https://github.com/sile/rustun)|A Rust library for implementing STUN server and client asynchronously||
 |13|[@tuvistavie](https://github.com/tuvistavie)/[**rust-simple-nn**](https://github.com/tuvistavie/rust-simple-nn)|Simple neural network implementation in Rust||
 |13|[@ubnt-intrepid](https://github.com/ubnt-intrepid)/[**dot**](https://github.com/ubnt-intrepid/dot)|Yet another management tool for dotfiles||
 |12|[@azyobuzin](https://github.com/azyobuzin)/[**tweetust**](https://github.com/azyobuzin/tweetust)|Twitter API wrapper for Rust|[:arrow_upper_right:](https://docs.rs/tweetust/)|
+|12|[@cosmo0920](https://github.com/cosmo0920)/[**fruently**](https://github.com/cosmo0920/fruently)|A yet another Fluentd logger for Rust. a.k.a. verification of Fluentd's forward protocol playground.||
 |12|[@hhatto](https://github.com/hhatto)/[**cargo-strict**](https://github.com/hhatto/cargo-strict)|avoid unwrap() method||
 |12|[@itchyny](https://github.com/itchyny)/[**mackerel-plugin-rs**](https://github.com/itchyny/mackerel-plugin-rs)|Mackerel plugin helper library for Rust|[:arrow_upper_right:](https://crates.io/crates/mackerel_plugin)|
+|12|[@mizukmb](https://github.com/mizukmb)/[**esa-nippou**](https://github.com/mizukmb/esa-nippou)|Print today's your esa.io articles.||
 |12|[@sile](https://github.com/sile)/[**prometrics**](https://github.com/sile/prometrics)|Rust client library for exposing prometheus metrics||
 |12|[@termoshtt](https://github.com/termoshtt)/[**eom**](https://github.com/termoshtt/eom)|Configurable ODE/PDE solver||
 |12|[@ubnt-intrepid](https://github.com/ubnt-intrepid)/[**tsukuyomi**](https://github.com/ubnt-intrepid/tsukuyomi)|A next generation Web framework for Rust|[:arrow_upper_right:](https://ubnt-intrepid.github.io/tsukuyomi/tsukuyomi/index.html)|
@@ -65,7 +67,6 @@
 |12|[@yxd-hde](https://github.com/yxd-hde)/[**lambda-rust-demo**](https://github.com/yxd-hde/lambda-rust-demo)|Demo for building an AWS lambda function with rust.||
 |11|[@Keats](https://github.com/Keats)/[**graphql-parser**](https://github.com/Keats/graphql-parser)|||
 |11|[@Kintaro](https://github.com/Kintaro)/[**wtftw-contrib**](https://github.com/Kintaro/wtftw-contrib)|A repository for additional wtftw modules||
-|11|[@cosmo0920](https://github.com/cosmo0920)/[**fruently**](https://github.com/cosmo0920/fruently)|A yet another Fluentd logger for Rust. a.k.a. verification of Fluentd's forward protocol playground.||
 |11|[@golddranks](https://github.com/golddranks)/[**ganbare**](https://github.com/golddranks/ganbare)|A quiz/training app for Japanese learners. Written in Rust.||
 |11|[@gong023](https://github.com/gong023)/[**underscore-rust**](https://github.com/gong023/underscore-rust)|utility library for rust|[:arrow_upper_right:](http://gong023.github.io/underscore-rust)|
 |11|[@hhatto](https://github.com/hhatto)/[**kamasu**](https://github.com/hhatto/kamasu)|HTTP/HTTPS/HTTP2 Proxy for PHP Built-in Server, written in Rust||
@@ -73,7 +74,9 @@
 |11|[@sile](https://github.com/sile)/[**eetf**](https://github.com/sile/eetf)|A Rust implementation of Erlang External Term Format||
 |11|[@sile](https://github.com/sile)/[**rustracing**](https://github.com/sile/rustracing)|OpenTracing API for Rust||
 |10|[@faultier](https://github.com/faultier)/[**bee**](https://github.com/faultier/bee)|HTTP request/response parser written in Rust||
+|10|[@kogai](https://github.com/kogai)/[**trs**](https://github.com/kogai/trs)|CLI for English learners||
 |10|[@niba1122](https://github.com/niba1122)/[**rju**](https://github.com/niba1122/rju)|Client Framework for Rust||
+|9|[@Keats](https://github.com/Keats)/[**kickstart**](https://github.com/Keats/kickstart)|A scaffolding tool to get new projects up and running||
 |9|[@KeenS](https://github.com/KeenS)/[**rustlisp**](https://github.com/KeenS/rustlisp)|a type level lisp interpreter on Rust's type system||
 |9|[@KeenS](https://github.com/KeenS)/[**transaction-rs**](https://github.com/KeenS/transaction-rs)|The transaction abstraction library and its executors for rust||
 |9|[@golddranks](https://github.com/golddranks)/[**binary_macros**](https://github.com/golddranks/binary_macros)|Rust macros for decoding base64 and hexadecimal -like encodings to [u8] literals.||
@@ -90,12 +93,12 @@
 |8|[@hhatto](https://github.com/hhatto)/[**rust-snippets**](https://github.com/hhatto/rust-snippets)|my code snippets for Rust||
 |8|[@hibariya](https://github.com/hibariya)/[**pty-shell**](https://github.com/hibariya/pty-shell)|Spawn a shell and control it through pty||
 |8|[@jedahan](https://github.com/jedahan)/[**rustboy**](https://github.com/jedahan/rustboy)|A game boy emulator in rust||
+|8|[@kjmrknsn](https://github.com/kjmrknsn)/[**livy-manager**](https://github.com/kjmrknsn/livy-manager)|Livy Manager - Web UI for Managing Apache Livy Sessions||
 |8|[@maekawatoshiki](https://github.com/maekawatoshiki)/[**tourmaline**](https://github.com/maekawatoshiki/tourmaline)|Tourmaline is a AOT programming language with LLVM||
 |7|[@KOBA789](https://github.com/KOBA789)/[**batch-loader-rs**](https://github.com/KOBA789/batch-loader-rs)|The contracts and implementation for query batching||
 |7|[@KOBA789](https://github.com/KOBA789)/[**batch-recv-rs**](https://github.com/KOBA789/batch-recv-rs)|Batched receive from queues||
 |7|[@KeenS](https://github.com/KeenS)/[**kappaLisp**](https://github.com/KeenS/kappaLisp)|SKK Lisp intepreter||
 |7|[@OTL](https://github.com/OTL)/[**k**](https://github.com/OTL/k)|k: Kinematics Library for rust-lang||
-|7|[@kjmrknsn](https://github.com/kjmrknsn)/[**livy-manager**](https://github.com/kjmrknsn/livy-manager)|Livy Manager - Web UI for Managing Apache Livy Sessions||
 |7|[@komamitsu](https://github.com/komamitsu)/[**td-client-rust**](https://github.com/komamitsu/td-client-rust)|Rust Client Library for Treasure Data||
 |7|[@kumabook](https://github.com/kumabook)/[**readability**](https://github.com/kumabook/readability)|Port of arc90labs-readability with rust|[:arrow_upper_right:](http://readability-rs.herokuapp.com/web/index.html)|
 |7|[@rhysd](https://github.com/rhysd)/[**OhmaeCaml**](https://github.com/rhysd/OhmaeCaml)|One of MinCaml variants written in Rust||
@@ -124,6 +127,8 @@
 |6|[@yuku-t](https://github.com/yuku-t)/[**x86**](https://github.com/yuku-t/x86)|x86 emulator written in Rust. Just for study||
 |5|[@ItinoseSan](https://github.com/ItinoseSan)/[**ru-gnu-core-utils**](https://github.com/ItinoseSan/ru-gnu-core-utils)|Dummy Implementation of a part of GNU Core Utilities in rust-lang||
 |5|[@KeenS](https://github.com/KeenS)/[**http_server**](https://github.com/KeenS/http_server)|||
+|5|[@KeenS](https://github.com/KeenS)/[**webml**](https://github.com/KeenS/webml)|A Standard ML Compiler for the Web||
+|5|[@PG-MANA](https://github.com/PG-MANA)/[**Methylenix**](https://github.com/PG-MANA/Methylenix)|アセンブリとRustで構成されたOS||
 |5|[@hayatoito](https://github.com/hayatoito)/[**tapl-in-rust**](https://github.com/hayatoito/tapl-in-rust)|||
 |5|[@hhatto](https://github.com/hhatto)/[**boom-rust**](https://github.com/hhatto/boom-rust)|Rust implementation of boom||
 |5|[@hhatto](https://github.com/hhatto)/[**woothee-rust**](https://github.com/hhatto/woothee-rust)|Rust user-agent strings parser||
@@ -140,7 +145,6 @@
 |5|[@termoshtt](https://github.com/termoshtt)/[**rust-fftw3**](https://github.com/termoshtt/rust-fftw3)|FFTW3 binding for Rust||
 |5|[@uasi](https://github.com/uasi)/[**rust-echo-server**](https://github.com/uasi/rust-echo-server)|[OUTDATED] A cute echo server (with a preliminary socket module) written in Rust||
 |5|[@ubnt-intrepid](https://github.com/ubnt-intrepid)/[**mison-rs**](https://github.com/ubnt-intrepid/mison-rs)|[experimental] An implementation of JSON parser for Rust, based on Mison||
-|4|[@KeenS](https://github.com/KeenS)/[**webml**](https://github.com/KeenS/webml)|A Standard ML Compiler for the Web||
 |4|[@Kintaro](https://github.com/Kintaro)/[**DreamOxide**](https://github.com/Kintaro/DreamOxide)|Dreamcast Emulator written in Rust. Only CPU for now.||
 |4|[@banyan](https://github.com/banyan)/[**rust-git-gsub**](https://github.com/banyan/rust-git-gsub)|A Git subcommand to do gsub in a repository||
 |4|[@fulmicoton](https://github.com/fulmicoton)/[**fastdivide**](https://github.com/fulmicoton/fastdivide)|||
@@ -159,13 +163,14 @@
 |4|[@ubnt-intrepid](https://github.com/ubnt-intrepid)/[**pecors**](https://github.com/ubnt-intrepid/pecors)|Yet another text selector written in Rust||
 |4|[@ubnt-intrepid](https://github.com/ubnt-intrepid)/[**wan**](https://github.com/ubnt-intrepid/wan)|わん ∪･ω･∪||
 |4|[@usagi](https://github.com/usagi)/[**usagi-rust-reference**](https://github.com/usagi/usagi-rust-reference)|うさぎさんでもわかるRustプログラミング言語リファレンス||
-|3|[@0918nobita](https://github.com/0918nobita)/[**Rust-note**](https://github.com/0918nobita/Rust-note)|プログラミング言語Rustのサンプルコード群||
+|3|[@0918nobita](https://github.com/0918nobita)/[**Rust-note**](https://github.com/0918nobita/Rust-note)|プログラミング言語 Rust のサンプルコード群||
 |3|[@Constellation](https://github.com/Constellation)/[**rust-jsc**](https://github.com/Constellation/rust-jsc)|WebKit JavaScriptCore rust binding||
 |3|[@Keats](https://github.com/Keats)/[**scl**](https://github.com/Keats/scl)|||
 |3|[@KeenS](https://github.com/KeenS)/[**WebAssembler-rs**](https://github.com/KeenS/WebAssembler-rs)|An in memory wasm assembler for Rust||
+|3|[@KeenS](https://github.com/KeenS)/[**igaguri**](https://github.com/KeenS/igaguri)|my toy shell written in Rust||
 |3|[@OTL](https://github.com/OTL)/[**rrt**](https://github.com/OTL/rrt)|RRT (Rapidly-exploring Random Tree) library in Rust||
 |3|[@OTL](https://github.com/OTL)/[**urdf-rs**](https://github.com/OTL/urdf-rs)|URDF parser using serde-xml-rs for rust||
-|3|[@TinyKitten](https://github.com/TinyKitten)/[**StationAPI**](https://github.com/TinyKitten/StationAPI)|近くの駅を返すクソAPI||
+|3|[@asayers](https://github.com/asayers)/[**easybench-rs**](https://github.com/asayers/easybench-rs)|A lightweight rust benchmarking library|[:arrow_upper_right:](https://docs.rs/easybench/)|
 |3|[@chantera](https://github.com/chantera)/[**dynet-rs**](https://github.com/chantera/dynet-rs)|The Rust Language Bindings for DyNet||
 |3|[@cosmo0920](https://github.com/cosmo0920)/[**ruroonga_client**](https://github.com/cosmo0920/ruroonga_client)|A tiny Groonga client via HTTP written by Rust language.||
 |3|[@eagletmt](https://github.com/eagletmt)/[**idolmap**](https://github.com/eagletmt/idolmap)|||
@@ -177,6 +182,7 @@
 |3|[@hrysd](https://github.com/hrysd)/[**rust-on-heroku-with-docker**](https://github.com/hrysd/rust-on-heroku-with-docker)|Rust, Docker, Heroku|[:arrow_upper_right:](http://docs.hrysd.org/2015/05/11/rust_on_heroku_with_docker/)|
 |3|[@itchyny](https://github.com/itchyny)/[**mackerel-client-rs**](https://github.com/itchyny/mackerel-client-rs)|An API client library for Mackerel written in Rust (still in the developing stage; host APIs are not implemented yet)|[:arrow_upper_right:](https://crates.io/crates/mackerel_client)|
 |3|[@itchyny](https://github.com/itchyny)/[**procalive**](https://github.com/itchyny/procalive)|procalive keeps your process alive||
+|3|[@joemphilips](https://github.com/joemphilips)/[**rust-bitcoin-playground**](https://github.com/joemphilips/rust-bitcoin-playground)|sandbox for attempting to implement spv client and lightning network daemon.||
 |3|[@kjmrknsn](https://github.com/kjmrknsn)/[**dataopen**](https://github.com/kjmrknsn/dataopen)|Collaborative Data Analysis Platform||
 |3|[@koko1000ban](https://github.com/koko1000ban)/[**k-shortest-paths**](https://github.com/koko1000ban/k-shortest-paths)|Finding k-th shortest paths with Dijkstra's Algorithm||
 |3|[@myuon](https://github.com/myuon)/[**madder**](https://github.com/myuon/madder)|MADDER (Akane)||

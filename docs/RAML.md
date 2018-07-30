@@ -1,4 +1,4 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|72|[@chatwork](https://github.com/chatwork)/[**api**](https://github.com/chatwork/api)|チャットワークAPI公式リポジトリ||
+|73|[@chatwork](https://github.com/chatwork)/[**api**](https://github.com/chatwork/api)|チャットワークAPI公式リポジトリ||
 

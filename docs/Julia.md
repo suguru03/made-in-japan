@@ -1,5 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
+|43|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
 |32|[@r9y9](https://github.com/r9y9)/[**VoiceConversion.jl**](https://github.com/r9y9/VoiceConversion.jl)|[Deprecated] Statistical Voice Conversion in Julia. See the website link for new library|[:arrow_upper_right:](https://github.com/r9y9/nnmnkwii)|
 |28|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
 |23|[@bicycle1885](https://github.com/bicycle1885)/[**RandomForests.jl**](https://github.com/bicycle1885/RandomForests.jl)|Random Forests in Julia||
@@ -22,7 +23,9 @@
 |4|[@r9y9](https://github.com/r9y9)/[**Libfreenect2.jl**](https://github.com/r9y9/Libfreenect2.jl)|A Julia wrapper for libfreenect2||
 |4|[@r9y9](https://github.com/r9y9)/[**REAPER.jl**](https://github.com/r9y9/REAPER.jl)|A Julia interface for REAPER (Robust Epoch And Pitch EstimatoR)||
 |4|[@r9y9](https://github.com/r9y9)/[**RobustPCA.jl**](https://github.com/r9y9/RobustPCA.jl)|Robust Principal Component Analysis in Julia||
+|3|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**JuliaCompetitiveProgramming**](https://github.com/AtsushiSakai/JuliaCompetitiveProgramming)|Julia samples for competitive programming||
 |3|[@bicycle1885](https://github.com/bicycle1885)/[**BioBenchmarks.jl**](https://github.com/bicycle1885/BioBenchmarks.jl)|Benchmark set of Bio.jl||
+|3|[@bicycle1885](https://github.com/bicycle1885)/[**CellFishing.jl**](https://github.com/bicycle1885/CellFishing.jl)|||
 |3|[@bicycle1885](https://github.com/bicycle1885)/[**FMM.jl**](https://github.com/bicycle1885/FMM.jl)|||
 |3|[@bicycle1885](https://github.com/bicycle1885)/[**docker-biojulia**](https://github.com/bicycle1885/docker-biojulia)|Dockerfile for BioJulia||
 |3|[@nzw0301](https://github.com/nzw0301)/[**TopicModels.jl**](https://github.com/nzw0301/TopicModels.jl)|||

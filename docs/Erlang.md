@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1187|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|1188|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
 |219|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
 |153|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |76|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
@@ -8,6 +8,7 @@
 |39|[@higepon](https://github.com/higepon)/[**mio**](https://github.com/higepon/mio)|In short, mio is memcached + "range search".||
 |38|[@chvanikoff](https://github.com/chvanikoff)/[**cowboy_session**](https://github.com/chvanikoff/cowboy_session)|Cowboy session management||
 |34|[@MiCHiLU](https://github.com/MiCHiLU)/[**shirasu**](https://github.com/MiCHiLU/shirasu)|Shirasu.ws is a WebSocket server framework based on Misultin and Erlang/OTP|[:arrow_upper_right:](http://code.google.com/p/shirasu/)|
+|34|[@michilu](https://github.com/michilu)/[**shirasu**](https://github.com/michilu/shirasu)|Shirasu.ws is a WebSocket server framework based on Misultin and Erlang/OTP|[:arrow_upper_right:](http://code.google.com/p/shirasu/)|
 |33|[@iij](https://github.com/iij)/[**lmq**](https://github.com/iij/lmq)|Lightweight Message Queue||
 |33|[@jj1bdx](https://github.com/jj1bdx)/[**sshrpc**](https://github.com/jj1bdx/sshrpc)|Erlang SSH RPC module (experimental)||
 |31|[@kuenishi](https://github.com/kuenishi)/[**riak_scr_jp**](https://github.com/kuenishi/riak_scr_jp)|Repository for Riak Source Code Reading @Tokyo||
@@ -90,6 +91,7 @@
 |4|[@voluntas](https://github.com/voluntas)/[**mnesia_key_cache**](https://github.com/voluntas/mnesia_key_cache)|Mnesia Key Cache||
 |4|[@voluntas](https://github.com/voluntas)/[**yet-another-msgpack-erlang**](https://github.com/voluntas/yet-another-msgpack-erlang)|Yet another MessagePack Erlang library (Original https://github.com/msgpack/msgpack-erlang)||
 |3|[@everpeace](https://github.com/everpeace)/[**ring-benchmark**](https://github.com/everpeace/ring-benchmark)|This is my solution for the "Ring Benchmark" exercise in "Programming in Erlang".||
+|3|[@gruis](https://github.com/gruis)/[**rabbitmq-events**](https://github.com/gruis/rabbitmq-events)|RabbitMQ plugin that publishes internal events||
 |3|[@hibari](https://github.com/hibari)/[**congestion-watcher**](https://github.com/hibari/congestion-watcher)||[:arrow_upper_right:](http://hibari.github.com/hibari-doc/)|
 |3|[@hibari](https://github.com/hibari)/[**gdss-admin**](https://github.com/hibari/gdss-admin)||[:arrow_upper_right:](http://hibari.github.com/hibari-doc/)|
 |3|[@hibari](https://github.com/hibari)/[**gdss-client**](https://github.com/hibari/gdss-client)||[:arrow_upper_right:](http://hibari.github.com/hibari-doc/)|

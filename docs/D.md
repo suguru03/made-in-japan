@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|44|[@repeatedly](https://github.com/repeatedly)/[**mustache-d**](https://github.com/repeatedly/mustache-d)|Mustache template engine for D|[:arrow_upper_right:](http://mustache.github.com/)|
+|45|[@repeatedly](https://github.com/repeatedly)/[**mustache-d**](https://github.com/repeatedly/mustache-d)|Mustache template engine for D|[:arrow_upper_right:](http://mustache.github.com/)|
 |35|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
 |31|[@Rayerd](https://github.com/Rayerd)/[**dfl**](https://github.com/Rayerd/dfl)|This unofficial project for D2.x is a migration of D Forms Library (DFL) that is managed on SVN. DFL is a Win32 windowing library for the D programming language. We support only D2 HEAD.|[:arrow_upper_right:](http://wiki.dprogramming.com/Dfl/HomePage)|
 |26|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
@@ -17,6 +17,7 @@
 |8|[@repeatedly](https://github.com/repeatedly)/[**d-volkswagen**](https://github.com/repeatedly/d-volkswagen)|Volkswagen detects when your tests are being run in a CI server, and makes them pass.||
 |8|[@repeatedly](https://github.com/repeatedly)/[**reed**](https://github.com/repeatedly/reed)|Arango Driver for D||
 |7|[@alphaKAI](https://github.com/alphaKAI)/[**doco**](https://github.com/alphaKAI/doco)|Yet another fuzzy text selector.||
+|7|[@alphaKAI](https://github.com/alphaKAI)/[**tvm**](https://github.com/alphaKAI/tvm)|Toy virtual machine and JIT Engine with JavaScript Like Syntax||
 |7|[@kiridaruma](https://github.com/kiridaruma)/[**kisaragi**](https://github.com/kiridaruma/kisaragi)|Realtime Web service framework きさらぎ(kisaragi)||
 |6|[@Pctg-x8](https://github.com/Pctg-x8)/[**nanovg-d**](https://github.com/Pctg-x8/nanovg-d)|NanoVG porting for dlang||
 |6|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**numir**](https://github.com/ShigekiKarita/numir)|numpy-like API wrappers of mir||

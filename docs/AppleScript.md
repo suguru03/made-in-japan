@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|24|[@dvcrn](https://github.com/dvcrn)/[**applescripts**](https://github.com/dvcrn/applescripts)|My ever growing collection of applescript scripts||
+|25|[@dvcrn](https://github.com/dvcrn)/[**applescripts**](https://github.com/dvcrn/applescripts)|My ever growing collection of applescript scripts||
 |23|[@dvcrn](https://github.com/dvcrn)/[**omnifocus-scripts**](https://github.com/dvcrn/omnifocus-scripts)|My OmniFocus script collection||
 |16|[@harasou](https://github.com/harasou)/[**may-i-paste**](https://github.com/harasou/may-i-paste)|May I Paste ?||
 |8|[@rcmdnk](https://github.com/rcmdnk)/[**AppleScript**](https://github.com/rcmdnk/AppleScript)|AppleScript||

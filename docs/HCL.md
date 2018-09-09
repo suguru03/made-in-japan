@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|62|[@r7kamura](https://github.com/r7kamura)/[**mastodon-terraform**](https://github.com/r7kamura/mastodon-terraform)|Boilerplate for running Mastodon on AWS using Terraform and CircleCI.||
-|22|[@freedomofkeima](https://github.com/freedomofkeima)/[**terraform-docker-ecs**](https://github.com/freedomofkeima/terraform-docker-ecs)|Manage your ASG + ECS Cluster (Docker) with Terraform||
-|18|[@shufo](https://github.com/shufo)/[**terraform-boilerplate-ecs-alb**](https://github.com/shufo/terraform-boilerplate-ecs-alb)|Terraform boilerplate for ECS with ALB.||
+|64|[@r7kamura](https://github.com/r7kamura)/[**mastodon-terraform**](https://github.com/r7kamura/mastodon-terraform)|Boilerplate for running Mastodon on AWS using Terraform and CircleCI.||
+|24|[@freedomofkeima](https://github.com/freedomofkeima)/[**terraform-docker-ecs**](https://github.com/freedomofkeima/terraform-docker-ecs)|Manage your ASG + ECS Cluster (Docker) with Terraform||
+|19|[@int128](https://github.com/int128)/[**kops-terraform-starter**](https://github.com/int128/kops-terraform-starter)|Kubernetes with nginx-ingress and ALB on AWS (using kops and Terraform)||
+|19|[@shufo](https://github.com/shufo)/[**terraform-boilerplate-ecs-alb**](https://github.com/shufo/terraform-boilerplate-ecs-alb)|Terraform boilerplate for ECS with ALB.||
 |17|[@knakayama](https://github.com/knakayama)/[**aws-terraform-playground**](https://github.com/knakayama/aws-terraform-playground)|terraform examples on AWS||
-|13|[@int128](https://github.com/int128)/[**kops-terraform-starter**](https://github.com/int128/kops-terraform-starter)|Kubernetes with nginx-ingress and ALB on AWS (using kops and Terraform)||
 |12|[@shogomuranushi](https://github.com/shogomuranushi)/[**oreno-terraform**](https://github.com/shogomuranushi/oreno-terraform)|||
 |11|[@inokappa](https://github.com/inokappa)/[**oreno-terraform-ecs**](https://github.com/inokappa/oreno-terraform-ecs)|||
 |11|[@knakayama](https://github.com/knakayama)/[**terraform-circleci-demo**](https://github.com/knakayama/terraform-circleci-demo)|||
@@ -23,4 +23,5 @@
 |3|[@jun06t](https://github.com/jun06t)/[**terraform-sample**](https://github.com/jun06t/terraform-sample)|terraform examples||
 |3|[@knakayama](https://github.com/knakayama)/[**blue-green-deployment-with-codedeploy-and-terraform**](https://github.com/knakayama/blue-green-deployment-with-codedeploy-and-terraform)|||
 |3|[@knakayama](https://github.com/knakayama)/[**tf-alb-demo**](https://github.com/knakayama/tf-alb-demo)|||
+|3|[@making](https://github.com/making)/[**cfcr-aws**](https://github.com/making/cfcr-aws)|How to deploy Cloud Foundry Container Runtime (formerly known as Kubo/Kubernete on BOSH) on AWS||
 

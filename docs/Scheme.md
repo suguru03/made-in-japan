@@ -2,7 +2,7 @@
 |---|---|---|---|
 |110|[@higepon](https://github.com/higepon)/[**mosh**](https://github.com/higepon/mosh)|Mosh is a free and fast interpreter for Scheme as specified in the R6RS.  |[:arrow_upper_right:](http://mosh.monaos.org/)|
 |55|[@ympbyc](https://github.com/ympbyc)/[**Carrot**](https://github.com/ympbyc/Carrot)|Purely functional lisp featuring: default currying, left-associative s-expression, lazy evaluation, static type system, and statically determined multimethods.||
-|24|[@kana](https://github.com/kana)/[**sicp**](https://github.com/kana/sicp)|||
+|25|[@kana](https://github.com/kana)/[**sicp**](https://github.com/kana/sicp)|||
 |13|[@higepon](https://github.com/higepon)/[**spon**](https://github.com/higepon/spon)|Scheme Portable Library Network|[:arrow_upper_right:](http://wiki.monaos.org/pukiwiki.php?R6RS%2F%BD%B8%C0%D1%BD%EA%2F%B7%C7%BC%A8%C8%C4)|
 |12|[@mokehehe](https://github.com/mokehehe)/[**backend-to-frontend**](https://github.com/mokehehe/backend-to-frontend)|Compilers: Backend to Frontend and Back to Front Again by Abdulaziz Ghuloum||
 |12|[@uents](https://github.com/uents)/[**sicp**](https://github.com/uents/sicp)|Reading "Structure and Interpretation of Computer Programs"||
@@ -23,6 +23,7 @@
 |5|[@shinnya](https://github.com/shinnya)/[**Gauche-growl-gntp**](https://github.com/shinnya/Gauche-growl-gntp)|A library for Growl(GNTP) written in Scheme.||
 |4|[@higepon](https://github.com/higepon)/[**Scheme-junk-scripts**](https://github.com/higepon/Scheme-junk-scripts)|Junk Scheme R6RS scripts which work on Mosh Scheme||
 |4|[@higepon](https://github.com/higepon)/[**Scheme-rbtrees**](https://github.com/higepon/Scheme-rbtrees)|Red-Black trees||
+|4|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**wttree**](https://github.com/kazu-yamamoto/wttree)|Fixing weight-balanced tree in MIT/GNU Scheme and slib||
 |4|[@keita](https://github.com/keita)/[**project_euler**](https://github.com/keita/project_euler)|solutions for project euler's problems||
 |4|[@liquidz](https://github.com/liquidz)/[**gauche**](https://github.com/liquidz/gauche)|source for gauche||
 |4|[@mtakuya](https://github.com/mtakuya)/[**gauche-yahoo-jp**](https://github.com/mtakuya/gauche-yahoo-jp)|Gauche module - Yahoo! Japan Developer Network API Module||
@@ -33,7 +34,6 @@
 |3|[@arika](https://github.com/arika)/[**jisuiutils**](https://github.com/arika/jisuiutils)|||
 |3|[@dpwright](https://github.com/dpwright)/[**lp.scm**](https://github.com/dpwright/lp.scm)|Simple module to add literate programming support to Scheme||
 |3|[@hi104](https://github.com/hi104)/[**sicp_lesson**](https://github.com/hi104/sicp_lesson)|||
-|3|[@kazu-yamamoto](https://github.com/kazu-yamamoto)/[**wttree**](https://github.com/kazu-yamamoto/wttree)|Fixing weight-balanced tree in MIT/GNU Scheme and slib||
 |3|[@leque](https://github.com/leque)/[**paradoc**](https://github.com/leque/paradoc)|A Scribble to HTML/LaTeX converter.||
 |3|[@masaedw](https://github.com/masaedw)/[**sicp**](https://github.com/masaedw/sicp)|Try answering all questions||
 |3|[@mhayashi1120](https://github.com/mhayashi1120)/[**Gauche-net-oauth**](https://github.com/mhayashi1120/Gauche-net-oauth)|OAuth library for Gauche||

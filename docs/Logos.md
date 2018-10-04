@@ -4,7 +4,7 @@
 |35|[@r-plus](https://github.com/r-plus)/[**SwipeShiftCaret**](https://github.com/r-plus/SwipeShiftCaret)|Caret micromanager shift the caret via swipe.||
 |28|[@r-plus](https://github.com/r-plus)/[**libcanopenurl**](https://github.com/r-plus/libcanopenurl)|Stay away iOS 9 canOpenURL: restriction.||
 |26|[@ashikase](https://github.com/ashikase)/[**ShowCase**](https://github.com/ashikase/ShowCase)|iOS: Make keyboard show current case.||
-|16|[@novi](https://github.com/novi)/[**FakeClockUp**](https://github.com/novi/FakeClockUp)|FakeClockUp iOS MobileSubstrate PlugIn||
+|17|[@novi](https://github.com/novi)/[**FakeClockUp**](https://github.com/novi/FakeClockUp)|FakeClockUp iOS MobileSubstrate PlugIn||
 |10|[@r-plus](https://github.com/r-plus)/[**CloakStatus**](https://github.com/r-plus/CloakStatus)|iOS statusbar item manager.||
 |8|[@r-plus](https://github.com/r-plus)/[**PullBulletin**](https://github.com/r-plus/PullBulletin)|Pull to clear all bulletin.||
 |8|[@r-plus](https://github.com/r-plus)/[**SwitcherCleaner**](https://github.com/r-plus/SwitcherCleaner)|Show only running apps with quit button for iOS AppSwitcher.||

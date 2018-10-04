@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|300|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
-|26|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
+|314|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
+|28|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
 |17|[@ntaoo](https://github.com/ntaoo)/[**material2_dart**](https://github.com/ntaoo/material2_dart)|angular/material2 for Dart.||
 |13|[@ehr174](https://github.com/ehr174)/[**dartstrap**](https://github.com/ehr174/dartstrap)|||
+|13|[@kikuchy](https://github.com/kikuchy)/[**crashlytics**](https://github.com/kikuchy/crashlytics)|Flutter plugin for (Fabric) Crashlytics on Android and iOS. (Unofficial)||
 |13|[@konifar](https://github.com/konifar)/[**flutter-for-non-engineers**](https://github.com/konifar/flutter-for-non-engineers)|エンジニア以外の職種の方がFlutterでの開発を通してなんとなくアプリ開発について知るためのリポジトリです||
 |13|[@sh4869](https://github.com/sh4869)/[**twitter.dart**](https://github.com/sh4869/twitter.dart)|Twitter API Library in Dart |[:arrow_upper_right:](https://pub.dartlang.org/packages/twitter)|
-|10|[@kikuchy](https://github.com/kikuchy)/[**crashlytics**](https://github.com/kikuchy/crashlytics)|Flutter plugin for (Fabric) Crashlytics on Android and iOS. (Unofficial)||
 |9|[@vvakame](https://github.com/vvakame)/[**teaolive**](https://github.com/vvakame/teaolive)|BDD Test Framework for Dart. it was inspired by the Jasmine(JavaScript).||
 |8|[@ntaoo](https://github.com/ntaoo)/[**ng2_g_signin**](https://github.com/ntaoo/ng2_g_signin)|Google sign-in component for Angular2 Dart||
 |8|[@technohippy](https://github.com/technohippy)/[**angular-translate.dart**](https://github.com/technohippy/angular-translate.dart)|I18N Library for AngularDart||
@@ -25,6 +25,8 @@
 |3|[@axross](https://github.com/axross)/[**before-run**](https://github.com/axross/before-run)||[:arrow_upper_right:](https://before.run/)|
 |3|[@gfx](https://github.com/gfx)/[**dart-sessionstorage**](https://github.com/gfx/dart-sessionstorage)|An example to make use of WebStorage||
 |3|[@mono0926](https://github.com/mono0926)/[**arc-flutter**](https://github.com/mono0926/arc-flutter)|||
+|3|[@mono0926](https://github.com/mono0926)/[**instagram-flutter**](https://github.com/mono0926/instagram-flutter)|||
+|3|[@najeira](https://github.com/najeira)/[**flutter-video-player**](https://github.com/najeira/flutter-video-player)|A Flutter plugin for iOS and Android for video using ExoPlayer||
 |3|[@ntaoo](https://github.com/ntaoo)/[**game_of_life.dart**](https://github.com/ntaoo/game_of_life.dart)|implementation of http://en.wikipedia.org/wiki/Conway's_Game_of_Life||
 |3|[@yshrsmz](https://github.com/yshrsmz)/[**bip39-dart**](https://github.com/yshrsmz/bip39-dart)|BIP39 mnemonic code implementation in Dart lang||
 |3|[@zick](https://github.com/zick)/[**DartLisp**](https://github.com/zick/DartLisp)|Lisp implementation in Dart||

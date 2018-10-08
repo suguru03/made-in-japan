@@ -1,6 +1,5 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|127|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Janus WebRTC Gateway Docker Image for Media Streaming Expert User||
 |75|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
 |53|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
@@ -17,7 +16,7 @@
 |19|[@zchee](https://github.com/zchee)/[**tmux-ja**](https://github.com/zchee/tmux-ja)|Translation tmux man page project||
 |16|[@itchyny](https://github.com/itchyny)/[**fastinvsqrt**](https://github.com/itchyny/fastinvsqrt)|Fast inverse square root in programming languages||
 |15|[@keiji](https://github.com/keiji)/[**farewell-adt-book**](https://github.com/keiji/farewell-adt-book)|Android Studio完全移行ガイド||
-|13|[@kazuki](https://github.com/kazuki)/[**mediacodec.wasm**](https://github.com/kazuki/mediacodec.wasm)|Audio/Video Codec in WebAssembly||
+|14|[@kazuki](https://github.com/kazuki)/[**mediacodec.wasm**](https://github.com/kazuki/mediacodec.wasm)|Audio/Video Codec in WebAssembly||
 |12|[@mumoshu](https://github.com/mumoshu)/[**kube-fluentd**](https://github.com/mumoshu/kube-fluentd)|An ubuntu-slim/s6-overlay/confd based docker image for running fluentd in Kubernetes pods/daemonsets||
 |12|[@user340](https://github.com/user340)/[**fdgw2**](https://github.com/user340/fdgw2)|Minimal NetBSD Distribution Making Tool||
 |12|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiSocketIOClient**](https://github.com/yagitoshiro/TiSocketIOClient)|Socket.io client for Appcelerator Titanium||
@@ -40,6 +39,7 @@
 |6|[@enukane](https://github.com/enukane)/[**c90-plan9-assembler-handbook**](https://github.com/enukane/c90-plan9-assembler-handbook)|C90で頒布した "Plan 9 Assembler Handbook" の文章データ||
 |5|[@abcang](https://github.com/abcang)/[**azpainter-mac**](https://github.com/abcang/azpainter-mac)|AzPainter for Mac||
 |5|[@hanasaan](https://github.com/hanasaan)/[**ofxBinaryPatternMessenger**](https://github.com/hanasaan/ofxBinaryPatternMessenger)|Messaging via Image||
+|5|[@kmc-jp](https://github.com/kmc-jp)/[**cerussite**](https://github.com/kmc-jp/cerussite)|C compiler written in Rust||
 |5|[@lestrrat](https://github.com/lestrrat)/[**p5-Data-OpenGraph**](https://github.com/lestrrat/p5-Data-OpenGraph)|||
 |5|[@matsumotory](https://github.com/matsumotory)/[**build-kernel-4.x-for-centos6**](https://github.com/matsumotory/build-kernel-4.x-for-centos6)|kernel-4.x build system for CentOS6 on CentOS6||
 |5|[@mkouhei](https://github.com/mkouhei)/[**makefile-go**](https://github.com/mkouhei/makefile-go)|Makefile for Golang||
@@ -54,7 +54,6 @@
 |4|[@hakuturu583](https://github.com/hakuturu583)/[**robocup_packages**](https://github.com/hakuturu583/robocup_packages)|Codes for playing soccer in robocup SPL||
 |4|[@hanasaan](https://github.com/hanasaan)/[**ofxBinaryPatternMessegner**](https://github.com/hanasaan/ofxBinaryPatternMessegner)|Messaging via Image||
 |4|[@kazuho](https://github.com/kazuho)/[**quic-perf-metrics**](https://github.com/kazuho/quic-perf-metrics)|||
-|4|[@kmc-jp](https://github.com/kmc-jp)/[**cerussite**](https://github.com/kmc-jp/cerussite)|C compiler written in Rust||
 |4|[@linyows](https://github.com/linyows)/[**tomohisaoda.com**](https://github.com/linyows/tomohisaoda.com)|📝 my blog|[:arrow_upper_right:](http://tomohisaoda.com)|
 |4|[@mumoshu](https://github.com/mumoshu)/[**kube-logrotate**](https://github.com/mumoshu/kube-logrotate)|An ubuntu-slim/s6-overlay/confd based docker image for running logrotate via Kubernetes daemonsets||
 |4|[@nobu](https://github.com/nobu)/[**build-files**](https://github.com/nobu/build-files)|||

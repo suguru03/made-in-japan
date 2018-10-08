@@ -12,6 +12,7 @@
 |4|[@noraesae](https://github.com/noraesae)/[**purescript-halogen-free-html**](https://github.com/noraesae/purescript-halogen-free-html)|Free monad for Halogen HTML||
 |4|[@oreshinya](https://github.com/oreshinya)/[**purescript-cherry**](https://github.com/oreshinya/purescript-cherry)|PureScript simple SPA framework.||
 |4|[@oreshinya](https://github.com/oreshinya)/[**purescript-mysql**](https://github.com/oreshinya/purescript-mysql)|Bindings mysql for PureScript||
+|3|[@bouzuya](https://github.com/bouzuya)/[**tamaru**](https://github.com/bouzuya/tamaru)|||
 |3|[@cdepillabout](https://github.com/cdepillabout)/[**purescript-email-validate**](https://github.com/cdepillabout/purescript-email-validate)|Validating an email address string against RFC 5322||
 |3|[@oreshinya](https://github.com/oreshinya)/[**purescript-crypto**](https://github.com/oreshinya/purescript-crypto)|PureScript wrapper for crypto module of NodeJS||
 |3|[@philopon](https://github.com/philopon)/[**purescript-html**](https://github.com/philopon/purescript-html)|middle level virtual-dom binding for purescript||

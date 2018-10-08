@@ -12,9 +12,9 @@
 |33|[@pi8027](https://github.com/pi8027)/[**typeinfer**](https://github.com/pi8027/typeinfer)|Type inference in OCaml|[:arrow_upper_right:](https://github.com/pi8027/typeinfer)|
 |25|[@jilljenn](https://github.com/jilljenn)/[**business-card**](https://github.com/jilljenn/business-card)|A business card in LaTeX||
 |25|[@ryuichiueda](https://github.com/ryuichiueda)/[**ShellGeiData**](https://github.com/ryuichiueda/ShellGeiData)|Files for practice of shellgei||
-|20|[@takahashim](https://github.com/takahashim)/[**review-sample-book**](https://github.com/takahashim/review-sample-book)|ReVIEWの書籍サンプルデータです。||
+|21|[@takahashim](https://github.com/takahashim)/[**review-sample-book**](https://github.com/takahashim/review-sample-book)|ReVIEWの書籍サンプルデータです。||
+|19|[@vvakame](https://github.com/vvakame)/[**review-css-typesetting**](https://github.com/vvakame/review-css-typesetting)|CSS組版やっていき！||
 |18|[@kentaro](https://github.com/kentaro)/[**Bancor_Protocol_Whitepaper_ja**](https://github.com/kentaro/Bancor_Protocol_Whitepaper_ja)|Japanese Translation of The Bancor Protocol Whitepaper||
-|18|[@vvakame](https://github.com/vvakame)/[**review-css-typesetting**](https://github.com/vvakame/review-css-typesetting)|CSS組版やっていき！||
 |16|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
 |16|[@hitode909](https://github.com/hitode909)/[**soturon**](https://github.com/hitode909/soturon)|卒論||
 |16|[@uribo](https://github.com/uribo)/[**lab.note**](https://github.com/uribo/lab.note)|:notebook_with_decorative_cover: Create Laboratory Note and Report Using R Markdown||
@@ -60,4 +60,5 @@
 |3|[@ryuichiueda](https://github.com/ryuichiueda)/[**commentary_on_graph-based_slam**](https://github.com/ryuichiueda/commentary_on_graph-based_slam)|graph-based SLAMの説明文||
 |3|[@uetchy](https://github.com/uetchy)/[**heroku-buildpack-pandoc**](https://github.com/uetchy/heroku-buildpack-pandoc)|A buildpack provides pandoc and pandoc-citeproc.||
 |3|[@yusuketomoto](https://github.com/yusuketomoto)/[**ofDocset**](https://github.com/yusuketomoto/ofDocset)|||
+|3|[@yutannihilation](https://github.com/yutannihilation)/[**practical-r-package-development-ja**](https://github.com/yutannihilation/practical-r-package-development-ja)|Tips for package development|[:arrow_upper_right:](https://bookdown.org/yutannihilation/practical-r-package-development-ja/)|
 

@@ -4,9 +4,9 @@
 |75|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
 |53|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
-|32|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
+|33|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
 |30|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
-|28|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Install Alpine Linux as a WSL Instance (for Windows 10 FCU 64bit or later). Lightest WSL Distribution.|[:arrow_upper_right:](https://git.io/alpwsl)|
+|29|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Install Alpine Linux as a WSL Instance (for Windows 10 FCU 64bit or later). Lightest WSL Distribution.|[:arrow_upper_right:](https://git.io/alpwsl)|
 |26|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-agent**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/mackerelio/mackerel-agent/)|
 |25|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
 |23|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-24.5-doc-emacs**](https://github.com/ayatakesi/emacs-24.5-doc-emacs)|emacsマニュアルの日本語化と公開|[:arrow_upper_right:](https://ayatakesi.github.io/)|
@@ -17,7 +17,7 @@
 |19|[@zchee](https://github.com/zchee)/[**tmux-ja**](https://github.com/zchee/tmux-ja)|Translation tmux man page project||
 |16|[@itchyny](https://github.com/itchyny)/[**fastinvsqrt**](https://github.com/itchyny/fastinvsqrt)|Fast inverse square root in programming languages||
 |15|[@keiji](https://github.com/keiji)/[**farewell-adt-book**](https://github.com/keiji/farewell-adt-book)|Android Studio完全移行ガイド||
-|13|[@kazuki](https://github.com/kazuki)/[**mediacodec.wasm**](https://github.com/kazuki/mediacodec.wasm)|Audio/Video Codec in WebAssembly||
+|14|[@kazuki](https://github.com/kazuki)/[**mediacodec.wasm**](https://github.com/kazuki/mediacodec.wasm)|Audio/Video Codec in WebAssembly||
 |12|[@mumoshu](https://github.com/mumoshu)/[**kube-fluentd**](https://github.com/mumoshu/kube-fluentd)|An ubuntu-slim/s6-overlay/confd based docker image for running fluentd in Kubernetes pods/daemonsets||
 |12|[@user340](https://github.com/user340)/[**fdgw2**](https://github.com/user340/fdgw2)|Minimal NetBSD Distribution Making Tool||
 |12|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiSocketIOClient**](https://github.com/yagitoshiro/TiSocketIOClient)|Socket.io client for Appcelerator Titanium||
@@ -54,7 +54,6 @@
 |4|[@hakuturu583](https://github.com/hakuturu583)/[**robocup_packages**](https://github.com/hakuturu583/robocup_packages)|Codes for playing soccer in robocup SPL||
 |4|[@hanasaan](https://github.com/hanasaan)/[**ofxBinaryPatternMessegner**](https://github.com/hanasaan/ofxBinaryPatternMessegner)|Messaging via Image||
 |4|[@kazuho](https://github.com/kazuho)/[**quic-perf-metrics**](https://github.com/kazuho/quic-perf-metrics)|||
-|4|[@kmc-jp](https://github.com/kmc-jp)/[**cerussite**](https://github.com/kmc-jp/cerussite)|C compiler written in Rust||
 |4|[@linyows](https://github.com/linyows)/[**tomohisaoda.com**](https://github.com/linyows/tomohisaoda.com)|📝 my blog|[:arrow_upper_right:](http://tomohisaoda.com)|
 |4|[@mumoshu](https://github.com/mumoshu)/[**kube-logrotate**](https://github.com/mumoshu/kube-logrotate)|An ubuntu-slim/s6-overlay/confd based docker image for running logrotate via Kubernetes daemonsets||
 |4|[@nobu](https://github.com/nobu)/[**build-files**](https://github.com/nobu/build-files)|||

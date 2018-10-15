@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |45|[@repeatedly](https://github.com/repeatedly)/[**mustache-d**](https://github.com/repeatedly/mustache-d)|Mustache template engine for D|[:arrow_upper_right:](http://mustache.github.com/)|
-|35|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
+|40|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
 |31|[@Rayerd](https://github.com/Rayerd)/[**dfl**](https://github.com/Rayerd/dfl)|This unofficial project for D2.x is a migration of D Forms Library (DFL) that is managed on SVN. DFL is a Win32 windowing library for the D programming language. We support only D2 HEAD.|[:arrow_upper_right:](http://wiki.dprogramming.com/Dfl/HomePage)|
 |26|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
 |24|[@thorikawa](https://github.com/thorikawa)/[**AndroidObjectRecognition**](https://github.com/thorikawa/AndroidObjectRecognition)|App to demo using android camera and recognize specific object.||
@@ -26,6 +26,7 @@
 |6|[@kubo39](https://github.com/kubo39)/[**elfhook.d**](https://github.com/kubo39/elfhook.d)|monkey patching for shared object.||
 |6|[@namachan10777](https://github.com/namachan10777)/[**dmatch**](https://github.com/namachan10777/dmatch)|Pattern match for D Language.||
 |6|[@shawnps](https://github.com/shawnps)/[**kanjihub**](https://github.com/shawnps/kanjihub)|a hub for kanji||
+|5|[@MakeNowJust](https://github.com/MakeNowJust)/[**AnalF_ck**](https://github.com/MakeNowJust/AnalF_ck)|淫夢プログラミング言語||
 |5|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**snck**](https://github.com/ShigekiKarita/snck)|tqdm-like progress bar for D||
 |5|[@alphaKAI](https://github.com/alphaKAI)/[**HindleyMilnerD**](https://github.com/alphaKAI/HindleyMilnerD)|A HindleyMilner Type Inference System for mini-ML in D.||
 |5|[@alphaKAI](https://github.com/alphaKAI)/[**twitnotify**](https://github.com/alphaKAI/twitnotify)|The Twitter Notification tool. Written in D.||
@@ -39,7 +40,6 @@
 |4|[@repeatedly](https://github.com/repeatedly)/[**siphash-d**](https://github.com/repeatedly/siphash-d)|D implementation of SipHash||
 |4|[@repeatedly](https://github.com/repeatedly)/[**zstd-d**](https://github.com/repeatedly/zstd-d)|D binding for Zstandard||
 |4|[@youz](https://github.com/youz)/[**grasses**](https://github.com/youz/grasses)|Various implementations of 'Grass' the grass-planting programming language||
-|3|[@MakeNowJust](https://github.com/MakeNowJust)/[**AnalF_ck**](https://github.com/MakeNowJust/AnalF_ck)|淫夢プログラミング言語||
 |3|[@Pctg-x8](https://github.com/Pctg-x8)/[**objective-gl**](https://github.com/Pctg-x8/objective-gl)|High-level OpenGL Wrapper/Helper||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-graphviz**](https://github.com/ShigekiKarita/d-graphviz)|Graphviz utility for D||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-svm**](https://github.com/ShigekiKarita/d-svm)|minimal svm implementation||

@@ -1,21 +1,22 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|401|[@syuilo](https://github.com/syuilo)/[**misskey**](https://github.com/syuilo/misskey)|A planet of fediverse ✨🐢🚀✨|[:arrow_upper_right:](https://misskey.xyz)|
+|420|[@syuilo](https://github.com/syuilo)/[**misskey**](https://github.com/syuilo/misskey)|✨🌎✨ A planet of fediverse ✨🚀✨|[:arrow_upper_right:](https://misskey.xyz)|
 |257|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
-|169|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt(v2) & Firebase SSR, RTDB, Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.herokuapp.com/)|
-|113|[@FMS-Cat](https://github.com/FMS-Cat)/[**automaton**](https://github.com/FMS-Cat/automaton)|Animation engine with Timeline GUI for creative coding||
-|85|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
-|79|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js.|[:arrow_upper_right:](https://potato4d.github.io/vue-fixed-header/)|
+|177|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting/  Functions SSR), RTDB, Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
+|118|[@FMS-Cat](https://github.com/FMS-Cat)/[**automaton**](https://github.com/FMS-Cat/automaton)|Animation engine with Timeline GUI for creative coding||
+|87|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
+|85|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://potato4d.github.io/vue-fixed-header/)|
 |32|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
 |31|[@meganetaaan](https://github.com/meganetaaan)/[**vue-maze**](https://github.com/meganetaaan/vue-maze)|A Vue.js component of a simple maze game.||
 |25|[@miyaoka](https://github.com/miyaoka)/[**gh-blog**](https://github.com/miyaoka/gh-blog)|GitHub Issue as Blog|[:arrow_upper_right:](https://gh-blog.netlify.com/)|
 |21|[@potato4d](https://github.com/potato4d)/[**vue-dev-template**](https://github.com/potato4d/vue-dev-template)|Vue.js development template.|[:arrow_upper_right:](http://qiita.com/potato4d/items/55a60f21c26bf889afd5)|
 |19|[@frandiox](https://github.com/frandiox)/[**vue-onsenui-kitchensink**](https://github.com/frandiox/vue-onsenui-kitchensink)|Vue.js + Onsen UI Kitchen Sink Example||
+|18|[@miyaoka](https://github.com/miyaoka)/[**grid-generator**](https://github.com/miyaoka/grid-generator)|CSS Grid Layout generator|[:arrow_upper_right:](https://vue-grid-generator.netlify.com/)|
 |17|[@potato4d](https://github.com/potato4d)/[**preloaders**](https://github.com/potato4d/preloaders)|My preloader collection using CSS Animation.|[:arrow_upper_right:](https://preloaders.potato4d.me)|
 |16|[@andoshin11](https://github.com/andoshin11)/[**vue-cli-plugin-nuxt-starter-template**](https://github.com/andoshin11/vue-cli-plugin-nuxt-starter-template)|Nuxt.js starter project template for vue-cli v3. https://starter.nuxtjs.org||
-|16|[@miyaoka](https://github.com/miyaoka)/[**grid-generator**](https://github.com/miyaoka/grid-generator)|CSS Grid Layout generator|[:arrow_upper_right:](https://vue-grid-generator.netlify.com/)|
 |16|[@sunya9](https://github.com/sunya9)/[**reveal-editor**](https://github.com/sunya9/reveal-editor)|Electron+Vue+bulma+SimpleMDE+reveal.js = Reveal editor||
 |15|[@potato4d](https://github.com/potato4d)/[**nuxt-and-wp-api-on-docker**](https://github.com/potato4d/nuxt-and-wp-api-on-docker)|||
+|15|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japanese first book deeply handled about Nuxt.js|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
 |11|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**speakerdeck-mobile**](https://github.com/YuheiNakasaka/speakerdeck-mobile)|mobile viewer for speakerdeck|[:arrow_upper_right:](https://mspeakerdeck.com/)|
 |11|[@ktsn](https://github.com/ktsn)/[**vue-ast-explorer**](https://github.com/ktsn/vue-ast-explorer)|Vue template AST explorer https://ktsn.github.io/vue-ast-explorer/||
 |11|[@nju33](https://github.com/nju33)/[**qiow**](https://github.com/nju33/qiow)|An app of the Qiita for viewing widely||
@@ -30,13 +31,13 @@
 |6|[@sho-yamane](https://github.com/sho-yamane)/[**nuxt-hp**](https://github.com/sho-yamane/nuxt-hp)|||
 |5|[@argelius](https://github.com/argelius)/[**vue-onsenui**](https://github.com/argelius/vue-onsenui)|Vue components for Onsen UI||
 |5|[@konojunya](https://github.com/konojunya)/[**HEW2018**](https://github.com/konojunya/HEW2018)|🏫 Project of HAL Event Week 2018. Introduction to modern web services using Go, Vue, AWS, Docker and CircleCI.||
+|5|[@potato4d](https://github.com/potato4d)/[**potato4d.me**](https://github.com/potato4d/potato4d.me)|Potato4d's Website|[:arrow_upper_right:](https://potato4d.me)|
 |5|[@sunecosuri](https://github.com/sunecosuri)/[**vue-component-sandbox**](https://github.com/sunecosuri/vue-component-sandbox)|SandBox for Vue.js||
 |4|[@0918nobita](https://github.com/0918nobita)/[**Rider-S**](https://github.com/0918nobita/Rider-S)|安全なサイクリングをサポートするPWA|[:arrow_upper_right:](https://api-project-1039166349340.firebaseapp.com)|
 |4|[@0918nobita](https://github.com/0918nobita)/[**ToyCon-Garage-Emulator**](https://github.com/0918nobita/ToyCon-Garage-Emulator)|Nintendo LaboのToy-Conガレージで作成するプログラムを、ブラウザ上でデバッグできるエミュレータです。||
 |4|[@hakatashi](https://github.com/hakatashi)/[**coupling.moe**](https://github.com/hakatashi/coupling.moe)|全てのカップリングを応援します|[:arrow_upper_right:](https://coupling.moe/)|
 |4|[@hypermkt](https://github.com/hypermkt)/[**vuejs-samples**](https://github.com/hypermkt/vuejs-samples)|||
 |4|[@nakajmg](https://github.com/nakajmg)/[**cgmd-browser**](https://github.com/nakajmg/cgmd-browser)|Realtime preview for codegrid-markdown||
-|4|[@potato4d](https://github.com/potato4d)/[**potato4d.me**](https://github.com/potato4d/potato4d.me)|Potato4d's Website|[:arrow_upper_right:](https://potato4d.me)|
 |4|[@tkc](https://github.com/tkc)/[**vue-image-uploader**](https://github.com/tkc/vue-image-uploader)| vue.js image uploader |[:arrow_upper_right:](https://tkc.github.io/vue-image-uploader/)|
 |3|[@TinyKitten](https://github.com/TinyKitten)/[**KittenBlog**](https://github.com/TinyKitten/KittenBlog)|TinyKitten's headless blog built with Nuxt.js|[:arrow_upper_right:](https://blog.tinykitten.me)|
 |3|[@argelius](https://github.com/argelius)/[**vue-onsenui-sample**](https://github.com/argelius/vue-onsenui-sample)|A sample app using Vue.js 2.0 and Onsen UI 2.0||

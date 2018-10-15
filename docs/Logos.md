@@ -6,7 +6,7 @@
 |26|[@ashikase](https://github.com/ashikase)/[**ShowCase**](https://github.com/ashikase/ShowCase)|iOS: Make keyboard show current case.||
 |17|[@novi](https://github.com/novi)/[**FakeClockUp**](https://github.com/novi/FakeClockUp)|FakeClockUp iOS MobileSubstrate PlugIn||
 |10|[@r-plus](https://github.com/r-plus)/[**CloakStatus**](https://github.com/r-plus/CloakStatus)|iOS statusbar item manager.||
-|8|[@r-plus](https://github.com/r-plus)/[**PullBulletin**](https://github.com/r-plus/PullBulletin)|Pull to clear all bulletin.||
+|9|[@r-plus](https://github.com/r-plus)/[**PullBulletin**](https://github.com/r-plus/PullBulletin)|Pull to clear all bulletin.||
 |8|[@r-plus](https://github.com/r-plus)/[**SwitcherCleaner**](https://github.com/r-plus/SwitcherCleaner)|Show only running apps with quit button for iOS AppSwitcher.||
 |5|[@masui](https://github.com/masui)/[**Gear**](https://github.com/masui/Gear)|「超ナビゲーション」 - ダイヤル/ローラー/パドルなどだけで何でもブラウズする||
 |4|[@coord-e](https://github.com/coord-e)/[**CopyBundleID**](https://github.com/coord-e/CopyBundleID)|This Tweak adds a quick action shortcut to every app that will copy the app's bundle identifier.||

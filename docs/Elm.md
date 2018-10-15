@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|83|[@cotoami](https://github.com/cotoami)/[**cotoami**](https://github.com/cotoami/cotoami)|Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.|[:arrow_upper_right:](https://cotoa.me)|
+|85|[@cotoami](https://github.com/cotoami)/[**cotoami**](https://github.com/cotoami/cotoami)|Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.|[:arrow_upper_right:](https://cotoa.me)|
 |76|[@jinjor](https://github.com/jinjor)/[**elm-time-travel**](https://github.com/jinjor/elm-time-travel)|An experimental debugger for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-time-travel/latest)|
 |66|[@yang-wei](https://github.com/yang-wei)/[**elmflux**](https://github.com/yang-wei/elmflux)|Visualization of Elm Signals|[:arrow_upper_right:](http://yang-wei.github.io/elmflux/)|
 |51|[@jinjor](https://github.com/jinjor)/[**elm-devtool**](https://github.com/jinjor/elm-devtool)|An attempt to use Elm's debugger on Chrome DevTools||
@@ -16,9 +16,9 @@
 |10|[@jinjor](https://github.com/jinjor)/[**elm-binary-decoder**](https://github.com/jinjor/elm-binary-decoder)|Experimental binary decoder|[:arrow_upper_right:](https://jinjor.github.io/elm-binary-decoder/)|
 |8|[@jinjor](https://github.com/jinjor)/[**elm-transition**](https://github.com/jinjor/elm-transition)|A simple transition library for Elm||
 |8|[@jinjor](https://github.com/jinjor)/[**elm-xml-parser**](https://github.com/jinjor/elm-xml-parser)|XML parser for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-xml-parser/latest)|
+|8|[@rnons](https://github.com/rnons)/[**elm-svg-loader**](https://github.com/rnons/elm-svg-loader)|A webpack loader that inlines external SVG file into Elm views||
 |7|[@arowM](https://github.com/arowM)/[**elm-tokyo4**](https://github.com/arowM/elm-tokyo4)|Presentations for Elm Tokyo Meetup #4.|[:arrow_upper_right:](https://arowm.github.io/elm-tokyo4/presentation/)|
 |7|[@jinjor](https://github.com/jinjor)/[**toy-lang**](https://github.com/jinjor/toy-lang)|Just for fun!||
-|7|[@rnons](https://github.com/rnons)/[**elm-svg-loader**](https://github.com/rnons/elm-svg-loader)|A webpack loader that inlines external SVG file into Elm views||
 |6|[@jinjor](https://github.com/jinjor)/[**elm-csv-decode**](https://github.com/jinjor/elm-csv-decode)|CSV decoder for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-csv-decode/latest/CsvDecode)|
 |6|[@youpy](https://github.com/youpy)/[**elm-midi**](https://github.com/youpy/elm-midi)|An Elm library for working with MIDI||
 |5|[@arowM](https://github.com/arowM)/[**elm-reference**](https://github.com/arowM/elm-reference)|An immutable approach imitating references of mutable languages.|[:arrow_upper_right:](http://package.elm-lang.org/packages/arowM/elm-reference/latest)|

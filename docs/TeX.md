@@ -4,11 +4,11 @@
 |112|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hypervisor**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
 |103|[@y-yu](https://github.com/y-yu)/[**trpl-2nd-pdf**](https://github.com/y-yu/trpl-2nd-pdf)|PDF of Japanese The Rust Programming Language: 2nd Edition |[:arrow_upper_right:](https://y-yu.github.io/trpl-2nd-pdf/book.pdf)|
 |77|[@neubig](https://github.com/neubig)/[**naacl18tutorial**](https://github.com/neubig/naacl18tutorial)|NAACL 2018 Tutorial: Modelling Natural Language, Programs, and their Intersection||
-|56|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
-|51|[@tkamishima](https://github.com/tkamishima)/[**recsysdoc**](https://github.com/tkamishima/recsysdoc)|Algorithms of Recommender Systems : A survey paper of recommender systems (written in Japanese)|[:arrow_upper_right:](http://www.kamishima.net/archive/recsysdoc.pdf)|
-|46|[@hamano](https://github.com/hamano)/[**the-little-mongodb-book**](https://github.com/hamano/the-little-mongodb-book)|MongoDBの薄い本(The Little MongoDB Book)|[:arrow_upper_right:](http://www.cuspy.org/diary/2012-04-17)|
+|55|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
+|52|[@tkamishima](https://github.com/tkamishima)/[**recsysdoc**](https://github.com/tkamishima/recsysdoc)|Algorithms of Recommender Systems : A survey paper of recommender systems (written in Japanese)|[:arrow_upper_right:](http://www.kamishima.net/archive/recsysdoc.pdf)|
+|47|[@hamano](https://github.com/hamano)/[**the-little-mongodb-book**](https://github.com/hamano/the-little-mongodb-book)|MongoDBの薄い本(The Little MongoDB Book)|[:arrow_upper_right:](http://www.cuspy.org/diary/2012-04-17)|
 |44|[@mizzy](https://github.com/mizzy)/[**serverspec-thesis**](https://github.com/mizzy/serverspec-thesis)|||
-|35|[@kmaed](https://github.com/kmaed)/[**kmbeamer**](https://github.com/kmaed/kmbeamer)|My themes for Beamer.||
+|36|[@kmaed](https://github.com/kmaed)/[**kmbeamer**](https://github.com/kmaed/kmbeamer)|My themes for Beamer.||
 |33|[@pi8027](https://github.com/pi8027)/[**typeinfer**](https://github.com/pi8027/typeinfer)|Type inference in OCaml|[:arrow_upper_right:](https://github.com/pi8027/typeinfer)|
 |25|[@jilljenn](https://github.com/jilljenn)/[**business-card**](https://github.com/jilljenn/business-card)|A business card in LaTeX||
 |25|[@ryuichiueda](https://github.com/ryuichiueda)/[**ShellGeiData**](https://github.com/ryuichiueda/ShellGeiData)|Files for practice of shellgei||
@@ -24,6 +24,7 @@
 |12|[@laysakura](https://github.com/laysakura)/[**TheoryOfComputation**](https://github.com/laysakura/TheoryOfComputation)|A memo of a lecture on Theory of Computation in the University of Tokyo.||
 |11|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**PythonRoboticsPaper**](https://github.com/AtsushiSakai/PythonRoboticsPaper)|PythonRoboticsPaper||
 |11|[@hamano](https://github.com/hamano)/[**zguide-ja**](https://github.com/hamano/zguide-ja)|||
+|10|[@vvakame](https://github.com/vvakame)/[**graphql-with-go-book**](https://github.com/vvakame/graphql-with-go-book)||[:arrow_upper_right:](https://vvakame.booth.pm/items/1055228)|
 |9|[@2K20TC](https://github.com/2K20TC)/[**data-structures-tutorial**](https://github.com/2K20TC/data-structures-tutorial)|HackerEarth Data Structures practice series||
 |9|[@masui](https://github.com/masui)/[**GitHelp**](https://github.com/masui/GitHelp)|GitコマンドのヘルプをExpandHelpで||
 |9|[@ueokande](https://github.com/ueokande)/[**jletteraddress**](https://github.com/ueokande/jletteraddress)|A document class of LaTeX for address side of the Japanese letter.||
@@ -43,6 +44,7 @@
 |5|[@jilljenn](https://github.com/jilljenn)/[**qna**](https://github.com/jilljenn/qna)|Comparing models for adaptive testing (Rasch, DINA, MIRT, GenMA)||
 |5|[@ken0nek](https://github.com/ken0nek)/[**thesis-sample**](https://github.com/ken0nek/thesis-sample)|卒業論文のテンプレート|[:arrow_upper_right:](http://qiita.com/ken0nek/items/f98f88c9c45d8499786e)|
 |5|[@tdtds](https://github.com/tdtds)/[**free_as_in_freedom_2.0_ja**](https://github.com/tdtds/free_as_in_freedom_2.0_ja)|Free as in Freedom (2.0)の日本語訳をEPUB化してみる||
+|4|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines||
 |4|[@jilljenn](https://github.com/jilljenn)/[**phd**](https://github.com/jilljenn/phd)|Modèles de tests adaptatifs pour le diagnostic de connaissances dans un cadre d’apprentissage à grande échelle|[:arrow_upper_right:](http://jiji.cat)|
 |4|[@kazuito](https://github.com/kazuito)/[**jkreport**](https://github.com/kazuito/jkreport)|A LaTeX style file for "Jokkō" students.||
 |4|[@leios](https://github.com/leios)/[**CompPhys**](https://github.com/leios/CompPhys)|An open source computational physics book||
@@ -52,7 +54,6 @@
 |3|[@SythonUK](https://github.com/SythonUK)/[**NITKC_Research**](https://github.com/SythonUK/NITKC_Research)|釧路高専専攻科 特別研究2||
 |3|[@atsushieno](https://github.com/atsushieno)/[**TechBookFest3Xamarin**](https://github.com/atsushieno/TechBookFest3Xamarin)|技術書典3参加者用リポジトリ||
 |3|[@id774](https://github.com/id774)/[**sandbox**](https://github.com/id774/sandbox)|"Sandbox" means a software testing environment for independent evaluation, monitoring or testing||
-|3|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines||
 |3|[@masayukig](https://github.com/masayukig)/[**better-testing-through-statistics**](https://github.com/masayukig/better-testing-through-statistics)|||
 |3|[@nichiyoubi](https://github.com/nichiyoubi)/[**temporal_logic_ml**](https://github.com/nichiyoubi/temporal_logic_ml)|時相論理勉強会/Haskell勉強会 用リポジトリ||
 |3|[@ntddk](https://github.com/ntddk)/[**paper**](https://github.com/ntddk/paper)|LaTeX template||

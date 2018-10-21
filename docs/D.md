@@ -3,7 +3,7 @@
 |45|[@repeatedly](https://github.com/repeatedly)/[**mustache-d**](https://github.com/repeatedly/mustache-d)|Mustache template engine for D|[:arrow_upper_right:](http://mustache.github.com/)|
 |40|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
 |31|[@Rayerd](https://github.com/Rayerd)/[**dfl**](https://github.com/Rayerd/dfl)|This unofficial project for D2.x is a migration of D Forms Library (DFL) that is managed on SVN. DFL is a Win32 windowing library for the D programming language. We support only D2 HEAD.|[:arrow_upper_right:](http://wiki.dprogramming.com/Dfl/HomePage)|
-|26|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
+|27|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
 |24|[@thorikawa](https://github.com/thorikawa)/[**AndroidObjectRecognition**](https://github.com/thorikawa/AndroidObjectRecognition)|App to demo using android camera and recognize specific object.||
 |17|[@kotet](https://github.com/kotet)/[**progress**](https://github.com/kotet/progress)|Easy progress reporting for D||
 |13|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**grain**](https://github.com/ShigekiKarita/grain)|autograd mir and CUDA library for dynamic neural networks in D.|[:arrow_upper_right:](https://shigekikarita.github.io/grain)|
@@ -26,7 +26,6 @@
 |6|[@kubo39](https://github.com/kubo39)/[**elfhook.d**](https://github.com/kubo39/elfhook.d)|monkey patching for shared object.||
 |6|[@namachan10777](https://github.com/namachan10777)/[**dmatch**](https://github.com/namachan10777/dmatch)|Pattern match for D Language.||
 |6|[@shawnps](https://github.com/shawnps)/[**kanjihub**](https://github.com/shawnps/kanjihub)|a hub for kanji||
-|5|[@MakeNowJust](https://github.com/MakeNowJust)/[**AnalF_ck**](https://github.com/MakeNowJust/AnalF_ck)|淫夢プログラミング言語||
 |5|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**snck**](https://github.com/ShigekiKarita/snck)|tqdm-like progress bar for D||
 |5|[@alphaKAI](https://github.com/alphaKAI)/[**HindleyMilnerD**](https://github.com/alphaKAI/HindleyMilnerD)|A HindleyMilner Type Inference System for mini-ML in D.||
 |5|[@alphaKAI](https://github.com/alphaKAI)/[**twitnotify**](https://github.com/alphaKAI/twitnotify)|The Twitter Notification tool. Written in D.||
@@ -34,6 +33,7 @@
 |5|[@kazoo04](https://github.com/kazoo04)/[**libarow-d**](https://github.com/kazoo04/libarow-d)|A library for AROW linear classification||
 |5|[@kazoo04](https://github.com/kazoo04)/[**progress-d**](https://github.com/kazoo04/progress-d)|||
 |5|[@kubo39](https://github.com/kubo39)/[**rikka**](https://github.com/kubo39/rikka)|anothor document database written in D||
+|4|[@MakeNowJust](https://github.com/MakeNowJust)/[**AnalF_ck**](https://github.com/MakeNowJust/AnalF_ck)|淫夢プログラミング言語||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dilo**](https://github.com/alphaKAI/dilo)|A minimal Text Editor in D Language, ported from Kilo||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**workermanager**](https://github.com/alphaKAI/workermanager)|Multi-thread based asynchronized worker manager||
 |4|[@repeatedly](https://github.com/repeatedly)/[**ltsv-d**](https://github.com/repeatedly/ltsv-d)|LTSV implemetation for D||

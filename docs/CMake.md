@@ -13,4 +13,5 @@
 |4|[@yossato](https://github.com/yossato)/[**architect_robot**](https://github.com/yossato/architect_robot)|Line tracer robot with gazebo and ROS.||
 |3|[@pcboy](https://github.com/pcboy)/[**libwallet**](https://github.com/pcboy/libwallet)|Script to compile monero libwallet for Android (used by monujo wallet)||
 |3|[@sugarsweetrobotics](https://github.com/sugarsweetrobotics)/[**UrgRTC**](https://github.com/sugarsweetrobotics/UrgRTC)|||
+|3|[@syohex](https://github.com/syohex)/[**cpp-objective-c-project**](https://github.com/syohex/cpp-objective-c-project)|Sample project of linking C++ and Objective-C code||
 

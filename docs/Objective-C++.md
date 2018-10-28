@@ -12,8 +12,8 @@
 |9|[@hisui](https://github.com/hisui)/[**scrapingkit**](https://github.com/hisui/scrapingkit)|ObjC library: easy DOM traversing in jQuery-like API for web scraping.||
 |7|[@2bbb](https://github.com/2bbb)/[**ofxBonjour**](https://github.com/2bbb/ofxBonjour)|use Bonjour in openFrameowkrs||
 |7|[@miyabi](https://github.com/miyabi)/[**unity-ios-keyboard-patch**](https://github.com/miyabi/unity-ios-keyboard-patch)|Adjusts position and height of input field above keyboard when status bar is shown in iOS 7 or later.||
+|6|[@2bbb](https://github.com/2bbb)/[**ofxMacScreenRecorder**](https://github.com/2bbb/ofxMacScreenRecorder)|programmable screen recorder for oF||
 |6|[@ashikase](https://github.com/ashikase)/[**libcrashreport**](https://github.com/ashikase/libcrashreport)|Library for parsing and symbolicating iOS crash log files.||
-|5|[@2bbb](https://github.com/2bbb)/[**ofxMacScreenRecorder**](https://github.com/2bbb/ofxMacScreenRecorder)|programmable screen recorder for oF||
 |5|[@2bbb](https://github.com/2bbb)/[**ofxMioAlpha**](https://github.com/2bbb/ofxMioAlpha)|Receive data from Mio Alpha in openFrameworks (only OS X 10.7- / iOS 5-)||
 |4|[@2bbb](https://github.com/2bbb)/[**ofxMacTrackpad**](https://github.com/2bbb/ofxMacTrackpad)|using MBP Trackpad events on openFrameworks||
 |4|[@kapsy](https://github.com/kapsy)/[**handmade_osx**](https://github.com/kapsy/handmade_osx)|My implementation of Handmade Hero's platform layer for OSX.||

@@ -1,25 +1,25 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |249|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
-|224|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|:snowboarder: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
-|209|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
-|125|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
+|225|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|:snowboarder: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
+|211|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
+|124|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |106|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||
 |96|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
 |84|[@hotchemi](https://github.com/hotchemi)/[**gradle-proguard-plugin**](https://github.com/hotchemi/gradle-proguard-plugin)|The gradle plugin to add proguard snippets to your proguard setting file quickly.|[:arrow_upper_right:](http://hotchemi.github.io/gradle-proguard-plugin)|
 |81|[@int128](https://github.com/int128)/[**groovy-ssh**](https://github.com/int128/groovy-ssh)|SSH automation tool based on Groovy DSL|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
 |75|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-mdicons**](https://github.com/tmiyamon/gradle-mdicons)|A gradle plugin for Android to handle material design icons Google published.||
 |48|[@gfx](https://github.com/gfx)/[**android-power-assert-plugin**](https://github.com/gfx/android-power-assert-plugin)|Power Assert for Android||
-|38|[@tkruse](https://github.com/tkruse)/[**gradle-groovysh-plugin**](https://github.com/tkruse/gradle-groovysh-plugin)|gradle plugin allowing to start a command-line shell||
+|37|[@tkruse](https://github.com/tkruse)/[**gradle-groovysh-plugin**](https://github.com/tkruse/gradle-groovysh-plugin)|gradle plugin allowing to start a command-line shell||
 |31|[@nobeans](https://github.com/nobeans)/[**gexcelapi**](https://github.com/nobeans/gexcelapi)|GExcelAPI is a thin Groovy-ish wrapper library of not JExcelAPI but Apache POI.||
-|30|[@int128](https://github.com/int128)/[**gradle-plugin-starter**](https://github.com/int128/gradle-plugin-starter)|Gradle plugin template project||
-|24|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-plugin**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
+|29|[@int128](https://github.com/int128)/[**gradle-plugin-starter**](https://github.com/int128/gradle-plugin-starter)|Gradle plugin template project||
+|25|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-plugin**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
 |24|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-reporter**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
-|23|[@tomorrowkey](https://github.com/tomorrowkey)/[**notifier-plugin**](https://github.com/tomorrowkey/notifier-plugin)|This plugin provide a ability of notifying you that gradle task is finished.||
 |22|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-web-resource-plugin**](https://github.com/ksoichiro/gradle-web-resource-plugin)|Gradle plugin to use CoffeeScript, LESS and Bower libraries without Node.js/npm.||
+|22|[@tomorrowkey](https://github.com/tomorrowkey)/[**notifier-plugin**](https://github.com/tomorrowkey/notifier-plugin)|This plugin provide a ability of notifying you that gradle task is finished.||
 |20|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-android-git**](https://github.com/ksoichiro/gradle-android-git)|Gradle plugin for Android apps to manage Git dependency (gag)||
-|20|[@uPhyca](https://github.com/uPhyca)/[**gradle-android-apt-plugin**](https://github.com/uPhyca/gradle-android-apt-plugin)|A Gradle plugin which enables annotations processing for Android builds.||
 |19|[@int128](https://github.com/int128)/[**spock-spring-boot-example**](https://github.com/int128/spock-spring-boot-example)|An example of testing Spring Boot application with Spock framework||
+|19|[@uPhyca](https://github.com/uPhyca)/[**gradle-android-apt-plugin**](https://github.com/uPhyca/gradle-android-apt-plugin)|A Gradle plugin which enables annotations processing for Android builds.||
 |14|[@sys1yagi](https://github.com/sys1yagi)/[**rxandroid-usecase**](https://github.com/sys1yagi/rxandroid-usecase)|||
 |14|[@uehaj](https://github.com/uehaj)/[**groovy-comprehension**](https://github.com/uehaj/groovy-comprehension)|||
 |14|[@uehaj](https://github.com/uehaj)/[**groovyz**](https://github.com/uehaj/groovyz)|POC of Type Class for Groovy||
@@ -28,9 +28,9 @@
 |12|[@int128](https://github.com/int128)/[**feign-oauth2-example**](https://github.com/int128/feign-oauth2-example)|Example of Spring Cloud Feign and Spring Security OAuth2||
 |12|[@taichi](https://github.com/taichi)/[**yuzen**](https://github.com/taichi/yuzen)|static contents generator|[:arrow_upper_right:](http://yuzen.koshinuke.org/)|
 |12|[@takahirom](https://github.com/takahirom)/[**fire-annotation**](https://github.com/takahirom/fire-annotation)|Simple tool which help you to implement Firebase Analytics||
-|11|[@sys1yagi](https://github.com/sys1yagi)/[**faucet**](https://github.com/sys1yagi/faucet)|Super casual memory leak checker for Android. ||
 |11|[@tkruse](https://github.com/tkruse)/[**gpi**](https://github.com/tkruse/gpi)|grape package installer||
 |11|[@yamkazu](https://github.com/yamkazu)/[**jggug-grails-bootcamp**](https://github.com/yamkazu/jggug-grails-bootcamp)|||
+|10|[@sys1yagi](https://github.com/sys1yagi)/[**faucet**](https://github.com/sys1yagi/faucet)|Super casual memory leak checker for Android. ||
 |9|[@tyama](https://github.com/tyama)/[**ratpack-gorm-mongo-example**](https://github.com/tyama/ratpack-gorm-mongo-example)|||
 |7|[@int128](https://github.com/int128)/[**gradle-starter**](https://github.com/int128/gradle-starter)|Hello World application with Gradle||
 |7|[@mike-neck](https://github.com/mike-neck)/[**slim3-gradle**](https://github.com/mike-neck/slim3-gradle)|gradle build file and slim3 sample||

@@ -5,7 +5,7 @@
 |32|[@MakeNowJust](https://github.com/MakeNowJust)/[**crake**](https://github.com/MakeNowJust/crake)|CRystal mAKE library||
 |31|[@tbpgr](https://github.com/tbpgr)/[**crystal_samples**](https://github.com/tbpgr/crystal_samples)|||
 |23|[@rhysd](https://github.com/rhysd)/[**Crisp**](https://github.com/rhysd/Crisp)|Lisp dialect implemented with Crystal||
-|19|[@MakeNowJust](https://github.com/MakeNowJust)/[**crystal-diff**](https://github.com/MakeNowJust/crystal-diff)|A Crystal sequence differencing implementation||
+|20|[@MakeNowJust](https://github.com/MakeNowJust)/[**crystal-diff**](https://github.com/MakeNowJust/crystal-diff)|A Crystal sequence differencing implementation||
 |15|[@MakeNowJust](https://github.com/MakeNowJust)/[**noir**](https://github.com/MakeNowJust/noir)|NOIR - Syntax Highlight Library for Crystal||
 |15|[@ne-sachirou](https://github.com/ne-sachirou)/[**git-cleanup-branch**](https://github.com/ne-sachirou/git-cleanup-branch)|[Deprecated] Cleanup Git merged branches interactively at both local and remote.||
 |14|[@S-YOU](https://github.com/S-YOU)/[**h2o.cr**](https://github.com/S-YOU/h2o.cr)|h2o bindings for Crystal||
@@ -14,9 +14,9 @@
 |10|[@S-YOU](https://github.com/S-YOU)/[**dpdk.cr**](https://github.com/S-YOU/dpdk.cr)|Crystal bindings to Intel's DPDK at wire rate packet processing.||
 |10|[@rhysd](https://github.com/rhysd)/[**ezoe**](https://github.com/rhysd/ezoe)|`ezoe` command written in Crystal||
 |9|[@5t111111](https://github.com/5t111111)/[**ruby_extension_with_crystal**](https://github.com/5t111111/ruby_extension_with_crystal)|Write Ruby extensions with Crystal||
+|8|[@MakeNowJust](https://github.com/MakeNowJust)/[**8cc.cr**](https://github.com/MakeNowJust/8cc.cr)|compile-time C compiler implemented as Crystal macros||
 |8|[@dmytro](https://github.com/dmytro)/[**shell.cr**](https://github.com/dmytro/shell.cr)|Small simplistic helper class for executing shell commands in Crystal.||
 |8|[@pine](https://github.com/pine)/[**crystal-notify-slack**](https://github.com/pine/crystal-notify-slack)|:bell: Slack notify CLI tool||
-|7|[@MakeNowJust](https://github.com/MakeNowJust)/[**8cc.cr**](https://github.com/MakeNowJust/8cc.cr)|compile-time C compiler implemented as Crystal macros||
 |7|[@MakeNowJust](https://github.com/MakeNowJust)/[**tilt**](https://github.com/MakeNowJust/tilt)|TILT Is Loader of Template. It is generalized template engine interface.||
 |6|[@rhysd](https://github.com/rhysd)/[**crdoc**](https://github.com/rhysd/crdoc)|CLI tool to search and open documentation for Crystal language||
 |5|[@karupanerura](https://github.com/karupanerura)/[**router-simple.cr**](https://github.com/karupanerura/router-simple.cr)|simple path router inspired by Router::Simple.||

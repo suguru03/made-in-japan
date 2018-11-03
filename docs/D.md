@@ -21,13 +21,13 @@
 |7|[@kiridaruma](https://github.com/kiridaruma)/[**kisaragi**](https://github.com/kiridaruma/kisaragi)|Realtime Web service framework きさらぎ(kisaragi)||
 |6|[@Pctg-x8](https://github.com/Pctg-x8)/[**nanovg-d**](https://github.com/Pctg-x8/nanovg-d)|NanoVG porting for dlang||
 |6|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**numir**](https://github.com/ShigekiKarita/numir)|numpy-like API wrappers of mir||
+|6|[@alphaKAI](https://github.com/alphaKAI)/[**HindleyMilnerD**](https://github.com/alphaKAI/HindleyMilnerD)|A HindleyMilner Type Inference System for mini-ML in D.||
 |6|[@alphaKAI](https://github.com/alphaKAI)/[**unlocker**](https://github.com/alphaKAI/unlocker)|unlock/lock your PC by touching with FeliCa||
 |6|[@karahiyo](https://github.com/karahiyo)/[**btrace**](https://github.com/karahiyo/btrace)|[https://kenai.com/projects/btrace/]'s project.||
 |6|[@kubo39](https://github.com/kubo39)/[**elfhook.d**](https://github.com/kubo39/elfhook.d)|monkey patching for shared object.||
 |6|[@namachan10777](https://github.com/namachan10777)/[**dmatch**](https://github.com/namachan10777/dmatch)|Pattern match for D Language.||
 |6|[@shawnps](https://github.com/shawnps)/[**kanjihub**](https://github.com/shawnps/kanjihub)|a hub for kanji||
 |5|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**snck**](https://github.com/ShigekiKarita/snck)|tqdm-like progress bar for D||
-|5|[@alphaKAI](https://github.com/alphaKAI)/[**HindleyMilnerD**](https://github.com/alphaKAI/HindleyMilnerD)|A HindleyMilner Type Inference System for mini-ML in D.||
 |5|[@alphaKAI](https://github.com/alphaKAI)/[**twitnotify**](https://github.com/alphaKAI/twitnotify)|The Twitter Notification tool. Written in D.||
 |5|[@kazoo04](https://github.com/kazoo04)/[**Redplanet**](https://github.com/kazoo04/Redplanet)|Twitter client written in the D programming language.||
 |5|[@kazoo04](https://github.com/kazoo04)/[**libarow-d**](https://github.com/kazoo04/libarow-d)|A library for AROW linear classification||

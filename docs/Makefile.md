@@ -1,6 +1,5 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|127|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Janus WebRTC Gateway Docker Image for Media Streaming Expert User||
 |75|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
 |53|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
@@ -10,8 +9,8 @@
 |26|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-agent**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/mackerelio/mackerel-agent/)|
 |25|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
 |23|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-24.5-doc-emacs**](https://github.com/ayatakesi/emacs-24.5-doc-emacs)|emacsマニュアルの日本語化と公開|[:arrow_upper_right:](https://ayatakesi.github.io/)|
-|22|[@atsushieno](https://github.com/atsushieno)/[**android-fluidsynth**](https://github.com/atsushieno/android-fluidsynth)|fluidsynth Android port / build. It's old, see my fluidsynth-fork/tree/opensles-v2||
-|22|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
+|23|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
+|22|[@atsushieno](https://github.com/atsushieno)/[**android-fluidsynth**](https://github.com/atsushieno/android-fluidsynth)|[Deprecated] fluidsynth Android port / build. It's old, see my fluidsynth-fork/tree/opensles-v2||
 |22|[@norton](https://github.com/norton)/[**erlang-starter-kit**](https://github.com/norton/erlang-starter-kit)|Provide a basic set of Erlang/OTP tools for development and for testing||
 |20|[@sfuku7](https://github.com/sfuku7)/[**googletest_android_ndk-build**](https://github.com/sfuku7/googletest_android_ndk-build)|Build googletest with Android NDK||
 |19|[@zchee](https://github.com/zchee)/[**tmux-ja**](https://github.com/zchee/tmux-ja)|Translation tmux man page project||
@@ -54,6 +53,7 @@
 |4|[@hakuturu583](https://github.com/hakuturu583)/[**robocup_packages**](https://github.com/hakuturu583/robocup_packages)|Codes for playing soccer in robocup SPL||
 |4|[@hanasaan](https://github.com/hanasaan)/[**ofxBinaryPatternMessegner**](https://github.com/hanasaan/ofxBinaryPatternMessegner)|Messaging via Image||
 |4|[@kazuho](https://github.com/kazuho)/[**quic-perf-metrics**](https://github.com/kazuho/quic-perf-metrics)|||
+|4|[@knakayama](https://github.com/knakayama)/[**cfn-ci-cd-demo**](https://github.com/knakayama/cfn-ci-cd-demo)|||
 |4|[@linyows](https://github.com/linyows)/[**tomohisaoda.com**](https://github.com/linyows/tomohisaoda.com)|📝 my blog|[:arrow_upper_right:](http://tomohisaoda.com)|
 |4|[@mumoshu](https://github.com/mumoshu)/[**kube-logrotate**](https://github.com/mumoshu/kube-logrotate)|An ubuntu-slim/s6-overlay/confd based docker image for running logrotate via Kubernetes daemonsets||
 |4|[@nobu](https://github.com/nobu)/[**build-files**](https://github.com/nobu/build-files)|||
@@ -65,7 +65,6 @@
 |3|[@everpeace](https://github.com/everpeace)/[**kube-zookeeper**](https://github.com/everpeace/kube-zookeeper)|||
 |3|[@jj1bdx](https://github.com/jj1bdx)/[**erlang-freebsd-port**](https://github.com/jj1bdx/erlang-freebsd-port)|Tentative private FreeBSD Erlang Port for 18.2||
 |3|[@kdmsnr](https://github.com/kdmsnr)/[**NexusGuide**](https://github.com/kdmsnr/NexusGuide)|||
-|3|[@knakayama](https://github.com/knakayama)/[**cfn-ci-cd-demo**](https://github.com/knakayama/cfn-ci-cd-demo)|||
 |3|[@mordiford](https://github.com/mordiford)/[**device_zuk_z2_plus**](https://github.com/mordiford/device_zuk_z2_plus)|IceCold Device configuration for Lenovo/ZUK Z2 Plus||
 |3|[@r-plus](https://github.com/r-plus)/[**NoDictation**](https://github.com/r-plus/NoDictation)|Disable dictation key without disable Siri.||
 |3|[@renluckyclover](https://github.com/renluckyclover)/[**datingApp_swift**](https://github.com/renluckyclover/datingApp_swift)|||

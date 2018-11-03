@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1220|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|1222|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
 |221|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
-|157|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
+|159|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |78|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
 |62|[@jj1bdx](https://github.com/jj1bdx)/[**sfmt-erlang**](https://github.com/jj1bdx/sfmt-erlang)|sfmt-erlang: SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang|[:arrow_upper_right:](http://jj1bdx.github.io/sfmt-erlang/)|
 |39|[@higepon](https://github.com/higepon)/[**mio**](https://github.com/higepon/mio)|In short, mio is memcached + "range search".||
@@ -92,6 +92,7 @@
 |4|[@voluntas](https://github.com/voluntas)/[**kappa**](https://github.com/voluntas/kappa)|kappa ("河童") is erlang hook application.||
 |4|[@voluntas](https://github.com/voluntas)/[**mnesia_key_cache**](https://github.com/voluntas/mnesia_key_cache)|Mnesia Key Cache||
 |4|[@voluntas](https://github.com/voluntas)/[**yet-another-msgpack-erlang**](https://github.com/voluntas/yet-another-msgpack-erlang)|Yet another MessagePack Erlang library (Original https://github.com/msgpack/msgpack-erlang)||
+|3|[@amutake](https://github.com/amutake)/[**synchronizers**](https://github.com/amutake/synchronizers)|Synchronizer algorithms in Erlang||
 |3|[@everpeace](https://github.com/everpeace)/[**ring-benchmark**](https://github.com/everpeace/ring-benchmark)|This is my solution for the "Ring Benchmark" exercise in "Programming in Erlang".||
 |3|[@gruis](https://github.com/gruis)/[**rabbitmq-events**](https://github.com/gruis/rabbitmq-events)|RabbitMQ plugin that publishes internal events||
 |3|[@hibari](https://github.com/hibari)/[**congestion-watcher**](https://github.com/hibari/congestion-watcher)||[:arrow_upper_right:](http://hibari.github.com/hibari-doc/)|

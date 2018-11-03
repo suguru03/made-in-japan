@@ -8,8 +8,8 @@
 |38|[@keijiro](https://github.com/keijiro)/[**TriplanarPBS**](https://github.com/keijiro/TriplanarPBS)|A physically based shader with triplanar mapping (Unity 5)||
 |34|[@nama-gatsuo](https://github.com/nama-gatsuo)/[**DailySketch**](https://github.com/nama-gatsuo/DailySketch)|Daily coding sketch||
 |29|[@tado](https://github.com/tado)/[**100fragments**](https://github.com/tado/100fragments)|||
+|27|[@yasuhirohoshino](https://github.com/yasuhirohoshino)/[**oF-thetaEquirectangular**](https://github.com/yasuhirohoshino/oF-thetaEquirectangular)|tested on oF 0.9.7||
 |26|[@FMS-Cat](https://github.com/FMS-Cat)/[**type**](https://github.com/FMS-Cat/type)|9,105 bytes WebGL Demo for TokyoDemoFest 2016||
-|26|[@yasuhirohoshino](https://github.com/yasuhirohoshino)/[**oF-thetaEquirectangular**](https://github.com/yasuhirohoshino/oF-thetaEquirectangular)|tested on oF 0.9.7||
 |19|[@hecomi](https://github.com/hecomi)/[**UnityScreenSpaceReflection**](https://github.com/hecomi/UnityScreenSpaceReflection)|Simple Screen Space Reflection Implementation.|[:arrow_upper_right:](http://tips.hecomi.com/entry/2016/04/04/022550)|
 |18|[@FMS-Cat](https://github.com/FMS-Cat)/[**20180310-glsl-music**](https://github.com/FMS-Cat/20180310-glsl-music)|メガデモ勉強会 2018年3月10日||
 |18|[@nobnak](https://github.com/nobnak)/[**WaterColorFilter**](https://github.com/nobnak/WaterColorFilter)|||
@@ -18,7 +18,7 @@
 |17|[@mattatz](https://github.com/mattatz)/[**unity-lbm-fluid-simulation**](https://github.com/mattatz/unity-lbm-fluid-simulation)|Lattice Boltzmann Method (LBM) fluid simulation for Unity.||
 |16|[@obushi](https://github.com/obushi)/[**SPHFluid**](https://github.com/obushi/SPHFluid)|An experimental implementation of smoothed-particle hydrodynamics (SPH) on Unity.||
 |15|[@keijiro](https://github.com/keijiro)/[**OnePassSubsampling**](https://github.com/keijiro/OnePassSubsampling)|Unity example: Single pass chroma subsampling shader||
-|14|[@yasuhirohoshino](https://github.com/yasuhirohoshino)/[**ofxPBRHelper**](https://github.com/yasuhirohoshino/ofxPBRHelper)|||
+|15|[@yasuhirohoshino](https://github.com/yasuhirohoshino)/[**ofxPBRHelper**](https://github.com/yasuhirohoshino/ofxPBRHelper)|||
 |13|[@mattatz](https://github.com/mattatz)/[**unity-mask-bloom**](https://github.com/mattatz/unity-mask-bloom)|Mask by alpha channel bloom effect for Unity.||
 |12|[@fand](https://github.com/fand)/[**webgl-study**](https://github.com/fand/webgl-study)||[:arrow_upper_right:](https://fand.github.io/webgl-study/)|
 |12|[@keijiro](https://github.com/keijiro)/[**AstrellaPBR**](https://github.com/keijiro/AstrellaPBR)|Custom PBR surface shader for Astrella from Robot Lab|[:arrow_upper_right:](https://www.assetstore.unity3d.com/en/#!/content/7006)|
@@ -34,13 +34,13 @@
 |6|[@ykob](https://github.com/ykob)/[**glsl-force**](https://github.com/ykob/glsl-force)|||
 |5|[@baku89](https://github.com/baku89)/[**ATA**](https://github.com/baku89/ATA)|Tools for "Olga Bell - ATA"|[:arrow_upper_right:](http://baku89.com/work/ata)|
 |5|[@ft-lab](https://github.com/ft-lab)/[**UnityProjects**](https://github.com/ft-lab/UnityProjects)|Unity関連の公開プロジェクト管理用||
+|5|[@kodai100](https://github.com/kodai100)/[**Unity_GPUVoronoi**](https://github.com/kodai100/Unity_GPUVoronoi)|||
 |5|[@nakamura001](https://github.com/nakamura001)/[**Unity-CameraMask**](https://github.com/nakamura001/Unity-CameraMask)|カメラの前にマスク用のテクスチャを置いて、背景の前に別のカメラの画像を円形で表示するサンプル。||
 |5|[@yasuhirohoshino](https://github.com/yasuhirohoshino)/[**oF-bvhStudy**](https://github.com/yasuhirohoshino/oF-bvhStudy)|||
 |4|[@Makio64](https://github.com/Makio64)/[**starter**](https://github.com/Makio64/starter)|My starter for experiments & profesionnal projects||
 |4|[@fand](https://github.com/fand)/[**glsl-livecoder-examples**](https://github.com/fand/glsl-livecoder-examples)|Examples for glsl-livecoder||
 |4|[@fand](https://github.com/fand)/[**vj-little-forest**](https://github.com/fand/vj-little-forest)|VJ set for little forest at Kyoto, 2017-11-10||
 |4|[@fand](https://github.com/fand)/[**vj-nodefest2017**](https://github.com/fand/vj-nodefest2017)|VJ set for Nodefest at Tokyo, 2017-11-25||
-|4|[@kodai100](https://github.com/kodai100)/[**Unity_GPUVoronoi**](https://github.com/kodai100/Unity_GPUVoronoi)|||
 |4|[@kodai100](https://github.com/kodai100)/[**Unity_PositionBasedDynamics**](https://github.com/kodai100/Unity_PositionBasedDynamics)|||
 |4|[@mike-neko](https://github.com/mike-neko)/[**SpriteShaderSample**](https://github.com/mike-neko/SpriteShaderSample)|Unityのスプライト用シェーダ||
 |4|[@n-yoda](https://github.com/n-yoda)/[**unity-skybox-shaders**](https://github.com/n-yoda/unity-skybox-shaders)|Skybox shaders for Unity.||

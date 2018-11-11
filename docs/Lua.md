@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|12329|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|1879|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
-|300|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
-|243|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
+|12384|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|1891|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|307|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
+|246|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
 |236|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |136|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
-|83|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
+|82|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
 |63|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
 |53|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-driver-detection**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
 |49|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
@@ -45,13 +45,13 @@
 |6|[@aw](https://github.com/aw)/[**roomba-nodemcu**](https://github.com/aw/roomba-nodemcu)|Roomba control library for NodeMCU platform|[:arrow_upper_right:](https://nodemcu.a1w.ca)|
 |6|[@mah0x211](https://github.com/mah0x211)/[**lua-coevent**](https://github.com/mah0x211/lua-coevent)|coroutine based kqueue/epoll module||
 |6|[@nagadomi](https://github.com/nagadomi)/[**kaggle-decmeg2014**](https://github.com/nagadomi/kaggle-decmeg2014)|code for DecMeg2014. final place: 5th||
+|6|[@osafune](https://github.com/osafune)/[**canarium_air**](https://github.com/osafune/canarium_air)|IntelFPGA configuration & Avalon-MM access library for FlashAir||
 |6|[@tacigar](https://github.com/tacigar)/[**maidroid**](https://github.com/tacigar/maidroid)|:video_game: Minetest modpack: Provides cute maid robots||
 |6|[@takahashim](https://github.com/takahashim)/[**review-pandoc**](https://github.com/takahashim/review-pandoc)|Re:VIEW Writer for Pandoc||
 |5|[@ahq1993](https://github.com/ahq1993)/[**Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction**](https://github.com/ahq1993/Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction)|Multimodal Deep Q-Network (MDQN) for modelling human-like social intelligence.  ||
 |5|[@farizrahman4u](https://github.com/farizrahman4u)/[**neural_question_generation**](https://github.com/farizrahman4u/neural_question_generation)|Server version of https://github.com/xinyadu/nqg||
 |5|[@mah0x211](https://github.com/mah0x211)/[**lua-act**](https://github.com/mah0x211/lua-act)|coroutine based synchronously non-blocking operations module||
 |5|[@mirakui](https://github.com/mirakui)/[**nginx-lua-mysql-example**](https://github.com/mirakui/nginx-lua-mysql-example)|||
-|5|[@osafune](https://github.com/osafune)/[**canarium_air**](https://github.com/osafune/canarium_air)|IntelFPGA configuration & Avalon-MM access library for FlashAir||
 |5|[@randrew](https://github.com/randrew)/[**layoutexample**](https://github.com/randrew/layoutexample)|Example use of Layout in a Stingray project||
 |5|[@rhenium](https://github.com/rhenium)/[**awesome-battmon**](https://github.com/rhenium/awesome-battmon)|A simple battery monitor for awesome WM||
 |5|[@umegaya](https://github.com/umegaya)/[**luby**](https://github.com/umegaya/luby)|ruby syntax + luajit performance & ffi||

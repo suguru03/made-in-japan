@@ -23,6 +23,7 @@
 |4|[@dtan4](https://github.com/dtan4)/[**aws4_signer.cr**](https://github.com/dtan4/aws4_signer.cr)|||
 |3|[@MakeNowJust](https://github.com/MakeNowJust)/[**amorphous**](https://github.com/MakeNowJust/amorphous)|The most beautiful parser library||
 |3|[@MakeNowJust](https://github.com/MakeNowJust)/[**serialport**](https://github.com/MakeNowJust/serialport)|serial port library for Crystal||
+|3|[@namusyaka](https://github.com/namusyaka)/[**crystal-tsort**](https://github.com/namusyaka/crystal-tsort)|Topological sort implementation for Crystal||
 |3|[@pine](https://github.com/pine)/[**crystal-lua**](https://github.com/pine/crystal-lua)|[EXPERIMENTAL] Lua embedded in Crystal||
 |3|[@rosylilly](https://github.com/rosylilly)/[**semver**](https://github.com/rosylilly/semver)|Semantic Versioning module for Crystal|[:arrow_upper_right:](https://github.com/rosylilly/semver)|
 |3|[@tbpgr](https://github.com/tbpgr)/[**vup**](https://github.com/tbpgr/vup)|Crystal bumpup version tool||

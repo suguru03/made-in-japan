@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|457|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
-|285|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
-|96|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
+|460|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
+|286|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
+|99|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
 |63|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
 |34|[@KamitaniLab](https://github.com/KamitaniLab)/[**GenericObjectDecoding**](https://github.com/KamitaniLab/GenericObjectDecoding)|Demo code for Horikawa and Kamitani, "Generic decoding of seen and imagined objects using hierarchical visual features", https://www.nature.com/articles/ncomms15037.||
-|29|[@ikuwow](https://github.com/ikuwow)/[**PatchMatch**](https://github.com/ikuwow/PatchMatch)|The PatchMatch algorithm on MATLAB||
+|30|[@ikuwow](https://github.com/ikuwow)/[**PatchMatch**](https://github.com/ikuwow/PatchMatch)|The PatchMatch algorithm on MATLAB||
 |26|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
 |24|[@vanhuyz](https://github.com/vanhuyz)/[**coursera-ml**](https://github.com/vanhuyz/coursera-ml)|For study purpose only||
 |20|[@KamitaniLab](https://github.com/KamitaniLab)/[**VBCCA**](https://github.com/KamitaniLab/VBCCA)|Variational Bayesian Canonical Correlation Analysis||
+|14|[@philipperemy](https://github.com/philipperemy)/[**Statistical-Arbitrage**](https://github.com/philipperemy/Statistical-Arbitrage)|Using Particle Markov Chain Monte Carlo||
 |13|[@ikuwow](https://github.com/ikuwow)/[**inpainting_criminisi2004**](https://github.com/ikuwow/inpainting_criminisi2004)|MATLAB Implementation of inpainting Algorithm by A. Criminisi (2004)||
-|13|[@philipperemy](https://github.com/philipperemy)/[**Statistical-Arbitrage**](https://github.com/philipperemy/Statistical-Arbitrage)|Using Particle Markov Chain Monte Carlo||
 |11|[@jmlipman](https://github.com/jmlipman)/[**LAID**](https://github.com/jmlipman/LAID)|Lipman's Artificial Intelligence Directory||
 |9|[@bobbens](https://github.com/bobbens)/[**gfmm**](https://github.com/bobbens/gfmm)|Code for the paper 'Geodesic Finite Mixture Model'.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/gfmm/)|
 |8|[@philipperemy](https://github.com/philipperemy)/[**Peer-Group-Analysis-Clustering**](https://github.com/philipperemy/Peer-Group-Analysis-Clustering)|Unsupervised Clustering of Time Series using Peer Group Analysis PGA||

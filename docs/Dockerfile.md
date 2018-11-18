@@ -1,14 +1,14 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|144|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|[wip] Docker Image for Media Streaming Expert User. Janus WebRTC Docker Image||
+|152|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|[wip] Docker Image for Media Streaming Expert User. Janus WebRTC Docker Image||
 |138|[@atyenoria](https://github.com/atyenoria)/[**webrtc-transcoding-experimentation**](https://github.com/atyenoria/webrtc-transcoding-experimentation)|[wip] Docker Image for Media Streaming Expert User. Janus WebRTC Docker Image||
-|96|[@Quantisan](https://github.com/Quantisan)/[**docker-clojure**](https://github.com/Quantisan/docker-clojure)|Official Docker image for Clojure|[:arrow_upper_right:](https://hub.docker.com/_/clojure/)|
 |70|[@codesuki](https://github.com/codesuki)/[**ecs-nginx-proxy**](https://github.com/codesuki/ecs-nginx-proxy)|Reverse proxy for AWS ECS. Lets you address your docker containers by sub domain.||
 |63|[@vvakame](https://github.com/vvakame)/[**docker-review**](https://github.com/vvakame/docker-review)|Re:VIEW build container by docker||
 |27|[@Lewuathe](https://github.com/Lewuathe)/[**docker-presto-cluster**](https://github.com/Lewuathe/docker-presto-cluster)|Multiple node presto cluster on docker container||
 |16|[@codelibs](https://github.com/codelibs)/[**docker-fess**](https://github.com/codelibs/docker-fess)|Docker files for Fess|[:arrow_upper_right:](https://hub.docker.com/r/codelibs/fess/)|
 |15|[@localhost9292](https://github.com/localhost9292)/[**kubernetes.rb**](https://github.com/localhost9292/kubernetes.rb)|||
 |14|[@norio-nomura](https://github.com/norio-nomura)/[**docker-swift**](https://github.com/norio-nomura/docker-swift)|Docker image of Swift for Linux on Ubuntu 16.04|[:arrow_upper_right:](https://hub.docker.com/r/norionomura/swift/)|
+|11|[@matsumotory](https://github.com/matsumotory)/[**docker-ngx_mruby**](https://github.com/matsumotory/docker-ngx_mruby)|ngx_mruby using docker||
 |9|[@shufo](https://github.com/shufo)/[**docker-phoenix**](https://github.com/shufo/docker-phoenix)|A script for creating elixir image for  phoenix framework.|[:arrow_upper_right:](https://hub.docker.com/r/shufo/phoenix/)|
 |9|[@smizy](https://github.com/smizy)/[**docker-scikit-learn**](https://github.com/smizy/docker-scikit-learn)|Python3 scikit-learn with Jupyter docker image based on alpine ||
 |8|[@smizy](https://github.com/smizy)/[**docker-couchdb**](https://github.com/smizy/docker-couchdb)|Apache CouchDB docker image based on alpine||
@@ -25,5 +25,6 @@
 |3|[@greymd](https://github.com/greymd)/[**dockerfiles**](https://github.com/greymd/dockerfiles)|Various Dockerfiles I (greymd) use on the desktop and on servers.||
 |3|[@lucidfrontier45](https://github.com/lucidfrontier45)/[**docker-python-uwsgi**](https://github.com/lucidfrontier45/docker-python-uwsgi)|Docker base image for Python with uWSGI||
 |3|[@moznion](https://github.com/moznion)/[**jenkins_eb_efs_codebuild_example**](https://github.com/moznion/jenkins_eb_efs_codebuild_example)|Example of Jenkins with AWS CodeBuild, Amazon EFS and Elastic Beanstalk||
+|3|[@mumoshu](https://github.com/mumoshu)/[**kodedeploy**](https://github.com/mumoshu/kodedeploy)|Continuous Deployment for Kubernetes with AWS CodeDeploy. Delegate management of continuous deployments. Ease canary cluster upgrades.||
 |3|[@wantedly](https://github.com/wantedly)/[**dockerfile-locust**](https://github.com/wantedly/dockerfile-locust)|Docker Image packaging for locust||
 

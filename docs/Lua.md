@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|12384|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|1891|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
-|307|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
-|246|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
+|12442|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|1892|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|310|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
+|253|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
 |236|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |136|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |82|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
@@ -43,14 +43,15 @@
 |7|[@torus](https://github.com/torus)/[**lua-call-cc**](https://github.com/torus/lua-call-cc)|implementing call/cc on Lua script language.||
 |7|[@umegaya](https://github.com/umegaya)/[**pulpo**](https://github.com/umegaya/pulpo)|multi-thread network server library build with coroutine and luajit FFI at ground level||
 |6|[@aw](https://github.com/aw)/[**roomba-nodemcu**](https://github.com/aw/roomba-nodemcu)|Roomba control library for NodeMCU platform|[:arrow_upper_right:](https://nodemcu.a1w.ca)|
+|6|[@farizrahman4u](https://github.com/farizrahman4u)/[**neural_question_generation**](https://github.com/farizrahman4u/neural_question_generation)|Server version of https://github.com/xinyadu/nqg||
 |6|[@mah0x211](https://github.com/mah0x211)/[**lua-coevent**](https://github.com/mah0x211/lua-coevent)|coroutine based kqueue/epoll module||
 |6|[@nagadomi](https://github.com/nagadomi)/[**kaggle-decmeg2014**](https://github.com/nagadomi/kaggle-decmeg2014)|code for DecMeg2014. final place: 5th||
 |6|[@osafune](https://github.com/osafune)/[**canarium_air**](https://github.com/osafune/canarium_air)|IntelFPGA configuration & Avalon-MM access library for FlashAir||
 |6|[@tacigar](https://github.com/tacigar)/[**maidroid**](https://github.com/tacigar/maidroid)|:video_game: Minetest modpack: Provides cute maid robots||
 |6|[@takahashim](https://github.com/takahashim)/[**review-pandoc**](https://github.com/takahashim/review-pandoc)|Re:VIEW Writer for Pandoc||
 |5|[@ahq1993](https://github.com/ahq1993)/[**Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction**](https://github.com/ahq1993/Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction)|Multimodal Deep Q-Network (MDQN) for modelling human-like social intelligence.  ||
-|5|[@farizrahman4u](https://github.com/farizrahman4u)/[**neural_question_generation**](https://github.com/farizrahman4u/neural_question_generation)|Server version of https://github.com/xinyadu/nqg||
 |5|[@mah0x211](https://github.com/mah0x211)/[**lua-act**](https://github.com/mah0x211/lua-act)|coroutine based synchronously non-blocking operations module||
+|5|[@mah0x211](https://github.com/mah0x211)/[**lua-string-split**](https://github.com/mah0x211/lua-string-split)|split a string into an array of substrings.||
 |5|[@mirakui](https://github.com/mirakui)/[**nginx-lua-mysql-example**](https://github.com/mirakui/nginx-lua-mysql-example)|||
 |5|[@randrew](https://github.com/randrew)/[**layoutexample**](https://github.com/randrew/layoutexample)|Example use of Layout in a Stingray project||
 |5|[@rhenium](https://github.com/rhenium)/[**awesome-battmon**](https://github.com/rhenium/awesome-battmon)|A simple battery monitor for awesome WM||
@@ -60,7 +61,6 @@
 |4|[@kengonakajima](https://github.com/kengonakajima)/[**lua-parser**](https://github.com/kengonakajima/lua-parser)|Parse and convert Lua script into Sexp with only Ruby and Racc||
 |4|[@koron](https://github.com/koron)/[**redis-qdigest**](https://github.com/koron/redis-qdigest)|||
 |4|[@mah0x211](https://github.com/mah0x211)/[**lua-resty-entity**](https://github.com/mah0x211/lua-resty-entity)|request entity handling module for openresty.||
-|4|[@mah0x211](https://github.com/mah0x211)/[**lua-string-split**](https://github.com/mah0x211/lua-string-split)|split a string into an array of substrings.||
 |4|[@mikufuworks](https://github.com/mikufuworks)/[**love-9-slice**](https://github.com/mikufuworks/love-9-slice)|Simple library that make 9-slice images for LÖVE||
 |4|[@mtsmfm](https://github.com/mtsmfm)/[**dotfiles**](https://github.com/mtsmfm/dotfiles)|dotfiles||
 |4|[@torus](https://github.com/torus)/[**ios-lua-lander**](https://github.com/torus/ios-lua-lander)|Lunar Lander for iOS devices written in Lua.||

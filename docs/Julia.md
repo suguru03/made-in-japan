@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|67|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
+|68|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
 |36|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
 |32|[@r9y9](https://github.com/r9y9)/[**VoiceConversion.jl**](https://github.com/r9y9/VoiceConversion.jl)|[Deprecated] Statistical Voice Conversion in Julia. See the website link for new library|[:arrow_upper_right:](https://github.com/r9y9/nnmnkwii)|
 |23|[@bicycle1885](https://github.com/bicycle1885)/[**RandomForests.jl**](https://github.com/bicycle1885/RandomForests.jl)|Random Forests in Julia||
 |21|[@bicycle1885](https://github.com/bicycle1885)/[**TranscodingStreams.jl**](https://github.com/bicycle1885/TranscodingStreams.jl)|Simple, consistent interfaces for any codec.||
 |18|[@r9y9](https://github.com/r9y9)/[**WORLD.jl**](https://github.com/r9y9/WORLD.jl)|A lightweight julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system|[:arrow_upper_right:](http://r9y9.github.io/WORLD.jl/latest/)|
+|15|[@chezou](https://github.com/chezou)/[**MeCab.jl**](https://github.com/chezou/MeCab.jl)|Julia binding of Japanese morphological analyzer MeCab||
 |14|[@bicycle1885](https://github.com/bicycle1885)/[**CodecZlib.jl**](https://github.com/bicycle1885/CodecZlib.jl)|zlib codecs for TranscodingStreams.jl.||
-|14|[@chezou](https://github.com/chezou)/[**MeCab.jl**](https://github.com/chezou/MeCab.jl)|Julia binding of Japanese morphological analyzer MeCab||
 |14|[@chezou](https://github.com/chezou)/[**TinySegmenter.jl**](https://github.com/chezou/TinySegmenter.jl)|Julia version of TinySegmenter, compact Japanese tokenizer||
 |14|[@r9y9](https://github.com/r9y9)/[**MelGeneralizedCepstrums.jl**](https://github.com/r9y9/MelGeneralizedCepstrums.jl)|Mel-Generalized Cepstrum analysis||
 |11|[@sorami](https://github.com/sorami)/[**DependencyParser.jl**](https://github.com/sorami/DependencyParser.jl)|Dependency parser written in Julia.||

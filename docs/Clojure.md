@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|911|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
-|554|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
+|912|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
+|555|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
 |359|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
 |332|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
 |265|[@kawasima](https://github.com/kawasima)/[**jagrid**](https://github.com/kawasima/jagrid)|Japanese-styled grid framework.||
 |146|[@runexec](https://github.com/runexec)/[**chp**](https://github.com/runexec/chp)|ClojureHomePage is a Compojure based web framework that allows you to write the backend and frontend with Clojure.|[:arrow_upper_right:](https://github.com/runexec/chp/)|
 |127|[@yokolet](https://github.com/yokolet)/[**clementine**](https://github.com/yokolet/clementine)|Gem for ClojureScript on Rails Asset Pipeline||
 |111|[@liquidz](https://github.com/liquidz)/[**clj-jwt**](https://github.com/liquidz/clj-jwt)|Clojure library for JSON Web Token(JWT)||
-|101|[@Quantisan](https://github.com/Quantisan)/[**docker-clojure**](https://github.com/Quantisan/docker-clojure)|Official Docker image for Clojure|[:arrow_upper_right:](https://hub.docker.com/_/clojure/)|
-|87|[@athos](https://github.com/athos)/[**Pinpointer**](https://github.com/athos/Pinpointer)|Pinpointer is yet another clojure.spec error reporter based on a precise error analysis||
+|102|[@Quantisan](https://github.com/Quantisan)/[**docker-clojure**](https://github.com/Quantisan/docker-clojure)|Official Docker image for Clojure|[:arrow_upper_right:](https://hub.docker.com/_/clojure/)|
+|88|[@athos](https://github.com/athos)/[**Pinpointer**](https://github.com/athos/Pinpointer)|Pinpointer is yet another clojure.spec error reporter based on a precise error analysis||
 |87|[@runexec](https://github.com/runexec)/[**Static-Prime**](https://github.com/runexec/Static-Prime)|A static website editor and server written in Clojure and ClojureScript.||
 |78|[@kawasima](https://github.com/kawasima)/[**back-channeling**](https://github.com/kawasima/back-channeling)|A thread floating typed chat system.||
 |59|[@liquidz](https://github.com/liquidz)/[**jubot**](https://github.com/liquidz/jubot)|Chatbot framework in Clojure||
@@ -24,7 +24,7 @@
 |27|[@athos](https://github.com/athos)/[**Drains**](https://github.com/athos/Drains)|A new abstraction for flexible and efficient sequence aggregation in Clojure(Script)||
 |26|[@fukamachi](https://github.com/fukamachi)/[**L5**](https://github.com/fukamachi/L5)|Yet Another Presentation Tool for Lispers|[:arrow_upper_right:](http://e-arrows.sakura.ne.jp/l5/)|
 |25|[@kawasima](https://github.com/kawasima)/[**supreme-uploading**](https://github.com/kawasima/supreme-uploading)|至高のアップロード機能づくり||
-|23|[@federkasten](https://github.com/federkasten)/[**clucie**](https://github.com/federkasten/clucie)|Clojure for the Lucene||
+|24|[@federkasten](https://github.com/federkasten)/[**clucie**](https://github.com/federkasten/clucie)|Clojure for the Lucene||
 |23|[@kawasima](https://github.com/kawasima)/[**axebomber-clj**](https://github.com/kawasima/axebomber-clj)|The generator for Excel grid sheet (so-called Excel方眼紙).||
 |23|[@kawasima](https://github.com/kawasima)/[**teslogger**](https://github.com/kawasima/teslogger)|A tool for taking screenshots. It's usable for logging tests.||
 |22|[@making](https://github.com/making)/[**clj-gae-ds**](https://github.com/making/clj-gae-ds)|a Datastore library on Google App Engine for Clojure|[:arrow_upper_right:](http://clojars.org/am.ik/clj-gae-ds)|
@@ -72,6 +72,7 @@
 |7|[@lagenorhynque](https://github.com/lagenorhynque)/[**react-tutorial**](https://github.com/lagenorhynque/react-tutorial)|React tutorial app implemented in ClojureScript||
 |6|[@athos](https://github.com/athos)/[**clj-check**](https://github.com/athos/clj-check)|lein-check alternative for Clojure CLI tool||
 |6|[@athos](https://github.com/athos)/[**lein-with-env-vars**](https://github.com/athos/lein-with-env-vars)|A Leiningen plugin for performing a task with environment variable settings loaded from project.clj||
+|6|[@ayato-p](https://github.com/ayato-p)/[**intro-web-clojure**](https://github.com/ayato-p/intro-web-clojure)|Introduction to web application development in Clojure||
 |6|[@boxp](https://github.com/boxp)/[**puppeteer**](https://github.com/boxp/puppeteer)|A Slackbot for Deploying microservices to GKE Cluster.||
 |6|[@dvcrn](https://github.com/dvcrn)/[**vscodecljs**](https://github.com/dvcrn/vscodecljs)|Proof of concept vscode extension in ClojureScript||
 |6|[@federkasten](https://github.com/federkasten)/[**ring-websocket-example**](https://github.com/federkasten/ring-websocket-example)|An example project for websocket server using ring-jetty/lein-ring-jetty||
@@ -84,7 +85,6 @@
 |5|[@KeenS](https://github.com/KeenS)/[**s7p**](https://github.com/KeenS/s7p)|sexp version of s6p; a toy SSP.||
 |5|[@athos](https://github.com/athos)/[**intro-to-prejenter**](https://github.com/athos/intro-to-prejenter)|||
 |5|[@ayamada](https://github.com/ayamada)/[**vnctst-audio3**](https://github.com/ayamada/vnctst-audio3)|audio playback library for html5 game||
-|5|[@ayato-p](https://github.com/ayato-p)/[**intro-web-clojure**](https://github.com/ayato-p/intro-web-clojure)|Introduction to web application development in Clojure||
 |5|[@borh](https://github.com/borh)/[**clj-mecab**](https://github.com/borh/clj-mecab)|Clojure wrapper for the Japanese Morphological Analyzer MeCab||
 |5|[@gpsoft](https://github.com/gpsoft)/[**othe**](https://github.com/gpsoft/othe)|An Othello-like board game in Clojure.||
 |5|[@halcat0x15a](https://github.com/halcat0x15a)/[**emerald**](https://github.com/halcat0x15a/emerald)|protocol based monad library||

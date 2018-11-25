@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|12442|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|1892|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
-|310|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
-|253|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
+|12500|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|1895|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|313|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
+|258|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
 |236|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |136|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |82|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
 |63|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
 |53|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-driver-detection**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
-|49|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
+|50|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
 |44|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb**](https://github.com/nagadomi/kaggle-ndsb)|Code for National Data Science Bowl. 10th place.||
 |42|[@umegaya](https://github.com/umegaya)/[**ffiex**](https://github.com/umegaya/ffiex)|extend luajit ffi module to give more affinity to C codes||
 |38|[@hnakamur](https://github.com/hnakamur)/[**luajit-examples**](https://github.com/hnakamur/luajit-examples)|my example codes for LuaJIT||
@@ -25,8 +25,8 @@
 |13|[@miurahr](https://github.com/miurahr)/[**lua-nginx-osm**](https://github.com/miurahr/lua-nginx-osm)|OpenStreetMap extension for Nginx Lua module||
 |12|[@clear-code](https://github.com/clear-code)/[**xmlua**](https://github.com/clear-code/xmlua)|An user-friendly XML/HTML processing library for Lua based on libxml2|[:arrow_upper_right:](https://clear-code.github.io/xmlua/)|
 |12|[@knu](https://github.com/knu)/[**hs-knu**](https://github.com/knu/hs-knu)|My Hammerspoon modules, mainly for keyboard customization||
+|12|[@toritori0318](https://github.com/toritori0318)/[**lua-resty-r3**](https://github.com/toritori0318/lua-resty-r3)|libr3 Lua-Openresty implementation||
 |11|[@10sr](https://github.com/10sr)/[**editorconfig-micro**](https://github.com/10sr/editorconfig-micro)|EditorConfig Plugin for micro Editor||
-|11|[@toritori0318](https://github.com/toritori0318)/[**lua-resty-r3**](https://github.com/toritori0318/lua-resty-r3)|libr3 Lua-Openresty implementation||
 |11|[@toshi-k](https://github.com/toshi-k)/[**kaggle-santander-customer-satisfaction**](https://github.com/toshi-k/kaggle-santander-customer-satisfaction)|44th place solution in "Santander Customer Satisfaction"||
 |10|[@kengonakajima](https://github.com/kengonakajima)/[**luajit-mysql**](https://github.com/kengonakajima/luajit-mysql)|MySQL binding for LuaJIT with FFI||
 |10|[@mzyy94](https://github.com/mzyy94)/[**ECHONET-Lite-dissector**](https://github.com/mzyy94/ECHONET-Lite-dissector)|ECHONET Lite プロトコル解析器 for Wireshark||

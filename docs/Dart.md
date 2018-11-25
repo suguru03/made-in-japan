@@ -28,6 +28,7 @@
 |3|[@gfx](https://github.com/gfx)/[**dart-sessionstorage**](https://github.com/gfx/dart-sessionstorage)|An example to make use of WebStorage||
 |3|[@mono0926](https://github.com/mono0926)/[**arc-flutter**](https://github.com/mono0926/arc-flutter)|||
 |3|[@mono0926](https://github.com/mono0926)/[**flutter-codelabs**](https://github.com/mono0926/flutter-codelabs)|||
+|3|[@moznion](https://github.com/moznion)/[**dart-grec-minimal**](https://github.com/moznion/dart-grec-minimal)|A minimal parser/generator of Google Calendar recurrence rule for dart|[:arrow_upper_right:](https://pub.dartlang.org/packages/grec_minimal)|
 |3|[@ntaoo](https://github.com/ntaoo)/[**game_of_life.dart**](https://github.com/ntaoo/game_of_life.dart)|implementation of http://en.wikipedia.org/wiki/Conway's_Game_of_Life||
 |3|[@yshrsmz](https://github.com/yshrsmz)/[**bip39-dart**](https://github.com/yshrsmz/bip39-dart)|BIP39 mnemonic code implementation in Dart lang||
 |3|[@zick](https://github.com/zick)/[**DartLisp**](https://github.com/zick/DartLisp)|Lisp implementation in Dart||

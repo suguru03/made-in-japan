@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|824|[@hokaccha](https://github.com/hokaccha)/[**nodebrew**](https://github.com/hokaccha/nodebrew)|Node.js version manager||
+|828|[@hokaccha](https://github.com/hokaccha)/[**nodebrew**](https://github.com/hokaccha/nodebrew)|Node.js version manager||
 |792|[@yuki-kimoto](https://github.com/yuki-kimoto)/[**gitprep**](https://github.com/yuki-kimoto/gitprep)|Portable GitHub system into your own server|[:arrow_upper_right:](http://gitprep.yukikimoto.com/)|
-|310|[@neubig](https://github.com/neubig)/[**nmt-tips**](https://github.com/neubig/nmt-tips)|A tutorial about neural machine translation including tips on building practical systems||
-|280|[@neubig](https://github.com/neubig)/[**nlptutorial**](https://github.com/neubig/nlptutorial)|A Tutorial about Programming for Natural Language Processing||
+|309|[@neubig](https://github.com/neubig)/[**nmt-tips**](https://github.com/neubig/nmt-tips)|A tutorial about neural machine translation including tips on building practical systems||
+|279|[@neubig](https://github.com/neubig)/[**nlptutorial**](https://github.com/neubig/nlptutorial)|A Tutorial about Programming for Natural Language Processing||
 |233|[@kazeburo](https://github.com/kazeburo)/[**GrowthForecast**](https://github.com/kazeburo/GrowthForecast)|Lightning Fast Graphing/Visualization|[:arrow_upper_right:](http://kazeburo.github.com/GrowthForecast/)|
 |178|[@naoya](https://github.com/naoya)/[**md2inao**](https://github.com/naoya/md2inao)|Convert markdown to inao-format for WEB+DB PRESS|[:arrow_upper_right:](http://md2inao.bloghackers.net/)|
 |157|[@s-aska](https://github.com/s-aska)/[**dropbox-api-command**](https://github.com/s-aska/dropbox-api-command)|command line interface to access Dropbox API||
 |150|[@tokuhirom](https://github.com/tokuhirom)/[**Amon**](https://github.com/tokuhirom/Amon)|yet another web application framework|[:arrow_upper_right:](http://amon.64p.org/)|
 |138|[@kazeburo](https://github.com/kazeburo)/[**cloudforecast**](https://github.com/kazeburo/cloudforecast)|the server metrics gathering||
-|132|[@kazuho](https://github.com/kazuho)/[**jailing**](https://github.com/kazuho/jailing)|super-easy chroot jail builder/runner for Linux||
-|112|[@hirose31](https://github.com/hirose31)/[**redis-traffic-stats**](https://github.com/hirose31/redis-traffic-stats)|Redis query analyzer for counting, traffic stats by command||
+|133|[@kazuho](https://github.com/kazuho)/[**jailing**](https://github.com/kazuho/jailing)|super-easy chroot jail builder/runner for Linux||
+|113|[@hirose31](https://github.com/hirose31)/[**redis-traffic-stats**](https://github.com/hirose31/redis-traffic-stats)|Redis query analyzer for counting, traffic stats by command||
 |94|[@tokuhirom](https://github.com/tokuhirom)/[**Furl**](https://github.com/tokuhirom/Furl)|pretty fast http client library for perl5||
 |93|[@moznion](https://github.com/moznion)/[**Perl-Lint**](https://github.com/moznion/Perl-Lint)|Yet Another Perl Source Code Linter|[:arrow_upper_right:](https://metacpan.org/pod/Perl::Lint)|
 |89|[@skaji](https://github.com/skaji)/[**cpm**](https://github.com/skaji/cpm)|fast CPAN module installer|[:arrow_upper_right:](https://metacpan.org/release/App-cpm)|
@@ -55,17 +55,17 @@
 |37|[@dann](https://github.com/dann)/[**p5-cpan-packager**](https://github.com/dann/p5-cpan-packager)|CPAN::Packager is a tool to help you make packages from perl modules on CPAN.||
 |37|[@typester](https://github.com/typester)/[**perldojo**](https://github.com/typester/perldojo)|online perl testing!||
 |36|[@yusukebe](https://github.com/yusukebe)/[**App-revealup**](https://github.com/yusukebe/App-revealup)|HTTP Server app for viewing Markdown formatted text as slides|[:arrow_upper_right:](https://metacpan.org/pod/App::revealup)|
+|35|[@gfx](https://github.com/gfx)/[**p5-Data-Validator**](https://github.com/gfx/p5-Data-Validator)|Type constraints based data validator for Perl5||
 |35|[@yasuaki](https://github.com/yasuaki)/[**git-doc-ja**](https://github.com/yasuaki/git-doc-ja)|Japanese translation of git/Documentation/|[:arrow_upper_right:](http://www8.atwiki.jp/git_jp/)|
-|34|[@gfx](https://github.com/gfx)/[**p5-Data-Validator**](https://github.com/gfx/p5-Data-Validator)|Type constraints based data validator for Perl5||
 |34|[@kazuho](https://github.com/kazuho)/[**p5-Server-Starter**](https://github.com/kazuho/p5-Server-Starter)|a superdaemon for hot-deploying server programs||
 |34|[@typester](https://github.com/typester)/[**nim**](https://github.com/typester/nim)|minimal command-line based contents generator||
+|33|[@gfx](https://github.com/gfx)/[**p5-Mouse**](https://github.com/gfx/p5-Mouse)|Lightweight class builder as a subset of Moose|[:arrow_upper_right:](https://metacpan.org/release/Mouse)|
 |33|[@kazeburo](https://github.com/kazeburo)/[**Proclet**](https://github.com/kazeburo/Proclet)|minimalistic Supervisor||
 |33|[@kazuho](https://github.com/kazuho)/[**cppref**](https://github.com/kazuho/cppref)|man-style access to cppreference.com documents||
 |33|[@matsuu](https://github.com/matsuu)/[**auwifispot-client**](https://github.com/matsuu/auwifispot-client)|au Wi-Fi SPOT CLI client||
 |33|[@tokuhirom](https://github.com/tokuhirom)/[**p5-router-simple**](https://github.com/tokuhirom/p5-router-simple)|simple http router||
 |33|[@xaicron](https://github.com/xaicron)/[**p5-www-youtube-download**](https://github.com/xaicron/p5-www-youtube-download)|YouTube video download interface.|[:arrow_upper_right:](http://blog.livedoor.jp/xaicron/)|
 |32|[@dann](https://github.com/dann)/[**angelos**](https://github.com/dann/angelos)|yet another web application framework|[:arrow_upper_right:](http://dann.g.hatena.ne.jp/dann/)|
-|32|[@gfx](https://github.com/gfx)/[**p5-Mouse**](https://github.com/gfx/p5-Mouse)|Lightweight class builder as a subset of Moose|[:arrow_upper_right:](https://metacpan.org/release/Mouse)|
 |32|[@jamadam](https://github.com/jamadam)/[**mojo-legacy**](https://github.com/jamadam/mojo-legacy)|mojo for Perl-5.8.7||
 |32|[@tomill](https://github.com/tomill)/[**Template-Semantic**](https://github.com/tomill/Template-Semantic)|Use pure XHTML/XML as a template|[:arrow_upper_right:](http://search.cpan.org/dist/Template-Semantic/)|
 |31|[@tokuhirom](https://github.com/tokuhirom)/[**Test-TCP**](https://github.com/tokuhirom/Test-TCP)|Test::TCP for perl||
@@ -226,8 +226,10 @@
 |13|[@tokuhirom](https://github.com/tokuhirom)/[**MySQL-BinLog**](https://github.com/tokuhirom/MySQL-BinLog)|||
 |13|[@tokuhirom](https://github.com/tokuhirom)/[**Test-SharedFork**](https://github.com/tokuhirom/Test-SharedFork)|Test::SharedFork||
 |13|[@typester](https://github.com/typester)/[**cookpad-api-perl**](https://github.com/typester/cookpad-api-perl)|||
+|13|[@upa](https://github.com/upa)/[**vrf-vyatta**](https://github.com/upa/vrf-vyatta)|Vyatta Virtual Routing and Forwarding extension using Network Namespace||
 |13|[@xaicron](https://github.com/xaicron)/[**p5-DBIx-QueryLog**](https://github.com/xaicron/p5-DBIx-QueryLog)|Logging queries for DBI||
 |13|[@xaicron](https://github.com/xaicron)/[**p5-win32-unicode**](https://github.com/xaicron/p5-win32-unicode)|perl unicode-friendly wrapper for win32api.|[:arrow_upper_right:](http://blog.livedoor.jp/xaicron/)|
+|13|[@yusukebe](https://github.com/yusukebe)/[**Acme-Porn-JP**](https://github.com/yusukebe/Acme-Porn-JP)|Porn terms in Japan.|[:arrow_upper_right:](http://yusukebe.com/)|
 |13|[@yusukebe](https://github.com/yusukebe)/[**Kutter**](https://github.com/yusukebe/Kutter)|A Web Application displays the tweets about everyone eating. It's sample of Catalyst, DBIx::Class, and Moose.|[:arrow_upper_right:](http://kutter.pulpsite.net/)|
 |13|[@zigorou](https://github.com/zigorou)/[**yokohama-pm-10**](https://github.com/zigorou/yokohama-pm-10)|Presentation of Yokohama Perl Monger #10||
 |12|[@addsict](https://github.com/addsict)/[**Data-Generator-FromDDL**](https://github.com/addsict/Data-Generator-FromDDL)|Dummy data generator from DDL statements||
@@ -251,7 +253,6 @@
 |12|[@typester](https://github.com/typester)/[**github-ircbot-perl**](https://github.com/typester/github-ircbot-perl)|ircbot to broadcast github post-receive message to irc||
 |12|[@uzulla](https://github.com/uzulla)/[**pyazo**](https://github.com/uzulla/pyazo)|Gyazo And Gifzo compatible server by perl||
 |12|[@walf443](https://github.com/walf443)/[**p5-dbix-skinny-pager**](https://github.com/walf443/p5-dbix-skinny-pager)|||
-|12|[@yusukebe](https://github.com/yusukebe)/[**Acme-Porn-JP**](https://github.com/yusukebe/Acme-Porn-JP)|Porn terms in Japan.|[:arrow_upper_right:](http://yusukebe.com/)|
 |12|[@zigorou](https://github.com/zigorou)/[**p5-data-ruledfactory**](https://github.com/zigorou/p5-data-ruledfactory)|||
 |11|[@canada](https://github.com/canada)/[**PerlDocJp**](https://github.com/canada/PerlDocJp)|This Web application let perldoc.jp Japanized pod document browsable and searchable just like search.cpan.org|[:arrow_upper_right:](http://kaede.to/~canada/doc)|
 |11|[@do-aki](https://github.com/do-aki)/[**N1Repl**](https://github.com/do-aki/N1Repl)|master n : slave 1 replication for mysql||
@@ -283,7 +284,6 @@
 |11|[@tokuhirom](https://github.com/tokuhirom)/[**p5-anyevent-mprpc**](https://github.com/tokuhirom/p5-anyevent-mprpc)|MessagePack RPC component for AnyEvent!||
 |11|[@tokuhirom](https://github.com/tokuhirom)/[**p5-cgi-emulate-psgi**](https://github.com/tokuhirom/p5-cgi-emulate-psgi)|CGI::Emulate::PSGI||
 |11|[@typester](https://github.com/typester)/[**unknownplace.org**](https://github.com/typester/unknownplace.org)|my personal website powered by blosxom|[:arrow_upper_right:](http://unknownplace.org)|
-|11|[@upa](https://github.com/upa)/[**vrf-vyatta**](https://github.com/upa/vrf-vyatta)|Vyatta Virtual Routing and Forwarding extension using Network Namespace||
 |11|[@usualoma](https://github.com/usualoma)/[**mt-plugin-amazon**](https://github.com/usualoma/mt-plugin-amazon)|A Movable Type plugin that has function set for Amazon API.||
 |11|[@yasuaki](https://github.com/yasuaki)/[**lxrng**](https://github.com/yasuaki/lxrng)|clone of git://lxr.linux.no/git/lxrng.git||
 |11|[@yusukebe](https://github.com/yusukebe)/[**Shiori**](https://github.com/yusukebe/Shiori)|Yet another Perl implementation of Shiori web-app.||
@@ -557,6 +557,7 @@
 |6|[@riywo](https://github.com/riywo)/[**MongoSQL**](https://github.com/riywo/MongoSQL)|||
 |6|[@s-aska](https://github.com/s-aska)/[**DocLife**](https://github.com/s-aska/DocLife)|Document Viewer written in Perl, to run under Plack.|[:arrow_upper_right:](http://pad.demo.7kai.org/)|
 |6|[@skaji](https://github.com/skaji)/[**Parallel-Pipes**](https://github.com/skaji/Parallel-Pipes)|https://metacpan.org/release/Parallel-Pipes||
+|6|[@skaji](https://github.com/skaji)/[**syntax-check-perl**](https://github.com/skaji/syntax-check-perl)|||
 |6|[@sugyan](https://github.com/sugyan)/[**CodePocket**](https://github.com/sugyan/CodePocket)|自分のコードポケット|[:arrow_upper_right:](http://d.hatena.ne.jp/sugyan/)|
 |6|[@syohex](https://github.com/syohex)/[**p5-List-Utils-By**](https://github.com/syohex/p5-List-Utils-By)|Implementation List::UtilsBy using XS||
 |6|[@tagomoris](https://github.com/tagomoris)/[**p5-Net-GrowthForecast**](https://github.com/tagomoris/p5-Net-GrowthForecast)|Client library for GrowthForecast||
@@ -765,6 +766,7 @@
 |4|[@dann](https://github.com/dann)/[**p5-plackx-engine**](https://github.com/dann/p5-plackx-engine)|simple plack wrapper for application developers||
 |4|[@dann](https://github.com/dann)/[**p5-www-hatenakeyword-group**](https://github.com/dann/p5-www-hatenakeyword-group)|CRUD interface for Hatena::Keyword on Hatena::Group|[:arrow_upper_right:](http://dann.g.hatena.ne.jp/dann)|
 |4|[@gfx](https://github.com/gfx)/[**Keyword-Boolean**](https://github.com/gfx/Keyword-Boolean)|Introduce boolean keywords for perl 5.11.2||
+|4|[@gfx](https://github.com/gfx)/[**Perl-Data-Util**](https://github.com/gfx/Perl-Data-Util)|Data::Util @ CPAN|[:arrow_upper_right:](http://search.cpan.org/dist/Data-Util/)|
 |4|[@gfx](https://github.com/gfx)/[**Perl-MouseX-MethodAttributes**](https://github.com/gfx/Perl-MouseX-MethodAttributes)|This module is experimental and won't be released unless someone takes over the maintenance.||
 |4|[@gfx](https://github.com/gfx)/[**Perl-namespace-clean-xs**](https://github.com/gfx/Perl-namespace-clean-xs)|||
 |4|[@gfx](https://github.com/gfx)/[**Perl-optimizer-hotspot**](https://github.com/gfx/Perl-optimizer-hotspot)|A hotspot optimizer for Perl||
@@ -855,7 +857,6 @@
 |4|[@shogo82148](https://github.com/shogo82148)/[**Redis-Namespace**](https://github.com/shogo82148/Redis-Namespace)|||
 |4|[@skaji](https://github.com/skaji)/[**Mojo-SlackRTM**](https://github.com/skaji/Mojo-SlackRTM)||[:arrow_upper_right:](https://metacpan.org/release/Mojo-SlackRTM)|
 |4|[@skaji](https://github.com/skaji)/[**perl-tldr**](https://github.com/skaji/perl-tldr)|a perl client for http://tldr-pages.github.io/|[:arrow_upper_right:](https://metacpan.org/release/App-tldr)|
-|4|[@skaji](https://github.com/skaji)/[**syntax-check-perl**](https://github.com/skaji/syntax-check-perl)|||
 |4|[@spiritloose](https://github.com/spiritloose)/[**Compress-Zstd**](https://github.com/spiritloose/Compress-Zstd)|Perl interface to the Zstd (Zstandard) (de)compressor||
 |4|[@spiritloose](https://github.com/spiritloose)/[**schenker-sample**](https://github.com/spiritloose/schenker-sample)|Schenker sample application||
 |4|[@stelcheck](https://github.com/stelcheck)/[**node-vim-blowfish**](https://github.com/stelcheck/node-vim-blowfish)|Effort to decrypt vim7.3 blowfish encrypted files using node||
@@ -1001,7 +1002,6 @@
 |3|[@fukamachi](https://github.com/fukamachi)/[**p5-shelly**](https://github.com/fukamachi/p5-shelly)|[DEPRECATED] Moved to https://github.com/fukamachi/shelly||
 |3|[@gardejo](https://github.com/gardejo)/[**p5-ark-sample-simplelinks**](https://github.com/gardejo/p5-ark-sample-simplelinks)|sample application for collection of links with Ark framework, Data::Model, etc.|[:arrow_upper_right:](http://blog.eorzea.asia/2009/07/post_35.html)|
 |3|[@gfx](https://github.com/gfx)/[**LLEval-Client**](https://github.com/gfx/LLEval-Client)|Interface to dankogai's LLEval service||
-|3|[@gfx](https://github.com/gfx)/[**Perl-Data-Util**](https://github.com/gfx/Perl-Data-Util)|Data::Util @ CPAN|[:arrow_upper_right:](http://search.cpan.org/dist/Data-Util/)|
 |3|[@gfx](https://github.com/gfx)/[**Perl5-ShipIt-Step-ChangeAllVersions**](https://github.com/gfx/Perl5-ShipIt-Step-ChangeAllVersions)|Updates versions in all the modules||
 |3|[@gfx](https://github.com/gfx)/[**Requires.PL**](https://github.com/gfx/Requires.PL)|||
 |3|[@gfx](https://github.com/gfx)/[**Service-DiffNotify**](https://github.com/gfx/Service-DiffNotify)|Notify file diffs in a directory||

@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|448|[@syuilo](https://github.com/syuilo)/[**misskey**](https://github.com/syuilo/misskey)|✨🌎✨ A planet of fediverse ✨🚀✨|[:arrow_upper_right:](https://misskey.xyz)|
+|449|[@syuilo](https://github.com/syuilo)/[**misskey**](https://github.com/syuilo/misskey)|✨🌎✨ A planet of fediverse ✨🚀✨|[:arrow_upper_right:](https://misskey.xyz)|
 |258|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
-|202|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting/  Functions SSR), RTDB, Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
+|206|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting/  Functions SSR), RTDB, Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
 |126|[@FMS-Cat](https://github.com/FMS-Cat)/[**automaton**](https://github.com/FMS-Cat/automaton)|Animation engine with Timeline GUI for creative coding||
 |88|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://potato4d.github.io/vue-fixed-header/)|
 |87|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
-|38|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
+|41|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
 |35|[@meganetaaan](https://github.com/meganetaaan)/[**vue-maze**](https://github.com/meganetaaan/vue-maze)|A Vue.js component of a simple maze game.||
 |32|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
 |25|[@miyaoka](https://github.com/miyaoka)/[**gh-blog**](https://github.com/miyaoka/gh-blog)|GitHub Issue as Blog|[:arrow_upper_right:](https://gh-blog.netlify.com/)|
@@ -18,8 +18,8 @@
 |16|[@sunya9](https://github.com/sunya9)/[**reveal-editor**](https://github.com/sunya9/reveal-editor)|Electron+Vue+bulma+SimpleMDE+reveal.js = Reveal editor||
 |15|[@potato4d](https://github.com/potato4d)/[**nuxt-and-wp-api-on-docker**](https://github.com/potato4d/nuxt-and-wp-api-on-docker)|||
 |12|[@ktsn](https://github.com/ktsn)/[**vue-ast-explorer**](https://github.com/ktsn/vue-ast-explorer)|Vue template AST explorer https://ktsn.github.io/vue-ast-explorer/||
+|12|[@mysticatea](https://github.com/mysticatea)/[**vue-eslint-editor**](https://github.com/mysticatea/vue-eslint-editor)|A code editor component to play ESLint.|[:arrow_upper_right:](https://mysticatea.github.io/vue-eslint-editor/)|
 |11|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**speakerdeck-mobile**](https://github.com/YuheiNakasaka/speakerdeck-mobile)|mobile viewer for speakerdeck|[:arrow_upper_right:](https://mspeakerdeck.com/)|
-|11|[@mysticatea](https://github.com/mysticatea)/[**vue-eslint-editor**](https://github.com/mysticatea/vue-eslint-editor)|A code editor component to play ESLint.|[:arrow_upper_right:](https://mysticatea.github.io/vue-eslint-editor/)|
 |11|[@nju33](https://github.com/nju33)/[**qiow**](https://github.com/nju33/qiow)|An app of the Qiita for viewing widely||
 |10|[@sunya9](https://github.com/sunya9)/[**beta**](https://github.com/sunya9/beta)|pnut.io client. This client respect Alpha that is app.net official web client.|[:arrow_upper_right:](https://beta.unsweets.net)|
 |8|[@fiahfy](https://github.com/fiahfy)/[**hosty**](https://github.com/fiahfy/hosty)|Hosts File Manager based on Electron.||
@@ -29,9 +29,10 @@
 |7|[@ktsn](https://github.com/ktsn)/[**typescript-webpack-simple**](https://github.com/ktsn/typescript-webpack-simple)|A simple TypeScript + Webpack + vue-loader setup.||
 |7|[@yomotsu](https://github.com/yomotsu)/[**vue-webgl-non-dom-component-example**](https://github.com/yomotsu/vue-webgl-non-dom-component-example)|||
 |6|[@azu](https://github.com/azu)/[**github-ribbon-generator**](https://github.com/azu/github-ribbon-generator)|GitHub Ribbon Generator on Web.|[:arrow_upper_right:](http://azu.github.io/github-ribbon-generator/)|
-|6|[@joe-re](https://github.com/joe-re)/[**eslint-vue-typescript-sample**](https://github.com/joe-re/eslint-vue-typescript-sample)|||
+|6|[@ixkaito](https://github.com/ixkaito)/[**viewportscaler**](https://github.com/ixkaito/viewportscaler)|Fluid-responsive value/calculation generator for CSS/Sass. To linearly scale font-size, margin, padding, etc. across viewport widths.|[:arrow_upper_right:](https://ixkaito.github.io/viewportscaler/)|
 |6|[@sho-yamane](https://github.com/sho-yamane)/[**nuxt-hp**](https://github.com/sho-yamane/nuxt-hp)|||
 |5|[@argelius](https://github.com/argelius)/[**vue-onsenui**](https://github.com/argelius/vue-onsenui)|Vue components for Onsen UI||
+|5|[@joe-re](https://github.com/joe-re)/[**eslint-vue-typescript-sample**](https://github.com/joe-re/eslint-vue-typescript-sample)|||
 |5|[@konojunya](https://github.com/konojunya)/[**HEW2018**](https://github.com/konojunya/HEW2018)|🏫 Project of HAL Event Week 2018. Introduction to modern web services using Go, Vue, AWS, Docker and CircleCI.||
 |5|[@potato4d](https://github.com/potato4d)/[**potato4d.me**](https://github.com/potato4d/potato4d.me)|Potato4d's Website|[:arrow_upper_right:](https://potato4d.me)|
 |5|[@sunecosuri](https://github.com/sunecosuri)/[**vue-component-sandbox**](https://github.com/sunecosuri/vue-component-sandbox)|SandBox for Vue.js||
@@ -46,6 +47,7 @@
 |3|[@argelius](https://github.com/argelius)/[**vue-onsenui-sample**](https://github.com/argelius/vue-onsenui-sample)|A sample app using Vue.js 2.0 and Onsen UI 2.0||
 |3|[@iwasaki-kenta](https://github.com/iwasaki-kenta)/[**blockflare-relay**](https://github.com/iwasaki-kenta/blockflare-relay)|EOS HK Hackathon - Relay client.||
 |3|[@jacoyutorius](https://github.com/jacoyutorius)/[**nuxt_firebase_kpt**](https://github.com/jacoyutorius/nuxt_firebase_kpt)|KPT by Nuxt + Firebase||
+|3|[@kohei-takata](https://github.com/kohei-takata)/[**vue-share-social**](https://github.com/kohei-takata/vue-share-social)|||
 |3|[@potato4d](https://github.com/potato4d)/[**nuxt_html5expertsjp**](https://github.com/potato4d/nuxt_html5expertsjp)|||
 |3|[@potato4d](https://github.com/potato4d)/[**vue-serial-input**](https://github.com/potato4d/vue-serial-input)|Simple serialcode input form for Vue.js|[:arrow_upper_right:](https://potato4d.github.io/vue-serial-input/)|
 |3|[@tkc](https://github.com/tkc)/[**anime-js-sandbox**](https://github.com/tkc/anime-js-sandbox)|sandbox of anime.js|[:arrow_upper_right:](https://tkc.github.io/anime-js-sandbox/)|

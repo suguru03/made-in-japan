@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|366|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
-|166|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
-|104|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
+|368|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
+|168|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
+|105|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
 |61|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
 |38|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
 |32|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
@@ -11,9 +11,9 @@
 |21|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
 |17|[@ymattu](https://github.com/ymattu)/[**MlBayesOpt**](https://github.com/ymattu/MlBayesOpt)|R package to tune parameters for machine learning(Support Vector Machine, Random Forest, and Xgboost), using bayesian optimization with gaussian process||
 |15|[@hoxo-m](https://github.com/hoxo-m)/[**dplyrr**](https://github.com/hoxo-m/dplyrr)|Utilities for comfortable use of dplyr with databases||
+|14|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
 |13|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
 |13|[@kazutan](https://github.com/kazutan)/[**tubeplayR**](https://github.com/kazutan/tubeplayR)|play youtube by R||
-|13|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
 |13|[@yutannihilation](https://github.com/yutannihilation)/[**estatapi**](https://github.com/yutannihilation/estatapi)|R package for e-Stat API in Japan||
 |11|[@hoxo-m](https://github.com/hoxo-m)/[**dplyr.teradata**](https://github.com/hoxo-m/dplyr.teradata)|A Teradata Backend for dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/dplyr.teradata)|
 |11|[@hoxo-m](https://github.com/hoxo-m)/[**sGMRFmix**](https://github.com/hoxo-m/sGMRFmix)|Sparse Gaussian Markov Random Field Mixtures for Anomaly Detection||

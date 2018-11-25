@@ -3,8 +3,8 @@
 |42|[@addsict](https://github.com/addsict)/[**YetAnotherHHKBController**](https://github.com/addsict/YetAnotherHHKBController)|Yet another controller for Happy Hacking Keyboard Professional2||
 |19|[@tomozh](https://github.com/tomozh)/[**arduino_ST7032**](https://github.com/tomozh/arduino_ST7032)|ST7032.cpp - Arduino LiquidCrystal compatible library||
 |17|[@shokai](https://github.com/shokai)/[**node-ble-firmata**](https://github.com/shokai/node-ble-firmata)|BlendMicro & Arduino BLE-Shield Firmata implementation for Node.js|[:arrow_upper_right:](https://www.npmjs.org/package/ble-firmata)|
-|16|[@9SQ](https://github.com/9SQ)/[**RESTful-Toilet**](https://github.com/9SQ/RESTful-Toilet)|トイレにRESTfulなAPIを実装してみた|[:arrow_upper_right:](http://eleclog.quitsq.com/2016/01/restful-toilet.html)|
 |16|[@kyab](https://github.com/kyab)/[**travis-test-arduino**](https://github.com/kyab/travis-test-arduino)|Test Project to do Travis-CI for Arduino sketch.||
+|15|[@9SQ](https://github.com/9SQ)/[**RESTful-Toilet**](https://github.com/9SQ/RESTful-Toilet)|トイレにRESTfulなAPIを実装してみた|[:arrow_upper_right:](http://eleclog.quitsq.com/2016/01/restful-toilet.html)|
 |14|[@soramimi](https://github.com/soramimi)/[**ESP8266Tweet**](https://github.com/soramimi/ESP8266Tweet)|Twitter client for ESP8266||
 |12|[@PuceBaboon](https://github.com/PuceBaboon)/[**ESP8266-AIT-T5**](https://github.com/PuceBaboon/ESP8266-AIT-T5)|ESP8266 code (Arduino-ESP core) for the modified AI Thinker T5 board, implementing an MQTT-enabled DHT11 sensor.||
 |12|[@ics-creative](https://github.com/ics-creative)/[**151217_arduino_ESP-WROOM-02_v1**](https://github.com/ics-creative/151217_arduino_ESP-WROOM-02_v1)|||

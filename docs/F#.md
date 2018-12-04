@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|77|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.FusionTasks**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
+|78|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.FusionTasks**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
 |55|[@vain0](https://github.com/vain0)/[**VainZero.Friends**](https://github.com/vain0/VainZero.Friends)|PL for friends in the Japaripark (ジャパリパークのフレンズのためのプログラミング言語)||
 |55|[@vain0](https://github.com/vain0)/[**friends-lang**](https://github.com/vain0/friends-lang)|PL for friends in the Japaripark (ジャパリパークのフレンズのためのプログラミング言語)||
 |38|[@pocketberserker](https://github.com/pocketberserker)/[**FsMachines**](https://github.com/pocketberserker/FsMachines)|A stream processing library for F#||

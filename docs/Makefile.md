@@ -8,12 +8,13 @@
 |33|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |26|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-agent**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/mackerelio/mackerel-agent/)|
 |25|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
+|24|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
 |23|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-24.5-doc-emacs**](https://github.com/ayatakesi/emacs-24.5-doc-emacs)|emacsマニュアルの日本語化と公開|[:arrow_upper_right:](https://ayatakesi.github.io/)|
-|23|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
 |22|[@atsushieno](https://github.com/atsushieno)/[**android-fluidsynth**](https://github.com/atsushieno/android-fluidsynth)|[Deprecated] fluidsynth Android port / build. It's old, see https://github.com/atsushieno/fluidsynth-fork/tree/opensles-v2||
 |22|[@norton](https://github.com/norton)/[**erlang-starter-kit**](https://github.com/norton/erlang-starter-kit)|Provide a basic set of Erlang/OTP tools for development and for testing||
 |20|[@sfuku7](https://github.com/sfuku7)/[**googletest_android_ndk-build**](https://github.com/sfuku7/googletest_android_ndk-build)|Build googletest with Android NDK||
 |20|[@zchee](https://github.com/zchee)/[**tmux-ja**](https://github.com/zchee/tmux-ja)|Translation tmux man page project||
+|18|[@moznion](https://github.com/moznion)/[**aws-lambda-perl5-layer**](https://github.com/moznion/aws-lambda-perl5-layer)|Perl5 layer for AWS Lambda with runtime API||
 |16|[@itchyny](https://github.com/itchyny)/[**fastinvsqrt**](https://github.com/itchyny/fastinvsqrt)|Fast inverse square root in programming languages||
 |15|[@keiji](https://github.com/keiji)/[**farewell-adt-book**](https://github.com/keiji/farewell-adt-book)|Android Studio完全移行ガイド||
 |14|[@kazuki](https://github.com/kazuki)/[**mediacodec.wasm**](https://github.com/kazuki/mediacodec.wasm)|Audio/Video Codec in WebAssembly||
@@ -22,10 +23,10 @@
 |12|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiSocketIOClient**](https://github.com/yagitoshiro/TiSocketIOClient)|Socket.io client for Appcelerator Titanium||
 |11|[@akafugu](https://github.com/akafugu)/[**vetinari_clock**](https://github.com/akafugu/vetinari_clock)|A clock that ticks irregularly, yet keeps accurate time.||
 |11|[@leo-project](https://github.com/leo-project)/[**notes**](https://github.com/leo-project/notes)|The note of LeoFS' developers and LeoFS' benchmark report to developers and users|[:arrow_upper_right:](https://github.com/leo-project/leofs)|
+|11|[@omochi](https://github.com/omochi)/[**JavaScriptCore-android-build**](https://github.com/omochi/JavaScriptCore-android-build)|Build JavaScriptCore for Android||
 |11|[@uwabami](https://github.com/uwabami)/[**emacs**](https://github.com/uwabami/emacs)|Emacs の設定ファイル群|[:arrow_upper_right:](https://uwabami.github.io/cc-env/Emacs.html)|
 |10|[@gfngfn](https://github.com/gfngfn)/[**cs-thesis**](https://github.com/gfngfn/cs-thesis)|A SATySFi class file for writing CS master thesis||
 |10|[@nariakiiwatani](https://github.com/nariakiiwatani)/[**ofxWatchFile**](https://github.com/nariakiiwatani/ofxWatchFile)|automatically reload a file if it is modified||
-|10|[@omochi](https://github.com/omochi)/[**JavaScriptCore-android-build**](https://github.com/omochi/JavaScriptCore-android-build)|Build JavaScriptCore for Android||
 |9|[@JotaroS](https://github.com/JotaroS)/[**ofxWiggleStereoscopy**](https://github.com/JotaroS/ofxWiggleStereoscopy)|openFrameworks addon for wiggle stereoscopy effect.||
 |9|[@daitomanabe](https://github.com/daitomanabe)/[**ofxTinySingleton**](https://github.com/daitomanabe/ofxTinySingleton)|tiny and simple singleton in C++11 way (for learning C++11||
 |9|[@hibari](https://github.com/hibari)/[**hibari-doc**](https://github.com/hibari/hibari-doc)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.|[:arrow_upper_right:](http://hibari.github.com/hibari-doc)|
@@ -72,6 +73,7 @@
 |3|[@sesh-kebab](https://github.com/sesh-kebab)/[**raspi-sonar**](https://github.com/sesh-kebab/raspi-sonar)|RaspberryPi Ultrasonic sensor node extention||
 |3|[@smizy](https://github.com/smizy)/[**docker-keras-tensorflow**](https://github.com/smizy/docker-keras-tensorflow)|Python3 Tensorflow backended Keras with Jupyter docker image based on alpine ||
 |3|[@smizy](https://github.com/smizy)/[**docker-keras-theano**](https://github.com/smizy/docker-keras-theano)|Python3 Theano backended Keras with Jupyter docker image based on alpine ||
+|3|[@snmsts](https://github.com/snmsts)/[**docker-cl-pack**](https://github.com/snmsts/docker-cl-pack)|||
 |3|[@tado](https://github.com/tado)/[**dltccs17**](https://github.com/tado/dltccs17)|Creative Coding School code examples||
 |3|[@tokuhirom](https://github.com/tokuhirom)/[**setusergroups**](https://github.com/tokuhirom/setusergroups)|set uid/pid/supplementary groups||
 |3|[@ueokande](https://github.com/ueokande)/[**tex-makefile**](https://github.com/ueokande/tex-makefile)|Makefile to compile TeX document.||

@@ -6,8 +6,8 @@
 |26|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
 |24|[@thorikawa](https://github.com/thorikawa)/[**AndroidObjectRecognition**](https://github.com/thorikawa/AndroidObjectRecognition)|App to demo using android camera and recognize specific object.||
 |17|[@kotet](https://github.com/kotet)/[**progress**](https://github.com/kotet/progress)|Easy progress reporting for D||
+|14|[@repeatedly](https://github.com/repeatedly)/[**xxhash-d**](https://github.com/repeatedly/xxhash-d)|D implementation of xxhash||
 |13|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**grain**](https://github.com/ShigekiKarita/grain)|autograd mir and CUDA library for dynamic neural networks in D.|[:arrow_upper_right:](https://shigekikarita.github.io/grain)|
-|13|[@repeatedly](https://github.com/repeatedly)/[**xxhash-d**](https://github.com/repeatedly/xxhash-d)|D implementation of xxhash||
 |13|[@repeatedly](https://github.com/repeatedly)/[**yajl-d**](https://github.com/repeatedly/yajl-d)|YAJL binding for D||
 |11|[@alphaKAI](https://github.com/alphaKAI)/[**ChickenClisp**](https://github.com/alphaKAI/ChickenClisp)|ChickenClisp is a Scheme like language and interpreter. An Implementation of Orelang in D||
 |9|[@alphaKAI](https://github.com/alphaKAI)/[**dadt**](https://github.com/alphaKAI/dadt)|[WIP] Algebraic Data Type for D,  by compile time parsing with pegged and code generating||

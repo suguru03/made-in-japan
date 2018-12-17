@@ -5,7 +5,7 @@
 |66|[@yang-wei](https://github.com/yang-wei)/[**elmflux**](https://github.com/yang-wei/elmflux)|Visualization of Elm Signals|[:arrow_upper_right:](http://yang-wei.github.io/elmflux/)|
 |51|[@jinjor](https://github.com/jinjor)/[**elm-devtool**](https://github.com/jinjor/elm-devtool)|An attempt to use Elm's debugger on Chrome DevTools||
 |42|[@jinjor](https://github.com/jinjor)/[**elm-html-parser**](https://github.com/jinjor/elm-html-parser)|Parse HTML in Elm!|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-html-parser/latest)|
-|32|[@jinjor](https://github.com/jinjor)/[**elm-drill**](https://github.com/jinjor/elm-drill)|手を動かしながら Elm に慣れるためのドリルです。||
+|33|[@jinjor](https://github.com/jinjor)/[**elm-drill**](https://github.com/jinjor/elm-drill)|手を動かしながら Elm に慣れるためのドリルです。||
 |25|[@jinjor](https://github.com/jinjor)/[**elm-debounce**](https://github.com/jinjor/elm-debounce)|Yet another debouncer for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-debounce/latest/)|
 |21|[@3tty0n](https://github.com/3tty0n)/[**elm-online-markdown-editor**](https://github.com/3tty0n/elm-online-markdown-editor)|An online markdown editor written in Elm.|[:arrow_upper_right:](https://3tty0n.github.io/elm-online-markdown-editor/)|
 |21|[@shuhei](https://github.com/shuhei)/[**pixelm**](https://github.com/shuhei/pixelm)|A pixel art editor written in Elm|[:arrow_upper_right:](http://shuheikagawa.com/pixelm/)|
@@ -19,14 +19,14 @@
 |8|[@rnons](https://github.com/rnons)/[**elm-svg-loader**](https://github.com/rnons/elm-svg-loader)|A webpack loader that inlines external SVG file into Elm views||
 |7|[@arowM](https://github.com/arowM)/[**elm-tokyo4**](https://github.com/arowM/elm-tokyo4)|Presentations for Elm Tokyo Meetup #4.|[:arrow_upper_right:](https://arowm.github.io/elm-tokyo4/presentation/)|
 |7|[@jinjor](https://github.com/jinjor)/[**toy-lang**](https://github.com/jinjor/toy-lang)|Just for fun!||
+|6|[@arowM](https://github.com/arowM)/[**elm-reference**](https://github.com/arowM/elm-reference)|An immutable approach to mutable references.|[:arrow_upper_right:](http://package.elm-lang.org/packages/arowM/elm-reference/latest)|
 |6|[@jinjor](https://github.com/jinjor)/[**elm-csv-decode**](https://github.com/jinjor/elm-csv-decode)|CSV decoder for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-csv-decode/latest/CsvDecode)|
 |6|[@youpy](https://github.com/youpy)/[**elm-midi**](https://github.com/youpy/elm-midi)|An Elm library for working with MIDI||
-|5|[@arowM](https://github.com/arowM)/[**elm-reference**](https://github.com/arowM/elm-reference)|An immutable approach imitating references of mutable languages.|[:arrow_upper_right:](http://package.elm-lang.org/packages/arowM/elm-reference/latest)|
+|5|[@arowM](https://github.com/arowM)/[**elm-form-validator**](https://github.com/arowM/elm-form-validator)|This Elm library provides a scalable way to validate a form by combining primitive validators.|[:arrow_upper_right:](http://package.elm-lang.org/packages/arowM/elm-form-validator/latest)|
 |5|[@arowM](https://github.com/arowM)/[**elm-time-machine**](https://github.com/arowM/elm-time-machine)|A module empowering any model to undo/redo in elm architecture way||
 |5|[@dfordivam](https://github.com/dfordivam)/[**elm-mind-map**](https://github.com/dfordivam/elm-mind-map)|Elm based mind mapping||
 |5|[@jinjor](https://github.com/jinjor)/[**elm-reversi**](https://github.com/jinjor/elm-reversi)|Just for joy|[:arrow_upper_right:](https://jinjor.github.io/elm-reversi/)|
 |5|[@suzuki-shin](https://github.com/suzuki-shin)/[**elm-chartjs**](https://github.com/suzuki-shin/elm-chartjs)|Elm bindings for Chart.js||
-|4|[@arowM](https://github.com/arowM)/[**elm-form-validator**](https://github.com/arowM/elm-form-validator)|This Elm library provides a scalable way to validate a form by combining primitive validators.|[:arrow_upper_right:](http://package.elm-lang.org/packages/arowM/elm-form-validator/latest)|
 |4|[@igrep](https://github.com/igrep)/[**lovely-commune**](https://github.com/igrep/lovely-commune)|Simulator of Lovely Commune in Dokidoki! PreCure.|[:arrow_upper_right:](http://lovely-commune.igreque.info/)|
 |4|[@jinjor](https://github.com/jinjor)/[**elm-large-form-example**](https://github.com/jinjor/elm-large-form-example)|Trying to find the best way|[:arrow_upper_right:](https://jinjor.github.io/elm-large-form-sample/)|
 |4|[@jinjor](https://github.com/jinjor)/[**elm-task-emulator**](https://github.com/jinjor/elm-task-emulator)|task emulator for ports||
@@ -35,6 +35,7 @@
 |4|[@ymtszw](https://github.com/ymtszw)/[**elm-xml-decode**](https://github.com/ymtszw/elm-xml-decode)|Elm XML decoder sharing the spirit of Json.Decode|[:arrow_upper_right:](http://package.elm-lang.org/packages/ymtszw/elm-xml-decode/latest/)|
 |3|[@arowM](https://github.com/arowM)/[**elm-monoid**](https://github.com/arowM/elm-monoid)|A module to define generic functions for monoid.||
 |3|[@jinjor](https://github.com/jinjor)/[**elm-dropdown**](https://github.com/jinjor/elm-dropdown)|Flexible dropdown menu for Elm||
+|3|[@jinjor](https://github.com/jinjor)/[**elm-req**](https://github.com/jinjor/elm-req)|HTTP Request for Elm|[:arrow_upper_right:](https://package.elm-lang.org/packages/jinjor/elm-req/latest/)|
 |3|[@jinjor](https://github.com/jinjor)/[**elm-visual-vdom**](https://github.com/jinjor/elm-visual-vdom)|Where in the view is actually rendered?|[:arrow_upper_right:](https://jinjor.github.io/elm-visual-vdom/)|
 |3|[@jinjor](https://github.com/jinjor)/[**midi-experiments**](https://github.com/jinjor/midi-experiments)|Playing with MIDI|[:arrow_upper_right:](https://jinjor.github.io/midi-experiments/)|
 |3|[@jinjor](https://github.com/jinjor)/[**pianoroll-editor**](https://github.com/jinjor/pianoroll-editor)|Experiment of making piano roll in Elm|[:arrow_upper_right:](https://jinjor.github.io/pianoroll-editor/)|

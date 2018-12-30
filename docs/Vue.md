@@ -1,18 +1,19 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|479|[@syuilo](https://github.com/syuilo)/[**misskey**](https://github.com/syuilo/misskey)|✨🌎✨ A planet of fediverse ✨🚀✨|[:arrow_upper_right:](https://misskey.xyz)|
-|257|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
-|216|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting/  Functions SSR), RTDB, Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
-|144|[@FMS-Cat](https://github.com/FMS-Cat)/[**automaton**](https://github.com/FMS-Cat/automaton)|Animation engine with Timeline GUI for creative coding||
-|89|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://potato4d.github.io/vue-fixed-header/)|
-|88|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
-|46|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
+|492|[@syuilo](https://github.com/syuilo)/[**misskey**](https://github.com/syuilo/misskey)|✨🌎✨ A planet of fediverse ✨🚀✨|[:arrow_upper_right:](https://misskey.xyz)|
+|256|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
+|222|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting/  Functions SSR), RTDB, Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
+|149|[@FMS-Cat](https://github.com/FMS-Cat)/[**automaton**](https://github.com/FMS-Cat/automaton)|Animation engine with Timeline GUI for creative coding||
+|91|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://potato4d.github.io/vue-fixed-header/)|
+|89|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
+|52|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
 |36|[@meganetaaan](https://github.com/meganetaaan)/[**vue-maze**](https://github.com/meganetaaan/vue-maze)|A Vue.js component of a simple maze game.||
 |32|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
 |26|[@miyaoka](https://github.com/miyaoka)/[**gh-blog**](https://github.com/miyaoka/gh-blog)|GitHub Issue as Blog|[:arrow_upper_right:](https://gh-blog.netlify.com/)|
-|23|[@miyaoka](https://github.com/miyaoka)/[**grid-generator**](https://github.com/miyaoka/grid-generator)|CSS Grid Layout generator|[:arrow_upper_right:](https://vue-grid-generator.netlify.com/)|
-|21|[@potato4d](https://github.com/potato4d)/[**vue-dev-template**](https://github.com/potato4d/vue-dev-template)|Vue.js development template.|[:arrow_upper_right:](http://qiita.com/potato4d/items/55a60f21c26bf889afd5)|
+|24|[@miyaoka](https://github.com/miyaoka)/[**grid-generator**](https://github.com/miyaoka/grid-generator)|CSS Grid Layout generator|[:arrow_upper_right:](https://vue-grid-generator.netlify.com/)|
+|22|[@potato4d](https://github.com/potato4d)/[**vue-dev-template**](https://github.com/potato4d/vue-dev-template)|[deprecated] Vue.js development template.|[:arrow_upper_right:](http://qiita.com/potato4d/items/55a60f21c26bf889afd5)|
 |19|[@frandiox](https://github.com/frandiox)/[**vue-onsenui-kitchensink**](https://github.com/frandiox/vue-onsenui-kitchensink)|Vue.js + Onsen UI Kitchen Sink Example||
+|17|[@potato4d](https://github.com/potato4d)/[**kamishibai-viewer**](https://github.com/potato4d/kamishibai-viewer)|Qiita slide mode embed library|[:arrow_upper_right:](https://potato4d.github.io/kamishibai-viewer/)|
 |17|[@potato4d](https://github.com/potato4d)/[**preloaders**](https://github.com/potato4d/preloaders)|My preloader collection using CSS Animation.|[:arrow_upper_right:](https://preloaders.potato4d.me)|
 |16|[@andoshin11](https://github.com/andoshin11)/[**vue-cli-plugin-nuxt-starter-template**](https://github.com/andoshin11/vue-cli-plugin-nuxt-starter-template)|Nuxt.js starter project template for vue-cli v3. https://starter.nuxtjs.org||
 |16|[@sunya9](https://github.com/sunya9)/[**reveal-editor**](https://github.com/sunya9/reveal-editor)|Electron+Vue+bulma+SimpleMDE+reveal.js = Reveal editor||
@@ -28,9 +29,9 @@
 |8|[@ixkaito](https://github.com/ixkaito)/[**viewportscaler**](https://github.com/ixkaito/viewportscaler)|Fluid-responsive value/calculation generator for CSS/Sass. To linearly scale font-size, margin, padding, etc. across viewport widths.|[:arrow_upper_right:](https://ixkaito.github.io/viewportscaler/)|
 |7|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**dna-of-forests**](https://github.com/YCAMInterlab/dna-of-forests)|Field Guide “DNA of Forests” - YCAM Bio Research|[:arrow_upper_right:](http://dna-of-forests.ycam.jp/en/)|
 |7|[@ktsn](https://github.com/ktsn)/[**typescript-webpack-simple**](https://github.com/ktsn/typescript-webpack-simple)|A simple TypeScript + Webpack + vue-loader setup.||
+|7|[@potato4d](https://github.com/potato4d)/[**vue-typescript-adcal-examples**](https://github.com/potato4d/vue-typescript-adcal-examples)|||
 |7|[@yomotsu](https://github.com/yomotsu)/[**vue-webgl-non-dom-component-example**](https://github.com/yomotsu/vue-webgl-non-dom-component-example)|||
 |6|[@azu](https://github.com/azu)/[**github-ribbon-generator**](https://github.com/azu/github-ribbon-generator)|GitHub Ribbon Generator on Web.|[:arrow_upper_right:](http://azu.github.io/github-ribbon-generator/)|
-|6|[@potato4d](https://github.com/potato4d)/[**vue-typescript-adcal-examples**](https://github.com/potato4d/vue-typescript-adcal-examples)|||
 |6|[@sho-yamane](https://github.com/sho-yamane)/[**nuxt-hp**](https://github.com/sho-yamane/nuxt-hp)|||
 |5|[@argelius](https://github.com/argelius)/[**vue-onsenui**](https://github.com/argelius/vue-onsenui)|Vue components for Onsen UI||
 |5|[@joe-re](https://github.com/joe-re)/[**eslint-vue-typescript-sample**](https://github.com/joe-re/eslint-vue-typescript-sample)|||

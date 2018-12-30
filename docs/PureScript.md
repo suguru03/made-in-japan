@@ -17,4 +17,5 @@
 |3|[@oreshinya](https://github.com/oreshinya)/[**purescript-conveyor**](https://github.com/oreshinya/purescript-conveyor)|Simple RPC framework||
 |3|[@oreshinya](https://github.com/oreshinya)/[**purescript-crypto**](https://github.com/oreshinya/purescript-crypto)|PureScript wrapper for crypto module of NodeJS||
 |3|[@philopon](https://github.com/philopon)/[**purescript-html**](https://github.com/philopon/purescript-html)|middle level virtual-dom binding for purescript||
+|3|[@rnons](https://github.com/rnons)/[**purescript-svg-parser-halogen**](https://github.com/rnons/purescript-svg-parser-halogen)|A library to inline SVG source string into halogen views|[:arrow_upper_right:](https://rnons.github.io/purescript-svg-parser-halogen)|
 

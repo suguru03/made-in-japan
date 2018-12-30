@@ -3,14 +3,14 @@
 |89|[@cotoami](https://github.com/cotoami)/[**cotoami**](https://github.com/cotoami/cotoami)|Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.|[:arrow_upper_right:](https://cotoa.me)|
 |76|[@jinjor](https://github.com/jinjor)/[**elm-time-travel**](https://github.com/jinjor/elm-time-travel)|An experimental debugger for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-time-travel/latest)|
 |66|[@yang-wei](https://github.com/yang-wei)/[**elmflux**](https://github.com/yang-wei/elmflux)|Visualization of Elm Signals|[:arrow_upper_right:](http://yang-wei.github.io/elmflux/)|
-|51|[@jinjor](https://github.com/jinjor)/[**elm-devtool**](https://github.com/jinjor/elm-devtool)|An attempt to use Elm's debugger on Chrome DevTools||
+|52|[@jinjor](https://github.com/jinjor)/[**elm-devtool**](https://github.com/jinjor/elm-devtool)|An attempt to use Elm's debugger on Chrome DevTools||
 |42|[@jinjor](https://github.com/jinjor)/[**elm-html-parser**](https://github.com/jinjor/elm-html-parser)|Parse HTML in Elm!|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-html-parser/latest)|
-|33|[@jinjor](https://github.com/jinjor)/[**elm-drill**](https://github.com/jinjor/elm-drill)|手を動かしながら Elm に慣れるためのドリルです。||
+|35|[@jinjor](https://github.com/jinjor)/[**elm-drill**](https://github.com/jinjor/elm-drill)|手を動かしながら Elm に慣れるためのドリルです。||
 |25|[@jinjor](https://github.com/jinjor)/[**elm-debounce**](https://github.com/jinjor/elm-debounce)|Yet another debouncer for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-debounce/latest/)|
 |21|[@3tty0n](https://github.com/3tty0n)/[**elm-online-markdown-editor**](https://github.com/3tty0n/elm-online-markdown-editor)|An online markdown editor written in Elm.|[:arrow_upper_right:](https://3tty0n.github.io/elm-online-markdown-editor/)|
 |21|[@shuhei](https://github.com/shuhei)/[**pixelm**](https://github.com/shuhei/pixelm)|A pixel art editor written in Elm|[:arrow_upper_right:](http://shuheikagawa.com/pixelm/)|
 |14|[@jinjor](https://github.com/jinjor)/[**elm-inline-hover**](https://github.com/jinjor/elm-inline-hover)|An utility for using :hover by inline style|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-inline-hover/latest)|
-|12|[@jinjor](https://github.com/jinjor)/[**elm-contextmenu**](https://github.com/jinjor/elm-contextmenu)|Flexible context menu for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-contextmenu/latest)|
+|13|[@jinjor](https://github.com/jinjor)/[**elm-contextmenu**](https://github.com/jinjor/elm-contextmenu)|Flexible context menu for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-contextmenu/latest)|
 |12|[@jinjor](https://github.com/jinjor)/[**elm-diff**](https://github.com/jinjor/elm-diff)|A diff implementation for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-diff/latest)|
 |12|[@jinjor](https://github.com/jinjor)/[**elm-video-chat**](https://github.com/jinjor/elm-video-chat)|video chat system by Elm||
 |10|[@jinjor](https://github.com/jinjor)/[**elm-binary-decoder**](https://github.com/jinjor/elm-binary-decoder)|Experimental binary decoder|[:arrow_upper_right:](https://jinjor.github.io/elm-binary-decoder/)|
@@ -37,6 +37,7 @@
 |3|[@jinjor](https://github.com/jinjor)/[**elm-dropdown**](https://github.com/jinjor/elm-dropdown)|Flexible dropdown menu for Elm||
 |3|[@jinjor](https://github.com/jinjor)/[**elm-req**](https://github.com/jinjor/elm-req)|HTTP Request for Elm|[:arrow_upper_right:](https://package.elm-lang.org/packages/jinjor/elm-req/latest/)|
 |3|[@jinjor](https://github.com/jinjor)/[**elm-visual-vdom**](https://github.com/jinjor/elm-visual-vdom)|Where in the view is actually rendered?|[:arrow_upper_right:](https://jinjor.github.io/elm-visual-vdom/)|
+|3|[@jinjor](https://github.com/jinjor)/[**gisc-elm**](https://github.com/jinjor/gisc-elm)|Gisc settings for Elm||
 |3|[@jinjor](https://github.com/jinjor)/[**midi-experiments**](https://github.com/jinjor/midi-experiments)|Playing with MIDI|[:arrow_upper_right:](https://jinjor.github.io/midi-experiments/)|
 |3|[@jinjor](https://github.com/jinjor)/[**pianoroll-editor**](https://github.com/jinjor/pianoroll-editor)|Experiment of making piano roll in Elm|[:arrow_upper_right:](https://jinjor.github.io/pianoroll-editor/)|
 |3|[@jinjor](https://github.com/jinjor)/[**vdom-dev**](https://github.com/jinjor/vdom-dev)|The testing environment of elm-lang/virtual-dom|[:arrow_upper_right:](https://jinjor.github.io/vdom-dev/)|

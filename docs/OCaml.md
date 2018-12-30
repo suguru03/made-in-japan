@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3666|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
-|546|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
-|80|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
+|3676|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
+|559|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|81|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |74|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |63|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
 |57|[@taikomatsu](https://github.com/taikomatsu)/[**SeExprMeshMaya**](https://github.com/taikomatsu/SeExprMeshMaya)|Polygon deformer node plugin for Maya that using Disney's SeExpr||
@@ -24,6 +24,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |15|[@mzp](https://github.com/mzp)/[**websocket-ocaml**](https://github.com/mzp/websocket-ocaml)|WebSocket Server for OCaml|[:arrow_upper_right:](http://eva-lu-ator.net/redmine/projects/websocket-ocaml)|
 |13|[@AltGr](https://github.com/AltGr)/[**Camelus**](https://github.com/AltGr/Camelus)|Bot posting reports on opam-repository pull-request using a web hook||
 |13|[@mzp](https://github.com/mzp)/[**msgpack-ocaml**](https://github.com/mzp/msgpack-ocaml)|MessagePack for OCaml/Coq|[:arrow_upper_right:](http://mzp.github.com/msgpack-ocaml/refman)|
+|13|[@yutopp](https://github.com/yutopp)/[**obeam**](https://github.com/yutopp/obeam)|[WIP] A utility library for parsing BEAM format(and Erlang External Term Format, etc) which is written in OCaml.||
 |12|[@UnixJunkie](https://github.com/UnixJunkie)/[**vp-tree**](https://github.com/UnixJunkie/vp-tree)|Vantage point tree implementation in OCaml||
 |12|[@hanazuki](https://github.com/hanazuki)/[**miniml**](https://github.com/hanazuki/miniml)|Tiny ML interpreter||
 |11|[@UnixJunkie](https://github.com/UnixJunkie)/[**ACPC**](https://github.com/UnixJunkie/ACPC)|Chemoinformatics tool for ligand-based virtual screening||
@@ -38,7 +39,6 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |8|[@mzp](https://github.com/mzp)/[**coq-for-ipad**](https://github.com/mzp/coq-for-ipad)|||
 |8|[@mzp](https://github.com/mzp)/[**min-caml**](https://github.com/mzp/min-caml)|min-caml[forked]|[:arrow_upper_right:](http://min-caml.sourceforge.net/)|
 |8|[@mzp](https://github.com/mzp)/[**scheme-abc**](https://github.com/mzp/scheme-abc)|Scheme compiler for ActionScript3 Bytecode/Flash|[:arrow_upper_right:](http://happyabc.org)|
-|8|[@yutopp](https://github.com/yutopp)/[**obeam**](https://github.com/yutopp/obeam)|[WIP] A utility library for parsing BEAM format(and Erlang External Term Format, etc) which is written in OCaml.||
 |8|[@zick](https://github.com/zick)/[**OCamLisp**](https://github.com/zick/OCamLisp)|Lisp implementation in OCaml||
 |7|[@UnixJunkie](https://github.com/UnixJunkie)/[**orxgboost**](https://github.com/UnixJunkie/orxgboost)|Gradient boosting for OCaml using the R xgboost package under the carpet||
 |6|[@AltGr](https://github.com/AltGr)/[**Contre-jour**](https://github.com/AltGr/Contre-jour)|A toy image gallery application for OPA||
@@ -75,6 +75,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**orc4**](https://github.com/UnixJunkie/orc4)|RC4 implementation in OCaml||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**vector3**](https://github.com/UnixJunkie/vector3)|module for 3D vectors (implemented as a record of x, y and z floats)||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**opml**](https://github.com/alphaKAI/opml)|A proof assistant for modal logic in OCaml (ported from: https://github.com/sndtkrh/hpml)||
+|3|[@alphaKAI](https://github.com/alphaKAI)/[**otenki**](https://github.com/alphaKAI/otenki)|Command line weather forecast viewer||
 |3|[@dvtrung](https://github.com/dvtrung)/[**ml-interpreter**](https://github.com/dvtrung/ml-interpreter)|ML interpreter written in OCaml||
 |3|[@keigoi](https://github.com/keigoi)/[**olt_ocaml**](https://github.com/keigoi/olt_ocaml)|An encoding of Ordered Linear Types in OCaml||
 |3|[@khibino](https://github.com/khibino)/[**pfds**](https://github.com/khibino/pfds)|Codes for the book "Purely Functional Data Structure"|[:arrow_upper_right:](http://twitter.com/khibino)|

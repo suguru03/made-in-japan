@@ -5,5 +5,5 @@
 |7|[@leico](https://github.com/leico)/[**ray.sniff-**](https://github.com/leico/ray.sniff-)|record our web field||
 |5|[@satoruhiga](https://github.com/satoruhiga)/[**daemon.maxpat**](https://github.com/satoruhiga/daemon.maxpat)|||
 |5|[@satoruhiga](https://github.com/satoruhiga)/[**ofxExternalTimeSync**](https://github.com/satoruhiga/ofxExternalTimeSync)|||
-|4|[@tado](https://github.com/tado)/[**TidalToMax**](https://github.com/tado/TidalToMax)|An Haskell package and examples for connecting TidalCycles to Max. ||
+|5|[@tado](https://github.com/tado)/[**TidalToMax**](https://github.com/tado/TidalToMax)|An Haskell package and examples for connecting TidalCycles to Max. ||
 

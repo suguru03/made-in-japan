@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|150|[@ziyan](https://github.com/ziyan)/[**spider**](https://github.com/ziyan/spider)|Web Content Extraction Through Machine Learning|[:arrow_upper_right:](https://www.ziyan.net/2014/04/web-content-extraction-through-machine-learning/)|
+|151|[@ziyan](https://github.com/ziyan)/[**spider**](https://github.com/ziyan/spider)|Web Content Extraction Through Machine Learning|[:arrow_upper_right:](https://www.ziyan.net/2014/04/web-content-extraction-through-machine-learning/)|
 |123|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hypervisor**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
-|109|[@y-yu](https://github.com/y-yu)/[**trpl-2nd-pdf**](https://github.com/y-yu/trpl-2nd-pdf)|PDF of Japanese The Rust Programming Language: 2nd Edition |[:arrow_upper_right:](https://y-yu.github.io/trpl-2nd-pdf/book.pdf)|
-|81|[@neubig](https://github.com/neubig)/[**naacl18tutorial**](https://github.com/neubig/naacl18tutorial)|NAACL 2018 Tutorial: Modelling Natural Language, Programs, and their Intersection||
+|108|[@y-yu](https://github.com/y-yu)/[**trpl-2nd-pdf**](https://github.com/y-yu/trpl-2nd-pdf)|PDF of Japanese The Rust Programming Language: 2nd Edition |[:arrow_upper_right:](https://y-yu.github.io/trpl-2nd-pdf/book.pdf)|
+|82|[@neubig](https://github.com/neubig)/[**naacl18tutorial**](https://github.com/neubig/naacl18tutorial)|NAACL 2018 Tutorial: Modelling Natural Language, Programs, and their Intersection||
 |56|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
 |53|[@tkamishima](https://github.com/tkamishima)/[**recsysdoc**](https://github.com/tkamishima/recsysdoc)|Algorithms of Recommender Systems : A survey paper of recommender systems (written in Japanese)|[:arrow_upper_right:](http://www.kamishima.net/archive/recsysdoc.pdf)|
 |47|[@hamano](https://github.com/hamano)/[**the-little-mongodb-book**](https://github.com/hamano/the-little-mongodb-book)|MongoDBの薄い本(The Little MongoDB Book)|[:arrow_upper_right:](http://www.cuspy.org/diary/2012-04-17)|

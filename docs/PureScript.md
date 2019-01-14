@@ -8,14 +8,16 @@
 |6|[@fujimura](https://github.com/fujimura)/[**purescript-react-example**](https://github.com/fujimura/purescript-react-example)|PureScript + React.js example, based on https://github.com/purescript-contrib/purescript-react.||
 |6|[@utatti](https://github.com/utatti)/[**purescript-halogen-free-html**](https://github.com/utatti/purescript-halogen-free-html)|Free monad for Halogen HTML||
 |5|[@algas](https://github.com/algas)/[**purescript-enchantjs**](https://github.com/algas/purescript-enchantjs)|PureScript interface for Enchant.js||
+|5|[@bouzuya](https://github.com/bouzuya)/[**purescript-examples**](https://github.com/bouzuya/purescript-examples)|||
 |5|[@oreshinya](https://github.com/oreshinya)/[**purescript-cherry**](https://github.com/oreshinya/purescript-cherry)|PureScript simple SPA framework.||
-|4|[@bouzuya](https://github.com/bouzuya)/[**purescript-examples**](https://github.com/bouzuya/purescript-examples)|||
+|4|[@bouzuya](https://github.com/bouzuya)/[**create-purescript-react-basic**](https://github.com/bouzuya/create-purescript-react-basic)|A npm initializer for purescript-react-basic project|[:arrow_upper_right:](https://www.npmjs.com/package/@bouzuya/create-purescript-react-basic)|
+|4|[@cdepillabout](https://github.com/cdepillabout)/[**purescript-email-validate**](https://github.com/cdepillabout/purescript-email-validate)|Validating an email address string against RFC 5322||
 |4|[@noraesae](https://github.com/noraesae)/[**purescript-halogen-free-html**](https://github.com/noraesae/purescript-halogen-free-html)|Free monad for Halogen HTML||
 |4|[@oreshinya](https://github.com/oreshinya)/[**purescript-mysql**](https://github.com/oreshinya/purescript-mysql)|Bindings mysql for PureScript||
 |3|[@bouzuya](https://github.com/bouzuya)/[**tamaru**](https://github.com/bouzuya/tamaru)|||
-|3|[@cdepillabout](https://github.com/cdepillabout)/[**purescript-email-validate**](https://github.com/cdepillabout/purescript-email-validate)|Validating an email address string against RFC 5322||
 |3|[@oreshinya](https://github.com/oreshinya)/[**purescript-conveyor**](https://github.com/oreshinya/purescript-conveyor)|Simple RPC framework||
 |3|[@oreshinya](https://github.com/oreshinya)/[**purescript-crypto**](https://github.com/oreshinya/purescript-crypto)|PureScript wrapper for crypto module of NodeJS||
+|3|[@oreshinya](https://github.com/oreshinya)/[**purescript-pure-style**](https://github.com/oreshinya/purescript-pure-style)|Write scoped CSS with auto name generation in PureScript||
 |3|[@philopon](https://github.com/philopon)/[**purescript-html**](https://github.com/philopon/purescript-html)|middle level virtual-dom binding for purescript||
 |3|[@rnons](https://github.com/rnons)/[**purescript-svg-parser-halogen**](https://github.com/rnons/purescript-svg-parser-halogen)|A library to inline SVG source string into halogen views|[:arrow_upper_right:](https://rnons.github.io/purescript-svg-parser-halogen)|
 

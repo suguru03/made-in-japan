@@ -1,24 +1,24 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|355|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
-|41|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
+|361|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
+|43|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
 |17|[@ntaoo](https://github.com/ntaoo)/[**material2_dart**](https://github.com/ntaoo/material2_dart)|angular/material2 for Dart.||
 |15|[@kikuchy](https://github.com/kikuchy)/[**crashlytics**](https://github.com/kikuchy/crashlytics)|Flutter plugin for (Fabric) Crashlytics on Android and iOS. (Unofficial)||
 |13|[@ehr174](https://github.com/ehr174)/[**dartstrap**](https://github.com/ehr174/dartstrap)|||
 |13|[@konifar](https://github.com/konifar)/[**flutter-for-non-engineers**](https://github.com/konifar/flutter-for-non-engineers)|エンジニア以外の職種の方がFlutterでの開発を通してなんとなくアプリ開発について知るためのリポジトリです||
+|13|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(N)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dartlang.org/packages/bloc_provider)|
 |13|[@sh4869](https://github.com/sh4869)/[**twitter.dart**](https://github.com/sh4869/twitter.dart)|Twitter API Library in Dart |[:arrow_upper_right:](https://pub.dartlang.org/packages/twitter)|
-|12|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(N)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dartlang.org/packages/bloc_provider)|
-|9|[@vvakame](https://github.com/vvakame)/[**teaolive**](https://github.com/vvakame/teaolive)|BDD Test Framework for Dart. it was inspired by the Jasmine(JavaScript).||
+|10|[@vvakame](https://github.com/vvakame)/[**teaolive**](https://github.com/vvakame/teaolive)|BDD Test Framework for Dart. it was inspired by the Jasmine(JavaScript).||
 |8|[@ntaoo](https://github.com/ntaoo)/[**ng2_g_signin**](https://github.com/ntaoo/ng2_g_signin)|Google sign-in component for Angular2 Dart||
 |8|[@technohippy](https://github.com/technohippy)/[**angular-translate.dart**](https://github.com/technohippy/angular-translate.dart)|I18N Library for AngularDart||
 |6|[@deadcheat](https://github.com/deadcheat)/[**flutter_square_calendar**](https://github.com/deadcheat/flutter_square_calendar)|A widget plugin for showing calendar.||
 |6|[@kui](https://github.com/kui)/[**ansi_pixels**](https://github.com/kui/ansi_pixels)|A Polymer.dart application to edit ANSI art|[:arrow_upper_right:](https://kui.github.io/ansi_pixels/)|
+|6|[@mono0926](https://github.com/mono0926)/[**instagram-flutter**](https://github.com/mono0926/instagram-flutter)|||
+|6|[@mono0926](https://github.com/mono0926)/[**simple_logger**](https://github.com/mono0926/simple_logger)|Provides super simple APIs for logging. The log also includes caller info by setting includeCallerInfo to true. On Android Studio, jump to caller info by clicking the log.|[:arrow_upper_right:](https://pub.dartlang.org/packages/simple_logger)|
 |6|[@najeira](https://github.com/najeira)/[**flutter-video-player**](https://github.com/najeira/flutter-video-player)|A Flutter plugin for iOS and Android for video using ExoPlayer||
 |5|[@MiCHiLU](https://github.com/MiCHiLU)/[**dart-cca-example**](https://github.com/MiCHiLU/dart-cca-example)|An example of Cordova Chrome Apps written in AngularDart.||
 |5|[@kyorohiro](https://github.com/kyorohiro)/[**hello_skyengine**](https://github.com/kyorohiro/hello_skyengine)|https://www.gitbook.com/book/kyorohiro/hello_skyengine/details |[:arrow_upper_right:](https://kyorohiro.github.io/umiuni2d/web/index.html)|
 |5|[@michilu](https://github.com/michilu)/[**dart-cca-example**](https://github.com/michilu/dart-cca-example)|An example of Cordova Chrome Apps written in AngularDart.||
-|5|[@mono0926](https://github.com/mono0926)/[**instagram-flutter**](https://github.com/mono0926/instagram-flutter)|||
-|5|[@mono0926](https://github.com/mono0926)/[**simple_logger**](https://github.com/mono0926/simple_logger)|Provides super simple APIs for logging. The log also includes caller info by setting includeCallerInfo to true. On Android Studio, jump to caller info by clicking the log.|[:arrow_upper_right:](https://pub.dartlang.org/packages/simple_logger)|
 |5|[@moznion](https://github.com/moznion)/[**dart-grec-minimal**](https://github.com/moznion/dart-grec-minimal)|A minimal parser/generator of Google Calendar recurrence rule for dart|[:arrow_upper_right:](https://pub.dartlang.org/packages/grec_minimal)|
 |5|[@ntaoo](https://github.com/ntaoo)/[**NekogataDrumSequencer**](https://github.com/ntaoo/NekogataDrumSequencer)|Nekogata Drum Sequencer with AngularDart||
 |5|[@syuilo](https://github.com/syuilo)/[**Notex2**](https://github.com/syuilo/Notex2)|Notex2 is a Markdown compiler.||

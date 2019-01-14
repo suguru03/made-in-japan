@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|493|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
-|426|[@parroty](https://github.com/parroty)/[**excoveralls**](https://github.com/parroty/excoveralls)|Coverage report tool for Elixir with coveralls.io integration.||
-|415|[@parroty](https://github.com/parroty)/[**exvcr**](https://github.com/parroty/exvcr)|HTTP request/response recording library for elixir, inspired by VCR.||
-|309|[@parroty](https://github.com/parroty)/[**extwitter**](https://github.com/parroty/extwitter)|Twitter client library for elixir. ||
-|283|[@parroty](https://github.com/parroty)/[**excheck**](https://github.com/parroty/excheck)|Property-based testing library for Elixir (QuickCheck style).||
+|495|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
+|430|[@parroty](https://github.com/parroty)/[**excoveralls**](https://github.com/parroty/excoveralls)|Coverage report tool for Elixir with coveralls.io integration.||
+|416|[@parroty](https://github.com/parroty)/[**exvcr**](https://github.com/parroty/exvcr)|HTTP request/response recording library for elixir, inspired by VCR.||
+|311|[@parroty](https://github.com/parroty)/[**extwitter**](https://github.com/parroty/extwitter)|Twitter client library for elixir. ||
+|286|[@parroty](https://github.com/parroty)/[**excheck**](https://github.com/parroty/excheck)|Property-based testing library for Elixir (QuickCheck style).||
 |216|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
-|178|[@ma2gedev](https://github.com/ma2gedev)/[**power_assert_ex**](https://github.com/ma2gedev/power_assert_ex)|Power Assert in Elixir. Shows evaluation results each expression.|[:arrow_upper_right:](https://github.com/ma2gedev/power_assert_ex)|
+|179|[@ma2gedev](https://github.com/ma2gedev)/[**power_assert_ex**](https://github.com/ma2gedev/power_assert_ex)|Power Assert in Elixir. Shows evaluation results each expression.|[:arrow_upper_right:](https://github.com/ma2gedev/power_assert_ex)|
 |149|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
 |145|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
 |116|[@tuvistavie](https://github.com/tuvistavie)/[**ex_cli**](https://github.com/tuvistavie/ex_cli)|User friendly CLI apps for Elixir|[:arrow_upper_right:](https://hex.pm/packages/ex_cli)|
-|104|[@parroty](https://github.com/parroty)/[**exprof**](https://github.com/parroty/exprof)|A simple code profiler for Elixir using eprof.||
+|105|[@parroty](https://github.com/parroty)/[**exprof**](https://github.com/parroty/exprof)|A simple code profiler for Elixir using eprof.||
 |82|[@tuvistavie](https://github.com/tuvistavie)/[**opencov**](https://github.com/tuvistavie/opencov)|Open source code coverage history webapp|[:arrow_upper_right:](http://demo.opencov.com)|
 |77|[@keichan34](https://github.com/keichan34)/[**exfile**](https://github.com/keichan34/exfile)|File upload persistence and processing for Phoenix / Plug||
 |74|[@ikeikeikeike](https://github.com/ikeikeikeike)/[**sitemap**](https://github.com/ikeikeikeike/sitemap)|Sitemap is the easiest way to generate Sitemaps in Elixir.|[:arrow_upper_right:](https://hex.pm/packages/sitemap)|
@@ -54,8 +54,8 @@
 |14|[@KazuCocoa](https://github.com/KazuCocoa)/[**ex_parameterized**](https://github.com/KazuCocoa/ex_parameterized)|This library support parameterized test with test_with_params macro.|[:arrow_upper_right:](https://github.com/KazuCocoa/ex_parameterized)|
 |14|[@tatsuya6502](https://github.com/tatsuya6502)/[**elixir_rust_interop_demo**](https://github.com/tatsuya6502/elixir_rust_interop_demo)|Demonstrate calling Rust functions from Elixir using Erlang NIF interface||
 |13|[@deadcheat](https://github.com/deadcheat)/[**erande**](https://github.com/deadcheat/erande)|||
+|13|[@dvcrn](https://github.com/dvcrn)/[**binance.ex**](https://github.com/dvcrn/binance.ex)|Elixir wrapper for the Binance public API||
 |13|[@yoavlt](https://github.com/yoavlt)/[**one_signal**](https://github.com/yoavlt/one_signal)|Elixir wrapper of OneSignal||
-|12|[@dvcrn](https://github.com/dvcrn)/[**binance.ex**](https://github.com/dvcrn/binance.ex)|Elixir wrapper for the Binance public API||
 |12|[@ma2gedev](https://github.com/ma2gedev)/[**mix-star**](https://github.com/ma2gedev/mix-star)|Elixir Mix task to starring GitHub repository with `mix deps.get`ting dependent library||
 |11|[@expede](https://github.com/expede)/[**operator**](https://github.com/expede/operator)|Helpers for defining Elixir operators||
 |11|[@ne-sachirou](https://github.com/ne-sachirou)/[**stream_gzip**](https://github.com/ne-sachirou/stream_gzip)|Gzip or gunzip an Elixir stream||
@@ -68,6 +68,7 @@
 |9|[@mururu](https://github.com/mururu)/[**elixir-random**](https://github.com/mururu/elixir-random)|Random for Elixir.||
 |9|[@parroty](https://github.com/parroty)/[**http_server**](https://github.com/parroty/http_server)|A simple and self-contained HTTP Server for elixir.||
 |8|[@ikeikeikeike](https://github.com/ikeikeikeike)/[**bing_translator**](https://github.com/ikeikeikeike/bing_translator)|A simple Elixir interface to Bing's translation API. |[:arrow_upper_right:](https://hex.pm/packages/bing_translator)|
+|8|[@keichan34](https://github.com/keichan34)/[**b2_client**](https://github.com/keichan34/b2_client)|Backblaze B2 client for Elixir||
 |8|[@lyokato](https://github.com/lyokato)/[**riverside**](https://github.com/lyokato/riverside)|Elixir Library: Simple WebSocket Server Framework||
 |8|[@ne-sachirou](https://github.com/ne-sachirou)/[**redis_z**](https://github.com/ne-sachirou/redis_z)|Pooling & sharding support parallel Redis adapter base on Redix.|[:arrow_upper_right:](https://hex.pm/packages/redis_z)|
 |8|[@niku](https://github.com/niku)/[**hobot**](https://github.com/niku/hobot)|A bot framework working on Erlang VM(BEAM)||
@@ -76,7 +77,6 @@
 |8|[@yoavlt](https://github.com/yoavlt)/[**nativegen**](https://github.com/yoavlt/nativegen)|Accessible REST API code generator for native app.||
 |8|[@yujikawa](https://github.com/yujikawa)/[**numexy**](https://github.com/yujikawa/numexy)|numexy is a library like Python's numpy. It is a library for matrix calculation.||
 |7|[@ikeikeikeike](https://github.com/ikeikeikeike)/[**exromaji**](https://github.com/ikeikeikeike/exromaji)|A Elixir library for translating between hiragana, katakana, romaji and sound.|[:arrow_upper_right:](https://github.com/ikeikeikeike/exromaji)|
-|7|[@keichan34](https://github.com/keichan34)/[**b2_client**](https://github.com/keichan34/b2_client)|Backblaze B2 client for Elixir||
 |7|[@keichan34](https://github.com/keichan34)/[**exfile-b2**](https://github.com/keichan34/exfile-b2)|A Backblaze B2 backend for Exfile||
 |7|[@marocchino](https://github.com/marocchino)/[**ffaker**](https://github.com/marocchino/ffaker)|elixir porting of https://github.com/ffaker/ffaker||
 |7|[@mike-north](https://github.com/mike-north)/[**elixir-fundamentals**](https://github.com/mike-north/elixir-fundamentals)|👨‍🏫 Mike's Elixir Fundamentals Course|[:arrow_upper_right:](https://mike.works/course/elixir-fundamentals-2b07030)|

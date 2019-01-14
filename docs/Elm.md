@@ -14,8 +14,8 @@
 |12|[@jinjor](https://github.com/jinjor)/[**elm-diff**](https://github.com/jinjor/elm-diff)|A diff implementation for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-diff/latest)|
 |12|[@jinjor](https://github.com/jinjor)/[**elm-video-chat**](https://github.com/jinjor/elm-video-chat)|video chat system by Elm||
 |10|[@jinjor](https://github.com/jinjor)/[**elm-binary-decoder**](https://github.com/jinjor/elm-binary-decoder)|Experimental binary decoder|[:arrow_upper_right:](https://jinjor.github.io/elm-binary-decoder/)|
+|9|[@jinjor](https://github.com/jinjor)/[**elm-xml-parser**](https://github.com/jinjor/elm-xml-parser)|XML parser for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-xml-parser/latest)|
 |8|[@jinjor](https://github.com/jinjor)/[**elm-transition**](https://github.com/jinjor/elm-transition)|A simple transition library for Elm||
-|8|[@jinjor](https://github.com/jinjor)/[**elm-xml-parser**](https://github.com/jinjor/elm-xml-parser)|XML parser for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-xml-parser/latest)|
 |8|[@rnons](https://github.com/rnons)/[**elm-svg-loader**](https://github.com/rnons/elm-svg-loader)|A webpack loader that inlines external SVG file into Elm views||
 |7|[@arowM](https://github.com/arowM)/[**elm-tokyo4**](https://github.com/arowM/elm-tokyo4)|Presentations for Elm Tokyo Meetup #4.|[:arrow_upper_right:](https://arowm.github.io/elm-tokyo4/presentation/)|
 |7|[@jinjor](https://github.com/jinjor)/[**toy-lang**](https://github.com/jinjor/toy-lang)|Just for fun!||

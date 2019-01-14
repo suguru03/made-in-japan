@@ -12,6 +12,7 @@
 |5|[@yoshimalucky](https://github.com/yoshimalucky)/[**pepper_navigation**](https://github.com/yoshimalucky/pepper_navigation)|||
 |4|[@januswel](https://github.com/januswel)/[**ctest-gtest**](https://github.com/januswel/ctest-gtest)|CTest with Google Test||
 |4|[@yossato](https://github.com/yossato)/[**architect_robot**](https://github.com/yossato/architect_robot)|Line tracer robot with gazebo and ROS.||
+|3|[@hideo55](https://github.com/hideo55)/[**CMake-FindSSE**](https://github.com/hideo55/CMake-FindSSE)|CMake module for check  whether a SSE nstructions can be used on the machine.||
 |3|[@pcboy](https://github.com/pcboy)/[**libwallet**](https://github.com/pcboy/libwallet)|Script to compile monero libwallet for Android (used by monujo wallet)||
 |3|[@sugarsweetrobotics](https://github.com/sugarsweetrobotics)/[**UrgRTC**](https://github.com/sugarsweetrobotics/UrgRTC)|||
 

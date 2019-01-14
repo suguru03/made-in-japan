@@ -24,4 +24,5 @@
 |3|[@knakayama](https://github.com/knakayama)/[**tf-alb-demo**](https://github.com/knakayama/tf-alb-demo)|||
 |3|[@making](https://github.com/making)/[**cfcr-aws**](https://github.com/making/cfcr-aws)|How to deploy Cloud Foundry Container Runtime (formerly known as Kubo/Kubernete on BOSH) on AWS||
 |3|[@matsuu](https://github.com/matsuu)/[**terraform-pixiv-isucon2016**](https://github.com/matsuu/terraform-pixiv-isucon2016)|Terraform configuration files for building Pixiv ISUCON 2016 environment||
+|3|[@tsub](https://github.com/tsub)/[**eks-sandbox**](https://github.com/tsub/eks-sandbox)|||
 

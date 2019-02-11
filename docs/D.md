@@ -11,13 +11,13 @@
 |13|[@repeatedly](https://github.com/repeatedly)/[**yajl-d**](https://github.com/repeatedly/yajl-d)|YAJL binding for D||
 |11|[@alphaKAI](https://github.com/alphaKAI)/[**ChickenClisp**](https://github.com/alphaKAI/ChickenClisp)|ChickenClisp is a Scheme like language and interpreter. An Implementation of Orelang in D||
 |9|[@alphaKAI](https://github.com/alphaKAI)/[**dadt**](https://github.com/alphaKAI/dadt)|[WIP] Algebraic Data Type for D,  by compile time parsing with pegged and code generating||
+|9|[@alphaKAI](https://github.com/alphaKAI)/[**tvm**](https://github.com/alphaKAI/tvm)|Toy virtual machine and JIT Engine with JavaScript Like Syntax||
 |9|[@repeatedly](https://github.com/repeatedly)/[**reed**](https://github.com/repeatedly/reed)|Arango Driver for D||
 |9|[@tanitta](https://github.com/tanitta)/[**easing**](https://github.com/tanitta/easing)|easing is a library that add flavor to motion in D programming language.||
 |8|[@kubo39](https://github.com/kubo39)/[**syscall-d**](https://github.com/kubo39/syscall-d)|syscall interface for D.|[:arrow_upper_right:](http://code.dlang.org/packages/syscall-d)|
 |8|[@repeatedly](https://github.com/repeatedly)/[**Mongo-D-Driver**](https://github.com/repeatedly/Mongo-D-Driver)|Mongo Driver for D|[:arrow_upper_right:](http://www.mongodb.org/)|
 |8|[@repeatedly](https://github.com/repeatedly)/[**d-volkswagen**](https://github.com/repeatedly/d-volkswagen)|Volkswagen detects when your tests are being run in a CI server, and makes them pass.||
 |7|[@alphaKAI](https://github.com/alphaKAI)/[**doco**](https://github.com/alphaKAI/doco)|Yet another fuzzy text selector.||
-|7|[@alphaKAI](https://github.com/alphaKAI)/[**tvm**](https://github.com/alphaKAI/tvm)|Toy virtual machine and JIT Engine with JavaScript Like Syntax||
 |7|[@kiridaruma](https://github.com/kiridaruma)/[**kisaragi**](https://github.com/kiridaruma/kisaragi)|Realtime Web service framework きさらぎ(kisaragi)||
 |6|[@Pctg-x8](https://github.com/Pctg-x8)/[**nanovg-d**](https://github.com/Pctg-x8/nanovg-d)|NanoVG porting for dlang||
 |6|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**numir**](https://github.com/ShigekiKarita/numir)|numpy-like API wrappers of mir||
@@ -46,6 +46,7 @@
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-tree**](https://github.com/ShigekiKarita/d-tree)|Decision tree library for D||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**dsh**](https://github.com/alphaKAI/dsh)|The D Shell.||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**jsonParser**](https://github.com/alphaKAI/jsonParser)|Yet Another JSON parser for D.||
+|3|[@alphaKAI](https://github.com/alphaKAI)/[**libnotify4d**](https://github.com/alphaKAI/libnotify4d)|A D binding for libnotify||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**xhvm**](https://github.com/alphaKAI/xhvm)|The Xhyve VM Manager||
 |3|[@koji-kojiro](https://github.com/koji-kojiro)/[**matplotlib-d**](https://github.com/koji-kojiro/matplotlib-d)|||
 |3|[@nanase](https://github.com/nanase)/[**dux**](https://github.com/nanase/dux)|ux implementation for D||

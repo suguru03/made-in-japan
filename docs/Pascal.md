@@ -16,13 +16,13 @@
 |5|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**MyAsset**](https://github.com/LUXOPHIA/MyAsset)|MyModel と MyMaterial の統合プロジェクト。||
 |5|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**MyModel**](https://github.com/LUXOPHIA/MyModel)|FireMonkey において、点/線/面の３Ｄモデルを作る方法。||
 |5|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**Texture3D**](https://github.com/LUXOPHIA/Texture3D)|3Dテクスチャを扱う方法。||
+|5|[@oguna](https://github.com/oguna)/[**SharpDXTex**](https://github.com/oguna/SharpDXTex)|SharpDXTex texture processing library||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**BlockBuilder**](https://github.com/LUXOPHIA/BlockBuilder)|任意の形状をブロックでモデリングする方法。||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**CameraFaces**](https://github.com/LUXOPHIA/CameraFaces)|OpenCV を用いて、カメラの映像から顔を認識する方法。||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**Fractals**](https://github.com/LUXOPHIA/Fractals)|Learn while rendering the Mandelbrot-set as a motif, comparing ObjectPascal and C++.||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**MarchingCubes**](https://github.com/LUXOPHIA/MarchingCubes)|３Ｄボリュームデータの等値面をポリゴン化する方法。||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**NablaField2D**](https://github.com/LUXOPHIA/NablaField2D)|ポテンシャル分布からベクトル場を生成する方法。||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**t-Distribution**](https://github.com/LUXOPHIA/t-Distribution)|How to compute the Student's t-Distribution.||
-|4|[@oguna](https://github.com/oguna)/[**SharpDXTex**](https://github.com/oguna/SharpDXTex)|SharpDXTex texture processing library||
 |3|[@1995hnagamin](https://github.com/1995hnagamin)/[**yapcasia2015-piet**](https://github.com/1995hnagamin/yapcasia2015-piet)|YAPC::Asia 2015 のあれ||
 |3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**BezierConverter**](https://github.com/LUXOPHIA/BezierConverter)|||
 |3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**Billiard**](https://github.com/LUXOPHIA/Billiard)|ペナルティ法を用いて、転がる球体同士の衝突をシミュレーションします。||

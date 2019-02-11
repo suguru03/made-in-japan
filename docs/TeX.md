@@ -1,58 +1,58 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|151|[@ziyan](https://github.com/ziyan)/[**spider**](https://github.com/ziyan/spider)|Web Content Extraction Through Machine Learning|[:arrow_upper_right:](https://www.ziyan.net/2014/04/web-content-extraction-through-machine-learning/)|
-|123|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hypervisor**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
-|108|[@y-yu](https://github.com/y-yu)/[**trpl-2nd-pdf**](https://github.com/y-yu/trpl-2nd-pdf)|PDF of Japanese The Rust Programming Language: 2nd Edition |[:arrow_upper_right:](https://y-yu.github.io/trpl-2nd-pdf/book.pdf)|
-|82|[@neubig](https://github.com/neubig)/[**naacl18tutorial**](https://github.com/neubig/naacl18tutorial)|NAACL 2018 Tutorial: Modelling Natural Language, Programs, and their Intersection||
-|56|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
+|153|[@ziyan](https://github.com/ziyan)/[**spider**](https://github.com/ziyan/spider)|Web Content Extraction Through Machine Learning|[:arrow_upper_right:](https://www.ziyan.net/2014/04/web-content-extraction-through-machine-learning/)|
+|126|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hypervisor**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
+|113|[@y-yu](https://github.com/y-yu)/[**trpl-2nd-pdf**](https://github.com/y-yu/trpl-2nd-pdf)|PDF of Japanese The Rust Programming Language: 2nd Edition |[:arrow_upper_right:](https://y-yu.github.io/trpl-2nd-pdf/book.pdf)|
+|84|[@neubig](https://github.com/neubig)/[**naacl18tutorial**](https://github.com/neubig/naacl18tutorial)|NAACL 2018 Tutorial: Modelling Natural Language, Programs, and their Intersection||
+|55|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
 |53|[@tkamishima](https://github.com/tkamishima)/[**recsysdoc**](https://github.com/tkamishima/recsysdoc)|Algorithms of Recommender Systems : A survey paper of recommender systems (written in Japanese)|[:arrow_upper_right:](http://www.kamishima.net/archive/recsysdoc.pdf)|
 |47|[@hamano](https://github.com/hamano)/[**the-little-mongodb-book**](https://github.com/hamano/the-little-mongodb-book)|MongoDBの薄い本(The Little MongoDB Book)|[:arrow_upper_right:](http://www.cuspy.org/diary/2012-04-17)|
 |45|[@mizzy](https://github.com/mizzy)/[**serverspec-thesis**](https://github.com/mizzy/serverspec-thesis)|||
 |41|[@kmaed](https://github.com/kmaed)/[**kmbeamer**](https://github.com/kmaed/kmbeamer)|My themes for Beamer.||
 |34|[@pi8027](https://github.com/pi8027)/[**typeinfer**](https://github.com/pi8027/typeinfer)|Type inference in OCaml|[:arrow_upper_right:](https://github.com/pi8027/typeinfer)|
-|30|[@vvakame](https://github.com/vvakame)/[**graphql-with-go-book**](https://github.com/vvakame/graphql-with-go-book)||[:arrow_upper_right:](https://vvakame.booth.pm/items/1055228)|
+|32|[@vvakame](https://github.com/vvakame)/[**graphql-with-go-book**](https://github.com/vvakame/graphql-with-go-book)||[:arrow_upper_right:](https://vvakame.booth.pm/items/1055228)|
 |28|[@ryuichiueda](https://github.com/ryuichiueda)/[**ShellGeiData**](https://github.com/ryuichiueda/ShellGeiData)|Files for practice of shellgei||
 |25|[@jilljenn](https://github.com/jilljenn)/[**business-card**](https://github.com/jilljenn/business-card)|A business card in LaTeX||
+|22|[@vvakame](https://github.com/vvakame)/[**review-css-typesetting**](https://github.com/vvakame/review-css-typesetting)|CSS組版やっていき！||
 |21|[@takahashim](https://github.com/takahashim)/[**review-sample-book**](https://github.com/takahashim/review-sample-book)|ReVIEWの書籍サンプルデータです。||
-|21|[@vvakame](https://github.com/vvakame)/[**review-css-typesetting**](https://github.com/vvakame/review-css-typesetting)|CSS組版やっていき！||
+|19|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing|[:arrow_upper_right:](https://arxiv.org/abs/1811.03388)|
 |19|[@kentaro](https://github.com/kentaro)/[**Bancor_Protocol_Whitepaper_ja**](https://github.com/kentaro/Bancor_Protocol_Whitepaper_ja)|Japanese Translation of The Bancor Protocol Whitepaper||
 |17|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
 |16|[@hitode909](https://github.com/hitode909)/[**soturon**](https://github.com/hitode909/soturon)|卒論||
 |16|[@uribo](https://github.com/uribo)/[**lab.note**](https://github.com/uribo/lab.note)|:notebook_with_decorative_cover: Create Laboratory Note and Report Using R Markdown||
 |14|[@Runnrairu](https://github.com/Runnrairu)/[**machinelearning_text**](https://github.com/Runnrairu/machinelearning_text)|||
+|14|[@guicho271828](https://github.com/guicho271828)/[**aaai-template**](https://github.com/guicho271828/aaai-template)|latex template for various conferences||
 |14|[@orthez](https://github.com/orthez)/[**business-cards-latex**](https://github.com/orthez/business-cards-latex)|Business cards template in latex. Duplex (doubleside) printable. Two languages (back/front) supported. Optimized to be easily extensible.||
-|13|[@guicho271828](https://github.com/guicho271828)/[**aaai-template**](https://github.com/guicho271828/aaai-template)|latex template for various conferences||
-|13|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing|[:arrow_upper_right:](https://arxiv.org/abs/1811.03388)|
 |13|[@okomok](https://github.com/okomok)/[**strcat**](https://github.com/okomok/strcat)|TeX files for summary of category theory||
 |12|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**PythonRoboticsPaper**](https://github.com/AtsushiSakai/PythonRoboticsPaper)|PythonRoboticsPaper||
+|12|[@hamano](https://github.com/hamano)/[**zguide-ja**](https://github.com/hamano/zguide-ja)|||
 |12|[@laysakura](https://github.com/laysakura)/[**TheoryOfComputation**](https://github.com/laysakura/TheoryOfComputation)|A memo of a lecture on Theory of Computation in the University of Tokyo.||
-|11|[@hamano](https://github.com/hamano)/[**zguide-ja**](https://github.com/hamano/zguide-ja)|||
 |10|[@masui](https://github.com/masui)/[**GitHelp**](https://github.com/masui/GitHelp)|GitコマンドのヘルプをExpandHelpで||
 |9|[@2K20TC](https://github.com/2K20TC)/[**data-structures-tutorial**](https://github.com/2K20TC/data-structures-tutorial)|HackerEarth Data Structures practice series||
 |9|[@acgotaku](https://github.com/acgotaku)/[**USTC-SSE-THESIS**](https://github.com/acgotaku/USTC-SSE-THESIS)|适用于中科大软件学院工程硕士的Latex模板||
+|9|[@kmaed](https://github.com/kmaed)/[**biblatex-japanese**](https://github.com/kmaed/biblatex-japanese)|Japanese language support for biblatex||
 |9|[@ueokande](https://github.com/ueokande)/[**jletteraddress**](https://github.com/ueokande/jletteraddress)|A document class of LaTeX for address side of the Japanese letter.||
+|8|[@sonots](https://github.com/sonots)/[**cvprtoolbox-project**](https://github.com/sonots/cvprtoolbox-project)|Real projects solving problems using https://github.com/sonots/cvprtoolbox||
 |8|[@uwabami](https://github.com/uwabami)/[**beamerthemeKansaiDebianMeeting**](https://github.com/uwabami/beamerthemeKansaiDebianMeeting)|latex-beamer theme for KansaiDebianMeeting||
-|7|[@kmaed](https://github.com/kmaed)/[**biblatex-japanese**](https://github.com/kmaed/biblatex-japanese)|Japanese language support for biblatex||
 |7|[@kmaed](https://github.com/kmaed)/[**pdffill**](https://github.com/kmaed/pdffill)|LaTeX macros to fill in PDF.||
 |7|[@masui](https://github.com/masui)/[**EpisoPass**](https://github.com/masui/EpisoPass)|EpisoPass - creating passwords from episodic memory||
 |7|[@masui](https://github.com/masui)/[**EpisoPass-vps**](https://github.com/masui/EpisoPass-vps)|EpisoPass - creating passwords from episodic memory||
 |7|[@miyukki](https://github.com/miyukki)/[**graduate-thesis**](https://github.com/miyukki/graduate-thesis)|My Graduate Thesis in Keio Univ. Murai Lab.||
-|7|[@sonots](https://github.com/sonots)/[**cvprtoolbox-project**](https://github.com/sonots/cvprtoolbox-project)|Real projects solving problems using https://github.com/sonots/cvprtoolbox||
+|6|[@jilljenn](https://github.com/jilljenn)/[**qna**](https://github.com/jilljenn/qna)|Comparing models for adaptive testing (Rasch, DINA, MIRT, GenMA)||
 |6|[@master-q](https://github.com/master-q)/[**masterq-docs**](https://github.com/master-q/masterq-docs)|My documents||
 |5|[@MizukiSonoko](https://github.com/MizukiSonoko)/[**Story**](https://github.com/MizukiSonoko/Story)|This is a read-only mirror of "水樹素子の物語"📝🎁||
 |5|[@farseerfc](https://github.com/farseerfc)/[**sjtu-thesis-xelatex**](https://github.com/farseerfc/sjtu-thesis-xelatex)|This repo is UNMAINTAINED and DEPRECATED, 代码已过时，请使用下面的模板|[:arrow_upper_right:](https://github.com/weijianwen/sjtu-thesis-template-latex)|
 |5|[@frandiox](https://github.com/frandiox)/[**Nipponline**](https://github.com/frandiox/Nipponline)|||
 |5|[@frankdiox](https://github.com/frankdiox)/[**Nipponline**](https://github.com/frankdiox/Nipponline)|||
-|5|[@jilljenn](https://github.com/jilljenn)/[**qna**](https://github.com/jilljenn/qna)|Comparing models for adaptive testing (Rasch, DINA, MIRT, GenMA)||
 |5|[@ken0nek](https://github.com/ken0nek)/[**thesis-sample**](https://github.com/ken0nek/thesis-sample)|卒業論文のテンプレート|[:arrow_upper_right:](http://qiita.com/ken0nek/items/f98f88c9c45d8499786e)|
 |5|[@leios](https://github.com/leios)/[**CompPhys**](https://github.com/leios/CompPhys)|An open source computational physics book||
+|5|[@ryuichiueda](https://github.com/ryuichiueda)/[**commentary_on_graph-based_slam**](https://github.com/ryuichiueda/commentary_on_graph-based_slam)|graph-based SLAMの説明文||
 |5|[@tdtds](https://github.com/tdtds)/[**free_as_in_freedom_2.0_ja**](https://github.com/tdtds/free_as_in_freedom_2.0_ja)|Free as in Freedom (2.0)の日本語訳をEPUB化してみる||
 |5|[@yutannihilation](https://github.com/yutannihilation)/[**practical-r-package-development-ja**](https://github.com/yutannihilation/practical-r-package-development-ja)|Tips for package development|[:arrow_upper_right:](https://bookdown.org/yutannihilation/practical-r-package-development-ja/)|
 |4|[@jilljenn](https://github.com/jilljenn)/[**phd**](https://github.com/jilljenn/phd)|Modèles de tests adaptatifs pour le diagnostic de connaissances dans un cadre d’apprentissage à grande échelle|[:arrow_upper_right:](http://jiji.cat)|
 |4|[@kazuito](https://github.com/kazuito)/[**jkreport**](https://github.com/kazuito/jkreport)|A LaTeX style file for "Jokkō" students.||
 |4|[@liyang](https://github.com/liyang)/[**thesis**](https://github.com/liyang/thesis)|Compiling Concurrency Correctly—Verifying Software Transactional Memory||
 |4|[@nulab](https://github.com/nulab)/[**book-template**](https://github.com/nulab/book-template)||[:arrow_upper_right:](https://nulab-inc.com/ja/blog/nulab/infra-engineer-book/)|
-|4|[@ryuichiueda](https://github.com/ryuichiueda)/[**commentary_on_graph-based_slam**](https://github.com/ryuichiueda/commentary_on_graph-based_slam)|graph-based SLAMの説明文||
 |3|[@Saito-](https://github.com/Saito-)/[**NITKC_Research**](https://github.com/Saito-/NITKC_Research)|釧路高専専攻科 特別研究2||
 |3|[@SythonUK](https://github.com/SythonUK)/[**NITKC_Research**](https://github.com/SythonUK/NITKC_Research)|釧路高専専攻科 特別研究2||
 |3|[@atsushieno](https://github.com/atsushieno)/[**TechBookFest3Xamarin**](https://github.com/atsushieno/TechBookFest3Xamarin)|技術書典3参加者用リポジトリ||

@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|60|[@tokuhirom](https://github.com/tokuhirom)/[**p6-Crust**](https://github.com/tokuhirom/p6-Crust)|PSGI library stack for Perl6||
-|38|[@skaji](https://github.com/skaji)/[**mi6**](https://github.com/skaji/mi6)|minimal authoring tool for Perl6|[:arrow_upper_right:](https://www.cpan.org/authors/id/S/SK/SKAJI/Perl6/)|
+|61|[@tokuhirom](https://github.com/tokuhirom)/[**p6-Crust**](https://github.com/tokuhirom/p6-Crust)|PSGI library stack for Perl6||
+|39|[@skaji](https://github.com/skaji)/[**mi6**](https://github.com/skaji/mi6)|minimal authoring tool for Perl6|[:arrow_upper_right:](https://modules.perl6.org/dist/App::Mi6:cpan:SKAJI)|
 |14|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-Server-Tiny**](https://github.com/tokuhirom/p6-HTTP-Server-Tiny)|Web application server for Perl6||
 |10|[@tokuhirom](https://github.com/tokuhirom)/[**p6-WebSocket**](https://github.com/tokuhirom/p6-WebSocket)|||
 |7|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-MultiPartParser**](https://github.com/tokuhirom/p6-HTTP-MultiPartParser)|multipart/form-data parser for Perl6||

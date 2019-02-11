@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|79|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.FusionTasks**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
+|80|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.FusionTasks**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
 |55|[@vain0](https://github.com/vain0)/[**VainZero.Friends**](https://github.com/vain0/VainZero.Friends)|PL for friends in the Japaripark (ジャパリパークのフレンズのためのプログラミング言語)||
 |55|[@vain0](https://github.com/vain0)/[**friends-lang**](https://github.com/vain0/friends-lang)|PL for friends in the Japaripark (ジャパリパークのフレンズのためのプログラミング言語)||
 |39|[@pocketberserker](https://github.com/pocketberserker)/[**FsMachines**](https://github.com/pocketberserker/FsMachines)|A stream processing library for F#||
@@ -15,14 +15,14 @@
 |10|[@Gab-km](https://github.com/Gab-km)/[**OAuth-in-FSharp**](https://github.com/Gab-km/OAuth-in-FSharp)|This library offers the OAuth API written in F#.|[:arrow_upper_right:](http://twitter.com/gab_km)|
 |9|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Automaton**](https://github.com/pocketberserker/FSharp.Automaton)|||
 |8|[@pocketberserker](https://github.com/pocketberserker)/[**ComVu**](https://github.com/pocketberserker/ComVu)|||
+|8|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Object.Diff**](https://github.com/pocketberserker/FSharp.Object.Diff)|||
 |7|[@bleis-tift](https://github.com/bleis-tift)/[**TableDsl**](https://github.com/bleis-tift/TableDsl)|||
-|6|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Object.Diff**](https://github.com/pocketberserker/FSharp.Object.Diff)|||
 |6|[@vain0](https://github.com/vain0)/[**tokiwa_db**](https://github.com/vain0/tokiwa_db)|||
 |5|[@azyobuzin](https://github.com/azyobuzin)/[**kirabern**](https://github.com/azyobuzin/kirabern)|コンパイラつくるぞ！！！！||
 |5|[@bleis-tift](https://github.com/bleis-tift)/[**TypeProviderSample**](https://github.com/bleis-tift/TypeProviderSample)|あわせて読んでほしい： http://d.hatena.ne.jp/bleis-tift/20110922/1316626354|[:arrow_upper_right:](http://d.hatena.ne.jp/bleis-tift/20110922/1316626354)|
 |5|[@moonmile](https://github.com/moonmile)/[**SampleFSharpUI**](https://github.com/moonmile/SampleFSharpUI)|F#でWPF+MVVMをするサンプルコード||
 |5|[@pocketberserker](https://github.com/pocketberserker)/[**PEGStudy**](https://github.com/pocketberserker/PEGStudy)|PEGと構文解析に関するアレコレの勉強会 Vol.1用に作ったもの置き場||
-|4|[@pocketberserker](https://github.com/pocketberserker)/[**free-monad-fsharp**](https://github.com/pocketberserker/free-monad-fsharp)|||
+|5|[@pocketberserker](https://github.com/pocketberserker)/[**free-monad-fsharp**](https://github.com/pocketberserker/free-monad-fsharp)|||
 |4|[@teramonagi](https://github.com/teramonagi)/[**ArithmeticEvaluation**](https://github.com/teramonagi/ArithmeticEvaluation)|Simple Calculator||
 |3|[@CORDEA](https://github.com/CORDEA)/[**grpc-demo-fsharp**](https://github.com/CORDEA/grpc-demo-fsharp)|Implementation of gRPC by F# and automatically generated C# code.||
 |3|[@callmekohei](https://github.com/callmekohei)/[**Neovimfs**](https://github.com/callmekohei/Neovimfs)|Neovimfs is a web app hosted on local Suave server and it provides auto completion list for F# code.||

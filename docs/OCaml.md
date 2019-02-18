@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3696|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
-|581|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|3741|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
+|582|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
 |81|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |78|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |64|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
@@ -13,7 +13,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |27|[@kuy](https://github.com/kuy)/[**reason-of-life**](https://github.com/kuy/reason-of-life)|Conway's Lifegame in Reason + reason-react with webpack + bs-loader.||
 |24|[@UnixJunkie](https://github.com/UnixJunkie)/[**dolog**](https://github.com/UnixJunkie/dolog)|A dumb OCaml logger||
 |23|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
-|22|[@keigoi](https://github.com/keigoi)/[**session-ocaml**](https://github.com/keigoi/session-ocaml)|An implementation of binary session types in OCaml||
+|23|[@keigoi](https://github.com/keigoi)/[**session-ocaml**](https://github.com/keigoi/session-ocaml)|An implementation of binary session types in OCaml||
 |21|[@BYVoid](https://github.com/BYVoid)/[**Dlist**](https://github.com/BYVoid/Dlist)|Difference list library for OCaml||
 |21|[@mzp](https://github.com/mzp)/[**bs-lwt**](https://github.com/mzp/bs-lwt)|BuckleScript bindings for Lwt||
 |19|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|parallelize anything||
@@ -68,6 +68,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |4|[@komamitsu](https://github.com/komamitsu)/[**OCaml-minilisp**](https://github.com/komamitsu/OCaml-minilisp)|mini lisp in OCaml||
 |4|[@mzp](https://github.com/mzp)/[**coq-ide-for-ios**](https://github.com/mzp/coq-ide-for-ios)|||
 |4|[@mzp](https://github.com/mzp)/[**coq-js**](https://github.com/mzp/coq-js)|||
+|4|[@shrynx](https://github.com/shrynx)/[**brook**](https://github.com/shrynx/brook)|[under development] 🏞️ A small stream library for using observables with reasonml.||
 |4|[@shrynx](https://github.com/shrynx)/[**reasonz**](https://github.com/shrynx/reasonz)|A Haskell fan fiction for ReasonML||
 |4|[@tyage](https://github.com/tyage)/[**experiment-4-ocaml**](https://github.com/tyage/experiment-4-ocaml)|計算機科学実験及演習4 プログラム検証||
 |3|[@AltGr](https://github.com/AltGr)/[**ocp-indent-tests**](https://github.com/AltGr/ocp-indent-tests)|automatic testing of ocp-indent against real-world code||
@@ -82,7 +83,6 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |3|[@masashi-y](https://github.com/masashi-y)/[**ppx_deriving_argparse**](https://github.com/masashi-y/ppx_deriving_argparse)|Very simple ppx deriver for command line parser||
 |3|[@mzp](https://github.com/mzp)/[**asig**](https://github.com/mzp/asig)|AsakusaSatellite IRC Gateway|[:arrow_upper_right:](https://github.com/mzp/asig/wiki)|
 |3|[@mzp](https://github.com/mzp)/[**happyabc**](https://github.com/mzp/happyabc)|HappyABC driver & release script|[:arrow_upper_right:](http://happyabc.org)|
-|3|[@shrynx](https://github.com/shrynx)/[**brook**](https://github.com/shrynx/brook)|[under development] 🏞️ A small stream library for using observables with reasonml.||
 |3|[@takano32](https://github.com/takano32)/[**myocaml**](https://github.com/takano32/myocaml)|My OCaml Scripts.||
 |3|[@ymyzk](https://github.com/ymyzk)/[**lambda-dti**](https://github.com/ymyzk/lambda-dti)|Interpreter of the ITGL with dynamic type inference||
 |3|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocaml_parsec**](https://github.com/yoshihiro503/ocaml_parsec)|parser library for ocaml like Parsec||

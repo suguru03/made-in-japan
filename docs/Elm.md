@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|91|[@cotoami](https://github.com/cotoami)/[**cotoami**](https://github.com/cotoami/cotoami)|Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.|[:arrow_upper_right:](https://cotoa.me)|
+|92|[@cotoami](https://github.com/cotoami)/[**cotoami**](https://github.com/cotoami/cotoami)|Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.|[:arrow_upper_right:](https://cotoa.me)|
 |76|[@jinjor](https://github.com/jinjor)/[**elm-time-travel**](https://github.com/jinjor/elm-time-travel)|An experimental debugger for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-time-travel/latest)|
 |66|[@yang-wei](https://github.com/yang-wei)/[**elmflux**](https://github.com/yang-wei/elmflux)|Visualization of Elm Signals|[:arrow_upper_right:](http://yang-wei.github.io/elmflux/)|
 |52|[@jinjor](https://github.com/jinjor)/[**elm-devtool**](https://github.com/jinjor/elm-devtool)|An attempt to use Elm's debugger on Chrome DevTools||
@@ -30,13 +30,13 @@
 |4|[@igrep](https://github.com/igrep)/[**lovely-commune**](https://github.com/igrep/lovely-commune)|Simulator of Lovely Commune in Dokidoki! PreCure.|[:arrow_upper_right:](http://lovely-commune.igreque.info/)|
 |4|[@jinjor](https://github.com/jinjor)/[**elm-large-form-example**](https://github.com/jinjor/elm-large-form-example)|Trying to find the best way|[:arrow_upper_right:](https://jinjor.github.io/elm-large-form-sample/)|
 |4|[@jinjor](https://github.com/jinjor)/[**elm-task-emulator**](https://github.com/jinjor/elm-task-emulator)|task emulator for ports||
+|4|[@jinjor](https://github.com/jinjor)/[**elm-visual-vdom**](https://github.com/jinjor/elm-visual-vdom)|Where in the view is actually rendered?|[:arrow_upper_right:](https://jinjor.github.io/elm-visual-vdom/)|
 |4|[@suzuki-shin](https://github.com/suzuki-shin)/[**doubutsuShogi**](https://github.com/suzuki-shin/doubutsuShogi)|||
 |4|[@tshm](https://github.com/tshm)/[**elm-doctest**](https://github.com/tshm/elm-doctest)|doctest runner against Elm-lang source files||
 |4|[@ymtszw](https://github.com/ymtszw)/[**elm-xml-decode**](https://github.com/ymtszw/elm-xml-decode)|Elm XML decoder sharing the spirit of Json.Decode|[:arrow_upper_right:](http://package.elm-lang.org/packages/ymtszw/elm-xml-decode/latest/)|
 |3|[@arowM](https://github.com/arowM)/[**elm-monoid**](https://github.com/arowM/elm-monoid)|A module to define generic functions for monoid.||
 |3|[@jinjor](https://github.com/jinjor)/[**elm-dropdown**](https://github.com/jinjor/elm-dropdown)|Flexible dropdown menu for Elm||
 |3|[@jinjor](https://github.com/jinjor)/[**elm-req**](https://github.com/jinjor/elm-req)|HTTP Request for Elm|[:arrow_upper_right:](https://package.elm-lang.org/packages/jinjor/elm-req/latest/)|
-|3|[@jinjor](https://github.com/jinjor)/[**elm-visual-vdom**](https://github.com/jinjor/elm-visual-vdom)|Where in the view is actually rendered?|[:arrow_upper_right:](https://jinjor.github.io/elm-visual-vdom/)|
 |3|[@jinjor](https://github.com/jinjor)/[**gisc-elm**](https://github.com/jinjor/gisc-elm)|Gisc settings for Elm||
 |3|[@jinjor](https://github.com/jinjor)/[**midi-experiments**](https://github.com/jinjor/midi-experiments)|Playing with MIDI|[:arrow_upper_right:](https://jinjor.github.io/midi-experiments/)|
 |3|[@jinjor](https://github.com/jinjor)/[**pianoroll-editor**](https://github.com/jinjor/pianoroll-editor)|Experiment of making piano roll in Elm|[:arrow_upper_right:](https://jinjor.github.io/pianoroll-editor/)|

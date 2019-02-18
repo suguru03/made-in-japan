@@ -1,15 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|177|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Perfect Docker Image for Media Streaming Expert User||
+|178|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Perfect Docker Image for Media Streaming Expert User||
 |138|[@atyenoria](https://github.com/atyenoria)/[**webrtc-transcoding-experimentation**](https://github.com/atyenoria/webrtc-transcoding-experimentation)|[wip] Docker Image for Media Streaming Expert User. Janus WebRTC Docker Image||
-|74|[@codesuki](https://github.com/codesuki)/[**ecs-nginx-proxy**](https://github.com/codesuki/ecs-nginx-proxy)|Reverse proxy for AWS ECS. Lets you address your docker containers by sub domain.||
-|68|[@vvakame](https://github.com/vvakame)/[**docker-review**](https://github.com/vvakame/docker-review)|Re:VIEW build container by docker||
+|76|[@codesuki](https://github.com/codesuki)/[**ecs-nginx-proxy**](https://github.com/codesuki/ecs-nginx-proxy)|Reverse proxy for AWS ECS. Lets you address your docker containers by sub domain.||
+|69|[@vvakame](https://github.com/vvakame)/[**docker-review**](https://github.com/vvakame/docker-review)|Re:VIEW build container by docker||
+|28|[@Lewuathe](https://github.com/Lewuathe)/[**docker-presto-cluster**](https://github.com/Lewuathe/docker-presto-cluster)|Multiple node presto cluster on docker container||
 |26|[@m2wasabi](https://github.com/m2wasabi)/[**docker-compose-template-laravel**](https://github.com/m2wasabi/docker-compose-template-laravel)|Docker template for Laravel developer||
 |18|[@codelibs](https://github.com/codelibs)/[**docker-fess**](https://github.com/codelibs/docker-fess)|Docker files for Fess|[:arrow_upper_right:](https://hub.docker.com/r/codelibs/fess/)|
 |16|[@norio-nomura](https://github.com/norio-nomura)/[**docker-swift**](https://github.com/norio-nomura/docker-swift)|Docker image of Swift for Linux on Ubuntu 16.04|[:arrow_upper_right:](https://hub.docker.com/r/norionomura/swift/)|
 |15|[@localhost9292](https://github.com/localhost9292)/[**kubernetes.rb**](https://github.com/localhost9292/kubernetes.rb)|||
+|13|[@mumoshu](https://github.com/mumoshu)/[**kube-ssm-agent**](https://github.com/mumoshu/kube-ssm-agent)|Secure, access-controlled, and audited terminal sessions to EKS nodes without SSH||
 |13|[@wckr](https://github.com/wckr)/[**wocker-dockerfile**](https://github.com/wckr/wocker-dockerfile)|Dockerfiles of wocker/wocker for Wocker.|[:arrow_upper_right:](https://wckr.github.io/)|
-|12|[@mumoshu](https://github.com/mumoshu)/[**kube-ssm-agent**](https://github.com/mumoshu/kube-ssm-agent)|Secure, access-controlled, and audited terminal access to EKS nodes, without SSH||
 |11|[@matsumotory](https://github.com/matsumotory)/[**docker-ngx_mruby**](https://github.com/matsumotory/docker-ngx_mruby)|ngx_mruby using docker||
 |11|[@tk0miya](https://github.com/tk0miya)/[**sphinx-docker**](https://github.com/tk0miya/sphinx-docker)|||
 |9|[@shufo](https://github.com/shufo)/[**docker-phoenix**](https://github.com/shufo/docker-phoenix)|A script for creating elixir image for  phoenix framework.|[:arrow_upper_right:](https://hub.docker.com/r/shufo/phoenix/)|

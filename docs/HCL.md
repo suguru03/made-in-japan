@@ -8,7 +8,6 @@
 |12|[@inokappa](https://github.com/inokappa)/[**oreno-terraform-ecs**](https://github.com/inokappa/oreno-terraform-ecs)|||
 |12|[@shogomuranushi](https://github.com/shogomuranushi)/[**oreno-terraform**](https://github.com/shogomuranushi/oreno-terraform)|||
 |11|[@knakayama](https://github.com/knakayama)/[**terraform-circleci-demo**](https://github.com/knakayama/terraform-circleci-demo)|||
-|9|[@team-lab](https://github.com/team-lab)/[**skillup**](https://github.com/team-lab/skillup)|チームラボオンラインスキルアップ課題|[:arrow_upper_right:](https://team-lab.github.io/skillup)|
 |8|[@zembutsu](https://github.com/zembutsu)/[**sakura-terraform**](https://github.com/zembutsu/sakura-terraform)|Terraform for Sakura Cloud samples||
 |6|[@nishigori](https://github.com/nishigori)/[**phpcon2017-presentation**](https://github.com/nishigori/phpcon2017-presentation)|My Presentation for PHP Conference 2017 Tokyo||
 |6|[@shogomuranushi](https://github.com/shogomuranushi)/[**stns-apibackend**](https://github.com/shogomuranushi/stns-apibackend)|||
@@ -17,12 +16,12 @@
 |5|[@matsuu](https://github.com/matsuu)/[**terraform-isucon**](https://github.com/matsuu/terraform-isucon)|Terraform configuration files for building ISUCON environment||
 |5|[@yamamoto-febc](https://github.com/yamamoto-febc)/[**nomad-on-sakuracloud**](https://github.com/yamamoto-febc/nomad-on-sakuracloud)|Terraform templates to build nomad + consul + consul-template + nginx environments on さくらのクラウド||
 |4|[@cotoami](https://github.com/cotoami)/[**cotoami-infra**](https://github.com/cotoami/cotoami-infra)|Cotoami infrastructure for cotoa.me||
+|4|[@knakayama](https://github.com/knakayama)/[**blue-green-deployment-with-codedeploy-and-terraform**](https://github.com/knakayama/blue-green-deployment-with-codedeploy-and-terraform)|||
 |4|[@making](https://github.com/making)/[**cfcr-aws**](https://github.com/making/cfcr-aws)|How to deploy Cloud Foundry Container Runtime (formerly known as Kubo/Kubernete on BOSH) on AWS||
 |4|[@mizzy](https://github.com/mizzy)/[**spinnaker-playground**](https://github.com/mizzy/spinnaker-playground)|||
 |4|[@tcnksm](https://github.com/tcnksm)/[**tf-dnsimple-gh-pages**](https://github.com/tcnksm/tf-dnsimple-gh-pages)|Setup custom apex domain for your GitHub pages with Terraform||
 |4|[@toshimaru](https://github.com/toshimaru)/[**terraform-digitalocean-rails**](https://github.com/toshimaru/terraform-digitalocean-rails)|A terraform simple sample on DigitalOcean for Ruby on Rails.||
 |3|[@jun06t](https://github.com/jun06t)/[**terraform-sample**](https://github.com/jun06t/terraform-sample)|terraform examples||
-|3|[@knakayama](https://github.com/knakayama)/[**blue-green-deployment-with-codedeploy-and-terraform**](https://github.com/knakayama/blue-green-deployment-with-codedeploy-and-terraform)|||
 |3|[@knakayama](https://github.com/knakayama)/[**tf-alb-demo**](https://github.com/knakayama/tf-alb-demo)|||
 |3|[@matsuu](https://github.com/matsuu)/[**terraform-pixiv-isucon2016**](https://github.com/matsuu/terraform-pixiv-isucon2016)|Terraform configuration files for building Pixiv ISUCON 2016 environment||
 |3|[@tsub](https://github.com/tsub)/[**eks-sandbox**](https://github.com/tsub/eks-sandbox)|||

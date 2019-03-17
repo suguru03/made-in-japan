@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|385|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
-|213|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
-|108|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
-|66|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
+|390|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
+|232|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
+|110|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
+|71|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
 |38|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
 |34|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
 |31|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
@@ -11,28 +11,29 @@
 |23|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
 |17|[@ymattu](https://github.com/ymattu)/[**MlBayesOpt**](https://github.com/ymattu/MlBayesOpt)|R package to tune parameters for machine learning(Support Vector Machine, Random Forest, and Xgboost), using bayesian optimization with gaussian process||
 |15|[@hoxo-m](https://github.com/hoxo-m)/[**dplyrr**](https://github.com/hoxo-m/dplyrr)|Utilities for comfortable use of dplyr with databases||
-|14|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
+|15|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
 |14|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
 |14|[@yutannihilation](https://github.com/yutannihilation)/[**estatapi**](https://github.com/yutannihilation/estatapi)|R package for e-Stat API in Japan||
 |13|[@kazutan](https://github.com/kazutan)/[**tubeplayR**](https://github.com/kazutan/tubeplayR)|play youtube by R||
 |13|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](http://uribo.github.io/jpmesh)|
 |13|[@yutannihilation](https://github.com/yutannihilation)/[**kokudosuuchi**](https://github.com/yutannihilation/kokudosuuchi)|国土数値情報ダウンロードサービスWeb APIからデータを取得するためのRパッケージです||
+|12|[@yutannihilation](https://github.com/yutannihilation)/[**tiedr**](https://github.com/yutannihilation/tiedr)|Experimental package (not yet existent) for multi-gather() and multi-spread()||
 |11|[@hoxo-m](https://github.com/hoxo-m)/[**dplyr.teradata**](https://github.com/hoxo-m/dplyr.teradata)|A Teradata Backend for dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/dplyr.teradata)|
 |11|[@hoxo-m](https://github.com/hoxo-m)/[**sGMRFmix**](https://github.com/hoxo-m/sGMRFmix)|Sparse Gaussian Markov Random Field Mixtures for Anomaly Detection||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RFinanceJ**](https://github.com/teramonagi/RFinanceJ)|Get the data related to finance in Japan using variety types of data sources||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RODBCDBI**](https://github.com/teramonagi/RODBCDBI)|An implementation of R's DBI interface using ODBC package as a back-end. This allows R to connect to any DBMS that has a ODBC driver.|[:arrow_upper_right:](https://cran.r-project.org/web/packages/RODBCDBI/index.html)|
 |11|[@yutannihilation](https://github.com/yutannihilation)/[**highstockR**](https://github.com/yutannihilation/highstockR)|An R package to draw highstock charts. This is for demonstration purpose of htmlwidgets at 46th Tokyo.R meeting.||
 |10|[@Quantisan](https://github.com/Quantisan)/[**nullwave**](https://github.com/Quantisan/nullwave)|active noise control for free||
+|10|[@yutannihilation](https://github.com/yutannihilation)/[**mediumr**](https://github.com/yutannihilation/mediumr)|R Interface to Medium API||
 |9|[@clear-code](https://github.com/clear-code)/[**sezemi-2014-readable-code**](https://github.com/clear-code/sezemi-2014-readable-code)|SEゼミ「プログラミングが好きな学生のためのリーダブルコード勉強会」関連のデータを置くリポジトリー||
 |9|[@hoxo-m](https://github.com/hoxo-m)/[**densratio**](https://github.com/hoxo-m/densratio)|An R Package for Density Ratio Estimation|[:arrow_upper_right:](https://github.com/hoxo-m/densratio)|
+|9|[@hoxo-m](https://github.com/hoxo-m)/[**prophetExt**](https://github.com/hoxo-m/prophetExt)|Extension for Facebook Prophet|[:arrow_upper_right:](https://github.com/hoxo-m/prophetExt)|
 |9|[@yutannihilation](https://github.com/yutannihilation)/[**rstudioconf2019**](https://github.com/yutannihilation/rstudioconf2019)|Materials for rstudio::conf 2019||
-|9|[@yutannihilation](https://github.com/yutannihilation)/[**tiedr**](https://github.com/yutannihilation/tiedr)|Experimental package (not yet existent) for multi-gather() and multi-spread()||
-|8|[@hoxo-m](https://github.com/hoxo-m)/[**prophetExt**](https://github.com/hoxo-m/prophetExt)|Extension for Facebook Prophet|[:arrow_upper_right:](https://github.com/hoxo-m/prophetExt)|
 |8|[@kota7](https://github.com/kota7)/[**striprtf**](https://github.com/kota7/striprtf)|R Package for Extracting Text from RTF (Rich Text Format) File||
-|8|[@uribo](https://github.com/uribo)/[**Japan.useR**](https://github.com/uribo/Japan.useR)|:crossed_flags:Japanese R user community materials and information datasets||
 |8|[@uribo](https://github.com/uribo)/[**jpndistrict**](https://github.com/uribo/jpndistrict)|🗾 Create Japansese Administration Area Maps|[:arrow_upper_right:](http://uribo.github.io/jpndistrict)|
 |7|[@jirotubuyaki](https://github.com/jirotubuyaki)/[**Jdmbs**](https://github.com/jirotubuyaki/Jdmbs)|Jdmbs: An R Package for Monte Carlo Option Pricing Algorithm for Jump Diffusion Models with Correlational Companies||
 |7|[@teramonagi](https://github.com/teramonagi)/[**SABRCalibrationOnShiny**](https://github.com/teramonagi/SABRCalibrationOnShiny)|SABR model calibration on shiny||
+|7|[@uribo](https://github.com/uribo)/[**Japan.useR**](https://github.com/uribo/Japan.useR)|:crossed_flags:Japanese R user community materials and information datasets||
 |7|[@uribo](https://github.com/uribo)/[**sealr**](https://github.com/uribo/sealr)|🏭 Sealing the R Objects Test and Assert Conditions 🤖||
 |7|[@wolfv](https://github.com/wolfv)/[**xtensor-showcase**](https://github.com/wolfv/xtensor-showcase)|A little demo how to bind an advanced data science algorithms to 4 different languages||
 |6|[@GinzaLion](https://github.com/GinzaLion)/[**R-Cryptocurrencies**](https://github.com/GinzaLion/R-Cryptocurrencies)|Public APIs - Cryptocurrencies||
@@ -45,7 +46,6 @@
 |6|[@hoxo-m](https://github.com/hoxo-m)/[**bayesopt**](https://github.com/hoxo-m/bayesopt)|An R Implementation of Bayesian Optimization|[:arrow_upper_right:](https://github.com/hoxo-m/bayesopt)|
 |6|[@teramonagi](https://github.com/teramonagi)/[**oandar**](https://github.com/teramonagi/oandar)|R wrapper for the OANDA REST API (http://developer.oanda.com/rest-live/introduction/)||
 |6|[@uribo](https://github.com/uribo)/[**wakatimer**](https://github.com/uribo/wakatimer)|:hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.||
-|6|[@yutannihilation](https://github.com/yutannihilation)/[**mediumr**](https://github.com/yutannihilation/mediumr)|R Interface to Medium API||
 |6|[@yutannihilation](https://github.com/yutannihilation)/[**wunderlistr**](https://github.com/yutannihilation/wunderlistr)|R bindings for Wunderlist API||
 |5|[@PhDMeiwp](https://github.com/PhDMeiwp)/[**basicTrendline**](https://github.com/PhDMeiwp/basicTrendline)|💎(on CRAN) an R package for adding trendline of basic linear or nonlinear models and show equation to plot.|[:arrow_upper_right:](https://cran.r-project.org/web/packages/basicTrendline/index.html)|
 |5|[@chezou](https://github.com/chezou)/[**spacyr-sparklyr**](https://github.com/chezou/spacyr-sparklyr)|Example code of spacyr with sparklyr||

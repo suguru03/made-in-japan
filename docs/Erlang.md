@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1257|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|1264|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
 |227|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
-|168|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
+|171|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |78|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
-|65|[@jj1bdx](https://github.com/jj1bdx)/[**sfmt-erlang**](https://github.com/jj1bdx/sfmt-erlang)|sfmt-erlang: SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang|[:arrow_upper_right:](http://jj1bdx.github.io/sfmt-erlang/)|
+|66|[@jj1bdx](https://github.com/jj1bdx)/[**sfmt-erlang**](https://github.com/jj1bdx/sfmt-erlang)|sfmt-erlang: SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang|[:arrow_upper_right:](http://jj1bdx.github.io/sfmt-erlang/)|
 |39|[@higepon](https://github.com/higepon)/[**mio**](https://github.com/higepon/mio)|In short, mio is memcached + "range search".||
 |38|[@chvanikoff](https://github.com/chvanikoff)/[**cowboy_session**](https://github.com/chvanikoff/cowboy_session)|Cowboy session management||
 |34|[@MiCHiLU](https://github.com/MiCHiLU)/[**shirasu**](https://github.com/MiCHiLU/shirasu)|Shirasu.ws is a WebSocket server framework based on Misultin and Erlang/OTP|[:arrow_upper_right:](http://code.google.com/p/shirasu/)|
@@ -12,7 +12,7 @@
 |34|[@michilu](https://github.com/michilu)/[**shirasu**](https://github.com/michilu/shirasu)|Shirasu.ws is a WebSocket server framework based on Misultin and Erlang/OTP|[:arrow_upper_right:](http://code.google.com/p/shirasu/)|
 |33|[@iij](https://github.com/iij)/[**lmq**](https://github.com/iij/lmq)|Lightweight Message Queue||
 |31|[@kuenishi](https://github.com/kuenishi)/[**riak_scr_jp**](https://github.com/kuenishi/riak_scr_jp)|Repository for Riak Source Code Reading @Tokyo||
-|29|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
+|28|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
 |26|[@jj1bdx](https://github.com/jj1bdx)/[**tinymt-erlang**](https://github.com/jj1bdx/tinymt-erlang)|This software is no longer maintained. For archive/reference use only. -- Tiny Mersenne Twister (TinyMT) for Erlang||
 |23|[@sile](https://github.com/sile)/[**evel**](https://github.com/sile/evel)|An Eventual Leader Election Library for Erlang||
 |22|[@rramsden](https://github.com/rramsden)/[**gen_gossip**](https://github.com/rramsden/gen_gossip)|Interface for implementing Gossip Protocols in Erlang||
@@ -28,9 +28,9 @@
 |15|[@kuenishi](https://github.com/kuenishi)/[**erezrdfh**](https://github.com/kuenishi/erezrdfh)|MessagePack MessageQueue without AMQP||
 |15|[@leo-project](https://github.com/leo-project)/[**leo_storage**](https://github.com/leo-project/leo_storage)|🚫 DEPRECATED: leo_storage was merged into leo-project/leofs|[:arrow_upper_right:](https://github.com/leo-project/leofs/tree/master/apps/leo_storage)|
 |14|[@norton](https://github.com/norton)/[**asciiedoc**](https://github.com/norton/asciiedoc)|EDoc extension for generating HTML or GitHub-flavored Markdown from AsciiDoc sources||
+|13|[@everpeace](https://github.com/everpeace)/[**programming-erlang-code**](https://github.com/everpeace/programming-erlang-code)|erlang codes in "Programming Erlang" http://pragprog.com/book/jaerlang/programming-erlang||
 |13|[@leo-project](https://github.com/leo-project)/[**leo_object_storage**](https://github.com/leo-project/leo_object_storage)|leo_object_storage is a log-structured object/BLOB storage.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |12|[@chvanikoff](https://github.com/chvanikoff)/[**cowboyd**](https://github.com/chvanikoff/cowboyd)|Daemonized Cowboy web server||
-|12|[@everpeace](https://github.com/everpeace)/[**programming-erlang-code**](https://github.com/everpeace/programming-erlang-code)|erlang codes in "Programming Erlang" http://pragprog.com/book/jaerlang/programming-erlang||
 |12|[@kuenishi](https://github.com/kuenishi)/[**fluent-logger-erlang**](https://github.com/kuenishi/fluent-logger-erlang)|Moved.|[:arrow_upper_right:](https://github.com/fluent/fluent-logger-erlang)|
 |12|[@leo-project](https://github.com/leo-project)/[**leo_gateway**](https://github.com/leo-project/leo_gateway)|🚫 DEPRECATED: leo_gateway was merged into leo-project/leofs|[:arrow_upper_right:](https://github.com/leo-project/leofs/tree/master/apps/leo_gateway)|
 |11|[@hibari](https://github.com/hibari)/[**gdss-brick**](https://github.com/hibari/gdss-brick)||[:arrow_upper_right:](http://hibari.github.com/hibari-doc/)|
@@ -67,6 +67,7 @@
 |6|[@leo-project](https://github.com/leo-project)/[**leo_statistics**](https://github.com/leo-project/leo_statistics)|leo_statistics collects Erlang VM’s statistics and application’s statistics.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@mopp](https://github.com/mopp)/[**tracke**](https://github.com/mopp/tracke)|Trackable error library for Erlang||
 |6|[@sile](https://github.com/sile)/[**erl-creole**](https://github.com/sile/erl-creole)|Converting strings between multibyte encodings and Unicode.||
+|6|[@sile](https://github.com/sile)/[**rafte**](https://github.com/sile/rafte)|An Erlang implementation of the Raft consensus algorithm||
 |6|[@ytakano](https://github.com/ytakano)/[**ermdia**](https://github.com/ytakano/ermdia)|An implementation of DHT in Erlang.||
 |5|[@jj1bdx](https://github.com/jj1bdx)/[**sd-erlang-public**](https://github.com/jj1bdx/sd-erlang-public)|Software Design誌連載「Erlangで学ぶ並行プログラミング」のサポートページ||
 |5|[@kuenishi](https://github.com/kuenishi)/[**colloxy**](https://github.com/kuenishi/colloxy)|Pluggable http proxy. Write your filter and hooks.||
@@ -74,7 +75,6 @@
 |5|[@leo-project](https://github.com/leo-project)/[**leo_commons**](https://github.com/leo-project/leo_commons)|leo_commons include common modules for LeoFS and other Erlang applications.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |5|[@sile](https://github.com/sile)/[**erl-rtmpmsg**](https://github.com/sile/erl-rtmpmsg)|An Erlang library to encode/decode RTMP message||
 |5|[@sile](https://github.com/sile)/[**otp_passage**](https://github.com/sile/otp_passage)|OpenTracing instrumentation library for the Erlang/OTP standard modules||
-|5|[@sile](https://github.com/sile)/[**rafte**](https://github.com/sile/rafte)|An Erlang implementation of the Raft consensus algorithm||
 |5|[@yoichiro](https://github.com/yoichiro)/[**mixi-staging**](https://github.com/yoichiro/mixi-staging)|||
 |4|[@cooldaemon](https://github.com/cooldaemon)/[**ssd**](https://github.com/cooldaemon/ssd)|The Simple Storage Daemon. It has a RESTfull I/F.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/20080206/1202265372)|
 |4|[@cooldaemon](https://github.com/cooldaemon)/[**tcp_server**](https://github.com/cooldaemon/tcp_server)|The tcp_server is concurrent TCP servers framework in Erlang.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/20081205/1228451785)|

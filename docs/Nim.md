@@ -9,6 +9,7 @@
 |7|[@2vg](https://github.com/2vg)/[**MOLFO**](https://github.com/2vg/MOLFO)|MOLFO is MOre Light Flexible Orm.||
 |7|[@2vg](https://github.com/2vg)/[**mofunoise**](https://github.com/2vg/mofunoise)|mofunoise is high-level Nim implementation of linenoise.||
 |7|[@2vg](https://github.com/2vg)/[**msh**](https://github.com/2vg/msh)|msh is minimal shell of Nim.||
+|5|[@2vg](https://github.com/2vg)/[**nhttp**](https://github.com/2vg/nhttp)|simple http server implemented by Nim.||
 |5|[@2vg](https://github.com/2vg)/[**nim-wasm-example**](https://github.com/2vg/nim-wasm-example)|example "Nim to wasm".||
 |4|[@2vg](https://github.com/2vg)/[**mofuhttputils**](https://github.com/2vg/mofuhttputils)|useful minimal http server utils.||
 |3|[@2vg](https://github.com/2vg)/[**MAPLE**](https://github.com/2vg/MAPLE)|🍁Mini Async Processing Library Engine🍁||

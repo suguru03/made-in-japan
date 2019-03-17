@@ -1,28 +1,28 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|910|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
-|563|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
-|365|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
-|332|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
+|909|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
+|564|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
+|367|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
+|331|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
 |265|[@kawasima](https://github.com/kawasima)/[**jagrid**](https://github.com/kawasima/jagrid)|Japanese-styled grid framework.||
 |147|[@runexec](https://github.com/runexec)/[**chp**](https://github.com/runexec/chp)|ClojureHomePage is a Compojure based web framework that allows you to write the backend and frontend with Clojure.|[:arrow_upper_right:](https://github.com/runexec/chp/)|
-|127|[@yokolet](https://github.com/yokolet)/[**clementine**](https://github.com/yokolet/clementine)|Gem for ClojureScript on Rails Asset Pipeline||
+|128|[@yokolet](https://github.com/yokolet)/[**clementine**](https://github.com/yokolet/clementine)|Gem for ClojureScript on Rails Asset Pipeline||
 |111|[@liquidz](https://github.com/liquidz)/[**clj-jwt**](https://github.com/liquidz/clj-jwt)|Clojure library for JSON Web Token(JWT)||
-|105|[@Quantisan](https://github.com/Quantisan)/[**docker-clojure**](https://github.com/Quantisan/docker-clojure)|Official Docker image for Clojure|[:arrow_upper_right:](https://hub.docker.com/_/clojure/)|
+|107|[@Quantisan](https://github.com/Quantisan)/[**docker-clojure**](https://github.com/Quantisan/docker-clojure)|Official Docker image for Clojure|[:arrow_upper_right:](https://hub.docker.com/_/clojure/)|
 |89|[@athos](https://github.com/athos)/[**Pinpointer**](https://github.com/athos/Pinpointer)|Pinpointer is yet another clojure.spec error reporter based on a precise error analysis||
 |87|[@runexec](https://github.com/runexec)/[**Static-Prime**](https://github.com/runexec/Static-Prime)|A static website editor and server written in Clojure and ClojureScript.||
 |78|[@kawasima](https://github.com/kawasima)/[**back-channeling**](https://github.com/kawasima/back-channeling)|A thread floating typed chat system.||
+|67|[@athos](https://github.com/athos)/[**kitchen-async**](https://github.com/athos/kitchen-async)|A Promise library for ClojureScript, or a poor man's core.async||
 |61|[@liquidz](https://github.com/liquidz)/[**jubot**](https://github.com/liquidz/jubot)|Chatbot framework in Clojure||
 |49|[@runexec](https://github.com/runexec)/[**equate**](https://github.com/runexec/equate)|A Clojure fact management library||
-|45|[@athos](https://github.com/athos)/[**kitchen-async**](https://github.com/athos/kitchen-async)|A Promise library for ClojureScript, or a poor man's core.async||
 |45|[@federkasten](https://github.com/federkasten)/[**butler**](https://github.com/federkasten/butler)|Bring Web Workers to ClojureScript||
 |43|[@yokolet](https://github.com/yokolet)/[**hiccup-samples**](https://github.com/yokolet/hiccup-samples)|hiccup samples for clojure cookbook||
 |37|[@dvcrn](https://github.com/dvcrn)/[**ajom**](https://github.com/dvcrn/ajom)|atom plugins in clojurescript||
+|34|[@hellonico](https://github.com/hellonico)/[**origami**](https://github.com/hellonico/origami)|OpenCV 4.0 Clojure Wrapper||
 |32|[@hellonico](https://github.com/hellonico)/[**niclojure**](https://github.com/hellonico/niclojure)|Candid whitebook on Clojure ecosystem||
-|30|[@hellonico](https://github.com/hellonico)/[**origami**](https://github.com/hellonico/origami)|OpenCV 4.0.1 Clojure Wrapper||
 |30|[@kawasima](https://github.com/kawasima)/[**darzana**](https://github.com/kawasima/darzana)| a DSL for backends-for-frontends (BFF)||
+|30|[@liquidz](https://github.com/liquidz)/[**cuma**](https://github.com/liquidz/cuma)|Extensible micro template engine for Clojure||
 |29|[@federkasten](https://github.com/federkasten)/[**clucie**](https://github.com/federkasten/clucie)|Clojure for the Lucene||
-|29|[@liquidz](https://github.com/liquidz)/[**cuma**](https://github.com/liquidz/cuma)|Extensible micro template engine for Clojure||
 |27|[@athos](https://github.com/athos)/[**Drains**](https://github.com/athos/Drains)|A new abstraction for flexible and efficient sequence aggregation in Clojure(Script)||
 |26|[@fukamachi](https://github.com/fukamachi)/[**L5**](https://github.com/fukamachi/L5)|Yet Another Presentation Tool for Lispers|[:arrow_upper_right:](http://e-arrows.sakura.ne.jp/l5/)|
 |25|[@kawasima](https://github.com/kawasima)/[**supreme-uploading**](https://github.com/kawasima/supreme-uploading)|至高のアップロード機能づくり||
@@ -34,14 +34,15 @@
 |19|[@ayamada](https://github.com/ayamada)/[**clan**](https://github.com/ayamada/clan)|CLAN : Clojure, LibGDX, Android, Neko application construct kit||
 |18|[@kawasima](https://github.com/kawasima)/[**fressian-cljs**](https://github.com/kawasima/fressian-cljs)|Fressian library for clojurescript||
 |17|[@ayato-p](https://github.com/ayato-p)/[**kuuga**](https://github.com/ayato-p/kuuga)|An extensible transformer for Hiccup(-like) data structure||
-|14|[@ayato-p](https://github.com/ayato-p)/[**mokuhan**](https://github.com/ayato-p/mokuhan)|Mokuhan is yet another implementation of Mustache in Clojure/ClojureScript.||
+|15|[@ayato-p](https://github.com/ayato-p)/[**mokuhan**](https://github.com/ayato-p/mokuhan)|Mokuhan is yet another implementation of Mustache in Clojure/ClojureScript.||
+|14|[@athos](https://github.com/athos)/[**genman**](https://github.com/athos/genman)|Generator management utility for clojure.spec||
 |14|[@bobuhiro11](https://github.com/bobuhiro11)/[**aparapi-matrix**](https://github.com/bobuhiro11/aparapi-matrix)|aparapi-matrix is a core.matrix implementation, and uses aparapi which is API for GPU calculation.||
 |14|[@clj-nakano](https://github.com/clj-nakano)/[**situated-program-challenge**](https://github.com/clj-nakano/situated-program-challenge)|Rich HickeyのClojure/Conj2017キーノートの考察として、外界の変化を言語ごとにどれだけ上手く扱えるか比較する||
 |14|[@making](https://github.com/making)/[**clj-aws-ecs**](https://github.com/making/clj-aws-ecs)|Clojure Client Library for Amazon Product Advertising API||
 |14|[@youz](https://github.com/youz)/[**4clojure-golf**](https://github.com/youz/4clojure-golf)|golfing solutions|[:arrow_upper_right:](http://4clojure.com)|
-|13|[@athos](https://github.com/athos)/[**genman**](https://github.com/athos/genman)|Generator management utility for clojure.spec||
 |13|[@boxp](https://github.com/boxp)/[**spellcard**](https://github.com/boxp/spellcard)|A Leiningen template for k8s deployment automation.||
 |13|[@making](https://github.com/making)/[**clj-gae-blank**](https://github.com/making/clj-gae-blank)|a blank project for Clojure on Google App Engine||
+|12|[@athos](https://github.com/athos)/[**jise**](https://github.com/athos/jise)|JiSE: Java in S-Expression||
 |12|[@athos](https://github.com/athos)/[**spectrace**](https://github.com/athos/spectrace)|clojure.spec (spec.alpha) library aiming to be a fundamental tool for analyzing spec errors||
 |12|[@pasberth](https://github.com/pasberth)/[**granjure**](https://github.com/pasberth/granjure)|Levelheaded, book-smart and is very good with logic.||
 |12|[@runexec](https://github.com/runexec)/[**ffmpeg-clj**](https://github.com/runexec/ffmpeg-clj)|FFmpeg wrapper for Clojure||
@@ -66,24 +67,25 @@
 |8|[@runexec](https://github.com/runexec)/[**H2H**](https://github.com/runexec/H2H)|HTML to Hiccup with one function||
 |8|[@syou6162](https://github.com/syou6162)/[**fobos_clj**](https://github.com/syou6162/fobos_clj)|||
 |7|[@athos](https://github.com/athos)/[**Bigmouth**](https://github.com/athos/Bigmouth)|Clojure framework to build delivery-only Mastodon-compatible web apps||
+|7|[@athos](https://github.com/athos)/[**clj-check**](https://github.com/athos/clj-check)|lein-check alternative for Clojure CLI tool||
+|7|[@athos](https://github.com/athos)/[**lein-with-env-vars**](https://github.com/athos/lein-with-env-vars)|A Leiningen plugin for performing a task with environment variable settings loaded from project.clj||
 |7|[@athos](https://github.com/athos)/[**parabola**](https://github.com/athos/parabola)|Hubot-like chatbot framework powered by Clojure/core.async||
 |7|[@athos](https://github.com/athos)/[**tetrlang**](https://github.com/athos/tetrlang)|an esoteric language inspired by Tetris||
 |7|[@hellonico](https://github.com/hellonico)/[**cortex-tutorial**](https://github.com/hellonico/cortex-tutorial)|||
 |7|[@lagenorhynque](https://github.com/lagenorhynque)/[**react-tutorial**](https://github.com/lagenorhynque/react-tutorial)|React tutorial app implemented in ClojureScript||
-|6|[@athos](https://github.com/athos)/[**clj-check**](https://github.com/athos/clj-check)|lein-check alternative for Clojure CLI tool||
-|6|[@athos](https://github.com/athos)/[**lein-with-env-vars**](https://github.com/athos/lein-with-env-vars)|A Leiningen plugin for performing a task with environment variable settings loaded from project.clj||
+|6|[@athos](https://github.com/athos)/[**aintegrant**](https://github.com/athos/aintegrant)|Aintegrant ain't Integrant, it's Async Integrant!||
 |6|[@ayato-p](https://github.com/ayato-p)/[**intro-web-clojure**](https://github.com/ayato-p/intro-web-clojure)|Introduction to web application development in Clojure||
 |6|[@boxp](https://github.com/boxp)/[**puppeteer**](https://github.com/boxp/puppeteer)|A Slackbot for Deploying microservices to GKE Cluster.||
 |6|[@dvcrn](https://github.com/dvcrn)/[**vscodecljs**](https://github.com/dvcrn/vscodecljs)|Proof of concept vscode extension in ClojureScript||
 |6|[@federkasten](https://github.com/federkasten)/[**ring-websocket-example**](https://github.com/federkasten/ring-websocket-example)|An example project for websocket server using ring-jetty/lein-ring-jetty||
 |6|[@halcat0x15a](https://github.com/halcat0x15a)/[**cljmacs**](https://github.com/halcat0x15a/cljmacs)|Emacs like editor.||
 |6|[@haruyama](https://github.com/haruyama)/[**unixuser-clojure-commons**](https://github.com/haruyama/unixuser-clojure-commons)|a Clojure library.||
+|6|[@hellonico](https://github.com/hellonico)/[**origami-dnn**](https://github.com/hellonico/origami-dnn)|OpenCV DNN project building on OpenCV / origami to run Tensorflow/Caffe/Darknet network for image/video analysis.||
 |6|[@liquidz](https://github.com/liquidz)/[**clj-text-decoration**](https://github.com/liquidz/clj-text-decoration)|Text decoration library||
 |6|[@nyampass](https://github.com/nyampass)/[**BeginningClojure**](https://github.com/nyampass/BeginningClojure)|工学社「はじめてのClojure」のサンプルソースです||
 |6|[@runexec](https://github.com/runexec)/[**Moov**](https://github.com/runexec/Moov)|(TMDB)The Movie Database API Wrapper||
 |6|[@syou6162](https://github.com/syou6162)/[**lda_clj**](https://github.com/syou6162/lda_clj)|Latent Dirichlet Allocation library written in clojure||
 |5|[@KeenS](https://github.com/KeenS)/[**s7p**](https://github.com/KeenS/s7p)|sexp version of s6p; a toy SSP.||
-|5|[@athos](https://github.com/athos)/[**aintegrant**](https://github.com/athos/aintegrant)|Aintegrant ain't Integrant, it's Async Integrant!||
 |5|[@athos](https://github.com/athos)/[**intro-to-prejenter**](https://github.com/athos/intro-to-prejenter)|||
 |5|[@ayamada](https://github.com/ayamada)/[**vnctst-audio3**](https://github.com/ayamada/vnctst-audio3)|audio playback library for html5 game||
 |5|[@ayato-p](https://github.com/ayato-p)/[**bulkhead**](https://github.com/ayato-p/bulkhead)|||
@@ -95,6 +97,7 @@
 |5|[@halcat0x15a](https://github.com/halcat0x15a)/[**unapply**](https://github.com/halcat0x15a/unapply)|Pattern matching library||
 |5|[@hellonico](https://github.com/hellonico)/[**zebra**](https://github.com/hellonico/zebra)|Google's ortools with Clojure||
 |5|[@iku000888](https://github.com/iku000888)/[**kakuteishinko-clojure**](https://github.com/iku000888/kakuteishinko-clojure)|||
+|5|[@jedahan](https://github.com/jedahan)/[**twelve-plus-eight**](https://github.com/jedahan/twelve-plus-eight)|recreating http://www.heikewerner.com/images/oxenaar_pk4.jpg||
 |5|[@kaosf](https://github.com/kaosf)/[**clocure**](https://github.com/kaosf/clocure)|||
 |5|[@kawasima](https://github.com/kawasima)/[**clj-jpa**](https://github.com/kawasima/clj-jpa)|The JPA library in the Clojure way||
 |5|[@lagenorhynque](https://github.com/lagenorhynque)/[**spec-examples**](https://github.com/lagenorhynque/spec-examples)|clojure.spec examples||
@@ -108,7 +111,6 @@
 |4|[@athos](https://github.com/athos)/[**igv-client**](https://github.com/athos/igv-client)|Clojure implementation of IGV client to control IGV via its Port Commands||
 |4|[@dvcrn](https://github.com/dvcrn)/[**ankimo**](https://github.com/dvcrn/ankimo)|🐠 Browser extension for sending Japanese words to Anki||
 |4|[@gpsoft](https://github.com/gpsoft)/[**kunya**](https://github.com/gpsoft/kunya)|A minimal app with Electron, ClojureScript, Boot, Reagent and re-frame.||
-|4|[@jedahan](https://github.com/jedahan)/[**twelve-plus-eight**](https://github.com/jedahan/twelve-plus-eight)|recreating http://www.heikewerner.com/images/oxenaar_pk4.jpg||
 |4|[@k2nr](https://github.com/k2nr)/[**dokkaa-builder**](https://github.com/k2nr/dokkaa-builder)|||
 |4|[@liquidz](https://github.com/liquidz)/[**clj-xmas**](https://github.com/liquidz/clj-xmas)|:christmas_tree: :christmas_tree: :christmas_tree:||
 |4|[@liquidz](https://github.com/liquidz)/[**misaki-markdown**](https://github.com/liquidz/misaki-markdown)|Markdown Compiler for Misaki|[:arrow_upper_right:](http://liquidz.github.io/misaki/)|
@@ -136,12 +138,11 @@
 |3|[@haruyama](https://github.com/haruyama)/[**matrix-factorization-with-clojure**](https://github.com/haruyama/matrix-factorization-with-clojure)|||
 |3|[@hayamiz](https://github.com/hayamiz)/[**clj-match**](https://github.com/hayamiz/clj-match)|A port of Andrew Wright's pattern matching macro library for Clojure|[:arrow_upper_right:](http://d.hatena.ne.jp/hayamiz/)|
 |3|[@hellonico](https://github.com/hellonico)/[**clj-todoist**](https://github.com/hellonico/clj-todoist)|Clojure Todoist API||
-|3|[@hellonico](https://github.com/hellonico)/[**origami-dnn**](https://github.com/hellonico/origami-dnn)|OpenCV DNN project building on OpenCV / origami to run Tensorflow/Caffe/Darknet network for image/video analysis.||
 |3|[@kawasima](https://github.com/kawasima)/[**gring**](https://github.com/kawasima/gring)|Git server for ring.||
 |3|[@liquidz](https://github.com/liquidz)/[**clj-password-check**](https://github.com/liquidz/clj-password-check)|password checker library for clojure|[:arrow_upper_right:](http://clojars.org/org.clojars.liquidz/clj-password-check)|
 |3|[@liquidz](https://github.com/liquidz)/[**debug-reader**](https://github.com/liquidz/debug-reader)|Gauche like debug print reader|[:arrow_upper_right:](https://clojars.org/debug-reader)|
 |3|[@liquidz](https://github.com/liquidz)/[**frontmatter**](https://github.com/liquidz/frontmatter)|Parse front matter from a file||
-|3|[@liquidz](https://github.com/liquidz)/[**iced-nrepl**](https://github.com/liquidz/iced-nrepl)|||
+|3|[@liquidz](https://github.com/liquidz)/[**iced-nrepl**](https://github.com/liquidz/iced-nrepl)|nREPL middleware to support vim-iced.||
 |3|[@liquidz](https://github.com/liquidz)/[**liquidz.github.com**](https://github.com/liquidz/liquidz.github.com)|||
 |3|[@liquidz](https://github.com/liquidz)/[**merr**](https://github.com/liquidz/merr)|:fire: Minimal and good enough error handling library for Clojure/ClojureScript||
 |3|[@liquidz](https://github.com/liquidz)/[**misaki-clostache**](https://github.com/liquidz/misaki-clostache)|misaki compiler using Clostache|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|

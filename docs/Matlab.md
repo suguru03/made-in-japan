@@ -1,20 +1,18 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|480|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
-|307|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
-|119|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
+|486|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
+|310|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
+|126|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
 |68|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
 |31|[@ikuwow](https://github.com/ikuwow)/[**PatchMatch**](https://github.com/ikuwow/PatchMatch)|The PatchMatch algorithm on MATLAB||
 |26|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
 |26|[@vanhuyz](https://github.com/vanhuyz)/[**coursera-ml**](https://github.com/vanhuyz/coursera-ml)|For study purpose only||
 |20|[@KamitaniLab](https://github.com/KamitaniLab)/[**VBCCA**](https://github.com/KamitaniLab/VBCCA)|Variational Bayesian Canonical Correlation Analysis||
-|14|[@philipperemy](https://github.com/philipperemy)/[**Statistical-Arbitrage**](https://github.com/philipperemy/Statistical-Arbitrage)|Using Particle Markov Chain Monte Carlo||
 |13|[@ikuwow](https://github.com/ikuwow)/[**inpainting_criminisi2004**](https://github.com/ikuwow/inpainting_criminisi2004)|MATLAB Implementation of inpainting Algorithm by A. Criminisi (2004)||
 |11|[@jmlipman](https://github.com/jmlipman)/[**LAID**](https://github.com/jmlipman/LAID)|Lipman's Artificial Intelligence Directory||
 |9|[@bobbens](https://github.com/bobbens)/[**gfmm**](https://github.com/bobbens/gfmm)|Code for the paper 'Geodesic Finite Mixture Model'.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/gfmm/)|
 |8|[@philipperemy](https://github.com/philipperemy)/[**Peer-Group-Analysis-Clustering**](https://github.com/philipperemy/Peer-Group-Analysis-Clustering)|Unsupervised Clustering of Time Series using Peer Group Analysis PGA||
-|7|[@KamitaniLab](https://github.com/KamitaniLab)/[**BrainDecoderToolbox2**](https://github.com/KamitaniLab/BrainDecoderToolbox2)|Matlab library for brain decoding analysis (BrainDecoderToolbox2 data format, machine learning analysis, functional MRI)||
-|7|[@sonots](https://github.com/sonots)/[**cvprtoolbox**](https://github.com/sonots/cvprtoolbox)|Yet Another MATLAB Computer Vision and Pattern Recognition toolbox||
+|8|[@sonots](https://github.com/sonots)/[**cvprtoolbox**](https://github.com/sonots/cvprtoolbox)|Yet Another MATLAB Computer Vision and Pattern Recognition toolbox||
 |6|[@KamitaniLab](https://github.com/KamitaniLab)/[**SOLR**](https://github.com/KamitaniLab/SOLR)|Matlab and Python code for sparse ordinal logistic regression (SOLR).|[:arrow_upper_right:](https://doi.org/10.3389/fninf.2018.00051)|
 |6|[@maxime](https://github.com/maxime)/[**narrative-gps**](https://github.com/maxime/narrative-gps)|An attempt to read the GPS Snapshot files from the Narrative Camera with Matlab||
 |6|[@ugo-nama-kun](https://github.com/ugo-nama-kun)/[**RL_nyu-mon**](https://github.com/ugo-nama-kun/RL_nyu-mon)|||

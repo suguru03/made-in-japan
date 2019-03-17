@@ -10,4 +10,5 @@
 |5|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-Parser**](https://github.com/tokuhirom/p6-HTTP-Parser)|||
 |4|[@moznion](https://github.com/moznion)/[**p6-Log-Minimal**](https://github.com/moznion/p6-Log-Minimal)|Minimal Logger for Perl6||
 |3|[@akiym](https://github.com/akiym)/[**JSON-Hjson**](https://github.com/akiym/JSON-Hjson)|Human JSON (Hjson) deserializer for Perl 6||
+|3|[@mattn](https://github.com/mattn)/[**p6-Growl-GNTP**](https://github.com/mattn/p6-Growl-GNTP)|Perl6 implementation of Growl::GNTP||
 

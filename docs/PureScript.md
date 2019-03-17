@@ -14,6 +14,7 @@
 |4|[@cdepillabout](https://github.com/cdepillabout)/[**purescript-email-validate**](https://github.com/cdepillabout/purescript-email-validate)|Validating an email address string against RFC 5322||
 |4|[@noraesae](https://github.com/noraesae)/[**purescript-halogen-free-html**](https://github.com/noraesae/purescript-halogen-free-html)|Free monad for Halogen HTML||
 |4|[@oreshinya](https://github.com/oreshinya)/[**purescript-mysql**](https://github.com/oreshinya/purescript-mysql)|Bindings mysql for PureScript||
+|3|[@bouzuya](https://github.com/bouzuya)/[**node-hatena-fotolife-cli**](https://github.com/bouzuya/node-hatena-fotolife-cli)|Hatena::Fotolife command line interface (unofficial)||
 |3|[@bouzuya](https://github.com/bouzuya)/[**tamaru**](https://github.com/bouzuya/tamaru)|||
 |3|[@oreshinya](https://github.com/oreshinya)/[**purescript-conveyor**](https://github.com/oreshinya/purescript-conveyor)|Simple RPC framework||
 |3|[@oreshinya](https://github.com/oreshinya)/[**purescript-crypto**](https://github.com/oreshinya/purescript-crypto)|PureScript wrapper for crypto module of NodeJS||

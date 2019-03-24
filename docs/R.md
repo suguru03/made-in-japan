@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|390|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
-|232|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
+|392|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
+|234|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
 |110|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
 |71|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
 |38|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
@@ -31,11 +31,11 @@
 |9|[@yutannihilation](https://github.com/yutannihilation)/[**rstudioconf2019**](https://github.com/yutannihilation/rstudioconf2019)|Materials for rstudio::conf 2019||
 |8|[@kota7](https://github.com/kota7)/[**striprtf**](https://github.com/kota7/striprtf)|R Package for Extracting Text from RTF (Rich Text Format) File||
 |8|[@uribo](https://github.com/uribo)/[**jpndistrict**](https://github.com/uribo/jpndistrict)|🗾 Create Japansese Administration Area Maps|[:arrow_upper_right:](http://uribo.github.io/jpndistrict)|
+|8|[@wolfv](https://github.com/wolfv)/[**xtensor-showcase**](https://github.com/wolfv/xtensor-showcase)|A little demo how to bind an advanced data science algorithms to 4 different languages||
 |7|[@jirotubuyaki](https://github.com/jirotubuyaki)/[**Jdmbs**](https://github.com/jirotubuyaki/Jdmbs)|Jdmbs: An R Package for Monte Carlo Option Pricing Algorithm for Jump Diffusion Models with Correlational Companies||
 |7|[@teramonagi](https://github.com/teramonagi)/[**SABRCalibrationOnShiny**](https://github.com/teramonagi/SABRCalibrationOnShiny)|SABR model calibration on shiny||
 |7|[@uribo](https://github.com/uribo)/[**Japan.useR**](https://github.com/uribo/Japan.useR)|:crossed_flags:Japanese R user community materials and information datasets||
 |7|[@uribo](https://github.com/uribo)/[**sealr**](https://github.com/uribo/sealr)|🏭 Sealing the R Objects Test and Assert Conditions 🤖||
-|7|[@wolfv](https://github.com/wolfv)/[**xtensor-showcase**](https://github.com/wolfv/xtensor-showcase)|A little demo how to bind an advanced data science algorithms to 4 different languages||
 |6|[@GinzaLion](https://github.com/GinzaLion)/[**R-Cryptocurrencies**](https://github.com/GinzaLion/R-Cryptocurrencies)|Public APIs - Cryptocurrencies||
 |6|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**Detectives**](https://github.com/IshidaMotohiro/Detectives)|for "Data Detectives", Soft Bank 2015||
 |6|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**TextMining**](https://github.com/IshidaMotohiro/TextMining)|||
@@ -63,6 +63,7 @@
 |4|[@uribo](https://github.com/uribo)/[**fgdr**](https://github.com/uribo/fgdr)|Utilities for Fundamental Geospatial Data||
 |4|[@uribo](https://github.com/uribo)/[**textlintr**](https://github.com/uribo/textlintr)|✅ Natural Language Linter Tools for 'R Markdown' and R Code 💯|[:arrow_upper_right:](https://uribo.github.io/textlintr/)|
 |4|[@yukiyanai](https://github.com/yukiyanai)/[**rm2-Bayes**](https://github.com/yukiyanai/rm2-Bayes)|Course materials for Research Methods in Political Science II at Kobe University||
+|4|[@yutannihilation](https://github.com/yutannihilation)/[**ansible-playbook-r**](https://github.com/yutannihilation/ansible-playbook-r)|An Ansible Playbook to deploy RStudio Server||
 |4|[@yutannihilation](https://github.com/yutannihilation)/[**qiitr**](https://github.com/yutannihilation/qiitr)|R binding for Qiita API v2|[:arrow_upper_right:](https://yutannihilation.github.io/qiitr/)|
 |3|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**WebScraping**](https://github.com/IshidaMotohiro/WebScraping)|C&R社『Rによるウェブスレクイピング』掲載スクリプト||
 |3|[@PhDMeiwp](https://github.com/PhDMeiwp)/[**Steel.Dwass.test**](https://github.com/PhDMeiwp/Steel.Dwass.test)|🍀an R package for Steel.Dwass.test (Non-parametric method, a post-hoc test after Kruskal-Wallis Test)||
@@ -81,7 +82,6 @@
 |3|[@teramonagi](https://github.com/teramonagi)/[**R-FRBData**](https://github.com/teramonagi/R-FRBData)|Download data from FRB's website||
 |3|[@ymyzk](https://github.com/ymyzk)/[**RTConnect**](https://github.com/ymyzk/RTConnect)|Tools for analyzing sales report files of iTunes Connect.|[:arrow_upper_right:](http://cran.r-project.org/web/packages/RTConnect/index.html)|
 |3|[@yutannihilation](https://github.com/yutannihilation)/[**K9**](https://github.com/yutannihilation/K9)|Affirmative, Master!!!|[:arrow_upper_right:](https://yutannihilation.github.io/K9/)|
-|3|[@yutannihilation](https://github.com/yutannihilation)/[**ansible-playbook-r**](https://github.com/yutannihilation/ansible-playbook-r)|An Ansible Playbook to deploy RStudio Server||
 |3|[@yutannihilation](https://github.com/yutannihilation)/[**ggsflabel**](https://github.com/yutannihilation/ggsflabel)|Labels for 'sf' with 'ggplot2'|[:arrow_upper_right:](https://yutannihilation.github.io/ggsflabel/)|
 |3|[@yutannihilation](https://github.com/yutannihilation)/[**qiitaddin**](https://github.com/yutannihilation/qiitaddin)|An RStudio addin to post a knitted R Markdown file to Qiita||
 

@@ -1,19 +1,19 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|658|[@syuilo](https://github.com/syuilo)/[**misskey**](https://github.com/syuilo/misskey)|🌎 A federated blogging platform 🚀|[:arrow_upper_right:](https://misskey.xyz/)|
-|287|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
+|706|[@syuilo](https://github.com/syuilo)/[**misskey**](https://github.com/syuilo/misskey)|🌎 A federated blogging platform 🚀|[:arrow_upper_right:](https://misskey.xyz/)|
+|293|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
 |256|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
-|177|[@baku89](https://github.com/baku89)/[**ui-study**](https://github.com/baku89/ui-study)|Parameters UI Study||
-|95|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://vue-fixed-header.potato4d.dev/)|
-|91|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
-|68|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
+|179|[@baku89](https://github.com/baku89)/[**ui-study**](https://github.com/baku89/ui-study)|Parameters UI Study||
+|96|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://vue-fixed-header.potato4d.dev/)|
+|92|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
+|69|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
 |39|[@meganetaaan](https://github.com/meganetaaan)/[**vue-maze**](https://github.com/meganetaaan/vue-maze)|A Vue.js component of a simple maze game.||
 |32|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
 |32|[@miyaoka](https://github.com/miyaoka)/[**grid-generator**](https://github.com/miyaoka/grid-generator)|CSS Grid Layout generator|[:arrow_upper_right:](https://vue-grid-generator.netlify.com/)|
 |26|[@miyaoka](https://github.com/miyaoka)/[**gh-blog**](https://github.com/miyaoka/gh-blog)|GitHub Issue as Blog|[:arrow_upper_right:](https://gh-blog.netlify.com/)|
 |23|[@potato4d](https://github.com/potato4d)/[**vue-dev-template**](https://github.com/potato4d/vue-dev-template)|[deprecated] Vue.js development template.|[:arrow_upper_right:](http://qiita.com/potato4d/items/55a60f21c26bf889afd5)|
 |20|[@frandiox](https://github.com/frandiox)/[**vue-onsenui-kitchensink**](https://github.com/frandiox/vue-onsenui-kitchensink)|Vue.js + Onsen UI Kitchen Sink Example||
-|17|[@mysticatea](https://github.com/mysticatea)/[**vue-eslint-editor**](https://github.com/mysticatea/vue-eslint-editor)|A code editor component to play ESLint.|[:arrow_upper_right:](https://mysticatea.github.io/vue-eslint-editor/)|
+|18|[@mysticatea](https://github.com/mysticatea)/[**vue-eslint-editor**](https://github.com/mysticatea/vue-eslint-editor)|A code editor component to play ESLint.|[:arrow_upper_right:](https://mysticatea.github.io/vue-eslint-editor/)|
 |17|[@potato4d](https://github.com/potato4d)/[**kamishibai-viewer**](https://github.com/potato4d/kamishibai-viewer)|Qiita slide mode embed library|[:arrow_upper_right:](https://potato4d.github.io/kamishibai-viewer/)|
 |17|[@potato4d](https://github.com/potato4d)/[**preloaders**](https://github.com/potato4d/preloaders)|My preloader collection using CSS Animation.|[:arrow_upper_right:](https://preloaders.potato4d.me)|
 |16|[@andoshin11](https://github.com/andoshin11)/[**vue-cli-plugin-nuxt-starter-template**](https://github.com/andoshin11/vue-cli-plugin-nuxt-starter-template)|Nuxt.js starter project template for vue-cli v3. https://starter.nuxtjs.org||

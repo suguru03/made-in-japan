@@ -50,6 +50,7 @@
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**libnotify4d**](https://github.com/alphaKAI/libnotify4d)|A D binding for libnotify||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**xhvm**](https://github.com/alphaKAI/xhvm)|The Xhyve VM Manager||
 |3|[@kubo39](https://github.com/kubo39)/[**fastersort**](https://github.com/kubo39/fastersort)|||
+|3|[@kubo39](https://github.com/kubo39)/[**sharedlib**](https://github.com/kubo39/sharedlib)|||
 |3|[@nanase](https://github.com/nanase)/[**dux**](https://github.com/nanase/dux)|ux implementation for D||
 |3|[@tanitta](https://github.com/tanitta)/[**mastodon-d**](https://github.com/tanitta/mastodon-d)|mastodon API Wrapper for dlang||
 |3|[@tanitta](https://github.com/tanitta)/[**unitro**](https://github.com/tanitta/unitro)|||

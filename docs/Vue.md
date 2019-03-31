@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|706|[@syuilo](https://github.com/syuilo)/[**misskey**](https://github.com/syuilo/misskey)|🌎 A federated blogging platform 🚀|[:arrow_upper_right:](https://misskey.xyz/)|
-|293|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
+|716|[@syuilo](https://github.com/syuilo)/[**misskey**](https://github.com/syuilo/misskey)|🌎 A federated blogging platform 🚀|[:arrow_upper_right:](https://misskey.xyz/)|
+|301|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
 |256|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
 |179|[@baku89](https://github.com/baku89)/[**ui-study**](https://github.com/baku89/ui-study)|Parameters UI Study||
-|96|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://vue-fixed-header.potato4d.dev/)|
+|97|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://vue-fixed-header.potato4d.dev/)|
 |92|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
-|69|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
+|70|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
 |39|[@meganetaaan](https://github.com/meganetaaan)/[**vue-maze**](https://github.com/meganetaaan/vue-maze)|A Vue.js component of a simple maze game.||
 |32|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
 |32|[@miyaoka](https://github.com/miyaoka)/[**grid-generator**](https://github.com/miyaoka/grid-generator)|CSS Grid Layout generator|[:arrow_upper_right:](https://vue-grid-generator.netlify.com/)|
@@ -23,7 +23,7 @@
 |13|[@ktsn](https://github.com/ktsn)/[**vue-ast-explorer**](https://github.com/ktsn/vue-ast-explorer)|Vue template AST explorer https://ktsn.github.io/vue-ast-explorer/||
 |11|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**speakerdeck-mobile**](https://github.com/YuheiNakasaka/speakerdeck-mobile)|mobile viewer for speakerdeck|[:arrow_upper_right:](https://mspeakerdeck.com/)|
 |11|[@nju33](https://github.com/nju33)/[**qiow**](https://github.com/nju33/qiow)|An app of the Qiita for viewing widely||
-|10|[@potato4d](https://github.com/potato4d)/[**vue-typescript-adcal-examples**](https://github.com/potato4d/vue-typescript-adcal-examples)|||
+|11|[@potato4d](https://github.com/potato4d)/[**vue-typescript-adcal-examples**](https://github.com/potato4d/vue-typescript-adcal-examples)|||
 |10|[@sunya9](https://github.com/sunya9)/[**beta**](https://github.com/sunya9/beta)|pnut.io client. This client respect Alpha that is app.net official web client.|[:arrow_upper_right:](https://beta.unsweets.net)|
 |10|[@yomotsu](https://github.com/yomotsu)/[**vue-webgl-non-dom-component-example**](https://github.com/yomotsu/vue-webgl-non-dom-component-example)|||
 |8|[@azu](https://github.com/azu)/[**github-ribbon-generator**](https://github.com/azu/github-ribbon-generator)|GitHub Ribbon Generator on Web.|[:arrow_upper_right:](https://azu.github.io/github-ribbon-generator/)|
@@ -32,11 +32,11 @@
 |8|[@ixkaito](https://github.com/ixkaito)/[**viewportscaler**](https://github.com/ixkaito/viewportscaler)|Fluid-responsive value/calculation generator for CSS/Sass. To linearly scale font-size, margin, padding, etc. across viewport widths.|[:arrow_upper_right:](https://ixkaito.github.io/viewportscaler/)|
 |7|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**dna-of-forests**](https://github.com/YCAMInterlab/dna-of-forests)|Field Guide “DNA of Forests” - YCAM Bio Research|[:arrow_upper_right:](http://dna-of-forests.ycam.jp/en/)|
 |7|[@ktsn](https://github.com/ktsn)/[**typescript-webpack-simple**](https://github.com/ktsn/typescript-webpack-simple)|A simple TypeScript + Webpack + vue-loader setup.||
+|6|[@joe-re](https://github.com/joe-re)/[**eslint-vue-typescript-sample**](https://github.com/joe-re/eslint-vue-typescript-sample)|||
+|6|[@morizyun](https://github.com/morizyun)/[**nuxt-edge-serverless-firebase-auth-template**](https://github.com/morizyun/nuxt-edge-serverless-firebase-auth-template)|||
 |6|[@sho-yamane](https://github.com/sho-yamane)/[**nuxt-hp**](https://github.com/sho-yamane/nuxt-hp)|||
 |5|[@argelius](https://github.com/argelius)/[**vue-onsenui**](https://github.com/argelius/vue-onsenui)|Vue components for Onsen UI||
-|5|[@joe-re](https://github.com/joe-re)/[**eslint-vue-typescript-sample**](https://github.com/joe-re/eslint-vue-typescript-sample)|||
 |5|[@konojunya](https://github.com/konojunya)/[**HEW2018**](https://github.com/konojunya/HEW2018)|🏫 Project of HAL Event Week 2018. Introduction to modern web services using Go, Vue, AWS, Docker and CircleCI.||
-|5|[@morizyun](https://github.com/morizyun)/[**nuxt-edge-serverless-firebase-auth-template**](https://github.com/morizyun/nuxt-edge-serverless-firebase-auth-template)|||
 |5|[@potato4d](https://github.com/potato4d)/[**potato4d.me**](https://github.com/potato4d/potato4d.me)|Potato4d's Website|[:arrow_upper_right:](https://potato4d.me)|
 |5|[@sunecosuri](https://github.com/sunecosuri)/[**vue-component-sandbox**](https://github.com/sunecosuri/vue-component-sandbox)|SandBox for Vue.js||
 |4|[@0918nobita](https://github.com/0918nobita)/[**Rider-S**](https://github.com/0918nobita/Rider-S)|安全なサイクリングをサポートするPWA|[:arrow_upper_right:](https://api-project-1039166349340.firebaseapp.com)|
@@ -49,6 +49,7 @@
 |3|[@TinyKitten](https://github.com/TinyKitten)/[**KittenBlog**](https://github.com/TinyKitten/KittenBlog)|TinyKitten's headless blog built with Nuxt.js|[:arrow_upper_right:](https://blog.tinykitten.me)|
 |3|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**nuxt-firebase-hosting-sample**](https://github.com/YuheiNakasaka/nuxt-firebase-hosting-sample)|||
 |3|[@argelius](https://github.com/argelius)/[**vue-onsenui-sample**](https://github.com/argelius/vue-onsenui-sample)|A sample app using Vue.js 2.0 and Onsen UI 2.0||
+|3|[@hashrock](https://github.com/hashrock)/[**canvas-lff**](https://github.com/hashrock/canvas-lff)|Single stroke font rendering example|[:arrow_upper_right:](http://hashrock.github.io/canvas-lff/)|
 |3|[@iwasaki-kenta](https://github.com/iwasaki-kenta)/[**blockflare-relay**](https://github.com/iwasaki-kenta/blockflare-relay)|EOS HK Hackathon - Relay client.||
 |3|[@jacoyutorius](https://github.com/jacoyutorius)/[**nuxt_firebase_kpt**](https://github.com/jacoyutorius/nuxt_firebase_kpt)|KPT by Nuxt + Firebase||
 |3|[@kohei-takata](https://github.com/kohei-takata)/[**vue-share-social**](https://github.com/kohei-takata/vue-share-social)|||

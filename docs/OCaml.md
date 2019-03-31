@@ -1,18 +1,18 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3761|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
+|3765|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
 |601|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
 |81|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |79|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |65|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
 |57|[@taikomatsu](https://github.com/taikomatsu)/[**SeExprMeshMaya**](https://github.com/taikomatsu/SeExprMeshMaya)|Polygon deformer node plugin for Maya that using Disney's SeExpr||
-|35|[@mzp](https://github.com/mzp)/[**ocaml-hoogle**](https://github.com/mzp/ocaml-hoogle)|OCaml API search allows you to search many standard O'Caml libraries by either function name, or by approximate type signature. It is similar to Hoogle, which is a Haskell API search engine.
+|34|[@mzp](https://github.com/mzp)/[**ocaml-hoogle**](https://github.com/mzp/ocaml-hoogle)|OCaml API search allows you to search many standard O'Caml libraries by either function name, or by approximate type signature. It is similar to Hoogle, which is a Haskell API search engine.
 
 You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)|
 |33|[@ksuenaga](https://github.com/ksuenaga)/[**IoPLMaterials**](https://github.com/ksuenaga/IoPLMaterials)|Materials for the class "Implementation of Programming Languages" in Kyoto University.||
 |27|[@kuy](https://github.com/kuy)/[**reason-of-life**](https://github.com/kuy/reason-of-life)|Conway's Lifegame in Reason + reason-react with webpack + bs-loader.||
+|25|[@keigoi](https://github.com/keigoi)/[**session-ocaml**](https://github.com/keigoi/session-ocaml)|An implementation of binary session types in OCaml||
 |24|[@UnixJunkie](https://github.com/UnixJunkie)/[**dolog**](https://github.com/UnixJunkie/dolog)|A dumb OCaml logger||
-|24|[@keigoi](https://github.com/keigoi)/[**session-ocaml**](https://github.com/keigoi/session-ocaml)|An implementation of binary session types in OCaml||
 |23|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
 |22|[@BYVoid](https://github.com/BYVoid)/[**Dlist**](https://github.com/BYVoid/Dlist)|Difference list library for OCaml||
 |21|[@mzp](https://github.com/mzp)/[**bs-lwt**](https://github.com/mzp/bs-lwt)|BuckleScript bindings for Lwt||
@@ -41,13 +41,14 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |8|[@ymyzk](https://github.com/ymyzk)/[**lambda-dti**](https://github.com/ymyzk/lambda-dti)|Interpreter of the ITGL with dynamic type inference||
 |8|[@zick](https://github.com/zick)/[**OCamLisp**](https://github.com/zick/OCamLisp)|Lisp implementation in OCaml||
 |7|[@UnixJunkie](https://github.com/UnixJunkie)/[**orxgboost**](https://github.com/UnixJunkie/orxgboost)|Gradient boosting for OCaml using the R xgboost package under the carpet||
+|7|[@keigoi](https://github.com/keigoi)/[**linocaml**](https://github.com/keigoi/linocaml)|Monad-based linear types in OCaml, with a few syntax extensions||
 |6|[@AltGr](https://github.com/AltGr)/[**Contre-jour**](https://github.com/AltGr/Contre-jour)|A toy image gallery application for OPA||
 |6|[@AltGr](https://github.com/AltGr)/[**opam-lock**](https://github.com/AltGr/opam-lock)|Create locked opam files to share build environments across hosts||
-|6|[@keigoi](https://github.com/keigoi)/[**linocaml**](https://github.com/keigoi/linocaml)|Monad-based linear types in OCaml, with a few syntax extensions||
 |6|[@kogai](https://github.com/kogai)/[**typed_i18n**](https://github.com/kogai/typed_i18n)|Generate strictly typed definition of TFunction from own i18next-locale file||
 |6|[@komamitsu](https://github.com/komamitsu)/[**OCatra**](https://github.com/komamitsu/OCatra)|Simple web server library for OCaml like Sinatra||
 |6|[@kuy](https://github.com/kuy)/[**nada.re**](https://github.com/kuy/nada.re)|Visualization of Abelian sandpile model written in Reason + Obelisk.js.||
 |6|[@master-q](https://github.com/master-q)/[**readPurelyFunctionalDataStructures**](https://github.com/master-q/readPurelyFunctionalDataStructures)|||
+|6|[@shrynx](https://github.com/shrynx)/[**reasonz**](https://github.com/shrynx/reasonz)|A Haskell fan fiction for ReasonML||
 |6|[@susisu](https://github.com/susisu)/[**est-ocaml**](https://github.com/susisu/est-ocaml)|A simple command line tool for statistical calculation||
 |5|[@AltGr](https://github.com/AltGr)/[**ocp-sha**](https://github.com/AltGr/ocp-sha)|Pure OCaml implementation of SHA256 and SHA512||
 |5|[@UnixJunkie](https://github.com/UnixJunkie)/[**consent**](https://github.com/UnixJunkie/consent)|ligand-based virtual screening with consensus queries||
@@ -56,7 +57,6 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |5|[@UnixJunkie](https://github.com/UnixJunkie)/[**opmer**](https://github.com/UnixJunkie/opmer)|OPAM repository tree fingerprinter and differ using a Merkle tree||
 |5|[@kaznum](https://github.com/kaznum)/[**programming_in_ocaml_exercise**](https://github.com/kaznum/programming_in_ocaml_exercise)|Practical Exercise of the book 'Programming in OCaml'||
 |5|[@nineties](https://github.com/nineties)/[**puref**](https://github.com/nineties/puref)|Simple purely functional language.||
-|5|[@shrynx](https://github.com/shrynx)/[**reasonz**](https://github.com/shrynx/reasonz)|A Haskell fan fiction for ReasonML||
 |5|[@ymyzk](https://github.com/ymyzk)/[**gsrinfer**](https://github.com/ymyzk/gsrinfer)|A type reconstruction algorithm implementation for the implicitly and gradually typed language with shift and reset|[:arrow_upper_right:](https://gsrinfer.ymyzk.com)|
 |5|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocaml_asm**](https://github.com/yoshihiro503/ocaml_asm)|GNU as library for ocaml||
 |5|[@yutopp](https://github.com/yutopp)/[**loga**](https://github.com/yutopp/loga)|Logging library for OCaml||

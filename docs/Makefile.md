@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|80|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
-|58|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance (for Windows 10 1803 x64 or later). Lightest WSL Distribution. Supports multi-install.|[:arrow_upper_right:](https://git.io/alpwsl)|
+|81|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
+|59|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance. Supports multi-install.|[:arrow_upper_right:](https://git.io/alpwsl)|
 |53|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
-|38|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
+|39|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
 |34|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
-|32|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
+|33|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
 |26|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-agent**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/mackerelio/mackerel-agent/)|
 |25|[@atsushieno](https://github.com/atsushieno)/[**android-fluidsynth**](https://github.com/atsushieno/android-fluidsynth)|[Deprecated] fluidsynth Android port / build. It's old, see https://github.com/atsushieno/fluidsynth-fork/tree/opensles-v2||
 |25|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
@@ -18,12 +18,12 @@
 |20|[@sfuku7](https://github.com/sfuku7)/[**googletest_android_ndk-build**](https://github.com/sfuku7/googletest_android_ndk-build)|Build googletest with Android NDK||
 |15|[@kazuki](https://github.com/kazuki)/[**mediacodec.wasm**](https://github.com/kazuki/mediacodec.wasm)|Audio/Video Codec in WebAssembly||
 |15|[@keiji](https://github.com/keiji)/[**farewell-adt-book**](https://github.com/keiji/farewell-adt-book)|Android Studio完全移行ガイド||
+|14|[@omochi](https://github.com/omochi)/[**JavaScriptCore-android-build**](https://github.com/omochi/JavaScriptCore-android-build)|Build JavaScriptCore for Android||
 |13|[@mumoshu](https://github.com/mumoshu)/[**kube-fluentd**](https://github.com/mumoshu/kube-fluentd)|An ubuntu-slim/s6-overlay/confd based docker image for running fluentd in Kubernetes pods/daemonsets||
 |12|[@akafugu](https://github.com/akafugu)/[**vetinari_clock**](https://github.com/akafugu/vetinari_clock)|A clock that ticks irregularly, yet keeps accurate time.||
 |12|[@user340](https://github.com/user340)/[**fdgw2**](https://github.com/user340/fdgw2)|Minimal NetBSD Distribution Making Tool||
 |12|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiSocketIOClient**](https://github.com/yagitoshiro/TiSocketIOClient)|Socket.io client for Appcelerator Titanium||
 |11|[@leo-project](https://github.com/leo-project)/[**notes**](https://github.com/leo-project/notes)|The note of LeoFS' developers and LeoFS' benchmark report to developers and users|[:arrow_upper_right:](https://github.com/leo-project/leofs)|
-|11|[@omochi](https://github.com/omochi)/[**JavaScriptCore-android-build**](https://github.com/omochi/JavaScriptCore-android-build)|Build JavaScriptCore for Android||
 |11|[@uwabami](https://github.com/uwabami)/[**emacs**](https://github.com/uwabami/emacs)|Emacs の設定ファイル群|[:arrow_upper_right:](https://uwabami.github.io/cc-env/Emacs.html)|
 |10|[@gfngfn](https://github.com/gfngfn)/[**cs-thesis**](https://github.com/gfngfn/cs-thesis)|A SATySFi class file for writing CS master thesis||
 |10|[@nariakiiwatani](https://github.com/nariakiiwatani)/[**ofxWatchFile**](https://github.com/nariakiiwatani/ofxWatchFile)|automatically reload a file if it is modified||
@@ -64,6 +64,7 @@
 |4|[@sisimai](https://github.com/sisimai)/[**set-of-emails**](https://github.com/sisimai/set-of-emails)|bounce mail collection for tests and development on Sisimai|[:arrow_upper_right:](https://libsisimai.org/)|
 |4|[@tork-a](https://github.com/tork-a)/[**live-cd2**](https://github.com/tork-a/live-cd2)|||
 |4|[@ykzts](https://github.com/ykzts)/[**omanko.porn**](https://github.com/ykzts/omanko.porn)||[:arrow_upper_right:](https://omanko.porn/)|
+|4|[@yugui](https://github.com/yugui)/[**cgo-explained**](https://github.com/yugui/cgo-explained)|Example codes to understand how cgo works inside "go build" command.|[:arrow_upper_right:](http://qiita.com/yugui/items/e71d3d0b3d654a110188)|
 |3|[@ToshihitoKon](https://github.com/ToshihitoKon)/[**Kotlin_study**](https://github.com/ToshihitoKon/Kotlin_study)|kotlin development env setting util||
 |3|[@acomagu](https://github.com/acomagu)/[**awesome-takadanobaba**](https://github.com/acomagu/awesome-takadanobaba)|Hack Takadanobaba.||
 |3|[@cybergarage](https://github.com/cybergarage)/[**round**](https://github.com/cybergarage/round)|Round for C|[:arrow_upper_right:](http://www.cybergarage.org/)|
@@ -82,7 +83,6 @@
 |3|[@tokuhirom](https://github.com/tokuhirom)/[**setusergroups**](https://github.com/tokuhirom/setusergroups)|set uid/pid/supplementary groups||
 |3|[@ueokande](https://github.com/ueokande)/[**tex-makefile**](https://github.com/ueokande/tex-makefile)|Makefile to compile TeX document.||
 |3|[@yantene](https://github.com/yantene)/[**sushiemoji**](https://github.com/yantene/sushiemoji)|High-quality sushi emoji set||
-|3|[@yugui](https://github.com/yugui)/[**cgo-explained**](https://github.com/yugui/cgo-explained)|Example codes to understand how cgo works inside "go build" command.|[:arrow_upper_right:](http://qiita.com/yugui/items/e71d3d0b3d654a110188)|
 |3|[@yuk7](https://github.com/yuk7)/[**android_device_intel_baytrail**](https://github.com/yuk7/android_device_intel_baytrail)|Device Trees for BayTrail-T devices||
 |3|[@yutopp](https://github.com/yutopp)/[**8cc.rill**](https://github.com/yutopp/8cc.rill)|||
 |3|[@yyoshiki41](https://github.com/yyoshiki41)/[**ansible-makefile**](https://github.com/yyoshiki41/ansible-makefile)|||

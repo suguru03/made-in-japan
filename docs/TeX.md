@@ -3,22 +3,22 @@
 |153|[@ziyan](https://github.com/ziyan)/[**spider**](https://github.com/ziyan/spider)|Web Content Extraction Through Machine Learning|[:arrow_upper_right:](https://www.ziyan.net/2014/04/web-content-extraction-through-machine-learning/)|
 |130|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hypervisor**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
 |118|[@y-yu](https://github.com/y-yu)/[**trpl-2nd-pdf**](https://github.com/y-yu/trpl-2nd-pdf)|PDF of Japanese The Rust Programming Language: 2nd Edition |[:arrow_upper_right:](https://y-yu.github.io/trpl-2nd-pdf/book.pdf)|
-|85|[@neubig](https://github.com/neubig)/[**naacl18tutorial**](https://github.com/neubig/naacl18tutorial)|NAACL 2018 Tutorial: Modelling Natural Language, Programs, and their Intersection||
+|86|[@neubig](https://github.com/neubig)/[**naacl18tutorial**](https://github.com/neubig/naacl18tutorial)|NAACL 2018 Tutorial: Modelling Natural Language, Programs, and their Intersection||
 |55|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
 |54|[@tkamishima](https://github.com/tkamishima)/[**recsysdoc**](https://github.com/tkamishima/recsysdoc)|Algorithms of Recommender Systems : A survey paper of recommender systems (written in Japanese)|[:arrow_upper_right:](http://www.kamishima.net/archive/recsysdoc.pdf)|
 |47|[@hamano](https://github.com/hamano)/[**the-little-mongodb-book**](https://github.com/hamano/the-little-mongodb-book)|MongoDBの薄い本(The Little MongoDB Book)|[:arrow_upper_right:](http://www.cuspy.org/diary/2012-04-17)|
-|46|[@kmaed](https://github.com/kmaed)/[**kmbeamer**](https://github.com/kmaed/kmbeamer)|My themes for Beamer.||
+|47|[@kmaed](https://github.com/kmaed)/[**kmbeamer**](https://github.com/kmaed/kmbeamer)|My themes for Beamer.||
 |46|[@mizzy](https://github.com/mizzy)/[**serverspec-thesis**](https://github.com/mizzy/serverspec-thesis)|||
+|36|[@vvakame](https://github.com/vvakame)/[**graphql-with-go-book**](https://github.com/vvakame/graphql-with-go-book)||[:arrow_upper_right:](https://vvakame.booth.pm/items/1055228)|
 |35|[@pi8027](https://github.com/pi8027)/[**typeinfer**](https://github.com/pi8027/typeinfer)|Type inference in OCaml|[:arrow_upper_right:](https://github.com/pi8027/typeinfer)|
-|35|[@vvakame](https://github.com/vvakame)/[**graphql-with-go-book**](https://github.com/vvakame/graphql-with-go-book)||[:arrow_upper_right:](https://vvakame.booth.pm/items/1055228)|
 |29|[@ryuichiueda](https://github.com/ryuichiueda)/[**ShellGeiData**](https://github.com/ryuichiueda/ShellGeiData)|Files for practice of shellgei||
 |25|[@jilljenn](https://github.com/jilljenn)/[**business-card**](https://github.com/jilljenn/business-card)|A business card in LaTeX||
 |25|[@vvakame](https://github.com/vvakame)/[**review-css-typesetting**](https://github.com/vvakame/review-css-typesetting)|CSS組版やっていき！||
 |22|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing|[:arrow_upper_right:](https://arxiv.org/abs/1811.03388)|
 |21|[@takahashim](https://github.com/takahashim)/[**review-sample-book**](https://github.com/takahashim/review-sample-book)|ReVIEWの書籍サンプルデータです。||
+|20|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
 |19|[@kentaro](https://github.com/kentaro)/[**Bancor_Protocol_Whitepaper_ja**](https://github.com/kentaro/Bancor_Protocol_Whitepaper_ja)|Japanese Translation of The Bancor Protocol Whitepaper||
 |18|[@uribo](https://github.com/uribo)/[**lab.note**](https://github.com/uribo/lab.note)|:notebook_with_decorative_cover: Create Laboratory Note and Report Using R Markdown||
-|17|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
 |16|[@hitode909](https://github.com/hitode909)/[**soturon**](https://github.com/hitode909/soturon)|卒論||
 |14|[@Runnrairu](https://github.com/Runnrairu)/[**machinelearning_text**](https://github.com/Runnrairu/machinelearning_text)|||
 |14|[@orthez](https://github.com/orthez)/[**business-cards-latex**](https://github.com/orthez/business-cards-latex)|Business cards template in latex. Duplex (doubleside) printable. Two languages (back/front) supported. Optimized to be easily extensible.||

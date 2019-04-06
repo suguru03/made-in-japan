@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|13948|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|1962|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
-|378|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
-|297|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
+|14044|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|1966|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|379|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
+|300|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
 |237|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |137|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |90|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
@@ -13,10 +13,10 @@
 |45|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb**](https://github.com/nagadomi/kaggle-ndsb)|Code for National Data Science Bowl. 10th place.||
 |42|[@umegaya](https://github.com/umegaya)/[**ffiex**](https://github.com/umegaya/ffiex)|extend luajit ffi module to give more affinity to C codes||
 |39|[@hnakamur](https://github.com/hnakamur)/[**luajit-examples**](https://github.com/hnakamur/luajit-examples)|my example codes for LuaJIT||
-|38|[@kengonakajima](https://github.com/kengonakajima)/[**lua-msgpack**](https://github.com/kengonakajima/lua-msgpack)|msgpack implementation by pure Lua (5.1) works without LuajJIT and FFI.||
-|30|[@hetima](https://github.com/hetima)/[**hammerspoon-hyperex**](https://github.com/hetima/hammerspoon-hyperex)|Hammerspoon configuration library which provides yet another modifier key.||
+|39|[@kengonakajima](https://github.com/kengonakajima)/[**lua-msgpack**](https://github.com/kengonakajima/lua-msgpack)|msgpack implementation by pure Lua (5.1) works without LuajJIT and FFI.||
+|31|[@hetima](https://github.com/hetima)/[**hammerspoon-hyperex**](https://github.com/hetima/hammerspoon-hyperex)|Hammerspoon configuration library which provides yet another modifier key.||
+|25|[@kengonakajima](https://github.com/kengonakajima)/[**luvit-mysql**](https://github.com/kengonakajima/luvit-mysql)|Luvit port of node-mysql||
 |25|[@safx](https://github.com/safx)/[**LightroomPlugin-ClarifaiTagger**](https://github.com/safx/LightroomPlugin-ClarifaiTagger)|A Lightroom plugin suggests keywords of photo for you||
-|24|[@kengonakajima](https://github.com/kengonakajima)/[**luvit-mysql**](https://github.com/kengonakajima/luvit-mysql)|Luvit port of node-mysql||
 |23|[@farseerfc](https://github.com/farseerfc)/[**dotfiles**](https://github.com/farseerfc/dotfiles)|My dotfiles controlled by GNU Stow||
 |23|[@nitoyon](https://github.com/nitoyon)/[**lua-console-lightroom-plugin**](https://github.com/nitoyon/lua-console-lightroom-plugin)|"Lua Console" plugin for Lightroom 3.0+||
 |19|[@kenchan](https://github.com/kenchan)/[**dotfiles**](https://github.com/kenchan/dotfiles)|kenchan's dotfiles.||

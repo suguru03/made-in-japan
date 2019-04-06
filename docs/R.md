@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|395|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
-|240|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
+|394|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
+|244|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
 |110|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
 |71|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
 |38|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
@@ -12,18 +12,18 @@
 |17|[@ymattu](https://github.com/ymattu)/[**MlBayesOpt**](https://github.com/ymattu/MlBayesOpt)|R package to tune parameters for machine learning(Support Vector Machine, Random Forest, and Xgboost), using bayesian optimization with gaussian process||
 |15|[@hoxo-m](https://github.com/hoxo-m)/[**dplyrr**](https://github.com/hoxo-m/dplyrr)|Utilities for comfortable use of dplyr with databases||
 |15|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
-|14|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
+|15|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
 |14|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](http://uribo.github.io/jpmesh)|
 |14|[@yutannihilation](https://github.com/yutannihilation)/[**estatapi**](https://github.com/yutannihilation/estatapi)|R package for e-Stat API in Japan||
 |13|[@kazutan](https://github.com/kazutan)/[**tubeplayR**](https://github.com/kazutan/tubeplayR)|play youtube by R||
 |13|[@yutannihilation](https://github.com/yutannihilation)/[**kokudosuuchi**](https://github.com/yutannihilation/kokudosuuchi)|国土数値情報ダウンロードサービスWeb APIからデータを取得するためのRパッケージです||
 |12|[@yutannihilation](https://github.com/yutannihilation)/[**tiedr**](https://github.com/yutannihilation/tiedr)|Experimental package (not yet existent) for multi-gather() and multi-spread()||
+|11|[@Quantisan](https://github.com/Quantisan)/[**nullwave**](https://github.com/Quantisan/nullwave)|active noise control for free||
 |11|[@hoxo-m](https://github.com/hoxo-m)/[**dplyr.teradata**](https://github.com/hoxo-m/dplyr.teradata)|A Teradata Backend for dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/dplyr.teradata)|
 |11|[@hoxo-m](https://github.com/hoxo-m)/[**sGMRFmix**](https://github.com/hoxo-m/sGMRFmix)|Sparse Gaussian Markov Random Field Mixtures for Anomaly Detection||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RFinanceJ**](https://github.com/teramonagi/RFinanceJ)|Get the data related to finance in Japan using variety types of data sources||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RODBCDBI**](https://github.com/teramonagi/RODBCDBI)|An implementation of R's DBI interface using ODBC package as a back-end. This allows R to connect to any DBMS that has a ODBC driver.|[:arrow_upper_right:](https://cran.r-project.org/web/packages/RODBCDBI/index.html)|
 |11|[@yutannihilation](https://github.com/yutannihilation)/[**highstockR**](https://github.com/yutannihilation/highstockR)|An R package to draw highstock charts. This is for demonstration purpose of htmlwidgets at 46th Tokyo.R meeting.||
-|10|[@Quantisan](https://github.com/Quantisan)/[**nullwave**](https://github.com/Quantisan/nullwave)|active noise control for free||
 |10|[@yutannihilation](https://github.com/yutannihilation)/[**mediumr**](https://github.com/yutannihilation/mediumr)|R Interface to Medium API||
 |9|[@clear-code](https://github.com/clear-code)/[**sezemi-2014-readable-code**](https://github.com/clear-code/sezemi-2014-readable-code)|SEゼミ「プログラミングが好きな学生のためのリーダブルコード勉強会」関連のデータを置くリポジトリー||
 |9|[@hoxo-m](https://github.com/hoxo-m)/[**densratio**](https://github.com/hoxo-m/densratio)|An R Package for Density Ratio Estimation|[:arrow_upper_right:](https://github.com/hoxo-m/densratio)|
@@ -51,6 +51,7 @@
 |5|[@chezou](https://github.com/chezou)/[**spacyr-sparklyr**](https://github.com/chezou/spacyr-sparklyr)|Example code of spacyr with sparklyr||
 |5|[@dritoshi](https://github.com/dritoshi)/[**orenogb**](https://github.com/dritoshi/orenogb)|Visualization command for genomic data||
 |5|[@hoxo-m](https://github.com/hoxo-m)/[**lambdaR**](https://github.com/hoxo-m/lambdaR)|Novel lambda expressions in R|[:arrow_upper_right:](https://github.com/hoxo-m/lambdaR)|
+|5|[@uribo](https://github.com/uribo)/[**japan_pollinosis**](https://github.com/uribo/japan_pollinosis)|||
 |5|[@uribo](https://github.com/uribo)/[**tst**](https://github.com/uribo/tst)|🔭 Precision Instrument for Geo Spatial Data 🌎||
 |4|[@Quantisan](https://github.com/Quantisan)/[**touzi**](https://github.com/Quantisan/touzi)|A data-driven asset allocation, long-only stock portfolio maker||
 |4|[@TomKellyGenetics](https://github.com/TomKellyGenetics)/[**heatmap.2x**](https://github.com/TomKellyGenetics/heatmap.2x)|Enhancements to Heatmap.2 from the gplots R package||
@@ -69,6 +70,7 @@
 |3|[@PhDMeiwp](https://github.com/PhDMeiwp)/[**Steel.Dwass.test**](https://github.com/PhDMeiwp/Steel.Dwass.test)|🍀an R package for Steel.Dwass.test (Non-parametric method, a post-hoc test after Kruskal-Wallis Test)||
 |3|[@TomKellyGenetics](https://github.com/TomKellyGenetics)/[**vioplotx**](https://github.com/TomKellyGenetics/vioplotx)|A development version of the vioplot R package. This has been migrated to "vioplot" as version 0.3.||
 |3|[@advaitha](https://github.com/advaitha)/[**German-credit-default-analysis**](https://github.com/advaitha/German-credit-default-analysis)|Loan default analysis of German credit dataset||
+|3|[@chezou](https://github.com/chezou)/[**sparklytd**](https://github.com/chezou/sparklytd)|spaklyr plugin for td-spark to connect TD from R||
 |3|[@dichika](https://github.com/dichika)/[**R**](https://github.com/dichika/R)|R code||
 |3|[@dichika](https://github.com/dichika)/[**sinchokur**](https://github.com/dichika/sinchokur)|進捗を支える技術||
 |3|[@dritoshi](https://github.com/dritoshi)/[**jsbi_chipseq**](https://github.com/dritoshi/jsbi_chipseq)|ChIP-seq data analysis with R + Bioconductor||

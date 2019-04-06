@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|716|[@syuilo](https://github.com/syuilo)/[**misskey**](https://github.com/syuilo/misskey)|🌎 A federated blogging platform 🚀|[:arrow_upper_right:](https://misskey.xyz/)|
-|301|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
-|256|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
-|179|[@baku89](https://github.com/baku89)/[**ui-study**](https://github.com/baku89/ui-study)|Parameters UI Study||
-|97|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://vue-fixed-header.potato4d.dev/)|
+|721|[@syuilo](https://github.com/syuilo)/[**misskey**](https://github.com/syuilo/misskey)|🌎 A federated blogging platform 🚀|[:arrow_upper_right:](https://misskey.xyz/)|
+|307|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
+|255|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
+|180|[@baku89](https://github.com/baku89)/[**ui-study**](https://github.com/baku89/ui-study)|Parameters UI Study||
+|99|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://vue-fixed-header.potato4d.dev/)|
 |92|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
-|70|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
+|71|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japanese first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
 |39|[@meganetaaan](https://github.com/meganetaaan)/[**vue-maze**](https://github.com/meganetaaan/vue-maze)|A Vue.js component of a simple maze game.||
 |32|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
 |32|[@miyaoka](https://github.com/miyaoka)/[**grid-generator**](https://github.com/miyaoka/grid-generator)|CSS Grid Layout generator|[:arrow_upper_right:](https://vue-grid-generator.netlify.com/)|
@@ -32,8 +32,8 @@
 |8|[@ixkaito](https://github.com/ixkaito)/[**viewportscaler**](https://github.com/ixkaito/viewportscaler)|Fluid-responsive value/calculation generator for CSS/Sass. To linearly scale font-size, margin, padding, etc. across viewport widths.|[:arrow_upper_right:](https://ixkaito.github.io/viewportscaler/)|
 |7|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**dna-of-forests**](https://github.com/YCAMInterlab/dna-of-forests)|Field Guide “DNA of Forests” - YCAM Bio Research|[:arrow_upper_right:](http://dna-of-forests.ycam.jp/en/)|
 |7|[@ktsn](https://github.com/ktsn)/[**typescript-webpack-simple**](https://github.com/ktsn/typescript-webpack-simple)|A simple TypeScript + Webpack + vue-loader setup.||
+|7|[@morizyun](https://github.com/morizyun)/[**nuxt-edge-serverless-firebase-auth-template**](https://github.com/morizyun/nuxt-edge-serverless-firebase-auth-template)|||
 |6|[@joe-re](https://github.com/joe-re)/[**eslint-vue-typescript-sample**](https://github.com/joe-re/eslint-vue-typescript-sample)|||
-|6|[@morizyun](https://github.com/morizyun)/[**nuxt-edge-serverless-firebase-auth-template**](https://github.com/morizyun/nuxt-edge-serverless-firebase-auth-template)|||
 |6|[@sho-yamane](https://github.com/sho-yamane)/[**nuxt-hp**](https://github.com/sho-yamane/nuxt-hp)|||
 |5|[@argelius](https://github.com/argelius)/[**vue-onsenui**](https://github.com/argelius/vue-onsenui)|Vue components for Onsen UI||
 |5|[@konojunya](https://github.com/konojunya)/[**HEW2018**](https://github.com/konojunya/HEW2018)|🏫 Project of HAL Event Week 2018. Introduction to modern web services using Go, Vue, AWS, Docker and CircleCI.||

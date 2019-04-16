@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |490|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
-|315|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
-|134|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
+|318|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
+|136|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
 |70|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
 |33|[@ikuwow](https://github.com/ikuwow)/[**PatchMatch**](https://github.com/ikuwow/PatchMatch)|The PatchMatch algorithm on MATLAB||
 |26|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
@@ -11,7 +11,6 @@
 |13|[@ikuwow](https://github.com/ikuwow)/[**inpainting_criminisi2004**](https://github.com/ikuwow/inpainting_criminisi2004)|MATLAB Implementation of inpainting Algorithm by A. Criminisi (2004)||
 |11|[@jmlipman](https://github.com/jmlipman)/[**LAID**](https://github.com/jmlipman/LAID)|Lipman's Artificial Intelligence Directory||
 |10|[@bobbens](https://github.com/bobbens)/[**gfmm**](https://github.com/bobbens/gfmm)|Code for the paper 'Geodesic Finite Mixture Model'.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/gfmm/)|
-|9|[@philipperemy](https://github.com/philipperemy)/[**Peer-Group-Analysis-Clustering**](https://github.com/philipperemy/Peer-Group-Analysis-Clustering)|Unsupervised Clustering of Time Series using Peer Group Analysis PGA||
 |8|[@sonots](https://github.com/sonots)/[**cvprtoolbox**](https://github.com/sonots/cvprtoolbox)|Yet Another MATLAB Computer Vision and Pattern Recognition toolbox||
 |6|[@KamitaniLab](https://github.com/KamitaniLab)/[**SOLR**](https://github.com/KamitaniLab/SOLR)|Matlab and Python code for sparse ordinal logistic regression (SOLR).|[:arrow_upper_right:](https://doi.org/10.3389/fninf.2018.00051)|
 |6|[@maxime](https://github.com/maxime)/[**narrative-gps**](https://github.com/maxime/narrative-gps)|An attempt to read the GPS Snapshot files from the Narrative Camera with Matlab||

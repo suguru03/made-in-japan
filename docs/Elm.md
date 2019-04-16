@@ -9,13 +9,13 @@
 |29|[@jinjor](https://github.com/jinjor)/[**elm-debounce**](https://github.com/jinjor/elm-debounce)|Yet another debouncer for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-debounce/latest/)|
 |23|[@shuhei](https://github.com/shuhei)/[**pixelm**](https://github.com/shuhei/pixelm)|A pixel art editor written in Elm|[:arrow_upper_right:](http://shuheikagawa.com/pixelm/)|
 |22|[@3tty0n](https://github.com/3tty0n)/[**elm-online-markdown-editor**](https://github.com/3tty0n/elm-online-markdown-editor)|An online markdown editor written in Elm.|[:arrow_upper_right:](https://3tty0n.github.io/elm-online-markdown-editor/)|
+|14|[@jinjor](https://github.com/jinjor)/[**elm-book**](https://github.com/jinjor/elm-book)|||
+|14|[@jinjor](https://github.com/jinjor)/[**elm-diff**](https://github.com/jinjor/elm-diff)|A diff implementation for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-diff/latest)|
 |14|[@jinjor](https://github.com/jinjor)/[**elm-inline-hover**](https://github.com/jinjor/elm-inline-hover)|An utility for using :hover by inline style|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-inline-hover/latest)|
-|13|[@jinjor](https://github.com/jinjor)/[**elm-book**](https://github.com/jinjor/elm-book)|||
 |13|[@jinjor](https://github.com/jinjor)/[**elm-contextmenu**](https://github.com/jinjor/elm-contextmenu)|Flexible context menu for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-contextmenu/latest)|
-|13|[@jinjor](https://github.com/jinjor)/[**elm-diff**](https://github.com/jinjor/elm-diff)|A diff implementation for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-diff/latest)|
 |12|[@jinjor](https://github.com/jinjor)/[**elm-video-chat**](https://github.com/jinjor/elm-video-chat)|video chat system by Elm||
 |11|[@jinjor](https://github.com/jinjor)/[**elm-binary-decoder**](https://github.com/jinjor/elm-binary-decoder)|Experimental binary decoder|[:arrow_upper_right:](https://jinjor.github.io/elm-binary-decoder/)|
-|9|[@jinjor](https://github.com/jinjor)/[**elm-xml-parser**](https://github.com/jinjor/elm-xml-parser)|XML parser for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-xml-parser/latest)|
+|10|[@jinjor](https://github.com/jinjor)/[**elm-xml-parser**](https://github.com/jinjor/elm-xml-parser)|XML parser for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-xml-parser/latest)|
 |8|[@jinjor](https://github.com/jinjor)/[**elm-transition**](https://github.com/jinjor/elm-transition)|A simple transition library for Elm||
 |8|[@rnons](https://github.com/rnons)/[**elm-svg-loader**](https://github.com/rnons/elm-svg-loader)|A webpack loader that inlines external SVG file into Elm views||
 |7|[@arowM](https://github.com/arowM)/[**elm-reference**](https://github.com/arowM/elm-reference)|An immutable approach to mutable references.|[:arrow_upper_right:](http://package.elm-lang.org/packages/arowM/elm-reference/latest)|
@@ -29,6 +29,7 @@
 |5|[@jinjor](https://github.com/jinjor)/[**elm-reversi**](https://github.com/jinjor/elm-reversi)|Just for joy|[:arrow_upper_right:](https://jinjor.github.io/elm-reversi/)|
 |5|[@suzuki-shin](https://github.com/suzuki-shin)/[**elm-chartjs**](https://github.com/suzuki-shin/elm-chartjs)|Elm bindings for Chart.js||
 |4|[@jinjor](https://github.com/jinjor)/[**elm-large-form-example**](https://github.com/jinjor/elm-large-form-example)|Trying to find the best way|[:arrow_upper_right:](https://jinjor.github.io/elm-large-form-sample/)|
+|4|[@jinjor](https://github.com/jinjor)/[**elm-req**](https://github.com/jinjor/elm-req)|HTTP Request for Elm|[:arrow_upper_right:](https://package.elm-lang.org/packages/jinjor/elm-req/latest/)|
 |4|[@jinjor](https://github.com/jinjor)/[**elm-task-emulator**](https://github.com/jinjor/elm-task-emulator)|task emulator for ports||
 |4|[@jinjor](https://github.com/jinjor)/[**elm-visual-vdom**](https://github.com/jinjor/elm-visual-vdom)|Where in the view is actually rendered?|[:arrow_upper_right:](https://jinjor.github.io/elm-visual-vdom/)|
 |4|[@onevcat](https://github.com/onevcat)/[**elm-2048**](https://github.com/onevcat/elm-2048)|Practice my elm understanding||
@@ -38,7 +39,6 @@
 |3|[@arowM](https://github.com/arowM)/[**elm-monoid**](https://github.com/arowM/elm-monoid)|A module to define generic functions for monoid.||
 |3|[@arowM](https://github.com/arowM)/[**html**](https://github.com/arowM/html)|An elm/html alternative which enables you to batch attributes.|[:arrow_upper_right:](https://package.elm-lang.org/packages/arowM/html/latest/)|
 |3|[@jinjor](https://github.com/jinjor)/[**elm-dropdown**](https://github.com/jinjor/elm-dropdown)|Flexible dropdown menu for Elm||
-|3|[@jinjor](https://github.com/jinjor)/[**elm-req**](https://github.com/jinjor/elm-req)|HTTP Request for Elm|[:arrow_upper_right:](https://package.elm-lang.org/packages/jinjor/elm-req/latest/)|
 |3|[@jinjor](https://github.com/jinjor)/[**gisc-elm**](https://github.com/jinjor/gisc-elm)|Gisc settings for Elm||
 |3|[@jinjor](https://github.com/jinjor)/[**midi-experiments**](https://github.com/jinjor/midi-experiments)|Playing with MIDI|[:arrow_upper_right:](https://jinjor.github.io/midi-experiments/)|
 |3|[@jinjor](https://github.com/jinjor)/[**pianoroll-editor**](https://github.com/jinjor/pianoroll-editor)|Experiment of making piano roll in Elm|[:arrow_upper_right:](https://jinjor.github.io/pianoroll-editor/)|

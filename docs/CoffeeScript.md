@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|7926|[@yhatt](https://github.com/yhatt)/[**marp**](https://github.com/yhatt/marp)|Markdown presentation writer, powered by Electron.|[:arrow_upper_right:](https://yhatt.github.io/marp/)|
+|7942|[@yhatt](https://github.com/yhatt)/[**marp**](https://github.com/yhatt/marp)|Markdown presentation writer, powered by Electron.|[:arrow_upper_right:](https://yhatt.github.io/marp/)|
 |1298|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus**](https://github.com/t9md/atom-vim-mode-plus)|vim-mode improved|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus)|
-|812|[@iizukanao](https://github.com/iizukanao)/[**node-rtsp-rtmp-server**](https://github.com/iizukanao/node-rtsp-rtmp-server)|RTSP/RTMP/HTTP hybrid server||
+|813|[@iizukanao](https://github.com/iizukanao)/[**node-rtsp-rtmp-server**](https://github.com/iizukanao/node-rtsp-rtmp-server)|RTSP/RTMP/HTTP hybrid server||
 |442|[@fulmicoton](https://github.com/fulmicoton)/[**fattable**](https://github.com/fulmicoton/fattable)|Javascript Library to create scrollable table with infinite rows and columns.||
-|327|[@tmtk75](https://github.com/tmtk75)/[**jumly**](https://github.com/tmtk75/jumly)|Rendering engine for UML diagrams in JavaScript|[:arrow_upper_right:](http://jumly.tmtk.net/)|
-|304|[@cognitom](https://github.com/cognitom)/[**gulp-sketch**](https://github.com/cognitom/gulp-sketch)|A SketchTool plugin for gulp||
+|326|[@tmtk75](https://github.com/tmtk75)/[**jumly**](https://github.com/tmtk75/jumly)|Rendering engine for UML diagrams in JavaScript|[:arrow_upper_right:](http://jumly.tmtk.net/)|
+|305|[@cognitom](https://github.com/cognitom)/[**gulp-sketch**](https://github.com/cognitom/gulp-sketch)|A SketchTool plugin for gulp||
 |237|[@k2nr](https://github.com/k2nr)/[**ViChrome**](https://github.com/k2nr/ViChrome)|vi like key binds for Google Chrome||
 |223|[@yuki540net](https://github.com/yuki540net)/[**satella.io**](https://github.com/yuki540net/satella.io)|イラストに「命」を吹き込むソフトウェア||
 |216|[@mizchi](https://github.com/mizchi)/[**arda**](https://github.com/mizchi/arda)|Meta-Flux Framework||
@@ -13,7 +13,7 @@
 |118|[@knu](https://github.com/knu)/[**noreferrer**](https://github.com/knu/noreferrer)|Cross-browser support for HTML5's noreferrer link type.||
 |117|[@yujinakayama](https://github.com/yujinakayama)/[**atom-lint**](https://github.com/yujinakayama/atom-lint)|Obsolete: Generic code linting support for Atom|[:arrow_upper_right:](https://atom.io/packages/atom-lint)|
 |108|[@jaicab](https://github.com/jaicab)/[**Paraxify.js**](https://github.com/jaicab/Paraxify.js)|Progressive enhancement on parallax inspired by Spotify's|[:arrow_upper_right:](http://jaicab.com/Paraxify.js/)|
-|99|[@koba04](https://github.com/koba04)/[**vuejs-book**](https://github.com/koba04/vuejs-book)|This book is vue.js guide book.|[:arrow_upper_right:](http://koba04.github.io/vuejs-book)|
+|100|[@koba04](https://github.com/koba04)/[**vuejs-book**](https://github.com/koba04/vuejs-book)|This book is vue.js guide book.|[:arrow_upper_right:](http://koba04.github.io/vuejs-book)|
 |95|[@naoya](https://github.com/naoya)/[**hubot-sushiyuki**](https://github.com/naoya/hubot-sushiyuki)|||
 |92|[@aki77](https://github.com/aki77)/[**atom-expand-region**](https://github.com/aki77/atom-expand-region)|expanding selection|[:arrow_upper_right:](https://atom.io/packages/expand-region)|
 |92|[@yuki540net](https://github.com/yuki540net)/[**toa**](https://github.com/yuki540net/toa)|シンプルで可愛いミュージックプレイヤー「兎亜」||
@@ -21,7 +21,7 @@
 |83|[@cognitom](https://github.com/cognitom)/[**tokoro**](https://github.com/cognitom/tokoro)|住所緯度経度変換ライブラリ (ジオコーディング)|[:arrow_upper_right:](http://cognitom.github.io/tokoro/)|
 |81|[@SimeonC](https://github.com/SimeonC)/[**ngRepeatReorder**](https://github.com/SimeonC/ngRepeatReorder)|||
 |79|[@fukayatsu](https://github.com/fukayatsu)/[**esarea**](https://github.com/fukayatsu/esarea)|Enjoy (\( ⁰⊖⁰)/) markdown!|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/esarea/pjhancoeamcahkmbmgoonbaggjbpijoc)|
-|76|[@lepture](https://github.com/lepture)/[**flask-turbolinks**](https://github.com/lepture/flask-turbolinks)|Turbolinks for Flask.||
+|77|[@lepture](https://github.com/lepture)/[**flask-turbolinks**](https://github.com/lepture/flask-turbolinks)|Turbolinks for Flask.||
 |73|[@satococoa](https://github.com/satococoa)/[**atom-rubymotion**](https://github.com/satococoa/atom-rubymotion)|RubyMotion support in Atom|[:arrow_upper_right:](https://atom.io/packages/RubyMotion)|
 |73|[@yuki540net](https://github.com/yuki540net)/[**wakaba**](https://github.com/yuki540net/wakaba)|PC画面上にコメントが流せるデスクトップアプリ「若葉」||
 |71|[@sakatam](https://github.com/sakatam)/[**hubot-reviewer-lotto**](https://github.com/sakatam/hubot-reviewer-lotto)|A reviewer lottery script for Hubot||
@@ -36,9 +36,9 @@
 |48|[@harai](https://github.com/harai)/[**indent-guide-improved**](https://github.com/harai/indent-guide-improved)|Improved indent guides for Atom Editor|[:arrow_upper_right:](https://atom.io/packages/indent-guide-improved)|
 |48|[@mizchi](https://github.com/mizchi)/[**horn.js**](https://github.com/mizchi/horn.js)|simple reactive view framework inspired by knockout, angular and backbone||
 |46|[@buhrmi](https://github.com/buhrmi)/[**hashgraph-js**](https://github.com/buhrmi/hashgraph-js)|A "proof-of-concept" hashgraph implementation on IPFS that doesn't work||
-|45|[@cognitom](https://github.com/cognitom)/[**symbol-font-in-web**](https://github.com/cognitom/symbol-font-in-web)|||
 |44|[@bouzuya](https://github.com/bouzuya)/[**hubot-twada**](https://github.com/bouzuya/hubot-twada)|A Hubot script that returns a t_wada.png||
 |44|[@cognitom](https://github.com/cognitom)/[**gulp-slim**](https://github.com/cognitom/gulp-slim)|Slim plugin for gulp|[:arrow_upper_right:](https://www.npmjs.org/package/gulp-slim)|
+|44|[@cognitom](https://github.com/cognitom)/[**symbol-font-in-web**](https://github.com/cognitom/symbol-font-in-web)|||
 |44|[@matsukaz](https://github.com/matsukaz)/[**hubot-schedule**](https://github.com/matsukaz/hubot-schedule)|A hubot script to schedule a message in both cron-style and datetime-based format pattern||
 |43|[@mizchi](https://github.com/mizchi)/[**stone-skin**](https://github.com/mizchi/stone-skin)|Isomorphic IndexedDb and in memory db wrapper.||
 |42|[@shokai](https://github.com/shokai)/[**node-arduino-firmata**](https://github.com/shokai/node-arduino-firmata)|Arduino Firmata protocol implementation on Node.js|[:arrow_upper_right:](https://npmjs.org/package/arduino-firmata)|
@@ -79,13 +79,14 @@
 |22|[@mizchi](https://github.com/mizchi)/[**reiny**](https://github.com/mizchi/reiny)|Template engine for React / Mithril / Mercury||
 |21|[@dtaniwaki](https://github.com/dtaniwaki)/[**hubot-alias**](https://github.com/dtaniwaki/hubot-alias)|Action alias for hubot||
 |21|[@t9md](https://github.com/t9md)/[**atom-lazy-motion**](https://github.com/t9md/atom-lazy-motion)|Rapid cursor positioning with fuzzy search.|[:arrow_upper_right:](https://atom.io/packages/lazy-motion)|
+|19|[@gimite](https://github.com/gimite)/[**mjai-manue**](https://github.com/gimite/mjai-manue)|Japanese Mahjong AI.||
 |19|[@moqada](https://github.com/moqada)/[**hubot-misawa**](https://github.com/moqada/hubot-misawa)|惚れさせ男子データベースから地獄のミサワ画像を返す hubot-scripts||
 |19|[@ngs](https://github.com/ngs)/[**hubot-irkit**](https://github.com/ngs/hubot-irkit)|A Hubot script to control IRKit the hackable remote controller.|[:arrow_upper_right:](https://www.npmjs.org/package/hubot-irkit)|
 |19|[@stomita](https://github.com/stomita)/[**salesforce-reactjs-spa-starter**](https://github.com/stomita/salesforce-reactjs-spa-starter)|A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)||
 |18|[@bouzuya](https://github.com/bouzuya)/[**hubot-docomo-dialogue**](https://github.com/bouzuya/hubot-docomo-dialogue)|A Hubot script that calls the docomo dialogue API||
 |18|[@dtaniwaki](https://github.com/dtaniwaki)/[**hubot-tabelog**](https://github.com/dtaniwaki/hubot-tabelog)|Pick up a restaurant to go||
-|18|[@gimite](https://github.com/gimite)/[**mjai-manue**](https://github.com/gimite/mjai-manue)|Japanese Mahjong AI.||
 |18|[@mizchi](https://github.com/mizchi)/[**momic**](https://github.com/mizchi/momic)|||
+|18|[@soutaro](https://github.com/soutaro)/[**pull-request-conditional-merge**](https://github.com/soutaro/pull-request-conditional-merge)|Merge GitHub pull request when CI passes||
 |18|[@t9md](https://github.com/t9md)/[**atom-open-this**](https://github.com/t9md/atom-open-this)|Open file under cursor like `gf`(Vim), `C-x C-f`(Emacs)|[:arrow_upper_right:](https://atom.io/packages/open-this)|
 |18|[@yoshiori](https://github.com/yoshiori)/[**hubot-scorekeeper**](https://github.com/yoshiori/hubot-scorekeeper)|hubot scorekeeper|[:arrow_upper_right:](https://www.npmjs.org/package/hubot-scorekeeper)|
 |17|[@buhrmi](https://github.com/buhrmi)/[**hashgraph**](https://github.com/buhrmi/hashgraph)|A "proof-of-concept" hashgraph implementation on IPFS||
@@ -95,7 +96,6 @@
 |17|[@nulab](https://github.com/nulab)/[**hubot-typetalk**](https://github.com/nulab/hubot-typetalk)|A hubot adapter for Typetalk.|[:arrow_upper_right:](https://www.npmjs.org/package/hubot-typetalk)|
 |17|[@sakatam](https://github.com/sakatam)/[**hubot-yo**](https://github.com/sakatam/hubot-yo)|the most useless hubot script||
 |17|[@sakatam](https://github.com/sakatam)/[**node-yo-api**](https://github.com/sakatam/node-yo-api)|freakin' simple yo api wrapper for nodejs||
-|17|[@soutaro](https://github.com/soutaro)/[**pull-request-conditional-merge**](https://github.com/soutaro/pull-request-conditional-merge)|Merge GitHub pull request when CI passes||
 |17|[@yhatt](https://github.com/yhatt)/[**mdslide**](https://github.com/yhatt/mdslide)|[MOVED] mdSlide has been renamed to Marp →|[:arrow_upper_right:](https://github.com/yhatt/marp)|
 |17|[@yuki540net](https://github.com/yuki540net)/[**onsen-node**](https://github.com/yuki540net/onsen-node)|声優ラジオサイト「音泉」APIライブラリ for Node.js||
 |16|[@banyan](https://github.com/banyan)/[**gzip-brunch**](https://github.com/banyan/gzip-brunch)|Adds gzip support to brunch||
@@ -199,6 +199,7 @@
 |8|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus-move-selected-text**](https://github.com/t9md/atom-vim-mode-plus-move-selected-text)|Move selected text like object|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus-move-selected-text)|
 |8|[@unasuke](https://github.com/unasuke)/[**do-not-use-atom**](https://github.com/unasuke/do-not-use-atom)|DO NOT USE ATOM! You should use vim or emacs. OK?||
 |8|[@yoshiori](https://github.com/yoshiori)/[**kamina**](https://github.com/yoshiori/kamina)|file watch and browser reload||
+|7|[@bokuweb](https://github.com/bokuweb)/[**react-blog-sample**](https://github.com/bokuweb/react-blog-sample)|Blog system sample on Node.js, Express.js, MongoDB and React.js||
 |7|[@cognitom](https://github.com/cognitom)/[**electron-starter**](https://github.com/cognitom/electron-starter)|Electron Sample Application||
 |7|[@cognitom](https://github.com/cognitom)/[**gulp-handbook**](https://github.com/cognitom/gulp-handbook)|gulp.js Handbook||
 |7|[@cognitom](https://github.com/cognitom)/[**gulp-phantom**](https://github.com/cognitom/gulp-phantom)|PhantomJS plugin for gulp|[:arrow_upper_right:](https://www.npmjs.org/package/gulp-phantom)|
@@ -225,7 +226,6 @@
 |6|[@Sixeight](https://github.com/Sixeight)/[**douglas**](https://github.com/Sixeight/douglas)|the ghq interface for Atom.|[:arrow_upper_right:](https://atom.io/packages/douglas)|
 |6|[@banyan](https://github.com/banyan)/[**hubot-gh-release-pr**](https://github.com/banyan/hubot-gh-release-pr)|A hubot script to create GitHub's PR for release||
 |6|[@banyan](https://github.com/banyan)/[**pending-pr**](https://github.com/banyan/pending-pr)|||
-|6|[@bokuweb](https://github.com/bokuweb)/[**react-blog-sample**](https://github.com/bokuweb/react-blog-sample)|Blog system sample on Node.js, Express.js, MongoDB and React.js||
 |6|[@bouzuya](https://github.com/bouzuya)/[**hubot-pr**](https://github.com/bouzuya/hubot-pr)|A Hubot script that list / merge the pull request||
 |6|[@buhrmi](https://github.com/buhrmi)/[**open-core-webapp**](https://github.com/buhrmi/open-core-webapp)|Web application to interact with the Open Core & Stellar Core Network.||
 |6|[@claudetech](https://github.com/claudetech)/[**grunt-i18n-static**](https://github.com/claudetech/grunt-i18n-static)|Grunt task for static-i18n|[:arrow_upper_right:](https://www.npmjs.com/package/grunt-i18n-static)|
@@ -343,6 +343,7 @@
 |4|[@mtsmfm](https://github.com/mtsmfm)/[**node-idobata-client**](https://github.com/mtsmfm/node-idobata-client)|||
 |4|[@nakajijapan](https://github.com/nakajijapan)/[**jquery-cool-grid**](https://github.com/nakajijapan/jquery-cool-grid)|calclate item's height and show items||
 |4|[@ngs](https://github.com/ngs)/[**hubpix**](https://github.com/ngs/hubpix)|Drag, drop and commit pictures to GitHub|[:arrow_upper_right:](https://hubpix.herokuapp.com/)|
+|4|[@nju33](https://github.com/nju33)/[**atom-pane-browser**](https://github.com/nju33/atom-pane-browser)|🗿 An browser on Atom|[:arrow_upper_right:](https://atom.io/packages/pane-browser)|
 |4|[@norio-nomura](https://github.com/norio-nomura)/[**linter-sourcekitten-syntax**](https://github.com/norio-nomura/linter-sourcekitten-syntax)|Provide syntax information to Swift files using sourcekitten||
 |4|[@ryonakae](https://github.com/ryonakae)/[**gulp-jade-stylus-es6-boilerplate**](https://github.com/ryonakae/gulp-jade-stylus-es6-boilerplate)|Boilerplate of jade, stylus and es6 by gulp.||
 |4|[@saiten](https://github.com/saiten)/[**titanium-template-project**](https://github.com/saiten/titanium-template-project)|自分用Titaniumテンプレートプロジェクト||
@@ -429,7 +430,6 @@
 |3|[@nakajmg](https://github.com/nakajmg)/[**local-server-express**](https://github.com/nakajmg/local-server-express)|Local server for Atom via Express.||
 |3|[@nayutaya](https://github.com/nayutaya)/[**lamjet**](https://github.com/nayutaya/lamjet)|AWS Lambda + Jasmine + CoffeeScript = Lamjet!||
 |3|[@nekobato](https://github.com/nekobato)/[**endnanonna**](https://github.com/nekobato/endnanonna)|EDのこれは寂しいのんな||
-|3|[@nju33](https://github.com/nju33)/[**atom-pane-browser**](https://github.com/nju33/atom-pane-browser)|🗿 An browser on Atom|[:arrow_upper_right:](https://atom.io/packages/pane-browser)|
 |3|[@noraesae](https://github.com/noraesae)/[**neutron**](https://github.com/noraesae/neutron)|No more Sublime Text.||
 |3|[@ntddk](https://github.com/ntddk)/[**iscbot**](https://github.com/ntddk/iscbot)|slack-hubot for Keio University ISC [Internet Security Center]||
 |3|[@oke-ya](https://github.com/oke-ya)/[**hubot**](https://github.com/oke-ya/hubot)|||

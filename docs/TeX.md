@@ -8,8 +8,8 @@
 |54|[@tkamishima](https://github.com/tkamishima)/[**recsysdoc**](https://github.com/tkamishima/recsysdoc)|Algorithms of Recommender Systems : A survey paper of recommender systems (written in Japanese)|[:arrow_upper_right:](http://www.kamishima.net/archive/recsysdoc.pdf)|
 |47|[@hamano](https://github.com/hamano)/[**the-little-mongodb-book**](https://github.com/hamano/the-little-mongodb-book)|MongoDBの薄い本(The Little MongoDB Book)|[:arrow_upper_right:](http://www.cuspy.org/diary/2012-04-17)|
 |47|[@kmaed](https://github.com/kmaed)/[**kmbeamer**](https://github.com/kmaed/kmbeamer)|My themes for Beamer.||
-|46|[@mizzy](https://github.com/mizzy)/[**serverspec-thesis**](https://github.com/mizzy/serverspec-thesis)|||
-|37|[@vvakame](https://github.com/vvakame)/[**graphql-with-go-book**](https://github.com/vvakame/graphql-with-go-book)||[:arrow_upper_right:](https://vvakame.booth.pm/items/1055228)|
+|47|[@mizzy](https://github.com/mizzy)/[**serverspec-thesis**](https://github.com/mizzy/serverspec-thesis)|||
+|41|[@vvakame](https://github.com/vvakame)/[**graphql-with-go-book**](https://github.com/vvakame/graphql-with-go-book)||[:arrow_upper_right:](https://vvakame.booth.pm/items/1055228)|
 |35|[@pi8027](https://github.com/pi8027)/[**typeinfer**](https://github.com/pi8027/typeinfer)|Type inference in OCaml|[:arrow_upper_right:](https://github.com/pi8027/typeinfer)|
 |29|[@ryuichiueda](https://github.com/ryuichiueda)/[**ShellGeiData**](https://github.com/ryuichiueda/ShellGeiData)|Files for practice of shellgei||
 |25|[@jilljenn](https://github.com/jilljenn)/[**business-card**](https://github.com/jilljenn/business-card)|A business card in LaTeX||
@@ -25,13 +25,13 @@
 |13|[@okomok](https://github.com/okomok)/[**strcat**](https://github.com/okomok/strcat)|TeX files for summary of category theory||
 |12|[@hamano](https://github.com/hamano)/[**zguide-ja**](https://github.com/hamano/zguide-ja)|||
 |12|[@laysakura](https://github.com/laysakura)/[**TheoryOfComputation**](https://github.com/laysakura/TheoryOfComputation)|A memo of a lecture on Theory of Computation in the University of Tokyo.||
-|11|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**PythonRoboticsPaper**](https://github.com/AtsushiSakai/PythonRoboticsPaper)|PythonRoboticsPaper||
+|10|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**PythonRoboticsPaper**](https://github.com/AtsushiSakai/PythonRoboticsPaper)|PythonRoboticsPaper||
+|10|[@kmaed](https://github.com/kmaed)/[**biblatex-japanese**](https://github.com/kmaed/biblatex-japanese)|Japanese language support for biblatex||
 |10|[@masui](https://github.com/masui)/[**GitHelp**](https://github.com/masui/GitHelp)|GitコマンドのヘルプをExpandHelpで||
 |9|[@2K20TC](https://github.com/2K20TC)/[**data-structures-tutorial**](https://github.com/2K20TC/data-structures-tutorial)|HackerEarth Data Structures practice series||
 |9|[@acgotaku](https://github.com/acgotaku)/[**USTC-SSE-THESIS**](https://github.com/acgotaku/USTC-SSE-THESIS)|适用于中科大软件学院工程硕士的Latex模板||
-|9|[@kmaed](https://github.com/kmaed)/[**biblatex-japanese**](https://github.com/kmaed/biblatex-japanese)|Japanese language support for biblatex||
+|9|[@sonots](https://github.com/sonots)/[**cvprtoolbox-project**](https://github.com/sonots/cvprtoolbox-project)|Real projects solving problems using https://github.com/sonots/cvprtoolbox||
 |9|[@ueokande](https://github.com/ueokande)/[**jletteraddress**](https://github.com/ueokande/jletteraddress)|A document class of LaTeX for address side of the Japanese letter.||
-|8|[@sonots](https://github.com/sonots)/[**cvprtoolbox-project**](https://github.com/sonots/cvprtoolbox-project)|Real projects solving problems using https://github.com/sonots/cvprtoolbox||
 |8|[@uwabami](https://github.com/uwabami)/[**beamerthemeKansaiDebianMeeting**](https://github.com/uwabami/beamerthemeKansaiDebianMeeting)|latex-beamer theme for KansaiDebianMeeting||
 |7|[@kmaed](https://github.com/kmaed)/[**pdffill**](https://github.com/kmaed/pdffill)|LaTeX macros to fill in PDF.||
 |7|[@masui](https://github.com/masui)/[**EpisoPass**](https://github.com/masui/EpisoPass)|EpisoPass - creating passwords from episodic memory||

@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|754|[@lloydmeta](https://github.com/lloydmeta)/[**enumeratum**](https://github.com/lloydmeta/enumeratum)|A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations.||
-|640|[@seratch](https://github.com/seratch)/[**AWScala**](https://github.com/seratch/AWScala)|Using AWS SDK on the Scala REPL||
-|596|[@ktoso](https://github.com/ktoso)/[**sbt-jmh**](https://github.com/ktoso/sbt-jmh)|"Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)|[:arrow_upper_right:](http://kto.so)|
-|515|[@tototoshi](https://github.com/tototoshi)/[**scala-csv**](https://github.com/tototoshi/scala-csv)|CSV Reader/Writer for Scala||
+|756|[@lloydmeta](https://github.com/lloydmeta)/[**enumeratum**](https://github.com/lloydmeta/enumeratum)|A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations.||
+|644|[@seratch](https://github.com/seratch)/[**AWScala**](https://github.com/seratch/AWScala)|Using AWS SDK on the Scala REPL||
+|597|[@ktoso](https://github.com/ktoso)/[**sbt-jmh**](https://github.com/ktoso/sbt-jmh)|"Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)|[:arrow_upper_right:](http://kto.so)|
+|520|[@tototoshi](https://github.com/tototoshi)/[**scala-csv**](https://github.com/tototoshi/scala-csv)|CSV Reader/Writer for Scala||
 |489|[@nulab](https://github.com/nulab)/[**scala-oauth2-provider**](https://github.com/nulab/scala-oauth2-provider)|OAuth 2.0 server-side implementation written in Scala||
 |247|[@ktoso](https://github.com/ktoso)/[**akka-raft**](https://github.com/ktoso/akka-raft)|A toy project implementing RAFT on top of Akka Cluster (not prod ready)|[:arrow_upper_right:](http://blog.project13.pl)|
 |242|[@tototoshi](https://github.com/tototoshi)/[**slick-joda-mapper**](https://github.com/tototoshi/slick-joda-mapper)|Slick with JodaTime||
 |160|[@kxbmap](https://github.com/kxbmap)/[**configs**](https://github.com/kxbmap/configs)|Scala wrapper for Typesafe config||
 |160|[@mumoshu](https://github.com/mumoshu)/[**play2-memcached**](https://github.com/mumoshu/play2-memcached)|A memcached plugin for Play 2.x||
-|116|[@TanUkkii007](https://github.com/TanUkkii007)/[**akka-cluster-custom-downing**](https://github.com/TanUkkii007/akka-cluster-custom-downing)|akka-cluster-custom-downing provides configurable auto-downing strategy you can choose based on your distributed application design.||
+|118|[@TanUkkii007](https://github.com/TanUkkii007)/[**akka-cluster-custom-downing**](https://github.com/TanUkkii007/akka-cluster-custom-downing)|akka-cluster-custom-downing provides configurable auto-downing strategy you can choose based on your distributed application design.||
 |107|[@lloydmeta](https://github.com/lloydmeta)/[**schwatcher**](https://github.com/lloydmeta/schwatcher)|File-watching library for Scala. Built on Java 7's WatchService, RxScala and Akka actors.||
 |102|[@lloydmeta](https://github.com/lloydmeta)/[**diesel**](https://github.com/lloydmeta/diesel)|Boilerplate-free, zero-overhead Tagless Final / typed-final / Finally Tagless DSLs in Scala||
 |90|[@akisaarinen](https://github.com/akisaarinen)/[**rillit**](https://github.com/akisaarinen/rillit)|Boilerplate-free Functional Lenses for Scala 2.10||
@@ -21,8 +21,8 @@
 |73|[@lloydmeta](https://github.com/lloydmeta)/[**metascraper**](https://github.com/lloydmeta/metascraper)|Scala library for scraping metadata from specified URLs (e.g. OpenGraph)||
 |71|[@lloydmeta](https://github.com/lloydmeta)/[**slim-play**](https://github.com/lloydmeta/slim-play)|Slim Play app||
 |68|[@xuwei-k](https://github.com/xuwei-k)/[**sbt-class-diagram**](https://github.com/xuwei-k/sbt-class-diagram)|sbt plugin to create a class diagram||
-|67|[@mumoshu](https://github.com/mumoshu)/[**play2-typescript**](https://github.com/mumoshu/play2-typescript)|TypeScript assets handling for Play 2.0. Compiles .ts files under the /assets dir along with the project.||
 |67|[@xuwei-k](https://github.com/xuwei-k)/[**httpz**](https://github.com/xuwei-k/httpz)|purely functional http client with scalaz.Free|[:arrow_upper_right:](https://javadoc-badge.appspot.com/com.github.xuwei-k/httpz_2.12/httpz/index.html)|
+|66|[@mumoshu](https://github.com/mumoshu)/[**play2-typescript**](https://github.com/mumoshu/play2-typescript)|TypeScript assets handling for Play 2.0. Compiles .ts files under the /assets dir along with the project.||
 |65|[@ktoso](https://github.com/ktoso)/[**scala-rainbow**](https://github.com/ktoso/scala-rainbow)|Super simple terminal output colorizing for Scala||
 |60|[@okapies](https://github.com/okapies)/[**finagle-kafka**](https://github.com/okapies/finagle-kafka)|An Apache Kafka client in Netty and Finagle.||
 |57|[@kiszk](https://github.com/kiszk)/[**spark-gpu**](https://github.com/kiszk/spark-gpu)|Spark GPU and SIMD Support||
@@ -39,8 +39,8 @@
 |42|[@halcat0x15a](https://github.com/halcat0x15a)/[**kits**](https://github.com/halcat0x15a/kits)|A lightweight library for functional programming.||
 |38|[@mmizutani](https://github.com/mmizutani)/[**sbt-play-gulp**](https://github.com/mmizutani/sbt-play-gulp)|Gulp asset pipeline for Play Framework||
 |35|[@everpeace](https://github.com/everpeace)/[**ml-examples-by-scalala**](https://github.com/everpeace/ml-examples-by-scalala)|Machine Learning Algorithms Samples By Scalala||
+|34|[@lloydmeta](https://github.com/lloydmeta)/[**rhodddoobie**](https://github.com/lloydmeta/rhodddoobie)|My little sandbox for playing around with the FP + OOP + DDD combination, in particular using Rho, doobie, Docker, testing, etc in a project. ||
 |33|[@ktoso](https://github.com/ktoso)/[**akka-http-mini-workshop**](https://github.com/ktoso/akka-http-mini-workshop)|||
-|33|[@lloydmeta](https://github.com/lloydmeta)/[**rhodddoobie**](https://github.com/lloydmeta/rhodddoobie)|My little sandbox for playing around with the FP + OOP + DDD combination, in particular using Rho, doobie, Docker, testing, etc in a project. ||
 |32|[@chatwork](https://github.com/chatwork)/[**scala-quiz**](https://github.com/chatwork/scala-quiz)|||
 |31|[@kmizu](https://github.com/kmizu)/[**jsonda**](https://github.com/kmizu/jsonda)|A DSL for constructing json-like data sturctures|[:arrow_upper_right:](http://kmizu.github.com/jsonda)|
 |31|[@yuroyoro](https://github.com/yuroyoro)/[**scala-hackathon**](https://github.com/yuroyoro/scala-hackathon)|Scala発火村の資料ですお|[:arrow_upper_right:](http://d.hatena.ne.jp/yuroyoro/)|
@@ -90,18 +90,18 @@
 |17|[@everpeace](https://github.com/everpeace)/[**healthchecks**](https://github.com/everpeace/healthchecks)|tiny healthcheck library for akka-http with Kubernetes liveness/readiness probe support|[:arrow_upper_right:](https://github.com/everpeace/healthchecks)|
 |17|[@kmizu](https://github.com/kmizu)/[**pegex**](https://github.com/kmizu/pegex)|A PEG-based pattern matching library EXtended by back reference with regex-like notation in Scala|[:arrow_upper_right:](http://github.com/kmizu/pegex)|
 |17|[@ktoso](https://github.com/ktoso)/[**scaladays-berlin-akka-streams**](https://github.com/ktoso/scaladays-berlin-akka-streams)|||
+|17|[@nulab](https://github.com/nulab)/[**play2-oauth2-provider**](https://github.com/nulab/play2-oauth2-provider)|This library is enabled using scala-oauth2-provider in Play Framework||
 |16|[@chatwork](https://github.com/chatwork)/[**sbt-aws**](https://github.com/chatwork/sbt-aws)|sbt-aws is a plugin for aws||
 |16|[@kmizu](https://github.com/kmizu)/[**macro_peg**](https://github.com/kmizu/macro_peg)|Macro PEG: PEG with macro-like rules||
+|16|[@ktoso](https://github.com/ktoso)/[**scala-macro-method-alias**](https://github.com/ktoso/scala-macro-method-alias)|Scala 2.10 macros that help you delegate to other methods declaratively||
 |16|[@maropu](https://github.com/maropu)/[**spark-sql-server**](https://github.com/maropu/spark-sql-server)|Yet Another Spark SQL JDBC/ODBC server based on the PostgreSQL V3 protocol ||
 |16|[@nulab](https://github.com/nulab)/[**akka-http-oauth2-provider**](https://github.com/nulab/akka-http-oauth2-provider)|This library is enabled using scala-oauth2-provider in Akka HTTP||
-|16|[@nulab](https://github.com/nulab)/[**play2-oauth2-provider**](https://github.com/nulab/play2-oauth2-provider)|This library is enabled using scala-oauth2-provider in Play Framework||
 |16|[@pocketberserker](https://github.com/pocketberserker)/[**scala-logic**](https://github.com/pocketberserker/scala-logic)|||
 |16|[@todesking](https://github.com/todesking)/[**scala-pp**](https://github.com/todesking/scala-pp)|Pretty print objects for debugging purpose. Like Ruby's `pp`||
 |16|[@tototoshi](https://github.com/tototoshi)/[**scala-js-slide**](https://github.com/tototoshi/scala-js-slide)|slide show written in Scala.js||
 |16|[@xuwei-k](https://github.com/xuwei-k)/[**javadoc-badge**](https://github.com/xuwei-k/javadoc-badge)|Badge for Javadoc (or any other jvm doc). redirect to sonatype or javadoc.io||
 |15|[@codelibs](https://github.com/codelibs)/[**gitbucket-fess-plugin**](https://github.com/codelibs/gitbucket-fess-plugin)|GitBucket plugin for Fess||
 |15|[@dakatsuka](https://github.com/dakatsuka)/[**akka-http-oauth2-client**](https://github.com/dakatsuka/akka-http-oauth2-client)|A Scala wrapper for OAuth 2.0 with Akka HTTP||
-|15|[@ktoso](https://github.com/ktoso)/[**scala-macro-method-alias**](https://github.com/ktoso/scala-macro-method-alias)|Scala 2.10 macros that help you delegate to other methods declaratively||
 |15|[@okomok](https://github.com/okomok)/[**mada**](https://github.com/okomok/mada)|A General Purpose Library for Scala (Deprecated)|[:arrow_upper_right:](http://okomok.github.com/mada)|
 |15|[@todesking](https://github.com/todesking)/[**sbt-conflict-classes**](https://github.com/todesking/sbt-conflict-classes)|||
 |15|[@yuroyoro](https://github.com/yuroyoro)/[**scala-websocket**](https://github.com/yuroyoro/scala-websocket)|Sample applications of websocket  on jetty 7 that written by scala.|[:arrow_upper_right:](http://d.hatena.ne.jp/yuroyoro)|
@@ -114,6 +114,7 @@
 |14|[@yuroyoro](https://github.com/yuroyoro)/[**InteractiveHelp**](https://github.com/yuroyoro/InteractiveHelp)|InteractiveHelp|[:arrow_upper_right:](http://d.hatena.ne.jp/yuroyoro/20090901/1251780579)|
 |13|[@akisaarinen](https://github.com/akisaarinen)/[**smartdiet**](https://github.com/akisaarinen/smartdiet)|SmartDiet analysis toolkit for Android||
 |13|[@everpeace](https://github.com/everpeace)/[**rxscalaz**](https://github.com/everpeace/rxscalaz)|some useful type class instances for Observable||
+|13|[@j5ik2o](https://github.com/j5ik2o)/[**reactive-aws-clients**](https://github.com/j5ik2o/reactive-aws-clients)|AWS Client libraries for Scala (Automatic generation from AWS source code)||
 |13|[@seratch](https://github.com/seratch)/[**sadamasashi-compiler**](https://github.com/seratch/sadamasashi-compiler)|さだまさしコンパイラ|[:arrow_upper_right:](http://qiita.com/seratch@github/items/3be26b584f3d74aa1150)|
 |13|[@todesking](https://github.com/todesking)/[**Unveil**](https://github.com/todesking/Unveil)|Runtime JVM Bytecode optimizer||
 |13|[@tototoshi](https://github.com/tototoshi)/[**play-joda-routes-binder**](https://github.com/tototoshi/play-joda-routes-binder)|QueryString / Path Binder for Play 2.x||
@@ -126,7 +127,6 @@
 |12|[@tototoshi](https://github.com/tototoshi)/[**scala-fixture**](https://github.com/tototoshi/scala-fixture)|Simple fixture library for Scala||
 |12|[@xuwei-k](https://github.com/xuwei-k)/[**zeroapply**](https://github.com/xuwei-k/zeroapply)|zero cost Apply/Applicative syntax||
 |11|[@TanUkkii007](https://github.com/TanUkkii007)/[**reactive-zookeeper**](https://github.com/TanUkkii007/reactive-zookeeper)|Let-it-crash style ZooKeeper client based on Akka actor||
-|11|[@j5ik2o](https://github.com/j5ik2o)/[**reactive-aws-clients**](https://github.com/j5ik2o/reactive-aws-clients)|AWS Client libraries for Scala||
 |11|[@j5ik2o](https://github.com/j5ik2o)/[**spetstore-cqrs-es-akka**](https://github.com/j5ik2o/spetstore-cqrs-es-akka)|||
 |11|[@ktoso](https://github.com/ktoso)/[**akka-streams-alpakka-talk-demos-2016**](https://github.com/ktoso/akka-streams-alpakka-talk-demos-2016)|||
 |11|[@kurochan](https://github.com/kurochan)/[**logback-stackdriver-logging**](https://github.com/kurochan/logback-stackdriver-logging)|||
@@ -220,6 +220,7 @@
 |6|[@daiksy](https://github.com/daiksy)/[**dmm4s**](https://github.com/daiksy/dmm4s)|DMM WebAPI for Scala||
 |6|[@halcat0x15a](https://github.com/halcat0x15a)/[**erltype**](https://github.com/halcat0x15a/erltype)|||
 |6|[@j5ik2o](https://github.com/j5ik2o)/[**forseti**](https://github.com/j5ik2o/forseti)|The OAuth2 and OpenID Connect library for Scala||
+|6|[@j5ik2o](https://github.com/j5ik2o)/[**wallet-akka**](https://github.com/j5ik2o/wallet-akka)|||
 |6|[@kmizu](https://github.com/kmizu)/[**scomb**](https://github.com/kmizu/scomb)|SComb: Simple but Powerful Parser Combinator Library||
 |6|[@koduki](https://github.com/koduki)/[**QucikStart_Scala_on_GAE**](https://github.com/koduki/QucikStart_Scala_on_GAE)|Google App Engine Sample with Scala.||
 |6|[@koduki](https://github.com/koduki)/[**scala_on_gae**](https://github.com/koduki/scala_on_gae)|ScalaでGAE/jを手軽に始めるためのフレームワークとサンプルアプリ。まだ作りかけ。||
@@ -257,6 +258,7 @@
 |5|[@ktoso](https://github.com/ktoso)/[**sbt-jmh-seed-activator**](https://github.com/ktoso/sbt-jmh-seed-activator)|SBT-JMH benchmarking seed (activator template)||
 |5|[@ktoso](https://github.com/ktoso)/[**scala-words**](https://github.com/ktoso/scala-words)|"A vocabulary of words to code by"||
 |5|[@kurochan](https://github.com/kurochan)/[**sippo**](https://github.com/kurochan/sippo)|SSH Honeypot written in Scala||
+|5|[@lloydmeta](https://github.com/lloydmeta)/[**http4s-doobie-docker-scratchpad**](https://github.com/lloydmeta/http4s-doobie-docker-scratchpad)|Playing around with http4s + doobie + docker ||
 |5|[@matsumotius](https://github.com/matsumotius)/[**wabi**](https://github.com/matsumotius/wabi)|wavelet tree||
 |5|[@moc-yuto](https://github.com/moc-yuto)/[**sansyo**](https://github.com/moc-yuto/sansyo)|library for Scala collections utility||
 |5|[@mzp](https://github.com/mzp)/[**condoc**](https://github.com/mzp/condoc)|Coqdoc to markdown||
@@ -309,7 +311,6 @@
 |4|[@ktoso](https://github.com/ktoso)/[**kanbanery-tv**](https://github.com/ktoso/kanbanery-tv)|||
 |4|[@ktoso](https://github.com/ktoso)/[**scalaslide**](https://github.com/ktoso/scalaslide)|Awesome landslide & scalatest driven presentation framework, built on sbt||
 |4|[@kurochan](https://github.com/kurochan)/[**java-seed.g8**](https://github.com/kurochan/java-seed.g8)|Giter8 template for a simple hello world app in Java.||
-|4|[@lloydmeta](https://github.com/lloydmeta)/[**http4s-doobie-docker-scratchpad**](https://github.com/lloydmeta/http4s-doobie-docker-scratchpad)|Playing around with http4s + doobie + docker ||
 |4|[@lloydmeta](https://github.com/lloydmeta)/[**provide**](https://github.com/lloydmeta/provide)|@provide Scala annotation so you can annotate abstract method implementations safely instead of abusing `override`||
 |4|[@lloydmeta](https://github.com/lloydmeta)/[**seed-scala.g8**](https://github.com/lloydmeta/seed-scala.g8)|A basic skeleton Scala project||
 |4|[@mumoshu](https://github.com/mumoshu)/[**play20-zentasks-tests**](https://github.com/mumoshu/play20-zentasks-tests)|Added spec2 tests to Play20's 'zentasks||

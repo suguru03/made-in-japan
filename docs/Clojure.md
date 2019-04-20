@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|911|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
-|565|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
-|369|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
-|330|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
+|912|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
+|566|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
+|370|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
+|331|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
 |265|[@kawasima](https://github.com/kawasima)/[**jagrid**](https://github.com/kawasima/jagrid)|Japanese-styled grid framework.||
 |149|[@runexec](https://github.com/runexec)/[**chp**](https://github.com/runexec/chp)|ClojureHomePage is a Compojure based web framework that allows you to write the backend and frontend with Clojure.|[:arrow_upper_right:](https://github.com/runexec/chp/)|
 |128|[@yokolet](https://github.com/yokolet)/[**clementine**](https://github.com/yokolet/clementine)|Gem for ClojureScript on Rails Asset Pipeline||
-|113|[@Quantisan](https://github.com/Quantisan)/[**docker-clojure**](https://github.com/Quantisan/docker-clojure)|Official Docker image for Clojure|[:arrow_upper_right:](https://hub.docker.com/_/clojure/)|
+|114|[@Quantisan](https://github.com/Quantisan)/[**docker-clojure**](https://github.com/Quantisan/docker-clojure)|Official Docker image for Clojure|[:arrow_upper_right:](https://hub.docker.com/_/clojure/)|
 |111|[@liquidz](https://github.com/liquidz)/[**clj-jwt**](https://github.com/liquidz/clj-jwt)|Clojure library for JSON Web Token(JWT)||
 |89|[@athos](https://github.com/athos)/[**Pinpointer**](https://github.com/athos/Pinpointer)|Pinpointer is yet another clojure.spec error reporter based on a precise error analysis||
 |87|[@runexec](https://github.com/runexec)/[**Static-Prime**](https://github.com/runexec/Static-Prime)|A static website editor and server written in Clojure and ClojureScript.||
@@ -17,16 +17,16 @@
 |49|[@runexec](https://github.com/runexec)/[**equate**](https://github.com/runexec/equate)|A Clojure fact management library||
 |45|[@federkasten](https://github.com/federkasten)/[**butler**](https://github.com/federkasten/butler)|Bring Web Workers to ClojureScript||
 |44|[@yokolet](https://github.com/yokolet)/[**hiccup-samples**](https://github.com/yokolet/hiccup-samples)|hiccup samples for clojure cookbook||
+|38|[@hellonico](https://github.com/hellonico)/[**origami**](https://github.com/hellonico/origami)|OpenCV 4.0 Clojure Wrapper||
 |37|[@dvcrn](https://github.com/dvcrn)/[**ajom**](https://github.com/dvcrn/ajom)|atom plugins in clojurescript||
-|36|[@hellonico](https://github.com/hellonico)/[**origami**](https://github.com/hellonico/origami)|OpenCV 4.0 Clojure Wrapper||
 |32|[@hellonico](https://github.com/hellonico)/[**niclojure**](https://github.com/hellonico/niclojure)|Candid whitebook on Clojure ecosystem||
 |30|[@federkasten](https://github.com/federkasten)/[**clucie**](https://github.com/federkasten/clucie)|Clojure for the Lucene||
 |30|[@kawasima](https://github.com/kawasima)/[**darzana**](https://github.com/kawasima/darzana)| a DSL for backends-for-frontends (BFF)||
 |30|[@liquidz](https://github.com/liquidz)/[**cuma**](https://github.com/liquidz/cuma)|Extensible micro template engine for Clojure||
 |27|[@athos](https://github.com/athos)/[**Drains**](https://github.com/athos/Drains)|A new abstraction for flexible and efficient sequence aggregation in Clojure(Script)||
 |26|[@fukamachi](https://github.com/fukamachi)/[**L5**](https://github.com/fukamachi/L5)|Yet Another Presentation Tool for Lispers|[:arrow_upper_right:](http://e-arrows.sakura.ne.jp/l5/)|
+|25|[@athos](https://github.com/athos)/[**JiSE**](https://github.com/athos/JiSE)|JiSE: Java in S-Expression||
 |25|[@kawasima](https://github.com/kawasima)/[**supreme-uploading**](https://github.com/kawasima/supreme-uploading)|至高のアップロード機能づくり||
-|24|[@athos](https://github.com/athos)/[**JiSE**](https://github.com/athos/JiSE)|JiSE: Java in S-Expression||
 |24|[@kawasima](https://github.com/kawasima)/[**axebomber-clj**](https://github.com/kawasima/axebomber-clj)|The generator for Excel grid sheet (so-called Excel方眼紙).||
 |24|[@kawasima](https://github.com/kawasima)/[**teslogger**](https://github.com/kawasima/teslogger)|A tool for taking screenshots. It's usable for logging tests.||
 |22|[@making](https://github.com/making)/[**clj-gae-ds**](https://github.com/making/clj-gae-ds)|a Datastore library on Google App Engine for Clojure|[:arrow_upper_right:](http://clojars.org/am.ik/clj-gae-ds)|
@@ -49,9 +49,9 @@
 |12|[@runexec](https://github.com/runexec)/[**ffmpeg-clj**](https://github.com/runexec/ffmpeg-clj)|FFmpeg wrapper for Clojure||
 |11|[@Quantisan](https://github.com/Quantisan)/[**mango**](https://github.com/Quantisan/mango)|a concurrent systematic trading strategies backtesting platform||
 |11|[@athos](https://github.com/athos)/[**prejenter**](https://github.com/athos/prejenter)|Presentation framework for Clojurians||
+|11|[@athos](https://github.com/athos)/[**symbol-analyzer**](https://github.com/athos/symbol-analyzer)|Clojure code analyzer that tells us how each symbol is being used in the code||
 |11|[@ayamada](https://github.com/ayamada)/[**op0010**](https://github.com/ayamada/op0010)|おしいれクエスト|[:arrow_upper_right:](http://vnctst.tir.jp/op0010/)|
 |11|[@tnoda](https://github.com/tnoda)/[**rashinban**](https://github.com/tnoda/rashinban)|A Clojure library designed to work with R||
-|10|[@athos](https://github.com/athos)/[**symbol-analyzer**](https://github.com/athos/symbol-analyzer)|Clojure code analyzer that tells us how each symbol is being used in the code||
 |10|[@kawasima](https://github.com/kawasima)/[**tower-cljs**](https://github.com/kawasima/tower-cljs)|Clojurescript i18n & L10n library, compatible with https://github.com/ptaoussanis/tower/||
 |9|[@athos](https://github.com/athos)/[**genuine-highlighter**](https://github.com/athos/genuine-highlighter)|a macro-aware syntax highlighter for Clojure||
 |9|[@bschwind](https://github.com/bschwind)/[**earthquakes**](https://github.com/bschwind/earthquakes)|A simple earthquake listing app to show off ClojureScript + React Native||
@@ -156,6 +156,7 @@
 |3|[@nyampass](https://github.com/nyampass)/[**clowpay**](https://github.com/nyampass/clowpay)|WebPay API wrapper library for Clojure||
 |3|[@runexec](https://github.com/runexec)/[**concrete**](https://github.com/runexec/concrete)|Clojure symbol to source utility||
 |3|[@runexec](https://github.com/runexec)/[**paramount**](https://github.com/runexec/paramount)|Paramount is a superiority sorter for the Clojure language.||
+|3|[@runexec](https://github.com/runexec)/[**receipt-clj**](https://github.com/runexec/receipt-clj)|Documentation generator for Clojure / Lein plugin and standalone application||
 |3|[@tnoborio](https://github.com/tnoborio)/[**gomitoban**](https://github.com/tnoborio/gomitoban)|Clojure twitter bot using Google App Engine||
 |3|[@tnoda](https://github.com/tnoda)/[**simple-crypto**](https://github.com/tnoda/simple-crypto)|A Clojure library designed to perform weak string encryption, based on 128-bit AES.||
 |3|[@yhoshino11](https://github.com/yhoshino11)/[**tutorial**](https://github.com/yhoshino11/tutorial)|||

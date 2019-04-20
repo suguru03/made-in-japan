@@ -24,6 +24,7 @@
 |6|[@alphaKAI](https://github.com/alphaKAI)/[**HindleyMilnerD**](https://github.com/alphaKAI/HindleyMilnerD)|A HindleyMilner Type Inference System for mini-ML in D.||
 |6|[@alphaKAI](https://github.com/alphaKAI)/[**unlocker**](https://github.com/alphaKAI/unlocker)|unlock/lock your PC by touching with FeliCa||
 |6|[@karahiyo](https://github.com/karahiyo)/[**btrace**](https://github.com/karahiyo/btrace)|[https://kenai.com/projects/btrace/]'s project.||
+|6|[@kubo39](https://github.com/kubo39)/[**elfhook.d**](https://github.com/kubo39/elfhook.d)|monkey patching for shared object.||
 |6|[@namachan10777](https://github.com/namachan10777)/[**dmatch**](https://github.com/namachan10777/dmatch)|Pattern match for D Language.||
 |6|[@shawnps](https://github.com/shawnps)/[**kanjihub**](https://github.com/shawnps/kanjihub)|a hub for kanji||
 |5|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**snck**](https://github.com/ShigekiKarita/snck)|tqdm-like progress bar for D||
@@ -31,7 +32,6 @@
 |5|[@kazoo04](https://github.com/kazoo04)/[**Redplanet**](https://github.com/kazoo04/Redplanet)|Twitter client written in the D programming language.||
 |5|[@kazoo04](https://github.com/kazoo04)/[**libarow-d**](https://github.com/kazoo04/libarow-d)|A library for AROW linear classification||
 |5|[@kazoo04](https://github.com/kazoo04)/[**progress-d**](https://github.com/kazoo04/progress-d)|||
-|5|[@kubo39](https://github.com/kubo39)/[**elfhook.d**](https://github.com/kubo39/elfhook.d)|monkey patching for shared object.||
 |5|[@kubo39](https://github.com/kubo39)/[**rikka**](https://github.com/kubo39/rikka)|anothor document database written in D||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dilo**](https://github.com/alphaKAI/dilo)|A minimal Text Editor in D Language, ported from Kilo||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**workermanager**](https://github.com/alphaKAI/workermanager)|Multi-thread based asynchronized worker manager||

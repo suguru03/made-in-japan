@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|90|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
+|91|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
 |24|[@osafune](https://github.com/osafune)/[**peridot**](https://github.com/osafune/peridot)|'PERIDOT' - Simple & Compact FPGA board||
 |22|[@kazunori279](https://github.com/kazunori279)/[**CPU32**](https://github.com/kazunori279/CPU32)|Tiny MIPS for Terasic DE0||
 |8|[@stffrdhrn](https://github.com/stffrdhrn)/[**uart**](https://github.com/stffrdhrn/uart)|Verilog uart receiver and transmitter modules for De0 Nano||
@@ -12,4 +12,5 @@
 |4|[@slankdev](https://github.com/slankdev)/[**nic**](https://github.com/slankdev/nic)|Network Interface Controller||
 |4|[@stffrdhrn](https://github.com/stffrdhrn)/[**ac97**](https://github.com/stffrdhrn/ac97)|opencores ac97 controller verilog core|[:arrow_upper_right:](http://opencores.org/project,ac97)|
 |3|[@mzp](https://github.com/mzp)/[**GC**](https://github.com/mzp/GC)|Proof of Garbage Collector||
+|3|[@stffrdhrn](https://github.com/stffrdhrn)/[**mor1kx-generic**](https://github.com/stffrdhrn/mor1kx-generic)|mor1kx OpenRISC generic test harness support verilator and iverilog||
 

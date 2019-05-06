@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |69|[@r7kamura](https://github.com/r7kamura)/[**mastodon-terraform**](https://github.com/r7kamura/mastodon-terraform)|Boilerplate for running Mastodon on AWS using Terraform and CircleCI.||
+|39|[@int128](https://github.com/int128)/[**kops-terraform-starter**](https://github.com/int128/kops-terraform-starter)|A template of Kubernetes with nginx-ingress and ALB on AWS (using kops and Terraform)||
 |37|[@freedomofkeima](https://github.com/freedomofkeima)/[**terraform-docker-ecs**](https://github.com/freedomofkeima/terraform-docker-ecs)|Manage your ASG + ECS Cluster (Docker) with Terraform||
-|37|[@int128](https://github.com/int128)/[**kops-terraform-starter**](https://github.com/int128/kops-terraform-starter)|Kubernetes with nginx-ingress and ALB on AWS (using kops and Terraform)||
 |23|[@shufo](https://github.com/shufo)/[**terraform-boilerplate-ecs-alb**](https://github.com/shufo/terraform-boilerplate-ecs-alb)|Terraform boilerplate for ECS with ALB.||
 |22|[@knakayama](https://github.com/knakayama)/[**aws-terraform-playground**](https://github.com/knakayama/aws-terraform-playground)|terraform examples on AWS||
 |12|[@inokappa](https://github.com/inokappa)/[**oreno-terraform-ecs**](https://github.com/inokappa/oreno-terraform-ecs)|||

@@ -4,7 +4,7 @@
 |232|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
 |232|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|:snowboarder: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
 |126|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
-|115|[@int128](https://github.com/int128)/[**gradle-swagger-generator-plugin**](https://github.com/int128/gradle-swagger-generator-plugin)|Gradle plugin for OpenAPI YAML validation, code generation and API document publishing||
+|118|[@int128](https://github.com/int128)/[**gradle-swagger-generator-plugin**](https://github.com/int128/gradle-swagger-generator-plugin)|Gradle plugin for OpenAPI YAML validation, code generation and API document publishing||
 |106|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||
 |98|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
 |87|[@int128](https://github.com/int128)/[**groovy-ssh**](https://github.com/int128/groovy-ssh)|SSH automation tool based on Groovy DSL|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
@@ -41,8 +41,8 @@
 |6|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-plugin-template**](https://github.com/ksoichiro/gradle-plugin-template)|Template project for Gradle plugin.||
 |6|[@making](https://github.com/making)/[**spring-boot-demo-jvm-languages**](https://github.com/making/spring-boot-demo-jvm-languages)|Spring Boot Hello World project using some JVM languages||
 |6|[@operando](https://github.com/operando)/[**gradle-zundokokiyoshi-plugin**](https://github.com/operando/gradle-zundokokiyoshi-plugin)|gradle zundokokiyoshi plugin||
+|6|[@uehaj](https://github.com/uehaj)/[**groovy-optional**](https://github.com/uehaj/groovy-optional)|Extension module which enhances handilng of Java8's Optional Class in Groovy||
 |5|[@nobeans](https://github.com/nobeans)/[**groovy-osgi-sample**](https://github.com/nobeans/groovy-osgi-sample)|Sample of OSGi powered by Groovy and Gradle||
-|5|[@uehaj](https://github.com/uehaj)/[**groovy-optional**](https://github.com/uehaj/groovy-optional)|Extension module which enhances handilng of Java8's Optional Class in Groovy||
 |4|[@YukiMatsumura](https://github.com/YukiMatsumura)/[**MaterialDesignResources**](https://github.com/YukiMatsumura/MaterialDesignResources)|MaterialDesign Android Resources||
 |4|[@int128](https://github.com/int128)/[**spring-cloud-api-gateway-example**](https://github.com/int128/spring-cloud-api-gateway-example)|Example Implementation of API Gateway Pattern using Spring Cloud Netflix||
 |4|[@mike-neck](https://github.com/mike-neck)/[**idea-gradle-javaee-template**](https://github.com/mike-neck/idea-gradle-javaee-template)|template project of JavaEE-Glassfish application for IntelliJ IDEA and Gradle||

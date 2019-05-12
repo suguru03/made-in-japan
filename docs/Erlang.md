@@ -11,7 +11,7 @@
 |34|[@jj1bdx](https://github.com/jj1bdx)/[**sshrpc**](https://github.com/jj1bdx/sshrpc)|Erlang SSH RPC module (experimental)||
 |34|[@michilu](https://github.com/michilu)/[**shirasu**](https://github.com/michilu/shirasu)|Shirasu.ws is a WebSocket server framework based on Misultin and Erlang/OTP|[:arrow_upper_right:](http://code.google.com/p/shirasu/)|
 |33|[@iij](https://github.com/iij)/[**lmq**](https://github.com/iij/lmq)|Lightweight Message Queue||
-|31|[@kuenishi](https://github.com/kuenishi)/[**riak_scr_jp**](https://github.com/kuenishi/riak_scr_jp)|Repository for Riak Source Code Reading @Tokyo||
+|30|[@kuenishi](https://github.com/kuenishi)/[**riak_scr_jp**](https://github.com/kuenishi/riak_scr_jp)|Repository for Riak Source Code Reading @Tokyo||
 |28|[@sile](https://github.com/sile)/[**hash_ring**](https://github.com/sile/hash_ring)|Implements consistent hashing in Erlang||
 |26|[@jj1bdx](https://github.com/jj1bdx)/[**tinymt-erlang**](https://github.com/jj1bdx/tinymt-erlang)|This software is no longer maintained. For archive/reference use only. -- Tiny Mersenne Twister (TinyMT) for Erlang||
 |24|[@sile](https://github.com/sile)/[**evel**](https://github.com/sile/evel)|An Eventual Leader Election Library for Erlang||

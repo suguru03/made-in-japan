@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3795|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
-|614|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|3801|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
+|615|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
 |84|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |80|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |66|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
@@ -11,7 +11,7 @@
 You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)|
 |33|[@ksuenaga](https://github.com/ksuenaga)/[**IoPLMaterials**](https://github.com/ksuenaga/IoPLMaterials)|Materials for the class "Implementation of Programming Languages" in Kyoto University.||
 |27|[@kuy](https://github.com/kuy)/[**reason-of-life**](https://github.com/kuy/reason-of-life)|Conway's Lifegame in Reason + reason-react with webpack + bs-loader.||
-|25|[@keigoi](https://github.com/keigoi)/[**session-ocaml**](https://github.com/keigoi/session-ocaml)|An implementation of binary session types in OCaml||
+|26|[@keigoi](https://github.com/keigoi)/[**session-ocaml**](https://github.com/keigoi/session-ocaml)|An implementation of binary session types in OCaml||
 |24|[@UnixJunkie](https://github.com/UnixJunkie)/[**dolog**](https://github.com/UnixJunkie/dolog)|A dumb OCaml logger||
 |23|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
 |22|[@BYVoid](https://github.com/BYVoid)/[**Dlist**](https://github.com/BYVoid/Dlist)|Difference list library for OCaml||
@@ -19,7 +19,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |20|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|parallelize anything||
 |17|[@BYVoid](https://github.com/BYVoid)/[**OCamlProblems**](https://github.com/BYVoid/OCamlProblems)|Solutions of Problems in OCaml||
 |17|[@UnixJunkie](https://github.com/UnixJunkie)/[**daft**](https://github.com/UnixJunkie/daft)|DAFT Allows File Transfers||
-|15|[@AltGr](https://github.com/AltGr)/[**opam-bundle**](https://github.com/AltGr/opam-bundle)|A tool that creates stand-alone source bundles from opam packages||
+|16|[@AltGr](https://github.com/AltGr)/[**opam-bundle**](https://github.com/AltGr/opam-bundle)|A tool that creates stand-alone source bundles from opam packages||
 |15|[@UnixJunkie](https://github.com/UnixJunkie)/[**bisec-tree**](https://github.com/UnixJunkie/bisec-tree)|Bisector tree implementation in OCaml||
 |15|[@mzp](https://github.com/mzp)/[**websocket-ocaml**](https://github.com/mzp/websocket-ocaml)|WebSocket Server for OCaml|[:arrow_upper_right:](http://eva-lu-ator.net/redmine/projects/websocket-ocaml)|
 |13|[@AltGr](https://github.com/AltGr)/[**Camelus**](https://github.com/AltGr/Camelus)|Bot posting reports on opam-repository pull-request using a web hook||

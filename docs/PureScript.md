@@ -19,6 +19,7 @@
 |3|[@bouzuya](https://github.com/bouzuya)/[**node-hatena-fotolife-cli**](https://github.com/bouzuya/node-hatena-fotolife-cli)|Hatena::Fotolife command line interface (unofficial)||
 |3|[@bouzuya](https://github.com/bouzuya)/[**tamaru**](https://github.com/bouzuya/tamaru)|||
 |3|[@oreshinya](https://github.com/oreshinya)/[**purescript-conveyor**](https://github.com/oreshinya/purescript-conveyor)|Simple RPC framework||
+|3|[@oreshinya](https://github.com/oreshinya)/[**purescript-identy**](https://github.com/oreshinya/purescript-identy)|An opinionated UI state management utilities for purescript-freedom.||
 |3|[@oreshinya](https://github.com/oreshinya)/[**purescript-nodemailer**](https://github.com/oreshinya/purescript-nodemailer)|Bindings nodemailer for PureScript||
 |3|[@oreshinya](https://github.com/oreshinya)/[**purescript-pure-style**](https://github.com/oreshinya/purescript-pure-style)|Maybe no longer maintenance.||
 |3|[@philopon](https://github.com/philopon)/[**purescript-html**](https://github.com/philopon/purescript-html)|middle level virtual-dom binding for purescript||

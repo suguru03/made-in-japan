@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|326|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
+|330|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
 |255|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
 |104|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://vue-fixed-header.potato4d.dev/)|
 |93|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
-|74|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japanese first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
+|76|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japanese first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
 |42|[@meganetaaan](https://github.com/meganetaaan)/[**vue-maze**](https://github.com/meganetaaan/vue-maze)|A Vue.js component of a simple maze game.||
 |33|[@miyaoka](https://github.com/miyaoka)/[**grid-generator**](https://github.com/miyaoka/grid-generator)|CSS Grid Layout generator|[:arrow_upper_right:](https://vue-grid-generator.netlify.com/)|
 |32|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
@@ -35,7 +35,6 @@
 |6|[@miyaoka](https://github.com/miyaoka)/[**metro**](https://github.com/miyaoka/metro)|SVG drawing like Mini Metro|[:arrow_upper_right:](https://metro.netlify.com/)|
 |6|[@sho-yamane](https://github.com/sho-yamane)/[**nuxt-hp**](https://github.com/sho-yamane/nuxt-hp)|||
 |5|[@argelius](https://github.com/argelius)/[**vue-onsenui**](https://github.com/argelius/vue-onsenui)|Vue components for Onsen UI||
-|5|[@hisasann](https://github.com/hisasann)/[**typescript-nuxtjs-boilerplate**](https://github.com/hisasann/typescript-nuxtjs-boilerplate)|:bento: Nuxt.js with TypeScript and Run with docker and docker-compose|[:arrow_upper_right:](https://typescript-nuxtjs-boilerplate.netlify.com/example)|
 |5|[@konojunya](https://github.com/konojunya)/[**HEW2018**](https://github.com/konojunya/HEW2018)|🏫 Project of HAL Event Week 2018. Introduction to modern web services using Go, Vue, AWS, Docker and CircleCI.||
 |5|[@potato4d](https://github.com/potato4d)/[**potato4d.me**](https://github.com/potato4d/potato4d.me)|Potato4d's Website|[:arrow_upper_right:](https://potato4d.me)|
 |5|[@sunecosuri](https://github.com/sunecosuri)/[**vue-component-sandbox**](https://github.com/sunecosuri/vue-component-sandbox)|SandBox for Vue.js||

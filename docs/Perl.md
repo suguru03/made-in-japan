@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|865|[@hokaccha](https://github.com/hokaccha)/[**nodebrew**](https://github.com/hokaccha/nodebrew)|Node.js version manager||
-|805|[@yuki-kimoto](https://github.com/yuki-kimoto)/[**gitprep**](https://github.com/yuki-kimoto/gitprep)|Portable GitHub system into your own server|[:arrow_upper_right:](http://gitprep.yukikimoto.com/)|
-|333|[@neubig](https://github.com/neubig)/[**nlptutorial**](https://github.com/neubig/nlptutorial)|A Tutorial about Programming for Natural Language Processing||
+|868|[@hokaccha](https://github.com/hokaccha)/[**nodebrew**](https://github.com/hokaccha/nodebrew)|Node.js version manager||
+|806|[@yuki-kimoto](https://github.com/yuki-kimoto)/[**gitprep**](https://github.com/yuki-kimoto/gitprep)|Portable GitHub system into your own server|[:arrow_upper_right:](http://gitprep.yukikimoto.com/)|
+|334|[@neubig](https://github.com/neubig)/[**nlptutorial**](https://github.com/neubig/nlptutorial)|A Tutorial about Programming for Natural Language Processing||
 |324|[@neubig](https://github.com/neubig)/[**nmt-tips**](https://github.com/neubig/nmt-tips)|A tutorial about neural machine translation including tips on building practical systems||
 |235|[@kazeburo](https://github.com/kazeburo)/[**GrowthForecast**](https://github.com/kazeburo/GrowthForecast)|Lightning Fast Graphing/Visualization|[:arrow_upper_right:](http://kazeburo.github.com/GrowthForecast/)|
 |182|[@naoya](https://github.com/naoya)/[**md2inao**](https://github.com/naoya/md2inao)|Convert markdown to inao-format for WEB+DB PRESS|[:arrow_upper_right:](http://md2inao.bloghackers.net/)|
@@ -27,8 +27,8 @@
 |67|[@kazeburo](https://github.com/kazeburo)/[**Kurado**](https://github.com/kazeburo/Kurado)|monitor metrics||
 |67|[@xaicron](https://github.com/xaicron)/[**mysqlenv**](https://github.com/xaicron/mysqlenv)|mysql binary manager||
 |61|[@kazuho](https://github.com/kazuho)/[**Starlet**](https://github.com/kazuho/Starlet)|a Plack Server, formerly known as Plack::Server::Standalone::Prefork::Server::Starter||
-|57|[@tokuhirom](https://github.com/tokuhirom)/[**Perl-Build**](https://github.com/tokuhirom/Perl-Build)|||
 |56|[@kazeburo](https://github.com/kazeburo)/[**Monoceros**](https://github.com/kazeburo/Monoceros)|PSGI/Plack server with event driven connection manager, preforking workers||
+|56|[@tokuhirom](https://github.com/tokuhirom)/[**Perl-Build**](https://github.com/tokuhirom/Perl-Build)|||
 |54|[@tokuhirom](https://github.com/tokuhirom)/[**cpan-outdated**](https://github.com/tokuhirom/cpan-outdated)|detect outdated CPAN modules|[:arrow_upper_right:](http://xrl.us/cpanoutdated)|
 |51|[@hatena](https://github.com/hatena)/[**Ridge**](https://github.com/hatena/Ridge)|||
 |51|[@skaji](https://github.com/skaji)/[**remote-pbcopy-iterm2**](https://github.com/skaji/remote-pbcopy-iterm2)|||
@@ -43,8 +43,8 @@
 |45|[@onishi](https://github.com/onishi)/[**mysqldiff**](https://github.com/onishi/mysqldiff)|mysqldiff - mysql scheme diff||
 |44|[@tokuhirom](https://github.com/tokuhirom)/[**SQL-Maker**](https://github.com/tokuhirom/SQL-Maker)|||
 |43|[@hitode909](https://github.com/hitode909)/[**App-PRT**](https://github.com/hitode909/App-PRT)|Command line tool for Perl code refactoring|[:arrow_upper_right:](https://metacpan.org/release/App-PRT)|
+|42|[@aki2o](https://github.com/aki2o)/[**plsense**](https://github.com/aki2o/plsense)|Omni completion tool for Perl||
 |42|[@comewalk](https://github.com/comewalk)/[**google-api-perl-client**](https://github.com/comewalk/google-api-perl-client)|Google APIs Client Library for Perl|[:arrow_upper_right:](http://code.google.com/p/google-api-perl-client/)|
-|41|[@aki2o](https://github.com/aki2o)/[**plsense**](https://github.com/aki2o/plsense)|Omni completion tool for Perl||
 |40|[@cooldaemon](https://github.com/cooldaemon)/[**RabbitFoot**](https://github.com/cooldaemon/RabbitFoot)|An asynchronous and multi channel Perl AMQP client. It uses Coro and AnyEvent::RabbitMQ.|[:arrow_upper_right:](http://search.cpan.org/~ikuta/Net-RabbitFoot/)|
 |40|[@hatena](https://github.com/hatena)/[**Sorter**](https://github.com/hatena/Sorter)|||
 |39|[@motemen](https://github.com/motemen)/[**Teto**](https://github.com/motemen/Teto)|nicovideo stream player||
@@ -453,6 +453,7 @@
 |7|[@gfx](https://github.com/gfx)/[**p5-HTML-FillInForm-Lite**](https://github.com/gfx/p5-HTML-FillInForm-Lite)|Repository for HTML::FillInForm::Lite|[:arrow_upper_right:](https://metacpan.org/module/HTML::FillInForm::Lite)|
 |7|[@gfx](https://github.com/gfx)/[**p5-Types**](https://github.com/gfx/p5-Types)|Type constraint framework for Perl5|[:arrow_upper_right:](http://search.cpan.org/dist/Types/)|
 |7|[@goodpic](https://github.com/goodpic)/[**mt-plugin-Zenback**](https://github.com/goodpic/mt-plugin-Zenback)|Display Zenback contents on your Movable Type blog.|[:arrow_upper_right:](http://www.goodpic.com/mt/)|
+|7|[@gsi-cyberjapan](https://github.com/gsi-cyberjapan)/[**dkgshp2geojsontiles**](https://github.com/gsi-cyberjapan/dkgshp2geojsontiles)|電子国土基本図shpのgeojsontiles変換||
 |7|[@hakobe](https://github.com/hakobe)/[**webservice-hatena-diary**](https://github.com/hakobe/webservice-hatena-diary)|WebService::Hatena::Diary - CRUD interface to Hatena::Diary  with AtomPub API||
 |7|[@hidek](https://github.com/hidek)/[**Catalyst-Controller-RequestToken**](https://github.com/hidek/Catalyst-Controller-RequestToken)|||
 |7|[@hirose31](https://github.com/hirose31)/[**monitor-aws-status**](https://github.com/hirose31/monitor-aws-status)|checks AWS service health dashboard periodically and notifies us a new problem by IRC||
@@ -518,7 +519,6 @@
 |6|[@gfx](https://github.com/gfx)/[**Perl-PerlIO-Util**](https://github.com/gfx/Perl-PerlIO-Util)|PerlIO::Util on CPAN|[:arrow_upper_right:](http://search.cpan.org/dist/PerlIO-Util/)|
 |6|[@gfx](https://github.com/gfx)/[**ltsv-query**](https://github.com/gfx/ltsv-query)|Analyzes LTSV logs with SQL||
 |6|[@gfx](https://github.com/gfx)/[**p5-Data-Clone**](https://github.com/gfx/p5-Data-Clone)|Polymorphic data cloning|[:arrow_upper_right:](http://search.cpan.org/dist/Data-Clone/)|
-|6|[@gsi-cyberjapan](https://github.com/gsi-cyberjapan)/[**dkgshp2geojsontiles**](https://github.com/gsi-cyberjapan/dkgshp2geojsontiles)|電子国土基本図shpのgeojsontiles変換||
 |6|[@hatena](https://github.com/hatena)/[**Net-Hatena**](https://github.com/hatena/Net-Hatena)|A Perl interface to the Hatena API||
 |6|[@hidek](https://github.com/hidek)/[**p5-Cybozu-Garoon-Notify**](https://github.com/hidek/p5-Cybozu-Garoon-Notify)|||
 |6|[@hirose31](https://github.com/hirose31)/[**www-cybozu-office6**](https://github.com/hirose31/www-cybozu-office6)|Perl module for manipulating Cybozu Office 6||
@@ -879,6 +879,7 @@
 |4|[@taiyoh](https://github.com/taiyoh)/[**mousex-classattribute-perl**](https://github.com/taiyoh/mousex-classattribute-perl)|implementation about MooseX::ClassAttribute using Mouse||
 |4|[@taiyoh](https://github.com/taiyoh)/[**test-dummygenerator**](https://github.com/taiyoh/test-dummygenerator)|for people who are lazy not to want to create many many test data...||
 |4|[@takeyuweb](https://github.com/takeyuweb)/[**KetaiPost**](https://github.com/takeyuweb/KetaiPost)|無償で利用できて無駄に多機能な、携帯メールによる記事投稿のためのMovable Typeプラグイン。||
+|4|[@takeyuweb](https://github.com/takeyuweb)/[**mt-plugin-Location**](https://github.com/takeyuweb/mt-plugin-Location)|Movable Type で位置情報に基づく記事の検索・地図表示などを実現します。||
 |4|[@takimo](https://github.com/takimo)/[**apache2-authmixi**](https://github.com/takimo/apache2-authmixi)|Apache2::AuthMixi is Authentication library that uses Mixi OpenID|[:arrow_upper_right:](http://d.hatena.ne.jp/takimo)|
 |4|[@takuji31](https://github.com/takuji31)/[**p5-Castella**](https://github.com/takuji31/p5-Castella)|Sinatra like web application framework for Perl|[:arrow_upper_right:](http://senchan.jp/)|
 |4|[@tociyuki](https://github.com/tociyuki)/[**libtext-diethaml-perl**](https://github.com/tociyuki/libtext-diethaml-perl)|Convertor from subset of Haml to Perl source code||
@@ -1196,7 +1197,6 @@
 |3|[@takatoshiono](https://github.com/takatoshiono)/[**meguro**](https://github.com/takatoshiono/meguro)|KML Maker||
 |3|[@takeshiyako2](https://github.com/takeshiyako2)/[**monitor-aws-status-to-slack**](https://github.com/takeshiyako2/monitor-aws-status-to-slack)|||
 |3|[@takeyuweb](https://github.com/takeyuweb)/[**Remove-Exif-Plug-in-for-MovableType**](https://github.com/takeyuweb/Remove-Exif-Plug-in-for-MovableType)|Delete the Exif when generating thumbnails.|[:arrow_upper_right:](http://takeyu-web.com/)|
-|3|[@takeyuweb](https://github.com/takeyuweb)/[**mt-plugin-Location**](https://github.com/takeyuweb/mt-plugin-Location)|Movable Type で位置情報に基づく記事の検索・地図表示などを実現します。||
 |3|[@takeyuweb](https://github.com/takeyuweb)/[**mt-plugin-MailMug**](https://github.com/takeyuweb/mt-plugin-MailMug)|A mail magazine plugin for Movable Type||
 |3|[@takeyuweb](https://github.com/takeyuweb)/[**mt-plugin-htmlimporter**](https://github.com/takeyuweb/mt-plugin-htmlimporter)|既存の静的ウェブサイトからMovableType上への移行を支援する、HTMLインポーターです。||
 |3|[@takuji31](https://github.com/takuji31)/[**p5-Acme-QB**](https://github.com/takuji31/p5-Acme-QB)|僕と契約して、魔法少女になってよ！||

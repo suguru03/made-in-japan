@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|261|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
-|232|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
-|232|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|:snowboarder: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
+|262|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
+|233|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
+|233|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|:snowboarder: gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
 |125|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |118|[@int128](https://github.com/int128)/[**gradle-swagger-generator-plugin**](https://github.com/int128/gradle-swagger-generator-plugin)|Gradle plugin for OpenAPI YAML validation, code generation and API document publishing||
 |106|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||
@@ -12,7 +12,7 @@
 |75|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-mdicons**](https://github.com/tmiyamon/gradle-mdicons)|A gradle plugin for Android to handle material design icons Google published.||
 |48|[@gfx](https://github.com/gfx)/[**android-power-assert-plugin**](https://github.com/gfx/android-power-assert-plugin)|Power Assert for Android||
 |38|[@tkruse](https://github.com/tkruse)/[**gradle-groovysh-plugin**](https://github.com/tkruse/gradle-groovysh-plugin)|gradle plugin allowing to start a command-line shell||
-|31|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-reporter**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
+|33|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-reporter**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
 |31|[@nobeans](https://github.com/nobeans)/[**gexcelapi**](https://github.com/nobeans/gexcelapi)|GExcelAPI is a thin Groovy-ish wrapper library of not JExcelAPI but Apache POI.||
 |30|[@int128](https://github.com/int128)/[**gradle-plugin-starter**](https://github.com/int128/gradle-plugin-starter)|Gradle plugin template project||
 |26|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-plugin**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||
@@ -48,6 +48,7 @@
 |4|[@mike-neck](https://github.com/mike-neck)/[**idea-gradle-javaee-template**](https://github.com/mike-neck/idea-gradle-javaee-template)|template project of JavaEE-Glassfish application for IntelliJ IDEA and Gradle||
 |4|[@nicolas-raoul](https://github.com/nicolas-raoul)/[**OxygenPump**](https://github.com/nicolas-raoul/OxygenPump)|Downloads the wikicode of Wikitravel.org articles (which are Creative Commons Attribution-ShareAlike 3.0)|[:arrow_upper_right:](http://code.google.com/p/oxygenpump/)|
 |4|[@nobeans](https://github.com/nobeans)/[**javaone-tokyo-2012-jvm-bof**](https://github.com/nobeans/javaone-tokyo-2012-jvm-bof)|||
+|4|[@sorah](https://github.com/sorah)/[**jenkinsfile-slack**](https://github.com/sorah/jenkinsfile-slack)|||
 |4|[@uehaj](https://github.com/uehaj)/[**LispBuilder**](https://github.com/uehaj/LispBuilder)|a DSL for lisp like expression, implemented as a Groovy Builder(with interpreter)||
 |4|[@wadahiro](https://github.com/wadahiro)/[**gradle-samples**](https://github.com/wadahiro/gradle-samples)|||
 |4|[@yamkazu](https://github.com/yamkazu)/[**jggug-nov-2013-grails23**](https://github.com/yamkazu/jggug-nov-2013-grails23)|||
@@ -62,7 +63,6 @@
 |3|[@nobeans](https://github.com/nobeans)/[**grails-request-tracelog**](https://github.com/nobeans/grails-request-tracelog)|Grails 3 plugin to get info logs of request||
 |3|[@nobeans](https://github.com/nobeans)/[**irclog-viewer**](https://github.com/nobeans/irclog-viewer)|A simple viewer of IRC log archives powered by Grails||
 |3|[@nobeans](https://github.com/nobeans)/[**tddbc-yokohama-201111**](https://github.com/nobeans/tddbc-yokohama-201111)|||
-|3|[@sorah](https://github.com/sorah)/[**jenkinsfile-slack**](https://github.com/sorah/jenkinsfile-slack)|||
 |3|[@tsuyo](https://github.com/tsuyo)/[**grails-captcha-sample**](https://github.com/tsuyo/grails-captcha-sample)|grails sample to login with captcha||
 |3|[@uehaj](https://github.com/uehaj)/[**grails-react-boilerplate**](https://github.com/uehaj/grails-react-boilerplate)|||
 |3|[@uehaj](https://github.com/uehaj)/[**groovy-bootcamp2015**](https://github.com/uehaj/groovy-bootcamp2015)|JGGUG Groovyブートキャンプのハンズオンマテリアル||

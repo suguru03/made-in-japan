@@ -22,6 +22,7 @@
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**BezierConverter**](https://github.com/LUXOPHIA/BezierConverter)|||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**CameraFaces**](https://github.com/LUXOPHIA/CameraFaces)|OpenCV を用いて、カメラの映像から顔を認識する方法。||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**Fractals**](https://github.com/LUXOPHIA/Fractals)|Learn while rendering the Mandelbrot-set as a motif, comparing ObjectPascal and C++.||
+|4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**GammaFunc**](https://github.com/LUXOPHIA/GammaFunc)|How to compute the Gamma function.||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**MarchingCubes**](https://github.com/LUXOPHIA/MarchingCubes)|３Ｄボリュームデータの等値面をポリゴン化する方法。||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**NablaField2D**](https://github.com/LUXOPHIA/NablaField2D)|ポテンシャル分布からベクトル場を生成する方法。||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**Random**](https://github.com/LUXOPHIA/Random)|Pseudorandom number generator for MultiThread||
@@ -30,7 +31,6 @@
 |3|[@1995hnagamin](https://github.com/1995hnagamin)/[**yapcasia2015-piet**](https://github.com/1995hnagamin/yapcasia2015-piet)|YAPC::Asia 2015 のあれ||
 |3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**Billiard**](https://github.com/LUXOPHIA/Billiard)|ペナルティ法を用いて、転がる球体同士の衝突をシミュレーションします。||
 |3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**Delaunay2D**](https://github.com/LUXOPHIA/Delaunay2D)|２Ｄドロネー図を描く方法。||
-|3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**GammaFunc**](https://github.com/LUXOPHIA/GammaFunc)|How to compute the Gamma function.||
 |3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**ImplicitRender**](https://github.com/LUXOPHIA/ImplicitRender)|We rendered the curved surface defined by the implicit function in real time on the GPU.||
 |3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**LUX.Brep**](https://github.com/LUXOPHIA/LUX.Brep)|luxidea 製の 境界表現：B-rep ライブラリ。||
 |3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**LUX.Code**](https://github.com/LUXOPHIA/LUX.Code)|luxidea 製の プログラムミング言語 ライブラリ。||

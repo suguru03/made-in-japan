@@ -10,10 +10,10 @@
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
 |26|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
 |17|[@ymattu](https://github.com/ymattu)/[**MlBayesOpt**](https://github.com/ymattu/MlBayesOpt)|R package to tune parameters for machine learning(Support Vector Machine, Random Forest, and Xgboost), using bayesian optimization with gaussian process||
+|16|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
 |16|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
 |15|[@hoxo-m](https://github.com/hoxo-m)/[**dplyrr**](https://github.com/hoxo-m/dplyrr)|Utilities for comfortable use of dplyr with databases||
-|15|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
-|15|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](http://uribo.github.io/jpmesh)|
+|15|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](https://uribo.github.io/jpmesh)|
 |14|[@yutannihilation](https://github.com/yutannihilation)/[**estatapi**](https://github.com/yutannihilation/estatapi)|R package for e-Stat API in Japan||
 |14|[@yutannihilation](https://github.com/yutannihilation)/[**kokudosuuchi**](https://github.com/yutannihilation/kokudosuuchi)|国土数値情報ダウンロードサービスWeb APIからデータを取得するためのRパッケージです||
 |13|[@kazutan](https://github.com/kazutan)/[**tubeplayR**](https://github.com/kazutan/tubeplayR)|play youtube by R||
@@ -36,6 +36,7 @@
 |7|[@jirotubuyaki](https://github.com/jirotubuyaki)/[**Jdmbs**](https://github.com/jirotubuyaki/Jdmbs)|Jdmbs: An R Package for Monte Carlo Option Pricing Algorithm for Jump Diffusion Models with Correlational Companies||
 |7|[@teramonagi](https://github.com/teramonagi)/[**SABRCalibrationOnShiny**](https://github.com/teramonagi/SABRCalibrationOnShiny)|SABR model calibration on shiny||
 |7|[@uribo](https://github.com/uribo)/[**Japan.useR**](https://github.com/uribo/Japan.useR)|:crossed_flags:Japanese R user community materials and information datasets||
+|7|[@uribo](https://github.com/uribo)/[**japan_pollinosis**](https://github.com/uribo/japan_pollinosis)|||
 |7|[@uribo](https://github.com/uribo)/[**sealr**](https://github.com/uribo/sealr)|🏭 Sealing the R Objects Test and Assert Conditions 🤖||
 |6|[@GinzaLion](https://github.com/GinzaLion)/[**R-Cryptocurrencies**](https://github.com/GinzaLion/R-Cryptocurrencies)|Public APIs - Cryptocurrencies||
 |6|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**Detectives**](https://github.com/IshidaMotohiro/Detectives)|for "Data Detectives", Soft Bank 2015||
@@ -45,7 +46,6 @@
 |6|[@dritoshi](https://github.com/dritoshi)/[**genesearchr**](https://github.com/dritoshi/genesearchr)|Fast full-text search in NCBI RefSeq, UniProt-KB and Genome DNA sequence||
 |6|[@hoxo-m](https://github.com/hoxo-m)/[**bayesopt**](https://github.com/hoxo-m/bayesopt)|An R Implementation of Bayesian Optimization|[:arrow_upper_right:](https://github.com/hoxo-m/bayesopt)|
 |6|[@teramonagi](https://github.com/teramonagi)/[**oandar**](https://github.com/teramonagi/oandar)|R wrapper for the OANDA REST API (http://developer.oanda.com/rest-live/introduction/)||
-|6|[@uribo](https://github.com/uribo)/[**japan_pollinosis**](https://github.com/uribo/japan_pollinosis)|||
 |6|[@uribo](https://github.com/uribo)/[**wakatimer**](https://github.com/uribo/wakatimer)|:hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.||
 |6|[@yutannihilation](https://github.com/yutannihilation)/[**wunderlistr**](https://github.com/yutannihilation/wunderlistr)|R bindings for Wunderlist API||
 |5|[@PhDMeiwp](https://github.com/PhDMeiwp)/[**basicTrendline**](https://github.com/PhDMeiwp/basicTrendline)|💎(on CRAN) an R package for adding trendline of basic linear or nonlinear models and show equation to plot.|[:arrow_upper_right:](https://cran.r-project.org/web/packages/basicTrendline/index.html)|

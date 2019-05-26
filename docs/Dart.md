@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|405|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
-|60|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(1)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dev/packages/bloc_provider)|
+|408|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
+|62|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(1)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dev/packages/bloc_provider)|
 |51|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
 |17|[@ntaoo](https://github.com/ntaoo)/[**material2_dart**](https://github.com/ntaoo/material2_dart)|angular/material2 for Dart.||
 |16|[@kikuchy](https://github.com/kikuchy)/[**crashlytics**](https://github.com/kikuchy/crashlytics)|Flutter plugin for (Fabric) Crashlytics on Android and iOS. (Unofficial)||
@@ -10,8 +10,8 @@
 |13|[@mono0926](https://github.com/mono0926)/[**widget-quiz**](https://github.com/mono0926/widget-quiz)|Flutter Widget Quiz, made for Flutter Create (Source code size is limited to 5KB)|[:arrow_upper_right:](https://medium.com/flutter-jp/flutter-create-a85a29fdb918)|
 |13|[@sh4869](https://github.com/sh4869)/[**twitter.dart**](https://github.com/sh4869/twitter.dart)|Twitter API Library in Dart |[:arrow_upper_right:](https://pub.dartlang.org/packages/twitter)|
 |11|[@mono0926](https://github.com/mono0926)/[**flutter-flavor-example**](https://github.com/mono0926/flutter-flavor-example)|||
+|11|[@najeira](https://github.com/najeira)/[**flutter-video-player**](https://github.com/najeira/flutter-video-player)|A Flutter plugin for iOS and Android for video using ExoPlayer||
 |10|[@mono0926](https://github.com/mono0926)/[**flutter-animations**](https://github.com/mono0926/flutter-animations)||[:arrow_upper_right:](https://medium.com/flutter-jp/implicit-animation-b9d4b7358c28)|
-|10|[@najeira](https://github.com/najeira)/[**flutter-video-player**](https://github.com/najeira/flutter-video-player)|A Flutter plugin for iOS and Android for video using ExoPlayer||
 |10|[@vvakame](https://github.com/vvakame)/[**teaolive**](https://github.com/vvakame/teaolive)|BDD Test Framework for Dart. it was inspired by the Jasmine(JavaScript).||
 |9|[@mono0926](https://github.com/mono0926)/[**simple_logger**](https://github.com/mono0926/simple_logger)|Provides super simple APIs for logging. The log also includes caller info by setting includeCallerInfo to true. On Android Studio, jump to caller info by clicking the log.|[:arrow_upper_right:](https://pub.dartlang.org/packages/simple_logger)|
 |9|[@uehaj](https://github.com/uehaj)/[**dart-saga**](https://github.com/uehaj/dart-saga)|[WIP] port of redux-saga to Dart||

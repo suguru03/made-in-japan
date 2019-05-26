@@ -15,13 +15,13 @@
 |4|[@OTL](https://github.com/OTL)/[**uarm**](https://github.com/OTL/uarm)|ROS tools for UArm by UFactory||
 |4|[@akafugu](https://github.com/akafugu)/[**simpleclock**](https://github.com/akafugu/simpleclock)|Akafugu Simpleclock firmware|[:arrow_upper_right:](http://akafugu.jp/posts/products/simpleclock)|
 |4|[@chpesa](https://github.com/chpesa)/[**Arduino_FaceTracking**](https://github.com/chpesa/Arduino_FaceTracking)|Face tracking algorithm (programmed in C++ - OpenCV) sends control commands to Arduino based Pan-Tilt camera programmed in Java ||
+|4|[@edy555](https://github.com/edy555)/[**MusicalLEDString**](https://github.com/edy555/MusicalLEDString)|Addressable LED String Example||
 |4|[@hrl7](https://github.com/hrl7)/[**ArduinoProxy**](https://github.com/hrl7/ArduinoProxy)|ArduinoとFirefox OSシミュレータをつなぎます||
 |4|[@maximemoreillon](https://github.com/maximemoreillon)/[**ac_controller**](https://github.com/maximemoreillon/ac_controller)|WiFi and MQTT enabled air conditioner controller. Features ability to get OTA updates.||
 |4|[@sugarsweetrobotics](https://github.com/sugarsweetrobotics)/[**RTno**](https://github.com/sugarsweetrobotics/RTno)|RTno = RTmiddleware + arduino. RTno project is developing arduino library|[:arrow_upper_right:](http://www.ysuga.net/robot/rtm/rtc/rtno)|
 |3|[@GenkiOkuma](https://github.com/GenkiOkuma)/[**Alexa-IoT-VoiceOps**](https://github.com/GenkiOkuma/Alexa-IoT-VoiceOps)|||
 |3|[@PuceBaboon](https://github.com/PuceBaboon)/[**Sonoff-Arduino_IDE**](https://github.com/PuceBaboon/Sonoff-Arduino_IDE)|This is just my small tweak to Theo Arends' excellent package.||
 |3|[@darashi](https://github.com/darashi)/[**arduino-pc9801-boot-sound**](https://github.com/darashi/arduino-pc9801-boot-sound)|||
-|3|[@edy555](https://github.com/edy555)/[**MusicalLEDString**](https://github.com/edy555/MusicalLEDString)|Addressable LED String Example||
 |3|[@hideyuki](https://github.com/hideyuki)/[**watering-robot**](https://github.com/hideyuki/watering-robot)|watering robot||
 |3|[@keijiro](https://github.com/keijiro)/[**sustain-pedal-midi**](https://github.com/keijiro/sustain-pedal-midi)|Sustain pedal to MIDI converter||
 |3|[@kshoji](https://github.com/kshoji)/[**FlashWriter**](https://github.com/kshoji/FlashWriter)|FlashROM writer with Arduino MEGA / mbed||

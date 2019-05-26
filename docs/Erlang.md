@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1284|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|1285|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
 |227|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
-|173|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
+|175|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |78|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
 |66|[@jj1bdx](https://github.com/jj1bdx)/[**sfmt-erlang**](https://github.com/jj1bdx/sfmt-erlang)|sfmt-erlang: SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang|[:arrow_upper_right:](http://jj1bdx.github.io/sfmt-erlang/)|
 |40|[@chvanikoff](https://github.com/chvanikoff)/[**cowboy_session**](https://github.com/chvanikoff/cowboy_session)|Cowboy session management||
@@ -110,6 +110,7 @@
 |3|[@mizchi](https://github.com/mizchi)/[**dehydrater**](https://github.com/mizchi/dehydrater)|Promise queue handler||
 |3|[@norton](https://github.com/norton)/[**gen-ets**](https://github.com/norton/gen-ets)|GEN_ETS is an generic wrapper for Erlang Term Storage with a callback interface for a backend implementation.||
 |3|[@otphub](https://github.com/otphub)/[**mnesia**](https://github.com/otphub/mnesia)|||
+|3|[@sile](https://github.com/sile)/[**erl-amf**](https://github.com/sile/erl-amf)|An Erlang library to encode/decode AMF||
 |3|[@sile](https://github.com/sile)/[**hashtrie**](https://github.com/sile/hashtrie)|Hash like trie||
 |3|[@sile](https://github.com/sile)/[**mqttc**](https://github.com/sile/mqttc)|An Erlang MQTT Client||
 |3|[@sile](https://github.com/sile)/[**passage**](https://github.com/sile/passage)|OpenTracing API for Erlang||

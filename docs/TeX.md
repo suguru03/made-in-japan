@@ -6,15 +6,15 @@
 |85|[@neubig](https://github.com/neubig)/[**naacl18tutorial**](https://github.com/neubig/naacl18tutorial)|NAACL 2018 Tutorial: Modelling Natural Language, Programs, and their Intersection||
 |55|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
 |55|[@tkamishima](https://github.com/tkamishima)/[**recsysdoc**](https://github.com/tkamishima/recsysdoc)|Algorithms of Recommender Systems : A survey paper of recommender systems (written in Japanese)|[:arrow_upper_right:](http://www.kamishima.net/archive/recsysdoc.pdf)|
+|50|[@kmaed](https://github.com/kmaed)/[**kmbeamer**](https://github.com/kmaed/kmbeamer)|My themes for Beamer.||
 |49|[@hamano](https://github.com/hamano)/[**the-little-mongodb-book**](https://github.com/hamano/the-little-mongodb-book)|MongoDBの薄い本(The Little MongoDB Book)|[:arrow_upper_right:](http://www.cuspy.org/diary/2012-04-17)|
-|49|[@kmaed](https://github.com/kmaed)/[**kmbeamer**](https://github.com/kmaed/kmbeamer)|My themes for Beamer.||
 |47|[@mizzy](https://github.com/mizzy)/[**serverspec-thesis**](https://github.com/mizzy/serverspec-thesis)|||
 |42|[@vvakame](https://github.com/vvakame)/[**graphql-with-go-book**](https://github.com/vvakame/graphql-with-go-book)||[:arrow_upper_right:](https://vvakame.booth.pm/items/1055228)|
 |35|[@pi8027](https://github.com/pi8027)/[**typeinfer**](https://github.com/pi8027/typeinfer)|Type inference in OCaml|[:arrow_upper_right:](https://github.com/pi8027/typeinfer)|
 |32|[@ryuichiueda](https://github.com/ryuichiueda)/[**ShellGeiData**](https://github.com/ryuichiueda/ShellGeiData)|Files for practice of shellgei||
 |26|[@jilljenn](https://github.com/jilljenn)/[**business-card**](https://github.com/jilljenn/business-card)|A business card in LaTeX||
 |25|[@vvakame](https://github.com/vvakame)/[**review-css-typesetting**](https://github.com/vvakame/review-css-typesetting)|CSS組版やっていき！||
-|23|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing|[:arrow_upper_right:](https://arxiv.org/abs/1811.03388)|
+|24|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing|[:arrow_upper_right:](https://arxiv.org/abs/1811.03388)|
 |21|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
 |21|[@takahashim](https://github.com/takahashim)/[**review-sample-book**](https://github.com/takahashim/review-sample-book)|ReVIEWの書籍サンプルデータです。||
 |19|[@kentaro](https://github.com/kentaro)/[**Bancor_Protocol_Whitepaper_ja**](https://github.com/kentaro/Bancor_Protocol_Whitepaper_ja)|Japanese Translation of The Bancor Protocol Whitepaper||
@@ -59,6 +59,7 @@
 |3|[@gfngfn](https://github.com/gfngfn)/[**expandparams**](https://github.com/gfngfn/expandparams)|(La)TeX packages that makes you save the cost of writing thousands of \expandafter.||
 |3|[@id774](https://github.com/id774)/[**sandbox**](https://github.com/id774/sandbox)|"Sandbox" means a software testing environment for independent evaluation, monitoring or testing||
 |3|[@kmuto](https://github.com/kmuto)/[**review-covermaker**](https://github.com/kmuto/review-covermaker)|Re:VIEW cover maker||
+|3|[@leios](https://github.com/leios)/[**cv**](https://github.com/leios/cv)|A simple CV||
 |3|[@ljvmiranda921](https://github.com/ljvmiranda921)/[**cv**](https://github.com/ljvmiranda921/cv)|Curriculum vitae of Lester James V. Miranda|[:arrow_upper_right:](https://www.dropbox.com/s/kmexsi1zxpa4829/LJMiranda_CV-latest.pdf?dl=0)|
 |3|[@ljvmiranda921](https://github.com/ljvmiranda921)/[**thesis-manuscript**](https://github.com/ljvmiranda921/thesis-manuscript)|Thesis manuscript for Master Degree in Waseda University|[:arrow_upper_right:](http://bit.ly/ThesisManuscript-Miranda)|
 |3|[@masayukig](https://github.com/masayukig)/[**better-testing-through-statistics**](https://github.com/masayukig/better-testing-through-statistics)|||

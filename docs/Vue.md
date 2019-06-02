@@ -1,17 +1,17 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|337|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
+|338|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
 |255|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
-|105|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://vue-fixed-header.potato4d.dev/)|
-|94|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
-|78|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japanese first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
+|106|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://vue-fixed-header.potato4d.dev/)|
+|95|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
+|79|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japanese first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
 |42|[@meganetaaan](https://github.com/meganetaaan)/[**vue-maze**](https://github.com/meganetaaan/vue-maze)|A Vue.js component of a simple maze game.||
 |35|[@miyaoka](https://github.com/miyaoka)/[**grid-generator**](https://github.com/miyaoka/grid-generator)|CSS Grid Layout generator|[:arrow_upper_right:](https://vue-grid-generator.netlify.com/)|
 |32|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
 |28|[@miyaoka](https://github.com/miyaoka)/[**gh-blog**](https://github.com/miyaoka/gh-blog)|GitHub Issue as Blog|[:arrow_upper_right:](https://gh-blog.netlify.com/)|
 |23|[@potato4d](https://github.com/potato4d)/[**vue-dev-template**](https://github.com/potato4d/vue-dev-template)|[deprecated] Vue.js development template.|[:arrow_upper_right:](http://qiita.com/potato4d/items/55a60f21c26bf889afd5)|
 |20|[@frandiox](https://github.com/frandiox)/[**vue-onsenui-kitchensink**](https://github.com/frandiox/vue-onsenui-kitchensink)|Vue.js + Onsen UI Kitchen Sink Example||
-|19|[@mysticatea](https://github.com/mysticatea)/[**vue-eslint-editor**](https://github.com/mysticatea/vue-eslint-editor)|A code editor component to play ESLint.|[:arrow_upper_right:](https://mysticatea.github.io/vue-eslint-editor/)|
+|20|[@mysticatea](https://github.com/mysticatea)/[**vue-eslint-editor**](https://github.com/mysticatea/vue-eslint-editor)|A code editor component to play ESLint.|[:arrow_upper_right:](https://mysticatea.github.io/vue-eslint-editor/)|
 |18|[@ktsn](https://github.com/ktsn)/[**vue-ast-explorer**](https://github.com/ktsn/vue-ast-explorer)|Vue template AST explorer https://ktsn.github.io/vue-ast-explorer/||
 |17|[@lmiller1990](https://github.com/lmiller1990)/[**grahql-vue-example**](https://github.com/lmiller1990/grahql-vue-example)|An article showing how to make a GraphQL server and query with vue|[:arrow_upper_right:](https://medium.com/@lachlanmiller_52885/graphql-basics-and-practical-examples-with-vue-6b649b9685e0)|
 |17|[@potato4d](https://github.com/potato4d)/[**kamishibai-viewer**](https://github.com/potato4d/kamishibai-viewer)|Qiita slide mode embed library|[:arrow_upper_right:](https://potato4d.github.io/kamishibai-viewer/)|
@@ -41,13 +41,14 @@
 |5|[@utatti](https://github.com/utatti)/[**futaba**](https://github.com/utatti/futaba)|Image personalization with TensorFlow.js|[:arrow_upper_right:](https://github.com/utatti/futaba)|
 |4|[@0918nobita](https://github.com/0918nobita)/[**Rider-S**](https://github.com/0918nobita/Rider-S)|安全なサイクリングをサポートするPWA|[:arrow_upper_right:](https://api-project-1039166349340.firebaseapp.com)|
 |4|[@0918nobita](https://github.com/0918nobita)/[**ToyCon-Garage-Emulator**](https://github.com/0918nobita/ToyCon-Garage-Emulator)|Nintendo LaboのToy-Conガレージで作成するプログラムを、ブラウザ上でデバッグできるエミュレータです。||
+|4|[@LISTEN-moe](https://github.com/LISTEN-moe)/[**desktop-app**](https://github.com/LISTEN-moe/desktop-app)|||
 |4|[@hakatashi](https://github.com/hakatashi)/[**coupling.moe**](https://github.com/hakatashi/coupling.moe)|全てのカップリングを応援します|[:arrow_upper_right:](https://coupling.moe/)|
 |4|[@hypermkt](https://github.com/hypermkt)/[**vuejs-samples**](https://github.com/hypermkt/vuejs-samples)|||
 |4|[@k2wanko](https://github.com/k2wanko)/[**vue-drawer**](https://github.com/k2wanko/vue-drawer)|||
 |4|[@miyaoka](https://github.com/miyaoka)/[**vue-touch-range**](https://github.com/miyaoka/vue-touch-range)|Touch extension of input-range element|[:arrow_upper_right:](https://miyaoka.github.io/vue-touch-range/)|
 |4|[@nakajmg](https://github.com/nakajmg)/[**cgmd-browser**](https://github.com/nakajmg/cgmd-browser)|Realtime preview for codegrid-markdown||
+|4|[@ryonakae](https://github.com/ryonakae)/[**brdr-2019**](https://github.com/ryonakae/brdr-2019)|||
 |4|[@tkc](https://github.com/tkc)/[**vue-image-uploader**](https://github.com/tkc/vue-image-uploader)| vue.js image uploader |[:arrow_upper_right:](https://tkc.github.io/vue-image-uploader/)|
-|3|[@LISTEN-moe](https://github.com/LISTEN-moe)/[**desktop-app**](https://github.com/LISTEN-moe/desktop-app)|||
 |3|[@TinyKitten](https://github.com/TinyKitten)/[**KittenBlog**](https://github.com/TinyKitten/KittenBlog)|TinyKitten's headless blog built with Nuxt.js|[:arrow_upper_right:](https://blog.tinykitten.me)|
 |3|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**nuxt-firebase-hosting-sample**](https://github.com/YuheiNakasaka/nuxt-firebase-hosting-sample)|||
 |3|[@argelius](https://github.com/argelius)/[**vue-onsenui-sample**](https://github.com/argelius/vue-onsenui-sample)|A sample app using Vue.js 2.0 and Onsen UI 2.0||
@@ -57,9 +58,9 @@
 |3|[@iwasaki-kenta](https://github.com/iwasaki-kenta)/[**blockflare-relay**](https://github.com/iwasaki-kenta/blockflare-relay)|EOS HK Hackathon - Relay client.||
 |3|[@jacoyutorius](https://github.com/jacoyutorius)/[**nuxt_firebase_kpt**](https://github.com/jacoyutorius/nuxt_firebase_kpt)|KPT by Nuxt + Firebase||
 |3|[@kohei-takata](https://github.com/kohei-takata)/[**vue-share-social**](https://github.com/kohei-takata/vue-share-social)|||
+|3|[@potato4d](https://github.com/potato4d)/[**minimalytm-website**](https://github.com/potato4d/minimalytm-website)|minimalytm official Website|[:arrow_upper_right:](https://www.minimalytm.app)|
 |3|[@potato4d](https://github.com/potato4d)/[**nuxt_html5expertsjp**](https://github.com/potato4d/nuxt_html5expertsjp)|||
 |3|[@potato4d](https://github.com/potato4d)/[**vue-serial-input**](https://github.com/potato4d/vue-serial-input)|Simple serialcode input form for Vue.js|[:arrow_upper_right:](https://potato4d.github.io/vue-serial-input/)|
-|3|[@ryonakae](https://github.com/ryonakae)/[**brdr-2019**](https://github.com/ryonakae/brdr-2019)|||
 |3|[@tkc](https://github.com/tkc)/[**anime-js-sandbox**](https://github.com/tkc/anime-js-sandbox)|sandbox of anime.js|[:arrow_upper_right:](https://tkc.github.io/anime-js-sandbox/)|
 |3|[@trkw](https://github.com/trkw)/[**me**](https://github.com/trkw/me)|:information_source: Hello! My name is...|[:arrow_upper_right:](https://trkw.me/)|
 

@@ -18,13 +18,13 @@
 |45|[@federkasten](https://github.com/federkasten)/[**butler**](https://github.com/federkasten/butler)|Bring Web Workers to ClojureScript||
 |45|[@yokolet](https://github.com/yokolet)/[**hiccup-samples**](https://github.com/yokolet/hiccup-samples)|hiccup samples for clojure cookbook||
 |38|[@hellonico](https://github.com/hellonico)/[**origami**](https://github.com/hellonico/origami)|OpenCV 4.0 Clojure Wrapper||
-|37|[@dvcrn](https://github.com/dvcrn)/[**ajom**](https://github.com/dvcrn/ajom)|atom plugins in clojurescript||
+|36|[@dvcrn](https://github.com/dvcrn)/[**ajom**](https://github.com/dvcrn/ajom)|atom plugins in clojurescript||
+|32|[@athos](https://github.com/athos)/[**JiSE**](https://github.com/athos/JiSE)|JiSE: Java in S-Expression||
 |32|[@federkasten](https://github.com/federkasten)/[**clucie**](https://github.com/federkasten/clucie)|Clojure for the Lucene||
 |32|[@hellonico](https://github.com/hellonico)/[**niclojure**](https://github.com/hellonico/niclojure)|Candid whitebook on Clojure ecosystem||
 |31|[@kawasima](https://github.com/kawasima)/[**darzana**](https://github.com/kawasima/darzana)| a DSL for backends-for-frontends (BFF)||
 |30|[@liquidz](https://github.com/liquidz)/[**cuma**](https://github.com/liquidz/cuma)|Extensible micro template engine for Clojure||
 |27|[@athos](https://github.com/athos)/[**Drains**](https://github.com/athos/Drains)|A new abstraction for flexible and efficient sequence aggregation in Clojure(Script)||
-|27|[@athos](https://github.com/athos)/[**JiSE**](https://github.com/athos/JiSE)|JiSE: Java in S-Expression||
 |26|[@fukamachi](https://github.com/fukamachi)/[**L5**](https://github.com/fukamachi/L5)|Yet Another Presentation Tool for Lispers|[:arrow_upper_right:](http://e-arrows.sakura.ne.jp/l5/)|
 |26|[@kawasima](https://github.com/kawasima)/[**supreme-uploading**](https://github.com/kawasima/supreme-uploading)|至高のアップロード機能づくり||
 |25|[@kawasima](https://github.com/kawasima)/[**axebomber-clj**](https://github.com/kawasima/axebomber-clj)|The generator for Excel grid sheet (so-called Excel方眼紙).||

@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |158|[@ziyan](https://github.com/ziyan)/[**spider**](https://github.com/ziyan/spider)|Web Content Extraction Through Machine Learning|[:arrow_upper_right:](https://www.ziyan.net/2014/04/web-content-extraction-through-machine-learning/)|
-|134|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hypervisor**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
+|136|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hypervisor**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
 |119|[@y-yu](https://github.com/y-yu)/[**trpl-2nd-pdf**](https://github.com/y-yu/trpl-2nd-pdf)|PDF of Japanese The Rust Programming Language: 2nd Edition |[:arrow_upper_right:](https://y-yu.github.io/trpl-2nd-pdf/book.pdf)|
 |85|[@neubig](https://github.com/neubig)/[**naacl18tutorial**](https://github.com/neubig/naacl18tutorial)|NAACL 2018 Tutorial: Modelling Natural Language, Programs, and their Intersection||
 |55|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
@@ -11,7 +11,7 @@
 |47|[@mizzy](https://github.com/mizzy)/[**serverspec-thesis**](https://github.com/mizzy/serverspec-thesis)|||
 |42|[@vvakame](https://github.com/vvakame)/[**graphql-with-go-book**](https://github.com/vvakame/graphql-with-go-book)||[:arrow_upper_right:](https://vvakame.booth.pm/items/1055228)|
 |35|[@pi8027](https://github.com/pi8027)/[**typeinfer**](https://github.com/pi8027/typeinfer)|Type inference in OCaml|[:arrow_upper_right:](https://github.com/pi8027/typeinfer)|
-|32|[@ryuichiueda](https://github.com/ryuichiueda)/[**ShellGeiData**](https://github.com/ryuichiueda/ShellGeiData)|Files for practice of shellgei||
+|33|[@ryuichiueda](https://github.com/ryuichiueda)/[**ShellGeiData**](https://github.com/ryuichiueda/ShellGeiData)|Files for practice of shellgei||
 |26|[@jilljenn](https://github.com/jilljenn)/[**business-card**](https://github.com/jilljenn/business-card)|A business card in LaTeX||
 |25|[@vvakame](https://github.com/vvakame)/[**review-css-typesetting**](https://github.com/vvakame/review-css-typesetting)|CSS組版やっていき！||
 |24|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing|[:arrow_upper_right:](https://arxiv.org/abs/1811.03388)|

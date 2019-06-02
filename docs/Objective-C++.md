@@ -16,9 +16,9 @@
 |6|[@2bbb](https://github.com/2bbb)/[**ofxMacScreenRecorder**](https://github.com/2bbb/ofxMacScreenRecorder)|programmable screen recorder for oF||
 |6|[@Wizcorp](https://github.com/Wizcorp)/[**WebViewForUnity3D**](https://github.com/Wizcorp/WebViewForUnity3D)|Android & iOS webview plugin for unity3D||
 |6|[@ashikase](https://github.com/ashikase)/[**libcrashreport**](https://github.com/ashikase/libcrashreport)|Library for parsing and symbolicating iOS crash log files.||
+|6|[@n-yoda](https://github.com/n-yoda)/[**metal-without-xcode**](https://github.com/n-yoda/metal-without-xcode)|A command-line-compilable example of Metal.||
 |5|[@2bbb](https://github.com/2bbb)/[**ofxMioAlpha**](https://github.com/2bbb/ofxMioAlpha)|Receive data from Mio Alpha in openFrameworks (only OS X 10.7- / iOS 5-)||
 |5|[@hirohitokato](https://github.com/hirohitokato)/[**HKLStepSequencer**](https://github.com/hirohitokato/HKLStepSequencer)|An audio synthesizer & step sequencer for iOS.||
-|5|[@n-yoda](https://github.com/n-yoda)/[**metal-without-xcode**](https://github.com/n-yoda/metal-without-xcode)|A command-line-compilable example of Metal.||
 |4|[@2bbb](https://github.com/2bbb)/[**ofxMacTrackpad**](https://github.com/2bbb/ofxMacTrackpad)|using MBP Trackpad events on openFrameworks||
 |4|[@kapsy](https://github.com/kapsy)/[**handmade_osx**](https://github.com/kapsy/handmade_osx)|My implementation of Handmade Hero's platform layer for OSX.||
 |3|[@hirohitokato](https://github.com/hirohitokato)/[**HKLSynthesizer**](https://github.com/hirohitokato/HKLSynthesizer)|An audio synthesizer & step sequencer for iOS.||

@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|122|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
-|69|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
+|126|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
+|71|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
 |39|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
 |32|[@r9y9](https://github.com/r9y9)/[**VoiceConversion.jl**](https://github.com/r9y9/VoiceConversion.jl)|[Deprecated] Statistical Voice Conversion in Julia. See the website link for new library|[:arrow_upper_right:](https://github.com/r9y9/nnmnkwii)|
 |31|[@bicycle1885](https://github.com/bicycle1885)/[**TranscodingStreams.jl**](https://github.com/bicycle1885/TranscodingStreams.jl)|Simple, consistent interfaces for any codec.||

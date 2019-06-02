@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|8016|[@yhatt](https://github.com/yhatt)/[**marp**](https://github.com/yhatt/marp)|Markdown presentation writer, powered by Electron.|[:arrow_upper_right:](https://yhatt.github.io/marp/)|
+|8021|[@yhatt](https://github.com/yhatt)/[**marp**](https://github.com/yhatt/marp)|[Deprecated] Markdown presentation writer, powered by Electron.|[:arrow_upper_right:](https://yhatt.github.io/marp/)|
 |1302|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus**](https://github.com/t9md/atom-vim-mode-plus)|vim-mode improved|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus)|
-|826|[@iizukanao](https://github.com/iizukanao)/[**node-rtsp-rtmp-server**](https://github.com/iizukanao/node-rtsp-rtmp-server)|RTSP/RTMP/HTTP hybrid server||
+|827|[@iizukanao](https://github.com/iizukanao)/[**node-rtsp-rtmp-server**](https://github.com/iizukanao/node-rtsp-rtmp-server)|RTSP/RTMP/HTTP hybrid server||
 |442|[@fulmicoton](https://github.com/fulmicoton)/[**fattable**](https://github.com/fulmicoton/fattable)|Javascript Library to create scrollable table with infinite rows and columns.||
-|327|[@tmtk75](https://github.com/tmtk75)/[**jumly**](https://github.com/tmtk75/jumly)|Rendering engine for UML diagrams in JavaScript|[:arrow_upper_right:](http://jumly.tmtk.net/)|
-|304|[@cognitom](https://github.com/cognitom)/[**gulp-sketch**](https://github.com/cognitom/gulp-sketch)|A SketchTool plugin for gulp||
-|239|[@k2nr](https://github.com/k2nr)/[**ViChrome**](https://github.com/k2nr/ViChrome)|vi like key binds for Google Chrome||
+|330|[@tmtk75](https://github.com/tmtk75)/[**jumly**](https://github.com/tmtk75/jumly)|Rendering engine for UML diagrams in JavaScript|[:arrow_upper_right:](http://jumly.tmtk.net/)|
+|305|[@cognitom](https://github.com/cognitom)/[**gulp-sketch**](https://github.com/cognitom/gulp-sketch)|A SketchTool plugin for gulp||
+|238|[@k2nr](https://github.com/k2nr)/[**ViChrome**](https://github.com/k2nr/ViChrome)|vi like key binds for Google Chrome||
 |223|[@yuki540net](https://github.com/yuki540net)/[**satella.io**](https://github.com/yuki540net/satella.io)|イラストに「命」を吹き込むソフトウェア||
 |216|[@mizchi](https://github.com/mizchi)/[**arda**](https://github.com/mizchi/arda)|Meta-Flux Framework||
 |200|[@increments](https://github.com/increments)/[**kobito-oss**](https://github.com/increments/kobito-oss)|Markdown Processor built on Electron based on kobito-for-windows||
@@ -14,9 +14,9 @@
 |117|[@yujinakayama](https://github.com/yujinakayama)/[**atom-lint**](https://github.com/yujinakayama/atom-lint)|Obsolete: Generic code linting support for Atom|[:arrow_upper_right:](https://atom.io/packages/atom-lint)|
 |110|[@jaicab](https://github.com/jaicab)/[**Paraxify.js**](https://github.com/jaicab/Paraxify.js)|Progressive enhancement on parallax inspired by Spotify's|[:arrow_upper_right:](http://jaicab.com/Paraxify.js/)|
 |99|[@koba04](https://github.com/koba04)/[**vuejs-book**](https://github.com/koba04/vuejs-book)|This book is vue.js guide book.|[:arrow_upper_right:](http://koba04.github.io/vuejs-book)|
-|95|[@naoya](https://github.com/naoya)/[**hubot-sushiyuki**](https://github.com/naoya/hubot-sushiyuki)|||
-|92|[@aki77](https://github.com/aki77)/[**atom-expand-region**](https://github.com/aki77/atom-expand-region)|expanding selection|[:arrow_upper_right:](https://atom.io/packages/expand-region)|
+|94|[@naoya](https://github.com/naoya)/[**hubot-sushiyuki**](https://github.com/naoya/hubot-sushiyuki)|||
 |92|[@yuki540net](https://github.com/yuki540net)/[**toa**](https://github.com/yuki540net/toa)|シンプルで可愛いミュージックプレイヤー「兎亜」||
+|91|[@aki77](https://github.com/aki77)/[**atom-expand-region**](https://github.com/aki77/atom-expand-region)|expanding selection|[:arrow_upper_right:](https://atom.io/packages/expand-region)|
 |87|[@tuvistavie](https://github.com/tuvistavie)/[**atomic-chrome-atom**](https://github.com/tuvistavie/atomic-chrome-atom)|Edit Chrome textareas in Atom|[:arrow_upper_right:](https://goo.gl/haazl1)|
 |83|[@cognitom](https://github.com/cognitom)/[**tokoro**](https://github.com/cognitom/tokoro)|住所緯度経度変換ライブラリ (ジオコーディング)|[:arrow_upper_right:](http://cognitom.github.io/tokoro/)|
 |81|[@SimeonC](https://github.com/SimeonC)/[**ngRepeatReorder**](https://github.com/SimeonC/ngRepeatReorder)|||
@@ -40,8 +40,8 @@
 |44|[@cognitom](https://github.com/cognitom)/[**gulp-slim**](https://github.com/cognitom/gulp-slim)|Slim plugin for gulp|[:arrow_upper_right:](https://www.npmjs.org/package/gulp-slim)|
 |44|[@cognitom](https://github.com/cognitom)/[**symbol-font-in-web**](https://github.com/cognitom/symbol-font-in-web)|||
 |44|[@matsukaz](https://github.com/matsukaz)/[**hubot-schedule**](https://github.com/matsukaz/hubot-schedule)|A hubot script to schedule a message in both cron-style and datetime-based format pattern||
-|44|[@shokai](https://github.com/shokai)/[**node-arduino-firmata**](https://github.com/shokai/node-arduino-firmata)|Arduino Firmata protocol implementation on Node.js|[:arrow_upper_right:](https://npmjs.org/package/arduino-firmata)|
 |43|[@mizchi](https://github.com/mizchi)/[**stone-skin**](https://github.com/mizchi/stone-skin)|Isomorphic IndexedDb and in memory db wrapper.||
+|43|[@shokai](https://github.com/shokai)/[**node-arduino-firmata**](https://github.com/shokai/node-arduino-firmata)|Arduino Firmata protocol implementation on Node.js|[:arrow_upper_right:](https://npmjs.org/package/arduino-firmata)|
 |39|[@monzou](https://github.com/monzou)/[**backbone.marionette.example**](https://github.com/monzou/backbone.marionette.example)|MVVM-flavored example CRUD app with Backbone.Marionette + Backbone.stickit + Browserify||
 |39|[@r7kamura](https://github.com/r7kamura)/[**mmd.js**](https://github.com/r7kamura/mmd.js)|A project to work MMD in a web browser with client-side JavaScript.||
 |37|[@mizchi](https://github.com/mizchi)/[**dts-parser**](https://github.com/mizchi/dts-parser)|||
@@ -73,9 +73,9 @@
 |26|[@hitode909](https://github.com/hitode909)/[**web-overlay**](https://github.com/hitode909/web-overlay)|Annotate A Web Page and Take a Screenshot with PhantomJS.||
 |26|[@masuidrive](https://github.com/masuidrive)/[**react-starterkit**](https://github.com/masuidrive/react-starterkit)|Reactの開発環境||
 |26|[@tomoya](https://github.com/tomoya)/[**rubocop-auto-correct**](https://github.com/tomoya/rubocop-auto-correct)|Auto-correct ruby source code by using rubocop in Atom.|[:arrow_upper_right:](https://atom.io/packages/rubocop-auto-correct)|
-|25|[@georgeOsdDev](https://github.com/georgeOsdDev)/[**slidepad**](https://github.com/georgeOsdDev/slidepad)|HTML Slide Generator.|[:arrow_upper_right:](http://slidepad.herokuapp.com/)|
-|25|[@yoshiori](https://github.com/yoshiori)/[**pomodoro**](https://github.com/yoshiori/pomodoro)|Simple pomodoro timer for atom|[:arrow_upper_right:](https://atom.io/packages/pomodoro)|
+|24|[@georgeOsdDev](https://github.com/georgeOsdDev)/[**slidepad**](https://github.com/georgeOsdDev/slidepad)|HTML Slide Generator.|[:arrow_upper_right:](http://slidepad.herokuapp.com/)|
 |24|[@mizchi](https://github.com/mizchi)/[**deftypes.js**](https://github.com/mizchi/deftypes.js)|JavaScript Type Definition and Typed Function DSLs||
+|24|[@yoshiori](https://github.com/yoshiori)/[**pomodoro**](https://github.com/yoshiori/pomodoro)|Simple pomodoro timer for atom|[:arrow_upper_right:](https://atom.io/packages/pomodoro)|
 |22|[@gimite](https://github.com/gimite)/[**mjai-manue**](https://github.com/gimite/mjai-manue)|Japanese Mahjong AI.||
 |22|[@mizchi](https://github.com/mizchi)/[**reiny**](https://github.com/mizchi/reiny)|Template engine for React / Mithril / Mercury||
 |21|[@dtaniwaki](https://github.com/dtaniwaki)/[**hubot-alias**](https://github.com/dtaniwaki/hubot-alias)|Action alias for hubot||

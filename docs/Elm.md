@@ -3,10 +3,10 @@
 |118|[@cotoami](https://github.com/cotoami)/[**cotoami**](https://github.com/cotoami/cotoami)|Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.|[:arrow_upper_right:](https://cotoa.me)|
 |77|[@jinjor](https://github.com/jinjor)/[**elm-time-travel**](https://github.com/jinjor/elm-time-travel)|An experimental debugger for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-time-travel/latest)|
 |66|[@yang-wei](https://github.com/yang-wei)/[**elmflux**](https://github.com/yang-wei/elmflux)|Visualization of Elm Signals|[:arrow_upper_right:](http://yang-wei.github.io/elmflux/)|
-|53|[@arowM](https://github.com/arowM)/[**elm-form-decoder**](https://github.com/arowM/elm-form-decoder)|This library provides a scalable way to decode user inputs into neat structure.|[:arrow_upper_right:](https://package.elm-lang.org/packages/arowM/elm-form-decoder/latest/)|
+|56|[@arowM](https://github.com/arowM)/[**elm-form-decoder**](https://github.com/arowM/elm-form-decoder)|This library provides a scalable way to decode user inputs into neat structure.|[:arrow_upper_right:](https://package.elm-lang.org/packages/arowM/elm-form-decoder/latest/)|
 |53|[@jinjor](https://github.com/jinjor)/[**elm-devtool**](https://github.com/jinjor/elm-devtool)|An attempt to use Elm's debugger on Chrome DevTools||
 |43|[@jinjor](https://github.com/jinjor)/[**elm-html-parser**](https://github.com/jinjor/elm-html-parser)|Parse HTML in Elm!|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-html-parser/latest)|
-|40|[@jinjor](https://github.com/jinjor)/[**elm-drill**](https://github.com/jinjor/elm-drill)|手を動かしながら Elm に慣れるためのドリルです。||
+|41|[@jinjor](https://github.com/jinjor)/[**elm-drill**](https://github.com/jinjor/elm-drill)|手を動かしながら Elm に慣れるためのドリルです。||
 |30|[@jinjor](https://github.com/jinjor)/[**elm-debounce**](https://github.com/jinjor/elm-debounce)|Yet another debouncer for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-debounce/latest/)|
 |24|[@shuhei](https://github.com/shuhei)/[**pixelm**](https://github.com/shuhei/pixelm)|A pixel art editor written in Elm|[:arrow_upper_right:](http://shuheikagawa.com/pixelm/)|
 |23|[@3tty0n](https://github.com/3tty0n)/[**elm-online-markdown-editor**](https://github.com/3tty0n/elm-online-markdown-editor)|An online markdown editor written in Elm.|[:arrow_upper_right:](https://3tty0n.github.io/elm-online-markdown-editor/)|
@@ -29,6 +29,7 @@
 |5|[@dfordivam](https://github.com/dfordivam)/[**elm-mind-map**](https://github.com/dfordivam/elm-mind-map)|Elm based mind mapping||
 |5|[@jinjor](https://github.com/jinjor)/[**elm-reversi**](https://github.com/jinjor/elm-reversi)|Just for joy|[:arrow_upper_right:](https://jinjor.github.io/elm-reversi/)|
 |5|[@suzuki-shin](https://github.com/suzuki-shin)/[**elm-chartjs**](https://github.com/suzuki-shin/elm-chartjs)|Elm bindings for Chart.js||
+|4|[@arowM](https://github.com/arowM)/[**elm-mixin**](https://github.com/arowM/elm-mixin)|A brief Elm library for Mixins.||
 |4|[@jinjor](https://github.com/jinjor)/[**elm-large-form-example**](https://github.com/jinjor/elm-large-form-example)|Trying to find the best way|[:arrow_upper_right:](https://jinjor.github.io/elm-large-form-sample/)|
 |4|[@jinjor](https://github.com/jinjor)/[**elm-req**](https://github.com/jinjor/elm-req)|HTTP Request for Elm|[:arrow_upper_right:](https://package.elm-lang.org/packages/jinjor/elm-req/latest/)|
 |4|[@jinjor](https://github.com/jinjor)/[**elm-task-emulator**](https://github.com/jinjor/elm-task-emulator)|task emulator for ports||
@@ -37,7 +38,6 @@
 |4|[@suzuki-shin](https://github.com/suzuki-shin)/[**doubutsuShogi**](https://github.com/suzuki-shin/doubutsuShogi)|||
 |4|[@tshm](https://github.com/tshm)/[**elm-doctest**](https://github.com/tshm/elm-doctest)|doctest runner against Elm-lang source files||
 |4|[@ymtszw](https://github.com/ymtszw)/[**elm-xml-decode**](https://github.com/ymtszw/elm-xml-decode)|Elm XML decoder sharing the spirit of Json.Decode|[:arrow_upper_right:](http://package.elm-lang.org/packages/ymtszw/elm-xml-decode/latest/)|
-|3|[@arowM](https://github.com/arowM)/[**elm-mixin**](https://github.com/arowM/elm-mixin)|A brief Elm library for Mixins.||
 |3|[@arowM](https://github.com/arowM)/[**elm-monoid**](https://github.com/arowM/elm-monoid)|A module to define generic functions for monoid.||
 |3|[@arowM](https://github.com/arowM)/[**html**](https://github.com/arowM/html)|An elm/html alternative which enables you to batch attributes.|[:arrow_upper_right:](https://package.elm-lang.org/packages/arowM/html/latest/)|
 |3|[@jinjor](https://github.com/jinjor)/[**elm-dropdown**](https://github.com/jinjor/elm-dropdown)|Flexible dropdown menu for Elm||

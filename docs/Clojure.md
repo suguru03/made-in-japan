@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|910|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
-|565|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
+|909|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
+|566|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
 |371|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
 |329|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
 |265|[@kawasima](https://github.com/kawasima)/[**jagrid**](https://github.com/kawasima/jagrid)|Japanese-styled grid framework.||
@@ -113,6 +113,7 @@
 |4|[@athos](https://github.com/athos)/[**igv-client**](https://github.com/athos/igv-client)|Clojure implementation of IGV client to control IGV via its Port Commands||
 |4|[@gpsoft](https://github.com/gpsoft)/[**kunya**](https://github.com/gpsoft/kunya)|A minimal app with Electron, ClojureScript, Boot, Reagent and re-frame.||
 |4|[@k2nr](https://github.com/k2nr)/[**dokkaa-builder**](https://github.com/k2nr/dokkaa-builder)|||
+|4|[@liquidz](https://github.com/liquidz)/[**clj-vimhelp**](https://github.com/liquidz/clj-vimhelp)|Vim help file parser/convertor written by Clojure||
 |4|[@liquidz](https://github.com/liquidz)/[**clj-xmas**](https://github.com/liquidz/clj-xmas)|:christmas_tree: :christmas_tree: :christmas_tree:||
 |4|[@liquidz](https://github.com/liquidz)/[**frontmatter**](https://github.com/liquidz/frontmatter)|Parse front matter from a file||
 |4|[@liquidz](https://github.com/liquidz)/[**iced-nrepl**](https://github.com/liquidz/iced-nrepl)|nREPL middleware to support vim-iced.||

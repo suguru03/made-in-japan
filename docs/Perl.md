@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|871|[@hokaccha](https://github.com/hokaccha)/[**nodebrew**](https://github.com/hokaccha/nodebrew)|Node.js version manager||
+|872|[@hokaccha](https://github.com/hokaccha)/[**nodebrew**](https://github.com/hokaccha/nodebrew)|Node.js version manager||
 |806|[@yuki-kimoto](https://github.com/yuki-kimoto)/[**gitprep**](https://github.com/yuki-kimoto/gitprep)|Portable GitHub system into your own server|[:arrow_upper_right:](http://gitprep.yukikimoto.com/)|
-|334|[@neubig](https://github.com/neubig)/[**nlptutorial**](https://github.com/neubig/nlptutorial)|A Tutorial about Programming for Natural Language Processing||
-|324|[@neubig](https://github.com/neubig)/[**nmt-tips**](https://github.com/neubig/nmt-tips)|A tutorial about neural machine translation including tips on building practical systems||
+|333|[@neubig](https://github.com/neubig)/[**nlptutorial**](https://github.com/neubig/nlptutorial)|A Tutorial about Programming for Natural Language Processing||
+|325|[@neubig](https://github.com/neubig)/[**nmt-tips**](https://github.com/neubig/nmt-tips)|A tutorial about neural machine translation including tips on building practical systems||
 |235|[@kazeburo](https://github.com/kazeburo)/[**GrowthForecast**](https://github.com/kazeburo/GrowthForecast)|Lightning Fast Graphing/Visualization|[:arrow_upper_right:](http://kazeburo.github.com/GrowthForecast/)|
 |182|[@naoya](https://github.com/naoya)/[**md2inao**](https://github.com/naoya/md2inao)|Convert markdown to inao-format for WEB+DB PRESS|[:arrow_upper_right:](http://md2inao.bloghackers.net/)|
 |158|[@s-aska](https://github.com/s-aska)/[**dropbox-api-command**](https://github.com/s-aska/dropbox-api-command)|command line interface to access Dropbox API||
@@ -43,7 +43,7 @@
 |45|[@onishi](https://github.com/onishi)/[**mysqldiff**](https://github.com/onishi/mysqldiff)|mysqldiff - mysql scheme diff||
 |44|[@hitode909](https://github.com/hitode909)/[**App-PRT**](https://github.com/hitode909/App-PRT)|Command line tool for Perl code refactoring|[:arrow_upper_right:](https://metacpan.org/release/App-PRT)|
 |44|[@tokuhirom](https://github.com/tokuhirom)/[**SQL-Maker**](https://github.com/tokuhirom/SQL-Maker)|||
-|42|[@aki2o](https://github.com/aki2o)/[**plsense**](https://github.com/aki2o/plsense)|Omni completion tool for Perl||
+|43|[@aki2o](https://github.com/aki2o)/[**plsense**](https://github.com/aki2o/plsense)|Omni completion tool for Perl||
 |42|[@comewalk](https://github.com/comewalk)/[**google-api-perl-client**](https://github.com/comewalk/google-api-perl-client)|Google APIs Client Library for Perl|[:arrow_upper_right:](http://code.google.com/p/google-api-perl-client/)|
 |40|[@cooldaemon](https://github.com/cooldaemon)/[**RabbitFoot**](https://github.com/cooldaemon/RabbitFoot)|An asynchronous and multi channel Perl AMQP client. It uses Coro and AnyEvent::RabbitMQ.|[:arrow_upper_right:](http://search.cpan.org/~ikuta/Net-RabbitFoot/)|
 |40|[@hatena](https://github.com/hatena)/[**Sorter**](https://github.com/hatena/Sorter)|||
@@ -261,6 +261,7 @@
 |12|[@typester](https://github.com/typester)/[**github-ircbot-perl**](https://github.com/typester/github-ircbot-perl)|ircbot to broadcast github post-receive message to irc||
 |12|[@walf443](https://github.com/walf443)/[**p5-dbix-skinny-pager**](https://github.com/walf443/p5-dbix-skinny-pager)|||
 |12|[@zigorou](https://github.com/zigorou)/[**p5-data-ruledfactory**](https://github.com/zigorou/p5-data-ruledfactory)|||
+|11|[@DQNEO](https://github.com/DQNEO)/[**Amazon-S3-Thin**](https://github.com/DQNEO/Amazon-S3-Thin)|A thin, lightweight, low-level Amazon S3 client|[:arrow_upper_right:](https://metacpan.org/pod/Amazon::S3::Thin)|
 |11|[@aklaswad](https://github.com/aklaswad)/[**mt-plugin-oauth-framework**](https://github.com/aklaswad/mt-plugin-oauth-framework)|provide easy way to use oauth for mt plugins|[:arrow_upper_right:](http://blog.aklaswad.com/)|
 |11|[@canada](https://github.com/canada)/[**PerlDocJp**](https://github.com/canada/PerlDocJp)|This Web application let perldoc.jp Japanized pod document browsable and searchable just like search.cpan.org|[:arrow_upper_right:](http://kaede.to/~canada/doc)|
 |11|[@do-aki](https://github.com/do-aki)/[**N1Repl**](https://github.com/do-aki/N1Repl)|master n : slave 1 replication for mysql||
@@ -294,7 +295,6 @@
 |11|[@yasuaki](https://github.com/yasuaki)/[**lxrng**](https://github.com/yasuaki/lxrng)|clone of git://lxr.linux.no/git/lxrng.git||
 |11|[@yusukebe](https://github.com/yusukebe)/[**Shiori**](https://github.com/yusukebe/Shiori)|Yet another Perl implementation of Shiori web-app.||
 |11|[@zigorou](https://github.com/zigorou)/[**p5-test-mock-guard**](https://github.com/zigorou/p5-test-mock-guard)|Simple mock test library using RAII|[:arrow_upper_right:](http://d.hatena.ne.jp/ZIGOROu/)|
-|10|[@DQNEO](https://github.com/DQNEO)/[**Amazon-S3-Thin**](https://github.com/DQNEO/Amazon-S3-Thin)|A thin, lightweight, low-level Amazon S3 client|[:arrow_upper_right:](https://metacpan.org/pod/Amazon::S3::Thin)|
 |10|[@Hiroyuki-Nagata](https://github.com/Hiroyuki-Nagata)/[**foltia**](https://github.com/Hiroyuki-Nagata/foltia)|安定版は → https://github.com/Hiroyuki-Nagata/foltia/releases/tag/v1.0|[:arrow_upper_right:](http://www.dcc-jpl.com/soft/foltia/)|
 |10|[@azumakuniyuki](https://github.com/azumakuniyuki)/[**Haineko**](https://github.com/azumakuniyuki/Haineko)|Email relay server receiving JSON via HTTP, sending email via SMTP, respond results as a JSON.||
 |10|[@bonnu](https://github.com/bonnu)/[**class-sasya**](https://github.com/bonnu/class-sasya)|||
@@ -435,6 +435,7 @@
 |8|[@typester](https://github.com/typester)/[**Test-RedisServer**](https://github.com/typester/Test-RedisServer)|redis-server runner for testing||
 |8|[@typester](https://github.com/typester)/[**data-amf**](https://github.com/typester/data-amf)|perl module for serialize/deserialize adobe's AMF data||
 |8|[@tyru](https://github.com/tyru)/[**gittools**](https://github.com/tyru/gittools)|||
+|8|[@tyru](https://github.com/tyru)/[**srvtools**](https://github.com/tyru/srvtools)|||
 |8|[@uzulla](https://github.com/uzulla)/[**Pyazo2**](https://github.com/uzulla/Pyazo2)|File uploader. - Gyazo, Gifzo compatible.||
 |8|[@y-ken](https://github.com/y-ken)/[**setup-server-hp**](https://github.com/y-ken/setup-server-hp)|HP Proliant server setup repository.||
 |8|[@y-yu](https://github.com/y-yu)/[**myBlog**](https://github.com/y-yu/myBlog)|blog||
@@ -494,7 +495,6 @@
 |7|[@typester](https://github.com/typester)/[**ark-jobeet**](https://github.com/typester/ark-jobeet)|||
 |7|[@typester](https://github.com/typester)/[**ark-sample-twitteroauth**](https://github.com/typester/ark-sample-twitteroauth)|||
 |7|[@typester](https://github.com/typester)/[**spork-s5theme-koebu**](https://github.com/typester/spork-s5theme-koebu)|S5 theme for koebu fans||
-|7|[@tyru](https://github.com/tyru)/[**srvtools**](https://github.com/tyru/srvtools)|||
 |7|[@walf443](https://github.com/walf443)/[**p5-cache-pluggable**](https://github.com/walf443/p5-cache-pluggable)|||
 |7|[@xaicron](https://github.com/xaicron)/[**p5-Data-Validator-Recursive**](https://github.com/xaicron/p5-Data-Validator-Recursive)|recursive data friendly Data::Validator||
 |7|[@yoshiki](https://github.com/yoshiki)/[**HTTP-MobileAgent-Plugin-Locator**](https://github.com/yoshiki/HTTP-MobileAgent-Plugin-Locator)|Handling mobile location information plugin for HTTP::MobileAgent||

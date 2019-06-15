@@ -1,11 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|109|[@2vg](https://github.com/2vg)/[**mofuw**](https://github.com/2vg/mofuw)|mofuw is *MO*re *F*aster, *U*ltra minimal *W*ebserver.||
-|14|[@2vg](https://github.com/2vg)/[**mofuparser**](https://github.com/2vg/mofuparser)|mofuparser is hyper minimal ultra fast http parser.||
+|110|[@2vg](https://github.com/2vg)/[**mofuw**](https://github.com/2vg/mofuw)|mofuw is *MO*re *F*aster, *U*ltra minimal *W*ebserver.||
+|15|[@2vg](https://github.com/2vg)/[**mofuparser**](https://github.com/2vg/mofuparser)|mofuparser is hyper minimal ultra fast http parser.||
 |12|[@CORDEA](https://github.com/CORDEA)/[**oauth**](https://github.com/CORDEA/oauth)|OAuth library for nim||
 |10|[@2vg](https://github.com/2vg)/[**nimuv**](https://github.com/2vg/nimuv)|nimuv is libuv dynamic bind for nim.||
 |8|[@2vg](https://github.com/2vg)/[**MSQueue**](https://github.com/2vg/MSQueue)|Michael-Scott queue implemented in Nim||
 |8|[@2vg](https://github.com/2vg)/[**mofut**](https://github.com/2vg/mofut)|Yet another Future pattern implementation. Runtime zero memory allocation.||
+|8|[@kubo39](https://github.com/kubo39)/[**twitter**](https://github.com/kubo39/twitter)|Low-level twitter API wrapper library for Nim||
 |7|[@2vg](https://github.com/2vg)/[**MOLFO**](https://github.com/2vg/MOLFO)|MOLFO is MOre Light Flexible Orm.||
 |7|[@2vg](https://github.com/2vg)/[**mofunoise**](https://github.com/2vg/mofunoise)|mofunoise is high-level Nim implementation of linenoise.||
 |7|[@2vg](https://github.com/2vg)/[**msh**](https://github.com/2vg/msh)|msh is minimal shell of Nim.||

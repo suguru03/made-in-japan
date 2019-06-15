@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|222|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Perfect Docker Image for Media Streaming Expert User||
+|223|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Perfect Docker Image for Media Streaming Expert User||
 |138|[@atyenoria](https://github.com/atyenoria)/[**webrtc-transcoding-experimentation**](https://github.com/atyenoria/webrtc-transcoding-experimentation)|[wip] Docker Image for Media Streaming Expert User. Janus WebRTC Docker Image||
-|85|[@vvakame](https://github.com/vvakame)/[**docker-review**](https://github.com/vvakame/docker-review)|Re:VIEW build container by docker||
+|88|[@vvakame](https://github.com/vvakame)/[**docker-review**](https://github.com/vvakame/docker-review)|Re:VIEW build container by docker||
 |77|[@codesuki](https://github.com/codesuki)/[**ecs-nginx-proxy**](https://github.com/codesuki/ecs-nginx-proxy)|Reverse proxy for AWS ECS. Lets you address your docker containers by sub domain.||
 |40|[@knqyf263](https://github.com/knqyf263)/[**CVE-2019-6340**](https://github.com/knqyf263/CVE-2019-6340)|Environment for CVE-2019-6340 (Drupal)||
 |40|[@uetchy](https://github.com/uetchy)/[**dockerfile-machinelearning**](https://github.com/uetchy/dockerfile-machinelearning)|🐳🤖 Dockerfile for ML researchers.||
 |34|[@Lewuathe](https://github.com/Lewuathe)/[**docker-presto-cluster**](https://github.com/Lewuathe/docker-presto-cluster)|Multiple node presto cluster on docker container||
 |30|[@m2wasabi](https://github.com/m2wasabi)/[**docker-compose-template-laravel**](https://github.com/m2wasabi/docker-compose-template-laravel)|Docker template for Laravel developer||
-|25|[@mumoshu](https://github.com/mumoshu)/[**kube-ssm-agent**](https://github.com/mumoshu/kube-ssm-agent)|Secure, access-controlled, and audited terminal sessions to EKS nodes without SSH||
+|27|[@mumoshu](https://github.com/mumoshu)/[**kube-ssm-agent**](https://github.com/mumoshu/kube-ssm-agent)|Secure, access-controlled, and audited terminal sessions to EKS nodes without SSH||
 |22|[@knqyf263](https://github.com/knqyf263)/[**CVE-2019-6467**](https://github.com/knqyf263/CVE-2019-6467)|CVE-2019-6467 (BIND nxdomain-redirect)||
-|20|[@codelibs](https://github.com/codelibs)/[**docker-fess**](https://github.com/codelibs/docker-fess)|Docker files for Fess|[:arrow_upper_right:](https://hub.docker.com/r/codelibs/fess/)|
+|21|[@codelibs](https://github.com/codelibs)/[**docker-fess**](https://github.com/codelibs/docker-fess)|Docker files for Fess|[:arrow_upper_right:](https://hub.docker.com/r/codelibs/fess/)|
 |18|[@norio-nomura](https://github.com/norio-nomura)/[**docker-swift**](https://github.com/norio-nomura/docker-swift)|Docker image of Swift for Linux on Ubuntu 16.04|[:arrow_upper_right:](https://hub.docker.com/r/norionomura/swift/)|
 |15|[@localhost9292](https://github.com/localhost9292)/[**kubernetes.rb**](https://github.com/localhost9292/kubernetes.rb)|||
 |14|[@wckr](https://github.com/wckr)/[**wocker-dockerfile**](https://github.com/wckr/wocker-dockerfile)|Dockerfiles of wocker/wocker for Wocker.|[:arrow_upper_right:](https://wckr.github.io/)|
@@ -20,11 +20,11 @@
 |11|[@tk0miya](https://github.com/tk0miya)/[**sphinx-docker**](https://github.com/tk0miya/sphinx-docker)|||
 |10|[@smizy](https://github.com/smizy)/[**docker-scikit-learn**](https://github.com/smizy/docker-scikit-learn)|Python3 scikit-learn with Jupyter docker image based on alpine ||
 |9|[@hakatashi](https://github.com/hakatashi)/[**esolang-box**](https://github.com/hakatashi/esolang-box)|Easy and standalized docker images for 150+ esoteric (and non-esoteric) languages.|[:arrow_upper_right:](https://hub.docker.com/u/esolang/)|
+|9|[@k1LoW](https://github.com/k1LoW)/[**docker-alpine-pandoc-ja**](https://github.com/k1LoW/docker-alpine-pandoc-ja)|Pandoc for Japanese based on Alpine Linux||
 |9|[@shufo](https://github.com/shufo)/[**docker-phoenix**](https://github.com/shufo/docker-phoenix)|A script for creating elixir image for  phoenix framework.|[:arrow_upper_right:](https://hub.docker.com/r/shufo/phoenix/)|
-|8|[@k1LoW](https://github.com/k1LoW)/[**docker-alpine-pandoc-ja**](https://github.com/k1LoW/docker-alpine-pandoc-ja)|Pandoc for Japanese based on Alpine Linux||
+|9|[@vvakame](https://github.com/vvakame)/[**Docker-circleci-gaego**](https://github.com/vvakame/Docker-circleci-gaego)|GAE/Go + Node.js environment for Circle CI 2.0||
 |8|[@knqyf263](https://github.com/knqyf263)/[**CVE-2018-1273**](https://github.com/knqyf263/CVE-2018-1273)|Environment for CVE-2018-1273 (Spring Data Commons)||
 |8|[@mtsmfm](https://github.com/mtsmfm)/[**docker-rails-dev-box**](https://github.com/mtsmfm/docker-rails-dev-box)|A docker environment for Ruby on Rails core development||
-|8|[@vvakame](https://github.com/vvakame)/[**Docker-circleci-gaego**](https://github.com/vvakame/Docker-circleci-gaego)|GAE/Go + Node.js environment for Circle CI 2.0||
 |7|[@matsuu](https://github.com/matsuu)/[**docker-azure-cli**](https://github.com/matsuu/docker-azure-cli)|Dockerfile for azure-cli on Alpine Linux|[:arrow_upper_right:](https://hub.docker.com/r/matsuu/azure-cli-python/)|
 |7|[@smizy](https://github.com/smizy)/[**docker-couchdb**](https://github.com/smizy/docker-couchdb)|Apache CouchDB docker image based on alpine||
 |7|[@unasuke](https://github.com/unasuke)/[**distroless-ruby**](https://github.com/unasuke/distroless-ruby)||[:arrow_upper_right:](https://hub.docker.com/r/unasuke/distroless-ruby/)|

@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|79|[@hakatashi](https://github.com/hakatashi)/[**unicode-map**](https://github.com/hakatashi/unicode-map)|The Unicode Map Project||
+|80|[@hakatashi](https://github.com/hakatashi)/[**unicode-map**](https://github.com/hakatashi/unicode-map)|The Unicode Map Project||
 |23|[@hakatashi](https://github.com/hakatashi)/[**slack-ikku**](https://github.com/hakatashi/slack-ikku)|一句||
 |11|[@polm](https://github.com/polm)/[**palladian-facades**](https://github.com/polm/palladian-facades)|Palladian Facade Generator for ProcJam2015||
 |10|[@hakatashi](https://github.com/hakatashi)/[**kindlegen**](https://github.com/hakatashi/kindlegen)|Simple Node.js wrapper for kindlegen program||

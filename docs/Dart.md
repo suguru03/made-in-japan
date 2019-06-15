@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|413|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
-|62|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(1)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dev/packages/bloc_provider)|
+|415|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
+|63|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(1)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dev/packages/bloc_provider)|
 |52|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
 |17|[@ntaoo](https://github.com/ntaoo)/[**material2_dart**](https://github.com/ntaoo/material2_dart)|angular/material2 for Dart.||
 |16|[@kikuchy](https://github.com/kikuchy)/[**crashlytics**](https://github.com/kikuchy/crashlytics)|Flutter plugin for (Fabric) Crashlytics on Android and iOS. (Unofficial)||
@@ -26,6 +26,7 @@
 |6|[@kui](https://github.com/kui)/[**ansi_pixels**](https://github.com/kui/ansi_pixels)|A Polymer.dart application to edit ANSI art|[:arrow_upper_right:](https://kui.github.io/ansi_pixels/)|
 |5|[@MiCHiLU](https://github.com/MiCHiLU)/[**dart-cca-example**](https://github.com/MiCHiLU/dart-cca-example)|An example of Cordova Chrome Apps written in AngularDart.||
 |5|[@kyorohiro](https://github.com/kyorohiro)/[**hello_skyengine**](https://github.com/kyorohiro/hello_skyengine)|https://www.gitbook.com/book/kyorohiro/hello_skyengine/details |[:arrow_upper_right:](https://kyorohiro.github.io/umiuni2d/web/index.html)|
+|5|[@mono0926](https://github.com/mono0926)/[**swiftui-flutter-comparison**](https://github.com/mono0926/swiftui-flutter-comparison)|||
 |5|[@ntaoo](https://github.com/ntaoo)/[**NekogataDrumSequencer**](https://github.com/ntaoo/NekogataDrumSequencer)|Nekogata Drum Sequencer with AngularDart||
 |5|[@syuilo](https://github.com/syuilo)/[**Notex2**](https://github.com/syuilo/Notex2)|Notex2 is a Markdown compiler.||
 |5|[@tnantoka](https://github.com/tnantoka)/[**flutter_shapes**](https://github.com/tnantoka/flutter_shapes)|Paint various shapes on canvas with Flutter CustomPainter|[:arrow_upper_right:](https://tnantoka.github.io/flutter_shapes/)|
@@ -33,7 +34,6 @@
 |5|[@zaki50](https://github.com/zaki50)/[**uuid_dart**](https://github.com/zaki50/uuid_dart)|||
 |4|[@kyorohiro](https://github.com/kyorohiro)/[**doc_2dgame**](https://github.com/kyorohiro/doc_2dgame)|https://www.gitbook.com/book/kyorohiro/hello_skyengine/details|[:arrow_upper_right:](https://kyorohiro.github.io/umiuni2d/web/index.html)|
 |4|[@michilu](https://github.com/michilu)/[**dart-cca-example**](https://github.com/michilu/dart-cca-example)|An example of Cordova Chrome Apps written in AngularDart.||
-|4|[@mono0926](https://github.com/mono0926)/[**swiftui-flutter-comparison**](https://github.com/mono0926/swiftui-flutter-comparison)|||
 |4|[@yshrsmz](https://github.com/yshrsmz)/[**bip39-dart**](https://github.com/yshrsmz/bip39-dart)|BIP39 mnemonic code implementation in Dart lang||
 |3|[@CORDEA](https://github.com/CORDEA)/[**flutter_backdrop_steps**](https://github.com/CORDEA/flutter_backdrop_steps)||[:arrow_upper_right:](https://medium.com/@CORDEA/implement-backdrop-with-flutter-73b4c61b1357)|
 |3|[@adwd](https://github.com/adwd)/[**flutter_hacker_news**](https://github.com/adwd/flutter_hacker_news)|||

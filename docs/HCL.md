@@ -25,5 +25,6 @@
 |4|[@toshimaru](https://github.com/toshimaru)/[**terraform-digitalocean-rails**](https://github.com/toshimaru/terraform-digitalocean-rails)|A terraform simple sample on DigitalOcean for Ruby on Rails.||
 |3|[@jun06t](https://github.com/jun06t)/[**terraform-sample**](https://github.com/jun06t/terraform-sample)|terraform examples||
 |3|[@matsuu](https://github.com/matsuu)/[**terraform-pixiv-isucon2016**](https://github.com/matsuu/terraform-pixiv-isucon2016)|Terraform configuration files for building Pixiv ISUCON 2016 environment||
+|3|[@superbrothers](https://github.com/superbrothers)/[**prometheus-up-and-running-ja-examples**](https://github.com/superbrothers/prometheus-up-and-running-ja-examples)|『入門 Prometheus』9章 コンテナとKubernetes サンプルファイル Kubernetes 1.13 対応版|[:arrow_upper_right:](https://www.oreilly.co.jp/books/9784873118772/)|
 |3|[@tsub](https://github.com/tsub)/[**eks-sandbox**](https://github.com/tsub/eks-sandbox)|||
 

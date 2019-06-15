@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|8030|[@yhatt](https://github.com/yhatt)/[**marp**](https://github.com/yhatt/marp)|[Deprecated] Markdown presentation writer, powered by Electron.|[:arrow_upper_right:](https://yhatt.github.io/marp/)|
-|1304|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus**](https://github.com/t9md/atom-vim-mode-plus)|vim-mode improved|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus)|
+|8033|[@yhatt](https://github.com/yhatt)/[**marp**](https://github.com/yhatt/marp)|[Deprecated] Markdown presentation writer, powered by Electron.|[:arrow_upper_right:](https://yhatt.github.io/marp/)|
+|1308|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus**](https://github.com/t9md/atom-vim-mode-plus)|vim-mode improved|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus)|
 |827|[@iizukanao](https://github.com/iizukanao)/[**node-rtsp-rtmp-server**](https://github.com/iizukanao/node-rtsp-rtmp-server)|RTSP/RTMP/HTTP hybrid server||
 |442|[@fulmicoton](https://github.com/fulmicoton)/[**fattable**](https://github.com/fulmicoton/fattable)|Javascript Library to create scrollable table with infinite rows and columns.||
 |330|[@tmtk75](https://github.com/tmtk75)/[**jumly**](https://github.com/tmtk75/jumly)|Rendering engine for UML diagrams in JavaScript|[:arrow_upper_right:](http://jumly.tmtk.net/)|
@@ -59,12 +59,11 @@
 |29|[@aki77](https://github.com/aki77)/[**atom-gist**](https://github.com/aki77/atom-gist)|create and insert Gists|[:arrow_upper_right:](https://atom.io/packages/gist)|
 |29|[@bokuweb](https://github.com/bokuweb)/[**ithildin**](https://github.com/bokuweb/ithildin)|Twitter Client built on Electron with Mithril.js||
 |29|[@iizukanao](https://github.com/iizukanao)/[**picam-streamer**](https://github.com/iizukanao/picam-streamer)|Out-of-the-box SD card image for live streaming with Raspberry Pi||
+|29|[@tsuyoshiwada](https://github.com/tsuyoshiwada)/[**sequential-number**](https://github.com/tsuyoshiwada/sequential-number)|An Atom package, to inputs sequential numbers across multiple cursors.|[:arrow_upper_right:](https://atom.io/packages/sequential-number)|
 |28|[@geta6](https://github.com/geta6)/[**teitoku**](https://github.com/geta6/teitoku)|kancolle browser|[:arrow_upper_right:](http://makebooth.com/i/1xkN1)|
 |28|[@sanographix](https://github.com/sanographix)/[**makibot**](https://github.com/sanographix/makibot)|Nishikino Maki bot||
 |28|[@sebastibe](https://github.com/sebastibe)/[**brunch-django-examples**](https://github.com/sebastibe/brunch-django-examples)|Some examples of projects using Django and Brunch||
 |28|[@shokai](https://github.com/shokai)/[**nhk-news-app**](https://github.com/shokai/nhk-news-app)|auto play NHK News using node-webkit||
-|28|[@tsuyoshiwada](https://github.com/tsuyoshiwada)/[**sequential-number**](https://github.com/tsuyoshiwada/sequential-number)|An Atom package, to inputs sequential numbers across multiple cursors.|[:arrow_upper_right:](https://atom.io/packages/sequential-number)|
-|27|[@baku89](https://github.com/baku89)/[**group_inou-EYE**](https://github.com/baku89/group_inou-EYE)|tool for making group_inou "EYE"|[:arrow_upper_right:](http://baku89.com/work/eye)|
 |27|[@joker1007](https://github.com/joker1007)/[**gulp-rev-rails-manifest**](https://github.com/joker1007/gulp-rev-rails-manifest)|Write gulp-rev manifest.json that is Rails assets helper compatible||
 |27|[@ktty1220](https://github.com/ktty1220)/[**jquery.popn-socialbutton**](https://github.com/ktty1220/jquery.popn-socialbutton)|Twitter, Facebook, Google+1, はてなブックマーク, Pocketのカスタムシェアボタンを表示するjQueryプラグイン||
 |27|[@mizchi](https://github.com/mizchi)/[**atom-git-grep**](https://github.com/mizchi/atom-git-grep)|git-grep in atom editor||
@@ -76,7 +75,7 @@
 |24|[@georgeOsdDev](https://github.com/georgeOsdDev)/[**slidepad**](https://github.com/georgeOsdDev/slidepad)|HTML Slide Generator.|[:arrow_upper_right:](http://slidepad.herokuapp.com/)|
 |24|[@mizchi](https://github.com/mizchi)/[**deftypes.js**](https://github.com/mizchi/deftypes.js)|JavaScript Type Definition and Typed Function DSLs||
 |24|[@yoshiori](https://github.com/yoshiori)/[**pomodoro**](https://github.com/yoshiori/pomodoro)|Simple pomodoro timer for atom|[:arrow_upper_right:](https://atom.io/packages/pomodoro)|
-|22|[@gimite](https://github.com/gimite)/[**mjai-manue**](https://github.com/gimite/mjai-manue)|Japanese Mahjong AI.||
+|23|[@gimite](https://github.com/gimite)/[**mjai-manue**](https://github.com/gimite/mjai-manue)|Japanese Mahjong AI.||
 |22|[@mizchi](https://github.com/mizchi)/[**reiny**](https://github.com/mizchi/reiny)|Template engine for React / Mithril / Mercury||
 |21|[@dtaniwaki](https://github.com/dtaniwaki)/[**hubot-alias**](https://github.com/dtaniwaki/hubot-alias)|Action alias for hubot||
 |21|[@t9md](https://github.com/t9md)/[**atom-lazy-motion**](https://github.com/t9md/atom-lazy-motion)|Rapid cursor positioning with fuzzy search.|[:arrow_upper_right:](https://atom.io/packages/lazy-motion)|
@@ -84,10 +83,10 @@
 |19|[@moqada](https://github.com/moqada)/[**hubot-misawa**](https://github.com/moqada/hubot-misawa)|惚れさせ男子データベースから地獄のミサワ画像を返す hubot-scripts||
 |19|[@ngs](https://github.com/ngs)/[**hubot-irkit**](https://github.com/ngs/hubot-irkit)|A Hubot script to control IRKit the hackable remote controller.|[:arrow_upper_right:](https://www.npmjs.org/package/hubot-irkit)|
 |19|[@stomita](https://github.com/stomita)/[**salesforce-reactjs-spa-starter**](https://github.com/stomita/salesforce-reactjs-spa-starter)|A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)||
+|19|[@t9md](https://github.com/t9md)/[**atom-open-this**](https://github.com/t9md/atom-open-this)|Open file under cursor like `gf`(Vim), `C-x C-f`(Emacs)|[:arrow_upper_right:](https://atom.io/packages/open-this)|
 |18|[@bouzuya](https://github.com/bouzuya)/[**hubot-docomo-dialogue**](https://github.com/bouzuya/hubot-docomo-dialogue)|A Hubot script that calls the docomo dialogue API||
 |18|[@mizchi](https://github.com/mizchi)/[**momic**](https://github.com/mizchi/momic)|||
 |18|[@soutaro](https://github.com/soutaro)/[**pull-request-conditional-merge**](https://github.com/soutaro/pull-request-conditional-merge)|Merge GitHub pull request when CI passes||
-|18|[@t9md](https://github.com/t9md)/[**atom-open-this**](https://github.com/t9md/atom-open-this)|Open file under cursor like `gf`(Vim), `C-x C-f`(Emacs)|[:arrow_upper_right:](https://atom.io/packages/open-this)|
 |18|[@yoshiori](https://github.com/yoshiori)/[**hubot-scorekeeper**](https://github.com/yoshiori/hubot-scorekeeper)|hubot scorekeeper|[:arrow_upper_right:](https://www.npmjs.org/package/hubot-scorekeeper)|
 |17|[@buhrmi](https://github.com/buhrmi)/[**hashgraph**](https://github.com/buhrmi/hashgraph)|A "proof-of-concept" hashgraph implementation on IPFS||
 |17|[@cognitom](https://github.com/cognitom)/[**gulp-straw**](https://github.com/cognitom/gulp-straw)|Gulp Task Manager: The command-line tool for managing your gulpfile.||
@@ -144,6 +143,7 @@
 |11|[@satyr](https://github.com/satyr)/[**cup**](https://github.com/satyr/cup)|Coco Ultra Pudding|[:arrow_upper_right:](http://satyr.github.com/cup/)|
 |10|[@geta6](https://github.com/geta6)/[**libime.js**](https://github.com/geta6/libime.js)|detect IME input||
 |10|[@griffin-stewie](https://github.com/griffin-stewie)/[**atom-redpen**](https://github.com/griffin-stewie/atom-redpen)|Validate your document using 'RedPen' on your Atom Editor|[:arrow_upper_right:](https://atom.io/packages/redpen)|
+|10|[@iizukanao](https://github.com/iizukanao)/[**bitter**](https://github.com/iizukanao/bitter)|Minimal blog engine for Git and Markdown enthusiasts|[:arrow_upper_right:](http://notes.kyu-mu.net/2013/05/29/introducing_bitter_blog_engine)|
 |10|[@itchyny](https://github.com/itchyny)/[**jsparser**](https://github.com/itchyny/jsparser)|A JavaScript parser in JavaScript generated by Jison|[:arrow_upper_right:](http://itchyny.github.io/jsparser/)|
 |10|[@k2wanko](https://github.com/k2wanko)/[**nicoapi**](https://github.com/k2wanko/nicoapi)|Nico API is NiconicoAPI Client|[:arrow_upper_right:](https://www.npmjs.com/package/nicoapi)|
 |10|[@p-baleine](https://github.com/p-baleine)/[**atom-twitter-client**](https://github.com/p-baleine/atom-twitter-client)|Twitter client for Atom. https://atom.io/packages/atom-twitter-client||
@@ -162,10 +162,8 @@
 |9|[@e-jigsaw](https://github.com/e-jigsaw)/[**chatwork.md**](https://github.com/e-jigsaw/chatwork.md)|display pretty message on Chatwork|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/chatworkmd/fjnnpbgiidejiglkoahmfclfnegnjjpe)|
 |9|[@emanon001](https://github.com/emanon001)/[**hubot-nomulish**](https://github.com/emanon001/hubot-nomulish)|ノムリッシュ翻訳 for Hubot||
 |9|[@higanworks](https://github.com/higanworks)/[**higanbot**](https://github.com/higanworks/higanbot)|hubot for HiganWorks||
-|9|[@iizukanao](https://github.com/iizukanao)/[**bitter**](https://github.com/iizukanao/bitter)|Minimal blog engine for Git and Markdown enthusiasts|[:arrow_upper_right:](http://notes.kyu-mu.net/2013/05/29/introducing_bitter_blog_engine)|
 |9|[@ikeikeikeike](https://github.com/ikeikeikeike)/[**bookmarkhub**](https://github.com/ikeikeikeike/bookmarkhub)|https://github.com/ikeikeikeike/social-bookmark-counter-on-google-search||
 |9|[@jtwp470](https://github.com/jtwp470)/[**gochiusa-bot**](https://github.com/jtwp470/gochiusa-bot)|The "Is the order a rabbit?" BOT for Slack||
-|9|[@mattn](https://github.com/mattn)/[**open-vim**](https://github.com/mattn/open-vim)||[:arrow_upper_right:](https://atom.io/packages/open-vim)|
 |9|[@mizchi](https://github.com/mizchi)/[**summon**](https://github.com/mizchi/summon)|||
 |9|[@mohayonao](https://github.com/mohayonao)/[**MutekiTimer**](https://github.com/mohayonao/MutekiTimer)|A stable timer that run in the background||
 |9|[@nagayama](https://github.com/nagayama)/[**hubot-ifttt**](https://github.com/nagayama/hubot-ifttt)|Hubot with IFTTT||
@@ -194,6 +192,7 @@
 |8|[@handlename](https://github.com/handlename)/[**chrome-tab-anything**](https://github.com/handlename/chrome-tab-anything)|select tab through "anything" interface.||
 |8|[@ktty1220](https://github.com/ktty1220)/[**sqlite3-webapi-kit**](https://github.com/ktty1220/sqlite3-webapi-kit)|SQLite3をデータベースサーバー化するNode.js用APIキット||
 |8|[@masui](https://github.com/masui)/[**atom-dynamic-macro**](https://github.com/masui/atom-dynamic-macro)|Dynamic Macro for Atom editor||
+|8|[@mattn](https://github.com/mattn)/[**open-vim**](https://github.com/mattn/open-vim)||[:arrow_upper_right:](https://atom.io/packages/open-vim)|
 |8|[@nariyu](https://github.com/nariyu)/[**Tempaa**](https://github.com/nariyu/Tempaa)|A minimal template engine with data-binding.||
 |8|[@ngs](https://github.com/ngs)/[**hubot-hotpepper**](https://github.com/ngs/hubot-hotpepper)|Searches restaurants from Hotpepper with Hubot.|[:arrow_upper_right:](http://ja.ngs.io/2014/05/24/hubot-rws/)|
 |8|[@soundTricker](https://github.com/soundTricker)/[**ScriptManager**](https://github.com/soundTricker/ScriptManager)|Script Manager of Google Apps Script / Apps Script Library||

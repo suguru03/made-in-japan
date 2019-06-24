@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3819|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
-|626|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|3821|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
+|632|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
 |87|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |81|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |67|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
@@ -31,9 +31,9 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |10|[@UnixJunkie](https://github.com/UnixJunkie)/[**minicli**](https://github.com/UnixJunkie/minicli)|Minimalist OCaml library for command line parsing||
 |10|[@mzp](https://github.com/mzp)/[**coq-ruby**](https://github.com/mzp/coq-ruby)|||
 |10|[@mzp](https://github.com/mzp)/[**trello.md**](https://github.com/mzp/trello.md)|📋Copy trello board information to clipboard as markdown format.|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/trellomd/ibjelhogbfmmcpdblpjipdpmaocngjdm)|
+|10|[@ymyzk](https://github.com/ymyzk)/[**lambda-dti**](https://github.com/ymyzk/lambda-dti)|Interpreter of the ITGL with dynamic type inference||
 |9|[@0zat](https://github.com/0zat)/[**bs-dom**](https://github.com/0zat/bs-dom)|A DOM Library for BuckleScript||
 |9|[@AltGr](https://github.com/AltGr)/[**opam-ed**](https://github.com/AltGr/opam-ed)|A small  command-line tool to help with mechanical edition of opam files||
-|9|[@ymyzk](https://github.com/ymyzk)/[**lambda-dti**](https://github.com/ymyzk/lambda-dti)|Interpreter of the ITGL with dynamic type inference||
 |8|[@UnixJunkie](https://github.com/UnixJunkie)/[**interval-tree**](https://github.com/UnixJunkie/interval-tree)|tree for float intervals||
 |8|[@UnixJunkie](https://github.com/UnixJunkie)/[**phashtbl**](https://github.com/UnixJunkie/phashtbl)|Minimalist persistent hashtbl OCaml library||
 |8|[@mzp](https://github.com/mzp)/[**coq-for-ipad**](https://github.com/mzp/coq-for-ipad)|||

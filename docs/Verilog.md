@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|95|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
+|96|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
 |24|[@osafune](https://github.com/osafune)/[**peridot**](https://github.com/osafune/peridot)|'PERIDOT' - Simple & Compact FPGA board||
 |21|[@kazunori279](https://github.com/kazunori279)/[**CPU32**](https://github.com/kazunori279/CPU32)|Tiny MIPS for Terasic DE0||
 |9|[@stffrdhrn](https://github.com/stffrdhrn)/[**uart**](https://github.com/stffrdhrn/uart)|Verilog uart receiver and transmitter modules for De0 Nano||

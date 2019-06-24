@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |83|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
-|76|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance. Supports multi-install.|[:arrow_upper_right:](https://git.io/alpwsl)|
+|77|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance. Supports multi-install.|[:arrow_upper_right:](https://git.io/alpwsl)|
 |53|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |43|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
 |39|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
@@ -9,7 +9,7 @@
 |34|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
 |28|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-agent**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/mackerelio/mackerel-agent/)|
 |28|[@moznion](https://github.com/moznion)/[**aws-lambda-perl5-layer**](https://github.com/moznion/aws-lambda-perl5-layer)|Perl5 layer for AWS Lambda with runtime API||
-|26|[@atsushieno](https://github.com/atsushieno)/[**android-fluidsynth**](https://github.com/atsushieno/android-fluidsynth)|[Deprecated] fluidsynth Android port / build. It's old, see https://github.com/Fluidsynth/fluidsynth/tree/master/doc/android||
+|25|[@atsushieno](https://github.com/atsushieno)/[**android-fluidsynth**](https://github.com/atsushieno/android-fluidsynth)|[Deprecated] fluidsynth Android port / build. It's old, see https://github.com/Fluidsynth/fluidsynth/tree/master/doc/android||
 |25|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
 |24|[@itchyny](https://github.com/itchyny)/[**fastinvsqrt**](https://github.com/itchyny/fastinvsqrt)|Fast inverse square root in programming languages||
 |23|[@ayatakesi](https://github.com/ayatakesi)/[**emacs-24.5-doc-emacs**](https://github.com/ayatakesi/emacs-24.5-doc-emacs)|emacsマニュアルの日本語化と公開|[:arrow_upper_right:](https://ayatakesi.github.io/)|
@@ -64,6 +64,7 @@
 |4|[@nobu](https://github.com/nobu)/[**build-files**](https://github.com/nobu/build-files)|||
 |4|[@sisimai](https://github.com/sisimai)/[**set-of-emails**](https://github.com/sisimai/set-of-emails)|bounce mail collection for tests and development on Sisimai|[:arrow_upper_right:](https://libsisimai.org/)|
 |4|[@tork-a](https://github.com/tork-a)/[**live-cd2**](https://github.com/tork-a/live-cd2)|||
+|4|[@ueokande](https://github.com/ueokande)/[**tex-makefile**](https://github.com/ueokande/tex-makefile)|Makefile to compile TeX document.||
 |4|[@ykzts](https://github.com/ykzts)/[**omanko.porn**](https://github.com/ykzts/omanko.porn)||[:arrow_upper_right:](https://omanko.porn/)|
 |4|[@yugui](https://github.com/yugui)/[**cgo-explained**](https://github.com/yugui/cgo-explained)|Example codes to understand how cgo works inside "go build" command.|[:arrow_upper_right:](http://qiita.com/yugui/items/e71d3d0b3d654a110188)|
 |3|[@ToshihitoKon](https://github.com/ToshihitoKon)/[**Kotlin_study**](https://github.com/ToshihitoKon/Kotlin_study)|kotlin development env setting util||
@@ -72,6 +73,7 @@
 |3|[@everpeace](https://github.com/everpeace)/[**kube-zookeeper**](https://github.com/everpeace/kube-zookeeper)|||
 |3|[@hanachin](https://github.com/hanachin)/[**satysfi-examples**](https://github.com/hanachin/satysfi-examples)|||
 |3|[@jj1bdx](https://github.com/jj1bdx)/[**erlang-freebsd-port**](https://github.com/jj1bdx/erlang-freebsd-port)|Tentative private FreeBSD Erlang Port for 18.2||
+|3|[@kazuho](https://github.com/kazuho)/[**draft-kazuho-httpbis-priority**](https://github.com/kazuho/draft-kazuho-httpbis-priority)|||
 |3|[@kdmsnr](https://github.com/kdmsnr)/[**NexusGuide**](https://github.com/kdmsnr/NexusGuide)|||
 |3|[@mordiford](https://github.com/mordiford)/[**device_zuk_z2_plus**](https://github.com/mordiford/device_zuk_z2_plus)|IceCold Device configuration for Lenovo/ZUK Z2 Plus||
 |3|[@r-plus](https://github.com/r-plus)/[**NoDictation**](https://github.com/r-plus/NoDictation)|Disable dictation key without disable Siri.||
@@ -82,7 +84,6 @@
 |3|[@snmsts](https://github.com/snmsts)/[**docker-cl-pack**](https://github.com/snmsts/docker-cl-pack)|||
 |3|[@tado](https://github.com/tado)/[**dltccs17**](https://github.com/tado/dltccs17)|Creative Coding School code examples||
 |3|[@tokuhirom](https://github.com/tokuhirom)/[**setusergroups**](https://github.com/tokuhirom/setusergroups)|set uid/pid/supplementary groups||
-|3|[@ueokande](https://github.com/ueokande)/[**tex-makefile**](https://github.com/ueokande/tex-makefile)|Makefile to compile TeX document.||
 |3|[@yantene](https://github.com/yantene)/[**sushiemoji**](https://github.com/yantene/sushiemoji)|High-quality sushi emoji set||
 |3|[@yuk7](https://github.com/yuk7)/[**android_device_intel_baytrail**](https://github.com/yuk7/android_device_intel_baytrail)|Device Trees for BayTrail-T devices||
 |3|[@yutopp](https://github.com/yutopp)/[**8cc.rill**](https://github.com/yutopp/8cc.rill)|||

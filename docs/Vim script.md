@@ -1,61 +1,61 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|4701|[@mattn](https://github.com/mattn)/[**emmet-vim**](https://github.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|[:arrow_upper_right:](http://mattn.github.io/emmet-vim)|
-|3753|[@itchyny](https://github.com/itchyny)/[**lightline.vim**](https://github.com/itchyny/lightline.vim)|A light and configurable statusline/tabline plugin for Vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5294)|
+|4707|[@mattn](https://github.com/mattn)/[**emmet-vim**](https://github.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|[:arrow_upper_right:](http://mattn.github.io/emmet-vim)|
+|3766|[@itchyny](https://github.com/itchyny)/[**lightline.vim**](https://github.com/itchyny/lightline.vim)|A light and configurable statusline/tabline plugin for Vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5294)|
 |2783|[@Shougo](https://github.com/Shougo)/[**unite.vim**](https://github.com/Shougo/unite.vim)|:dragon: Unite and create user interfaces|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3396)|
-|2618|[@Shougo](https://github.com/Shougo)/[**neocomplete.vim**](https://github.com/Shougo/neocomplete.vim)|Next generation completion framework after neocomplcache||
-|2309|[@Shougo](https://github.com/Shougo)/[**dein.vim**](https://github.com/Shougo/dein.vim)|:zap: Dark powered Vim/Neovim plugin manager||
+|2622|[@Shougo](https://github.com/Shougo)/[**neocomplete.vim**](https://github.com/Shougo/neocomplete.vim)|Next generation completion framework after neocomplcache||
+|2316|[@Shougo](https://github.com/Shougo)/[**dein.vim**](https://github.com/Shougo/dein.vim)|:zap: Dark powered Vim/Neovim plugin manager||
 |2212|[@Shougo](https://github.com/Shougo)/[**neobundle.vim**](https://github.com/Shougo/neobundle.vim)|Next generation Vim package manager||
-|1466|[@mattn](https://github.com/mattn)/[**gist-vim**](https://github.com/mattn/gist-vim)|vimscript for gist|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2423)|
-|1162|[@itchyny](https://github.com/itchyny)/[**calendar.vim**](https://github.com/itchyny/calendar.vim)|A calendar application for Vim||
-|1047|[@Shougo](https://github.com/Shougo)/[**vimshell.vim**](https://github.com/Shougo/vimshell.vim)|:shell: Powerful shell implemented by vim.||
-|1025|[@Quramy](https://github.com/Quramy)/[**tsuquyomi**](https://github.com/Quramy/tsuquyomi)|A Vim plugin for TypeScript|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5151)|
-|947|[@Shougo](https://github.com/Shougo)/[**vimproc.vim**](https://github.com/Shougo/vimproc.vim)|Interactive command execution in Vim.||
-|925|[@Shougo](https://github.com/Shougo)/[**neosnippet.vim**](https://github.com/Shougo/neosnippet.vim)|neo-snippet plugin||
-|895|[@kana](https://github.com/kana)/[**vim-textobj-user**](https://github.com/kana/vim-textobj-user)|Vim plugin: Create your own text objects|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2100)|
-|867|[@haya14busa](https://github.com/haya14busa)/[**incsearch.vim**](https://github.com/haya14busa/incsearch.vim)|:flashlight: Improved incremental searching for Vim|[:arrow_upper_right:](https://medium.com/@haya14busa/incsearch-vim-is-dead-long-live-incsearch-2b7070d55250)|
-|781|[@Shougo](https://github.com/Shougo)/[**vimfiler.vim**](https://github.com/Shougo/vimfiler.vim)|:file_folder: Powerful file explorer implemented by Vim script||
-|713|[@cocopon](https://github.com/cocopon)/[**iceberg.vim**](https://github.com/cocopon/iceberg.vim)|:antarctica: Dark blue color scheme for Vim and Neovim|[:arrow_upper_right:](https://cocopon.github.io/iceberg.vim/)|
-|618|[@rhysd](https://github.com/rhysd)/[**vim-clang-format**](https://github.com/rhysd/vim-clang-format)|Vim plugin for clang-format, a formatter for C, C++, Obj-C, Java, JavaScript, TypeScript and ProtoBuf.|[:arrow_upper_right:](http://clang.llvm.org/docs/ClangFormat.html)|
+|1471|[@mattn](https://github.com/mattn)/[**gist-vim**](https://github.com/mattn/gist-vim)|vimscript for gist|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2423)|
+|1165|[@itchyny](https://github.com/itchyny)/[**calendar.vim**](https://github.com/itchyny/calendar.vim)|A calendar application for Vim||
+|1048|[@Shougo](https://github.com/Shougo)/[**vimshell.vim**](https://github.com/Shougo/vimshell.vim)|:shell: Powerful shell implemented by vim.||
+|1032|[@Quramy](https://github.com/Quramy)/[**tsuquyomi**](https://github.com/Quramy/tsuquyomi)|A Vim plugin for TypeScript|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5151)|
+|950|[@Shougo](https://github.com/Shougo)/[**vimproc.vim**](https://github.com/Shougo/vimproc.vim)|Interactive command execution in Vim.||
+|924|[@Shougo](https://github.com/Shougo)/[**neosnippet.vim**](https://github.com/Shougo/neosnippet.vim)|neo-snippet plugin||
+|897|[@kana](https://github.com/kana)/[**vim-textobj-user**](https://github.com/kana/vim-textobj-user)|Vim plugin: Create your own text objects|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2100)|
+|868|[@haya14busa](https://github.com/haya14busa)/[**incsearch.vim**](https://github.com/haya14busa/incsearch.vim)|:flashlight: Improved incremental searching for Vim|[:arrow_upper_right:](https://medium.com/@haya14busa/incsearch-vim-is-dead-long-live-incsearch-2b7070d55250)|
+|780|[@Shougo](https://github.com/Shougo)/[**vimfiler.vim**](https://github.com/Shougo/vimfiler.vim)|:file_folder: Powerful file explorer implemented by Vim script||
+|717|[@cocopon](https://github.com/cocopon)/[**iceberg.vim**](https://github.com/cocopon/iceberg.vim)|:antarctica: Dark blue color scheme for Vim and Neovim|[:arrow_upper_right:](https://cocopon.github.io/iceberg.vim/)|
+|619|[@rhysd](https://github.com/rhysd)/[**vim-clang-format**](https://github.com/rhysd/vim-clang-format)|Vim plugin for clang-format, a formatter for C, C++, Obj-C, Java, JavaScript, TypeScript and ProtoBuf.|[:arrow_upper_right:](http://clang.llvm.org/docs/ClangFormat.html)|
 |585|[@motemen](https://github.com/motemen)/[**git-vim**](https://github.com/motemen/git-vim)|My vim files for Git||
-|506|[@rhysd](https://github.com/rhysd)/[**vim-grammarous**](https://github.com/rhysd/vim-grammarous)|A powerful grammar checker for Vim using LanguageTool.||
-|504|[@mattn](https://github.com/mattn)/[**webapi-vim**](https://github.com/mattn/webapi-vim)|vim interface to Web API|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4019)|
-|496|[@rhysd](https://github.com/rhysd)/[**clever-f.vim**](https://github.com/rhysd/clever-f.vim)|Extended f, F, t and T key mappings for Vim.|[:arrow_upper_right:](https://rhysd.github.io/clever-f.vim)|
-|408|[@cohama](https://github.com/cohama)/[**lexima.vim**](https://github.com/cohama/lexima.vim)|Auto close parentheses and repeat by dot dot dot...||
-|401|[@rhysd](https://github.com/rhysd)/[**committia.vim**](https://github.com/rhysd/committia.vim)|A Vim plugin for more pleasant editing on commit messages||
-|387|[@lambdalisue](https://github.com/lambdalisue)/[**gina.vim**](https://github.com/lambdalisue/gina.vim)|Asynchronously control git repositories in Neovim/Vim 8|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5531)|
-|369|[@Shougo](https://github.com/Shougo)/[**shougo-s-github**](https://github.com/Shougo/shougo-s-github)|Shougo's git repository - vim, zsh, screen, etc...||
+|509|[@rhysd](https://github.com/rhysd)/[**vim-grammarous**](https://github.com/rhysd/vim-grammarous)|A powerful grammar checker for Vim using LanguageTool.||
+|506|[@mattn](https://github.com/mattn)/[**webapi-vim**](https://github.com/mattn/webapi-vim)|vim interface to Web API|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4019)|
+|497|[@rhysd](https://github.com/rhysd)/[**clever-f.vim**](https://github.com/rhysd/clever-f.vim)|Extended f, F, t and T key mappings for Vim.|[:arrow_upper_right:](https://rhysd.github.io/clever-f.vim)|
+|414|[@cohama](https://github.com/cohama)/[**lexima.vim**](https://github.com/cohama/lexima.vim)|Auto close parentheses and repeat by dot dot dot...||
+|403|[@rhysd](https://github.com/rhysd)/[**committia.vim**](https://github.com/rhysd/committia.vim)|A Vim plugin for more pleasant editing on commit messages||
+|393|[@lambdalisue](https://github.com/lambdalisue)/[**gina.vim**](https://github.com/lambdalisue/gina.vim)|Asynchronously control git repositories in Neovim/Vim 8|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5531)|
+|368|[@Shougo](https://github.com/Shougo)/[**shougo-s-github**](https://github.com/Shougo/shougo-s-github)|Shougo's git repository - vim, zsh, screen, etc...||
 |354|[@eagletmt](https://github.com/eagletmt)/[**neco-ghc**](https://github.com/eagletmt/neco-ghc)|A completion plugin for Haskell, using ghc-mod|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3423)|
 |338|[@tacahiroy](https://github.com/tacahiroy)/[**ctrlp-funky**](https://github.com/tacahiroy/ctrlp-funky)|A super simple function navigator for ctrlp.vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4592)|
 |336|[@heavenshell](https://github.com/heavenshell)/[**vim-jsdoc**](https://github.com/heavenshell/vim-jsdoc)|Generate JSDoc to your JavaScript code.||
-|331|[@t9md](https://github.com/t9md)/[**vim-choosewin**](https://github.com/t9md/vim-choosewin)|Land on window you chose like tmux's 'display-pane'||
-|330|[@rhysd](https://github.com/rhysd)/[**git-messenger.vim**](https://github.com/rhysd/git-messenger.vim)|Vim and Neovim plugin to reveal the commit messages under the cursor||
-|325|[@Shougo](https://github.com/Shougo)/[**echodoc.vim**](https://github.com/Shougo/echodoc.vim)|Print documents in echo area.||
-|311|[@kana](https://github.com/kana)/[**vim-smartinput**](https://github.com/kana/vim-smartinput)|Vim plugin: Provide smart input assistant||
-|262|[@rhysd](https://github.com/rhysd)/[**vim-crystal**](https://github.com/rhysd/vim-crystal)|Vim filetype and tools support for Crystal language.|[:arrow_upper_right:](http://crystal-lang.org/)|
-|260|[@Shougo](https://github.com/Shougo)/[**neosnippet-snippets**](https://github.com/Shougo/neosnippet-snippets)|The standard snippets repository for neosnippet||
-|253|[@MaxMEllon](https://github.com/MaxMEllon)/[**vim-jsx-pretty**](https://github.com/MaxMEllon/vim-jsx-pretty)|:flashlight: [Vim script] JSX syntax pretty highlighting for vim.||
+|335|[@rhysd](https://github.com/rhysd)/[**git-messenger.vim**](https://github.com/rhysd/git-messenger.vim)|Vim and Neovim plugin to reveal the commit messages under the cursor||
+|332|[@t9md](https://github.com/t9md)/[**vim-choosewin**](https://github.com/t9md/vim-choosewin)|Land on window you chose like tmux's 'display-pane'||
+|329|[@Shougo](https://github.com/Shougo)/[**echodoc.vim**](https://github.com/Shougo/echodoc.vim)|Print documents in echo area.||
+|310|[@kana](https://github.com/kana)/[**vim-smartinput**](https://github.com/kana/vim-smartinput)|Vim plugin: Provide smart input assistant||
+|264|[@rhysd](https://github.com/rhysd)/[**vim-crystal**](https://github.com/rhysd/vim-crystal)|Vim filetype and tools support for Crystal language.|[:arrow_upper_right:](http://crystal-lang.org/)|
+|261|[@Shougo](https://github.com/Shougo)/[**neosnippet-snippets**](https://github.com/Shougo/neosnippet-snippets)|The standard snippets repository for neosnippet||
+|255|[@MaxMEllon](https://github.com/MaxMEllon)/[**vim-jsx-pretty**](https://github.com/MaxMEllon/vim-jsx-pretty)|:flashlight: [Vim script] JSX syntax pretty highlighting for vim.||
 |247|[@tyru](https://github.com/tyru)/[**open-browser.vim**](https://github.com/tyru/open-browser.vim)|Open URI with your favorite browser from your most favorite editor|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3133)|
 |240|[@simeji](https://github.com/simeji)/[**winresizer**](https://github.com/simeji/winresizer)|very simple vim plugin for easy resizing of your vim windows ||
 |225|[@lambdalisue](https://github.com/lambdalisue)/[**vim-gita**](https://github.com/lambdalisue/vim-gita)|[Obsolete] An awesome git handling plugin for Vim||
-|216|[@itchyny](https://github.com/itchyny)/[**vim-cursorword**](https://github.com/itchyny/vim-cursorword)|Underlines the word under the cursor|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5100)|
-|212|[@kana](https://github.com/kana)/[**vim-textobj-entire**](https://github.com/kana/vim-textobj-entire)|Vim plugin: Text objects for entire buffer|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2610)|
-|198|[@tell-k](https://github.com/tell-k)/[**vim-autopep8**](https://github.com/tell-k/vim-autopep8)|autopep8 plugin for Vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4614)|
+|217|[@itchyny](https://github.com/itchyny)/[**vim-cursorword**](https://github.com/itchyny/vim-cursorword)|Underlines the word under the cursor|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5100)|
+|213|[@kana](https://github.com/kana)/[**vim-textobj-entire**](https://github.com/kana/vim-textobj-entire)|Vim plugin: Text objects for entire buffer|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2610)|
+|199|[@tell-k](https://github.com/tell-k)/[**vim-autopep8**](https://github.com/tell-k/vim-autopep8)|autopep8 plugin for Vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4614)|
 |193|[@cocopon](https://github.com/cocopon)/[**vaffle.vim**](https://github.com/cocopon/vaffle.vim)|:file_folder: Lightweight file manager for Vim||
+|192|[@cohama](https://github.com/cohama)/[**agit.vim**](https://github.com/cohama/agit.vim)|A powerful Git log viewer||
 |192|[@kana](https://github.com/kana)/[**vim-vspec**](https://github.com/kana/vim-vspec)|Vim plugin: Testing framework for Vim script|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3012)|
-|191|[@cohama](https://github.com/cohama)/[**agit.vim**](https://github.com/cohama/agit.vim)|A powerful Git log viewer||
-|183|[@kana](https://github.com/kana)/[**vim-arpeggio**](https://github.com/kana/vim-arpeggio)|Vim plugin: Mappings for simultaneously pressed keys|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2425)|
+|184|[@kana](https://github.com/kana)/[**vim-arpeggio**](https://github.com/kana/vim-arpeggio)|Vim plugin: Mappings for simultaneously pressed keys|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2425)|
 |170|[@haya14busa](https://github.com/haya14busa)/[**vim-asterisk**](https://github.com/haya14busa/vim-asterisk)|:snowflake: *-Improved|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5059)|
 |168|[@tyru](https://github.com/tyru)/[**caw.vim**](https://github.com/tyru/caw.vim)|Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes||
-|159|[@mattn](https://github.com/mattn)/[**sonictemplate-vim**](https://github.com/mattn/sonictemplate-vim)|Easy and high speed coding method|[:arrow_upper_right:](http://mattn.github.com/sonictemplate-vim)|
-|157|[@sgur](https://github.com/sgur)/[**vim-editorconfig**](https://github.com/sgur/vim-editorconfig)|Yet another EditorConfig (http://editorconfig.org) plugin for vim written in vimscript only||
-|155|[@Shougo](https://github.com/Shougo)/[**deol.nvim**](https://github.com/Shougo/deol.nvim)|Dark powered shell interface for NeoVim and Vim8.||
+|160|[@mattn](https://github.com/mattn)/[**sonictemplate-vim**](https://github.com/mattn/sonictemplate-vim)|Easy and high speed coding method|[:arrow_upper_right:](http://mattn.github.com/sonictemplate-vim)|
+|158|[@Shougo](https://github.com/Shougo)/[**deol.nvim**](https://github.com/Shougo/deol.nvim)|Dark powered shell interface for NeoVim and Vim8.||
+|158|[@sgur](https://github.com/sgur)/[**vim-editorconfig**](https://github.com/sgur/vim-editorconfig)|Yet another EditorConfig (http://editorconfig.org) plugin for vim written in vimscript only||
 |150|[@haya14busa](https://github.com/haya14busa)/[**is.vim**](https://github.com/haya14busa/is.vim)|incremental search improved - successor of incsearch.vim||
-|147|[@kana](https://github.com/kana)/[**vim-submode**](https://github.com/kana/vim-submode)|Vim plugin: Create your own submodes|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2467)|
+|150|[@kana](https://github.com/kana)/[**vim-submode**](https://github.com/kana/vim-submode)|Vim plugin: Create your own submodes|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2467)|
 |139|[@Shougo](https://github.com/Shougo)/[**vinarise.vim**](https://github.com/Shougo/vinarise.vim)|Ultimate hex editing system with Vim||
 |139|[@lambdalisue](https://github.com/lambdalisue)/[**vim-gista**](https://github.com/lambdalisue/vim-gista)|An alternative gist.vim, vim plugin which manipulate gists in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4976)|
+|138|[@aereal](https://github.com/aereal)/[**dotfiles**](https://github.com/aereal/dotfiles)|My config files.||
 |138|[@rhysd](https://github.com/rhysd)/[**github-complete.vim**](https://github.com/rhysd/github-complete.vim)|Vim input completion for GitHub||
-|135|[@aereal](https://github.com/aereal)/[**dotfiles**](https://github.com/aereal/dotfiles)|My config files.||
 |135|[@kana](https://github.com/kana)/[**vim-fakeclip**](https://github.com/kana/vim-fakeclip)|Vim plugin: Provide pseudo "clipboard" registers|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2098)|
 |132|[@koron](https://github.com/koron)/[**vim-kaoriya**](https://github.com/koron/vim-kaoriya)|Vim+kaoriya build system||
 |130|[@glidenote](https://github.com/glidenote)/[**memolist.vim**](https://github.com/glidenote/memolist.vim)|simple memo plugin for Vim.|[:arrow_upper_right:](http://blog.glidenote.com/blog/2012/03/26/memolist.vim/)|
@@ -69,27 +69,27 @@
 |110|[@rhysd](https://github.com/rhysd)/[**devdocs.vim**](https://github.com/rhysd/devdocs.vim)|Open devdocs.io from Vim||
 |109|[@rhysd](https://github.com/rhysd)/[**vim-operator-surround**](https://github.com/rhysd/vim-operator-surround)|Vim operator mapping to enclose text objects with surrounds like paren, quote and so on.||
 |106|[@basyura](https://github.com/basyura)/[**TweetVim**](https://github.com/basyura/TweetVim)|twitter client for vim|[:arrow_upper_right:](http://tweetvim.basyura.org/)|
+|100|[@lambdalisue](https://github.com/lambdalisue)/[**suda.vim**](https://github.com/lambdalisue/suda.vim)|An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows||
 |100|[@mattn](https://github.com/mattn)/[**calendar-vim**](https://github.com/mattn/calendar-vim)|calendar vimscript|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=52)|
 |97|[@haya14busa](https://github.com/haya14busa)/[**go-vimlparser**](https://github.com/haya14busa/go-vimlparser)|:zap: Vim Script Parser written in Go|[:arrow_upper_right:](https://medium.com/@haya14busa/vim-script-parser-written-in-go-4d0296782a14#.tf52lht5h)|
-|97|[@lambdalisue](https://github.com/lambdalisue)/[**suda.vim**](https://github.com/lambdalisue/suda.vim)|An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows||
 |95|[@itchyny](https://github.com/itchyny)/[**thumbnail.vim**](https://github.com/itchyny/thumbnail.vim)|A thumbnail-style buffer selector for Vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4615)|
 |94|[@mattn](https://github.com/mattn)/[**vim-starwars**](https://github.com/mattn/vim-starwars)|Playing StarWars on Vim||
 |93|[@itchyny](https://github.com/itchyny)/[**landscape.vim**](https://github.com/itchyny/landscape.vim)|A colorscheme and syntax for Vim||
 |93|[@tyru](https://github.com/tyru)/[**eskk.vim**](https://github.com/tyru/eskk.vim)|eskk is pure Vim script implementation of input method engine SKK||
 |90|[@Shougo](https://github.com/Shougo)/[**neoinclude.vim**](https://github.com/Shougo/neoinclude.vim)|Include completion framework for neocomplete/deoplete||
 |88|[@lambdalisue](https://github.com/lambdalisue)/[**vim-pyenv**](https://github.com/lambdalisue/vim-pyenv)|Activate the versions and the virtualenvs of pyenv within a live VIM session||
+|88|[@rhysd](https://github.com/rhysd)/[**dogfiles**](https://github.com/rhysd/dogfiles)|dog + dotfiles = dogfiles|[:arrow_upper_right:](https://rhysd.github.io)|
 |87|[@mattn](https://github.com/mattn)/[**vim-brain**](https://github.com/mattn/vim-brain)|Neural Networks written in Vim script||
 |87|[@mattn](https://github.com/mattn)/[**vim-maketable**](https://github.com/mattn/vim-maketable)|||
-|87|[@rhysd](https://github.com/rhysd)/[**dogfiles**](https://github.com/rhysd/dogfiles)|dog + dotfiles = dogfiles|[:arrow_upper_right:](https://rhysd.github.io)|
 |84|[@Quramy](https://github.com/Quramy)/[**vison**](https://github.com/Quramy/vison)|A Vim plugin for writing JSON with JSON Schema|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5162)|
-|79|[@haya14busa](https://github.com/haya14busa)/[**vim-edgemotion**](https://github.com/haya14busa/vim-edgemotion)|Move to the edge!||
+|80|[@haya14busa](https://github.com/haya14busa)/[**vim-edgemotion**](https://github.com/haya14busa/vim-edgemotion)|Move to the edge!||
 |77|[@rhysd](https://github.com/rhysd)/[**wandbox-vim**](https://github.com/rhysd/wandbox-vim)|Wandbox plugin for vimmers. http://melpon.org/wandbox/||
 |76|[@rhysd](https://github.com/rhysd)/[**vim-gfm-syntax**](https://github.com/rhysd/vim-gfm-syntax)|GitHub Flavored Markdown syntax highlight extension for Vim||
 |75|[@Shougo](https://github.com/Shougo)/[**neco-vim**](https://github.com/Shougo/neco-vim)|The vim source for neocomplete/deoplete||
 |75|[@rhysd](https://github.com/rhysd)/[**reply.vim**](https://github.com/rhysd/reply.vim)|REPLs play nicely with :terminal on Vim and Neovim||
-|74|[@tyru](https://github.com/tyru)/[**open-browser-github.vim**](https://github.com/tyru/open-browser-github.vim)|Open GitHub URL of current file, etc. from Vim editor (supported GitHub Enterprise)||
+|75|[@tyru](https://github.com/tyru)/[**open-browser-github.vim**](https://github.com/tyru/open-browser-github.vim)|Open GitHub URL of current file, etc. from Vim editor (supported GitHub Enterprise)||
+|74|[@lambdalisue](https://github.com/lambdalisue)/[**fila.vim**](https://github.com/lambdalisue/fila.vim)|Asynchronous file explorer in Pure Vim script||
 |73|[@itchyny](https://github.com/itchyny)/[**vim-haskell-indent**](https://github.com/itchyny/vim-haskell-indent)|If the plugin does not work for some syntax, feel free to report to the issue tracker!||
-|72|[@lambdalisue](https://github.com/lambdalisue)/[**fila.vim**](https://github.com/lambdalisue/fila.vim)|Asynchronous file explorer in Pure Vim script||
 |71|[@rhysd](https://github.com/rhysd)/[**conflict-marker.vim**](https://github.com/rhysd/conflict-marker.vim)|Weapon to fight against conflicts in Vim.||
 |64|[@Jxck](https://github.com/Jxck)/[**dotfiles**](https://github.com/Jxck/dotfiles)|dotfiles||
 |64|[@archSeer](https://github.com/archSeer)/[**colibri.vim**](https://github.com/archSeer/colibri.vim)|A subtle, elegant color scheme for vim.|[:arrow_upper_right:](https://archseer.github.io/colibri.vim/swatch.html)|
@@ -101,14 +101,14 @@
 |55|[@Shougo](https://github.com/Shougo)/[**neco-syntax**](https://github.com/Shougo/neco-syntax)|Syntax source for neocomplete/deoplete/ncm||
 |55|[@saihoooooooo](https://github.com/saihoooooooo)/[**glowshi-ft.vim**](https://github.com/saihoooooooo/glowshi-ft.vim)|improve movement of f/t with glow shift.||
 |54|[@kana](https://github.com/kana)/[**vim-altr**](https://github.com/kana/vim-altr)|Vim plugin: Switch to the missing file without interaction|[:arrow_upper_right:](https://github.com/kana/vim-altr/blob/master/doc/altr.txt)|
+|52|[@joker1007](https://github.com/joker1007)/[**vim-markdown-quote-syntax**](https://github.com/joker1007/vim-markdown-quote-syntax)|vim plugin for highliting code in markdown quote||
 |51|[@aereal](https://github.com/aereal)/[**vim-colors-japanesque**](https://github.com/aereal/vim-colors-japanesque)|The colorscheme featuring Japanese traditional colors.||
-|51|[@joker1007](https://github.com/joker1007)/[**vim-markdown-quote-syntax**](https://github.com/joker1007/vim-markdown-quote-syntax)|vim plugin for highliting code in markdown quote||
 |51|[@kana](https://github.com/kana)/[**vim-niceblock**](https://github.com/kana/vim-niceblock)|Vim plugin: Make blockwise Visual mode more useful||
 |50|[@Shougo](https://github.com/Shougo)/[**neossh.vim**](https://github.com/Shougo/neossh.vim)|SSH interface for Vim plugins||
 |50|[@mattn](https://github.com/mattn)/[**vim-sqlfmt**](https://github.com/mattn/vim-sqlfmt)|||
+|50|[@sgur](https://github.com/sgur)/[**vim-textobj-parameter**](https://github.com/sgur/vim-textobj-parameter)|A fork of textobj-parameter 0.1.0|[:arrow_upper_right:](http://d.hatena.ne.jp/ampmmn/20100224/1267020691)|
 |49|[@itchyny](https://github.com/itchyny)/[**dictionary.vim**](https://github.com/itchyny/dictionary.vim)|Dictionary.app interface for Vim||
 |49|[@rhysd](https://github.com/rhysd)/[**vim-textobj-anyblock**](https://github.com/rhysd/vim-textobj-anyblock)|A text object for any of '', "", (), {}, [] and <>.||
-|49|[@sgur](https://github.com/sgur)/[**vim-textobj-parameter**](https://github.com/sgur/vim-textobj-parameter)|A fork of textobj-parameter 0.1.0|[:arrow_upper_right:](http://d.hatena.ne.jp/ampmmn/20100224/1267020691)|
 |48|[@creasty](https://github.com/creasty)/[**dotfiles**](https://github.com/creasty/dotfiles)|Harder, Better, Faster, Stronger ― A powerful development environment for full-stack engineers||
 |48|[@rbtnn](https://github.com/rbtnn)/[**puyo.vim**](https://github.com/rbtnn/puyo.vim)|Puyo on Vim||
 |48|[@rhysd](https://github.com/rhysd)/[**vim-go-impl**](https://github.com/rhysd/vim-go-impl)|A Vim plugin to use `impl`|[:arrow_upper_right:](https://github.com/josharian/impl)|
@@ -120,10 +120,10 @@
 |44|[@itchyny](https://github.com/itchyny)/[**vim-parenmatch**](https://github.com/itchyny/vim-parenmatch)|An efficient alternative to the standard matchparen plugin||
 |44|[@koron](https://github.com/koron)/[**codic-vim**](https://github.com/koron/codic-vim)|Codic vim plugin|[:arrow_upper_right:](http://www.kaoriya.net/blog/2014/01/04/)|
 |44|[@tyru](https://github.com/tyru)/[**current-func-info.vim**](https://github.com/tyru/current-func-info.vim)|Get current function name|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3197)|
-|42|[@rhysd](https://github.com/rhysd)/[**vim-wasm**](https://github.com/rhysd/vim-wasm)|WebAssembly filetype support for Vim||
 |42|[@yuku-t](https://github.com/yuku-t)/[**dotfiles**](https://github.com/yuku-t/dotfiles)|My dotfiles||
+|41|[@rhysd](https://github.com/rhysd)/[**vim-wasm**](https://github.com/rhysd/vim-wasm)|WebAssembly filetype support for Vim||
+|41|[@yaasita](https://github.com/yaasita)/[**edit-slack.vim**](https://github.com/yaasita/edit-slack.vim)| Open slack, like a file||
 |40|[@miyakogi](https://github.com/miyakogi)/[**livemark.vim**](https://github.com/miyakogi/livemark.vim)|Real time markdown preview plugin for vim||
-|40|[@yaasita](https://github.com/yaasita)/[**edit-slack.vim**](https://github.com/yaasita/edit-slack.vim)| Open slack, like a file||
 |38|[@joker1007](https://github.com/joker1007)/[**vim-ruby-heredoc-syntax**](https://github.com/joker1007/vim-ruby-heredoc-syntax)|vim plugin for highliting code in ruby here document||
 |37|[@mattn](https://github.com/mattn)/[**vim-xxdcursor**](https://github.com/mattn/vim-xxdcursor)|||
 |37|[@pocke](https://github.com/pocke)/[**sushibar.vim**](https://github.com/pocke/sushibar.vim)|Vim :heart: :sushi:||
@@ -133,14 +133,15 @@
 |35|[@rhysd](https://github.com/rhysd)/[**rust-doc.vim**](https://github.com/rhysd/rust-doc.vim)|Search Rust documents and open with browser from Vim.||
 |35|[@violetyk](https://github.com/violetyk)/[**cake.vim**](https://github.com/violetyk/cake.vim)|Utility for CakePHP developers.||
 |33|[@haya14busa](https://github.com/haya14busa)/[**dein-command.vim**](https://github.com/haya14busa/dein-command.vim)|utility comamnds of dein.vim with rich completion.||
-|33|[@tyru](https://github.com/tyru)/[**config**](https://github.com/tyru/config)|config files (home/) and essential tools to self-build (src/)||
 |32|[@b4b4r07](https://github.com/b4b4r07)/[**vim-hcl**](https://github.com/b4b4r07/vim-hcl)|Vim syntax for HCL||
 |32|[@haya14busa](https://github.com/haya14busa)/[**vim-gtrans**](https://github.com/haya14busa/vim-gtrans)|Google Translate in Vim||
 |32|[@kana](https://github.com/kana)/[**vim-metarw**](https://github.com/kana/vim-metarw)|Vim plugin: A framework to read/write fake:path|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2335)|
+|32|[@tyru](https://github.com/tyru)/[**config**](https://github.com/tyru/config)|config files (home/) and essential tools to self-build (src/)||
 |32|[@tyru](https://github.com/tyru)/[**dotfiles**](https://github.com/tyru/dotfiles)|dotfiles in home directory||
 |31|[@mattn](https://github.com/mattn)/[**vimplenote-vim**](https://github.com/mattn/vimplenote-vim)|rewrite of https://github.com/mrtazz/simplenote.vim in pure vimscript.|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
 |30|[@nishigori](https://github.com/nishigori)/[**increment-activator**](https://github.com/nishigori/increment-activator)|[Vim] Enhance to increment candidates U have defined |[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4817)|
 |30|[@suzuken](https://github.com/suzuken)/[**dotfiles**](https://github.com/suzuken/dotfiles)|This is my dotfiles.||
+|29|[@deris](https://github.com/deris)/[**vim-rengbang**](https://github.com/deris/vim-rengbang)|vim plugin for sequencial numbering with pattern||
 |29|[@tyru](https://github.com/tyru)/[**capture.vim**](https://github.com/tyru/capture.vim)|Show Ex command output in buffer||
 |29|[@tyru](https://github.com/tyru)/[**operator-camelize.vim**](https://github.com/tyru/operator-camelize.vim)|snake_case -> SnakeCase, CamelCase -> camel_case|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3046)|
 |28|[@lambdalisue](https://github.com/lambdalisue)/[**vim-manpager**](https://github.com/lambdalisue/vim-manpager)|Use Vim as a MANPAGER program||
@@ -199,11 +200,11 @@
 |13|[@cohama](https://github.com/cohama)/[**.vim**](https://github.com/cohama/.vim)|vim configuration files||
 |13|[@cooldaemon](https://github.com/cooldaemon)/[**dotfiles**](https://github.com/cooldaemon/dotfiles)|It's files put on my home directory. ||
 |13|[@lambdalisue](https://github.com/lambdalisue)/[**vim-amake**](https://github.com/lambdalisue/vim-amake)|An example Vim plugin for asynchronous script runner||
+|13|[@lambdalisue](https://github.com/lambdalisue)/[**vital-Whisky**](https://github.com/lambdalisue/vital-Whisky)|vital.vim external module collection||
 |13|[@mattn](https://github.com/mattn)/[**streem-vim**](https://github.com/mattn/streem-vim)|ごめんなさいごめんなさい||
 |13|[@rhysd](https://github.com/rhysd)/[**vim-healthcheck**](https://github.com/rhysd/vim-healthcheck)|Polyfill of Neovim's health-check for Vim||
 |13|[@tyru](https://github.com/tyru)/[**qfpopup.vim**](https://github.com/tyru/qfpopup.vim)|(EXPERIMENTAL) Deadly simple Vim plugin to pop up the error under cursor||
 |12|[@heavenshell](https://github.com/heavenshell)/[**vim-quickrun-hook-unittest**](https://github.com/heavenshell/vim-quickrun-hook-unittest)|Quickrun hook for enable to unittest by selecting method.||
-|12|[@lambdalisue](https://github.com/lambdalisue)/[**vital-Whisky**](https://github.com/lambdalisue/vital-Whisky)|vital.vim external module collection||
 |12|[@marocchino](https://github.com/marocchino)/[**dotfiles**](https://github.com/marocchino/dotfiles)|slate, bash, fish, tmux, vim settings||
 |12|[@mattn](https://github.com/mattn)/[**vim-findroot**](https://github.com/mattn/vim-findroot)|Find project root directory of the file.||
 |12|[@mollifier](https://github.com/mollifier)/[**config**](https://github.com/mollifier/config)|config files|[:arrow_upper_right:](http://mollifier.hatenablog.com/)|
@@ -217,6 +218,7 @@
 |11|[@haya14busa](https://github.com/haya14busa)/[**vim-gofmt**](https://github.com/haya14busa/vim-gofmt)|Formats Go source code asynchronously with multiple Go formatters.||
 |11|[@lambdalisue](https://github.com/lambdalisue)/[**vim-backslash**](https://github.com/lambdalisue/vim-backslash)|Automatically insert a leading slash in VimL||
 |11|[@mainyaa](https://github.com/mainyaa)/[**dotfiles**](https://github.com/mainyaa/dotfiles)|mainyaa's dotfiles||
+|11|[@mattn](https://github.com/mattn)/[**vim-colorss**](https://github.com/mattn/vim-colorss)|||
 |11|[@mattn](https://github.com/mattn)/[**vim-prompter**](https://github.com/mattn/vim-prompter)|||
 |11|[@mattn](https://github.com/mattn)/[**vimgon-quest-menu**](https://github.com/mattn/vimgon-quest-menu)|||
 |11|[@rhysd](https://github.com/rhysd)/[**unite-go-import.vim**](https://github.com/rhysd/unite-go-import.vim)|A source of unite.vim to import Go packages.||
@@ -230,26 +232,25 @@
 |10|[@heavenshell](https://github.com/heavenshell)/[**vim-flood**](https://github.com/heavenshell/vim-flood)|A simple Vim plugin for facebook flow||
 |10|[@heavenshell](https://github.com/heavenshell)/[**vim-textlint**](https://github.com/heavenshell/vim-textlint)|Wrapper for textlint||
 |10|[@hrsh7th](https://github.com/hrsh7th)/[**vim-versions**](https://github.com/hrsh7th/vim-versions)|useful interface for version control.||
+|10|[@itchyny](https://github.com/itchyny)/[**vim-external**](https://github.com/itchyny/vim-external)|Switch to external applications from Vim||
 |9|[@DeaR](https://github.com/DeaR)/[**dotfiles**](https://github.com/DeaR/dotfiles)|Vim, NYAGOS, etc||
 |9|[@aiya000](https://github.com/aiya000)/[**dotfiles**](https://github.com/aiya000/dotfiles)|my dotfiles for public.||
 |9|[@b4b4r07](https://github.com/b4b4r07)/[**vim-ansible-vault**](https://github.com/b4b4r07/vim-ansible-vault)|Encrypt/Decrypt the file contents on the buffer from Vim command line with ansible-vault||
 |9|[@b4b4r07](https://github.com/b4b4r07)/[**vim-sqlfmt**](https://github.com/b4b4r07/vim-sqlfmt)|A plugin for SQL formatter like gofmt||
 |9|[@fujimura](https://github.com/fujimura)/[**dotfiles**](https://github.com/fujimura/dotfiles)|~/.||
 |9|[@himkt](https://github.com/himkt)/[**dotfiles**](https://github.com/himkt/dotfiles)|🔯 My configurations of terminal tools. It is easy to install.|[:arrow_upper_right:](https://github.com/himkt/dotfiles)|
-|9|[@itchyny](https://github.com/itchyny)/[**vim-external**](https://github.com/itchyny/vim-external)|Switch to external applications from Vim||
 |9|[@itchyny](https://github.com/itchyny)/[**vim-highlighturl**](https://github.com/itchyny/vim-highlighturl)|URL highlight everywhere||
 |9|[@koron](https://github.com/koron)/[**vim-voiceroid**](https://github.com/koron/vim-voiceroid)|VOICEROID plugin for Vim||
 |9|[@koturn](https://github.com/koturn)/[**vim-replica**](https://github.com/koturn/vim-replica)|Easy REPL in Vim||
+|9|[@lambdalisue](https://github.com/lambdalisue)/[**dotfiles**](https://github.com/lambdalisue/dotfiles)|Personal dotfiles||
 |9|[@lambdalisue](https://github.com/lambdalisue)/[**session.vim**](https://github.com/lambdalisue/session.vim)|Yet another simple session management plugin for Vim/Neovim||
 |9|[@mattn](https://github.com/mattn)/[**vim-metarw-simplenote**](https://github.com/mattn/vim-metarw-simplenote)|metarw scheme for simplenote|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
 |8|[@aiya000](https://github.com/aiya000)/[**aref-web.vim**](https://github.com/aiya000/aref-web.vim)|Web dictionaries on the vim with async.||
 |8|[@emonkak](https://github.com/emonkak)/[**vim-metarw-gist**](https://github.com/emonkak/vim-metarw-gist)|Vim plugin: metarw scheme for gist||
 |8|[@greymd](https://github.com/greymd)/[**oscyank.vim**](https://github.com/greymd/oscyank.vim)|Yank with OSC52/PASTE64.||
 |8|[@hrsh7th](https://github.com/hrsh7th)/[**vim-neco-calc**](https://github.com/hrsh7th/vim-neco-calc)|neocomplcache/neocomplete/deoplete calculates plugin.||
-|8|[@lambdalisue](https://github.com/lambdalisue)/[**dotfiles**](https://github.com/lambdalisue/dotfiles)|Personal dotfiles||
 |8|[@matschaffer](https://github.com/matschaffer)/[**vim-islime2**](https://github.com/matschaffer/vim-islime2)|SLIME-like support for running Vim with iTerm2||
 |8|[@mattn](https://github.com/mattn)/[**excitetranslate-vim**](https://github.com/mattn/excitetranslate-vim)|Translate between English and Japanese using Excite|[:arrow_upper_right:](http://mattn.kaoriya.net/)|
-|8|[@mattn](https://github.com/mattn)/[**vim-colorss**](https://github.com/mattn/vim-colorss)|||
 |8|[@mattn](https://github.com/mattn)/[**vim-reading-vimrc**](https://github.com/mattn/vim-reading-vimrc)|vimrc 読書会クライアント||
 |8|[@monochromegane](https://github.com/monochromegane)/[**dotfiles**](https://github.com/monochromegane/dotfiles)|my dotfiles||
 |8|[@pocke](https://github.com/pocke)/[**dotfiles**](https://github.com/pocke/dotfiles)|dotfiles / public domain||
@@ -258,6 +259,7 @@
 |8|[@vimtaku](https://github.com/vimtaku)/[**vim-mlh**](https://github.com/vimtaku/vim-mlh)|||
 |8|[@ymotongpoo](https://github.com/ymotongpoo)/[**dotfiles**](https://github.com/ymotongpoo/dotfiles)|my dotfiles||
 |7|[@deris](https://github.com/deris)/[**columnjump**](https://github.com/deris/columnjump)|column jump vim plugin||
+|7|[@deris](https://github.com/deris)/[**vim-popupiece**](https://github.com/deris/vim-popupiece)|popup text around tag, local decraration, etc||
 |7|[@hachibeeDI](https://github.com/hachibeeDI)/[**dotfiles**](https://github.com/hachibeeDI/dotfiles)|my rc file repository||
 |7|[@halogenandtoast](https://github.com/halogenandtoast)/[**vim**](https://github.com/halogenandtoast/vim)|vim||
 |7|[@heavenshell](https://github.com/heavenshell)/[**vim-jikoku**](https://github.com/heavenshell/vim-jikoku)|Convert given timestamp to local date time and utc||
@@ -285,6 +287,7 @@
 |6|[@tyru](https://github.com/tyru)/[**emap.vim**](https://github.com/tyru/emap.vim)|Extended map command for Vim.||
 |6|[@tyru](https://github.com/tyru)/[**vim-uglifier.vim**](https://github.com/tyru/vim-uglifier.vim)|Uglifier of Vim script||
 |6|[@tyru](https://github.com/tyru)/[**winmove.vim**](https://github.com/tyru/winmove.vim)|Move your gVim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2576)|
+|6|[@zchee](https://github.com/zchee)/[**vim-go-slide**](https://github.com/zchee/vim-go-slide)|Vim syntax highlight for go slide(present)||
 |5|[@Kuniwak](https://github.com/Kuniwak)/[**dotfiles**](https://github.com/Kuniwak/dotfiles)|My dotfiles.||
 |5|[@MaxMEllon](https://github.com/MaxMEllon)/[**.vim**](https://github.com/MaxMEllon/.vim)|:vim:||
 |5|[@aiya000](https://github.com/aiya000)/[**aho-bakaup.vim**](https://github.com/aiya000/aho-bakaup.vim)|aho-bakaup.vim backs up any files when you write the file||
@@ -311,7 +314,6 @@
 |5|[@tyru](https://github.com/tyru)/[**open-browser-unicode.vim**](https://github.com/tyru/open-browser-unicode.vim)|Open fileformat.info page about character on current cursor / given character||
 |5|[@tyru](https://github.com/tyru)/[**operator-html-escape.vim**](https://github.com/tyru/operator-html-escape.vim)|operator-html-escape provides operator to escape HTML entities.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3312)|
 |5|[@tyru](https://github.com/tyru)/[**operator-star.vim**](https://github.com/tyru/operator-star.vim)|This plugin provides the operator versions of \|star\|, \|gstar\|, \|#\|, \|g#\|.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3610)|
-|5|[@unasuke](https://github.com/unasuke)/[**dotfiles**](https://github.com/unasuke/dotfiles)|My dotfiles repository.||
 |5|[@zchee](https://github.com/zchee)/[**vim-flatbuffers**](https://github.com/zchee/vim-flatbuffers)|Google FlatBuffers file syntax plugin for vim.||
 |4|[@acro5piano](https://github.com/acro5piano)/[**vim-jsx-replace-tag**](https://github.com/acro5piano/vim-jsx-replace-tag)|A Vim plugin to edit jsx both opening and closing tag interactively.||
 |4|[@ashchan](https://github.com/ashchan)/[**dotfiles**](https://github.com/ashchan/dotfiles)|Everybody has one.||
@@ -347,7 +349,6 @@
 |4|[@violetyk](https://github.com/violetyk)/[**dotfiles**](https://github.com/violetyk/dotfiles)|My dotfiles||
 |4|[@ypresto](https://github.com/ypresto)/[**dotfiles**](https://github.com/ypresto/dotfiles)|||
 |4|[@yuuki](https://github.com/yuuki)/[**dotfiles**](https://github.com/yuuki/dotfiles)|vimrc and zshrc etc||
-|4|[@zchee](https://github.com/zchee)/[**vim-go-slide**](https://github.com/zchee/vim-go-slide)|Vim syntax highlight for go slide(present)||
 |3|[@DeaR](https://github.com/DeaR)/[**vim-tabpagebuffer-misc**](https://github.com/DeaR/vim-tabpagebuffer-misc)|To control the buffer belonging to the tab page||
 |3|[@JugglerShu](https://github.com/JugglerShu)/[**dotfiles**](https://github.com/JugglerShu/dotfiles)|My dotfiles||
 |3|[@Quramy](https://github.com/Quramy)/[**dotfiles**](https://github.com/Quramy/dotfiles)|settings||

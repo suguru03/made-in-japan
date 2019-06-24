@@ -1,20 +1,20 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |616|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
-|479|[@parroty](https://github.com/parroty)/[**excoveralls**](https://github.com/parroty/excoveralls)|Coverage report tool for Elixir with coveralls.io integration.||
+|481|[@parroty](https://github.com/parroty)/[**excoveralls**](https://github.com/parroty/excoveralls)|Coverage report tool for Elixir with coveralls.io integration.||
 |448|[@parroty](https://github.com/parroty)/[**exvcr**](https://github.com/parroty/exvcr)|HTTP request/response recording library for elixir, inspired by VCR.||
 |323|[@parroty](https://github.com/parroty)/[**extwitter**](https://github.com/parroty/extwitter)|Twitter client library for elixir. ||
 |291|[@parroty](https://github.com/parroty)/[**excheck**](https://github.com/parroty/excheck)|Property-based testing library for Elixir (QuickCheck style).||
 |240|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
 |197|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
 |186|[@ma2gedev](https://github.com/ma2gedev)/[**power_assert_ex**](https://github.com/ma2gedev/power_assert_ex)|Power Assert in Elixir. Shows evaluation results each expression.|[:arrow_upper_right:](https://github.com/ma2gedev/power_assert_ex)|
-|179|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
+|180|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
 |118|[@parroty](https://github.com/parroty)/[**exprof**](https://github.com/parroty/exprof)|A simple code profiler for Elixir using eprof.||
 |116|[@tuvistavie](https://github.com/tuvistavie)/[**ex_cli**](https://github.com/tuvistavie/ex_cli)|User friendly CLI apps for Elixir|[:arrow_upper_right:](https://hex.pm/packages/ex_cli)|
 |82|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
 |82|[@keichan34](https://github.com/keichan34)/[**exfile**](https://github.com/keichan34/exfile)|File upload persistence and processing for Phoenix / Plug||
 |82|[@tuvistavie](https://github.com/tuvistavie)/[**opencov**](https://github.com/tuvistavie/opencov)|Open source code coverage history webapp|[:arrow_upper_right:](http://demo.opencov.com)|
-|81|[@ikeikeikeike](https://github.com/ikeikeikeike)/[**sitemap**](https://github.com/ikeikeikeike/sitemap)|Sitemap is the easiest way to generate Sitemaps in Elixir.|[:arrow_upper_right:](https://hex.pm/packages/sitemap)|
+|80|[@ikeikeikeike](https://github.com/ikeikeikeike)/[**sitemap**](https://github.com/ikeikeikeike/sitemap)|Sitemap is the easiest way to generate Sitemaps in Elixir.|[:arrow_upper_right:](https://hex.pm/packages/sitemap)|
 |67|[@parroty](https://github.com/parroty)/[**exfirebase**](https://github.com/parroty/exfirebase)|An elixir library for accessing the Firebase REST API.||
 |66|[@chvanikoff](https://github.com/chvanikoff)/[**apns4ex**](https://github.com/chvanikoff/apns4ex)|APNS for Elixir||
 |65|[@tuvistavie](https://github.com/tuvistavie)/[**pushex**](https://github.com/tuvistavie/pushex)|Push notifications for Elixir|[:arrow_upper_right:](https://hexdocs.pm/pushex)|
@@ -118,6 +118,7 @@
 |4|[@ishikawa](https://github.com/ishikawa)/[**elixir-magic-number**](https://github.com/ishikawa/elixir-magic-number)|MagicNumber is the module to determine a file's type from its magic number.||
 |4|[@ma2gedev](https://github.com/ma2gedev)/[**netrcex**](https://github.com/ma2gedev/netrcex)|Reads netrc files implemented in Elixir||
 |4|[@ne-sachirou](https://github.com/ne-sachirou)/[**ex_komachi_heartbeat**](https://github.com/ne-sachirou/ex_komachi_heartbeat)|🚅Vital monitoring Elixir Web application.🚄||
+|4|[@ne-sachirou](https://github.com/ne-sachirou)/[**stream_hash**](https://github.com/ne-sachirou/stream_hash)|Elixir Stream into md4, md5, ripemd160, sha, sha224, sha256, sha384, sha512 hash.||
 |4|[@niku](https://github.com/niku)/[**eloido**](https://github.com/niku/eloido)|Egoido implementation by Elixir||
 |4|[@parroty](https://github.com/parroty)/[**dynamo_angular**](https://github.com/parroty/dynamo_angular)|Sample AngularJS scaffolding with dynamo and angular-resource backend.||
 |4|[@rramsden](https://github.com/rramsden)/[**mogrify**](https://github.com/rramsden/mogrify)|An Elixir library wrapper around ImageMagick's mogrify utility||
@@ -137,7 +138,6 @@
 |3|[@lyokato](https://github.com/lyokato)/[**roulette**](https://github.com/lyokato/roulette)|Elixir Library: Hash-Ring-ed gnatsd-cluster client ||
 |3|[@mururu](https://github.com/mururu)/[**elixir-calendar**](https://github.com/mururu/elixir-calendar)|A date and time library for Elixir.||
 |3|[@mururu](https://github.com/mururu)/[**fluent-logger-elixir**](https://github.com/mururu/fluent-logger-elixir)|fluent-logger-elixir||
-|3|[@ne-sachirou](https://github.com/ne-sachirou)/[**stream_hash**](https://github.com/ne-sachirou/stream_hash)|Elixir Stream into md4, md5, ripemd160, sha, sha224, sha256, sha384, sha512 hash.||
 |3|[@niku](https://github.com/niku)/[**pgroonga-with-phoenix**](https://github.com/niku/pgroonga-with-phoenix)| How to use PGroonga with PhoenixFramework|[:arrow_upper_right:](http://niku.name/articles/2015/11/12/PhoenixFramework%E3%81%A7PostgreSQL%E3%81%A8PGroonga%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A8%E6%96%87%E6%A4%9C%E7%B4%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)|
 |3|[@nithinbekal](https://github.com/nithinbekal)/[**google_books.ex**](https://github.com/nithinbekal/google_books.ex)|An Elixir wrapper to the Google Books API||
 |3|[@otiai10](https://github.com/otiai10)/[**good**](https://github.com/otiai10/good)|Early Return for Elixir||

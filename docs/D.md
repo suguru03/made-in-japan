@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|46|[@repeatedly](https://github.com/repeatedly)/[**mustache-d**](https://github.com/repeatedly/mustache-d)|Mustache template engine for D|[:arrow_upper_right:](http://mustache.github.com/)|
+|47|[@repeatedly](https://github.com/repeatedly)/[**mustache-d**](https://github.com/repeatedly/mustache-d)|Mustache template engine for D|[:arrow_upper_right:](http://mustache.github.com/)|
 |41|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
 |31|[@Rayerd](https://github.com/Rayerd)/[**dfl**](https://github.com/Rayerd/dfl)|This unofficial project for D2.x is a migration of D Forms Library (DFL) that is managed on SVN. DFL is a Win32 windowing library for the D programming language. We support only D2 HEAD.|[:arrow_upper_right:](http://wiki.dprogramming.com/Dfl/HomePage)|
 |27|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
@@ -34,6 +34,7 @@
 |5|[@kazoo04](https://github.com/kazoo04)/[**progress-d**](https://github.com/kazoo04/progress-d)|||
 |5|[@kubo39](https://github.com/kubo39)/[**rikka**](https://github.com/kubo39/rikka)|anothor document database written in D||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dilo**](https://github.com/alphaKAI/dilo)|A minimal Text Editor in D Language, ported from Kilo||
+|4|[@alphaKAI](https://github.com/alphaKAI)/[**dpmatch**](https://github.com/alphaKAI/dpmatch)|[WIP] Pattern Matching for D, by compile time parsing with pegged and code generating||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**workermanager**](https://github.com/alphaKAI/workermanager)|Multi-thread based asynchronized worker manager||
 |4|[@koji-kojiro](https://github.com/koji-kojiro)/[**matplotlib-d**](https://github.com/koji-kojiro/matplotlib-d)|||
 |4|[@repeatedly](https://github.com/repeatedly)/[**ltsv-d**](https://github.com/repeatedly/ltsv-d)|LTSV implemetation for D||
@@ -45,7 +46,6 @@
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-graphviz**](https://github.com/ShigekiKarita/d-graphviz)|Graphviz utility for D||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-svm**](https://github.com/ShigekiKarita/d-svm)|minimal svm implementation||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-tree**](https://github.com/ShigekiKarita/d-tree)|Decision tree library for D||
-|3|[@alphaKAI](https://github.com/alphaKAI)/[**dpmatch**](https://github.com/alphaKAI/dpmatch)|[WIP] Pattern Matching for D, by compile time parsing with pegged and code generating||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**dsh**](https://github.com/alphaKAI/dsh)|The D Shell.||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**jsonParser**](https://github.com/alphaKAI/jsonParser)|Yet Another JSON parser for D.||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**libnotify4d**](https://github.com/alphaKAI/libnotify4d)|A D binding for libnotify||

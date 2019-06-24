@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |908|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
-|567|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
+|570|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
 |372|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
 |329|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
 |265|[@kawasima](https://github.com/kawasima)/[**jagrid**](https://github.com/kawasima/jagrid)|Japanese-styled grid framework.||
 |149|[@runexec](https://github.com/runexec)/[**chp**](https://github.com/runexec/chp)|ClojureHomePage is a Compojure based web framework that allows you to write the backend and frontend with Clojure.|[:arrow_upper_right:](https://github.com/runexec/chp/)|
 |128|[@yokolet](https://github.com/yokolet)/[**clementine**](https://github.com/yokolet/clementine)|Gem for ClojureScript on Rails Asset Pipeline||
-|116|[@Quantisan](https://github.com/Quantisan)/[**docker-clojure**](https://github.com/Quantisan/docker-clojure)|Official Docker image for Clojure|[:arrow_upper_right:](https://hub.docker.com/_/clojure/)|
+|117|[@Quantisan](https://github.com/Quantisan)/[**docker-clojure**](https://github.com/Quantisan/docker-clojure)|Official Docker image for Clojure|[:arrow_upper_right:](https://hub.docker.com/_/clojure/)|
 |112|[@liquidz](https://github.com/liquidz)/[**clj-jwt**](https://github.com/liquidz/clj-jwt)|Clojure library for JSON Web Token(JWT)||
 |90|[@athos](https://github.com/athos)/[**Pinpointer**](https://github.com/athos/Pinpointer)|Pinpointer is yet another clojure.spec error reporter based on a precise error analysis||
 |87|[@runexec](https://github.com/runexec)/[**Static-Prime**](https://github.com/runexec/Static-Prime)|A static website editor and server written in Clojure and ClojureScript.||
@@ -15,8 +15,8 @@
 |79|[@kawasima](https://github.com/kawasima)/[**back-channeling**](https://github.com/kawasima/back-channeling)|A thread floating typed chat system.||
 |62|[@liquidz](https://github.com/liquidz)/[**jubot**](https://github.com/liquidz/jubot)|Chatbot framework in Clojure||
 |49|[@runexec](https://github.com/runexec)/[**equate**](https://github.com/runexec/equate)|A Clojure fact management library||
+|46|[@yokolet](https://github.com/yokolet)/[**hiccup-samples**](https://github.com/yokolet/hiccup-samples)|hiccup samples for clojure cookbook||
 |45|[@federkasten](https://github.com/federkasten)/[**butler**](https://github.com/federkasten/butler)|Bring Web Workers to ClojureScript||
-|45|[@yokolet](https://github.com/yokolet)/[**hiccup-samples**](https://github.com/yokolet/hiccup-samples)|hiccup samples for clojure cookbook||
 |38|[@hellonico](https://github.com/hellonico)/[**origami**](https://github.com/hellonico/origami)|OpenCV 4.0 Clojure Wrapper||
 |36|[@dvcrn](https://github.com/dvcrn)/[**ajom**](https://github.com/dvcrn/ajom)|atom plugins in clojurescript||
 |35|[@federkasten](https://github.com/federkasten)/[**clucie**](https://github.com/federkasten/clucie)|Clojure for the Lucene||
@@ -64,12 +64,12 @@
 |9|[@rmoehn](https://github.com/rmoehn)/[**theatralia**](https://github.com/rmoehn/theatralia)|A research notebook for the humanities (discontinued)||
 |8|[@athos](https://github.com/athos)/[**admin-kit**](https://github.com/athos/admin-kit)|Admin site as data||
 |8|[@athos](https://github.com/athos)/[**clj-check**](https://github.com/athos/clj-check)|lein-check alternative for Clojure CLI tool||
+|8|[@athos](https://github.com/athos)/[**lein-with-env-vars**](https://github.com/athos/lein-with-env-vars)|A Leiningen plugin for performing a task with environment variable settings loaded from project.clj||
 |8|[@boxp](https://github.com/boxp)/[**Grimoire-cli**](https://github.com/boxp/Grimoire-cli)|A clojure platform for twitter.||
 |8|[@boxp](https://github.com/boxp)/[**sorcerer**](https://github.com/boxp/sorcerer)|A Slackbot for Deploying microservices to GKE Cluster.||
 |8|[@runexec](https://github.com/runexec)/[**H2H**](https://github.com/runexec/H2H)|HTML to Hiccup with one function||
 |8|[@syou6162](https://github.com/syou6162)/[**fobos_clj**](https://github.com/syou6162/fobos_clj)|||
 |7|[@athos](https://github.com/athos)/[**Bigmouth**](https://github.com/athos/Bigmouth)|Clojure framework to build delivery-only Mastodon-compatible web apps||
-|7|[@athos](https://github.com/athos)/[**lein-with-env-vars**](https://github.com/athos/lein-with-env-vars)|A Leiningen plugin for performing a task with environment variable settings loaded from project.clj||
 |7|[@athos](https://github.com/athos)/[**parabola**](https://github.com/athos/parabola)|Hubot-like chatbot framework powered by Clojure/core.async||
 |7|[@athos](https://github.com/athos)/[**tetrlang**](https://github.com/athos/tetrlang)|an esoteric language inspired by Tetris||
 |7|[@dvcrn](https://github.com/dvcrn)/[**vscodecljs**](https://github.com/dvcrn/vscodecljs)|Proof of concept vscode extension in ClojureScript||

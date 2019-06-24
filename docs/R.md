@@ -10,6 +10,7 @@
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
 |28|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
 |17|[@ymattu](https://github.com/ymattu)/[**MlBayesOpt**](https://github.com/ymattu/MlBayesOpt)|R package to tune parameters for machine learning(Support Vector Machine, Random Forest, and Xgboost), using bayesian optimization with gaussian process||
+|17|[@yutannihilation](https://github.com/yutannihilation)/[**tiedr**](https://github.com/yutannihilation/tiedr)|Experimental package (not yet existent) for multi-gather() and multi-spread()||
 |16|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
 |16|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
 |15|[@hoxo-m](https://github.com/hoxo-m)/[**dplyrr**](https://github.com/hoxo-m/dplyrr)|Utilities for comfortable use of dplyr with databases||
@@ -21,7 +22,6 @@
 |12|[@hoxo-m](https://github.com/hoxo-m)/[**dplyr.teradata**](https://github.com/hoxo-m/dplyr.teradata)|A Teradata Backend for dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/dplyr.teradata)|
 |12|[@yutannihilation](https://github.com/yutannihilation)/[**mediumr**](https://github.com/yutannihilation/mediumr)|R Interface to Medium API||
 |12|[@yutannihilation](https://github.com/yutannihilation)/[**rstudioconf2019**](https://github.com/yutannihilation/rstudioconf2019)|Materials for rstudio::conf 2019||
-|12|[@yutannihilation](https://github.com/yutannihilation)/[**tiedr**](https://github.com/yutannihilation/tiedr)|Experimental package (not yet existent) for multi-gather() and multi-spread()||
 |11|[@hoxo-m](https://github.com/hoxo-m)/[**sGMRFmix**](https://github.com/hoxo-m/sGMRFmix)|Sparse Gaussian Markov Random Field Mixtures for Anomaly Detection||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RFinanceJ**](https://github.com/teramonagi/RFinanceJ)|Get the data related to finance in Japan using variety types of data sources||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RODBCDBI**](https://github.com/teramonagi/RODBCDBI)|An implementation of R's DBI interface using ODBC package as a back-end. This allows R to connect to any DBMS that has a ODBC driver.|[:arrow_upper_right:](https://cran.r-project.org/web/packages/RODBCDBI/index.html)|
@@ -70,6 +70,7 @@
 |3|[@PhDMeiwp](https://github.com/PhDMeiwp)/[**Steel.Dwass.test**](https://github.com/PhDMeiwp/Steel.Dwass.test)|🍀an R package for Steel.Dwass.test (Non-parametric method, a post-hoc test after Kruskal-Wallis Test)||
 |3|[@TomKellyGenetics](https://github.com/TomKellyGenetics)/[**vioplotx**](https://github.com/TomKellyGenetics/vioplotx)|A development version of the vioplot R package. This has been migrated to "vioplot" as version 0.3.||
 |3|[@advaitha](https://github.com/advaitha)/[**German-credit-default-analysis**](https://github.com/advaitha/German-credit-default-analysis)|Loan default analysis of German credit dataset||
+|3|[@chezou](https://github.com/chezou)/[**implyr-example**](https://github.com/chezou/implyr-example)|Example repository of implyr||
 |3|[@chezou](https://github.com/chezou)/[**sparklytd**](https://github.com/chezou/sparklytd)|spaklyr plugin for td-spark to connect TD from R||
 |3|[@dichika](https://github.com/dichika)/[**R**](https://github.com/dichika/R)|R code||
 |3|[@dichika](https://github.com/dichika)/[**sinchokur**](https://github.com/dichika/sinchokur)|進捗を支える技術||

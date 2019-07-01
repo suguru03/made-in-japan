@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|264|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
+|265|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
 |235|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
 |234|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|👨‍🔧 gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
 |125|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
@@ -20,8 +20,8 @@
 |22|[@int128](https://github.com/int128)/[**spock-spring-boot-example**](https://github.com/int128/spock-spring-boot-example)|An example of testing Spring Boot application with Spock framework||
 |22|[@tomorrowkey](https://github.com/tomorrowkey)/[**notifier-plugin**](https://github.com/tomorrowkey/notifier-plugin)|This plugin provide a ability of notifying you that gradle task is finished.||
 |21|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-android-git**](https://github.com/ksoichiro/gradle-android-git)|Gradle plugin for Android apps to manage Git dependency (gag)||
+|19|[@int128](https://github.com/int128)/[**feign-oauth2-example**](https://github.com/int128/feign-oauth2-example)|Example of Spring Cloud Feign and Spring Security OAuth2||
 |19|[@uPhyca](https://github.com/uPhyca)/[**gradle-android-apt-plugin**](https://github.com/uPhyca/gradle-android-apt-plugin)|A Gradle plugin which enables annotations processing for Android builds.||
-|18|[@int128](https://github.com/int128)/[**feign-oauth2-example**](https://github.com/int128/feign-oauth2-example)|Example of Spring Cloud Feign and Spring Security OAuth2||
 |15|[@uehaj](https://github.com/uehaj)/[**groovy-comprehension**](https://github.com/uehaj/groovy-comprehension)|||
 |14|[@sys1yagi](https://github.com/sys1yagi)/[**rxandroid-usecase**](https://github.com/sys1yagi/rxandroid-usecase)|||
 |14|[@uehaj](https://github.com/uehaj)/[**groovyz**](https://github.com/uehaj/groovyz)|POC of Type Class for Groovy||

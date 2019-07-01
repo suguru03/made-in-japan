@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|14967|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|1983|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
-|427|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
-|327|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
+|15042|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|1988|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|431|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
+|332|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
 |241|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |135|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |97|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
@@ -15,7 +15,7 @@
 |40|[@kengonakajima](https://github.com/kengonakajima)/[**lua-msgpack**](https://github.com/kengonakajima/lua-msgpack)|msgpack implementation by pure Lua (5.1) works without LuajJIT and FFI.||
 |39|[@hnakamur](https://github.com/hnakamur)/[**luajit-examples**](https://github.com/hnakamur/luajit-examples)|my example codes for LuaJIT||
 |31|[@hetima](https://github.com/hetima)/[**hammerspoon-hyperex**](https://github.com/hetima/hammerspoon-hyperex)|Hammerspoon configuration library which provides yet another modifier key.||
-|29|[@toritori0318](https://github.com/toritori0318)/[**lua-resty-r3**](https://github.com/toritori0318/lua-resty-r3)|libr3 Lua-Openresty implementation||
+|30|[@toritori0318](https://github.com/toritori0318)/[**lua-resty-r3**](https://github.com/toritori0318/lua-resty-r3)|libr3 Lua-Openresty implementation||
 |28|[@farseerfc](https://github.com/farseerfc)/[**dotfiles**](https://github.com/farseerfc/dotfiles)|My dotfiles controlled by GNU Stow||
 |25|[@kengonakajima](https://github.com/kengonakajima)/[**luvit-mysql**](https://github.com/kengonakajima/luvit-mysql)|Luvit port of node-mysql||
 |25|[@safx](https://github.com/safx)/[**LightroomPlugin-ClarifaiTagger**](https://github.com/safx/LightroomPlugin-ClarifaiTagger)|A Lightroom plugin suggests keywords of photo for you||
@@ -35,13 +35,13 @@
 |9|[@mah0x211](https://github.com/mah0x211)/[**lua-etcd-resty**](https://github.com/mah0x211/lua-etcd-resty)|etcd client module for OpenResty.||
 |9|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb2**](https://github.com/nagadomi/kaggle-ndsb2)|Code for Second Annual Data Science Bowl. 16th place.||
 |8|[@farizrahman4u](https://github.com/farizrahman4u)/[**neural_question_generation**](https://github.com/farizrahman4u/neural_question_generation)|Server version of https://github.com/xinyadu/nqg||
-|8|[@jmettraux](https://github.com/jmettraux)/[**lack**](https://github.com/jmettraux/lack)|(experiment) Rack clone in Lua|[:arrow_upper_right:](http://jmettraux.wordpress.com)|
 |8|[@mah0x211](https://github.com/mah0x211)/[**lua-etcd**](https://github.com/mah0x211/lua-etcd)|etcd client module.||
 |8|[@osafune](https://github.com/osafune)/[**canarium_air**](https://github.com/osafune/canarium_air)|IntelFPGA configuration & Avalon-MM access library for FlashAir||
 |8|[@umegaya](https://github.com/umegaya)/[**luact**](https://github.com/umegaya/luact)|framework for writing robust, scalable network application, heavily inspired by celluloid(ruby) and orleans(.NET)||
 |8|[@xinqiyang](https://github.com/xinqiyang)/[**yagami..ko**](https://github.com/xinqiyang/yagami..ko)|yagamiko is a api server project implementation by lua && nginx ( openresty) .||
 |7|[@aw](https://github.com/aw)/[**roomba-nodemcu**](https://github.com/aw/roomba-nodemcu)|Roomba control library for NodeMCU platform|[:arrow_upper_right:](https://nodemcu.a1w.ca)|
 |7|[@hnakamur](https://github.com/hnakamur)/[**docker-nginx-lua**](https://github.com/hnakamur/docker-nginx-lua)|Dockerfile for nginx with lua-nginx-module||
+|7|[@jmettraux](https://github.com/jmettraux)/[**lack**](https://github.com/jmettraux/lack)|(experiment) Rack clone in Lua|[:arrow_upper_right:](http://jmettraux.wordpress.com)|
 |7|[@kengonakajima](https://github.com/kengonakajima)/[**mprpc**](https://github.com/kengonakajima/mprpc)|mini MessagePack RPC stub for both lua-msgpack-native and lua-msgpack||
 |7|[@koron](https://github.com/koron)/[**redis-hyperloglog**](https://github.com/koron/redis-hyperloglog)|Hyperloglog counter on redis||
 |7|[@mah0x211](https://github.com/mah0x211)/[**lua-coevent**](https://github.com/mah0x211/lua-coevent)|coroutine based kqueue/epoll module||

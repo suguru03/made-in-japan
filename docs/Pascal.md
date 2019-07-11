@@ -19,6 +19,7 @@
 |5|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**MyAsset**](https://github.com/LUXOPHIA/MyAsset)|MyModel と MyMaterial の統合プロジェクト。||
 |5|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**MyModel**](https://github.com/LUXOPHIA/MyModel)|FireMonkey において、点/線/面の３Ｄモデルを作る方法。||
 |5|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**Texture3D**](https://github.com/LUXOPHIA/Texture3D)|3Dテクスチャを扱う方法。||
+|5|[@tobynet](https://github.com/tobynet)/[**o3-layered-window**](https://github.com/tobynet/o3-layered-window)|Library of layered window for Delphi|[:arrow_upper_right:](http://tobysoft.net/wiki/index.php?Delphi%2FO3LayeredWindow)|
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**BezierConverter**](https://github.com/LUXOPHIA/BezierConverter)|||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**CameraFaces**](https://github.com/LUXOPHIA/CameraFaces)|OpenCV を用いて、カメラの映像から顔を認識する方法。||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**Fractals**](https://github.com/LUXOPHIA/Fractals)|Learn while rendering the Mandelbrot-set as a motif, comparing ObjectPascal and C++.||
@@ -42,6 +43,6 @@
 |3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**SearchBM**](https://github.com/LUXOPHIA/SearchBM)|Boyer-Moore String Search Algorithm を用いて、任意パターンの配列を高速に検索する方法。||
 |3|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**TreeNode**](https://github.com/LUXOPHIA/TreeNode)|ツリー構造で連結できるクラスを作る方法。||
 |3|[@mojeld](https://github.com/mojeld)/[**jsree**](https://github.com/mojeld/jsree)|This is a JSON VIEWER tool for visualizing using the TTreeView reading a JSON file. (JSON Viewer)||
-|3|[@tobynet](https://github.com/tobynet)/[**o3-layered-window**](https://github.com/tobynet/o3-layered-window)|Library of layered window for Delphi|[:arrow_upper_right:](http://tobysoft.net/wiki/index.php?Delphi%2FO3LayeredWindow)|
+|3|[@schikugi](https://github.com/schikugi)/[**GoogleBooksAPIDel**](https://github.com/schikugi/GoogleBooksAPIDel)|GoogleBooksAPIForDelphi||
 |3|[@tokibito](https://github.com/tokibito)/[**dokan-delphi**](https://github.com/tokibito/dokan-delphi)|Dokan binding for Delphi.||
 

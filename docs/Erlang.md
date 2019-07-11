@@ -2,7 +2,7 @@
 |---|---|---|---|
 |1295|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
 |227|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
-|181|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
+|182|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |78|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
 |66|[@jj1bdx](https://github.com/jj1bdx)/[**sfmt-erlang**](https://github.com/jj1bdx/sfmt-erlang)|sfmt-erlang: SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang|[:arrow_upper_right:](http://jj1bdx.github.io/sfmt-erlang/)|
 |40|[@chvanikoff](https://github.com/chvanikoff)/[**cowboy_session**](https://github.com/chvanikoff/cowboy_session)|Cowboy session management||
@@ -23,9 +23,9 @@
 |18|[@cooldaemon](https://github.com/cooldaemon)/[**ermlia**](https://github.com/cooldaemon/ermlia)|The ermlia is Erlang implementation of Kademlia. This is easy key-value store.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/)|
 |17|[@jj1bdx](https://github.com/jj1bdx)/[**erltrek**](https://github.com/jj1bdx/erltrek)|An Erlang Star Trek game|[:arrow_upper_right:](http://jj1bdx.github.io/erltrek)|
 |17|[@sile](https://github.com/sile)/[**ppg**](https://github.com/sile/ppg)|Plumtree based Distributed Process Group||
-|16|[@leo-project](https://github.com/leo-project)/[**leo_storage**](https://github.com/leo-project/leo_storage)|🚫 DEPRECATED: leo_storage was merged into leo-project/leofs|[:arrow_upper_right:](https://github.com/leo-project/leofs/tree/master/apps/leo_storage)|
 |16|[@mururu](https://github.com/mururu)/[**erlang-mruby**](https://github.com/mururu/erlang-mruby)|[WIP] mruby on erlang||
 |15|[@kuenishi](https://github.com/kuenishi)/[**erezrdfh**](https://github.com/kuenishi/erezrdfh)|MessagePack MessageQueue without AMQP||
+|15|[@leo-project](https://github.com/leo-project)/[**leo_storage**](https://github.com/leo-project/leo_storage)|🚫 DEPRECATED: leo_storage was merged into leo-project/leofs|[:arrow_upper_right:](https://github.com/leo-project/leofs/tree/master/apps/leo_storage)|
 |14|[@chvanikoff](https://github.com/chvanikoff)/[**githubizer**](https://github.com/chvanikoff/githubizer)|automatic deploy from github to server||
 |14|[@leo-project](https://github.com/leo-project)/[**leo_object_storage**](https://github.com/leo-project/leo_object_storage)|leo_object_storage is a log-structured object/BLOB storage.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |14|[@norton](https://github.com/norton)/[**asciiedoc**](https://github.com/norton/asciiedoc)|EDoc extension for generating HTML or GitHub-flavored Markdown from AsciiDoc sources||
@@ -59,6 +59,7 @@
 |7|[@jj1bdx](https://github.com/jj1bdx)/[**nsplit**](https://github.com/jj1bdx/nsplit)|Erlang mapping function library splitting a job to n-process concurrent execution||
 |7|[@leo-project](https://github.com/leo-project)/[**simplenfs**](https://github.com/leo-project/simplenfs)|NFS implementation by Erlang||
 |7|[@sile](https://github.com/sile)/[**logi**](https://github.com/sile/logi)|A Logger Interface Library for Erlang/OTP||
+|7|[@yahoojapan](https://github.com/yahoojapan)/[**big3store**](https://github.com/yahoojapan/big3store)|||
 |6|[@cooldaemon](https://github.com/cooldaemon)/[**BasicStudyForErlang**](https://github.com/cooldaemon/BasicStudyForErlang)|I study the Erlang over from the basics.||
 |6|[@jj1bdx](https://github.com/jj1bdx)/[**v6hex**](https://github.com/jj1bdx/v6hex)|IPv6 hex address library for Erlang||
 |6|[@leo-project](https://github.com/leo-project)/[**leo_logger**](https://github.com/leo-project/leo_logger)|leo_logger is a logging library for LeoFS and other Erlang applications. It has plugin-mechanism.|[:arrow_upper_right:](http://leo-project.net/leofs)|
@@ -67,6 +68,7 @@
 |6|[@leo-project](https://github.com/leo-project)/[**leo_statistics**](https://github.com/leo-project/leo_statistics)|leo_statistics collects Erlang VM’s statistics and application’s statistics.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@mopp](https://github.com/mopp)/[**tracke**](https://github.com/mopp/tracke)|Trackable error library for Erlang||
 |6|[@sile](https://github.com/sile)/[**erl-creole**](https://github.com/sile/erl-creole)|Converting strings between multibyte encodings and Unicode.||
+|6|[@sile](https://github.com/sile)/[**erl-rtmpmsg**](https://github.com/sile/erl-rtmpmsg)|An Erlang library to encode/decode RTMP message||
 |6|[@sile](https://github.com/sile)/[**rafte**](https://github.com/sile/rafte)|An Erlang implementation of the Raft consensus algorithm||
 |6|[@ytakano](https://github.com/ytakano)/[**ermdia**](https://github.com/ytakano/ermdia)|An implementation of DHT in Erlang.||
 |5|[@cooldaemon](https://github.com/cooldaemon)/[**ssd**](https://github.com/cooldaemon/ssd)|The Simple Storage Daemon. It has a RESTfull I/F.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/20080206/1202265372)|
@@ -74,7 +76,6 @@
 |5|[@kuenishi](https://github.com/kuenishi)/[**colloxy**](https://github.com/kuenishi/colloxy)|Pluggable http proxy. Write your filter and hooks.||
 |5|[@leo-project](https://github.com/leo-project)/[**leo_cache**](https://github.com/leo-project/leo_cache)|leo_cache is an object caching server into RAM and Disc (SSD)|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |5|[@leo-project](https://github.com/leo-project)/[**leo_commons**](https://github.com/leo-project/leo_commons)|leo_commons include common modules for LeoFS and other Erlang applications.|[:arrow_upper_right:](http://leo-project.net/leofs)|
-|5|[@sile](https://github.com/sile)/[**erl-rtmpmsg**](https://github.com/sile/erl-rtmpmsg)|An Erlang library to encode/decode RTMP message||
 |5|[@sile](https://github.com/sile)/[**otp_passage**](https://github.com/sile/otp_passage)|OpenTracing instrumentation library for the Erlang/OTP standard modules||
 |5|[@yoichiro](https://github.com/yoichiro)/[**mixi-staging**](https://github.com/yoichiro/mixi-staging)|||
 |4|[@amutake](https://github.com/amutake)/[**synchronizers**](https://github.com/amutake/synchronizers)|Synchronizer algorithms in Erlang||

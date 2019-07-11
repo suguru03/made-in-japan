@@ -14,6 +14,7 @@
 |10|[@Gab-km](https://github.com/Gab-km)/[**Funcy**](https://github.com/Gab-km/Funcy)|This is the insignificant one of the numberless functional libraries for C#/VB.|[:arrow_upper_right:](https://www.nuget.org/packages/Funcy/)|
 |10|[@Gab-km](https://github.com/Gab-km)/[**OAuth-in-FSharp**](https://github.com/Gab-km/OAuth-in-FSharp)|This library offers the OAuth API written in F#.|[:arrow_upper_right:](http://twitter.com/gab_km)|
 |9|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Automaton**](https://github.com/pocketberserker/FSharp.Automaton)|||
+|8|[@CORDEA](https://github.com/CORDEA)/[**grpc-demo-fsharp**](https://github.com/CORDEA/grpc-demo-fsharp)|Implementation of gRPC by F# and automatically generated C# code.||
 |8|[@pocketberserker](https://github.com/pocketberserker)/[**ComVu**](https://github.com/pocketberserker/ComVu)|||
 |8|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Object.Diff**](https://github.com/pocketberserker/FSharp.Object.Diff)|||
 |7|[@bleis-tift](https://github.com/bleis-tift)/[**TableDsl**](https://github.com/bleis-tift/TableDsl)|||
@@ -24,7 +25,6 @@
 |5|[@pocketberserker](https://github.com/pocketberserker)/[**PEGStudy**](https://github.com/pocketberserker/PEGStudy)|PEGと構文解析に関するアレコレの勉強会 Vol.1用に作ったもの置き場||
 |5|[@pocketberserker](https://github.com/pocketberserker)/[**free-monad-fsharp**](https://github.com/pocketberserker/free-monad-fsharp)|||
 |4|[@teramonagi](https://github.com/teramonagi)/[**ArithmeticEvaluation**](https://github.com/teramonagi/ArithmeticEvaluation)|Simple Calculator||
-|3|[@CORDEA](https://github.com/CORDEA)/[**grpc-demo-fsharp**](https://github.com/CORDEA/grpc-demo-fsharp)|Implementation of gRPC by F# and automatically generated C# code.||
 |3|[@callmekohei](https://github.com/callmekohei)/[**Neovimfs**](https://github.com/callmekohei/Neovimfs)|Neovimfs is a web app hosted on local Suave server and it provides auto completion list for F# code.||
 |3|[@pocketberserker](https://github.com/pocketberserker)/[**ContMonadStudy**](https://github.com/pocketberserker/ContMonadStudy)|継続モナド勉強用のなんとか||
 |3|[@pocketberserker](https://github.com/pocketberserker)/[**FCure**](https://github.com/pocketberserker/FCure)|||

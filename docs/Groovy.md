@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |265|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
+|236|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|👨‍🔧 gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
 |235|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
-|234|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|👨‍🔧 gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
 |125|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
-|123|[@int128](https://github.com/int128)/[**gradle-swagger-generator-plugin**](https://github.com/int128/gradle-swagger-generator-plugin)|Gradle plugin for OpenAPI YAML validation, code generation and API document publishing||
+|124|[@int128](https://github.com/int128)/[**gradle-swagger-generator-plugin**](https://github.com/int128/gradle-swagger-generator-plugin)|Gradle plugin for OpenAPI YAML validation, code generation and API document publishing||
 |106|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||
 |99|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
 |91|[@int128](https://github.com/int128)/[**groovy-ssh**](https://github.com/int128/groovy-ssh)|SSH automation tool based on Groovy DSL|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
@@ -29,10 +29,12 @@
 |13|[@kiy0taka](https://github.com/kiy0taka)/[**spock-shell**](https://github.com/kiy0taka/spock-shell)|||
 |12|[@taichi](https://github.com/taichi)/[**yuzen**](https://github.com/taichi/yuzen)|static contents generator|[:arrow_upper_right:](http://yuzen.koshinuke.org/)|
 |12|[@takahirom](https://github.com/takahirom)/[**fire-annotation**](https://github.com/takahirom/fire-annotation)|Simple tool which help you to implement Firebase Analytics||
+|11|[@mariotaku](https://github.com/mariotaku)/[**imgenie-plugin**](https://github.com/mariotaku/imgenie-plugin)|||
 |11|[@tkruse](https://github.com/tkruse)/[**gpi**](https://github.com/tkruse/gpi)|grape package installer||
 |11|[@yamkazu](https://github.com/yamkazu)/[**jggug-grails-bootcamp**](https://github.com/yamkazu/jggug-grails-bootcamp)|||
 |10|[@sys1yagi](https://github.com/sys1yagi)/[**faucet**](https://github.com/sys1yagi/faucet)|Super casual memory leak checker for Android. ||
 |9|[@tyama](https://github.com/tyama)/[**ratpack-gorm-mongo-example**](https://github.com/tyama/ratpack-gorm-mongo-example)|||
+|8|[@kazurayam](https://github.com/kazurayam)/[**VisualTestingInKatalonStudio**](https://github.com/kazurayam/VisualTestingInKatalonStudio)|This Katalon Studio project performs 2 ways of screenshot-comparison testing of WebUI in full automation. Twins: comparing 2 hostnames at a time. Chronos: comparing current view of a URL of AUT to previous view of the same. You can make your own Katalon Studio project capable of the same screenshot-comparison; the instruction is provided.|[:arrow_upper_right:](https://forum.katalon.com/t/visual-testing-in-katalon-studio/13361)|
 |7|[@int128](https://github.com/int128)/[**gradle-starter**](https://github.com/int128/gradle-starter)|Hello World application with Gradle||
 |7|[@mike-neck](https://github.com/mike-neck)/[**slim3-gradle**](https://github.com/mike-neck/slim3-gradle)|gradle build file and slim3 sample||
 |6|[@PoohSunny](https://github.com/PoohSunny)/[**geb-study**](https://github.com/PoohSunny/geb-study)|||
@@ -42,9 +44,11 @@
 |6|[@making](https://github.com/making)/[**spring-boot-demo-jvm-languages**](https://github.com/making/spring-boot-demo-jvm-languages)|Spring Boot Hello World project using some JVM languages||
 |6|[@operando](https://github.com/operando)/[**gradle-zundokokiyoshi-plugin**](https://github.com/operando/gradle-zundokokiyoshi-plugin)|gradle zundokokiyoshi plugin||
 |6|[@uehaj](https://github.com/uehaj)/[**groovy-optional**](https://github.com/uehaj/groovy-optional)|Extension module which enhances handilng of Java8's Optional Class in Groovy||
+|5|[@kazurayam](https://github.com/kazurayam)/[**EntirePageScreenshotByAShotInKatalonStudio**](https://github.com/kazurayam/EntirePageScreenshotByAShotInKatalonStudio)|||
 |5|[@nobeans](https://github.com/nobeans)/[**groovy-osgi-sample**](https://github.com/nobeans/groovy-osgi-sample)|Sample of OSGi powered by Groovy and Gradle||
 |4|[@YukiMatsumura](https://github.com/YukiMatsumura)/[**MaterialDesignResources**](https://github.com/YukiMatsumura/MaterialDesignResources)|MaterialDesign Android Resources||
 |4|[@int128](https://github.com/int128)/[**spring-cloud-api-gateway-example**](https://github.com/int128/spring-cloud-api-gateway-example)|Example Implementation of API Gateway Pattern using Spring Cloud Netflix||
+|4|[@kazurayam](https://github.com/kazurayam)/[**KatalonPropertiesDemo**](https://github.com/kazurayam/KatalonPropertiesDemo)|katalon.properties file enhances usability of Katalon Studio|[:arrow_upper_right:](https://forum.katalon.com/discussion/5780/katalon-properties-file-and-jvm-system-property-katalon-user-home)|
 |4|[@mike-neck](https://github.com/mike-neck)/[**idea-gradle-javaee-template**](https://github.com/mike-neck/idea-gradle-javaee-template)|template project of JavaEE-Glassfish application for IntelliJ IDEA and Gradle||
 |4|[@nicolas-raoul](https://github.com/nicolas-raoul)/[**OxygenPump**](https://github.com/nicolas-raoul/OxygenPump)|Downloads the wikicode of Wikitravel.org articles (which are Creative Commons Attribution-ShareAlike 3.0)|[:arrow_upper_right:](http://code.google.com/p/oxygenpump/)|
 |4|[@nobeans](https://github.com/nobeans)/[**javaone-tokyo-2012-jvm-bof**](https://github.com/nobeans/javaone-tokyo-2012-jvm-bof)|||

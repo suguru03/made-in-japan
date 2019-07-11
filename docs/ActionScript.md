@@ -14,7 +14,8 @@
 |11|[@akio0911](https://github.com/akio0911)/[**hcrepos**](https://github.com/akio0911/hcrepos)|Hacker's Cafe Repository|[:arrow_upper_right:](http://blog.hackers-cafe.net/)|
 |11|[@juwalbose](https://github.com/juwalbose)/[**DynamicAtlasCreator**](https://github.com/juwalbose/DynamicAtlasCreator)|Helps create Starling Texture Atlas dynamically from a single super atlas (2048, ipad retina screen width based)||
 |11|[@motemen](https://github.com/motemen)/[**as3-klt**](https://github.com/motemen/as3-klt)|Kanade-Lucas-Tomasi feature tracker implementation in as3||
-|10|[@takumus](https://github.com/takumus)/[**ListUI-for-as3**](https://github.com/takumus/ListUI-for-as3)|||
+|11|[@takumus](https://github.com/takumus)/[**ListUI-for-as3**](https://github.com/takumus/ListUI-for-as3)|||
+|10|[@dotneet](https://github.com/dotneet)/[**as3-lua**](https://github.com/dotneet/as3-lua)|ActionScript3.0(AS3) implementation by Lua that is intend to be used as a game script.||
 |9|[@lyokato](https://github.com/lyokato)/[**as3jcode**](https://github.com/lyokato/as3jcode)|japanese text encoding||
 |9|[@lyokato](https://github.com/lyokato)/[**as3xmppclient**](https://github.com/lyokato/as3xmppclient)|ActionScript 3.0 XMPP client library||
 |8|[@glassesfactory](https://github.com/glassesfactory)/[**GFS.I.OAS3**](https://github.com/glassesfactory/GFS.I.OAS3)|Socket.IO <-> AS3 with WebSocket|[:arrow_upper_right:](http://blog.glasses-factory.net)|
@@ -33,6 +34,7 @@
 |6|[@umhr](https://github.com/umhr)/[**VideoChatMobile**](https://github.com/umhr/VideoChatMobile)|||
 |5|[@YusukeKokubo](https://github.com/YusukeKokubo)/[**redmineair**](https://github.com/YusukeKokubo/redmineair)|redmine client soch as a desktop stickey application.|[:arrow_upper_right:](http://www.r-labs.org/projects/redmineair/)|
 |5|[@cellfusion](https://github.com/cellfusion)/[**cellfusionAS3**](https://github.com/cellfusion/cellfusionAS3)|いままで作ったクラスを適当にまとめるリポジトリ||
+|5|[@jirotubuyaki](https://github.com/jirotubuyaki)/[**Traffic-Simulator**](https://github.com/jirotubuyaki/Traffic-Simulator)|Traffic Simulator Interactive by ActionScript||
 |5|[@juwalbose](https://github.com/juwalbose)/[**DynamicAtlasCeatorAirDemo**](https://github.com/juwalbose/DynamicAtlasCeatorAirDemo)|AIR version of Dynamic Texture Atlas with saving to ApplicationStorageDirectory for reuse||
 |5|[@nicholaslee119](https://github.com/nicholaslee119)/[**niUI**](https://github.com/nicholaslee119/niUI)|A Game UI Components Library in ActionScript3||
 |5|[@nulab](https://github.com/nulab)/[**asclip**](https://github.com/nulab/asclip)|ActionScript library for clipboard copy||
@@ -52,7 +54,6 @@
 |4|[@tkmr](https://github.com/tkmr)/[**as2js**](https://github.com/tkmr/as2js)|Object bridge from ActionScript 3.0 to JavaScript|[:arrow_upper_right:](http://blog.tkmr.org/as2js-test.html?twitter=tkmr&ustream=tkmr)|
 |3|[@MineAP](https://github.com/MineAP)/[**NNDDClient**](https://github.com/MineAP/NNDDClient)|NNDD Clientは、モバイル向けAdobe AIR上で動作する、NNDD Serverのクライアントアプリケーションです。||
 |3|[@axcelwork](https://github.com/axcelwork)/[**AXCELAS3**](https://github.com/axcelwork/AXCELAS3)|ASDoc : http://www.shift-style.org/asdoc|[:arrow_upper_right:](http://shift-style.org/blog)|
-|3|[@jirotubuyaki](https://github.com/jirotubuyaki)/[**Traffic-Simulator**](https://github.com/jirotubuyaki/Traffic-Simulator)|Traffic Simulator Interactive by ActionScript||
 |3|[@lyokato](https://github.com/lyokato)/[**as3mixivoice**](https://github.com/lyokato/as3mixivoice)|ActionScript 3.0 mixi voice client library||
 |3|[@mackato](https://github.com/mackato)/[**rialy-flex-framework**](https://github.com/mackato/rialy-flex-framework)|RIALY(from "Building RIAs Easily") is a lightweight design pattern tool kit for Adobe Flex.|[:arrow_upper_right:](http://github.com/mackato/rialy-flex-framework)|
 |3|[@nazo](https://github.com/nazo)/[**as3gamelib**](https://github.com/nazo/as3gamelib)|||

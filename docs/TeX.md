@@ -18,27 +18,32 @@
 |21|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
 |21|[@takahashim](https://github.com/takahashim)/[**review-sample-book**](https://github.com/takahashim/review-sample-book)|ReVIEWの書籍サンプルデータです。||
 |19|[@kentaro](https://github.com/kentaro)/[**Bancor_Protocol_Whitepaper_ja**](https://github.com/kentaro/Bancor_Protocol_Whitepaper_ja)|Japanese Translation of The Bancor Protocol Whitepaper||
+|19|[@oist](https://github.com/oist)/[**LaTeX-templates**](https://github.com/oist/LaTeX-templates)|Graduate School LaTeX templates for Lab rotation proposal + report, OIST beamer and Thesis + thesis proposal||
 |18|[@uribo](https://github.com/uribo)/[**lab.note**](https://github.com/uribo/lab.note)|:notebook_with_decorative_cover: Create Laboratory Note and Report Using R Markdown||
+|17|[@Runnrairu](https://github.com/Runnrairu)/[**machinelearning_text**](https://github.com/Runnrairu/machinelearning_text)|||
 |16|[@hitode909](https://github.com/hitode909)/[**soturon**](https://github.com/hitode909/soturon)|卒論||
-|14|[@Runnrairu](https://github.com/Runnrairu)/[**machinelearning_text**](https://github.com/Runnrairu/machinelearning_text)|||
 |14|[@orthez](https://github.com/orthez)/[**business-cards-latex**](https://github.com/orthez/business-cards-latex)|Business cards template in latex. Duplex (doubleside) printable. Two languages (back/front) supported. Optimized to be easily extensible.||
 |13|[@okomok](https://github.com/okomok)/[**strcat**](https://github.com/okomok/strcat)|TeX files for summary of category theory||
 |12|[@hamano](https://github.com/hamano)/[**zguide-ja**](https://github.com/hamano/zguide-ja)|||
 |12|[@laysakura](https://github.com/laysakura)/[**TheoryOfComputation**](https://github.com/laysakura/TheoryOfComputation)|A memo of a lecture on Theory of Computation in the University of Tokyo.||
+|12|[@unaoya](https://github.com/unaoya)/[**math_pdf**](https://github.com/unaoya/math_pdf)|||
+|10|[@2K20TC](https://github.com/2K20TC)/[**data-structures-tutorial**](https://github.com/2K20TC/data-structures-tutorial)|HackerEarth Data Structures practice series||
 |10|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**PythonRoboticsPaper**](https://github.com/AtsushiSakai/PythonRoboticsPaper)|PythonRoboticsPaper||
 |10|[@kmaed](https://github.com/kmaed)/[**biblatex-japanese**](https://github.com/kmaed/biblatex-japanese)|Japanese language support for biblatex||
-|9|[@2K20TC](https://github.com/2K20TC)/[**data-structures-tutorial**](https://github.com/2K20TC/data-structures-tutorial)|HackerEarth Data Structures practice series||
+|10|[@nabettu](https://github.com/nabettu)/[**firestore-manual**](https://github.com/nabettu/firestore-manual)|Webサービスを作る本Firestore移行マニュアル||
 |9|[@acgotaku](https://github.com/acgotaku)/[**USTC-SSE-THESIS**](https://github.com/acgotaku/USTC-SSE-THESIS)|适用于中科大软件学院工程硕士的Latex模板||
 |9|[@kmaed](https://github.com/kmaed)/[**pdffill**](https://github.com/kmaed/pdffill)|LaTeX macros to fill in PDF.||
 |9|[@masui](https://github.com/masui)/[**GitHelp**](https://github.com/masui/GitHelp)|GitコマンドのヘルプをExpandHelpで||
 |9|[@sonots](https://github.com/sonots)/[**cvprtoolbox-project**](https://github.com/sonots/cvprtoolbox-project)|Real projects solving problems using https://github.com/sonots/cvprtoolbox||
 |9|[@ueokande](https://github.com/ueokande)/[**jletteraddress**](https://github.com/ueokande/jletteraddress)|A document class of LaTeX for address side of the Japanese letter.||
-|8|[@uwabami](https://github.com/uwabami)/[**beamerthemeKansaiDebianMeeting**](https://github.com/uwabami/beamerthemeKansaiDebianMeeting)|latex-beamer theme for KansaiDebianMeeting||
+|9|[@uwabami](https://github.com/uwabami)/[**beamerthemeKansaiDebianMeeting**](https://github.com/uwabami/beamerthemeKansaiDebianMeeting)|latex-beamer theme for KansaiDebianMeeting||
 |7|[@masui](https://github.com/masui)/[**EpisoPass**](https://github.com/masui/EpisoPass)|EpisoPass - creating passwords from episodic memory||
 |7|[@masui](https://github.com/masui)/[**EpisoPass-vps**](https://github.com/masui/EpisoPass-vps)|EpisoPass - creating passwords from episodic memory||
-|7|[@miyukki](https://github.com/miyukki)/[**graduate-thesis**](https://github.com/miyukki/graduate-thesis)|My Graduate Thesis in Keio Univ. Murai Lab.||
 |6|[@jilljenn](https://github.com/jilljenn)/[**qna**](https://github.com/jilljenn/qna)|Comparing models for adaptive testing (Rasch, DINA, MIRT, GenMA)||
 |6|[@master-q](https://github.com/master-q)/[**masterq-docs**](https://github.com/master-q/masterq-docs)|My documents||
+|6|[@miyukki](https://github.com/miyukki)/[**graduate-thesis**](https://github.com/miyukki/graduate-thesis)|My Graduate Thesis in Keio Univ. Murai Lab.||
+|6|[@vchuravy](https://github.com/vchuravy)/[**ConcolicFuzzer.jl**](https://github.com/vchuravy/ConcolicFuzzer.jl)|Prototype of a fuzzer for Julia based on concolic execution||
+|6|[@vvakame](https://github.com/vvakame)/[**apollo-swamped-book**](https://github.com/vvakame/apollo-swamped-book)|||
 |5|[@MizukiSonoko](https://github.com/MizukiSonoko)/[**Story**](https://github.com/MizukiSonoko/Story)|This is a read-only mirror of "水樹素子の物語"📝🎁||
 |5|[@farseerfc](https://github.com/farseerfc)/[**sjtu-thesis-xelatex**](https://github.com/farseerfc/sjtu-thesis-xelatex)|This repo is UNMAINTAINED and DEPRECATED, 代码已过时，请使用下面的模板|[:arrow_upper_right:](https://github.com/weijianwen/sjtu-thesis-template-latex)|
 |5|[@frandiox](https://github.com/frandiox)/[**Nipponline**](https://github.com/frandiox/Nipponline)|||
@@ -50,23 +55,30 @@
 |5|[@ryuichiueda](https://github.com/ryuichiueda)/[**commentary_on_graph-based_slam**](https://github.com/ryuichiueda/commentary_on_graph-based_slam)|graph-based SLAMの説明文||
 |5|[@tdtds](https://github.com/tdtds)/[**free_as_in_freedom_2.0_ja**](https://github.com/tdtds/free_as_in_freedom_2.0_ja)|Free as in Freedom (2.0)の日本語訳をEPUB化してみる||
 |5|[@yutannihilation](https://github.com/yutannihilation)/[**practical-r-package-development-ja**](https://github.com/yutannihilation/practical-r-package-development-ja)|Tips for package development|[:arrow_upper_right:](https://bookdown.org/yutannihilation/practical-r-package-development-ja/)|
+|4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**grain-talk**](https://github.com/ShigekiKarita/grain-talk)|||
+|4|[@gfngfn](https://github.com/gfngfn)/[**expandparams**](https://github.com/gfngfn/expandparams)|(La)TeX packages that makes you save the cost of writing thousands of \expandafter.||
+|4|[@golangtokyo](https://github.com/golangtokyo)/[**shoten7**](https://github.com/golangtokyo/shoten7)|技術書典7に出したい原稿||
 |4|[@kazuito](https://github.com/kazuito)/[**jkreport**](https://github.com/kazuito/jkreport)|A LaTeX style file for "Jokkō" students.||
 |4|[@leios](https://github.com/leios)/[**thesis**](https://github.com/leios/thesis)|This is the repo for my thesis at OIST for simulations of various quantum systems||
+|4|[@natmark](https://github.com/natmark)/[**TeX-Textlint**](https://github.com/natmark/TeX-Textlint)|TeX auto calibration using textlint + prh||
 |4|[@nulab](https://github.com/nulab)/[**book-template**](https://github.com/nulab/book-template)||[:arrow_upper_right:](https://nulab-inc.com/ja/blog/nulab/infra-engineer-book/)|
+|4|[@siero5335](https://github.com/siero5335)/[**ScienceR**](https://github.com/siero5335/ScienceR)|Wonderful R4 自然科学研究のためのR入門: 再現可能なレポート執筆実践 のサポートページです。||
 |3|[@Saito-](https://github.com/Saito-)/[**NITKC_Research**](https://github.com/Saito-/NITKC_Research)|釧路高専専攻科 特別研究2||
 |3|[@SythonUK](https://github.com/SythonUK)/[**NITKC_Research**](https://github.com/SythonUK/NITKC_Research)|釧路高専専攻科 特別研究2||
+|3|[@arpitjain099](https://github.com/arpitjain099)/[**Movie-Recommender-System**](https://github.com/arpitjain099/Movie-Recommender-System)|Predicted the likelihood for a person to watch a given movie from movielens dataset using machine learning techniques. Made predictions the rating given by person to the movie based on content based and collaborative filtering techniques. We were able to achieve an accuracy of 85% in our recommendation system.||
 |3|[@atsushieno](https://github.com/atsushieno)/[**TechBookFest3Xamarin**](https://github.com/atsushieno/TechBookFest3Xamarin)|技術書典3参加者用リポジトリ||
-|3|[@gfngfn](https://github.com/gfngfn)/[**expandparams**](https://github.com/gfngfn/expandparams)|(La)TeX packages that makes you save the cost of writing thousands of \expandafter.||
 |3|[@id774](https://github.com/id774)/[**sandbox**](https://github.com/id774/sandbox)|"Sandbox" means a software testing environment for independent evaluation, monitoring or testing||
 |3|[@kmuto](https://github.com/kmuto)/[**review-covermaker**](https://github.com/kmuto/review-covermaker)|Re:VIEW cover maker||
+|3|[@kurokis](https://github.com/kurokis)/[**FlightViewer**](https://github.com/kurokis/FlightViewer)|Analyzer / 2D-3D visualizer for multicopter flight log data developed for NEDO project||
 |3|[@leios](https://github.com/leios)/[**cv**](https://github.com/leios/cv)|A simple CV||
 |3|[@ljvmiranda921](https://github.com/ljvmiranda921)/[**cv**](https://github.com/ljvmiranda921/cv)|Curriculum vitae of Lester James V. Miranda|[:arrow_upper_right:](https://www.dropbox.com/s/kmexsi1zxpa4829/LJMiranda_CV-latest.pdf?dl=0)|
 |3|[@ljvmiranda921](https://github.com/ljvmiranda921)/[**thesis-manuscript**](https://github.com/ljvmiranda921/thesis-manuscript)|Thesis manuscript for Master Degree in Waseda University|[:arrow_upper_right:](http://bit.ly/ThesisManuscript-Miranda)|
 |3|[@masayukig](https://github.com/masayukig)/[**better-testing-through-statistics**](https://github.com/masayukig/better-testing-through-statistics)|||
 |3|[@nichiyoubi](https://github.com/nichiyoubi)/[**temporal_logic_ml**](https://github.com/nichiyoubi/temporal_logic_ml)|時相論理勉強会/Haskell勉強会 用リポジトリ||
 |3|[@ntddk](https://github.com/ntddk)/[**paper**](https://github.com/ntddk/paper)|LaTeX template||
-|3|[@oist](https://github.com/oist)/[**LaTeX-templates**](https://github.com/oist/LaTeX-templates)|Graduate School LaTeX templates for Lab rotation proposal + report, OIST beamer and Thesis + thesis proposal||
+|3|[@ongxuanhong](https://github.com/ongxuanhong)/[**latex-thesis-template**](https://github.com/ongxuanhong/latex-thesis-template)|||
+|3|[@puripuri2100](https://github.com/puripuri2100)/[**joubun**](https://github.com/puripuri2100/joubun)|規則作成支援||
+|3|[@rkaneko](https://github.com/rkaneko)/[**slide-template**](https://github.com/rkaneko/slide-template)|My beamer slide template||
 |3|[@uetchy](https://github.com/uetchy)/[**heroku-buildpack-pandoc**](https://github.com/uetchy/heroku-buildpack-pandoc)|A buildpack provides pandoc and pandoc-citeproc.||
-|3|[@vvakame](https://github.com/vvakame)/[**apollo-swamped-book**](https://github.com/vvakame/apollo-swamped-book)|||
 |3|[@yusuketomoto](https://github.com/yusuketomoto)/[**ofDocset**](https://github.com/yusuketomoto/ofDocset)|||
 

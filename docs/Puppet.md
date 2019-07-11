@@ -1,5 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
+|25|[@ryankanno](https://github.com/ryankanno)/[**django-vagrant**](https://github.com/ryankanno/django-vagrant)|A Vagrant instance to help you get started with the Django framework.||
 |18|[@inokappa](https://github.com/inokappa)/[**dockerfiles**](https://github.com/inokappa/dockerfiles)|||
 |12|[@n0ts](https://github.com/n0ts)/[**puppet-modules**](https://github.com/n0ts/puppet-modules)|My Puppet modules for CentOS 5||
 |11|[@kentaro](https://github.com/kentaro)/[**puppet-book-support**](https://github.com/kentaro/puppet-book-support)|『入門Puppet』のサポートページです。||

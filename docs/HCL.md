@@ -4,8 +4,8 @@
 |43|[@int128](https://github.com/int128)/[**terraform-aws-kops-alb**](https://github.com/int128/terraform-aws-kops-alb)|Terraform module for ALB, Route53 and nginx-ingress with kops on AWS|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/kops-alb)|
 |39|[@freedomofkeima](https://github.com/freedomofkeima)/[**terraform-docker-ecs**](https://github.com/freedomofkeima/terraform-docker-ecs)|Manage your ASG + ECS Cluster (Docker) with Terraform||
 |39|[@int128](https://github.com/int128)/[**kops-terraform-starter**](https://github.com/int128/kops-terraform-starter)|A template of Kubernetes with nginx-ingress and ALB on AWS (using kops and Terraform)||
+|24|[@wata727](https://github.com/wata727)/[**tf_aws_ecs_on_spotfleet**](https://github.com/wata727/tf_aws_ecs_on_spotfleet)|A Terraform module for create ECS on Spot Fleet.||
 |23|[@shufo](https://github.com/shufo)/[**terraform-boilerplate-ecs-alb**](https://github.com/shufo/terraform-boilerplate-ecs-alb)|Terraform boilerplate for ECS with ALB.||
-|23|[@wata727](https://github.com/wata727)/[**tf_aws_ecs_on_spotfleet**](https://github.com/wata727/tf_aws_ecs_on_spotfleet)|A Terraform module for create ECS on Spot Fleet.||
 |22|[@knakayama](https://github.com/knakayama)/[**aws-terraform-playground**](https://github.com/knakayama/aws-terraform-playground)|terraform examples on AWS||
 |21|[@shogomuranushi](https://github.com/shogomuranushi)/[**oreno-terraform**](https://github.com/shogomuranushi/oreno-terraform)|||
 |14|[@ToruMakabe](https://github.com/ToruMakabe)/[**Understanding-K8s**](https://github.com/ToruMakabe/Understanding-K8s)|[翔泳社 しくみがわかる Kubernetes] サンプルコード||

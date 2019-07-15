@@ -1,14 +1,14 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|15104|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|15163|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
 |1990|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
 |433|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
-|333|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
+|336|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
 |241|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
-|179|[@stanaka](https://github.com/stanaka)/[**lightroom-google-photo-plugin**](https://github.com/stanaka/lightroom-google-photo-plugin)|||
+|182|[@stanaka](https://github.com/stanaka)/[**lightroom-google-photo-plugin**](https://github.com/stanaka/lightroom-google-photo-plugin)|||
 |135|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |97|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
-|65|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
+|66|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
 |57|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-driver-detection**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
 |52|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
 |46|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb**](https://github.com/nagadomi/kaggle-ndsb)|Code for National Data Science Bowl. 10th place.||
@@ -17,12 +17,12 @@
 |39|[@hnakamur](https://github.com/hnakamur)/[**luajit-examples**](https://github.com/hnakamur/luajit-examples)|my example codes for LuaJIT||
 |33|[@DavidFeng](https://github.com/DavidFeng)/[**csb2csd**](https://github.com/DavidFeng/csb2csd)|小工具，转换CocosStudio输出的csb文件为源文件，使之可继续编辑||
 |31|[@hetima](https://github.com/hetima)/[**hammerspoon-hyperex**](https://github.com/hetima/hammerspoon-hyperex)|Hammerspoon configuration library which provides yet another modifier key.||
-|30|[@toritori0318](https://github.com/toritori0318)/[**lua-resty-r3**](https://github.com/toritori0318/lua-resty-r3)|libr3 Lua-Openresty implementation||
-|28|[@farseerfc](https://github.com/farseerfc)/[**dotfiles**](https://github.com/farseerfc/dotfiles)|My dotfiles controlled by GNU Stow||
+|29|[@farseerfc](https://github.com/farseerfc)/[**dotfiles**](https://github.com/farseerfc/dotfiles)|My dotfiles controlled by GNU Stow||
+|29|[@toritori0318](https://github.com/toritori0318)/[**lua-resty-r3**](https://github.com/toritori0318/lua-resty-r3)|libr3 Lua-Openresty implementation||
 |25|[@kengonakajima](https://github.com/kengonakajima)/[**luvit-mysql**](https://github.com/kengonakajima/luvit-mysql)|Luvit port of node-mysql||
 |25|[@safx](https://github.com/safx)/[**LightroomPlugin-ClarifaiTagger**](https://github.com/safx/LightroomPlugin-ClarifaiTagger)|A Lightroom plugin suggests keywords of photo for you||
 |24|[@nitoyon](https://github.com/nitoyon)/[**lua-console-lightroom-plugin**](https://github.com/nitoyon/lua-console-lightroom-plugin)|"Lua Console" plugin for Lightroom 3.0+||
-|21|[@tenntenn](https://github.com/tenntenn)/[**lupe**](https://github.com/tenntenn/lupe)|LUPE - Lua Debugger||
+|22|[@tenntenn](https://github.com/tenntenn)/[**lupe**](https://github.com/tenntenn/lupe)|LUPE - Lua Debugger||
 |19|[@hetima](https://github.com/hetima)/[**hammerspoon-foundation_remapping**](https://github.com/hetima/hammerspoon-foundation_remapping)|Hammerspoon configuration script which remaps any keys for Sierra.||
 |19|[@kenchan](https://github.com/kenchan)/[**dotfiles**](https://github.com/kenchan/dotfiles)|kenchan's dotfiles.||
 |18|[@DavidFeng](https://github.com/DavidFeng)/[**lua-flatbuffers**](https://github.com/DavidFeng/lua-flatbuffers)|flatbuffers library for Lua||
@@ -64,22 +64,22 @@
 |5|[@randrew](https://github.com/randrew)/[**layoutexample**](https://github.com/randrew/layoutexample)|Example use of Layout in a Stingray project||
 |5|[@rhenium](https://github.com/rhenium)/[**awesome-battmon**](https://github.com/rhenium/awesome-battmon)|A simple battery monitor for awesome WM||
 |5|[@umegaya](https://github.com/umegaya)/[**luby**](https://github.com/umegaya/luby)|ruby syntax + luajit performance & ffi||
+|5|[@zick](https://github.com/zick)/[**LuaLisp**](https://github.com/zick/LuaLisp)|Lisp implementation in Lua||
 |4|[@MasWag](https://github.com/MasWag)/[**pandoc-satysfi-template**](https://github.com/MasWag/pandoc-satysfi-template)|A pandoc custom writer and template for SATySFi||
 |4|[@clear-code](https://github.com/clear-code)/[**lua-web-driver**](https://github.com/clear-code/lua-web-driver)|Mirror repository|[:arrow_upper_right:](https://gitlab.com/clear-code/lua-web-driver)|
+|4|[@hnakamur](https://github.com/hnakamur)/[**nginx-lua-saml-service-provider**](https://github.com/hnakamur/nginx-lua-saml-service-provider)|||
 |4|[@kdrl](https://github.com/kdrl)/[**Wear-This-Today**](https://github.com/kdrl/Wear-This-Today)|Deep learningでファッションコーディネーションを！||
 |4|[@kengonakajima](https://github.com/kengonakajima)/[**lua-parser**](https://github.com/kengonakajima/lua-parser)|Parse and convert Lua script into Sexp with only Ruby and Racc||
 |4|[@mah0x211](https://github.com/mah0x211)/[**lua-resty-entity**](https://github.com/mah0x211/lua-resty-entity)|request entity handling module for openresty.||
 |4|[@mtsmfm](https://github.com/mtsmfm)/[**dotfiles**](https://github.com/mtsmfm/dotfiles)|dotfiles||
 |4|[@torus](https://github.com/torus)/[**ios-lua-lander**](https://github.com/torus/ios-lua-lander)|Lunar Lander for iOS devices written in Lua.||
 |4|[@toshi-k](https://github.com/toshi-k)/[**kaggle-digit-recognizer**](https://github.com/toshi-k/kaggle-digit-recognizer)|99.5% hit solution in "Digit Recognizer"||
-|4|[@zick](https://github.com/zick)/[**LuaLisp**](https://github.com/zick/LuaLisp)|Lisp implementation in Lua||
 |3|[@FMS-Cat](https://github.com/FMS-Cat)/[**obj2ms3dascii**](https://github.com/FMS-Cat/obj2ms3dascii)|Wavefront .obj to Milkshape 3d Ascii conversion script||
 |3|[@ahq1993](https://github.com/ahq1993)/[**Perceivable-Human-Robot-Interaction-using-Neural-Attention-Q-Networks**](https://github.com/ahq1993/Perceivable-Human-Robot-Interaction-using-Neural-Attention-Q-Networks)|Multimodal Deep Attention Recurrent Q-Network for perceivable social human-robot interaction. ||
 |3|[@clear-code](https://github.com/clear-code)/[**luacs**](https://github.com/clear-code/luacs)|LuaCS ia a CSS Selectors parser library for Lua|[:arrow_upper_right:](https://clear-code.github.io/luacs/)|
 |3|[@fang2hou](https://github.com/fang2hou)/[**WindDungeonHelper**](https://github.com/fang2hou/WindDungeonHelper)|Dungeon helper.||
 |3|[@gajop](https://github.com/gajop)/[**Scened-Core**](https://github.com/gajop/Scened-Core)|Scened: core module||
 |3|[@gajop](https://github.com/gajop)/[**Toolbox**](https://github.com/gajop/Toolbox)|UNOFFICIAL source for: Spring engine based in-game tools useful to developers||
-|3|[@hnakamur](https://github.com/hnakamur)/[**nginx-lua-saml-service-provider**](https://github.com/hnakamur/nginx-lua-saml-service-provider)|||
 |3|[@hogelog](https://github.com/hogelog)/[**luapit**](https://github.com/hogelog/luapit)|pit is account management tool.|[:arrow_upper_right:](http://d.hatena.ne.jp/hogelog/)|
 |3|[@jedahan](https://github.com/jedahan)/[**autones**](https://github.com/jedahan/autones)|plug into your NES, and watch the best speedrunners play the games for you||
 |3|[@kengonakajima](https://github.com/kengonakajima)/[**mockcity**](https://github.com/kengonakajima/mockcity)|MockCity - Massively Multiplayer Online City Constructor.  Enjoy constructing your own city with friends in MMO, shared, persistent and dynamic world.  |[:arrow_upper_right:](http://playmockcity.blogspot.com/)|

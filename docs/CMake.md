@@ -18,4 +18,5 @@
 |3|[@okuoku](https://github.com/okuoku)/[**yunibase**](https://github.com/okuoku/yunibase)|Yuni library test environment (Scheme implementations build script)||
 |3|[@pcboy](https://github.com/pcboy)/[**libwallet**](https://github.com/pcboy/libwallet)|Script to compile monero libwallet for Android (used by monujo wallet)||
 |3|[@sugarsweetrobotics](https://github.com/sugarsweetrobotics)/[**UrgRTC**](https://github.com/sugarsweetrobotics/UrgRTC)|||
+|3|[@termoshtt](https://github.com/termoshtt)/[**flat_ffi_example**](https://github.com/termoshtt/flat_ffi_example)|FFI example of C++/Python using FlatBuffers||
 

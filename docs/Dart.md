@@ -1,20 +1,20 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|423|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
-|147|[@tortuvshin](https://github.com/tortuvshin)/[**open-source-flutter-apps**](https://github.com/tortuvshin/open-source-flutter-apps)|:iphone: List of open source Flutter applications :octocat:||
-|73|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(1)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dev/packages/bloc_provider)|
-|69|[@skkallayath](https://github.com/skkallayath)/[**photofilters**](https://github.com/skkallayath/photofilters)|photofilters library for flutter||
+|424|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
+|153|[@tortuvshin](https://github.com/tortuvshin)/[**open-source-flutter-apps**](https://github.com/tortuvshin/open-source-flutter-apps)|:iphone: List of open source Flutter applications :octocat:||
+|75|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(1)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dev/packages/bloc_provider)|
+|70|[@skkallayath](https://github.com/skkallayath)/[**photofilters**](https://github.com/skkallayath/photofilters)|photofilters library for flutter||
 |57|[@nukata](https://github.com/nukata)/[**lisp-in-dart**](https://github.com/nukata/lisp-in-dart)|A fast Lisp interpreter in Dart||
 |52|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
-|45|[@droibit](https://github.com/droibit)/[**flutter_custom_tabs**](https://github.com/droibit/flutter_custom_tabs)|A Flutter plugin to use Chrome Custom Tabs.|[:arrow_upper_right:](https://pub.dartlang.org/packages/flutter_custom_tabs)|
+|46|[@droibit](https://github.com/droibit)/[**flutter_custom_tabs**](https://github.com/droibit/flutter_custom_tabs)|A Flutter plugin to use Chrome Custom Tabs.|[:arrow_upper_right:](https://pub.dartlang.org/packages/flutter_custom_tabs)|
 |25|[@sh4869](https://github.com/sh4869)/[**twitter.dart**](https://github.com/sh4869/twitter.dart)|Twitter API Library in Dart|[:arrow_upper_right:](https://pub.dartlang.org/packages/twitter)|
 |17|[@mono0926](https://github.com/mono0926)/[**widget-quiz**](https://github.com/mono0926/widget-quiz)|Flutter Widget Quiz, made for Flutter Create (Source code size is limited to 5KB)|[:arrow_upper_right:](https://medium.com/flutter-jp/flutter-create-a85a29fdb918)|
 |17|[@ntaoo](https://github.com/ntaoo)/[**material2_dart**](https://github.com/ntaoo/material2_dart)|angular/material2 for Dart.||
 |16|[@kikuchy](https://github.com/kikuchy)/[**crashlytics**](https://github.com/kikuchy/crashlytics)|Flutter plugin for (Fabric) Crashlytics on Android and iOS. (Unofficial)||
 |13|[@ehr174](https://github.com/ehr174)/[**dartstrap**](https://github.com/ehr174/dartstrap)|||
 |13|[@konifar](https://github.com/konifar)/[**flutter-for-non-engineers**](https://github.com/konifar/flutter-for-non-engineers)|エンジニア以外の職種の方がFlutterでの開発を通してなんとなくアプリ開発について知るためのリポジトリです||
+|12|[@mono0926](https://github.com/mono0926)/[**flutter-flavor-example**](https://github.com/mono0926/flutter-flavor-example)|||
 |12|[@najeira](https://github.com/najeira)/[**flutter-video-player**](https://github.com/najeira/flutter-video-player)|A Flutter plugin for iOS and Android for video using ExoPlayer||
-|11|[@mono0926](https://github.com/mono0926)/[**flutter-flavor-example**](https://github.com/mono0926/flutter-flavor-example)|||
 |11|[@sayonetech](https://github.com/sayonetech)/[**flutter_calculator**](https://github.com/sayonetech/flutter_calculator)|||
 |11|[@vinbhai4u](https://github.com/vinbhai4u)/[**flutter_social_app**](https://github.com/vinbhai4u/flutter_social_app)|||
 |10|[@mono0926](https://github.com/mono0926)/[**flutter-animations**](https://github.com/mono0926/flutter-animations)||[:arrow_upper_right:](https://medium.com/flutter-jp/implicit-animation-b9d4b7358c28)|

@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|121|[@cotoami](https://github.com/cotoami)/[**cotoami**](https://github.com/cotoami/cotoami)|Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.|[:arrow_upper_right:](https://medium.com/@cotoami/cotoami-an-experimental-note-taking-app-focusing-on-connecting-734928d53d2c)|
+|124|[@cotoami](https://github.com/cotoami)/[**cotoami**](https://github.com/cotoami/cotoami)|Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.|[:arrow_upper_right:](https://medium.com/@cotoami/cotoami-an-experimental-note-taking-app-focusing-on-connecting-734928d53d2c)|
 |77|[@jinjor](https://github.com/jinjor)/[**elm-time-travel**](https://github.com/jinjor/elm-time-travel)|An experimental debugger for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-time-travel/latest)|
-|71|[@arowM](https://github.com/arowM)/[**elm-form-decoder**](https://github.com/arowM/elm-form-decoder)|This library provides a scalable way to decode user inputs into neat structure.|[:arrow_upper_right:](https://package.elm-lang.org/packages/arowM/elm-form-decoder/latest/)|
+|72|[@arowM](https://github.com/arowM)/[**elm-form-decoder**](https://github.com/arowM/elm-form-decoder)|This library provides a scalable way to decode user inputs into neat structure.|[:arrow_upper_right:](https://package.elm-lang.org/packages/arowM/elm-form-decoder/latest/)|
 |66|[@yang-wei](https://github.com/yang-wei)/[**elmflux**](https://github.com/yang-wei/elmflux)|Visualization of Elm Signals|[:arrow_upper_right:](http://yang-wei.github.io/elmflux/)|
-|53|[@jinjor](https://github.com/jinjor)/[**elm-devtool**](https://github.com/jinjor/elm-devtool)|An attempt to use Elm's debugger on Chrome DevTools||
+|52|[@jinjor](https://github.com/jinjor)/[**elm-devtool**](https://github.com/jinjor/elm-devtool)|An attempt to use Elm's debugger on Chrome DevTools||
 |43|[@jinjor](https://github.com/jinjor)/[**elm-html-parser**](https://github.com/jinjor/elm-html-parser)|Parse HTML in Elm!|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-html-parser/latest)|
 |42|[@jinjor](https://github.com/jinjor)/[**elm-drill**](https://github.com/jinjor/elm-drill)|手を動かしながら Elm に慣れるためのドリルです。||
 |30|[@jinjor](https://github.com/jinjor)/[**elm-debounce**](https://github.com/jinjor/elm-debounce)|Yet another debouncer for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-debounce/latest/)|
@@ -17,7 +17,7 @@
 |12|[@jinjor](https://github.com/jinjor)/[**elm-video-chat**](https://github.com/jinjor/elm-video-chat)|video chat system by Elm||
 |11|[@jinjor](https://github.com/jinjor)/[**elm-binary-decoder**](https://github.com/jinjor/elm-binary-decoder)|Experimental binary decoder|[:arrow_upper_right:](https://jinjor.github.io/elm-binary-decoder/)|
 |11|[@jinjor](https://github.com/jinjor)/[**elm-xml-parser**](https://github.com/jinjor/elm-xml-parser)|XML parser for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-xml-parser/latest)|
-|9|[@arowM](https://github.com/arowM)/[**elm-reference**](https://github.com/arowM/elm-reference)|An immutable approach to mutable references.|[:arrow_upper_right:](http://package.elm-lang.org/packages/arowM/elm-reference/latest)|
+|10|[@arowM](https://github.com/arowM)/[**elm-reference**](https://github.com/arowM/elm-reference)|An immutable approach to mutable references.|[:arrow_upper_right:](http://package.elm-lang.org/packages/arowM/elm-reference/latest)|
 |9|[@kgtkr](https://github.com/kgtkr)/[**login-pages-alert**](https://github.com/kgtkr/login-pages-alert)|||
 |9|[@ymtszw](https://github.com/ymtszw)/[**elm-xml-decode**](https://github.com/ymtszw/elm-xml-decode)|Elm XML decoder sharing the spirit of Json.Decode|[:arrow_upper_right:](http://package.elm-lang.org/packages/ymtszw/elm-xml-decode/latest/)|
 |8|[@jinjor](https://github.com/jinjor)/[**elm-transition**](https://github.com/jinjor/elm-transition)|A simple transition library for Elm||

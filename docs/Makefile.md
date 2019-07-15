@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |83|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
-|79|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance. Supports multi-install.|[:arrow_upper_right:](https://git.io/alpwsl)|
+|80|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance. Supports multi-install.|[:arrow_upper_right:](https://git.io/alpwsl)|
 |53|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
-|43|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
-|39|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
+|44|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
+|40|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
 |34|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
 |28|[@moznion](https://github.com/moznion)/[**aws-lambda-perl5-layer**](https://github.com/moznion/aws-lambda-perl5-layer)|Perl5 layer for AWS Lambda with runtime API||
@@ -30,9 +30,9 @@
 |10|[@wadahiro](https://github.com/wadahiro)/[**gitlab-ecs-cloudformation**](https://github.com/wadahiro/gitlab-ecs-cloudformation)|||
 |9|[@daitomanabe](https://github.com/daitomanabe)/[**ofxTinySingleton**](https://github.com/daitomanabe/ofxTinySingleton)|tiny and simple singleton in C++11 way (for learning C++11||
 |9|[@hibari](https://github.com/hibari)/[**hibari-doc**](https://github.com/hibari/hibari-doc)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.|[:arrow_upper_right:](http://hibari.github.com/hibari-doc)|
+|9|[@nnao45](https://github.com/nnao45)/[**zsh-kubectl-completion**](https://github.com/nnao45/zsh-kubectl-completion)|Rich zsh completion for the kubectl command.|[:arrow_upper_right:](https://medium.com/@n4sekai5y/kubectl-completion-zsh%E3%82%92%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%86%8D%E7%99%BA%E6%98%8E%E3%81%97%E3%81%9F-da6c5345263f)|
 |9|[@puripuri2100](https://github.com/puripuri2100)/[**stjarticle**](https://github.com/puripuri2100/stjarticle)|SATySFi's package||
 |9|[@tomohiro](https://github.com/tomohiro)/[**air**](https://github.com/tomohiro/air)|Command-line AirPlay video client for Apple TV||
-|8|[@nnao45](https://github.com/nnao45)/[**zsh-kubectl-completion**](https://github.com/nnao45/zsh-kubectl-completion)|Rich zsh completion for the kubectl command.|[:arrow_upper_right:](https://medium.com/@n4sekai5y/kubectl-completion-zsh%E3%82%92%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%86%8D%E7%99%BA%E6%98%8E%E3%81%97%E3%81%9F-da6c5345263f)|
 |7|[@2bbb](https://github.com/2bbb)/[**ofxCrushAppsUsingOfxOscReceiver**](https://github.com/2bbb/ofxCrushAppsUsingOfxOscReceiver)|if you wanna be no.1 in exhibition everyone use openFrameworks!||
 |7|[@Tomohiro](https://github.com/Tomohiro)/[**air**](https://github.com/Tomohiro/air)|Command-line AirPlay video client for Apple TV||
 |7|[@abcang](https://github.com/abcang)/[**azpainter-mac**](https://github.com/abcang/azpainter-mac)|AzPainter for Mac||
@@ -59,6 +59,7 @@
 |4|[@enukane](https://github.com/enukane)/[**c91-capturing-80211-2016**](https://github.com/enukane/c91-capturing-80211-2016)|C91頒布の「Capturing 802.11 ver.2016」の原稿データ (!= 完成pdf)||
 |4|[@haconiwa](https://github.com/haconiwa)/[**book**](https://github.com/haconiwa/book)|The haconiwa gitbook||
 |4|[@hanasaan](https://github.com/hanasaan)/[**ofxBinaryPatternMessegner**](https://github.com/hanasaan/ofxBinaryPatternMessegner)|Messaging via Image||
+|4|[@kazuho](https://github.com/kazuho)/[**draft-kazuho-httpbis-priority**](https://github.com/kazuho/draft-kazuho-httpbis-priority)|||
 |4|[@kazuho](https://github.com/kazuho)/[**quic-perf-metrics**](https://github.com/kazuho/quic-perf-metrics)|||
 |4|[@linyows](https://github.com/linyows)/[**tomohisaoda.com**](https://github.com/linyows/tomohisaoda.com)|📝 my blog|[:arrow_upper_right:](http://tomohisaoda.com)|
 |4|[@mumoshu](https://github.com/mumoshu)/[**kube-logrotate**](https://github.com/mumoshu/kube-logrotate)|An ubuntu-slim/s6-overlay/confd based docker image for running logrotate via Kubernetes daemonsets||
@@ -76,7 +77,6 @@
 |3|[@hakuturu583](https://github.com/hakuturu583)/[**robocup_packages**](https://github.com/hakuturu583/robocup_packages)|Codes for playing soccer in robocup SPL||
 |3|[@hanachin](https://github.com/hanachin)/[**satysfi-examples**](https://github.com/hanachin/satysfi-examples)|||
 |3|[@jj1bdx](https://github.com/jj1bdx)/[**erlang-freebsd-port**](https://github.com/jj1bdx/erlang-freebsd-port)|Tentative private FreeBSD Erlang Port for 18.2||
-|3|[@kazuho](https://github.com/kazuho)/[**draft-kazuho-httpbis-priority**](https://github.com/kazuho/draft-kazuho-httpbis-priority)|||
 |3|[@kboy-silvergym](https://github.com/kboy-silvergym)/[**barberry_iOS**](https://github.com/kboy-silvergym/barberry_iOS)|筋トレ記録アプリ「バーベリー」の公開verです。たまに更新します。||
 |3|[@kdmsnr](https://github.com/kdmsnr)/[**NexusGuide**](https://github.com/kdmsnr/NexusGuide)|||
 |3|[@koji](https://github.com/koji)/[**oF-shader-boilerplate**](https://github.com/koji/oF-shader-boilerplate)|||

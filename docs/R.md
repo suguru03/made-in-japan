@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |399|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
-|264|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
+|265|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
 |110|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
 |79|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
 |38|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
@@ -11,7 +11,7 @@
 |31|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
 |28|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
-|20|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](https://uribo.github.io/jpmesh)|
+|21|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](https://uribo.github.io/jpmesh)|
 |17|[@yutannihilation](https://github.com/yutannihilation)/[**tiedr**](https://github.com/yutannihilation/tiedr)|Experimental package (not yet existent) for multi-gather() and multi-spread()||
 |16|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
 |16|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
@@ -19,34 +19,34 @@
 |14|[@yutannihilation](https://github.com/yutannihilation)/[**estatapi**](https://github.com/yutannihilation/estatapi)|R package for e-Stat API in Japan||
 |14|[@yutannihilation](https://github.com/yutannihilation)/[**kokudosuuchi**](https://github.com/yutannihilation/kokudosuuchi)|国土数値情報ダウンロードサービスWeb APIからデータを取得するためのRパッケージです||
 |13|[@TomKellyGenetics](https://github.com/TomKellyGenetics)/[**leiden**](https://github.com/TomKellyGenetics/leiden)|Implementation of the Leiden algorithm called by reticulate in R. (CRAN)|[:arrow_upper_right:](https://leidenalg.readthedocs.io)|
+|13|[@hoxo-m](https://github.com/hoxo-m)/[**dplyr.teradata**](https://github.com/hoxo-m/dplyr.teradata)|A Teradata Backend for dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/dplyr.teradata)|
 |12|[@Quantisan](https://github.com/Quantisan)/[**nullwave**](https://github.com/Quantisan/nullwave)|active noise control for free||
-|12|[@hoxo-m](https://github.com/hoxo-m)/[**dplyr.teradata**](https://github.com/hoxo-m/dplyr.teradata)|A Teradata Backend for dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/dplyr.teradata)|
 |12|[@yutannihilation](https://github.com/yutannihilation)/[**mediumr**](https://github.com/yutannihilation/mediumr)|R Interface to Medium API||
 |12|[@yutannihilation](https://github.com/yutannihilation)/[**rstudioconf2019**](https://github.com/yutannihilation/rstudioconf2019)|Materials for rstudio::conf 2019||
-|11|[@hoxo-m](https://github.com/hoxo-m)/[**densratio**](https://github.com/hoxo-m/densratio)|An R Package for Density Ratio Estimation|[:arrow_upper_right:](https://github.com/hoxo-m/densratio)|
 |11|[@hoxo-m](https://github.com/hoxo-m)/[**sGMRFmix**](https://github.com/hoxo-m/sGMRFmix)|Sparse Gaussian Markov Random Field Mixtures for Anomaly Detection||
 |11|[@kazutan](https://github.com/kazutan)/[**tubeplayR**](https://github.com/kazutan/tubeplayR)|play youtube by R||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RFinanceJ**](https://github.com/teramonagi/RFinanceJ)|Get the data related to finance in Japan using variety types of data sources||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RODBCDBI**](https://github.com/teramonagi/RODBCDBI)|An implementation of R's DBI interface using ODBC package as a back-end. This allows R to connect to any DBMS that has a ODBC driver.|[:arrow_upper_right:](https://cran.r-project.org/web/packages/RODBCDBI/index.html)|
 |11|[@yutannihilation](https://github.com/yutannihilation)/[**highstockR**](https://github.com/yutannihilation/highstockR)|An R package to draw highstock charts. This is for demonstration purpose of htmlwidgets at 46th Tokyo.R meeting.||
+|10|[@hoxo-m](https://github.com/hoxo-m)/[**densratio**](https://github.com/hoxo-m/densratio)|An R Package for Density Ratio Estimation|[:arrow_upper_right:](https://github.com/hoxo-m/densratio)|
 |10|[@jirotubuyaki](https://github.com/jirotubuyaki)/[**Jdmbs**](https://github.com/jirotubuyaki/Jdmbs)|Jdmbs: An R Package for Monte Carlo Option Pricing Algorithm for Jump Diffusion Models with Correlational Companies||
 |10|[@uribo](https://github.com/uribo)/[**jpndistrict**](https://github.com/uribo/jpndistrict)|🗾 Create Japansese Administration Area Maps|[:arrow_upper_right:](http://uribo.github.io/jpndistrict)|
 |9|[@alexisvdb](https://github.com/alexisvdb)/[**singleCellHaystack**](https://github.com/alexisvdb/singleCellHaystack)|Finding surprising needles (=genes) in haystacks (=single cell transcriptome data).|[:arrow_upper_right:](https://alexisvdb.github.io/singleCellHaystack/)|
 |9|[@clear-code](https://github.com/clear-code)/[**sezemi-2014-readable-code**](https://github.com/clear-code/sezemi-2014-readable-code)|SEゼミ「プログラミングが好きな学生のためのリーダブルコード勉強会」関連のデータを置くリポジトリー||
-|9|[@hoxo-m](https://github.com/hoxo-m)/[**prophetExt**](https://github.com/hoxo-m/prophetExt)|Extension for Facebook Prophet|[:arrow_upper_right:](https://github.com/hoxo-m/prophetExt)|
-|9|[@wolfv](https://github.com/wolfv)/[**xtensor-showcase**](https://github.com/wolfv/xtensor-showcase)|A little demo how to bind an advanced data science algorithms to 4 different languages||
 |9|[@yukiyanai](https://github.com/yukiyanai)/[**quant-methods-R**](https://github.com/yukiyanai/quant-methods-R)|Repository for "Quantitative Methods in Political Science Using R" by Masahiko Asano and Yuki Yanai||
 |8|[@GinzaLion](https://github.com/GinzaLion)/[**R-Cryptocurrencies**](https://github.com/GinzaLion/R-Cryptocurrencies)|Public APIs - Cryptocurrencies||
 |8|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**Detectives**](https://github.com/IshidaMotohiro/Detectives)|for "Data Detectives", Soft Bank 2015||
 |8|[@chezou](https://github.com/chezou)/[**sparkavro**](https://github.com/chezou/sparkavro)|Load Avro data into Spark with sparklyr||
+|8|[@hoxo-m](https://github.com/hoxo-m)/[**prophetExt**](https://github.com/hoxo-m/prophetExt)|Extension for Facebook Prophet|[:arrow_upper_right:](https://github.com/hoxo-m/prophetExt)|
 |8|[@luslab](https://github.com/luslab)/[**MLehealth**](https://github.com/luslab/MLehealth)|Machine learning on electronic health records||
+|8|[@uribo](https://github.com/uribo)/[**japan_pollinosis**](https://github.com/uribo/japan_pollinosis)|||
+|8|[@uribo](https://github.com/uribo)/[**sealr**](https://github.com/uribo/sealr)|🏭 Sealing the R Objects Test and Assert Conditions 🤖||
+|8|[@wolfv](https://github.com/wolfv)/[**xtensor-showcase**](https://github.com/wolfv/xtensor-showcase)|A little demo how to bind an advanced data science algorithms to 4 different languages||
 |7|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**TextMining**](https://github.com/IshidaMotohiro/TextMining)|||
 |7|[@PhDMeiwp](https://github.com/PhDMeiwp)/[**basicTrendline**](https://github.com/PhDMeiwp/basicTrendline)|💎(on CRAN) an R package for adding trendline and confidence interval of basic linear or nonlinear models and show equation to plot.|[:arrow_upper_right:](https://cran.r-project.org/web/packages/basicTrendline/index.html)|
 |7|[@smallerhand](https://github.com/smallerhand)/[**portfolio**](https://github.com/smallerhand/portfolio)|my portfolios||
 |7|[@teramonagi](https://github.com/teramonagi)/[**SABRCalibrationOnShiny**](https://github.com/teramonagi/SABRCalibrationOnShiny)|SABR model calibration on shiny||
 |7|[@uribo](https://github.com/uribo)/[**Japan.useR**](https://github.com/uribo/Japan.useR)|:crossed_flags:Japanese R user community materials and information datasets||
-|7|[@uribo](https://github.com/uribo)/[**japan_pollinosis**](https://github.com/uribo/japan_pollinosis)|||
-|7|[@uribo](https://github.com/uribo)/[**sealr**](https://github.com/uribo/sealr)|🏭 Sealing the R Objects Test and Assert Conditions 🤖||
 |6|[@PhDMeiwp](https://github.com/PhDMeiwp)/[**Steel.Dwass.test**](https://github.com/PhDMeiwp/Steel.Dwass.test)|🍀an R package for Steel.Dwass.test (Non-parametric method, a post-hoc test after Kruskal-Wallis Test)||
 |6|[@ShotaOchi](https://github.com/ShotaOchi)/[**magickGUI**](https://github.com/ShotaOchi/magickGUI)|an R package that provides GUI tools for interactive image processing with the R package 'magick'||
 |6|[@TomKellyGenetics](https://github.com/TomKellyGenetics)/[**vioplot**](https://github.com/TomKellyGenetics/vioplot)|Development version of vioplot R package (CRAN maintainer)|[:arrow_upper_right:](https://CRAN.R-project.org/package=vioplot)|

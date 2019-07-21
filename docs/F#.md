@@ -3,8 +3,8 @@
 |80|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.FusionTasks**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
 |55|[@vain0](https://github.com/vain0)/[**VainZero.Friends**](https://github.com/vain0/VainZero.Friends)|PL for friends in the Japaripark (ジャパリパークのフレンズのためのプログラミング言語)||
 |55|[@vain0](https://github.com/vain0)/[**friends-lang**](https://github.com/vain0/friends-lang)|PL for friends in the Japaripark (ジャパリパークのフレンズのためのプログラミング言語)||
+|38|[@bleis-tift](https://github.com/bleis-tift)/[**FsYaml**](https://github.com/bleis-tift/FsYaml)|Typed Yaml Library for F#|[:arrow_upper_right:](http://bleis-tift.github.com/FsYaml)|
 |38|[@pocketberserker](https://github.com/pocketberserker)/[**FsMachines**](https://github.com/pocketberserker/FsMachines)|A stream processing library for F#||
-|37|[@bleis-tift](https://github.com/bleis-tift)/[**FsYaml**](https://github.com/bleis-tift/FsYaml)|Typed Yaml Library for F#|[:arrow_upper_right:](http://bleis-tift.github.com/FsYaml)|
 |28|[@pocketberserker](https://github.com/pocketberserker)/[**FsAttoparsec**](https://github.com/pocketberserker/FsAttoparsec)|A port of Bryan O'Sullivan's attoparsec from Haskell to F#||
 |19|[@kekyo](https://github.com/kekyo)/[**Microsoft.CodeAnalysis.ActivePatterns**](https://github.com/kekyo/Microsoft.CodeAnalysis.ActivePatterns)|F# Active pattern library for Roslyn Compiler Platform (C#, VB)||
 |16|[@Gab-km](https://github.com/Gab-km)/[**msgpack-fsharp**](https://github.com/Gab-km/msgpack-fsharp)|MessagePack implementation for F# msgpack.org[F#] http://msgpack.org/||

@@ -10,13 +10,13 @@
 |16|[@Gab-km](https://github.com/Gab-km)/[**msgpack-fsharp**](https://github.com/Gab-km/msgpack-fsharp)|MessagePack implementation for F# msgpack.org[F#] http://msgpack.org/||
 |16|[@bleis-tift](https://github.com/bleis-tift)/[**FSharp.Quotations.Compiler**](https://github.com/bleis-tift/FSharp.Quotations.Compiler)|This library is a compiler for F# expression tree.|[:arrow_upper_right:](http://bleis-tift.github.io/FSharp.Quotations.Compiler)|
 |15|[@mzp](https://github.com/mzp)/[**fluent-agent-windows-lite**](https://github.com/mzp/fluent-agent-windows-lite)|Simple fluent agent for Windows||
-|12|[@pocketberserker](https://github.com/pocketberserker)/[**Diff.Match.Patch**](https://github.com/pocketberserker/Diff.Match.Patch)|||
+|13|[@pocketberserker](https://github.com/pocketberserker)/[**Diff.Match.Patch**](https://github.com/pocketberserker/Diff.Match.Patch)|||
 |10|[@Gab-km](https://github.com/Gab-km)/[**Funcy**](https://github.com/Gab-km/Funcy)|This is the insignificant one of the numberless functional libraries for C#/VB.|[:arrow_upper_right:](https://www.nuget.org/packages/Funcy/)|
 |10|[@Gab-km](https://github.com/Gab-km)/[**OAuth-in-FSharp**](https://github.com/Gab-km/OAuth-in-FSharp)|This library offers the OAuth API written in F#.|[:arrow_upper_right:](http://twitter.com/gab_km)|
-|9|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Automaton**](https://github.com/pocketberserker/FSharp.Automaton)|||
+|10|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Automaton**](https://github.com/pocketberserker/FSharp.Automaton)|||
+|9|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Object.Diff**](https://github.com/pocketberserker/FSharp.Object.Diff)|||
 |8|[@CORDEA](https://github.com/CORDEA)/[**grpc-demo-fsharp**](https://github.com/CORDEA/grpc-demo-fsharp)|Implementation of gRPC by F# and automatically generated C# code.||
 |8|[@pocketberserker](https://github.com/pocketberserker)/[**ComVu**](https://github.com/pocketberserker/ComVu)|||
-|8|[@pocketberserker](https://github.com/pocketberserker)/[**FSharp.Object.Diff**](https://github.com/pocketberserker/FSharp.Object.Diff)|||
 |7|[@bleis-tift](https://github.com/bleis-tift)/[**TableDsl**](https://github.com/bleis-tift/TableDsl)|||
 |6|[@vain0](https://github.com/vain0)/[**tokiwa_db**](https://github.com/vain0/tokiwa_db)|||
 |5|[@azyobuzin](https://github.com/azyobuzin)/[**kirabern**](https://github.com/azyobuzin/kirabern)|コンパイラつくるぞ！！！！||

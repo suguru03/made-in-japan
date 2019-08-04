@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|364|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
+|371|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
 |252|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
-|145|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
+|149|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
 |112|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://vue-fixed-header.potato4d.dev/)|
 |95|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
-|83|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japanese first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
-|65|[@hanhdt](https://github.com/hanhdt)/[**vue-trix**](https://github.com/hanhdt/vue-trix)|Trix text editor component for Vue.js||
+|85|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japanese first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
+|69|[@hanhdt](https://github.com/hanhdt)/[**vue-trix**](https://github.com/hanhdt/vue-trix)|Trix text editor component for Vue.js||
 |60|[@Pitu](https://github.com/Pitu)/[**Magane**](https://github.com/Pitu/Magane)|Bringing LINE's sticker to Discord in a chaotic way.|[:arrow_upper_right:](https://magane.moe)|
 |51|[@nwtgck](https://github.com/nwtgck)/[**nipp**](https://github.com/nwtgck/nipp)|🎒 Portable Programmable Text Convertor Hosted on URL:  https://nwtgck.github.io/nipp||
 |45|[@andoshin11](https://github.com/andoshin11)/[**vue-cli-plugin-nuxt-starter-template**](https://github.com/andoshin11/vue-cli-plugin-nuxt-starter-template)|Nuxt.js starter project template for vue-cli v3. https://starter.nuxtjs.org||
@@ -23,6 +23,7 @@
 |20|[@frandiox](https://github.com/frandiox)/[**vue-onsenui-kitchensink**](https://github.com/frandiox/vue-onsenui-kitchensink)|Vue.js + Onsen UI Kitchen Sink Example||
 |19|[@lmiller1990](https://github.com/lmiller1990)/[**grahql-vue-example**](https://github.com/lmiller1990/grahql-vue-example)|An article showing how to make a GraphQL server and query with vue|[:arrow_upper_right:](https://medium.com/@lachlanmiller_52885/graphql-basics-and-practical-examples-with-vue-6b649b9685e0)|
 |19|[@ukatama](https://github.com/ukatama)/[**nekotaku**](https://github.com/ukatama/nekotaku)|ねこ卓：モバイルフレンドリーなオンラインセッション支援ツール|[:arrow_upper_right:](https://nekotaku.nekometer.info)|
+|18|[@hibiyasleep](https://github.com/hibiyasleep)/[**ikegami**](https://github.com/hibiyasleep/ikegami)|Experimental Vertical FFXIV Miniparse Overlay||
 |18|[@ktsn](https://github.com/ktsn)/[**vue-ast-explorer**](https://github.com/ktsn/vue-ast-explorer)|Vue template AST explorer https://ktsn.github.io/vue-ast-explorer/||
 |18|[@nishinoshake](https://github.com/nishinoshake)/[**javascript-listener**](https://github.com/nishinoshake/javascript-listener)|JavaScriptのイベントをたくさん見られるサイト|[:arrow_upper_right:](https://listener.noplan.cc)|
 |17|[@potato4d](https://github.com/potato4d)/[**kamishibai-viewer**](https://github.com/potato4d/kamishibai-viewer)|Qiita slide mode embed library|[:arrow_upper_right:](https://potato4d.github.io/kamishibai-viewer/)|
@@ -31,7 +32,6 @@
 |17|[@sin-tanaka](https://github.com/sin-tanaka)/[**vue-quagga**](https://github.com/sin-tanaka/vue-quagga)|quaggaJS's wrapper Barcode Reader/Scanner component for Vue.js.||
 |16|[@sunya9](https://github.com/sunya9)/[**beta**](https://github.com/sunya9/beta)|pnut.io web client.|[:arrow_upper_right:](https://beta.pnut.io)|
 |16|[@yamakadi](https://github.com/yamakadi)/[**expense-tracker**](https://github.com/yamakadi/expense-tracker)|An open source PWA for expense/income tracking|[:arrow_upper_right:](https://expense-tracker-demo-1.firebaseapp.com/)|
-|15|[@hibiyasleep](https://github.com/hibiyasleep)/[**ikegami**](https://github.com/hibiyasleep/ikegami)|Experimental Vertical FFXIV Miniparse Overlay||
 |15|[@mya-ake](https://github.com/mya-ake)/[**vuejs-spa-dev-env**](https://github.com/mya-ake/vuejs-spa-dev-env)|Vue.js 2.0でSPA(Single Page Application)作るための開発環境的なやつ|[:arrow_upper_right:](https://mya-ake.com/samples/vuejs-spa/)|
 |14|[@syumai](https://github.com/syumai)/[**trollo**](https://github.com/syumai/trollo)|Simple Trello clone implemented with Vue.js and Vuex|[:arrow_upper_right:](https://syumai.github.io/trollo/)|
 |14|[@y-nk](https://github.com/y-nk)/[**vue-whiteroom**](https://github.com/y-nk/vue-whiteroom)|developer sandbox for vue components||
@@ -40,29 +40,32 @@
 |13|[@takitakit](https://github.com/takitakit)/[**block-editor-vue**](https://github.com/takitakit/block-editor-vue)|||
 |12|[@fiahfy](https://github.com/fiahfy)/[**hosty**](https://github.com/fiahfy/hosty)|Hosts File Manager based on Electron||
 |12|[@potato4d](https://github.com/potato4d)/[**vue-typescript-adcal-examples**](https://github.com/potato4d/vue-typescript-adcal-examples)|||
+|11|[@azu](https://github.com/azu)/[**github-ribbon-generator**](https://github.com/azu/github-ribbon-generator)|GitHub Ribbon Generator on Web.|[:arrow_upper_right:](https://azu.github.io/github-ribbon-generator/)|
 |11|[@nju33](https://github.com/nju33)/[**qiow**](https://github.com/nju33/qiow)|An app of the Qiita for viewing widely||
 |10|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**speakerdeck-mobile**](https://github.com/YuheiNakasaka/speakerdeck-mobile)|mobile viewer for speakerdeck|[:arrow_upper_right:](https://mspeakerdeck.com/)|
-|10|[@azu](https://github.com/azu)/[**github-ribbon-generator**](https://github.com/azu/github-ribbon-generator)|GitHub Ribbon Generator on Web.|[:arrow_upper_right:](https://azu.github.io/github-ribbon-generator/)|
 |10|[@yomotsu](https://github.com/yomotsu)/[**vue-webgl-non-dom-component-example**](https://github.com/yomotsu/vue-webgl-non-dom-component-example)|||
 |9|[@hnakamur](https://github.com/hnakamur)/[**vue-d3-basechart**](https://github.com/hnakamur/vue-d3-basechart)|vue-d3-basechart provides BaseChart component using d3.js for Vue.js.||
 |9|[@morizyun](https://github.com/morizyun)/[**nuxt-edge-serverless-firebase-auth-template**](https://github.com/morizyun/nuxt-edge-serverless-firebase-auth-template)|||
+|8|[@andoshin11](https://github.com/andoshin11)/[**nuxt-typescript-example**](https://github.com/andoshin11/nuxt-typescript-example)|Example Application with Nuxt.js + TypeScript||
 |8|[@ixkaito](https://github.com/ixkaito)/[**viewportscaler**](https://github.com/ixkaito/viewportscaler)|Fluid-responsive value/calculation generator for CSS/Sass. To linearly scale font-size, margin, padding, etc. across viewport widths.|[:arrow_upper_right:](https://ixkaito.github.io/viewportscaler/)|
 |8|[@konojunya](https://github.com/konojunya)/[**HEW2018**](https://github.com/konojunya/HEW2018)|🏫 Project of HAL Event Week 2018. Introduction to modern web services using Go, Vue, AWS, Docker and CircleCI.||
 |8|[@tkc](https://github.com/tkc)/[**nuxt-ethereum-wallet**](https://github.com/tkc/nuxt-ethereum-wallet)|web3 wallet on nuxt.js||
 |7|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**dna-of-forests**](https://github.com/YCAMInterlab/dna-of-forests)|Field Guide “DNA of Forests” - YCAM Bio Research|[:arrow_upper_right:](http://dna-of-forests.ycam.jp/en/)|
-|7|[@andoshin11](https://github.com/andoshin11)/[**nuxt-typescript-example**](https://github.com/andoshin11/nuxt-typescript-example)|Example Application with Nuxt.js + TypeScript||
 |7|[@ktsn](https://github.com/ktsn)/[**typescript-webpack-simple**](https://github.com/ktsn/typescript-webpack-simple)|A simple TypeScript + Webpack + vue-loader setup.||
+|7|[@miyaoka](https://github.com/miyaoka)/[**metro**](https://github.com/miyaoka/metro)|SVG drawing like Mini Metro|[:arrow_upper_right:](https://metro.netlify.com/)|
+|7|[@nwtgck](https://github.com/nwtgck)/[**piping-screen-share-web**](https://github.com/nwtgck/piping-screen-share-web)|🖥️ Screen Share via Piping Server with End-to-End Encryption https://piping-screen-share.netlify.com||
 |7|[@onigra](https://github.com/onigra)/[**vue-fes-japan-reject-con-demo**](https://github.com/onigra/vue-fes-japan-reject-con-demo)|||
 |7|[@shimar](https://github.com/shimar)/[**nuxt-firebase-auth-example**](https://github.com/shimar/nuxt-firebase-auth-example)|||
 |7|[@ysakasin](https://github.com/ysakasin)/[**saipage**](https://github.com/ysakasin/saipage)|A diceroll tool for TRPG|[:arrow_upper_right:](https://ysakasin.github.io/saipage/)|
+|6|[@1000ch](https://github.com/1000ch)/[**vue-trim**](https://github.com/1000ch/vue-trim)|Vue.js component for trimming images using Cropper.js.|[:arrow_upper_right:](https://1000ch.github.io/vue-trim/)|
 |6|[@CYBAI](https://github.com/CYBAI)/[**vue-mdl-datepicker**](https://github.com/CYBAI/vue-mdl-datepicker)|Material Design Datepicker for Vue.js||
 |6|[@LISTEN-moe](https://github.com/LISTEN-moe)/[**desktop-app**](https://github.com/LISTEN-moe/desktop-app)|||
 |6|[@joe-re](https://github.com/joe-re)/[**eslint-vue-typescript-sample**](https://github.com/joe-re/eslint-vue-typescript-sample)|||
 |6|[@long-af](https://github.com/long-af)/[**website**](https://github.com/long-af/website)|||
-|6|[@miyaoka](https://github.com/miyaoka)/[**metro**](https://github.com/miyaoka/metro)|SVG drawing like Mini Metro|[:arrow_upper_right:](https://metro.netlify.com/)|
 |6|[@nishinoshake](https://github.com/nishinoshake)/[**houga-blog**](https://github.com/nishinoshake/houga-blog)| ContentfulとNuxt.jsで構築したブログ|[:arrow_upper_right:](https://blog.houga.cc)|
-|6|[@nwtgck](https://github.com/nwtgck)/[**piping-screen-share-web**](https://github.com/nwtgck/piping-screen-share-web)|🖥️ Screen Share via Piping Server with End-to-End Encryption https://piping-screen-share.netlify.com||
+|6|[@potato4d](https://github.com/potato4d)/[**minimalytm-website**](https://github.com/potato4d/minimalytm-website)|minimalytm official Website|[:arrow_upper_right:](https://www.minimalytm.app)|
 |6|[@sho-yamane](https://github.com/sho-yamane)/[**nuxt-hp**](https://github.com/sho-yamane/nuxt-hp)|||
+|6|[@utatti](https://github.com/utatti)/[**futaba**](https://github.com/utatti/futaba)|Image personalization with TensorFlow.js|[:arrow_upper_right:](https://github.com/utatti/futaba)|
 |5|[@TinyKitten](https://github.com/TinyKitten)/[**Yam**](https://github.com/TinyKitten/Yam)|ナチュラルにマストドンにシェアするアレ|[:arrow_upper_right:](https://yam.tinykitten.me)|
 |5|[@andoshin11](https://github.com/andoshin11)/[**heroku-storybook-example**](https://github.com/andoshin11/heroku-storybook-example)|Deploy static Storybook page to Heroku for each pull requests.||
 |5|[@argelius](https://github.com/argelius)/[**vue-onsenui**](https://github.com/argelius/vue-onsenui)|Vue components for Onsen UI||
@@ -71,13 +74,11 @@
 |5|[@jacoyutorius](https://github.com/jacoyutorius)/[**vue-cognito-graphql**](https://github.com/jacoyutorius/vue-cognito-graphql)|AWS Amplify + AppSync + VueでDynamodBを参照するアプリケーションのサンプル。  画面からPOSTした内容をGraphQLのsubscriptionで受け取る。||
 |5|[@jiyuujin](https://github.com/jiyuujin)/[**admin**](https://github.com/jiyuujin/admin)|Web猫ブログの問い合わせや技術情報の蓄積、フライトログなど|[:arrow_upper_right:](https://admin.nekohack.app/)|
 |5|[@miyaoka](https://github.com/miyaoka)/[**vue-touch-range**](https://github.com/miyaoka/vue-touch-range)|Touch extension of input-range element|[:arrow_upper_right:](https://miyaoka.github.io/vue-touch-range/)|
-|5|[@potato4d](https://github.com/potato4d)/[**minimalytm-website**](https://github.com/potato4d/minimalytm-website)|minimalytm official Website|[:arrow_upper_right:](https://www.minimalytm.app)|
 |5|[@potato4d](https://github.com/potato4d)/[**potato4d.me**](https://github.com/potato4d/potato4d.me)|Potato4d's Website|[:arrow_upper_right:](https://potato4d.me)|
 |5|[@sunecosuri](https://github.com/sunecosuri)/[**vue-component-sandbox**](https://github.com/sunecosuri/vue-component-sandbox)|SandBox for Vue.js||
 |5|[@tarotaro080808](https://github.com/tarotaro080808)/[**xrp-checker**](https://github.com/tarotaro080808/xrp-checker)|Check the balance of XRP's wallet address, calculate the current asset value, and display the timeline of the exchange chart.|[:arrow_upper_right:](https://xrp-checker.com/)|
 |5|[@tkc](https://github.com/tkc)/[**anime-js-sandbox**](https://github.com/tkc/anime-js-sandbox)|sandbox of anime.js|[:arrow_upper_right:](https://tkc.github.io/anime-js-sandbox/)|
 |5|[@tkc](https://github.com/tkc)/[**vue-image-uploader**](https://github.com/tkc/vue-image-uploader)| vue.js image uploader |[:arrow_upper_right:](https://tkc.github.io/vue-image-uploader/)|
-|5|[@utatti](https://github.com/utatti)/[**futaba**](https://github.com/utatti/futaba)|Image personalization with TensorFlow.js|[:arrow_upper_right:](https://github.com/utatti/futaba)|
 |4|[@0918nobita](https://github.com/0918nobita)/[**Rider-S**](https://github.com/0918nobita/Rider-S)|安全なサイクリングをサポートするPWA|[:arrow_upper_right:](https://api-project-1039166349340.firebaseapp.com)|
 |4|[@0918nobita](https://github.com/0918nobita)/[**ToyCon-Garage-Emulator**](https://github.com/0918nobita/ToyCon-Garage-Emulator)|Nintendo LaboのToy-Conガレージで作成するプログラムを、ブラウザ上でデバッグできるエミュレータです。||
 |4|[@Haritaso](https://github.com/Haritaso)/[**mastoclient**](https://github.com/Haritaso/mastoclient)||[:arrow_upper_right:](https://mastoclient.haritaso.me/)|

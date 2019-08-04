@@ -51,6 +51,7 @@
 |3|[@Pctg-x8](https://github.com/Pctg-x8)/[**objective-gl**](https://github.com/Pctg-x8/objective-gl)|High-level OpenGL Wrapper/Helper||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-fsa**](https://github.com/ShigekiKarita/d-fsa)|Finite State Automata Library for D including CTFE regex||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-nv**](https://github.com/ShigekiKarita/d-nv)|NVRTC (CUDA runtime compiler) wrapper for D||
+|3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-ssvm**](https://github.com/ShigekiKarita/d-ssvm)|dlang w/ mir implementation of structural support vector machines (SSVM)||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-svm**](https://github.com/ShigekiKarita/d-svm)|minimal svm implementation||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-tree**](https://github.com/ShigekiKarita/d-tree)|Decision tree library for D||
 |3|[@Tosuke](https://github.com/Tosuke)/[**dpromise**](https://github.com/Tosuke/dpromise)|ES2015 like Promises for dlang||

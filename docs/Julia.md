@@ -1,28 +1,28 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|133|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
-|73|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
+|136|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
+|74|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
 |40|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
 |39|[@vchuravy](https://github.com/vchuravy)/[**GPUifyLoops.jl**](https://github.com/vchuravy/GPUifyLoops.jl)|||
 |33|[@r9y9](https://github.com/r9y9)/[**VoiceConversion.jl**](https://github.com/r9y9/VoiceConversion.jl)|[Deprecated] Statistical Voice Conversion in Julia. See the website link for new library|[:arrow_upper_right:](https://github.com/r9y9/nnmnkwii)|
 |31|[@bicycle1885](https://github.com/bicycle1885)/[**TranscodingStreams.jl**](https://github.com/bicycle1885/TranscodingStreams.jl)|Simple, consistent interfaces for any codec.||
-|24|[@bicycle1885](https://github.com/bicycle1885)/[**CellFishing.jl**](https://github.com/bicycle1885/CellFishing.jl)|Fast and scalable cell search tool||
+|25|[@bicycle1885](https://github.com/bicycle1885)/[**CellFishing.jl**](https://github.com/bicycle1885/CellFishing.jl)|Fast and scalable cell search tool||
 |23|[@bicycle1885](https://github.com/bicycle1885)/[**RandomForests.jl**](https://github.com/bicycle1885/RandomForests.jl)|Random Forests in Julia||
-|19|[@r9y9](https://github.com/r9y9)/[**WORLD.jl**](https://github.com/r9y9/WORLD.jl)|A lightweight julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system|[:arrow_upper_right:](http://r9y9.github.io/WORLD.jl/latest/)|
+|20|[@r9y9](https://github.com/r9y9)/[**WORLD.jl**](https://github.com/r9y9/WORLD.jl)|A lightweight julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system|[:arrow_upper_right:](http://r9y9.github.io/WORLD.jl/latest/)|
 |19|[@vchuravy](https://github.com/vchuravy)/[**MCAnalyzer.jl**](https://github.com/vchuravy/MCAnalyzer.jl)|A set of tools for machine code analyzing of Julia code||
 |18|[@bicycle1885](https://github.com/bicycle1885)/[**CodecZlib.jl**](https://github.com/bicycle1885/CodecZlib.jl)|zlib codecs for TranscodingStreams.jl.||
-|16|[@chezou](https://github.com/chezou)/[**MeCab.jl**](https://github.com/chezou/MeCab.jl)|Julia binding of Japanese morphological analyzer MeCab||
-|15|[@r9y9](https://github.com/r9y9)/[**MelGeneralizedCepstrums.jl**](https://github.com/r9y9/MelGeneralizedCepstrums.jl)|Mel-Generalized Cepstrum analysis||
+|17|[@chezou](https://github.com/chezou)/[**MeCab.jl**](https://github.com/chezou/MeCab.jl)|Julia binding of Japanese morphological analyzer MeCab||
+|16|[@r9y9](https://github.com/r9y9)/[**MelGeneralizedCepstrums.jl**](https://github.com/r9y9/MelGeneralizedCepstrums.jl)|Mel-Generalized Cepstrum analysis||
+|16|[@takuti](https://github.com/takuti)/[**Recommendation.jl**](https://github.com/takuti/Recommendation.jl)|Building recommender systems in Julia|[:arrow_upper_right:](https://takuti.github.io/Recommendation.jl/latest/)|
 |14|[@chezou](https://github.com/chezou)/[**TinySegmenter.jl**](https://github.com/chezou/TinySegmenter.jl)|Julia version of TinySegmenter, compact Japanese tokenizer||
-|12|[@r9y9](https://github.com/r9y9)/[**SynthesisFilters.jl**](https://github.com/r9y9/SynthesisFilters.jl)|Speech waveform synthesis filters||
-|12|[@takuti](https://github.com/takuti)/[**Recommendation.jl**](https://github.com/takuti/Recommendation.jl)|Building recommender systems in Julia|[:arrow_upper_right:](https://takuti.github.io/Recommendation.jl/latest/)|
+|13|[@r9y9](https://github.com/r9y9)/[**SynthesisFilters.jl**](https://github.com/r9y9/SynthesisFilters.jl)|Speech waveform synthesis filters||
+|11|[@r9y9](https://github.com/r9y9)/[**SPTK.jl**](https://github.com/r9y9/SPTK.jl)|A thin Julia wrapper for Speech Signal Processing Toolkit (SPTK) API||
 |11|[@sorami](https://github.com/sorami)/[**DependencyParser.jl**](https://github.com/sorami/DependencyParser.jl)|Dependency parser written in Julia.||
-|10|[@r9y9](https://github.com/r9y9)/[**SPTK.jl**](https://github.com/r9y9/SPTK.jl)|A thin Julia wrapper for Speech Signal Processing Toolkit (SPTK) API||
+|11|[@vchuravy](https://github.com/vchuravy)/[**PProf.jl**](https://github.com/vchuravy/PProf.jl)|Export Julia profiles to the pprof fromat||
 |8|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**SoftConfidenceWeighted.jl**](https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl)|Exact Soft Confidence-Weighted Learning||
 |8|[@vchuravy](https://github.com/vchuravy)/[**Hydrozoa.jl**](https://github.com/vchuravy/Hydrozoa.jl)|||
 |7|[@r9y9](https://github.com/r9y9)/[**ConstantQ.jl**](https://github.com/r9y9/ConstantQ.jl)|A fast constant-q transform in Julia||
 |6|[@bicycle1885](https://github.com/bicycle1885)/[**ConcurrentCalls.jl**](https://github.com/bicycle1885/ConcurrentCalls.jl)|Call functions concurrently.||
-|6|[@vchuravy](https://github.com/vchuravy)/[**PProf.jl**](https://github.com/vchuravy/PProf.jl)|Export Julia profiles to the pprof fromat||
 |6|[@vchuravy](https://github.com/vchuravy)/[**UProbes.jl**](https://github.com/vchuravy/UProbes.jl)|||
 |5|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**KSVD.jl**](https://github.com/IshitaTakeshi/KSVD.jl)|K-SVD in Julia||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**Snappy.jl**](https://github.com/bicycle1885/Snappy.jl)|A fast compressor/decompressor||

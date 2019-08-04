@@ -14,9 +14,9 @@
 |9|[@miyabi](https://github.com/miyabi)/[**unity-ios-keyboard-patch**](https://github.com/miyabi/unity-ios-keyboard-patch)|Adjusts position and height of input field above keyboard when status bar is shown in iOS 7 or later.||
 |9|[@tekezo](https://github.com/tekezo)/[**osx-event-observer-examples**](https://github.com/tekezo/osx-event-observer-examples)|||
 |7|[@2bbb](https://github.com/2bbb)/[**ofxBonjour**](https://github.com/2bbb/ofxBonjour)|use Bonjour in openFrameowkrs||
+|7|[@2bbb](https://github.com/2bbb)/[**ofxMacScreenRecorder**](https://github.com/2bbb/ofxMacScreenRecorder)|programmable screen recorder for oF||
 |7|[@Wizcorp](https://github.com/Wizcorp)/[**WebViewForUnity3D**](https://github.com/Wizcorp/WebViewForUnity3D)|Android & iOS webview plugin for unity3D||
 |7|[@seanchas116](https://github.com/seanchas116)/[**transparent-titlebar**](https://github.com/seanchas116/transparent-titlebar)|Transparent title bar with native title label in Electron for Mac||
-|6|[@2bbb](https://github.com/2bbb)/[**ofxMacScreenRecorder**](https://github.com/2bbb/ofxMacScreenRecorder)|programmable screen recorder for oF||
 |6|[@ashikase](https://github.com/ashikase)/[**libcrashreport**](https://github.com/ashikase/libcrashreport)|Library for parsing and symbolicating iOS crash log files.||
 |6|[@n-yoda](https://github.com/n-yoda)/[**metal-without-xcode**](https://github.com/n-yoda/metal-without-xcode)|A command-line-compilable example of Metal.||
 |5|[@2bbb](https://github.com/2bbb)/[**ofxMioAlpha**](https://github.com/2bbb/ofxMioAlpha)|Receive data from Mio Alpha in openFrameworks (only OS X 10.7- / iOS 5-)||

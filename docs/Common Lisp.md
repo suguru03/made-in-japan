@@ -1,36 +1,36 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|821|[@fukamachi](https://github.com/fukamachi)/[**woo**](https://github.com/fukamachi/woo)|A fast non-blocking HTTP server on top of libev|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Woo_(kaiju))|
-|771|[@fukamachi](https://github.com/fukamachi)/[**clack**](https://github.com/fukamachi/clack)|Web server abstraction layer for Common Lisp||
-|628|[@cxxxr](https://github.com/cxxxr)/[**lem**](https://github.com/cxxxr/lem)|Common Lisp editor/IDE with high expansibility||
-|577|[@fukamachi](https://github.com/fukamachi)/[**caveman**](https://github.com/fukamachi/caveman)|Lightweight web application framework for Common Lisp.|[:arrow_upper_right:](http://8arrow.org/caveman/)|
-|297|[@fukamachi](https://github.com/fukamachi)/[**fast-http**](https://github.com/fukamachi/fast-http)|A fast HTTP request/response parser for Common Lisp.||
-|202|[@fukamachi](https://github.com/fukamachi)/[**prove**](https://github.com/fukamachi/prove)|Yet another unit testing framework for Common Lisp||
-|187|[@fukamachi](https://github.com/fukamachi)/[**qlot**](https://github.com/fukamachi/qlot)|A project-local library installer for Common Lisp||
+|828|[@fukamachi](https://github.com/fukamachi)/[**woo**](https://github.com/fukamachi/woo)|A fast non-blocking HTTP server on top of libev|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Woo_(kaiju))|
+|775|[@fukamachi](https://github.com/fukamachi)/[**clack**](https://github.com/fukamachi/clack)|Web server abstraction layer for Common Lisp||
+|632|[@cxxxr](https://github.com/cxxxr)/[**lem**](https://github.com/cxxxr/lem)|Common Lisp editor/IDE with high expansibility||
+|579|[@fukamachi](https://github.com/fukamachi)/[**caveman**](https://github.com/fukamachi/caveman)|Lightweight web application framework for Common Lisp.|[:arrow_upper_right:](http://8arrow.org/caveman/)|
+|298|[@fukamachi](https://github.com/fukamachi)/[**fast-http**](https://github.com/fukamachi/fast-http)|A fast HTTP request/response parser for Common Lisp.||
+|204|[@fukamachi](https://github.com/fukamachi)/[**prove**](https://github.com/fukamachi/prove)|Yet another unit testing framework for Common Lisp||
+|188|[@fukamachi](https://github.com/fukamachi)/[**qlot**](https://github.com/fukamachi/qlot)|A project-local library installer for Common Lisp||
 |173|[@fukamachi](https://github.com/fukamachi)/[**ningle**](https://github.com/fukamachi/ningle)|Super micro framework for Common Lisp|[:arrow_upper_right:](http://8arrow.org/ningle/)|
 |170|[@fukamachi](https://github.com/fukamachi)/[**sxql**](https://github.com/fukamachi/sxql)|An SQL generator for Common Lisp.||
 |150|[@takagi](https://github.com/takagi)/[**cl-cuda**](https://github.com/takagi/cl-cuda)|Cl-cuda is a library to use NVIDIA CUDA in Common Lisp programs.||
-|141|[@fukamachi](https://github.com/fukamachi)/[**dexador**](https://github.com/fukamachi/dexador)|A fast HTTP client for Common Lisp|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Dexador)|
-|141|[@guicho271828](https://github.com/guicho271828)/[**trivia**](https://github.com/guicho271828/trivia)|Pattern Matcher Compatible with Optima||
-|132|[@fukamachi](https://github.com/fukamachi)/[**cl-project**](https://github.com/fukamachi/cl-project)|Generate modern project skeletons||
+|143|[@fukamachi](https://github.com/fukamachi)/[**dexador**](https://github.com/fukamachi/dexador)|A fast HTTP client for Common Lisp|[:arrow_upper_right:](http://ultra.wikia.com/wiki/Dexador)|
+|143|[@guicho271828](https://github.com/guicho271828)/[**trivia**](https://github.com/guicho271828/trivia)|Pattern Matcher Compatible with Optima||
+|135|[@fukamachi](https://github.com/fukamachi)/[**cl-project**](https://github.com/fukamachi/cl-project)|Generate modern project skeletons||
 |128|[@fukamachi](https://github.com/fukamachi)/[**cl-dbi**](https://github.com/fukamachi/cl-dbi)|Database independent interface for Common Lisp||
-|123|[@fukamachi](https://github.com/fukamachi)/[**mito**](https://github.com/fukamachi/mito)|An ORM for Common Lisp with migrations, relationships and PostgreSQL support||
+|124|[@fukamachi](https://github.com/fukamachi)/[**mito**](https://github.com/fukamachi/mito)|An ORM for Common Lisp with migrations, relationships and PostgreSQL support||
 |109|[@mathematical-systems](https://github.com/mathematical-systems)/[**clml**](https://github.com/mathematical-systems/clml)|Common Lisp Machine Learning Library||
 |99|[@guicho271828](https://github.com/guicho271828)/[**inlined-generic-function**](https://github.com/guicho271828/inlined-generic-function)|Bringing the speed of Static Dispatch to CLOS||
-|91|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**jonathan**](https://github.com/Rudolph-Miller/jonathan)|JSON encoder and decoder.|[:arrow_upper_right:](http://rudolph-miller.github.io/jonathan/overview.html)|
-|78|[@koji-kojiro](https://github.com/koji-kojiro)/[**cl-repl**](https://github.com/koji-kojiro/cl-repl)|A full-featured repl implementation designed to work with Roswell||
+|92|[@Rudolph-Miller](https://github.com/Rudolph-Miller)/[**jonathan**](https://github.com/Rudolph-Miller/jonathan)|JSON encoder and decoder.|[:arrow_upper_right:](http://rudolph-miller.github.io/jonathan/overview.html)|
+|79|[@koji-kojiro](https://github.com/koji-kojiro)/[**cl-repl**](https://github.com/koji-kojiro/cl-repl)|A full-featured repl implementation designed to work with Roswell||
 |74|[@fukamachi](https://github.com/fukamachi)/[**datafly**](https://github.com/fukamachi/datafly)|A lightweight database library for Common Lisp.||
-|69|[@fukamachi](https://github.com/fukamachi)/[**shelly**](https://github.com/fukamachi/shelly)|[OBSOLETE] Make Common Lisp shell-friendly.|[:arrow_upper_right:](http://shlyfile.org)|
+|70|[@fukamachi](https://github.com/fukamachi)/[**shelly**](https://github.com/fukamachi/shelly)|[OBSOLETE] Make Common Lisp shell-friendly.|[:arrow_upper_right:](http://shlyfile.org)|
 |68|[@cxxxr](https://github.com/cxxxr)/[**cl-lsp**](https://github.com/cxxxr/cl-lsp)|An implementation of the Language Server Protocol for Common Lisp||
-|67|[@fukamachi](https://github.com/fukamachi)/[**lack**](https://github.com/fukamachi/lack)|Lack, the core of Clack||
-|64|[@fukamachi](https://github.com/fukamachi)/[**websocket-driver**](https://github.com/fukamachi/websocket-driver)|WebSocket server/client implementation for Common Lisp||
+|68|[@fukamachi](https://github.com/fukamachi)/[**lack**](https://github.com/fukamachi/lack)|Lack, the core of Clack||
+|65|[@fukamachi](https://github.com/fukamachi)/[**websocket-driver**](https://github.com/fukamachi/websocket-driver)|WebSocket server/client implementation for Common Lisp||
 |62|[@fukamachi](https://github.com/fukamachi)/[**quri**](https://github.com/fukamachi/quri)|Yet another URI library for Common Lisp||
-|57|[@ab25cq](https://github.com/ab25cq)/[**clover2**](https://github.com/ab25cq/clover2)|Javaの様に静的な型を持つRuby風のコンパイラ言語です。インタプリタとしても使えます。LLVMでネイティブコードにコンパイルもします。(It is a Ruby-like compiler language with static type like Java. It can also be used as an interpreter. We also compile to native code with LLVM. Please see the wiki for details)|[:arrow_upper_right:](https://github.com/ab25cq/clover2/wiki)|
-|57|[@fukamachi](https://github.com/fukamachi)/[**utopian**](https://github.com/fukamachi/utopian)|A web framework for Common Lisp never finished.||
+|58|[@ab25cq](https://github.com/ab25cq)/[**clover2**](https://github.com/ab25cq/clover2)|Javaの様に静的な型を持つRuby風のコンパイラ言語です。インタプリタとしても使えます。LLVMでネイティブコードにコンパイルもします。(It is a Ruby-like compiler language with static type like Java. It can also be used as an interpreter. We also compile to native code with LLVM. Please see the wiki for details)|[:arrow_upper_right:](https://github.com/ab25cq/clover2/wiki)|
+|58|[@fukamachi](https://github.com/fukamachi)/[**utopian**](https://github.com/fukamachi/utopian)|A web framework for Common Lisp never finished.||
 |55|[@fukamachi](https://github.com/fukamachi)/[**integral**](https://github.com/fukamachi/integral)|An object relational mapper for Common Lisp||
 |53|[@fukamachi](https://github.com/fukamachi)/[**rove**](https://github.com/fukamachi/rove)|#1=(yet another . #1#) common lisp testing library||
 |53|[@takagi](https://github.com/takagi)/[**lake**](https://github.com/takagi/lake)|Lake is a GNU make like build utility in Common Lisp. ||
-|46|[@fukamachi](https://github.com/fukamachi)/[**sblint**](https://github.com/fukamachi/sblint)|A linter for Common Lisp source code using SBCL||
+|47|[@fukamachi](https://github.com/fukamachi)/[**sblint**](https://github.com/fukamachi/sblint)|A linter for Common Lisp source code using SBCL||
 |45|[@guicho271828](https://github.com/guicho271828)/[**eazy-opencl**](https://github.com/guicho271828/eazy-opencl)|OpenCL binding for Common Lisp||
 |44|[@koron](https://github.com/koron)/[**gomigemo**](https://github.com/koron/gomigemo)|Go/Migemo implementation||
 |39|[@fukamachi](https://github.com/fukamachi)/[**psychiq**](https://github.com/fukamachi/psychiq)|Background job processing for Common Lisp||
@@ -41,9 +41,9 @@
 |35|[@fukamachi](https://github.com/fukamachi)/[**proc-parse**](https://github.com/fukamachi/proc-parse)|Procedural vector parser||
 |35|[@takagi](https://github.com/takagi)/[**avm**](https://github.com/takagi/avm)|Efficient and expressive arrayed vector math library with multi-threading and CUDA support in Common Lisp.||
 |35|[@takagi](https://github.com/takagi)/[**pic**](https://github.com/takagi/pic)|A native compiler for 8-bit PIC micro controllers written in Common Lisp.||
+|34|[@fukamachi](https://github.com/fukamachi)/[**lsx**](https://github.com/fukamachi/lsx)|Embeddable HTML templating engine for Common Lisp with JSX-like syntax||
 |34|[@guicho271828](https://github.com/guicho271828)/[**eazy-gnuplot**](https://github.com/guicho271828/eazy-gnuplot)|Super Duper Doopa Booka Lispy Gnuplot library|[:arrow_upper_right:](http://guicho271828.github.io/eazy-gnuplot/)|
 |33|[@fukamachi](https://github.com/fukamachi)/[**jsonrpc**](https://github.com/fukamachi/jsonrpc)|JSON-RPC 2.0 server/client for Common Lisp.||
-|32|[@fukamachi](https://github.com/fukamachi)/[**lsx**](https://github.com/fukamachi/lsx)|Embeddable HTML templating engine for Common Lisp with JSX-like syntax||
 |32|[@sile](https://github.com/sile)/[**gomoku**](https://github.com/sile/gomoku)|A self-contained morphological analyzer (including dictionary data).||
 |31|[@snmsts](https://github.com/snmsts)/[**daemon**](https://github.com/snmsts/daemon)|daemonize lisp process||
 |28|[@guicho271828](https://github.com/guicho271828)/[**asdf-viz**](https://github.com/guicho271828/asdf-viz)|ASDF system dependency visualizer||
@@ -153,6 +153,7 @@
 |5|[@fukamachi](https://github.com/fukamachi)/[**gotanda**](https://github.com/fukamachi/gotanda)|||
 |5|[@fukamachi](https://github.com/fukamachi)/[**ponzu.db**](https://github.com/fukamachi/ponzu.db)|O/R Mapper, a part of Ponzu Framework, for Common Lisp||
 |5|[@guicho271828](https://github.com/guicho271828)/[**ArriVAL**](https://github.com/guicho271828/ArriVAL)|Yet Another Classical planning plan validator written in modern Common Lisp||
+|5|[@guicho271828](https://github.com/guicho271828)/[**alien**](https://github.com/guicho271828/alien)|||
 |5|[@guicho271828](https://github.com/guicho271828)/[**cl-sat**](https://github.com/guicho271828/cl-sat)|Common Interface to Boolean Satisfiability Solvers from Common Lisp||
 |5|[@imasahiro](https://github.com/imasahiro)/[**femtoutil**](https://github.com/imasahiro/femtoutil)|utility||
 |5|[@kdmsnr](https://github.com/kdmsnr)/[**xyzzy-lisp**](https://github.com/kdmsnr/xyzzy-lisp)|||

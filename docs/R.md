@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|401|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
-|266|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
+|403|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
+|274|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
 |110|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
 |79|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
 |38|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
@@ -10,8 +10,8 @@
 |34|[@Ryo-N7](https://github.com/Ryo-N7)/[**tvthemes**](https://github.com/Ryo-N7/tvthemes)|ggplot2 themes and palettes based on your favorite TV shows||
 |31|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
-|27|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
-|21|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](https://uribo.github.io/jpmesh)|
+|28|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
+|22|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](https://uribo.github.io/jpmesh)|
 |17|[@yutannihilation](https://github.com/yutannihilation)/[**tiedr**](https://github.com/yutannihilation/tiedr)|Experimental package (not yet existent) for multi-gather() and multi-spread()||
 |16|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
 |16|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
@@ -56,17 +56,18 @@
 |6|[@hoxo-m](https://github.com/hoxo-m)/[**bayesopt**](https://github.com/hoxo-m/bayesopt)|An R Implementation of Bayesian Optimization|[:arrow_upper_right:](https://github.com/hoxo-m/bayesopt)|
 |6|[@lindsayrutter](https://github.com/lindsayrutter)/[**ggenealogy**](https://github.com/lindsayrutter/ggenealogy)|R package for visualizing genealogy datasets|[:arrow_upper_right:](https://cran.r-project.org/web/packages/ggenealogy)|
 |6|[@teramonagi](https://github.com/teramonagi)/[**oandar**](https://github.com/teramonagi/oandar)|R wrapper for the OANDA REST API (http://developer.oanda.com/rest-live/introduction/)||
-|6|[@uribo](https://github.com/uribo)/[**wakatimer**](https://github.com/uribo/wakatimer)|:hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.||
 |6|[@ymattu](https://github.com/ymattu)/[**rjumanpp**](https://github.com/ymattu/rjumanpp)|R Interface to JUMAN++||
 |6|[@yuifu](https://github.com/yuifu)/[**millefy**](https://github.com/yuifu/millefy)|Millefy: Genome browser-like visualization of single-cell RNA-seq dataset||
 |6|[@yutannihilation](https://github.com/yutannihilation)/[**wunderlistr**](https://github.com/yutannihilation/wunderlistr)|R bindings for Wunderlist API||
+|5|[@Quantisan](https://github.com/Quantisan)/[**touzi**](https://github.com/Quantisan/touzi)|A data-driven asset allocation, long-only stock portfolio maker||
 |5|[@chezou](https://github.com/chezou)/[**spacyr-sparklyr**](https://github.com/chezou/spacyr-sparklyr)|Example code of spacyr with sparklyr||
 |5|[@dritoshi](https://github.com/dritoshi)/[**orenogb**](https://github.com/dritoshi/orenogb)|Visualization command for genomic data||
 |5|[@hoxo-m](https://github.com/hoxo-m)/[**lambdaR**](https://github.com/hoxo-m/lambdaR)|Novel lambda expressions in R|[:arrow_upper_right:](https://github.com/hoxo-m/lambdaR)|
 |5|[@lindsayrutter](https://github.com/lindsayrutter)/[**bigPint**](https://github.com/lindsayrutter/bigPint)|Make BIG data pint-sized.|[:arrow_upper_right:](https://lindsayrutter.github.io/bigPint/)|
 |5|[@thongphamthe](https://github.com/thongphamthe)/[**PAFit**](https://github.com/thongphamthe/PAFit)|PAFit source|[:arrow_upper_right:](https://CRAN.R-project.org/package=PAFit)|
+|5|[@uribo](https://github.com/uribo)/[**textlintr**](https://github.com/uribo/textlintr)|✅ Natural Language Linter Tools for 'R Markdown' and R Code 💯|[:arrow_upper_right:](https://uribo.github.io/textlintr/)|
 |5|[@uribo](https://github.com/uribo)/[**tst**](https://github.com/uribo/tst)|🔭 Precision Instrument for Geo Spatial Data 🌎||
-|4|[@Quantisan](https://github.com/Quantisan)/[**touzi**](https://github.com/Quantisan/touzi)|A data-driven asset allocation, long-only stock portfolio maker||
+|5|[@uribo](https://github.com/uribo)/[**wakatimer**](https://github.com/uribo/wakatimer)|:hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.||
 |4|[@TomKellyGenetics](https://github.com/TomKellyGenetics)/[**heatmap.2x**](https://github.com/TomKellyGenetics/heatmap.2x)|Enhancements to Heatmap.2 from the gplots R package||
 |4|[@dritoshi](https://github.com/dritoshi)/[**QuGAcomp**](https://github.com/dritoshi/QuGAcomp)|R package for quantitative comparison of genome annotations||
 |4|[@dritoshi](https://github.com/dritoshi)/[**familytree**](https://github.com/dritoshi/familytree)|||
@@ -78,7 +79,6 @@
 |4|[@uribo](https://github.com/uribo)/[**designer**](https://github.com/uribo/designer)|:art: tools for design with R||
 |4|[@uribo](https://github.com/uribo)/[**dpp-cookbook**](https://github.com/uribo/dpp-cookbook)|Baked your data :)|[:arrow_upper_right:](https://uribo.github.io/dpp-cookbook/)|
 |4|[@uribo](https://github.com/uribo)/[**fgdr**](https://github.com/uribo/fgdr)|Utilities for Fundamental Geospatial Data||
-|4|[@uribo](https://github.com/uribo)/[**textlintr**](https://github.com/uribo/textlintr)|✅ Natural Language Linter Tools for 'R Markdown' and R Code 💯|[:arrow_upper_right:](https://uribo.github.io/textlintr/)|
 |4|[@yuifu](https://github.com/yuifu)/[**Hayashi2018**](https://github.com/yuifu/Hayashi2018)|Custom codes for Hayashi et al. (2018)||
 |4|[@yukiyanai](https://github.com/yukiyanai)/[**rm2-Bayes**](https://github.com/yukiyanai/rm2-Bayes)|Course materials for Research Methods in Political Science II at Kobe University||
 |4|[@yutannihilation](https://github.com/yutannihilation)/[**ansible-playbook-r**](https://github.com/yutannihilation/ansible-playbook-r)|An Ansible Playbook to deploy RStudio Server||
@@ -103,6 +103,7 @@
 |3|[@teramonagi](https://github.com/teramonagi)/[**GlobalTokyoR1**](https://github.com/teramonagi/GlobalTokyoR1)|Souce codes for study meeting "Global Tokyo.R 1"||
 |3|[@teramonagi](https://github.com/teramonagi)/[**R-FRBData**](https://github.com/teramonagi/R-FRBData)|Download data from FRB's website||
 |3|[@teramonagi](https://github.com/teramonagi)/[**scdv**](https://github.com/teramonagi/scdv)|SCDV (Sparse Composite Document Vectors) implementation in R||
+|3|[@uribo](https://github.com/uribo)/[**bucky**](https://github.com/uribo/bucky)|Helpers for literature management as GitHub actions||
 |3|[@ymyzk](https://github.com/ymyzk)/[**RTConnect**](https://github.com/ymyzk/RTConnect)|Tools for analyzing sales report files of iTunes Connect.|[:arrow_upper_right:](http://cran.r-project.org/web/packages/RTConnect/index.html)|
 |3|[@yutannihilation](https://github.com/yutannihilation)/[**K9**](https://github.com/yutannihilation/K9)|Affirmative, Master!!!|[:arrow_upper_right:](https://yutannihilation.github.io/K9/)|
 |3|[@yutannihilation](https://github.com/yutannihilation)/[**ggsflabel**](https://github.com/yutannihilation/ggsflabel)|Labels for 'sf' with 'ggplot2'|[:arrow_upper_right:](https://yutannihilation.github.io/ggsflabel/)|

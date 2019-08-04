@@ -1,30 +1,30 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3679|[@blivesta](https://github.com/blivesta)/[**animsition**](https://github.com/blivesta/animsition)|A simple and easy jQuery plugin for CSS animated page transitions.|[:arrow_upper_right:](http://git.blivesta.com/animsition)|
-|2922|[@franciscop](https://github.com/franciscop)/[**picnic**](https://github.com/franciscop/picnic)|:handbag: A beautiful CSS library to kickstart your projects|[:arrow_upper_right:](http://picnicss.com/)|
-|1877|[@t32k](https://github.com/t32k)/[**stylestats**](https://github.com/t32k/stylestats)|StyleStats is a library to collect CSS statistics.||
-|1307|[@cognitom](https://github.com/cognitom)/[**paper-css**](https://github.com/cognitom/paper-css)|Paper CSS for happy printing|[:arrow_upper_right:](https://www.npmjs.com/package/paper-css)|
-|868|[@jaicab](https://github.com/jaicab)/[**localFont**](https://github.com/jaicab/localFont)|Implement localStorage web font caching in seconds|[:arrow_upper_right:](http://jaicab.com/localFont/)|
-|678|[@ellekasai](https://github.com/ellekasai)/[**twemoji-awesome**](https://github.com/ellekasai/twemoji-awesome)|[Unmaintained] Like Font Awesome, but for Twitter Emoji|[:arrow_upper_right:](http://ellekasai.github.io/twemoji-awesome)|
+|3689|[@blivesta](https://github.com/blivesta)/[**animsition**](https://github.com/blivesta/animsition)|A simple and easy jQuery plugin for CSS animated page transitions.|[:arrow_upper_right:](http://git.blivesta.com/animsition)|
+|2925|[@franciscop](https://github.com/franciscop)/[**picnic**](https://github.com/franciscop/picnic)|:handbag: A beautiful CSS library to kickstart your projects|[:arrow_upper_right:](http://picnicss.com/)|
+|1876|[@t32k](https://github.com/t32k)/[**stylestats**](https://github.com/t32k/stylestats)|StyleStats is a library to collect CSS statistics.||
+|1327|[@cognitom](https://github.com/cognitom)/[**paper-css**](https://github.com/cognitom/paper-css)|Paper CSS for happy printing|[:arrow_upper_right:](https://www.npmjs.com/package/paper-css)|
+|865|[@jaicab](https://github.com/jaicab)/[**localFont**](https://github.com/jaicab/localFont)|Implement localStorage web font caching in seconds|[:arrow_upper_right:](http://jaicab.com/localFont/)|
+|679|[@ellekasai](https://github.com/ellekasai)/[**twemoji-awesome**](https://github.com/ellekasai/twemoji-awesome)|[Unmaintained] Like Font Awesome, but for Twitter Emoji|[:arrow_upper_right:](http://ellekasai.github.io/twemoji-awesome)|
 |597|[@windyakin](https://github.com/windyakin)/[**Honoka**](https://github.com/windyakin/Honoka)|Honoka is one of the original Bootstrap theme.|[:arrow_upper_right:](http://honokak.osaka/)|
-|523|[@onevcat](https://github.com/onevcat)/[**vno**](https://github.com/onevcat/vno)|Vno, just another ghost theme||
-|518|[@yui540](https://github.com/yui540)/[**Cowardly-Witch**](https://github.com/yui540/Cowardly-Witch)|『臆病な魔女は、Webサイトに魔法をかけた。』|[:arrow_upper_right:](https://yui540.graphics)|
+|589|[@yui540](https://github.com/yui540)/[**Cowardly-Witch**](https://github.com/yui540/Cowardly-Witch)|『臆病な魔女は、Webサイトに魔法をかけた。』|[:arrow_upper_right:](https://yui540.graphics)|
+|524|[@onevcat](https://github.com/onevcat)/[**vno**](https://github.com/onevcat/vno)|Vno, just another ghost theme||
 |504|[@hail2u](https://github.com/hail2u)/[**vim-css3-syntax**](https://github.com/hail2u/vim-css3-syntax)|CSS3 syntax (and syntax defined in some foreign specifications) support for Vim's built-in syntax/css.vim||
-|455|[@onevcat](https://github.com/onevcat)/[**vno-jekyll**](https://github.com/onevcat/vno-jekyll)|Another ported theme for Jekyll||
+|458|[@onevcat](https://github.com/onevcat)/[**vno-jekyll**](https://github.com/onevcat/vno-jekyll)|Another ported theme for Jekyll||
 |440|[@lepture](https://github.com/lepture)/[**yue.css**](https://github.com/lepture/yue.css)|A typography stylesheet for readable content|[:arrow_upper_right:](http://lab.lepture.com/yue.css/)|
 |402|[@sanographix](https://github.com/sanographix)/[**rin**](https://github.com/sanographix/rin)|A Lean HTML & SASS Boilerplate|[:arrow_upper_right:](https://sanographix.github.io/rin)|
 |312|[@makotokw](https://github.com/makotokw)/[**redmine-theme-gitmike**](https://github.com/makotokw/redmine-theme-gitmike)|This is github-like theme for Redmine.||
-|269|[@jmblog](https://github.com/jmblog)/[**color-themes-for-google-code-prettify**](https://github.com/jmblog/color-themes-for-google-code-prettify)|Syntax highlighting color themes for Google Code Prettify|[:arrow_upper_right:](https://jmblog.github.io/color-themes-for-google-code-prettify/)|
+|270|[@jmblog](https://github.com/jmblog)/[**color-themes-for-google-code-prettify**](https://github.com/jmblog/color-themes-for-google-code-prettify)|Syntax highlighting color themes for Google Code Prettify|[:arrow_upper_right:](https://jmblog.github.io/color-themes-for-google-code-prettify/)|
 |261|[@simurai](https://github.com/simurai)/[**duotone-dark-syntax**](https://github.com/simurai/duotone-dark-syntax)|DuoTone dark - A syntax theme for Atom||
+|232|[@zlq4863947](https://github.com/zlq4863947)/[**tradingViewWikiCn**](https://github.com/zlq4863947/tradingViewWikiCn)|tradingView的中文开发文档|[:arrow_upper_right:](https://b.aitrade.ga/books/tradingview/)|
 |230|[@waynezhang](https://github.com/waynezhang)/[**blog**](https://github.com/waynezhang/blog)|just another blog|[:arrow_upper_right:](http://lhzhang.com)|
-|227|[@zlq4863947](https://github.com/zlq4863947)/[**tradingViewWikiCn**](https://github.com/zlq4863947/tradingViewWikiCn)|tradingView的中文开发文档|[:arrow_upper_right:](https://b.aitrade.ga/books/tradingview/)|
 |222|[@yui540](https://github.com/yui540)/[**DropOut**](https://github.com/yui540/DropOut)|『僕は魔法少女-----そう思っていた』|[:arrow_upper_right:](https://magical-girl.site)|
 |206|[@hermanschaaf](https://github.com/hermanschaaf)/[**ironzebra**](https://github.com/hermanschaaf/ironzebra)|A Go blogging engine||
 |204|[@simurai](https://github.com/simurai)/[**one-vibrancy**](https://github.com/simurai/one-vibrancy)|Vibrancy effect for Atom One themes||
-|201|[@yteraoka](https://github.com/yteraoka)/[**ansible-tutorial**](https://github.com/yteraoka/ansible-tutorial)|||
-|200|[@terkel](https://github.com/terkel)/[**mathsass**](https://github.com/terkel/mathsass)|A Sass implementation of mathematical functions.||
+|201|[@terkel](https://github.com/terkel)/[**mathsass**](https://github.com/terkel/mathsass)|A Sass implementation of mathematical functions.||
+|200|[@yteraoka](https://github.com/yteraoka)/[**ansible-tutorial**](https://github.com/yteraoka/ansible-tutorial)|||
 |184|[@zembutsu](https://github.com/zembutsu)/[**docs.docker.jp**](https://github.com/zembutsu/docs.docker.jp)|Dockerドキュメント日本語化プロジェクト  ,Docker Documentation Translate Project for ja-jp|[:arrow_upper_right:](http://docs.docker.jp)|
-|176|[@georgeOsdDev](https://github.com/georgeOsdDev)/[**markdown-edit**](https://github.com/georgeOsdDev/markdown-edit)|online markdown editor/viewer|[:arrow_upper_right:](http://georgeosddev.github.com/markdown-edit/)|
+|177|[@georgeOsdDev](https://github.com/georgeOsdDev)/[**markdown-edit**](https://github.com/georgeOsdDev/markdown-edit)|online markdown editor/viewer|[:arrow_upper_right:](http://georgeosddev.github.com/markdown-edit/)|
 |175|[@frontainer](https://github.com/frontainer)/[**frontplate**](https://github.com/frontainer/frontplate)|フロントエンド開発の効率をあげるフルスタックテンプレート||
 |172|[@t32k](https://github.com/t32k)/[**maple**](https://github.com/t32k/maple)|A better front-end boilerplate.||
 |170|[@onevcat](https://github.com/onevcat)/[**OneV-s-Den**](https://github.com/onevcat/OneV-s-Den)|Blog||
@@ -34,10 +34,10 @@
 |131|[@simurai](https://github.com/simurai)/[**filter.css**](https://github.com/simurai/filter.css)|A collection of CSS filter combos|[:arrow_upper_right:](http://simurai.com/filter.css/)|
 |129|[@minodisk](https://github.com/minodisk)/[**markn**](https://github.com/minodisk/markn)|Lightweight markdown viewer.|[:arrow_upper_right:](https://github.com/minodisk/markn/releases/latest)|
 |129|[@wyukawa](https://github.com/wyukawa)/[**yanagishima**](https://github.com/wyukawa/yanagishima)|Web UI for PrestoDB(https://prestodb.io/) and Hive||
-|127|[@yui540](https://github.com/yui540)/[**HAPPY_BIRTHDAY_YUI**](https://github.com/yui540/HAPPY_BIRTHDAY_YUI)|🎂由比ヶ浜結衣生誕2018 『ありがと...バカ』🎂|[:arrow_upper_right:](https://yui.magical-girl.site)|
+|129|[@yui540](https://github.com/yui540)/[**HAPPY_BIRTHDAY_YUI**](https://github.com/yui540/HAPPY_BIRTHDAY_YUI)|🎂由比ヶ浜結衣生誕2018 『ありがと...バカ』🎂|[:arrow_upper_right:](https://yui.magical-girl.site)|
 |119|[@lotz84](https://github.com/lotz84)/[**haskellbyexample**](https://github.com/lotz84/haskellbyexample)|Haskell by Example|[:arrow_upper_right:](http://lotz84.github.io/haskellbyexample/)|
 |115|[@yuki540net](https://github.com/yuki540net)/[**DropOut**](https://github.com/yuki540net/DropOut)|magical-girl.site 『僕は魔法少女-----そう思っていた』|[:arrow_upper_right:](https://magical-girl.site)|
-|107|[@ixkaito](https://github.com/ixkaito)/[**frasco**](https://github.com/ixkaito/frasco)|Jekyll starter kit including full setup for gulp, Sass, Autoprefixer, PostCSS, Webpack, imagemin, Browsersync etc.|[:arrow_upper_right:](https://ixkaito.github.io/frasco/)|
+|108|[@ixkaito](https://github.com/ixkaito)/[**frasco**](https://github.com/ixkaito/frasco)|Jekyll starter kit including full setup for gulp, Sass, Autoprefixer, PostCSS, Webpack, imagemin, Browsersync etc.|[:arrow_upper_right:](https://ixkaito.github.io/frasco/)|
 |107|[@simurai](https://github.com/simurai)/[**ZEN-Player**](https://github.com/simurai/ZEN-Player)|HTML5 Audio player|[:arrow_upper_right:](http://simurai.github.io/ZEN-Player)|
 |106|[@cognitom](https://github.com/cognitom)/[**keiyaku-css**](https://github.com/cognitom/keiyaku-css)|Crazy Style Formatter for Japanese Contract Document|[:arrow_upper_right:](https://cognitom.github.io/keiyaku-css/)|
 |99|[@qingfeng](https://github.com/qingfeng)/[**p**](https://github.com/qingfeng/p)|Upload file service for Douban||
@@ -46,15 +46,15 @@
 |97|[@makotot](https://github.com/makotot)/[**sidebar**](https://github.com/makotot/sidebar)|sidebar|[:arrow_upper_right:](http://makotot.github.io/sidebar/)|
 |96|[@martinheidegger](https://github.com/martinheidegger)/[**es6modules-nodejs**](https://github.com/martinheidegger/es6modules-nodejs)|A summary of the discussion of ES6 modules in Node.js|[:arrow_upper_right:](http://es2015-node.js.org/)|
 |93|[@BYVoid](https://github.com/BYVoid)/[**microblog**](https://github.com/BYVoid/microblog)|A tiny mircoblog system using Node.js for learning purposes.||
-|90|[@agektmr](https://github.com/agektmr)/[**BrowserStorageAbuser**](https://github.com/agektmr/BrowserStorageAbuser)|Browser Storage Abuser is a tool to experiment your browser storage limitation on LocalStorage, SessionStorage, WebSQL Database, IndexedDB API and FileSystem API. You can add arbitrary sized files to those storage to see the limit of their size.||
+|91|[@agektmr](https://github.com/agektmr)/[**BrowserStorageAbuser**](https://github.com/agektmr/BrowserStorageAbuser)|Browser Storage Abuser is a tool to experiment your browser storage limitation on LocalStorage, SessionStorage, WebSQL Database, IndexedDB API and FileSystem API. You can add arbitrary sized files to those storage to see the limit of their size.||
 |89|[@rakuishi](https://github.com/rakuishi)/[**hugo-zen**](https://github.com/rakuishi/hugo-zen)|Hugo Zen is a minimal hugo theme.||
-|82|[@mattn](https://github.com/mattn)/[**mkup**](https://github.com/mattn/mkup)|Portable Markdown Previewer||
+|81|[@mattn](https://github.com/mattn)/[**mkup**](https://github.com/mattn/mkup)|Portable Markdown Previewer||
+|78|[@ttskch](https://github.com/ttskch)/[**select2-bootstrap4-theme**](https://github.com/ttskch/select2-bootstrap4-theme)|Select2 v4 theme for Bootstrap4||
 |72|[@r7kamura](https://github.com/r7kamura)/[**yattecast**](https://github.com/r7kamura/yattecast)|Podcastサイトをつくるためのテンプレート|[:arrow_upper_right:](https://r7kamura.github.io/yattecast/)|
 |72|[@yoshiko-pg](https://github.com/yoshiko-pg)/[**yoshiko-pg.github.io**](https://github.com/yoshiko-pg/yoshiko-pg.github.io)|じこしょうかい||
 |70|[@deltaluca](https://github.com/deltaluca)/[**www.napephys.com**](https://github.com/deltaluca/www.napephys.com)|Nape website.||
 |67|[@nabettu](https://github.com/nabettu)/[**mymarkdown**](https://github.com/nabettu/mymarkdown)|||
-|65|[@ttskch](https://github.com/ttskch)/[**select2-bootstrap4-theme**](https://github.com/ttskch/select2-bootstrap4-theme)|Select2 v4 theme for Bootstrap4||
-|64|[@a-know](https://github.com/a-know)/[**grass-graph**](https://github.com/a-know/grass-graph)|PNG Generator of GitHub Public Contribution Graph |[:arrow_upper_right:](https://grass-graph.moshimo.works/)|
+|65|[@a-know](https://github.com/a-know)/[**grass-graph**](https://github.com/a-know/grass-graph)|PNG Generator of GitHub Public Contribution Graph |[:arrow_upper_right:](https://grass-graph.moshimo.works/)|
 |64|[@bokuweb](https://github.com/bokuweb)/[**slack-list-ja**](https://github.com/bokuweb/slack-list-ja)|📋  A handpicked selection of top Slack communities in japan|[:arrow_upper_right:](http://bokuweb.github.io/slack-list-ja)|
 |62|[@htanjo](https://github.com/htanjo)/[**kss-node-template**](https://github.com/htanjo/kss-node-template)|Stylish template for kss-node.|[:arrow_upper_right:](http://htanjo.github.io/kss-node-template/)|
 |62|[@simurai](https://github.com/simurai)/[**tone-syntax**](https://github.com/simurai/tone-syntax)|An Atom theme with customizable colors||
@@ -97,10 +97,10 @@
 |31|[@Lewuathe](https://github.com/Lewuathe)/[**dllib**](https://github.com/Lewuathe/dllib)|dllib is a distributed deep learning library running on Apache Spark|[:arrow_upper_right:](https://www.lewuathe.com/dllib/)|
 |31|[@fulmicoton](https://github.com/fulmicoton)/[**readymade**](https://github.com/fulmicoton/readymade)|||
 |31|[@increments](https://github.com/increments)/[**qiita-coat**](https://github.com/increments/qiita-coat)|The UI components for Qiita.|[:arrow_upper_right:](https://increments.github.io/qiita-coat)|
+|30|[@codeyu](https://github.com/codeyu)/[**ng-book-code**](https://github.com/codeyu/ng-book-code)|||
 |30|[@hidenorigoto](https://github.com/hidenorigoto)/[**symfony2-book**](https://github.com/hidenorigoto/symfony2-book)|基本からしっかり学ぶSymfony2入門 サポートサイト||
 |30|[@nryotaro](https://github.com/nryotaro)/[**Siera**](https://github.com/nryotaro/Siera)|jekyll theme||
 |30|[@simurai](https://github.com/simurai)/[**cssconf-app**](https://github.com/simurai/cssconf-app)|A totally fake CSSConf app||
-|29|[@codeyu](https://github.com/codeyu)/[**ng-book-code**](https://github.com/codeyu/ng-book-code)|||
 |29|[@norio-nomura](https://github.com/norio-nomura)/[**qlplayground**](https://github.com/norio-nomura/qlplayground)|`qlplayground` is a QuickLook plugin for Swift files.||
 |29|[@yamkazu](https://github.com/yamkazu)/[**grails3-samples**](https://github.com/yamkazu/grails3-samples)|Samples for Grails 3||
 |29|[@yuki540net](https://github.com/yuki540net)/[**Hitorigoto**](https://github.com/yuki540net/Hitorigoto)|magical-girl.site『ヒトリゴト』|[:arrow_upper_right:](https://v5.magical-girl.site)|
@@ -151,13 +151,13 @@
 |16|[@pocotan001](https://github.com/pocotan001)/[**ptan-no-css**](https://github.com/pocotan001/ptan-no-css)|||
 |16|[@sho-yamane](https://github.com/sho-yamane)/[**emojis-awesome**](https://github.com/sho-yamane/emojis-awesome)|Emoji CSS framework|[:arrow_upper_right:](https://emojis-awesome.netlify.com/)|
 |16|[@simurai](https://github.com/simurai)/[**chameleon-ui**](https://github.com/simurai/chameleon-ui)|A color shifting UI theme for Atom.||
+|16|[@spring-raining](https://github.com/spring-raining)/[**pretty-autoindex**](https://github.com/spring-raining/pretty-autoindex)|Show nginx autoindex more pretty!||
+|16|[@totoraj930](https://github.com/totoraj930)/[**dokaben-css**](https://github.com/totoraj930/dokaben-css)|アレ||
 |16|[@yoshiko-pg](https://github.com/yoshiko-pg)/[**checksheetmaker**](https://github.com/yoshiko-pg/checksheetmaker)|プログラミング言語チェックシートメーカー||
 |16|[@yuku](https://github.com/yuku)/[**qiita-notifications**](https://github.com/yuku/qiita-notifications)|Keep up with Qiita, anywhere on the web.|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/hcnchocfgcldaldkchelnhpidgmfaocc)|
 |15|[@CaiJiJi](https://github.com/CaiJiJi)/[**HaBoNet**](https://github.com/CaiJiJi/HaBoNet)|shodan||
 |15|[@clj-nakano](https://github.com/clj-nakano)/[**effective-programs-ja**](https://github.com/clj-nakano/effective-programs-ja)|Summary of Rich Hickey's "Effective Programs" at Clojure/Conj 2017 in Japanese||
 |15|[@pepabo](https://github.com/pepabo)/[**pepagram**](https://github.com/pepabo/pepagram)|A minimal Hologram theme for GMO Pepabo, Inc.||
-|15|[@spring-raining](https://github.com/spring-raining)/[**pretty-autoindex**](https://github.com/spring-raining/pretty-autoindex)|Show nginx autoindex more pretty!||
-|15|[@totoraj930](https://github.com/totoraj930)/[**dokaben-css**](https://github.com/totoraj930/dokaben-css)|アレ||
 |15|[@yoshiko-pg](https://github.com/yoshiko-pg)/[**oreore_cal**](https://github.com/yoshiko-pg/oreore_cal)|ATND,Connpass,Zusaarの予定をまとめて見られる、おれおれ勉強会カレンダー||
 |15|[@yuroyoro](https://github.com/yuroyoro)/[**golang_webapp_framework_samples**](https://github.com/yuroyoro/golang_webapp_framework_samples)|ʕ　 ﾟ皿ﾟ ʔ sample applications of various golang web-app frameworks||
 |14|[@azu](https://github.com/azu)/[**slide-what-is-ecmascript**](https://github.com/azu/slide-what-is-ecmascript)|What is ECMAScript?|[:arrow_upper_right:](http://azu.github.io/slide-what-is-ecmascript/)|
@@ -227,10 +227,12 @@
 |9|[@yusukebe](https://github.com/yusukebe)/[**Podder**](https://github.com/yusukebe/Podder)|Cool and Easy standalone viewer of Perl codes, Pods, and Inao style Texts in local directory.||
 |9|[@zchee](https://github.com/zchee)/[**Dash-Docset-JavaScript-ja**](https://github.com/zchee/Dash-Docset-JavaScript-ja)|MDN JavaScript Reference Japanese locale for Dash|[:arrow_upper_right:](https://developer.mozilla.org/ja/docs/Web/JavaScript)|
 |8|[@LISTEN-moe](https://github.com/LISTEN-moe)/[**chrome-extension**](https://github.com/LISTEN-moe/chrome-extension)|Official LISTEN.moe Chrome extension||
+|8|[@Pitu](https://github.com/Pitu)/[**cozy-discord**](https://github.com/Pitu/cozy-discord)|Some css tweaks to make Discord cozier on smol screens||
 |8|[@acomagu](https://github.com/acomagu)/[**simple-csweb**](https://github.com/acomagu/simple-csweb)|The usercss to simplify CSWeb(For UoA students).||
 |8|[@appleple](https://github.com/appleple)/[**a-starter-kit**](https://github.com/appleple/a-starter-kit)|アップルップルの受託案件用スターターキット||
 |8|[@codelibs](https://github.com/codelibs)/[**fess-site-search**](https://github.com/codelibs/fess-site-search)|Fess Site Search provides JavaScript files.|[:arrow_upper_right:](https://fss-generator.codelibs.org/)|
 |8|[@feathericon](https://github.com/feathericon)/[**feathericon-rails**](https://github.com/feathericon/feathericon-rails)|feathericon for Ruby on Rails||
+|8|[@feathericon](https://github.com/feathericon)/[**feathericon-sass**](https://github.com/feathericon/feathericon-sass)|feathericon Sass gem for use in Ruby/Rails projects||
 |8|[@frankdiox](https://github.com/frankdiox)/[**OnsenUI-Meteor-ToDo**](https://github.com/frankdiox/OnsenUI-Meteor-ToDo)|Combining Onsen UI, React and Meteor||
 |8|[@fumiyas](https://github.com/fumiyas)/[**qmail-book-ja**](https://github.com/fumiyas/qmail-book-ja)|絶版書籍「qmailで作る快適メールサーバー」のオンライン版|[:arrow_upper_right:](http://fumiyas.github.com/qmail-book-ja)|
 |8|[@geta6](https://github.com/geta6)/[**glide**](https://github.com/geta6/glide)|markdown based slide generator||
@@ -259,7 +261,6 @@
 |7|[@5509](https://github.com/5509)/[**jq.ui.checks**](https://github.com/5509/jq.ui.checks)|Checkboxes and radios get controls.|[:arrow_upper_right:](http://5509.github.com/jq.ui.checks/)|
 |7|[@Cside](https://github.com/Cside)/[**dotfiles**](https://github.com/Cside/dotfiles)|my config files||
 |7|[@Olein-jp](https://github.com/Olein-jp)/[**od-base**](https://github.com/Olein-jp/od-base)|WordPress theme for developing on work of Olein Design||
-|7|[@Pitu](https://github.com/Pitu)/[**cozy-discord**](https://github.com/Pitu/cozy-discord)|Some css tweaks to make Discord cozier on smol screens||
 |7|[@Satoh-D](https://github.com/Satoh-D)/[**jquery-hovercap**](https://github.com/Satoh-D/jquery-hovercap)|jQuery-Hovercap is the jQuery plugin that display caption overlays over images||
 |7|[@aswinshenoy](https://github.com/aswinshenoy)/[**fosster**](https://github.com/aswinshenoy/fosster)|Technical Blog by Ashwin Shenoy|[:arrow_upper_right:](https://aswinshenoy.com/fosster)|
 |7|[@azu](https://github.com/azu)/[**landslide-theme**](https://github.com/azu/landslide-theme)|landslide theme||
@@ -268,7 +269,6 @@
 |7|[@cocopon](https://github.com/cocopon)/[**atom-iceberg-syntax**](https://github.com/cocopon/atom-iceberg-syntax)|A dark blue color scheme for Atom, originally for Vim|[:arrow_upper_right:](https://cocopon.github.io/iceberg.vim/)|
 |7|[@dvcrn](https://github.com/dvcrn)/[**proton-bin**](https://github.com/dvcrn/proton-bin)|binary for proton. Issues and PRs to https://github.com/dvcrn/proton please!||
 |7|[@eqot](https://github.com/eqot)/[**atom-broadcast**](https://github.com/eqot/atom-broadcast)|Broadcast contents in Atom to browsers.|[:arrow_upper_right:](https://atom.io/packages/broadcast)|
-|7|[@feathericon](https://github.com/feathericon)/[**feathericon-sass**](https://github.com/feathericon/feathericon-sass)|feathericon Sass gem for use in Ruby/Rails projects||
 |7|[@foostan](https://github.com/foostan)/[**enforcer**](https://github.com/foostan/enforcer)|Enforce tasks to consul cluster by attender notification||
 |7|[@fumiyasac](https://github.com/fumiyasac)/[**rails-api-mode-sample**](https://github.com/fumiyasac/rails-api-mode-sample)|[ING]Rails5でAPIモードでプロジェクトを作成した際のサンプル||
 |7|[@hail2u](https://github.com/hail2u)/[**node-edjo**](https://github.com/hail2u/node-edjo)|Convert CSS file into Every Declaration Just Once format.||
@@ -411,6 +411,7 @@
 |4|[@komagata](https://github.com/komagata)/[**docs-komagata-org**](https://github.com/komagata/docs-komagata-org)|My blog.|[:arrow_upper_right:](http://docs.komagata.org/)|
 |4|[@krug](https://github.com/krug)/[**krug.github.io**](https://github.com/krug/krug.github.io)|The website of Kerala Ruby Users Group||
 |4|[@makotot](https://github.com/makotot)/[**scss-lint-example**](https://github.com/makotot/scss-lint-example)|scss-lint ||
+|4|[@matsubara0507](https://github.com/matsubara0507)/[**marp-themes**](https://github.com/matsubara0507/marp-themes)|Theme for Marp Next||
 |4|[@miyacorata](https://github.com/miyacorata)/[**Aschenputtel**](https://github.com/miyacorata/Aschenputtel)|モバマスPのためのモバマスブラウザ||
 |4|[@mmasaki](https://github.com/mmasaki)/[**andon**](https://github.com/mmasaki/andon)|Role base metrics collection, visualization, testing||
 |4|[@morishitter](https://github.com/morishitter)/[**psg-theme-forest**](https://github.com/morishitter/psg-theme-forest)|'Forest': Theme of postcss-style-guide||
@@ -471,6 +472,7 @@
 |3|[@cjwirth](https://github.com/cjwirth)/[**cjwirth.github.io**](https://github.com/cjwirth/cjwirth.github.io)|Just another github jekyll blog|[:arrow_upper_right:](http://cjwirth.com)|
 |3|[@coderdojo-okinawa](https://github.com/coderdojo-okinawa)/[**coderdojo-okinawa.github.com**](https://github.com/coderdojo-okinawa/coderdojo-okinawa.github.com)|A official website for CoderDojo Okinawa||
 |3|[@cognitom](https://github.com/cognitom)/[**presentation-cmu12**](https://github.com/cognitom/presentation-cmu12)|||
+|3|[@daiiz](https://github.com/daiiz)/[**SimpleWebPage**](https://github.com/daiiz/SimpleWebPage)|[LAB] Project SWP|[:arrow_upper_right:](https://daiiz-apps.appspot.com/1/hello.txt?swp)|
 |3|[@daiiz](https://github.com/daiiz)/[**svg-screenshot-client**](https://github.com/daiiz/svg-screenshot-client)|Electron App for daiz713/svg-screenshot||
 |3|[@deeeki](https://github.com/deeeki)/[**sandbox**](https://github.com/deeeki/sandbox)|[Script] prototypes, tiny snippets and spike codes||
 |3|[@designless](https://github.com/designless)/[**web_designless_2015**](https://github.com/designless/web_designless_2015)|http://designless.net||
@@ -503,7 +505,6 @@
 |3|[@kyanny](https://github.com/kyanny)/[**shibuyarblunch**](https://github.com/kyanny/shibuyarblunch)|Archive of #shibuyarblunch|[:arrow_upper_right:](http://shibuyarblunch.heroku.com/)|
 |3|[@lepture](https://github.com/lepture)/[**email-howto**](https://github.com/lepture/email-howto)|How to write email templates in practice.||
 |3|[@lestrrat](https://github.com/lestrrat)/[**play-go-xslate.appspot.com**](https://github.com/lestrrat/play-go-xslate.appspot.com)|Nothing to see here yet||
-|3|[@matsubara0507](https://github.com/matsubara0507)/[**marp-themes**](https://github.com/matsubara0507/marp-themes)|Theme for Marp Next||
 |3|[@mattn](https://github.com/mattn)/[**mattn.github.io**](https://github.com/mattn/mattn.github.io)|mattn.github.io|[:arrow_upper_right:](https://mattn.github.io)|
 |3|[@migrs](https://github.com/migrs)/[**m.igrs.jp**](https://github.com/migrs/m.igrs.jp)|My web site :)|[:arrow_upper_right:](http://m.igrs.jp/)|
 |3|[@mike-north](https://github.com/mike-north)/[**seo-workshop**](https://github.com/mike-north/seo-workshop)|👨‍🏫 Mike's Modern SEO Course|[:arrow_upper_right:](https://mike.works/course/modern-seo-a5f0c26/stage/modern-seo-1c28727)|

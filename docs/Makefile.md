@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|83|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
+|84|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
 |79|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance. Supports multi-install.|[:arrow_upper_right:](https://git.io/alpwsl)|
 |53|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |44|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
-|40|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
+|42|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
 |34|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
-|28|[@moznion](https://github.com/moznion)/[**aws-lambda-perl5-layer**](https://github.com/moznion/aws-lambda-perl5-layer)|Perl5 layer for AWS Lambda with runtime API||
+|29|[@moznion](https://github.com/moznion)/[**aws-lambda-perl5-layer**](https://github.com/moznion/aws-lambda-perl5-layer)|Perl5 layer for AWS Lambda with runtime API||
 |27|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-agent**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/mackerelio/mackerel-agent/)|
-|25|[@atsushieno](https://github.com/atsushieno)/[**android-fluidsynth**](https://github.com/atsushieno/android-fluidsynth)|[Deprecated] fluidsynth Android port / build. It's old, see https://github.com/Fluidsynth/fluidsynth/tree/master/doc/android||
-|25|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
+|26|[@atsushieno](https://github.com/atsushieno)/[**android-fluidsynth**](https://github.com/atsushieno/android-fluidsynth)|[Deprecated] fluidsynth Android port / build. It's old, see https://github.com/Fluidsynth/fluidsynth/tree/master/doc/android||
+|26|[@syuu1228](https://github.com/syuu1228)/[**uosv**](https://github.com/syuu1228/uosv)|µOSv is lightweight edition of OSv, which uses mruby interpreter instead of Java VM for its system language.||
 |24|[@itchyny](https://github.com/itchyny)/[**fastinvsqrt**](https://github.com/itchyny/fastinvsqrt)|Fast inverse square root in programming languages||
 |24|[@sfuku7](https://github.com/sfuku7)/[**googletest_android_ndk-build**](https://github.com/sfuku7/googletest_android_ndk-build)|Build googletest with Android NDK||
 |23|[@zchee](https://github.com/zchee)/[**tmux-ja**](https://github.com/zchee/tmux-ja)|Translation tmux man page project||
@@ -18,10 +18,10 @@
 |16|[@kazuki](https://github.com/kazuki)/[**mediacodec.wasm**](https://github.com/kazuki/mediacodec.wasm)|Audio/Video Codec in WebAssembly||
 |15|[@keiji](https://github.com/keiji)/[**farewell-adt-book**](https://github.com/keiji/farewell-adt-book)|Android Studio完全移行ガイド||
 |15|[@omochi](https://github.com/omochi)/[**JavaScriptCore-android-build**](https://github.com/omochi/JavaScriptCore-android-build)|Build JavaScriptCore for Android||
-|13|[@mumoshu](https://github.com/mumoshu)/[**kube-fluentd**](https://github.com/mumoshu/kube-fluentd)|An ubuntu-slim/s6-overlay/confd based docker image for running fluentd in Kubernetes pods/daemonsets||
 |12|[@JotaroS](https://github.com/JotaroS)/[**ofxWiggleStereoscopy**](https://github.com/JotaroS/ofxWiggleStereoscopy)|openFrameworks addon for wiggle stereoscopy effect.||
 |12|[@akafugu](https://github.com/akafugu)/[**vetinari_clock**](https://github.com/akafugu/vetinari_clock)|A clock that ticks irregularly, yet keeps accurate time.||
 |12|[@kenhys](https://github.com/kenhys)/[**debian-leapmotion**](https://github.com/kenhys/debian-leapmotion)|||
+|12|[@mumoshu](https://github.com/mumoshu)/[**kube-fluentd**](https://github.com/mumoshu/kube-fluentd)|An ubuntu-slim/s6-overlay/confd based docker image for running fluentd in Kubernetes pods/daemonsets||
 |12|[@user340](https://github.com/user340)/[**fdgw2**](https://github.com/user340/fdgw2)|Minimal NetBSD Distribution Making Tool||
 |12|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiSocketIOClient**](https://github.com/yagitoshiro/TiSocketIOClient)|Socket.io client for Appcelerator Titanium||
 |11|[@leo-project](https://github.com/leo-project)/[**notes**](https://github.com/leo-project/notes)|The note of LeoFS' developers and LeoFS' benchmark report to developers and users|[:arrow_upper_right:](https://github.com/leo-project/leofs)|
@@ -30,6 +30,7 @@
 |10|[@wadahiro](https://github.com/wadahiro)/[**gitlab-ecs-cloudformation**](https://github.com/wadahiro/gitlab-ecs-cloudformation)|||
 |9|[@daitomanabe](https://github.com/daitomanabe)/[**ofxTinySingleton**](https://github.com/daitomanabe/ofxTinySingleton)|tiny and simple singleton in C++11 way (for learning C++11||
 |9|[@hibari](https://github.com/hibari)/[**hibari-doc**](https://github.com/hibari/hibari-doc)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.|[:arrow_upper_right:](http://hibari.github.com/hibari-doc)|
+|9|[@knakayama](https://github.com/knakayama)/[**cfn-ci-cd-demo**](https://github.com/knakayama/cfn-ci-cd-demo)|||
 |9|[@nnao45](https://github.com/nnao45)/[**zsh-kubectl-completion**](https://github.com/nnao45/zsh-kubectl-completion)|Rich zsh completion for the kubectl command.|[:arrow_upper_right:](https://medium.com/@n4sekai5y/kubectl-completion-zsh%E3%82%92%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%86%8D%E7%99%BA%E6%98%8E%E3%81%97%E3%81%9F-da6c5345263f)|
 |9|[@puripuri2100](https://github.com/puripuri2100)/[**stjarticle**](https://github.com/puripuri2100/stjarticle)|SATySFi's package||
 |9|[@tomohiro](https://github.com/tomohiro)/[**air**](https://github.com/tomohiro/air)|Command-line AirPlay video client for Apple TV||
@@ -38,10 +39,10 @@
 |7|[@abcang](https://github.com/abcang)/[**azpainter-mac**](https://github.com/abcang/azpainter-mac)|AzPainter for Mac||
 |7|[@enukane](https://github.com/enukane)/[**c90-plan9-assembler-handbook**](https://github.com/enukane/c90-plan9-assembler-handbook)|C90で頒布した "Plan 9 Assembler Handbook" の文章データ||
 |7|[@haruyama](https://github.com/haruyama)/[**ssh_rfc_ja**](https://github.com/haruyama/ssh_rfc_ja)|Japanese translations of SSH RFCs and Internet Drafts|[:arrow_upper_right:](http://www.unixuser.org/~haruyama/RFC/ssh/)|
-|7|[@knakayama](https://github.com/knakayama)/[**cfn-ci-cd-demo**](https://github.com/knakayama/cfn-ci-cd-demo)|||
 |7|[@lestrrat](https://github.com/lestrrat)/[**CatalystX-AppBuilder**](https://github.com/lestrrat/CatalystX-AppBuilder)|Programatically Build Your Catalyst Apps||
 |6|[@TemTemmie](https://github.com/TemTemmie)/[**3Camera**](https://github.com/TemTemmie/3Camera)|A camera homebrew for the Nintendo 3DS.||
 |6|[@marccarre](https://github.com/marccarre)/[**rust-docker-dev-env**](https://github.com/marccarre/rust-docker-dev-env)|Rust development environment based on Docker.||
+|6|[@nyuichi](https://github.com/nyuichi)/[**satysfi-lib**](https://github.com/nyuichi/satysfi-lib)|complementary collection of useful functions/modules for SATySFi||
 |6|[@sk2sat](https://github.com/sk2sat)/[**haribote-os**](https://github.com/sk2sat/haribote-os)|はりぼてOSをもう一度作ってみるやつ||
 |6|[@syumai](https://github.com/syumai)/[**go-wasm-sizes**](https://github.com/syumai/go-wasm-sizes)|compare WebAssembly build size depends on imported package.||
 |6|[@visvirial](https://github.com/visvirial)/[**nonce-plot**](https://github.com/visvirial/nonce-plot)|This simple script plots block nonce value.||

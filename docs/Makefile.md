@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|84|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
-|79|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance. Supports multi-install.|[:arrow_upper_right:](https://git.io/alpwsl)|
+|85|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
+|81|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance. Supports multi-install.|[:arrow_upper_right:](https://git.io/alpwsl)|
 |53|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
-|44|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
+|45|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
 |42|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
-|37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
+|36|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
 |34|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
 |29|[@moznion](https://github.com/moznion)/[**aws-lambda-perl5-layer**](https://github.com/moznion/aws-lambda-perl5-layer)|Perl5 layer for AWS Lambda with runtime API||
 |27|[@mackerelio](https://github.com/mackerelio)/[**ansible-mackerel-agent**](https://github.com/mackerelio/ansible-mackerel-agent)|An Ansible role for mackerel-agent. (development version)|[:arrow_upper_right:](https://galaxy.ansible.com/mackerelio/mackerel-agent/)|
@@ -40,9 +40,9 @@
 |7|[@enukane](https://github.com/enukane)/[**c90-plan9-assembler-handbook**](https://github.com/enukane/c90-plan9-assembler-handbook)|C90で頒布した "Plan 9 Assembler Handbook" の文章データ||
 |7|[@haruyama](https://github.com/haruyama)/[**ssh_rfc_ja**](https://github.com/haruyama/ssh_rfc_ja)|Japanese translations of SSH RFCs and Internet Drafts|[:arrow_upper_right:](http://www.unixuser.org/~haruyama/RFC/ssh/)|
 |7|[@lestrrat](https://github.com/lestrrat)/[**CatalystX-AppBuilder**](https://github.com/lestrrat/CatalystX-AppBuilder)|Programatically Build Your Catalyst Apps||
+|7|[@nyuichi](https://github.com/nyuichi)/[**satysfi-lib**](https://github.com/nyuichi/satysfi-lib)|complementary collection of useful functions/modules for SATySFi||
 |6|[@TemTemmie](https://github.com/TemTemmie)/[**3Camera**](https://github.com/TemTemmie/3Camera)|A camera homebrew for the Nintendo 3DS.||
 |6|[@marccarre](https://github.com/marccarre)/[**rust-docker-dev-env**](https://github.com/marccarre/rust-docker-dev-env)|Rust development environment based on Docker.||
-|6|[@nyuichi](https://github.com/nyuichi)/[**satysfi-lib**](https://github.com/nyuichi/satysfi-lib)|complementary collection of useful functions/modules for SATySFi||
 |6|[@sk2sat](https://github.com/sk2sat)/[**haribote-os**](https://github.com/sk2sat/haribote-os)|はりぼてOSをもう一度作ってみるやつ||
 |6|[@syumai](https://github.com/syumai)/[**go-wasm-sizes**](https://github.com/syumai/go-wasm-sizes)|compare WebAssembly build size depends on imported package.||
 |6|[@visvirial](https://github.com/visvirial)/[**nonce-plot**](https://github.com/visvirial/nonce-plot)|This simple script plots block nonce value.||
@@ -81,6 +81,7 @@
 |3|[@kboy-silvergym](https://github.com/kboy-silvergym)/[**barberry_iOS**](https://github.com/kboy-silvergym/barberry_iOS)|筋トレ記録アプリ「バーベリー」の公開verです。たまに更新します。||
 |3|[@kdmsnr](https://github.com/kdmsnr)/[**NexusGuide**](https://github.com/kdmsnr/NexusGuide)|||
 |3|[@koji](https://github.com/koji)/[**oF-shader-boilerplate**](https://github.com/koji/oF-shader-boilerplate)|||
+|3|[@liquidz](https://github.com/liquidz)/[**docker-asciidoctor-jp**](https://github.com/liquidz/docker-asciidoctor-jp)|||
 |3|[@mordiford](https://github.com/mordiford)/[**device_zuk_z2_plus**](https://github.com/mordiford/device_zuk_z2_plus)|IceCold Device configuration for Lenovo/ZUK Z2 Plus||
 |3|[@pei0804](https://github.com/pei0804)/[**direnv-example**](https://github.com/pei0804/direnv-example)|||
 |3|[@puripuri2100](https://github.com/puripuri2100)/[**SATySFi-siunitx**](https://github.com/puripuri2100/SATySFi-siunitx)|A comprehensive (SI) units package||

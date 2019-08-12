@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |267|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
-|238|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
-|236|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|👨‍🔧 gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
+|251|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
+|237|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|👨‍🔧 gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
 |127|[@int128](https://github.com/int128)/[**gradle-swagger-generator-plugin**](https://github.com/int128/gradle-swagger-generator-plugin)|Gradle plugin for OpenAPI YAML validation, code generation and API document publishing||
 |125|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |106|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||
@@ -10,9 +10,9 @@
 |91|[@int128](https://github.com/int128)/[**groovy-ssh**](https://github.com/int128/groovy-ssh)|SSH automation tool based on Groovy DSL|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
 |87|[@hotchemi](https://github.com/hotchemi)/[**gradle-proguard-plugin**](https://github.com/hotchemi/gradle-proguard-plugin)|The gradle plugin to add proguard snippets to your proguard setting file quickly.|[:arrow_upper_right:](http://hotchemi.github.io/gradle-proguard-plugin)|
 |75|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-mdicons**](https://github.com/tmiyamon/gradle-mdicons)|A gradle plugin for Android to handle material design icons Google published.||
-|47|[@gfx](https://github.com/gfx)/[**android-power-assert-plugin**](https://github.com/gfx/android-power-assert-plugin)|Power Assert for Android||
+|46|[@gfx](https://github.com/gfx)/[**android-power-assert-plugin**](https://github.com/gfx/android-power-assert-plugin)|Power Assert for Android||
 |38|[@tkruse](https://github.com/tkruse)/[**gradle-groovysh-plugin**](https://github.com/tkruse/gradle-groovysh-plugin)|gradle plugin allowing to start a command-line shell||
-|35|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-reporter**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
+|36|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-console-reporter**](https://github.com/ksoichiro/gradle-console-reporter)|Gradle plugin to report various kinds of summaries to console.||
 |31|[@nobeans](https://github.com/nobeans)/[**gexcelapi**](https://github.com/nobeans/gexcelapi)|GExcelAPI is a thin Groovy-ish wrapper library of not JExcelAPI but Apache POI.||
 |30|[@int128](https://github.com/int128)/[**gradle-plugin-starter**](https://github.com/int128/gradle-plugin-starter)|Gradle plugin template project||
 |29|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-build-info-plugin**](https://github.com/ksoichiro/gradle-build-info-plugin)|Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator.||

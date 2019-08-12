@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |403|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
-|274|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
+|275|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
 |110|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
 |79|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
 |38|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
@@ -20,9 +20,9 @@
 |14|[@yutannihilation](https://github.com/yutannihilation)/[**kokudosuuchi**](https://github.com/yutannihilation/kokudosuuchi)|国土数値情報ダウンロードサービスWeb APIからデータを取得するためのRパッケージです||
 |13|[@TomKellyGenetics](https://github.com/TomKellyGenetics)/[**leiden**](https://github.com/TomKellyGenetics/leiden)|Implementation of the Leiden algorithm called by reticulate in R. (CRAN)|[:arrow_upper_right:](https://leidenalg.readthedocs.io)|
 |13|[@hoxo-m](https://github.com/hoxo-m)/[**dplyr.teradata**](https://github.com/hoxo-m/dplyr.teradata)|A Teradata Backend for dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/dplyr.teradata)|
-|12|[@Quantisan](https://github.com/Quantisan)/[**nullwave**](https://github.com/Quantisan/nullwave)|active noise control for free||
-|12|[@yutannihilation](https://github.com/yutannihilation)/[**mediumr**](https://github.com/yutannihilation/mediumr)|R Interface to Medium API||
+|13|[@yutannihilation](https://github.com/yutannihilation)/[**mediumr**](https://github.com/yutannihilation/mediumr)|R Interface to Medium API||
 |12|[@yutannihilation](https://github.com/yutannihilation)/[**rstudioconf2019**](https://github.com/yutannihilation/rstudioconf2019)|Materials for rstudio::conf 2019||
+|11|[@Quantisan](https://github.com/Quantisan)/[**nullwave**](https://github.com/Quantisan/nullwave)|active noise control for free||
 |11|[@hoxo-m](https://github.com/hoxo-m)/[**sGMRFmix**](https://github.com/hoxo-m/sGMRFmix)|Sparse Gaussian Markov Random Field Mixtures for Anomaly Detection||
 |11|[@kazutan](https://github.com/kazutan)/[**tubeplayR**](https://github.com/kazutan/tubeplayR)|play youtube by R||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RFinanceJ**](https://github.com/teramonagi/RFinanceJ)|Get the data related to finance in Japan using variety types of data sources||

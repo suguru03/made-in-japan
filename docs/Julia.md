@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|136|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
-|74|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
+|140|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
+|76|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
+|41|[@vchuravy](https://github.com/vchuravy)/[**GPUifyLoops.jl**](https://github.com/vchuravy/GPUifyLoops.jl)|||
 |40|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
-|39|[@vchuravy](https://github.com/vchuravy)/[**GPUifyLoops.jl**](https://github.com/vchuravy/GPUifyLoops.jl)|||
 |33|[@r9y9](https://github.com/r9y9)/[**VoiceConversion.jl**](https://github.com/r9y9/VoiceConversion.jl)|[Deprecated] Statistical Voice Conversion in Julia. See the website link for new library|[:arrow_upper_right:](https://github.com/r9y9/nnmnkwii)|
 |31|[@bicycle1885](https://github.com/bicycle1885)/[**TranscodingStreams.jl**](https://github.com/bicycle1885/TranscodingStreams.jl)|Simple, consistent interfaces for any codec.||
 |25|[@bicycle1885](https://github.com/bicycle1885)/[**CellFishing.jl**](https://github.com/bicycle1885/CellFishing.jl)|Fast and scalable cell search tool||
@@ -16,9 +16,9 @@
 |16|[@takuti](https://github.com/takuti)/[**Recommendation.jl**](https://github.com/takuti/Recommendation.jl)|Building recommender systems in Julia|[:arrow_upper_right:](https://takuti.github.io/Recommendation.jl/latest/)|
 |14|[@chezou](https://github.com/chezou)/[**TinySegmenter.jl**](https://github.com/chezou/TinySegmenter.jl)|Julia version of TinySegmenter, compact Japanese tokenizer||
 |13|[@r9y9](https://github.com/r9y9)/[**SynthesisFilters.jl**](https://github.com/r9y9/SynthesisFilters.jl)|Speech waveform synthesis filters||
+|13|[@vchuravy](https://github.com/vchuravy)/[**PProf.jl**](https://github.com/vchuravy/PProf.jl)|Export Julia profiles to the pprof fromat||
 |11|[@r9y9](https://github.com/r9y9)/[**SPTK.jl**](https://github.com/r9y9/SPTK.jl)|A thin Julia wrapper for Speech Signal Processing Toolkit (SPTK) API||
 |11|[@sorami](https://github.com/sorami)/[**DependencyParser.jl**](https://github.com/sorami/DependencyParser.jl)|Dependency parser written in Julia.||
-|11|[@vchuravy](https://github.com/vchuravy)/[**PProf.jl**](https://github.com/vchuravy/PProf.jl)|Export Julia profiles to the pprof fromat||
 |8|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**SoftConfidenceWeighted.jl**](https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl)|Exact Soft Confidence-Weighted Learning||
 |8|[@vchuravy](https://github.com/vchuravy)/[**Hydrozoa.jl**](https://github.com/vchuravy/Hydrozoa.jl)|||
 |7|[@r9y9](https://github.com/r9y9)/[**ConstantQ.jl**](https://github.com/r9y9/ConstantQ.jl)|A fast constant-q transform in Julia||

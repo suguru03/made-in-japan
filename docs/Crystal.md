@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|88|[@yahoojapan](https://github.com/yahoojapan)/[**hosted-danger**](https://github.com/yahoojapan/hosted-danger)|:zap: Danger as a Service :zap:||
+|89|[@yahoojapan](https://github.com/yahoojapan)/[**hosted-danger**](https://github.com/yahoojapan/hosted-danger)|:zap: Danger as a Service :zap:||
 |53|[@MakeNowJust](https://github.com/MakeNowJust)/[**crustache**](https://github.com/MakeNowJust/crustache)|{{Mustache}} for Crystal :gem:|[:arrow_upper_right:](https://mustache.github.io)|
 |36|[@rosylilly](https://github.com/rosylilly)/[**power_assert.cr**](https://github.com/rosylilly/power_assert.cr)|PowerAssert provides the more powerful assertion to you.|[:arrow_upper_right:](https://github.com/rosylilly/power_assert.cr)|
 |32|[@MakeNowJust](https://github.com/MakeNowJust)/[**crake**](https://github.com/MakeNowJust/crake)|CRystal mAKE library||
@@ -30,6 +30,7 @@
 |3|[@MakeNowJust](https://github.com/MakeNowJust)/[**amorphous**](https://github.com/MakeNowJust/amorphous)|The most beautiful parser library||
 |3|[@MakeNowJust](https://github.com/MakeNowJust)/[**serialport**](https://github.com/MakeNowJust/serialport)|serial port library for Crystal||
 |3|[@namusyaka](https://github.com/namusyaka)/[**crystal-tsort**](https://github.com/namusyaka/crystal-tsort)|Topological sort implementation for Crystal||
+|3|[@nwtgck](https://github.com/nwtgck)/[**math2img**](https://github.com/nwtgck/math2img)|Convert LaTeX Math to image||
 |3|[@pine](https://github.com/pine)/[**crystal-lua**](https://github.com/pine/crystal-lua)|[EXPERIMENTAL] Lua embedded in Crystal||
 |3|[@rosylilly](https://github.com/rosylilly)/[**semver**](https://github.com/rosylilly/semver)|Semantic Versioning module for Crystal|[:arrow_upper_right:](https://github.com/rosylilly/semver)|
 |3|[@tbpgr](https://github.com/tbpgr)/[**vup**](https://github.com/tbpgr/vup)|Crystal bumpup version tool||

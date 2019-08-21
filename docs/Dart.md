@@ -1,37 +1,37 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|425|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
-|178|[@tortuvshin](https://github.com/tortuvshin)/[**open-source-flutter-apps**](https://github.com/tortuvshin/open-source-flutter-apps)|:iphone: List of open source Flutter applications :octocat:||
-|85|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(1)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dev/packages/bloc_provider)|
-|78|[@skkallayath](https://github.com/skkallayath)/[**photofilters**](https://github.com/skkallayath/photofilters)|photofilters library for flutter||
-|57|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
+|427|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
+|186|[@tortuvshin](https://github.com/tortuvshin)/[**open-source-flutter-apps**](https://github.com/tortuvshin/open-source-flutter-apps)|:iphone: List of open source Flutter applications :octocat:||
+|87|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(1)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dev/packages/bloc_provider)|
+|79|[@skkallayath](https://github.com/skkallayath)/[**photofilters**](https://github.com/skkallayath/photofilters)|photofilters library for flutter||
+|60|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
 |56|[@nukata](https://github.com/nukata)/[**lisp-in-dart**](https://github.com/nukata/lisp-in-dart)|A fast Lisp interpreter in Dart||
 |50|[@droibit](https://github.com/droibit)/[**flutter_custom_tabs**](https://github.com/droibit/flutter_custom_tabs)|A Flutter plugin to use Chrome Custom Tabs.|[:arrow_upper_right:](https://pub.dartlang.org/packages/flutter_custom_tabs)|
 |25|[@sh4869](https://github.com/sh4869)/[**twitter.dart**](https://github.com/sh4869/twitter.dart)|Twitter API Library in Dart|[:arrow_upper_right:](https://pub.dartlang.org/packages/twitter)|
-|21|[@mono0926](https://github.com/mono0926)/[**widget-quiz**](https://github.com/mono0926/widget-quiz)|Flutter Widget Quiz, made for Flutter Create (Source code size is limited to 5KB)|[:arrow_upper_right:](https://medium.com/flutter-jp/flutter-create-a85a29fdb918)|
+|22|[@mono0926](https://github.com/mono0926)/[**widget-quiz**](https://github.com/mono0926/widget-quiz)|Flutter Widget Quiz, made for Flutter Create (Source code size is limited to 5KB)|[:arrow_upper_right:](https://medium.com/flutter-jp/flutter-create-a85a29fdb918)|
 |17|[@kikuchy](https://github.com/kikuchy)/[**crashlytics**](https://github.com/kikuchy/crashlytics)|Flutter plugin for (Fabric) Crashlytics on Android and iOS. (Unofficial)||
 |17|[@ntaoo](https://github.com/ntaoo)/[**material2_dart**](https://github.com/ntaoo/material2_dart)|angular/material2 for Dart.||
 |14|[@mono0926](https://github.com/mono0926)/[**flutter-flavor-example**](https://github.com/mono0926/flutter-flavor-example)|||
 |13|[@ehr174](https://github.com/ehr174)/[**dartstrap**](https://github.com/ehr174/dartstrap)|||
-|12|[@konifar](https://github.com/konifar)/[**flutter-for-non-engineers**](https://github.com/konifar/flutter-for-non-engineers)|エンジニア以外の職種の方がFlutterでの開発を通してなんとなくアプリ開発について知るためのリポジトリです||
+|13|[@konifar](https://github.com/konifar)/[**flutter-for-non-engineers**](https://github.com/konifar/flutter-for-non-engineers)|エンジニア以外の職種の方がFlutterでの開発を通してなんとなくアプリ開発について知るためのリポジトリです||
+|13|[@mono0926](https://github.com/mono0926)/[**flutter-animations**](https://github.com/mono0926/flutter-animations)||[:arrow_upper_right:](https://medium.com/flutter-jp/implicit-animation-b9d4b7358c28)|
+|13|[@najeira](https://github.com/najeira)/[**flutter-video-player**](https://github.com/najeira/flutter-video-player)|A Flutter plugin for iOS and Android for video using ExoPlayer||
 |12|[@mono0926](https://github.com/mono0926)/[**simple_logger**](https://github.com/mono0926/simple_logger)|Provides super simple APIs for logging. The log also includes caller info by setting includeCallerInfo to true. On Android Studio, jump to caller info by clicking the log.|[:arrow_upper_right:](https://pub.dartlang.org/packages/simple_logger)|
-|12|[@najeira](https://github.com/najeira)/[**flutter-video-player**](https://github.com/najeira/flutter-video-player)|A Flutter plugin for iOS and Android for video using ExoPlayer||
-|11|[@mono0926](https://github.com/mono0926)/[**flutter-animations**](https://github.com/mono0926/flutter-animations)||[:arrow_upper_right:](https://medium.com/flutter-jp/implicit-animation-b9d4b7358c28)|
+|11|[@mono0926](https://github.com/mono0926)/[**flutter_mono_kit**](https://github.com/mono0926/flutter_mono_kit)|A collection of convenient widgets and utils made by mono.|[:arrow_upper_right:](https://pub.dev/packages/mono_kit)|
 |11|[@sayonetech](https://github.com/sayonetech)/[**flutter_calculator**](https://github.com/sayonetech/flutter_calculator)|||
 |11|[@vinbhai4u](https://github.com/vinbhai4u)/[**flutter_social_app**](https://github.com/vinbhai4u/flutter_social_app)|||
 |10|[@kikuchy](https://github.com/kikuchy)/[**all-about-test-of-flutter**](https://github.com/kikuchy/all-about-test-of-flutter)|Sample codes of my session at DroidKaigi 2019 Day.2||
-|10|[@mono0926](https://github.com/mono0926)/[**flutter_mono_kit**](https://github.com/mono0926/flutter_mono_kit)|A collection of convenient widgets and utils made by mono.|[:arrow_upper_right:](https://pub.dev/packages/mono_kit)|
 |10|[@ntaoo](https://github.com/ntaoo)/[**bloc_chat**](https://github.com/ntaoo/bloc_chat)|||
+|10|[@vvakame](https://github.com/vvakame)/[**teaolive**](https://github.com/vvakame/teaolive)|BDD Test Framework for Dart. it was inspired by the Jasmine(JavaScript).||
 |9|[@deadcheat](https://github.com/deadcheat)/[**flutter_square_calendar**](https://github.com/deadcheat/flutter_square_calendar)|A widget plugin for showing calendar.||
+|9|[@mono0926](https://github.com/mono0926)/[**instagram-flutter**](https://github.com/mono0926/instagram-flutter)|||
 |9|[@uehaj](https://github.com/uehaj)/[**dart-saga**](https://github.com/uehaj/dart-saga)|[WIP] port of redux-saga to Dart||
-|9|[@vvakame](https://github.com/vvakame)/[**teaolive**](https://github.com/vvakame/teaolive)|BDD Test Framework for Dart. it was inspired by the Jasmine(JavaScript).||
 |8|[@CORDEA](https://github.com/CORDEA)/[**flutter_backdrop_steps**](https://github.com/CORDEA/flutter_backdrop_steps)||[:arrow_upper_right:](https://medium.com/@CORDEA/implement-backdrop-with-flutter-73b4c61b1357)|
-|8|[@mono0926](https://github.com/mono0926)/[**instagram-flutter**](https://github.com/mono0926/instagram-flutter)|||
+|8|[@moznion](https://github.com/moznion)/[**dart-grec-minimal**](https://github.com/moznion/dart-grec-minimal)|A minimal parser/generator of Google Calendar recurrence rule for dart|[:arrow_upper_right:](https://pub.dartlang.org/packages/grec_minimal)|
 |8|[@ntaoo](https://github.com/ntaoo)/[**ng2_g_signin**](https://github.com/ntaoo/ng2_g_signin)|Google sign-in component for Angular2 Dart||
 |8|[@technohippy](https://github.com/technohippy)/[**angular-translate.dart**](https://github.com/technohippy/angular-translate.dart)|I18N Library for AngularDart||
 |7|[@JAICHANGPARK](https://github.com/JAICHANGPARK)/[**Flutter_Dock**](https://github.com/JAICHANGPARK/Flutter_Dock)|Flutter ||
 |7|[@mono0926](https://github.com/mono0926)/[**swiftui-flutter-comparison**](https://github.com/mono0926/swiftui-flutter-comparison)|||
-|7|[@moznion](https://github.com/moznion)/[**dart-grec-minimal**](https://github.com/moznion/dart-grec-minimal)|A minimal parser/generator of Google Calendar recurrence rule for dart|[:arrow_upper_right:](https://pub.dartlang.org/packages/grec_minimal)|
 |7|[@ntaoo](https://github.com/ntaoo)/[**NekogataDrumSequencer**](https://github.com/ntaoo/NekogataDrumSequencer)|Nekogata Drum Sequencer with AngularDart||
 |7|[@sayonetech](https://github.com/sayonetech)/[**flutter-playbooks**](https://github.com/sayonetech/flutter-playbooks)|Examples with Flutter||
 |7|[@tnantoka](https://github.com/tnantoka)/[**flutter_shapes**](https://github.com/tnantoka/flutter_shapes)|Paint various shapes on canvas with Flutter CustomPainter|[:arrow_upper_right:](https://tnantoka.github.io/flutter_shapes/)|
@@ -68,6 +68,7 @@
 |3|[@axross](https://github.com/axross)/[**fluttask**](https://github.com/axross/fluttask)|:dart: An example Flutter project in order to make sure state management in Flutter||
 |3|[@gfx](https://github.com/gfx)/[**dart-sessionstorage**](https://github.com/gfx/dart-sessionstorage)|An example to make use of WebStorage||
 |3|[@ishkawa](https://github.com/ishkawa)/[**flutter_add_to_app_demo**](https://github.com/ishkawa/flutter_add_to_app_demo)|||
+|3|[@kikuchy](https://github.com/kikuchy)/[**plain_notification_token**](https://github.com/kikuchy/plain_notification_token)|Get your push notification token via platform way (APNs for iOS / Firebase Clound Messaging for Android)||
 |3|[@kyorohiro](https://github.com/kyorohiro)/[**dart.tetorica3**](https://github.com/kyorohiro/dart.tetorica3)|||
 |3|[@kyorohiro](https://github.com/kyorohiro)/[**memo_flutter**](https://github.com/kyorohiro/memo_flutter)|deprecated,  move to https://github.com/kyorohiro/memo_flutter_2019|[:arrow_upper_right:](https://medium.com/@kyorohiro_72753/dart-x-flutter-memo-0-7ab0f2e8877a)|
 |3|[@kyorohiro](https://github.com/kyorohiro)/[**memo_pwa_2018**](https://github.com/kyorohiro/memo_pwa_2018)|||

@@ -1,17 +1,17 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |403|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
-|275|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
+|277|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
 |110|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
-|79|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
+|80|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
+|39|[@Ryo-N7](https://github.com/Ryo-N7)/[**tvthemes**](https://github.com/Ryo-N7/tvthemes)|ggplot2 themes and palettes based on your favorite TV shows||
 |38|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
 |38|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
 |38|[@ymattu](https://github.com/ymattu)/[**MlBayesOpt**](https://github.com/ymattu/MlBayesOpt)|R package to tune parameters for machine learning(Support Vector Machine, Random Forest, and Xgboost), using bayesian optimization with gaussian process||
-|34|[@Ryo-N7](https://github.com/Ryo-N7)/[**tvthemes**](https://github.com/Ryo-N7/tvthemes)|ggplot2 themes and palettes based on your favorite TV shows||
 |31|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
 |28|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
-|22|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](https://uribo.github.io/jpmesh)|
+|23|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](https://uribo.github.io/jpmesh)|
 |17|[@yutannihilation](https://github.com/yutannihilation)/[**tiedr**](https://github.com/yutannihilation/tiedr)|Experimental package (not yet existent) for multi-gather() and multi-spread()||
 |16|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
 |16|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
@@ -104,6 +104,7 @@
 |3|[@teramonagi](https://github.com/teramonagi)/[**R-FRBData**](https://github.com/teramonagi/R-FRBData)|Download data from FRB's website||
 |3|[@teramonagi](https://github.com/teramonagi)/[**scdv**](https://github.com/teramonagi/scdv)|SCDV (Sparse Composite Document Vectors) implementation in R||
 |3|[@uribo](https://github.com/uribo)/[**bucky**](https://github.com/uribo/bucky)|Helpers for literature management as GitHub actions||
+|3|[@uribo](https://github.com/uribo)/[**urbanspacemap**](https://github.com/uribo/urbanspacemap)|46都道府県の県庁所在駅周辺の道路・鉄道網||
 |3|[@ymyzk](https://github.com/ymyzk)/[**RTConnect**](https://github.com/ymyzk/RTConnect)|Tools for analyzing sales report files of iTunes Connect.|[:arrow_upper_right:](http://cran.r-project.org/web/packages/RTConnect/index.html)|
 |3|[@yutannihilation](https://github.com/yutannihilation)/[**K9**](https://github.com/yutannihilation/K9)|Affirmative, Master!!!|[:arrow_upper_right:](https://yutannihilation.github.io/K9/)|
 |3|[@yutannihilation](https://github.com/yutannihilation)/[**ggsflabel**](https://github.com/yutannihilation/ggsflabel)|Labels for 'sf' with 'ggplot2'|[:arrow_upper_right:](https://yutannihilation.github.io/ggsflabel/)|

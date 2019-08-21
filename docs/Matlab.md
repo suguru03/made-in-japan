@@ -1,15 +1,14 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|518|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
-|333|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
-|165|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
+|520|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
+|334|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
+|167|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
 |101|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
 |72|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
-|37|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**ClassifierToolbox**](https://github.com/hiroyuki-kasai/ClassifierToolbox)|A MATLAB toolbox for classifier: Version 1.0.7||
+|38|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**ClassifierToolbox**](https://github.com/hiroyuki-kasai/ClassifierToolbox)|A MATLAB toolbox for classifier: Version 1.0.7||
 |37|[@ikuwow](https://github.com/ikuwow)/[**PatchMatch**](https://github.com/ikuwow/PatchMatch)|The PatchMatch algorithm on MATLAB||
 |27|[@vanhuyz](https://github.com/vanhuyz)/[**coursera-ml**](https://github.com/vanhuyz/coursera-ml)|For study purpose only||
 |26|[@meshgi](https://github.com/meshgi)/[**RGBD_Particle_Filter_Tracker**](https://github.com/meshgi/RGBD_Particle_Filter_Tracker)|Enhancing Probabilistic Appearance-Based Object Tracking with Depth Information: Multiple Object Tracking under Occlusion||
-|25|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**SparkNG**](https://github.com/HidekiKawahara/SparkNG)|MATLAB realtime/interactive speech tools|[:arrow_upper_right:](http://www.wakayama-u.ac.jp/~kawahara/SparkNG/)|
 |22|[@jmlipman](https://github.com/jmlipman)/[**LAID**](https://github.com/jmlipman/LAID)|Lipman's Artificial Intelligence Directory||
 |21|[@KamitaniLab](https://github.com/KamitaniLab)/[**VBCCA**](https://github.com/KamitaniLab/VBCCA)|Variational Bayesian Canonical Correlation Analysis||
 |14|[@ikuwow](https://github.com/ikuwow)/[**inpainting_criminisi2004**](https://github.com/ikuwow/inpainting_criminisi2004)|MATLAB Implementation of inpainting Algorithm by A. Criminisi (2004)||
@@ -42,4 +41,5 @@
 |3|[@kyamagu](https://github.com/kyamagu)/[**matlab-fscache**](https://github.com/kyamagu/matlab-fscache)|File-system based cache for Matlab.||
 |3|[@mavenzer](https://github.com/mavenzer)/[**Player-Action-Detection**](https://github.com/mavenzer/Player-Action-Detection)|||
 |3|[@s-kajita](https://github.com/s-kajita)/[**BasicGaitGen**](https://github.com/s-kajita/BasicGaitGen)|Matlab code for basic gait generator for students||
+|3|[@utatti](https://github.com/utatti)/[**coursera-machine-learning**](https://github.com/utatti/coursera-machine-learning)|Programming assignments of the Machine Learning course in Coursera|[:arrow_upper_right:](https://github.com/utatti/coursera-machine-learning)|
 

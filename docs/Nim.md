@@ -8,12 +8,12 @@
 |9|[@ucpr](https://github.com/ucpr)/[**Dach**](https://github.com/ucpr/Dach)|wip: SecHack365.||
 |8|[@2vg](https://github.com/2vg)/[**MSQueue**](https://github.com/2vg/MSQueue)|Michael-Scott queue implemented in Nim||
 |8|[@2vg](https://github.com/2vg)/[**mofut**](https://github.com/2vg/mofut)|Yet another Future pattern implementation. Runtime zero memory allocation.||
+|8|[@kubo39](https://github.com/kubo39)/[**twitter**](https://github.com/kubo39/twitter)|Low-level twitter API wrapper library for Nim||
 |7|[@2vg](https://github.com/2vg)/[**MOLFO**](https://github.com/2vg/MOLFO)|MOLFO is MOre Light Flexible Orm.||
 |7|[@2vg](https://github.com/2vg)/[**mofunoise**](https://github.com/2vg/mofunoise)|mofunoise is high-level Nim implementation of linenoise.||
 |7|[@2vg](https://github.com/2vg)/[**msh**](https://github.com/2vg/msh)|msh is minimal shell of Nim.||
 |7|[@2vg](https://github.com/2vg)/[**nhttp**](https://github.com/2vg/nhttp)|simple http server implemented by Nim.||
 |7|[@2vg](https://github.com/2vg)/[**nim-wasm-example**](https://github.com/2vg/nim-wasm-example)|example "Nim to wasm".||
-|7|[@kubo39](https://github.com/kubo39)/[**twitter**](https://github.com/kubo39/twitter)|Low-level twitter API wrapper library for Nim||
 |6|[@CORDEA](https://github.com/CORDEA)/[**spotify**](https://github.com/CORDEA/spotify)|A Nim wrapper for the Spotify Web API||
 |6|[@t-sin](https://github.com/t-sin)/[**nutslisp**](https://github.com/t-sin/nutslisp)|Trivial Lisp-2 Interpreter (and my first Lisp!) https://t-sin.github.io/nutslisp/||
 |4|[@2vg](https://github.com/2vg)/[**mofuhttputils**](https://github.com/2vg/mofuhttputils)|useful minimal http server utils.||

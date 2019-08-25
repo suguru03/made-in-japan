@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3879|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
-|643|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|3884|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
+|644|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
 |86|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |84|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |77|[@0918nobita](https://github.com/0918nobita)/[**psyche**](https://github.com/0918nobita/psyche)|A WASM friendly lightweight programming language implemented in OCaml|[:arrow_upper_right:](https://opam.ocaml.org/packages/psyche/)|
@@ -12,8 +12,8 @@
 You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)|
 |33|[@ksuenaga](https://github.com/ksuenaga)/[**IoPLMaterials**](https://github.com/ksuenaga/IoPLMaterials)|Materials for the class "Implementation of Programming Languages" in Kyoto University.||
 |32|[@coord-e](https://github.com/coord-e)/[**mlml**](https://github.com/coord-e/mlml)|self-hosted compiler for a subset of OCaml||
+|27|[@keigoi](https://github.com/keigoi)/[**session-ocaml**](https://github.com/keigoi/session-ocaml)|An implementation of binary session types in OCaml||
 |27|[@kuy](https://github.com/kuy)/[**reason-of-life**](https://github.com/kuy/reason-of-life)|Conway's Lifegame in Reason + reason-react with webpack + bs-loader.||
-|26|[@keigoi](https://github.com/keigoi)/[**session-ocaml**](https://github.com/keigoi/session-ocaml)|An implementation of binary session types in OCaml||
 |24|[@UnixJunkie](https://github.com/UnixJunkie)/[**dolog**](https://github.com/UnixJunkie/dolog)|A dumb OCaml logger||
 |24|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
 |23|[@mzp](https://github.com/mzp)/[**bs-lwt**](https://github.com/mzp/bs-lwt)|BuckleScript bindings for Lwt||
@@ -31,9 +31,9 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |13|[@mzp](https://github.com/mzp)/[**msgpack-ocaml**](https://github.com/mzp/msgpack-ocaml)|MessagePack for OCaml/Coq|[:arrow_upper_right:](http://mzp.github.com/msgpack-ocaml/refman)|
 |12|[@UnixJunkie](https://github.com/UnixJunkie)/[**vp-tree**](https://github.com/UnixJunkie/vp-tree)|Vantage point tree implementation in OCaml||
 |12|[@hanazuki](https://github.com/hanazuki)/[**miniml**](https://github.com/hanazuki/miniml)|Tiny ML interpreter||
+|12|[@ymyzk](https://github.com/ymyzk)/[**lambda-dti**](https://github.com/ymyzk/lambda-dti)|Interpreter of the ITGL with dynamic type inference||
 |11|[@UnixJunkie](https://github.com/UnixJunkie)/[**ACPC**](https://github.com/UnixJunkie/ACPC)|Chemoinformatics tool for ligand-based virtual screening||
 |11|[@UnixJunkie](https://github.com/UnixJunkie)/[**minicli**](https://github.com/UnixJunkie/minicli)|Minimalist OCaml library for command line parsing||
-|11|[@ymyzk](https://github.com/ymyzk)/[**lambda-dti**](https://github.com/ymyzk/lambda-dti)|Interpreter of the ITGL with dynamic type inference||
 |10|[@UnixJunkie](https://github.com/UnixJunkie)/[**cpmlib**](https://github.com/UnixJunkie/cpmlib)|Classification and Regression Performance Metrics library||
 |10|[@mzp](https://github.com/mzp)/[**coq-ruby**](https://github.com/mzp/coq-ruby)|||
 |10|[@mzp](https://github.com/mzp)/[**trello.md**](https://github.com/mzp/trello.md)|📋Copy trello board information to clipboard as markdown format.|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/trellomd/ibjelhogbfmmcpdblpjipdpmaocngjdm)|
@@ -80,6 +80,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**orsvm-e1071**](https://github.com/UnixJunkie/orsvm-e1071)|Access the Linear or RBF kernel SVM from OCaml using the R e1071 or svmpath packages||
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**pardi**](https://github.com/UnixJunkie/pardi)|Parallel and Distributed execution of command lines, pardi !||
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**parpair**](https://github.com/UnixJunkie/parpair)|compute in parallel the application of one (or two) function(s) on a pair of elements||
+|4|[@gfngfn](https://github.com/gfngfn)/[**toy-macro-ml**](https://github.com/gfngfn/toy-macro-ml)|An implementation of MacroML [Ganz, Sabry & Taha 2001]||
 |4|[@hsk](https://github.com/hsk)/[**min-caml-js**](https://github.com/hsk/min-caml-js)|OCaml subset to JavaScript translator|[:arrow_upper_right:](https://github.com/hsk/min-caml-js)|
 |4|[@keigoi](https://github.com/keigoi)/[**ocaml-mpst**](https://github.com/keigoi/ocaml-mpst)|Multiparty Session Types in OCaml||
 |4|[@kiranps](https://github.com/kiranps)/[**learn-reasonml**](https://github.com/kiranps/learn-reasonml)|interactive playground for learning reasonml|[:arrow_upper_right:](https://learn-reasonml.now.sh/#/playground)|
@@ -90,12 +91,12 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |4|[@tyage](https://github.com/tyage)/[**experiment-4-ocaml**](https://github.com/tyage/experiment-4-ocaml)|計算機科学実験及演習4 プログラム検証||
 |4|[@yutopp](https://github.com/yutopp)/[**sounanda**](https://github.com/yutopp/sounanda)|||
 |3|[@AltGr](https://github.com/AltGr)/[**ocp-indent-tests**](https://github.com/AltGr/ocp-indent-tests)|automatic testing of ocp-indent against real-world code||
+|3|[@UnixJunkie](https://github.com/UnixJunkie)/[**hts_shrink**](https://github.com/UnixJunkie/hts_shrink)|Reference implementation of the Distance-Based Boolean Applicability Domain for HTS datasets||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**orc4**](https://github.com/UnixJunkie/orc4)|RC4 implementation in OCaml||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**vector3**](https://github.com/UnixJunkie/vector3)|module for 3D vectors (implemented as a record of x, y and z floats)||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**opml**](https://github.com/alphaKAI/opml)|A proof assistant for modal logic in OCaml (ported from: https://github.com/sndtkrh/hpml)||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**otenki**](https://github.com/alphaKAI/otenki)|Command line weather forecast viewer||
 |3|[@dvtrung](https://github.com/dvtrung)/[**ml-interpreter**](https://github.com/dvtrung/ml-interpreter)|ML interpreter written in OCaml||
-|3|[@gfngfn](https://github.com/gfngfn)/[**toy-macro-ml**](https://github.com/gfngfn/toy-macro-ml)|An implementation of MacroML [Ganz, Sabry & Taha 2001]||
 |3|[@keigoi](https://github.com/keigoi)/[**olt_ocaml**](https://github.com/keigoi/olt_ocaml)|An encoding of Ordered Linear Types in OCaml||
 |3|[@khibino](https://github.com/khibino)/[**pfds**](https://github.com/khibino/pfds)|Codes for the book "Purely Functional Data Structure"|[:arrow_upper_right:](http://twitter.com/khibino)|
 |3|[@kw-udon](https://github.com/kw-udon)/[**min-rt-c**](https://github.com/kw-udon/min-rt-c)|Port of min-rt to ANSI-C||

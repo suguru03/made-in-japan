@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|19|[@rnons](https://github.com/rnons)/[**purescript-halogen-storybook**](https://github.com/rnons/purescript-halogen-storybook)|A library to assemble examples or develop components separately.|[:arrow_upper_right:](https://rnons.github.io/purescript-halogen-storybook/)|
+|20|[@rnons](https://github.com/rnons)/[**purescript-halogen-storybook**](https://github.com/rnons/purescript-halogen-storybook)|A library to assemble examples or develop components separately.|[:arrow_upper_right:](https://rnons.github.io/purescript-halogen-storybook/)|
 |13|[@philopon](https://github.com/philopon)/[**purescript-json**](https://github.com/philopon/purescript-json)|JSON parsing library like aeson for purescript.||
 |13|[@philopon](https://github.com/philopon)/[**purescript-json-deprecated**](https://github.com/philopon/purescript-json-deprecated)|DEPRECATED: please use https://github.com/purescript-contrib/purescript-argonaut||
 |12|[@rnons](https://github.com/rnons)/[**purescript-halogen-day-picker**](https://github.com/rnons/purescript-halogen-day-picker)|A day picker written in purescript halogen|[:arrow_upper_right:](https://rnons.github.io/purescript-halogen-day-picker)|
 |7|[@philopon](https://github.com/philopon)/[**purescript-xhr**](https://github.com/philopon/purescript-xhr)|simple XMLHttpRequest wrapper for purescript.||
+|7|[@utatti](https://github.com/utatti)/[**purescript-halogen-free-html**](https://github.com/utatti/purescript-halogen-free-html)|Free monad for Halogen HTML||
 |6|[@fujimura](https://github.com/fujimura)/[**purescript-react-example**](https://github.com/fujimura/purescript-react-example)|PureScript + React.js example, based on https://github.com/purescript-contrib/purescript-react.||
 |6|[@nonbili](https://github.com/nonbili)/[**svgen**](https://github.com/nonbili/svgen)|Generate an icons module in purescript halogen from svg files||
-|6|[@utatti](https://github.com/utatti)/[**purescript-halogen-free-html**](https://github.com/utatti/purescript-halogen-free-html)|Free monad for Halogen HTML||
 |5|[@algas](https://github.com/algas)/[**purescript-enchantjs**](https://github.com/algas/purescript-enchantjs)|PureScript interface for Enchant.js||
 |5|[@bouzuya](https://github.com/bouzuya)/[**create-purescript-react-basic**](https://github.com/bouzuya/create-purescript-react-basic)|An npm initializer for purescript-react-basic project|[:arrow_upper_right:](https://www.npmjs.com/package/@bouzuya/create-purescript-react-basic)|
 |5|[@bouzuya](https://github.com/bouzuya)/[**purescript-examples**](https://github.com/bouzuya/purescript-examples)|||

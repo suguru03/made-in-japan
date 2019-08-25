@@ -7,13 +7,13 @@
 |57|[@kmaed](https://github.com/kmaed)/[**kmbeamer**](https://github.com/kmaed/kmbeamer)|My themes for Beamer.||
 |56|[@tkamishima](https://github.com/tkamishima)/[**recsysdoc**](https://github.com/tkamishima/recsysdoc)|Algorithms of Recommender Systems : A survey paper of recommender systems (written in Japanese)|[:arrow_upper_right:](http://www.kamishima.net/archive/recsysdoc.pdf)|
 |55|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
+|55|[@vvakame](https://github.com/vvakame)/[**graphql-with-go-book**](https://github.com/vvakame/graphql-with-go-book)||[:arrow_upper_right:](https://vvakame.booth.pm/items/1055228)|
 |54|[@hamano](https://github.com/hamano)/[**the-little-mongodb-book**](https://github.com/hamano/the-little-mongodb-book)|MongoDBの薄い本(The Little MongoDB Book)|[:arrow_upper_right:](http://www.cuspy.org/diary/2012-04-17)|
-|53|[@vvakame](https://github.com/vvakame)/[**graphql-with-go-book**](https://github.com/vvakame/graphql-with-go-book)||[:arrow_upper_right:](https://vvakame.booth.pm/items/1055228)|
 |47|[@mizzy](https://github.com/mizzy)/[**serverspec-thesis**](https://github.com/mizzy/serverspec-thesis)|||
-|39|[@guicho271828](https://github.com/guicho271828)/[**aaai-template**](https://github.com/guicho271828/aaai-template)|latex template for various conferences||
+|42|[@guicho271828](https://github.com/guicho271828)/[**aaai-template**](https://github.com/guicho271828/aaai-template)|latex template for various conferences||
 |36|[@pi8027](https://github.com/pi8027)/[**typeinfer**](https://github.com/pi8027/typeinfer)|Type inference in OCaml|[:arrow_upper_right:](https://github.com/pi8027/typeinfer)|
 |34|[@ryuichiueda](https://github.com/ryuichiueda)/[**ShellGeiData**](https://github.com/ryuichiueda/ShellGeiData)|Files for practice of shellgei||
-|27|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing|[:arrow_upper_right:](https://arxiv.org/abs/1811.03388)|
+|29|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing|[:arrow_upper_right:](https://arxiv.org/abs/1811.03388)|
 |26|[@jilljenn](https://github.com/jilljenn)/[**business-card**](https://github.com/jilljenn/business-card)|A business card in LaTeX||
 |25|[@vvakame](https://github.com/vvakame)/[**review-css-typesetting**](https://github.com/vvakame/review-css-typesetting)|CSS組版やっていき！||
 |21|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
@@ -64,6 +64,7 @@
 |4|[@natmark](https://github.com/natmark)/[**TeX-Textlint**](https://github.com/natmark/TeX-Textlint)|TeX auto calibration using textlint + prh||
 |4|[@nulab](https://github.com/nulab)/[**book-template**](https://github.com/nulab/book-template)||[:arrow_upper_right:](https://nulab-inc.com/ja/blog/nulab/infra-engineer-book/)|
 |4|[@siero5335](https://github.com/siero5335)/[**ScienceR**](https://github.com/siero5335/ScienceR)|Wonderful R4 自然科学研究のためのR入門: 再現可能なレポート執筆実践 のサポートページです。||
+|4|[@uetchy](https://github.com/uetchy)/[**heroku-buildpack-pandoc**](https://github.com/uetchy/heroku-buildpack-pandoc)|A buildpack provides pandoc and pandoc-citeproc.||
 |3|[@Saito-](https://github.com/Saito-)/[**NITKC_Research**](https://github.com/Saito-/NITKC_Research)|釧路高専専攻科 特別研究2||
 |3|[@SythonUK](https://github.com/SythonUK)/[**NITKC_Research**](https://github.com/SythonUK/NITKC_Research)|釧路高専専攻科 特別研究2||
 |3|[@arpitjain099](https://github.com/arpitjain099)/[**Movie-Recommender-System**](https://github.com/arpitjain099/Movie-Recommender-System)|Predicted the likelihood for a person to watch a given movie from movielens dataset using machine learning techniques. Made predictions the rating given by person to the movie based on content based and collaborative filtering techniques. We were able to achieve an accuracy of 85% in our recommendation system.||
@@ -80,6 +81,5 @@
 |3|[@ongxuanhong](https://github.com/ongxuanhong)/[**latex-thesis-template**](https://github.com/ongxuanhong/latex-thesis-template)|||
 |3|[@puripuri2100](https://github.com/puripuri2100)/[**joubun**](https://github.com/puripuri2100/joubun)|規則作成支援||
 |3|[@rkaneko](https://github.com/rkaneko)/[**slide-template**](https://github.com/rkaneko/slide-template)|My beamer slide template||
-|3|[@uetchy](https://github.com/uetchy)/[**heroku-buildpack-pandoc**](https://github.com/uetchy/heroku-buildpack-pandoc)|A buildpack provides pandoc and pandoc-citeproc.||
 |3|[@yusuketomoto](https://github.com/yusuketomoto)/[**ofDocset**](https://github.com/yusuketomoto/ofDocset)|||
 

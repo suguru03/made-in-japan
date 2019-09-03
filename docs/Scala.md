@@ -1,17 +1,17 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|991|[@yahoojapan](https://github.com/yahoojapan)/[**objc2swift**](https://github.com/yahoojapan/objc2swift)|Open Source Obj-C to Swift Converter.||
-|882|[@nwtgck](https://github.com/nwtgck)/[**gh-card**](https://github.com/nwtgck/gh-card)|:octocat: GitHub Repository Card for Every Web Site|[:arrow_upper_right:](https://gh-card.dev)|
-|825|[@lloydmeta](https://github.com/lloydmeta)/[**enumeratum**](https://github.com/lloydmeta/enumeratum)|A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations.||
+|992|[@yahoojapan](https://github.com/yahoojapan)/[**objc2swift**](https://github.com/yahoojapan/objc2swift)|Open Source Obj-C to Swift Converter.||
+|886|[@nwtgck](https://github.com/nwtgck)/[**gh-card**](https://github.com/nwtgck/gh-card)|:octocat: GitHub Repository Card for Every Web Site|[:arrow_upper_right:](https://gh-card.dev)|
+|827|[@lloydmeta](https://github.com/lloydmeta)/[**enumeratum**](https://github.com/lloydmeta/enumeratum)|A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations.||
 |658|[@seratch](https://github.com/seratch)/[**AWScala**](https://github.com/seratch/AWScala)|Using AWS SDK on the Scala REPL||
-|622|[@ktoso](https://github.com/ktoso)/[**sbt-jmh**](https://github.com/ktoso/sbt-jmh)|"Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)|[:arrow_upper_right:](http://kto.so)|
-|542|[@tototoshi](https://github.com/tototoshi)/[**scala-csv**](https://github.com/tototoshi/scala-csv)|CSV Reader/Writer for Scala||
-|500|[@nulab](https://github.com/nulab)/[**scala-oauth2-provider**](https://github.com/nulab/scala-oauth2-provider)|OAuth 2.0 server-side implementation written in Scala||
+|624|[@ktoso](https://github.com/ktoso)/[**sbt-jmh**](https://github.com/ktoso/sbt-jmh)|"Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)|[:arrow_upper_right:](http://kto.so)|
+|543|[@tototoshi](https://github.com/tototoshi)/[**scala-csv**](https://github.com/tototoshi/scala-csv)|CSV Reader/Writer for Scala||
+|501|[@nulab](https://github.com/nulab)/[**scala-oauth2-provider**](https://github.com/nulab/scala-oauth2-provider)|OAuth 2.0 server-side implementation written in Scala||
 |250|[@ktoso](https://github.com/ktoso)/[**akka-raft**](https://github.com/ktoso/akka-raft)|A toy project implementing RAFT on top of Akka Cluster (not prod ready)|[:arrow_upper_right:](http://blog.project13.pl)|
 |246|[@tototoshi](https://github.com/tototoshi)/[**slick-joda-mapper**](https://github.com/tototoshi/slick-joda-mapper)|Slick with JodaTime||
 |162|[@kxbmap](https://github.com/kxbmap)/[**configs**](https://github.com/kxbmap/configs)|Scala wrapper for Typesafe config||
 |159|[@mumoshu](https://github.com/mumoshu)/[**play2-memcached**](https://github.com/mumoshu/play2-memcached)|A memcached plugin for Play 2.x||
-|136|[@TanUkkii007](https://github.com/TanUkkii007)/[**akka-cluster-custom-downing**](https://github.com/TanUkkii007/akka-cluster-custom-downing)|akka-cluster-custom-downing provides configurable auto-downing strategy you can choose based on your distributed application design.||
+|138|[@TanUkkii007](https://github.com/TanUkkii007)/[**akka-cluster-custom-downing**](https://github.com/TanUkkii007/akka-cluster-custom-downing)|akka-cluster-custom-downing provides configurable auto-downing strategy you can choose based on your distributed application design.||
 |108|[@lloydmeta](https://github.com/lloydmeta)/[**schwatcher**](https://github.com/lloydmeta/schwatcher)|File-watching library for Scala. Built on Java 7's WatchService, RxScala and Akka actors.||
 |104|[@lloydmeta](https://github.com/lloydmeta)/[**diesel**](https://github.com/lloydmeta/diesel)|Boilerplate-free, zero-overhead Tagless Final / typed-final / Finally Tagless DSLs in Scala||
 |90|[@akisaarinen](https://github.com/akisaarinen)/[**rillit**](https://github.com/akisaarinen/rillit)|Boilerplate-free Functional Lenses for Scala 2.10||
@@ -30,8 +30,8 @@
 |59|[@kiszk](https://github.com/kiszk)/[**spark-gpu**](https://github.com/kiszk/spark-gpu)|Spark GPU and SIMD Support||
 |57|[@tototoshi](https://github.com/tototoshi)/[**sbt-slick-codegen**](https://github.com/tototoshi/sbt-slick-codegen)|slick-codegen compile hook for sbt||
 |56|[@tototoshi](https://github.com/tototoshi)/[**sbt-musical**](https://github.com/tototoshi/sbt-musical)|NO MUSIC, NO BUILD. Enjoy your compile time.||
-|53|[@j5ik2o](https://github.com/j5ik2o)/[**akka-ddd-cqrs-es-example**](https://github.com/j5ik2o/akka-ddd-cqrs-es-example)|Bank API CQRS Event Sourcing System on Akka-Cluster (Concept Model)||
-|53|[@xuwei-k](https://github.com/xuwei-k)/[**grpc-scala-sample**](https://github.com/xuwei-k/grpc-scala-sample)|translated from grpc java examples with ScalaPB||
+|55|[@j5ik2o](https://github.com/j5ik2o)/[**akka-ddd-cqrs-es-example**](https://github.com/j5ik2o/akka-ddd-cqrs-es-example)|Bank API CQRS Event Sourcing System on Akka-Cluster (Concept Model)||
+|54|[@xuwei-k](https://github.com/xuwei-k)/[**grpc-scala-sample**](https://github.com/xuwei-k/grpc-scala-sample)|translated from grpc java examples with ScalaPB||
 |51|[@tarao](https://github.com/tarao)/[**bullet-scala**](https://github.com/tarao/bullet-scala)|A monadic library to resolve object relations with the aim of avoiding the N+1 query problem.||
 |50|[@seratch](https://github.com/seratch)/[**scalikesolr**](https://github.com/seratch/scalikesolr)|Apache Solr Client for Scala/Java|[:arrow_upper_right:](http://seratch.github.com/scalikesolr/)|
 |49|[@ktoso](https://github.com/ktoso)/[**akka-persistence-hbase**](https://github.com/ktoso/akka-persistence-hbase)|An HBase backed Journal for Akka's experimental persistence / event-sourcing||
@@ -43,9 +43,9 @@
 |37|[@potix2](https://github.com/potix2)/[**spark-google-spreadsheets**](https://github.com/potix2/spark-google-spreadsheets)|Google Spreadsheets datasource for SparkSQL and DataFrames||
 |36|[@lloydmeta](https://github.com/lloydmeta)/[**rhodddoobie**](https://github.com/lloydmeta/rhodddoobie)|My little sandbox for playing around with the FP + OOP + DDD combination, in particular using Rho, doobie, Docker, testing, etc in a project. ||
 |34|[@everpeace](https://github.com/everpeace)/[**ml-examples-by-scalala**](https://github.com/everpeace/ml-examples-by-scalala)|Machine Learning Algorithms Samples By Scalala||
+|34|[@kmizu](https://github.com/kmizu)/[**jsonda**](https://github.com/kmizu/jsonda)|A DSL for constructing json-like data sturctures|[:arrow_upper_right:](http://kmizu.github.com/jsonda)|
 |33|[@ktoso](https://github.com/ktoso)/[**akka-http-mini-workshop**](https://github.com/ktoso/akka-http-mini-workshop)|||
 |32|[@chatwork](https://github.com/chatwork)/[**scala-quiz**](https://github.com/chatwork/scala-quiz)|||
-|32|[@kmizu](https://github.com/kmizu)/[**jsonda**](https://github.com/kmizu/jsonda)|A DSL for constructing json-like data sturctures|[:arrow_upper_right:](http://kmizu.github.com/jsonda)|
 |31|[@j5ik2o](https://github.com/j5ik2o)/[**scala-ddd-base**](https://github.com/j5ik2o/scala-ddd-base)|scala-ddd-base provides traits to support for ddd repositories and aggregates.||
 |31|[@mshibuya](https://github.com/mshibuya)/[**cloudformal**](https://github.com/mshibuya/cloudformal)|A type-safe CloudFormation DSL, which you can apply changes casually!||
 |31|[@tarao](https://github.com/tarao)/[**lambda-scala**](https://github.com/tarao/lambda-scala)|Type level lambda calculus in Scala||
@@ -60,26 +60,26 @@
 |27|[@halcat0x15a](https://github.com/halcat0x15a)/[**twitter4z**](https://github.com/halcat0x15a/twitter4z)|A Scalaz wrapper for Twitter API.||
 |27|[@seratch](https://github.com/seratch)/[**bigquery4s**](https://github.com/seratch/bigquery4s)|A handy Scala wrapper of Google BigQuery API 's Java Client Library.||
 |27|[@tototoshi](https://github.com/tototoshi)/[**sbt-build-files-watcher**](https://github.com/tototoshi/sbt-build-files-watcher)|show message when sbt build files changed||
+|26|[@pocketberserker](https://github.com/pocketberserker)/[**scodec-msgpack**](https://github.com/pocketberserker/scodec-msgpack)|Yet another MessagePack implementation for Scala||
 |25|[@chototsu](https://github.com/chototsu)/[**mikumikustudio-gdx**](https://github.com/chototsu/mikumikustudio-gdx)|MikuMikuStudio for libgdx.||
-|25|[@pocketberserker](https://github.com/pocketberserker)/[**scodec-msgpack**](https://github.com/pocketberserker/scodec-msgpack)|Yet another MessagePack implementation for Scala||
 |24|[@xuwei-k](https://github.com/xuwei-k)/[**ghscala**](https://github.com/xuwei-k/ghscala)|purely functional scala github api client|[:arrow_upper_right:](https://javadoc-badge.appspot.com/com.github.xuwei-k/ghscala_2.11/index.html#ghscala.package)|
 |24|[@yu-iskw](https://github.com/yu-iskw)/[**hierarchical-clustering-with-spark**](https://github.com/yu-iskw/hierarchical-clustering-with-spark)|||
 |23|[@TsingJyujing](https://github.com/TsingJyujing)/[**GeoScala**](https://github.com/TsingJyujing/GeoScala)|A geo library written by Java and Scala|[:arrow_upper_right:](https://tsingjyujing.github.io/geo-scala-doc/)|
+|23|[@j5ik2o](https://github.com/j5ik2o)/[**ticket-price-modeling**](https://github.com/j5ik2o/ticket-price-modeling)|||
 |23|[@mumoshu](https://github.com/mumoshu)/[**geohash-scala**](https://github.com/mumoshu/geohash-scala)|Geohash library for scala||
 |23|[@nus](https://github.com/nus)/[**gitbucket-plantuml-plugin**](https://github.com/nus/gitbucket-plantuml-plugin)|A GitBucket plugin that renders PlantUML diagrams.||
 |23|[@tototoshi](https://github.com/tototoshi)/[**play-ascii-art-plugin**](https://github.com/tototoshi/play-ascii-art-plugin)|play-ascii-art-plugin||
 |22|[@akiradeveloper](https://github.com/akiradeveloper)/[**akashic-storage**](https://github.com/akiradeveloper/akashic-storage)|Filey system backed S3-compatible storage in Scala/Akka-Http||
 |22|[@tarao](https://github.com/tarao)/[**slick-jdbc-extension-scala**](https://github.com/tarao/slick-jdbc-extension-scala)|An extension to slick.jdbc||
 |22|[@xuwei-k](https://github.com/xuwei-k)/[**protobuf-compiler**](https://github.com/xuwei-k/protobuf-compiler)|online protobuf compiler|[:arrow_upper_right:](https://protobuf-compiler.herokuapp.com/)|
+|21|[@crossroad0201](https://github.com/crossroad0201)/[**flyway-awslambda**](https://github.com/crossroad0201/flyway-awslambda)|AWS Lambda function for RDS migration using Flyway.||
+|21|[@nulab](https://github.com/nulab)/[**play2-oauth2-provider**](https://github.com/nulab/play2-oauth2-provider)|This library is enabled using scala-oauth2-provider in Play Framework||
 |21|[@okomok](https://github.com/okomok)/[**hano**](https://github.com/okomok/hano)|Reactive Sequence Combinators in Scala|[:arrow_upper_right:](https://github.com/okomok/hano/wiki)|
 |21|[@todokr](https://github.com/todokr)/[**emojipolation**](https://github.com/todokr/emojipolation)|The easiest way to use Unicode Emoji in Scala🎉✨||
 |21|[@yu-iskw](https://github.com/yu-iskw)/[**click-through-rate-prediction**](https://github.com/yu-iskw/click-through-rate-prediction)|Kaggle's click through rate prediction with Spark Pipeline API||
-|20|[@crossroad0201](https://github.com/crossroad0201)/[**flyway-awslambda**](https://github.com/crossroad0201/flyway-awslambda)|AWS Lambda function for RDS migration using Flyway.||
-|20|[@j5ik2o](https://github.com/j5ik2o)/[**ticket-price-modeling**](https://github.com/j5ik2o/ticket-price-modeling)|||
 |20|[@ktoso](https://github.com/ktoso)/[**hadoop-scalding-nojartool**](https://github.com/ktoso/hadoop-scalding-nojartool)|Hadoop Tool implementation which enables extreme productivity - running MR jobs on your cluster right from your sbt shell!||
 |20|[@lloydmeta](https://github.com/lloydmeta)/[**zipkin-futures**](https://github.com/lloydmeta/zipkin-futures)|Zipkin tracing for Scala Futures and non-Futures (synchronous operations)||
 |20|[@mike-neck](https://github.com/mike-neck)/[**scala-study**](https://github.com/mike-neck/scala-study)|Scala勉強会のレポジトリー||
-|20|[@nulab](https://github.com/nulab)/[**play2-oauth2-provider**](https://github.com/nulab/play2-oauth2-provider)|This library is enabled using scala-oauth2-provider in Play Framework||
 |20|[@tototoshi](https://github.com/tototoshi)/[**scala-http-client**](https://github.com/tototoshi/scala-http-client)|A thin wrapper of Apache HttpClient||
 |19|[@NomadBlacky](https://github.com/NomadBlacky)/[**scala_examples**](https://github.com/NomadBlacky/scala_examples)|Scalaですから||
 |19|[@akiomik](https://github.com/akiomik)/[**idea-android-scala**](https://github.com/akiomik/idea-android-scala)|IntelliJ plugin for Android development with Scala|[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/7693)|
@@ -90,18 +90,18 @@
 |19|[@motemen](https://github.com/motemen)/[**android-PicTumblr**](https://github.com/motemen/android-PicTumblr)|Android app for Tumblr picture reblogging||
 |19|[@nulab](https://github.com/nulab)/[**akka-http-oauth2-provider**](https://github.com/nulab/akka-http-oauth2-provider)|This library is enabled using scala-oauth2-provider in Akka HTTP||
 |19|[@xuwei-k](https://github.com/xuwei-k)/[**play-json-extra**](https://github.com/xuwei-k/play-json-extra)|playframework2 json extra module. provide convenience functions for define Format, Reads, Writes|[:arrow_upper_right:](https://javadoc-badge.appspot.com/com.github.xuwei-k/play-json-extra_2.12/play/jsonext/index.html?javadocio=true)|
+|19|[@yu-iskw](https://github.com/yu-iskw)/[**spark-streaming-with-google-cloud-example**](https://github.com/yu-iskw/spark-streaming-with-google-cloud-example)|an example of integrating Spark Streaming with Google Pub/Sub and Google Datastore||
 |18|[@3tty0n](https://github.com/3tty0n)/[**gatling-thrift**](https://github.com/3tty0n/gatling-thrift)|Gatling third party plugin for thrift protocol.|[:arrow_upper_right:](https://3tty0n.github.io/gatling-thrift/)|
 |18|[@cho45](https://github.com/cho45)/[**hookhub**](https://github.com/cho45/hookhub)|||
 |18|[@eiennohito](https://github.com/eiennohito)/[**grpc-akka-stream-subrepo**](https://github.com/eiennohito/grpc-akka-stream-subrepo)|akka-stream server/client bindings for gRPC||
+|18|[@j5ik2o](https://github.com/j5ik2o)/[**reactive-aws-clients**](https://github.com/j5ik2o/reactive-aws-clients)|AWS Client libraries for Scala (Automatic generation from AWS source code)||
 |18|[@nulab](https://github.com/nulab)/[**BacklogMigration-Redmine**](https://github.com/nulab/BacklogMigration-Redmine)|Migrate your projects from Redmine to Backlog.||
 |18|[@tanishiking](https://github.com/tanishiking)/[**scalaunfmt**](https://github.com/tanishiking/scalaunfmt)| Generates the .scalafmt.conf that have minimum change to existing your scala codebase on running scalafmt.||
-|18|[@yu-iskw](https://github.com/yu-iskw)/[**spark-streaming-with-google-cloud-example**](https://github.com/yu-iskw/spark-streaming-with-google-cloud-example)|an example of integrating Spark Streaming with Google Pub/Sub and Google Datastore||
 |17|[@TanUkkii007](https://github.com/TanUkkii007)/[**reactive-snowflake**](https://github.com/TanUkkii007/reactive-snowflake)|Akka based id generation service with the same algorithm with Twitter Snowflake||
 |17|[@chatwork](https://github.com/chatwork)/[**sbt-aws**](https://github.com/chatwork/sbt-aws)|sbt-aws is a plugin for aws||
 |17|[@dakatsuka](https://github.com/dakatsuka)/[**akka-http-oauth2-client**](https://github.com/dakatsuka/akka-http-oauth2-client)|A Scala wrapper for OAuth 2.0 with Akka HTTP||
 |17|[@dtaniwaki](https://github.com/dtaniwaki)/[**akka-pusher**](https://github.com/dtaniwaki/akka-pusher)|Pusher meets Akka||
 |17|[@everpeace](https://github.com/everpeace)/[**healthchecks**](https://github.com/everpeace/healthchecks)|tiny healthcheck library for akka-http with Kubernetes liveness/readiness probe support|[:arrow_upper_right:](https://github.com/everpeace/healthchecks)|
-|17|[@j5ik2o](https://github.com/j5ik2o)/[**reactive-aws-clients**](https://github.com/j5ik2o/reactive-aws-clients)|AWS Client libraries for Scala (Automatic generation from AWS source code)||
 |17|[@kmizu](https://github.com/kmizu)/[**pegex**](https://github.com/kmizu/pegex)|A PEG-based pattern matching library EXtended by back reference with regex-like notation in Scala|[:arrow_upper_right:](http://github.com/kmizu/pegex)|
 |17|[@ktoso](https://github.com/ktoso)/[**scaladays-berlin-akka-streams**](https://github.com/ktoso/scaladays-berlin-akka-streams)|||
 |17|[@pocketberserker](https://github.com/pocketberserker)/[**scala-logic**](https://github.com/pocketberserker/scala-logic)|||
@@ -432,6 +432,7 @@
 |3|[@jyuch](https://github.com/jyuch)/[**gitbucket-windows-backup-plugin**](https://github.com/jyuch/gitbucket-windows-backup-plugin)|Provides repository backup for GitBucket on Windows||
 |3|[@kamijin-fanta](https://github.com/kamijin-fanta)/[**go-plugin-example**](https://github.com/kamijin-fanta/go-plugin-example)||[:arrow_upper_right:](https://blog.kamijin-fanta.info/2019/05/go-plugin/)|
 |3|[@karupanerura](https://github.com/karupanerura)/[**isucon6-qualifier**](https://github.com/karupanerura/isucon6-qualifier)|ISUCON6 予選||
+|3|[@kmizu](https://github.com/kmizu)/[**jsons**](https://github.com/kmizu/jsons)|A very Small and Simple JSON Parser Library for Scala||
 |3|[@kmizu](https://github.com/kmizu)/[**toys**](https://github.com/kmizu/toys)|A Toy Language||
 |3|[@kmizu](https://github.com/kmizu)/[**uscala**](https://github.com/kmizu/uscala)|技術イベント「Understanding Scala」のためのリポジトリ||
 |3|[@kmizu](https://github.com/kmizu)/[**usparse**](https://github.com/kmizu/usparse)|Ultimately simple parser combinator library written in Scala for #scalafukuoka||
@@ -470,6 +471,7 @@
 |3|[@tmiyamon](https://github.com/tmiyamon)/[**sbt-scalatra-scalate-appengine-template**](https://github.com/tmiyamon/sbt-scalatra-scalate-appengine-template)|Scalatra-Scalate template project for appengine||
 |3|[@todesking](https://github.com/todesking)/[**scalalisp**](https://github.com/todesking/scalalisp)|||
 |3|[@todesking](https://github.com/todesking)/[**sharrrd**](https://github.com/todesking/sharrrd)|Consistent hashing for Scala.||
+|3|[@todokr](https://github.com/todokr)/[**scala-on-lambda-snappy**](https://github.com/todokr/scala-on-lambda-snappy)|||
 |3|[@tosametal](https://github.com/tosametal)/[**digdag-plugin-s3-touch**](https://github.com/tosametal/digdag-plugin-s3-touch)|digdag  plugin for uploading file to amzon s3||
 |3|[@tototoshi](https://github.com/tototoshi)/[**epub4s**](https://github.com/tototoshi/epub4s)|||
 |3|[@tototoshi](https://github.com/tototoshi)/[**json2tsv**](https://github.com/tototoshi/json2tsv)|convert json log to tsv||

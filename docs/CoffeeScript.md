@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|8072|[@yhatt](https://github.com/yhatt)/[**marp**](https://github.com/yhatt/marp)|[Deprecated] Markdown presentation writer, powered by Electron.|[:arrow_upper_right:](https://yhatt.github.io/marp/)|
-|1322|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus**](https://github.com/t9md/atom-vim-mode-plus)|vim-mode improved|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus)|
-|844|[@iizukanao](https://github.com/iizukanao)/[**node-rtsp-rtmp-server**](https://github.com/iizukanao/node-rtsp-rtmp-server)|RTSP/RTMP/HTTP hybrid server||
+|8077|[@yhatt](https://github.com/yhatt)/[**marp**](https://github.com/yhatt/marp)|[Deprecated] Markdown presentation writer, powered by Electron.|[:arrow_upper_right:](https://yhatt.github.io/marp/)|
+|1324|[@t9md](https://github.com/t9md)/[**atom-vim-mode-plus**](https://github.com/t9md/atom-vim-mode-plus)|vim-mode improved|[:arrow_upper_right:](https://atom.io/packages/vim-mode-plus)|
+|855|[@iizukanao](https://github.com/iizukanao)/[**node-rtsp-rtmp-server**](https://github.com/iizukanao/node-rtsp-rtmp-server)|RTSP/RTMP/HTTP hybrid server||
 |441|[@fulmicoton](https://github.com/fulmicoton)/[**fattable**](https://github.com/fulmicoton/fattable)|Javascript Library to create scrollable table with infinite rows and columns.||
 |330|[@tmtk75](https://github.com/tmtk75)/[**jumly**](https://github.com/tmtk75/jumly)|Rendering engine for UML diagrams in JavaScript|[:arrow_upper_right:](http://jumly.tmtk.net/)|
 |306|[@cognitom](https://github.com/cognitom)/[**gulp-sketch**](https://github.com/cognitom/gulp-sketch)|A SketchTool plugin for gulp||
@@ -11,11 +11,11 @@
 |223|[@yuki540net](https://github.com/yuki540net)/[**satella.io**](https://github.com/yuki540net/satella.io)|イラストに「命」を吹き込むソフトウェア||
 |216|[@mizchi](https://github.com/mizchi)/[**arda**](https://github.com/mizchi/arda)|Meta-Flux Framework||
 |203|[@increments](https://github.com/increments)/[**kobito-oss**](https://github.com/increments/kobito-oss)|Markdown Processor built on Electron based on kobito-for-windows||
-|121|[@knu](https://github.com/knu)/[**noreferrer**](https://github.com/knu/noreferrer)|Cross-browser support for HTML5's noreferrer link type.||
+|122|[@knu](https://github.com/knu)/[**noreferrer**](https://github.com/knu/noreferrer)|Cross-browser support for HTML5's noreferrer link type.||
 |117|[@yujinakayama](https://github.com/yujinakayama)/[**atom-lint**](https://github.com/yujinakayama/atom-lint)|Obsolete: Generic code linting support for Atom|[:arrow_upper_right:](https://atom.io/packages/atom-lint)|
 |113|[@yui540](https://github.com/yui540)/[**toa**](https://github.com/yui540/toa)|シンプルで可愛いミュージックプレイヤー「兎亜」||
 |109|[@jaicab](https://github.com/jaicab)/[**Paraxify.js**](https://github.com/jaicab/Paraxify.js)|Progressive enhancement on parallax inspired by Spotify's|[:arrow_upper_right:](http://jaicab.com/Paraxify.js/)|
-|103|[@yui540](https://github.com/yui540)/[**wakaba**](https://github.com/yui540/wakaba)|PC画面上にコメントが流せるデスクトップアプリ「若葉」||
+|104|[@yui540](https://github.com/yui540)/[**wakaba**](https://github.com/yui540/wakaba)|PC画面上にコメントが流せるデスクトップアプリ「若葉」||
 |98|[@koba04](https://github.com/koba04)/[**vuejs-book**](https://github.com/koba04/vuejs-book)|This book is vue.js guide book.|[:arrow_upper_right:](http://koba04.github.io/vuejs-book)|
 |94|[@naoya](https://github.com/naoya)/[**hubot-sushiyuki**](https://github.com/naoya/hubot-sushiyuki)|||
 |92|[@yuki540net](https://github.com/yuki540net)/[**toa**](https://github.com/yuki540net/toa)|シンプルで可愛いミュージックプレイヤー「兎亜」||
@@ -34,8 +34,8 @@
 |62|[@hitode909](https://github.com/hitode909)/[**rokuga**](https://github.com/hitode909/rokuga)|movie to animation gif converter||
 |62|[@stomita](https://github.com/stomita)/[**heroku-screenshot**](https://github.com/stomita/heroku-screenshot)|||
 |55|[@soundTricker](https://github.com/soundTricker)/[**gas-manager**](https://github.com/soundTricker/gas-manager)|Google Apps Script Manager for nodejs ||
+|55|[@sugi](https://github.com/sugi)/[**jquery-gcal-flow**](https://github.com/sugi/jquery-gcal-flow)|jQuery Google Calendar Flow plugin||
 |55|[@ysmood](https://github.com/ysmood)/[**notell**](https://github.com/ysmood/notell)| A presentation server that works with your handheld device.||
-|54|[@sugi](https://github.com/sugi)/[**jquery-gcal-flow**](https://github.com/sugi/jquery-gcal-flow)|jQuery Google Calendar Flow plugin||
 |54|[@yuki540net](https://github.com/yuki540net)/[**Shuvi**](https://github.com/yuki540net/Shuvi)|フレームレスなYouTubeプレイヤー「Shuvi」||
 |52|[@uhyo](https://github.com/uhyo)/[**jinrou**](https://github.com/uhyo/jinrou)|Are you a werewolf?||
 |49|[@harai](https://github.com/harai)/[**indent-guide-improved**](https://github.com/harai/indent-guide-improved)|Improved indent guides for Atom Editor|[:arrow_upper_right:](https://atom.io/packages/indent-guide-improved)|
@@ -47,12 +47,12 @@
 |44|[@matsukaz](https://github.com/matsukaz)/[**hubot-schedule**](https://github.com/matsukaz/hubot-schedule)|A hubot script to schedule a message in both cron-style and datetime-based format pattern||
 |44|[@shokai](https://github.com/shokai)/[**node-arduino-firmata**](https://github.com/shokai/node-arduino-firmata)|Arduino Firmata protocol implementation on Node.js|[:arrow_upper_right:](https://npmjs.org/package/arduino-firmata)|
 |43|[@mizchi](https://github.com/mizchi)/[**stone-skin**](https://github.com/mizchi/stone-skin)|Isomorphic IndexedDb and in memory db wrapper.||
+|40|[@tanaikech](https://github.com/tanaikech)/[**ImgApp**](https://github.com/tanaikech/ImgApp)|This is a library of image tools for Google Apps Script.||
+|39|[@CYBAI](https://github.com/CYBAI)/[**language-vue-component**](https://github.com/CYBAI/language-vue-component)|Adds syntax highlighting to Vue Component files in Atom|[:arrow_upper_right:](https://atom.io/packages/language-vue-component)|
 |39|[@monzou](https://github.com/monzou)/[**backbone.marionette.example**](https://github.com/monzou/backbone.marionette.example)|MVVM-flavored example CRUD app with Backbone.Marionette + Backbone.stickit + Browserify||
 |39|[@r7kamura](https://github.com/r7kamura)/[**mmd.js**](https://github.com/r7kamura/mmd.js)|A project to work MMD in a web browser with client-side JavaScript.||
-|39|[@tanaikech](https://github.com/tanaikech)/[**ImgApp**](https://github.com/tanaikech/ImgApp)|This is a library of image tools for Google Apps Script.||
-|38|[@CYBAI](https://github.com/CYBAI)/[**language-vue-component**](https://github.com/CYBAI/language-vue-component)|Adds syntax highlighting to Vue Component files in Atom|[:arrow_upper_right:](https://atom.io/packages/language-vue-component)|
 |38|[@mizchi](https://github.com/mizchi)/[**dts-parser**](https://github.com/mizchi/dts-parser)|||
-|33|[@shinout](https://github.com/shinout)/[**interval-tree2**](https://github.com/shinout/interval-tree2)|interval tree in CoffeeScript, available in any JS runtime||
+|34|[@shinout](https://github.com/shinout)/[**interval-tree2**](https://github.com/shinout/interval-tree2)|interval tree in CoffeeScript, available in any JS runtime||
 |33|[@syon](https://github.com/syon)/[**atom-japanese-menu**](https://github.com/syon/atom-japanese-menu)|Atom のメニューバーとコンテキストメニュー、設定画面を日本語化します。|[:arrow_upper_right:](https://atom.io/packages/japanese-menu)|
 |33|[@yujinakayama](https://github.com/yujinakayama)/[**atom-auto-update-packages**](https://github.com/yujinakayama/atom-auto-update-packages)|Keep your Atom packages up to date.|[:arrow_upper_right:](https://atom.io/packages/auto-update-packages)|
 |33|[@yusugomori](https://github.com/yusugomori)/[**deeplearning.coffee**](https://github.com/yusugomori/deeplearning.coffee)|Simple JavaScript (CoffeeScript) codes implementing deep learning||
@@ -60,11 +60,11 @@
 |31|[@VoQn](https://github.com/VoQn)/[**pp.js**](https://github.com/VoQn/pp.js)|Pseudo-Parallel, Passing-Procedure, Pretty-Promise. Asynchronous Collection & Procedure Control Flow||
 |31|[@hmatsuda](https://github.com/hmatsuda)/[**rails-transporter**](https://github.com/hmatsuda/rails-transporter)|AtomEditor package that to open related Rails files on current context|[:arrow_upper_right:](https://atom.io/packages/rails-transporter)|
 |31|[@mizchi](https://github.com/mizchi)/[**skin.js**](https://github.com/mizchi/skin.js)|Simple and primitive DOM wrapper||
+|30|[@iizukanao](https://github.com/iizukanao)/[**picam-streamer**](https://github.com/iizukanao/picam-streamer)|Out-of-the-box SD card image for live streaming with Raspberry Pi||
 |30|[@shokai](https://github.com/shokai)/[**node-ricoh-theta**](https://github.com/shokai/node-ricoh-theta)|controll RICOH THETA 360-degree camera with Node.js|[:arrow_upper_right:](https://www.npmjs.com/package/ricoh-theta)|
 |30|[@tricknotes](https://github.com/tricknotes)/[**nothub**](https://github.com/tricknotes/nothub)|Chrome Extension for GitHub Notification|[:arrow_upper_right:](http://nothub.org)|
 |30|[@umakoz](https://github.com/umakoz)/[**hubot-line**](https://github.com/umakoz/hubot-line)|A Hubot adapter for LINE.|[:arrow_upper_right:](https://www.npmjs.com/package/hubot-line)|
 |29|[@aki77](https://github.com/aki77)/[**atom-gist**](https://github.com/aki77/atom-gist)|create and insert Gists|[:arrow_upper_right:](https://atom.io/packages/gist)|
-|29|[@iizukanao](https://github.com/iizukanao)/[**picam-streamer**](https://github.com/iizukanao/picam-streamer)|Out-of-the-box SD card image for live streaming with Raspberry Pi||
 |29|[@tsuyoshiwada](https://github.com/tsuyoshiwada)/[**sequential-number**](https://github.com/tsuyoshiwada/sequential-number)|An Atom package, to inputs sequential numbers across multiple cursors.|[:arrow_upper_right:](https://atom.io/packages/sequential-number)|
 |28|[@bokuweb](https://github.com/bokuweb)/[**ithildin**](https://github.com/bokuweb/ithildin)|Twitter Client built on Electron with Mithril.js||
 |28|[@geta6](https://github.com/geta6)/[**teitoku**](https://github.com/geta6/teitoku)|kancolle browser|[:arrow_upper_right:](http://makebooth.com/i/1xkN1)|
@@ -128,6 +128,7 @@
 |13|[@dtaniwaki](https://github.com/dtaniwaki)/[**issue-checker-for-github**](https://github.com/dtaniwaki/issue-checker-for-github)|Chrome Extension to check github issues assigned to you||
 |13|[@naoya](https://github.com/naoya)/[**MeteorSample-SBM**](https://github.com/naoya/MeteorSample-SBM)|||
 |13|[@ngs](https://github.com/ngs)/[**hubot-browserstack**](https://github.com/ngs/hubot-browserstack)|A Hubot script to take screenshots with BrowserStack|[:arrow_upper_right:](https://www.npmjs.org/package/hubot-browserstack)|
+|13|[@ngs](https://github.com/ngs)/[**hubot-cloudfront**](https://github.com/ngs/hubot-cloudfront)|A Hubot script to list and invalidate Amazon CloudFront distributions.|[:arrow_upper_right:](http://ngs.io/2014/06/28/hubot-cloudfront/)|
 |13|[@nickjanssen](https://github.com/nickjanssen)/[**Leaderboards-XL**](https://github.com/nickjanssen/Leaderboards-XL)|The original Meteor leaderboards example with a button to add new players as well as sort functionality. Made with Coffeescript and Bootstrap.|[:arrow_upper_right:](http://leaderboardsxl.meteor.com/)|
 |13|[@ryurock](https://github.com/ryurock)/[**hubot-weather-ja**](https://github.com/ryurock/hubot-weather-ja)|hubot scripts weather information from weather.livedoor.com||
 |13|[@shokai](https://github.com/shokai)/[**hubot-mongodb-brain**](https://github.com/shokai/hubot-mongodb-brain)|MongoDB brain for Hubot|[:arrow_upper_right:](https://npmjs.com/package/hubot-mongodb-brain)|
@@ -140,7 +141,6 @@
 |12|[@mizchi](https://github.com/mizchi)/[**tcs**](https://github.com/mizchi/tcs)|Tiny and typed coffeescript like language||
 |12|[@mizchi](https://github.com/mizchi)/[**webview-pane**](https://github.com/mizchi/webview-pane)|||
 |12|[@muddydixon](https://github.com/muddydixon)/[**series.js**](https://github.com/muddydixon/series.js)|||
-|12|[@ngs](https://github.com/ngs)/[**hubot-cloudfront**](https://github.com/ngs/hubot-cloudfront)|A Hubot script to list and invalidate Amazon CloudFront distributions.|[:arrow_upper_right:](http://ngs.io/2014/06/28/hubot-cloudfront/)|
 |12|[@ryosan-470](https://github.com/ryosan-470)/[**gochiusa-bot**](https://github.com/ryosan-470/gochiusa-bot)|The "Is the order a rabbit?" BOT for Slack||
 |12|[@uraway](https://github.com/uraway)/[**hatena-blog-and-fotolife**](https://github.com/uraway/hatena-blog-and-fotolife)|This is the best way to POST / UPDATE / DELETE your Hatena Blog entry and upload an image to your fotolife from Atom Editor.|[:arrow_upper_right:](https://atom.io/packages/hatena-blog-and-fotolife)|
 |12|[@ysmood](https://github.com/ysmood)/[**flee**](https://github.com/ysmood/flee)|A cross platform flee game, works both on desktop and mobile.|[:arrow_upper_right:](http://flee.ysmood.org)|
@@ -162,6 +162,7 @@
 |10|[@itchyny](https://github.com/itchyny)/[**jsparser**](https://github.com/itchyny/jsparser)|A JavaScript parser in JavaScript generated by Jison|[:arrow_upper_right:](http://itchyny.github.io/jsparser/)|
 |10|[@p-baleine](https://github.com/p-baleine)/[**atom-twitter-client**](https://github.com/p-baleine/atom-twitter-client)|Twitter client for Atom. https://atom.io/packages/atom-twitter-client||
 |10|[@shokai](https://github.com/shokai)/[**blendmicro-node**](https://github.com/shokai/blendmicro-node)|Node.js module for BlendMicro/BLENano with BLE|[:arrow_upper_right:](https://www.npmjs.org/package/blendmicro)|
+|10|[@shokai](https://github.com/shokai)/[**node-slackbot**](https://github.com/shokai/node-slackbot)|Slackbot wrapper for slack.com|[:arrow_upper_right:](https://www.npmjs.org/package/slackbot)|
 |10|[@sorah](https://github.com/sorah)/[**hubot-zabbix**](https://github.com/sorah/hubot-zabbix)|||
 |10|[@yusuke024](https://github.com/yusuke024)/[**drop-up**](https://github.com/yusuke024/drop-up)|Drag and drop image files to Atom, upload to Imgur and insert link, GitHub style.|[:arrow_upper_right:](https://atom.io/packages/drop-up)|
 |9|[@59naga](https://github.com/59naga)/[**nicolive**](https://github.com/59naga/nicolive)|Command Line Comment Viewer||
@@ -185,7 +186,6 @@
 |9|[@noraesae](https://github.com/noraesae)/[**party-hard**](https://github.com/noraesae/party-hard)|Yet another useless Atom package to literally *party hard*|[:arrow_upper_right:](https://atom.io/packages/party-hard)|
 |9|[@riaf](https://github.com/riaf)/[**gyazobank**](https://github.com/riaf/gyazobank)|Private Gyazo Server (s3)|[:arrow_upper_right:](http://engineering.otobank.co.jp/entry/2014/10/29/170800)|
 |9|[@shiwano](https://github.com/shiwano)/[**2ch**](https://github.com/shiwano/2ch)|A JavaScript library for comfortable 2ch watching.||
-|9|[@shokai](https://github.com/shokai)/[**node-slackbot**](https://github.com/shokai/node-slackbot)|Slackbot wrapper for slack.com|[:arrow_upper_right:](https://www.npmjs.org/package/slackbot)|
 |9|[@syohex](https://github.com/syohex)/[**atom-ghq**](https://github.com/syohex/atom-ghq)|ghq atom interface||
 |9|[@utatti](https://github.com/utatti)/[**party-hard**](https://github.com/utatti/party-hard)|Yet another useless Atom package to literally *party hard*|[:arrow_upper_right:](https://atom.io/packages/party-hard)|
 |9|[@ympbyc](https://github.com/ympbyc)/[**coffeehack**](https://github.com/ympbyc/coffeehack)|nethack-like game in browser. writing from scratch.||
@@ -327,6 +327,7 @@
 |4|[@Makio64](https://github.com/Makio64)/[**treeline_casestudy**](https://github.com/Makio64/treeline_casestudy)|Case study of my christmas experiments TreeLine||
 |4|[@Sixeight](https://github.com/Sixeight)/[**atom-quickrun**](https://github.com/Sixeight/atom-quickrun)|Execute whole/part of editing file. Inspired by vim-quickrun.||
 |4|[@Tomohiro](https://github.com/Tomohiro)/[**atom-serverspec-snippets**](https://github.com/Tomohiro/atom-serverspec-snippets)|:pencil: Snippets to help you writing Serverspec specs|[:arrow_upper_right:](http://atom.io/packages/serverspec-snippets)|
+|4|[@akiroom](https://github.com/akiroom)/[**shubot**](https://github.com/akiroom/shubot)|日本で一番熱いbotになれよ！！！||
 |4|[@aozora0000](https://github.com/aozora0000)/[**hubot-animemap**](https://github.com/aozora0000/hubot-animemap)|hubot用放映中アニメ取得スクリプト||
 |4|[@argelius](https://github.com/argelius)/[**jquery-kana-input**](https://github.com/argelius/jquery-kana-input)|jQuery plugin that adds kana (hiragana and katakana) to an input tag, to make it possible to write in Japanese without an IME.||
 |4|[@bouzuya](https://github.com/bouzuya)/[**hubot-backlog-activity**](https://github.com/bouzuya/hubot-backlog-activity)|A Hubot script that relay the backlog activities to your chat room||
@@ -398,7 +399,6 @@
 |3|[@Takazudo](https://github.com/Takazudo)/[**EveEve**](https://github.com/Takazudo/EveEve)|event module||
 |3|[@aki77](https://github.com/aki77)/[**atom-view-mode**](https://github.com/aki77/atom-view-mode)|read only mode|[:arrow_upper_right:](https://atom.io/packages/view-mode)|
 |3|[@akiroom](https://github.com/akiroom)/[**hubot-shubot**](https://github.com/akiroom/hubot-shubot)|most Hot Bot in Japan||
-|3|[@akiroom](https://github.com/akiroom)/[**shubot**](https://github.com/akiroom/shubot)|日本で一番熱いbotになれよ！！！||
 |3|[@aozora0000](https://github.com/aozora0000)/[**hubot-meshi**](https://github.com/aozora0000/hubot-meshi)|Hubot-scripts returns MESHI-TERRO image||
 |3|[@bokuweb](https://github.com/bokuweb)/[**flava_cocos**](https://github.com/bokuweb/flava_cocos)|cocos2d-JS music game|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=org.cocos2dx.flavabeats)|
 |3|[@bouzuya](https://github.com/bouzuya)/[**hubot-color**](https://github.com/bouzuya/hubot-color)|A Hubot script that convert the color code to rgb, hsl, and hex format||

@@ -1,22 +1,22 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|159|[@ziyan](https://github.com/ziyan)/[**spider**](https://github.com/ziyan/spider)|Web Content Extraction Through Machine Learning|[:arrow_upper_right:](https://www.ziyan.net/2014/04/web-content-extraction-through-machine-learning/)|
-|139|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hypervisor**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
+|158|[@ziyan](https://github.com/ziyan)/[**spider**](https://github.com/ziyan/spider)|Web Content Extraction Through Machine Learning|[:arrow_upper_right:](https://www.ziyan.net/2014/04/web-content-extraction-through-machine-learning/)|
+|140|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hypervisor**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
 |123|[@y-yu](https://github.com/y-yu)/[**trpl-2nd-pdf**](https://github.com/y-yu/trpl-2nd-pdf)|PDF of Japanese The Rust Programming Language: 2nd Edition |[:arrow_upper_right:](https://y-yu.github.io/trpl-2nd-pdf/book.pdf)|
 |88|[@neubig](https://github.com/neubig)/[**naacl18tutorial**](https://github.com/neubig/naacl18tutorial)|NAACL 2018 Tutorial: Modelling Natural Language, Programs, and their Intersection||
 |57|[@kmaed](https://github.com/kmaed)/[**kmbeamer**](https://github.com/kmaed/kmbeamer)|My themes for Beamer.||
-|56|[@tkamishima](https://github.com/tkamishima)/[**recsysdoc**](https://github.com/tkamishima/recsysdoc)|Algorithms of Recommender Systems : A survey paper of recommender systems (written in Japanese)|[:arrow_upper_right:](http://www.kamishima.net/archive/recsysdoc.pdf)|
-|55|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
+|56|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
+|55|[@tkamishima](https://github.com/tkamishima)/[**recsysdoc**](https://github.com/tkamishima/recsysdoc)|Algorithms of Recommender Systems : A survey paper of recommender systems (written in Japanese)|[:arrow_upper_right:](http://www.kamishima.net/archive/recsysdoc.pdf)|
 |55|[@vvakame](https://github.com/vvakame)/[**graphql-with-go-book**](https://github.com/vvakame/graphql-with-go-book)||[:arrow_upper_right:](https://vvakame.booth.pm/items/1055228)|
 |54|[@hamano](https://github.com/hamano)/[**the-little-mongodb-book**](https://github.com/hamano/the-little-mongodb-book)|MongoDBの薄い本(The Little MongoDB Book)|[:arrow_upper_right:](http://www.cuspy.org/diary/2012-04-17)|
 |47|[@mizzy](https://github.com/mizzy)/[**serverspec-thesis**](https://github.com/mizzy/serverspec-thesis)|||
-|42|[@guicho271828](https://github.com/guicho271828)/[**aaai-template**](https://github.com/guicho271828/aaai-template)|latex template for various conferences||
+|46|[@guicho271828](https://github.com/guicho271828)/[**aaai-template**](https://github.com/guicho271828/aaai-template)|latex template for various conferences||
 |36|[@pi8027](https://github.com/pi8027)/[**typeinfer**](https://github.com/pi8027/typeinfer)|Type inference in OCaml|[:arrow_upper_right:](https://github.com/pi8027/typeinfer)|
 |34|[@ryuichiueda](https://github.com/ryuichiueda)/[**ShellGeiData**](https://github.com/ryuichiueda/ShellGeiData)|Files for practice of shellgei||
-|29|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing|[:arrow_upper_right:](https://arxiv.org/abs/1811.03388)|
+|32|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing|[:arrow_upper_right:](https://arxiv.org/abs/1811.03388)|
 |26|[@jilljenn](https://github.com/jilljenn)/[**business-card**](https://github.com/jilljenn/business-card)|A business card in LaTeX||
-|25|[@vvakame](https://github.com/vvakame)/[**review-css-typesetting**](https://github.com/vvakame/review-css-typesetting)|CSS組版やっていき！||
-|21|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
+|26|[@vvakame](https://github.com/vvakame)/[**review-css-typesetting**](https://github.com/vvakame/review-css-typesetting)|CSS組版やっていき！||
+|22|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
 |21|[@takahashim](https://github.com/takahashim)/[**review-sample-book**](https://github.com/takahashim/review-sample-book)|ReVIEWの書籍サンプルデータです。||
 |20|[@oist](https://github.com/oist)/[**LaTeX-templates**](https://github.com/oist/LaTeX-templates)|Graduate School LaTeX templates for Lab rotation proposal + report, OIST beamer and Thesis + thesis proposal||
 |19|[@kentaro](https://github.com/kentaro)/[**Bancor_Protocol_Whitepaper_ja**](https://github.com/kentaro/Bancor_Protocol_Whitepaper_ja)|Japanese Translation of The Bancor Protocol Whitepaper||

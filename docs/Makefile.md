@@ -26,13 +26,13 @@
 |12|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiSocketIOClient**](https://github.com/yagitoshiro/TiSocketIOClient)|Socket.io client for Appcelerator Titanium||
 |11|[@leo-project](https://github.com/leo-project)/[**notes**](https://github.com/leo-project/notes)|The note of LeoFS' developers and LeoFS' benchmark report to developers and users|[:arrow_upper_right:](https://github.com/leo-project/leofs)|
 |10|[@gfngfn](https://github.com/gfngfn)/[**cs-thesis**](https://github.com/gfngfn/cs-thesis)|A SATySFi class file for writing CS master thesis||
+|10|[@knakayama](https://github.com/knakayama)/[**cfn-ci-cd-demo**](https://github.com/knakayama/cfn-ci-cd-demo)|||
 |10|[@nariakiiwatani](https://github.com/nariakiiwatani)/[**ofxWatchFile**](https://github.com/nariakiiwatani/ofxWatchFile)|automatically reload a file if it is modified||
 |10|[@nnao45](https://github.com/nnao45)/[**zsh-kubectl-completion**](https://github.com/nnao45/zsh-kubectl-completion)|Rich zsh completion for the kubectl command.|[:arrow_upper_right:](https://medium.com/@n4sekai5y/kubectl-completion-zsh%E3%82%92%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%86%8D%E7%99%BA%E6%98%8E%E3%81%97%E3%81%9F-da6c5345263f)|
 |10|[@nyuichi](https://github.com/nyuichi)/[**satysfi-lib**](https://github.com/nyuichi/satysfi-lib)|complementary collection of useful functions/modules for SATySFi||
 |10|[@wadahiro](https://github.com/wadahiro)/[**gitlab-ecs-cloudformation**](https://github.com/wadahiro/gitlab-ecs-cloudformation)|||
 |9|[@daitomanabe](https://github.com/daitomanabe)/[**ofxTinySingleton**](https://github.com/daitomanabe/ofxTinySingleton)|tiny and simple singleton in C++11 way (for learning C++11||
 |9|[@hibari](https://github.com/hibari)/[**hibari-doc**](https://github.com/hibari/hibari-doc)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.|[:arrow_upper_right:](http://hibari.github.com/hibari-doc)|
-|9|[@knakayama](https://github.com/knakayama)/[**cfn-ci-cd-demo**](https://github.com/knakayama/cfn-ci-cd-demo)|||
 |9|[@puripuri2100](https://github.com/puripuri2100)/[**stjarticle**](https://github.com/puripuri2100/stjarticle)|SATySFi's package||
 |9|[@tomohiro](https://github.com/tomohiro)/[**air**](https://github.com/tomohiro/air)|Command-line AirPlay video client for Apple TV||
 |7|[@2bbb](https://github.com/2bbb)/[**ofxCrushAppsUsingOfxOscReceiver**](https://github.com/2bbb/ofxCrushAppsUsingOfxOscReceiver)|if you wanna be no.1 in exhibition everyone use openFrameworks!||
@@ -41,10 +41,10 @@
 |7|[@enukane](https://github.com/enukane)/[**c90-plan9-assembler-handbook**](https://github.com/enukane/c90-plan9-assembler-handbook)|C90で頒布した "Plan 9 Assembler Handbook" の文章データ||
 |7|[@haruyama](https://github.com/haruyama)/[**ssh_rfc_ja**](https://github.com/haruyama/ssh_rfc_ja)|Japanese translations of SSH RFCs and Internet Drafts|[:arrow_upper_right:](http://www.unixuser.org/~haruyama/RFC/ssh/)|
 |7|[@lestrrat](https://github.com/lestrrat)/[**CatalystX-AppBuilder**](https://github.com/lestrrat/CatalystX-AppBuilder)|Programatically Build Your Catalyst Apps||
+|7|[@syumai](https://github.com/syumai)/[**go-wasm-sizes**](https://github.com/syumai/go-wasm-sizes)|compare WebAssembly build size depends on imported package.||
 |6|[@TemTemmie](https://github.com/TemTemmie)/[**3Camera**](https://github.com/TemTemmie/3Camera)|A camera homebrew for the Nintendo 3DS.||
 |6|[@marccarre](https://github.com/marccarre)/[**rust-docker-dev-env**](https://github.com/marccarre/rust-docker-dev-env)|Rust development environment based on Docker.||
 |6|[@sk2sat](https://github.com/sk2sat)/[**haribote-os**](https://github.com/sk2sat/haribote-os)|はりぼてOSをもう一度作ってみるやつ||
-|6|[@syumai](https://github.com/syumai)/[**go-wasm-sizes**](https://github.com/syumai/go-wasm-sizes)|compare WebAssembly build size depends on imported package.||
 |6|[@visvirial](https://github.com/visvirial)/[**nonce-plot**](https://github.com/visvirial/nonce-plot)|This simple script plots block nonce value.||
 |5|[@hanasaan](https://github.com/hanasaan)/[**ofxBinaryPatternMessenger**](https://github.com/hanasaan/ofxBinaryPatternMessenger)|Messaging via Image||
 |5|[@kt3k](https://github.com/kt3k)/[**lambda-deno-runtime-wip**](https://github.com/kt3k/lambda-deno-runtime-wip)|Run deno in AWS Lambda environment (WIP)|[:arrow_upper_right:](https://6e2y19fu3j.execute-api.ap-northeast-1.amazonaws.com/default/deno_v2)|
@@ -81,6 +81,7 @@
 |3|[@kboy-silvergym](https://github.com/kboy-silvergym)/[**barberry_iOS**](https://github.com/kboy-silvergym/barberry_iOS)|筋トレ記録アプリ「バーベリー」の公開verです。たまに更新します。||
 |3|[@kdmsnr](https://github.com/kdmsnr)/[**NexusGuide**](https://github.com/kdmsnr/NexusGuide)|||
 |3|[@koji](https://github.com/koji)/[**oF-shader-boilerplate**](https://github.com/koji/oF-shader-boilerplate)|||
+|3|[@lambdalisue](https://github.com/lambdalisue)/[**docker-neovim-themis**](https://github.com/lambdalisue/docker-neovim-themis)|Alpine image for running vim-themis on Neovim|[:arrow_upper_right:](https://hub.docker.com/r/lambdalisue/neovim-themis/)|
 |3|[@liquidz](https://github.com/liquidz)/[**docker-asciidoctor-jp**](https://github.com/liquidz/docker-asciidoctor-jp)|||
 |3|[@mordiford](https://github.com/mordiford)/[**device_zuk_z2_plus**](https://github.com/mordiford/device_zuk_z2_plus)|IceCold Device configuration for Lenovo/ZUK Z2 Plus||
 |3|[@pei0804](https://github.com/pei0804)/[**direnv-example**](https://github.com/pei0804/direnv-example)|||

@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|33|[@stomita](https://github.com/stomita)/[**soql-secure**](https://github.com/stomita/soql-secure)|A library to build/execute SOQL from JSON definition in Apex with secure FLS check||
+|34|[@stomita](https://github.com/stomita)/[**soql-secure**](https://github.com/stomita/soql-secure)|A library to build/execute SOQL from JSON definition in Apex with secure FLS check||
 |8|[@shunjikonishi](https://github.com/shunjikonishi)/[**apex-google-api**](https://github.com/shunjikonishi/apex-google-api)|Google API V3 wrapper for Salesforce||
 |4|[@tyoshikawa1106](https://github.com/tyoshikawa1106)/[**apex-vf-angular**](https://github.com/tyoshikawa1106/apex-vf-angular)|Visualforce × AngularJS||
 |3|[@nkjm](https://github.com/nkjm)/[**scrud**](https://github.com/nkjm/scrud)|Wrapper CRUD method library which follows CRUD/FLS enforcement.||

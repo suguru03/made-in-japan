@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|269|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
-|253|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
+|270|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
+|254|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
 |237|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|👨‍🔧 gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
-|129|[@int128](https://github.com/int128)/[**gradle-swagger-generator-plugin**](https://github.com/int128/gradle-swagger-generator-plugin)|Gradle plugin for OpenAPI YAML validation, code generation and API document publishing||
+|131|[@int128](https://github.com/int128)/[**gradle-swagger-generator-plugin**](https://github.com/int128/gradle-swagger-generator-plugin)|Gradle plugin for OpenAPI YAML validation, code generation and API document publishing||
 |125|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |106|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||
 |99|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||
@@ -24,10 +24,10 @@
 |19|[@uPhyca](https://github.com/uPhyca)/[**gradle-android-apt-plugin**](https://github.com/uPhyca/gradle-android-apt-plugin)|A Gradle plugin which enables annotations processing for Android builds.||
 |15|[@uehaj](https://github.com/uehaj)/[**groovy-comprehension**](https://github.com/uehaj/groovy-comprehension)|||
 |14|[@sys1yagi](https://github.com/sys1yagi)/[**rxandroid-usecase**](https://github.com/sys1yagi/rxandroid-usecase)|||
+|14|[@takahirom](https://github.com/takahirom)/[**fire-annotation**](https://github.com/takahirom/fire-annotation)|Simple tool which help you to implement Firebase Analytics||
 |14|[@uehaj](https://github.com/uehaj)/[**groovyz**](https://github.com/uehaj/groovyz)|POC of Type Class for Groovy||
 |13|[@gfx](https://github.com/gfx)/[**gradle-plugin-template**](https://github.com/gfx/gradle-plugin-template)|A template project for Gradle plugins||
 |13|[@kiy0taka](https://github.com/kiy0taka)/[**spock-shell**](https://github.com/kiy0taka/spock-shell)|||
-|13|[@takahirom](https://github.com/takahirom)/[**fire-annotation**](https://github.com/takahirom/fire-annotation)|Simple tool which help you to implement Firebase Analytics||
 |12|[@taichi](https://github.com/taichi)/[**yuzen**](https://github.com/taichi/yuzen)|static contents generator|[:arrow_upper_right:](http://yuzen.koshinuke.org/)|
 |11|[@mariotaku](https://github.com/mariotaku)/[**imgenie-plugin**](https://github.com/mariotaku/imgenie-plugin)|||
 |11|[@tkruse](https://github.com/tkruse)/[**gpi**](https://github.com/tkruse/gpi)|grape package installer||

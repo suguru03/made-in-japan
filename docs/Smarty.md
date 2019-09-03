@@ -13,5 +13,6 @@
 |4|[@mumoshu](https://github.com/mumoshu)/[**kube-node-init**](https://github.com/mumoshu/kube-node-init)|Kubernetes daemonset for node initial configuration. Currently for modifying files and systemd services on eksctl nodes without changing userdata||
 |3|[@Jeemusu](https://github.com/Jeemusu)/[**EC-Cube-Admin-Bootstrap**](https://github.com/Jeemusu/EC-Cube-Admin-Bootstrap)|EC-CUBE管理画面用のBOOTSTRAPテーマです。||
 |3|[@andoshin11](https://github.com/andoshin11)/[**go-todo-example**](https://github.com/andoshin11/go-todo-example)|Example project with golang||
+|3|[@mumoshu](https://github.com/mumoshu)/[**prometheus-process-exporter**](https://github.com/mumoshu/prometheus-process-exporter)|Helml chart for Prometheus process-exporter||
 |3|[@tmtk75](https://github.com/tmtk75)/[**terraform-iam-example**](https://github.com/tmtk75/terraform-iam-example)|An example for aws_iam_* resources of terraform by Hashicorp||
 

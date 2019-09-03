@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |616|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
-|492|[@parroty](https://github.com/parroty)/[**excoveralls**](https://github.com/parroty/excoveralls)|Coverage report tool for Elixir with coveralls.io integration.||
-|453|[@parroty](https://github.com/parroty)/[**exvcr**](https://github.com/parroty/exvcr)|HTTP request/response recording library for elixir, inspired by VCR.||
+|494|[@parroty](https://github.com/parroty)/[**excoveralls**](https://github.com/parroty/excoveralls)|Coverage report tool for Elixir with coveralls.io integration.||
+|455|[@parroty](https://github.com/parroty)/[**exvcr**](https://github.com/parroty/exvcr)|HTTP request/response recording library for elixir, inspired by VCR.||
 |323|[@parroty](https://github.com/parroty)/[**extwitter**](https://github.com/parroty/extwitter)|Twitter client library for elixir. ||
 |294|[@parroty](https://github.com/parroty)/[**excheck**](https://github.com/parroty/excheck)|Property-based testing library for Elixir (QuickCheck style).||
 |240|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
@@ -18,9 +18,9 @@
 |69|[@parroty](https://github.com/parroty)/[**exfirebase**](https://github.com/parroty/exfirebase)|An elixir library for accessing the Firebase REST API.||
 |67|[@chvanikoff](https://github.com/chvanikoff)/[**apns4ex**](https://github.com/chvanikoff/apns4ex)|APNS for Elixir||
 |65|[@tuvistavie](https://github.com/tuvistavie)/[**pushex**](https://github.com/tuvistavie/pushex)|Push notifications for Elixir|[:arrow_upper_right:](https://hexdocs.pm/pushex)|
-|63|[@mururu](https://github.com/mururu)/[**msgpack-elixir**](https://github.com/mururu/msgpack-elixir)|MessagePack Implementation for Elixir / msgpack.org[Elixir]||
-|61|[@chvanikoff](https://github.com/chvanikoff)/[**reph**](https://github.com/chvanikoff/reph)|React/Redux + Phoenix (Elixir)||
+|64|[@mururu](https://github.com/mururu)/[**msgpack-elixir**](https://github.com/mururu/msgpack-elixir)|MessagePack Implementation for Elixir / msgpack.org[Elixir]||
 |61|[@melpon](https://github.com/melpon)/[**memoize**](https://github.com/melpon/memoize)|A method caching macro for elixir using CAS on ETS.|[:arrow_upper_right:](https://hex.pm/packages/memoize)|
+|60|[@chvanikoff](https://github.com/chvanikoff)/[**reph**](https://github.com/chvanikoff/reph)|React/Redux + Phoenix (Elixir)||
 |56|[@parroty](https://github.com/parroty)/[**oauth2ex**](https://github.com/parroty/oauth2ex)|An OAuth 2.0 client library for elixir.||
 |54|[@mururu](https://github.com/mururu)/[**mongoex**](https://github.com/mururu/mongoex)|Elixir ODM-like module for MongoDB||
 |49|[@shufo](https://github.com/shufo)/[**log_viewer**](https://github.com/shufo/log_viewer)|An Web based Log Viewer for Elixir and Phoenix|[:arrow_upper_right:](https://hex.pm/packages/log_viewer)|
@@ -62,8 +62,8 @@
 |14|[@yujikawa](https://github.com/yujikawa)/[**numexy**](https://github.com/yujikawa/numexy)|numexy is a library like Python's numpy. It is a library for matrix calculation.||
 |13|[@deadcheat](https://github.com/deadcheat)/[**erande**](https://github.com/deadcheat/erande)|||
 |13|[@yoavlt](https://github.com/yoavlt)/[**one_signal**](https://github.com/yoavlt/one_signal)|Elixir wrapper of OneSignal||
+|12|[@lyokato](https://github.com/lyokato)/[**redlock**](https://github.com/lyokato/redlock)|Elixir Library: Redis Distributed Lock implementation||
 |12|[@ma2gedev](https://github.com/ma2gedev)/[**mix-star**](https://github.com/ma2gedev/mix-star)|Elixir Mix task to starring GitHub repository with `mix deps.get`ting dependent library||
-|11|[@lyokato](https://github.com/lyokato)/[**redlock**](https://github.com/lyokato/redlock)|Elixir Library: Redis Distributed Lock implementation||
 |11|[@ma2gedev](https://github.com/ma2gedev)/[**luhn_ex**](https://github.com/ma2gedev/luhn_ex)|Luhn algorithm in Elixir||
 |10|[@ma2gedev](https://github.com/ma2gedev)/[**ltsvex**](https://github.com/ma2gedev/ltsvex)|LTSV parser implementation in Elixir||
 |10|[@xeejp](https://github.com/xeejp)/[**xee**](https://github.com/xeejp/xee)|A server framework for experimental economics|[:arrow_upper_right:](https://xee.jp)|
@@ -126,6 +126,7 @@
 |4|[@niku](https://github.com/niku)/[**eloido**](https://github.com/niku/eloido)|Egoido implementation by Elixir||
 |4|[@parroty](https://github.com/parroty)/[**dynamo_angular**](https://github.com/parroty/dynamo_angular)|Sample AngularJS scaffolding with dynamo and angular-resource backend.||
 |4|[@rramsden](https://github.com/rramsden)/[**mogrify**](https://github.com/rramsden/mogrify)|An Elixir library wrapper around ImageMagick's mogrify utility||
+|4|[@ryo33](https://github.com/ryo33)/[**fwatch-ex**](https://github.com/ryo33/fwatch-ex)|A file watcher for Elixir language||
 |4|[@ryo33](https://github.com/ryo33)/[**onetime-elixir**](https://github.com/ryo33/onetime-elixir)|An onetime key-value store for Elixir||
 |4|[@shufo](https://github.com/shufo)/[**payjp-elixir**](https://github.com/shufo/payjp-elixir)|An Elixir library for working with PAY.JP.|[:arrow_upper_right:](https://hex.pm/packages/payjp)|
 |4|[@tuvistavie](https://github.com/tuvistavie)/[**ecto-secure-password**](https://github.com/tuvistavie/ecto-secure-password)|has_secure_password for Ecto models|[:arrow_upper_right:](https://hex.pm/packages/secure_password)|
@@ -150,7 +151,6 @@
 |3|[@otiai10](https://github.com/otiai10)/[**good**](https://github.com/otiai10/good)|Early Return for Elixir||
 |3|[@parroty](https://github.com/parroty)/[**big_query**](https://github.com/parroty/big_query)|[WIP] Elixir + Google BigQuery Sample||
 |3|[@ryo33](https://github.com/ryo33)/[**Zpids**](https://github.com/ryo33/Zpids)|||
-|3|[@ryo33](https://github.com/ryo33)/[**fwatch-ex**](https://github.com/ryo33/fwatch-ex)|A file watcher for Elixir language||
 |3|[@seizans](https://github.com/seizans)/[**phxsand**](https://github.com/seizans/phxsand)|||
 |3|[@seizans](https://github.com/seizans)/[**sand**](https://github.com/seizans/sand)|||
 |3|[@umurgdk](https://github.com/umurgdk)/[**elixir_resources**](https://github.com/umurgdk/elixir_resources)|Resource aggregator for Elixir programming language||

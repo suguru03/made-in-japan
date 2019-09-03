@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3884|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
-|644|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|3890|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
+|643|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|86|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |86|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
-|84|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
-|77|[@0918nobita](https://github.com/0918nobita)/[**psyche**](https://github.com/0918nobita/psyche)|A WASM friendly lightweight programming language implemented in OCaml|[:arrow_upper_right:](https://opam.ocaml.org/packages/psyche/)|
-|69|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
+|81|[@0918nobita](https://github.com/0918nobita)/[**psyche**](https://github.com/0918nobita/psyche)|A WASM friendly lightweight programming language implemented in OCaml|[:arrow_upper_right:](https://opam.ocaml.org/packages/psyche/)|
+|71|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
 |56|[@taikomatsu](https://github.com/taikomatsu)/[**SeExprMeshMaya**](https://github.com/taikomatsu/SeExprMeshMaya)|Polygon deformer node plugin for Maya that using Disney's SeExpr||
 |34|[@mzp](https://github.com/mzp)/[**ocaml-hoogle**](https://github.com/mzp/ocaml-hoogle)|OCaml API search allows you to search many standard O'Caml libraries by either function name, or by approximate type signature. It is similar to Hoogle, which is a Haskell API search engine.
 
@@ -53,13 +53,13 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |7|[@komamitsu](https://github.com/komamitsu)/[**OCatra**](https://github.com/komamitsu/OCatra)|Simple web server library for OCaml like Sinatra||
 |6|[@AltGr](https://github.com/AltGr)/[**Contre-jour**](https://github.com/AltGr/Contre-jour)|A toy image gallery application for OPA||
 |6|[@AltGr](https://github.com/AltGr)/[**opam-lock**](https://github.com/AltGr/opam-lock)|Create locked opam files to share build environments across hosts||
+|6|[@UnixJunkie](https://github.com/UnixJunkie)/[**dokeysto**](https://github.com/UnixJunkie/dokeysto)|The dumb OCaml key-value store||
 |6|[@kuy](https://github.com/kuy)/[**nada.re**](https://github.com/kuy/nada.re)|Visualization of Abelian sandpile model written in Reason + Obelisk.js.||
 |6|[@masashi-y](https://github.com/masashi-y)/[**abduction_kbc**](https://github.com/masashi-y/abduction_kbc)|||
 |6|[@master-q](https://github.com/master-q)/[**readPurelyFunctionalDataStructures**](https://github.com/master-q/readPurelyFunctionalDataStructures)|||
 |6|[@susisu](https://github.com/susisu)/[**est-ocaml**](https://github.com/susisu/est-ocaml)|A simple command line tool for statistical calculation||
 |5|[@AltGr](https://github.com/AltGr)/[**ocp-sha**](https://github.com/AltGr/ocp-sha)|Pure OCaml implementation of SHA256 and SHA512||
 |5|[@UnixJunkie](https://github.com/UnixJunkie)/[**consent**](https://github.com/UnixJunkie/consent)|ligand-based virtual screening with consensus queries||
-|5|[@UnixJunkie](https://github.com/UnixJunkie)/[**dokeysto**](https://github.com/UnixJunkie/dokeysto)|The dumb OCaml key-value store||
 |5|[@UnixJunkie](https://github.com/UnixJunkie)/[**get_line**](https://github.com/UnixJunkie/get_line)|get line at index i from file f (a missing unix command); will crash early and loud if any problem on the contrary to awk||
 |5|[@UnixJunkie](https://github.com/UnixJunkie)/[**opmer**](https://github.com/UnixJunkie/opmer)|OPAM repository tree fingerprinter and differ using a Merkle tree||
 |5|[@kaznum](https://github.com/kaznum)/[**programming_in_ocaml_exercise**](https://github.com/kaznum/programming_in_ocaml_exercise)|Practical Exercise of the book 'Programming in OCaml'||

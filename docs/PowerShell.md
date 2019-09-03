@@ -2,7 +2,7 @@
 |---|---|---|---|
 |117|[@guitarrapc](https://github.com/guitarrapc)/[**PowerShellUtil**](https://github.com/guitarrapc/PowerShellUtil)|PowerShell Common Utilities||
 |53|[@guitarrapc](https://github.com/guitarrapc)/[**valentia**](https://github.com/guitarrapc/valentia)|PowerShell Remote deployment library for Windows Servers|[:arrow_upper_right:](http://guitarrapc.github.io/valentia/)|
-|37|[@guitarrapc](https://github.com/guitarrapc)/[**GraniResource**](https://github.com/guitarrapc/GraniResource)|PowerShell Desired State Configuration Resources for real production workload.|[:arrow_upper_right:](https://www.powershellgallery.com/packages/GraniResource)|
+|38|[@guitarrapc](https://github.com/guitarrapc)/[**GraniResource**](https://github.com/guitarrapc/GraniResource)|PowerShell Desired State Configuration Resources for real production workload.|[:arrow_upper_right:](https://www.powershellgallery.com/packages/GraniResource)|
 |11|[@NicolasDorier](https://github.com/NicolasDorier)/[**lightning-charge-docker**](https://github.com/NicolasDorier/lightning-charge-docker)|Docker-Compose for production (Let's encrypt + NGINX + lightning charged + C-Lightning + Bitcoin Core)||
 |11|[@guitarrapc](https://github.com/guitarrapc)/[**WindowsCredentialVault**](https://github.com/guitarrapc/WindowsCredentialVault)|Windows 8 Store App style Windows Credential Management Module for Windows PowerShell||
 |9|[@Itsukara](https://github.com/Itsukara)/[**WpfZoo**](https://github.com/Itsukara/WpfZoo)|Display almost all WPF controls by PowerShell for demonstration of WPF controls||

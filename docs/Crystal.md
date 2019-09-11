@@ -13,10 +13,10 @@
 |17|[@MakeNowJust](https://github.com/MakeNowJust)/[**noir**](https://github.com/MakeNowJust/noir)|NOIR - Syntax Highlight Library for Crystal||
 |16|[@ne-sachirou](https://github.com/ne-sachirou)/[**git-cleanup-branch**](https://github.com/ne-sachirou/git-cleanup-branch)|[Deprecated] Cleanup Git merged branches interactively at both local and remote.||
 |14|[@kubo39](https://github.com/kubo39)/[**syscall.cr**](https://github.com/kubo39/syscall.cr)|syscall interface for Crystal||
+|11|[@5t111111](https://github.com/5t111111)/[**ruby_extension_with_crystal**](https://github.com/5t111111/ruby_extension_with_crystal)|Write Ruby extensions with Crystal||
 |11|[@MakeNowJust](https://github.com/MakeNowJust)/[**tap**](https://github.com/MakeNowJust/tap)|TAP (Test Anything Protocol) test framework for Crystal|[:arrow_upper_right:](https://testanything.org/)|
 |11|[@S-YOU](https://github.com/S-YOU)/[**dpdk.cr**](https://github.com/S-YOU/dpdk.cr)|Crystal bindings to Intel's DPDK at wire rate packet processing.||
 |11|[@umurgdk](https://github.com/umurgdk)/[**flight-crusader**](https://github.com/umurgdk/flight-crusader)|POC top down flight game in crystal lang!||
-|10|[@5t111111](https://github.com/5t111111)/[**ruby_extension_with_crystal**](https://github.com/5t111111/ruby_extension_with_crystal)|Write Ruby extensions with Crystal||
 |10|[@rhysd](https://github.com/rhysd)/[**ezoe**](https://github.com/rhysd/ezoe)|`ezoe` command written in Crystal||
 |8|[@MakeNowJust](https://github.com/MakeNowJust)/[**8cc.cr**](https://github.com/MakeNowJust/8cc.cr)|compile-time C compiler implemented as Crystal macros||
 |8|[@adlerhsieh](https://github.com/adlerhsieh)/[**lake**](https://github.com/adlerhsieh/lake)|Recursive tasks managed easily||

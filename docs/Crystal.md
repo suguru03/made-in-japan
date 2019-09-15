@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|91|[@yahoojapan](https://github.com/yahoojapan)/[**hosted-danger**](https://github.com/yahoojapan/hosted-danger)|:zap: Danger as a Service :zap:||
+|92|[@yahoojapan](https://github.com/yahoojapan)/[**hosted-danger**](https://github.com/yahoojapan/hosted-danger)|:zap: Danger as a Service :zap:||
 |53|[@MakeNowJust](https://github.com/MakeNowJust)/[**crustache**](https://github.com/MakeNowJust/crustache)|{{Mustache}} for Crystal :gem:|[:arrow_upper_right:](https://mustache.github.io)|
 |36|[@rosylilly](https://github.com/rosylilly)/[**power_assert.cr**](https://github.com/rosylilly/power_assert.cr)|PowerAssert provides the more powerful assertion to you.|[:arrow_upper_right:](https://github.com/rosylilly/power_assert.cr)|
 |32|[@MakeNowJust](https://github.com/MakeNowJust)/[**crake**](https://github.com/MakeNowJust/crake)|CRystal mAKE library||

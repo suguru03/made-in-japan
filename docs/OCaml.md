@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3892|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
-|645|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|3894|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
+|644|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
 |87|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |86|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |82|[@0918nobita](https://github.com/0918nobita)/[**psyche**](https://github.com/0918nobita/psyche)|A WASM friendly lightweight programming language implemented in OCaml|[:arrow_upper_right:](https://opam.ocaml.org/packages/psyche/)|
@@ -10,15 +10,15 @@
 |34|[@mzp](https://github.com/mzp)/[**ocaml-hoogle**](https://github.com/mzp/ocaml-hoogle)|OCaml API search allows you to search many standard O'Caml libraries by either function name, or by approximate type signature. It is similar to Hoogle, which is a Haskell API search engine.
 
 You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)|
+|33|[@coord-e](https://github.com/coord-e)/[**mlml**](https://github.com/coord-e/mlml)|self-hosted compiler for a subset of OCaml||
 |33|[@ksuenaga](https://github.com/ksuenaga)/[**IoPLMaterials**](https://github.com/ksuenaga/IoPLMaterials)|Materials for the class "Implementation of Programming Languages" in Kyoto University.||
-|32|[@coord-e](https://github.com/coord-e)/[**mlml**](https://github.com/coord-e/mlml)|self-hosted compiler for a subset of OCaml||
 |27|[@keigoi](https://github.com/keigoi)/[**session-ocaml**](https://github.com/keigoi/session-ocaml)|An implementation of binary session types in OCaml||
 |27|[@kuy](https://github.com/kuy)/[**reason-of-life**](https://github.com/kuy/reason-of-life)|Conway's Lifegame in Reason + reason-react with webpack + bs-loader.||
 |24|[@UnixJunkie](https://github.com/UnixJunkie)/[**dolog**](https://github.com/UnixJunkie/dolog)|A dumb OCaml logger||
 |24|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
 |23|[@mzp](https://github.com/mzp)/[**bs-lwt**](https://github.com/mzp/bs-lwt)|BuckleScript bindings for Lwt||
 |22|[@BYVoid](https://github.com/BYVoid)/[**Dlist**](https://github.com/BYVoid/Dlist)|Difference list library for OCaml||
-|21|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|parallelize anything||
+|21|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|Parallelize _anything_ //||
 |19|[@kogai](https://github.com/kogai)/[**typed_i18n**](https://github.com/kogai/typed_i18n)|Generate strictly typed definition of TFunction from own i18next-locale file||
 |17|[@BYVoid](https://github.com/BYVoid)/[**OCamlProblems**](https://github.com/BYVoid/OCamlProblems)|Solutions of Problems in OCaml||
 |17|[@UnixJunkie](https://github.com/UnixJunkie)/[**daft**](https://github.com/UnixJunkie/daft)|DAFT Allows File Transfers||
@@ -75,6 +75,8 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |4|[@0zat](https://github.com/0zat)/[**gen-bs**](https://github.com/0zat/gen-bs)|generate bucklescript from javascript type specifications||
 |4|[@0zat](https://github.com/0zat)/[**webidl**](https://github.com/0zat/webidl)|Web IDL parser of OCaml||
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**fragger**](https://github.com/UnixJunkie/fragger)|A protein fragments picker||
+|4|[@UnixJunkie](https://github.com/UnixJunkie)/[**hts_shrink**](https://github.com/UnixJunkie/hts_shrink)|Reference implementation of the Distance-Based Boolean Applicability Domain for HTS datasets||
+|4|[@UnixJunkie](https://github.com/UnixJunkie)/[**linwrap**](https://github.com/UnixJunkie/linwrap)|Wrapper on top of liblinear-tools||
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**lz4-chans**](https://github.com/UnixJunkie/lz4-chans)|open/close binary channels with LZ4 compression in the background||
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**okdt**](https://github.com/UnixJunkie/okdt)|OCaml implementation of a kd-tree||
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**orsvm-e1071**](https://github.com/UnixJunkie/orsvm-e1071)|Access the Linear or RBF kernel SVM from OCaml using the R e1071 or svmpath packages||
@@ -91,7 +93,6 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |4|[@tyage](https://github.com/tyage)/[**experiment-4-ocaml**](https://github.com/tyage/experiment-4-ocaml)|計算機科学実験及演習4 プログラム検証||
 |4|[@yutopp](https://github.com/yutopp)/[**sounanda**](https://github.com/yutopp/sounanda)|||
 |3|[@AltGr](https://github.com/AltGr)/[**ocp-indent-tests**](https://github.com/AltGr/ocp-indent-tests)|automatic testing of ocp-indent against real-world code||
-|3|[@UnixJunkie](https://github.com/UnixJunkie)/[**hts_shrink**](https://github.com/UnixJunkie/hts_shrink)|Reference implementation of the Distance-Based Boolean Applicability Domain for HTS datasets||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**orc4**](https://github.com/UnixJunkie/orc4)|RC4 implementation in OCaml||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**vector3**](https://github.com/UnixJunkie/vector3)|module for 3D vectors (implemented as a record of x, y and z floats)||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**opml**](https://github.com/alphaKAI/opml)|A proof assistant for modal logic in OCaml (ported from: https://github.com/sndtkrh/hpml)||

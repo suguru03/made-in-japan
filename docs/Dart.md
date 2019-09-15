@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|434|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
-|198|[@tortuvshin](https://github.com/tortuvshin)/[**open-source-flutter-apps**](https://github.com/tortuvshin/open-source-flutter-apps)|:iphone: List of open source Flutter applications :octocat:||
+|436|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
+|202|[@tortuvshin](https://github.com/tortuvshin)/[**open-source-flutter-apps**](https://github.com/tortuvshin/open-source-flutter-apps)|:iphone: List of open source Flutter applications :octocat:||
 |89|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(1)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dev/packages/bloc_provider)|
-|86|[@skkallayath](https://github.com/skkallayath)/[**photofilters**](https://github.com/skkallayath/photofilters)|photofilters library for flutter||
+|88|[@skkallayath](https://github.com/skkallayath)/[**photofilters**](https://github.com/skkallayath/photofilters)|photofilters library for flutter||
 |66|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
 |56|[@nukata](https://github.com/nukata)/[**lisp-in-dart**](https://github.com/nukata/lisp-in-dart)|A fast Lisp interpreter in Dart||
-|53|[@droibit](https://github.com/droibit)/[**flutter_custom_tabs**](https://github.com/droibit/flutter_custom_tabs)|A Flutter plugin to use Chrome Custom Tabs.|[:arrow_upper_right:](https://pub.dartlang.org/packages/flutter_custom_tabs)|
+|54|[@droibit](https://github.com/droibit)/[**flutter_custom_tabs**](https://github.com/droibit/flutter_custom_tabs)|A Flutter plugin to use Chrome Custom Tabs.|[:arrow_upper_right:](https://pub.dartlang.org/packages/flutter_custom_tabs)|
 |25|[@sh4869](https://github.com/sh4869)/[**twitter.dart**](https://github.com/sh4869/twitter.dart)|Twitter API Library in Dart|[:arrow_upper_right:](https://pub.dartlang.org/packages/twitter)|
 |23|[@mono0926](https://github.com/mono0926)/[**widget-quiz**](https://github.com/mono0926/widget-quiz)|Flutter Widget Quiz, made for Flutter Create (Source code size is limited to 5KB)|[:arrow_upper_right:](https://medium.com/flutter-jp/flutter-create-a85a29fdb918)|
 |17|[@kikuchy](https://github.com/kikuchy)/[**crashlytics**](https://github.com/kikuchy/crashlytics)|Flutter plugin for (Fabric) Crashlytics on Android and iOS. (Unofficial)||
@@ -26,6 +26,7 @@
 |9|[@deadcheat](https://github.com/deadcheat)/[**flutter_square_calendar**](https://github.com/deadcheat/flutter_square_calendar)|A widget plugin for showing calendar.||
 |9|[@mono0926](https://github.com/mono0926)/[**instagram-flutter**](https://github.com/mono0926/instagram-flutter)|||
 |9|[@moznion](https://github.com/moznion)/[**dart-grec-minimal**](https://github.com/moznion/dart-grec-minimal)|A minimal parser/generator of Google Calendar recurrence rule for dart|[:arrow_upper_right:](https://pub.dartlang.org/packages/grec_minimal)|
+|9|[@sakebook](https://github.com/sakebook)/[**flutter_native_ads**](https://github.com/sakebook/flutter_native_ads)|Show AdMob Native Ads use PlatformView|[:arrow_upper_right:](https://pub.dev/packages/native_ads)|
 |9|[@uehaj](https://github.com/uehaj)/[**dart-saga**](https://github.com/uehaj/dart-saga)|[WIP] port of redux-saga to Dart||
 |8|[@CORDEA](https://github.com/CORDEA)/[**flutter_backdrop_steps**](https://github.com/CORDEA/flutter_backdrop_steps)||[:arrow_upper_right:](https://medium.com/@CORDEA/implement-backdrop-with-flutter-73b4c61b1357)|
 |8|[@ntaoo](https://github.com/ntaoo)/[**ng2_g_signin**](https://github.com/ntaoo/ng2_g_signin)|Google sign-in component for Angular2 Dart||
@@ -60,7 +61,6 @@
 |4|[@kyorohiro](https://github.com/kyorohiro)/[**doc_2dgame**](https://github.com/kyorohiro/doc_2dgame)|deprecated: https://www.gitbook.com/book/kyorohiro/hello_skyengine/details|[:arrow_upper_right:](https://kyorohiro.github.io/umiuni2d/web/index.html)|
 |4|[@michilu](https://github.com/michilu)/[**dart-cca-example**](https://github.com/michilu/dart-cca-example)|An example of Cordova Chrome Apps written in AngularDart.||
 |4|[@ntaoo](https://github.com/ntaoo)/[**hacker_news_light**](https://github.com/ntaoo/hacker_news_light)|Made with Flutter, for the hands-on. Moved to https://github.com/dartlang-users-jp/hacker_news_light||
-|4|[@sakebook](https://github.com/sakebook)/[**flutter_native_ads**](https://github.com/sakebook/flutter_native_ads)|Show AdMob Native Ads use PlatformView||
 |4|[@sayonetech](https://github.com/sayonetech)/[**flutter_circular_layout**](https://github.com/sayonetech/flutter_circular_layout)|||
 |4|[@yshrsmz](https://github.com/yshrsmz)/[**bip39-dart**](https://github.com/yshrsmz/bip39-dart)|BIP39 mnemonic code implementation in Dart lang||
 |3|[@HeavenOSK](https://github.com/HeavenOSK)/[**flutter_architectures**](https://github.com/HeavenOSK/flutter_architectures)|||
@@ -78,6 +78,8 @@
 |3|[@mono0926](https://github.com/mono0926)/[**disposable_provider**](https://github.com/mono0926/disposable_provider)|DisposableProvider is thin wrapper of Provider and it calls dispose automatically.|[:arrow_upper_right:](https://pub.dev/packages/disposable_provider)|
 |3|[@mono0926](https://github.com/mono0926)/[**emoji-scavenger-hunt**](https://github.com/mono0926/emoji-scavenger-hunt)|||
 |3|[@mono0926](https://github.com/mono0926)/[**flutter-codelabs**](https://github.com/mono0926/flutter-codelabs)|||
+|3|[@mono0926](https://github.com/mono0926)/[**flutter_firestore_ref**](https://github.com/mono0926/flutter_firestore_ref)|Support using src safely by helper classes.|[:arrow_upper_right:](https://pub.dev/packages/firestore_ref)|
+|3|[@mono0926](https://github.com/mono0926)/[**inherited_widget_explanation**](https://github.com/mono0926/inherited_widget_explanation)|||
 |3|[@mono0926](https://github.com/mono0926)/[**vsync_provider**](https://github.com/mono0926/vsync_provider)|VsyncProvider provides vsync for AnimationController. This works with provider package.|[:arrow_upper_right:](https://pub.dev/packages/vsync_provider)|
 |3|[@ntaoo](https://github.com/ntaoo)/[**game_of_life.dart**](https://github.com/ntaoo/game_of_life.dart)|implementation of http://en.wikipedia.org/wiki/Conway's_Game_of_Life||
 |3|[@zaq1tomo](https://github.com/zaq1tomo)/[**my-first-flutter**](https://github.com/zaq1tomo/my-first-flutter)|My First Flutter||

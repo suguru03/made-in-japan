@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|15771|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|15824|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
 |2003|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
-|437|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
-|349|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
-|240|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
-|186|[@stanaka](https://github.com/stanaka)/[**lightroom-google-photo-plugin**](https://github.com/stanaka/lightroom-google-photo-plugin)|||
+|439|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
+|350|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
+|239|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
+|187|[@stanaka](https://github.com/stanaka)/[**lightroom-google-photo-plugin**](https://github.com/stanaka/lightroom-google-photo-plugin)|||
 |135|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |95|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
 |66|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
 |57|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-driver-detection**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
-|52|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
+|53|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
 |46|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb**](https://github.com/nagadomi/kaggle-ndsb)|Code for National Data Science Bowl. 10th place.||
 |44|[@umegaya](https://github.com/umegaya)/[**ffiex**](https://github.com/umegaya/ffiex)|extend luajit ffi module to give more affinity to C codes||
 |42|[@hnakamur](https://github.com/hnakamur)/[**luajit-examples**](https://github.com/hnakamur/luajit-examples)|my example codes for LuaJIT||
@@ -55,6 +55,7 @@
 |6|[@cxxxr](https://github.com/cxxxr)/[**cl-lua**](https://github.com/cxxxr/cl-lua)|||
 |6|[@mah0x211](https://github.com/mah0x211)/[**lua-coevent**](https://github.com/mah0x211/lua-coevent)|coroutine based kqueue/epoll module||
 |6|[@takahashim](https://github.com/takahashim)/[**review-pandoc**](https://github.com/takahashim/review-pandoc)|Re:VIEW Writer for Pandoc||
+|5|[@hnakamur](https://github.com/hnakamur)/[**nginx-lua-saml-service-provider**](https://github.com/hnakamur/nginx-lua-saml-service-provider)|||
 |5|[@kitao](https://github.com/kitao)/[**pico8-libs**](https://github.com/kitao/pico8-libs)|Lua utility libraries for PICO-8||
 |5|[@mah0x211](https://github.com/mah0x211)/[**lua-act**](https://github.com/mah0x211/lua-act)|coroutine based synchronously non-blocking operations module||
 |5|[@mah0x211](https://github.com/mah0x211)/[**lua-regex**](https://github.com/mah0x211/lua-regex)|regular expression for lua||
@@ -68,7 +69,6 @@
 |4|[@MasWag](https://github.com/MasWag)/[**pandoc-satysfi-template**](https://github.com/MasWag/pandoc-satysfi-template)|A pandoc custom writer and template for SATySFi||
 |4|[@ahq1993](https://github.com/ahq1993)/[**Perceivable-Human-Robot-Interaction-using-Neural-Attention-Q-Networks**](https://github.com/ahq1993/Perceivable-Human-Robot-Interaction-using-Neural-Attention-Q-Networks)|Multimodal Deep Attention Recurrent Q-Network for perceivable social human-robot interaction. ||
 |4|[@clear-code](https://github.com/clear-code)/[**lua-web-driver**](https://github.com/clear-code/lua-web-driver)|Mirror repository|[:arrow_upper_right:](https://gitlab.com/clear-code/lua-web-driver)|
-|4|[@hnakamur](https://github.com/hnakamur)/[**nginx-lua-saml-service-provider**](https://github.com/hnakamur/nginx-lua-saml-service-provider)|||
 |4|[@kdrl](https://github.com/kdrl)/[**Wear-This-Today**](https://github.com/kdrl/Wear-This-Today)|Deep learningでファッションコーディネーションを！||
 |4|[@kengonakajima](https://github.com/kengonakajima)/[**lua-parser**](https://github.com/kengonakajima/lua-parser)|Parse and convert Lua script into Sexp with only Ruby and Racc||
 |4|[@mah0x211](https://github.com/mah0x211)/[**lua-resty-entity**](https://github.com/mah0x211/lua-resty-entity)|request entity handling module for openresty.||

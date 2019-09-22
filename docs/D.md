@@ -14,10 +14,10 @@
 |11|[@alphaKAI](https://github.com/alphaKAI)/[**ChickenClisp**](https://github.com/alphaKAI/ChickenClisp)|ChickenClisp is a Scheme like language and interpreter. An Implementation of Orelang in D||
 |10|[@repeatedly](https://github.com/repeatedly)/[**d-volkswagen**](https://github.com/repeatedly/d-volkswagen)|Volkswagen detects when your tests are being run in a CI server, and makes them pass.||
 |10|[@tanitta](https://github.com/tanitta)/[**easing**](https://github.com/tanitta/easing)|easing is a library that add flavor to motion in D programming language.||
+|9|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**snck**](https://github.com/ShigekiKarita/snck)|tqdm-like progress bar for D||
 |9|[@alphaKAI](https://github.com/alphaKAI)/[**dadt**](https://github.com/alphaKAI/dadt)|[WIP] Algebraic Data Type for D,  by compile time parsing with pegged and code generating||
 |9|[@kubo39](https://github.com/kubo39)/[**syscall-d**](https://github.com/kubo39/syscall-d)|syscall interface for D.|[:arrow_upper_right:](http://code.dlang.org/packages/syscall-d)|
 |9|[@repeatedly](https://github.com/repeatedly)/[**reed**](https://github.com/repeatedly/reed)|Arango Driver for D||
-|8|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**snck**](https://github.com/ShigekiKarita/snck)|tqdm-like progress bar for D||
 |8|[@namachan10777](https://github.com/namachan10777)/[**dmatch**](https://github.com/namachan10777/dmatch)|Pattern match for D Language.||
 |8|[@repeatedly](https://github.com/repeatedly)/[**Mongo-D-Driver**](https://github.com/repeatedly/Mongo-D-Driver)|Mongo Driver for D|[:arrow_upper_right:](http://www.mongodb.org/)|
 |7|[@alphaKAI](https://github.com/alphaKAI)/[**doco**](https://github.com/alphaKAI/doco)|Yet another fuzzy text selector.||
@@ -35,6 +35,7 @@
 |5|[@kazoo04](https://github.com/kazoo04)/[**Redplanet**](https://github.com/kazoo04/Redplanet)|Twitter client written in the D programming language.||
 |5|[@kazoo04](https://github.com/kazoo04)/[**libarow-d**](https://github.com/kazoo04/libarow-d)|A library for AROW linear classification||
 |5|[@kazoo04](https://github.com/kazoo04)/[**progress-d**](https://github.com/kazoo04/progress-d)|||
+|5|[@koji-kojiro](https://github.com/koji-kojiro)/[**matplotlib-d**](https://github.com/koji-kojiro/matplotlib-d)|||
 |5|[@kubo39](https://github.com/kubo39)/[**rikka**](https://github.com/kubo39/rikka)|anothor document database written in D||
 |4|[@MakeNowJust](https://github.com/MakeNowJust)/[**AnalF_ck**](https://github.com/MakeNowJust/AnalF_ck)|淫夢プログラミング言語||
 |4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-graphviz**](https://github.com/ShigekiKarita/d-graphviz)|Graphviz utility for D||
@@ -42,7 +43,6 @@
 |4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**mir-pybind**](https://github.com/ShigekiKarita/mir-pybind)|python binding generator for D||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dpmatch**](https://github.com/alphaKAI/dpmatch)|[WIP] Pattern Matching for D, by compile time parsing with pegged and code generating||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**workermanager**](https://github.com/alphaKAI/workermanager)|Multi-thread based asynchronized worker manager||
-|4|[@koji-kojiro](https://github.com/koji-kojiro)/[**matplotlib-d**](https://github.com/koji-kojiro/matplotlib-d)|||
 |4|[@repeatedly](https://github.com/repeatedly)/[**ltsv-d**](https://github.com/repeatedly/ltsv-d)|LTSV implemetation for D||
 |4|[@repeatedly](https://github.com/repeatedly)/[**siphash-d**](https://github.com/repeatedly/siphash-d)|D implementation of SipHash||
 |4|[@repeatedly](https://github.com/repeatedly)/[**zstd-d**](https://github.com/repeatedly/zstd-d)|D binding for Zstandard||

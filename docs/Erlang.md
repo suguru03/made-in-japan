@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1303|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|1305|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
 |226|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
 |186|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |77|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
@@ -21,8 +21,8 @@
 |20|[@shino](https://github.com/shino)/[**kai**](https://github.com/shino/kai)|Kai is a distributed key-value datastore mainly inspired by Amazon's Dynamo. (fork from sourceforge)|[:arrow_upper_right:](https://sourceforge.net/apps/mediawiki/kai/index.php?title=Main_Page)|
 |19|[@voluntas](https://github.com/voluntas)/[**erlang_otp_self_study**](https://github.com/voluntas/erlang_otp_self_study)|||
 |18|[@cooldaemon](https://github.com/cooldaemon)/[**ermlia**](https://github.com/cooldaemon/ermlia)|The ermlia is Erlang implementation of Kademlia. This is easy key-value store.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/)|
-|17|[@jj1bdx](https://github.com/jj1bdx)/[**erltrek**](https://github.com/jj1bdx/erltrek)|An Erlang Star Trek game|[:arrow_upper_right:](http://jj1bdx.github.io/erltrek)|
 |17|[@sile](https://github.com/sile)/[**ppg**](https://github.com/sile/ppg)|Plumtree based Distributed Process Group||
+|16|[@jj1bdx](https://github.com/jj1bdx)/[**erltrek**](https://github.com/jj1bdx/erltrek)|An Erlang Star Trek game|[:arrow_upper_right:](http://jj1bdx.github.io/erltrek)|
 |16|[@mururu](https://github.com/mururu)/[**erlang-mruby**](https://github.com/mururu/erlang-mruby)|[WIP] mruby on erlang||
 |15|[@kuenishi](https://github.com/kuenishi)/[**erezrdfh**](https://github.com/kuenishi/erezrdfh)|MessagePack MessageQueue without AMQP||
 |15|[@leo-project](https://github.com/leo-project)/[**leo_storage**](https://github.com/leo-project/leo_storage)|🚫 DEPRECATED: leo_storage was merged into leo-project/leofs|[:arrow_upper_right:](https://github.com/leo-project/leofs/tree/master/apps/leo_storage)|
@@ -69,13 +69,13 @@
 |6|[@mopp](https://github.com/mopp)/[**tracke**](https://github.com/mopp/tracke)|Trackable error library for Erlang||
 |6|[@sile](https://github.com/sile)/[**erl-creole**](https://github.com/sile/erl-creole)|Converting strings between multibyte encodings and Unicode.||
 |6|[@sile](https://github.com/sile)/[**erl-rtmpmsg**](https://github.com/sile/erl-rtmpmsg)|An Erlang library to encode/decode RTMP message||
+|6|[@sile](https://github.com/sile)/[**otp_passage**](https://github.com/sile/otp_passage)|OpenTracing instrumentation library for the Erlang/OTP standard modules||
 |6|[@sile](https://github.com/sile)/[**rafte**](https://github.com/sile/rafte)|An Erlang implementation of the Raft consensus algorithm||
 |6|[@ytakano](https://github.com/ytakano)/[**ermdia**](https://github.com/ytakano/ermdia)|An implementation of DHT in Erlang.||
 |5|[@jj1bdx](https://github.com/jj1bdx)/[**sd-erlang-public**](https://github.com/jj1bdx/sd-erlang-public)|Software Design誌連載「Erlangで学ぶ並行プログラミング」のサポートページ||
 |5|[@kuenishi](https://github.com/kuenishi)/[**colloxy**](https://github.com/kuenishi/colloxy)|Pluggable http proxy. Write your filter and hooks.||
 |5|[@leo-project](https://github.com/leo-project)/[**leo_cache**](https://github.com/leo-project/leo_cache)|leo_cache is an object caching server into RAM and Disc (SSD)|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |5|[@leo-project](https://github.com/leo-project)/[**leo_commons**](https://github.com/leo-project/leo_commons)|leo_commons include common modules for LeoFS and other Erlang applications.|[:arrow_upper_right:](http://leo-project.net/leofs)|
-|5|[@sile](https://github.com/sile)/[**otp_passage**](https://github.com/sile/otp_passage)|OpenTracing instrumentation library for the Erlang/OTP standard modules||
 |5|[@yoichiro](https://github.com/yoichiro)/[**mixi-staging**](https://github.com/yoichiro/mixi-staging)|||
 |4|[@amutake](https://github.com/amutake)/[**synchronizers**](https://github.com/amutake/synchronizers)|Synchronizer algorithms in Erlang||
 |4|[@cooldaemon](https://github.com/cooldaemon)/[**ssd**](https://github.com/cooldaemon/ssd)|The Simple Storage Daemon. It has a RESTfull I/F.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/20080206/1202265372)|
@@ -93,6 +93,7 @@
 |4|[@sile](https://github.com/sile)/[**gen_cop**](https://github.com/sile/gen_cop)|Generic Connection-Oriented Protocol Behaviour (experimentail)||
 |4|[@sile](https://github.com/sile)/[**jaeger_passage**](https://github.com/sile/jaeger_passage)|Jaeger client library for Erlang||
 |4|[@sile](https://github.com/sile)/[**mqttm**](https://github.com/sile/mqttm)|An Erlang library for encoding/decoding MQTT message ||
+|4|[@sile](https://github.com/sile)/[**passage**](https://github.com/sile/passage)|OpenTracing API for Erlang||
 |4|[@sile](https://github.com/sile)/[**pfun**](https://github.com/sile/pfun)|Erlang Portable Functions||
 |4|[@tkyk](https://github.com/tkyk)/[**erlang-exercise---**](https://github.com/tkyk/erlang-exercise---)|Programing Erlang 8.１１ exercise|[:arrow_upper_right:](http://wp.serpere.info/)|
 |4|[@voluntas](https://github.com/voluntas)/[**kappa**](https://github.com/voluntas/kappa)|kappa ("河童") is erlang hook application.||
@@ -114,9 +115,9 @@
 |3|[@sile](https://github.com/sile)/[**erl-finger-tree**](https://github.com/sile/erl-finger-tree)|An Erlang implementation of Finger Tree||
 |3|[@sile](https://github.com/sile)/[**hashtrie**](https://github.com/sile/hashtrie)|Hash like trie||
 |3|[@sile](https://github.com/sile)/[**mqttc**](https://github.com/sile/mqttc)|An Erlang MQTT Client||
-|3|[@sile](https://github.com/sile)/[**passage**](https://github.com/sile/passage)|OpenTracing API for Erlang||
 |3|[@sile](https://github.com/sile)/[**proxy**](https://github.com/sile/proxy)|An Erlang Process Proxy Library||
 |3|[@sile](https://github.com/sile)/[**recvbench**](https://github.com/sile/recvbench)|gen_tcp:recv banchmark ( Erlang)||
+|3|[@sile](https://github.com/sile)/[**thrift_protocol**](https://github.com/sile/thrift_protocol)|An Erlang implementation of Thrift protocol||
 |3|[@simulacre](https://github.com/simulacre)/[**rabbitmq-events**](https://github.com/simulacre/rabbitmq-events)|RabbitMQ plugin that publishes internal events||
 |3|[@siritori](https://github.com/siritori)/[**recrio**](https://github.com/siritori/recrio)|An open implementation MIPS R3000 in Erlang||
 |3|[@voluntas](https://github.com/voluntas)/[**satori**](https://github.com/voluntas/satori)|satori(覚) is type base binary converter.||

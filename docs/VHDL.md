@@ -12,6 +12,7 @@
 |4|[@osafune](https://github.com/osafune)/[**max10_famimachime**](https://github.com/osafune/max10_famimachime)|||
 |4|[@osafune](https://github.com/osafune)/[**sha256_core**](https://github.com/osafune/sha256_core)|||
 |3|[@ikwzm](https://github.com/ikwzm)/[**Dummy_Plug**](https://github.com/ikwzm/Dummy_Plug)|Dummy Plug is a simple bus functional model library written by VHDL only. ||
+|3|[@ikwzm](https://github.com/ikwzm)/[**FPGA-SoC-Linux-Example-1-DE10-Nano**](https://github.com/ikwzm/FPGA-SoC-Linux-Example-1-DE10-Nano)|FPGA-SoC-Linux example(1) binary and project and test code for DE10-Nano||
 |3|[@ikwzm](https://github.com/ikwzm)/[**Least_Recently_Used_Selector**](https://github.com/ikwzm/Least_Recently_Used_Selector)|Least Recently Used Selector(LRU) ||
 |3|[@ikwzm](https://github.com/ikwzm)/[**PTTY_AXI**](https://github.com/ikwzm/PTTY_AXI)|Pseudo TeleTYpe writer for FPGA.||
 |3|[@ikwzm](https://github.com/ikwzm)/[**PUMP_AXI4**](https://github.com/ikwzm/PUMP_AXI4)|Simple AXI4 Master Read and Write DMA module. Use PipeWork Components.||

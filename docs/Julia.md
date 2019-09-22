@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|152|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
-|73|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
+|154|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
+|75|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
 |42|[@vchuravy](https://github.com/vchuravy)/[**GPUifyLoops.jl**](https://github.com/vchuravy/GPUifyLoops.jl)|||
 |41|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
+|33|[@bicycle1885](https://github.com/bicycle1885)/[**TranscodingStreams.jl**](https://github.com/bicycle1885/TranscodingStreams.jl)|Simple, consistent interfaces for any codec.||
 |33|[@r9y9](https://github.com/r9y9)/[**VoiceConversion.jl**](https://github.com/r9y9/VoiceConversion.jl)|[Deprecated] Statistical Voice Conversion in Julia. See the website link for new library|[:arrow_upper_right:](https://github.com/r9y9/nnmnkwii)|
-|32|[@bicycle1885](https://github.com/bicycle1885)/[**TranscodingStreams.jl**](https://github.com/bicycle1885/TranscodingStreams.jl)|Simple, consistent interfaces for any codec.||
 |25|[@bicycle1885](https://github.com/bicycle1885)/[**CellFishing.jl**](https://github.com/bicycle1885/CellFishing.jl)|Fast and scalable cell search tool||
 |23|[@bicycle1885](https://github.com/bicycle1885)/[**RandomForests.jl**](https://github.com/bicycle1885/RandomForests.jl)|Random Forests in Julia||
 |20|[@r9y9](https://github.com/r9y9)/[**WORLD.jl**](https://github.com/r9y9/WORLD.jl)|A lightweight julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system|[:arrow_upper_right:](http://r9y9.github.io/WORLD.jl/latest/)|
@@ -25,11 +25,11 @@
 |6|[@bicycle1885](https://github.com/bicycle1885)/[**ConcurrentCalls.jl**](https://github.com/bicycle1885/ConcurrentCalls.jl)|Call functions concurrently.||
 |6|[@vchuravy](https://github.com/vchuravy)/[**UProbes.jl**](https://github.com/vchuravy/UProbes.jl)|||
 |5|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**KSVD.jl**](https://github.com/IshitaTakeshi/KSVD.jl)|K-SVD in Julia||
+|5|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**SVMLightLoader.jl**](https://github.com/IshitaTakeshi/SVMLightLoader.jl)|Loader of svmlight / liblinear format files||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**Snappy.jl**](https://github.com/bicycle1885/Snappy.jl)|A fast compressor/decompressor||
 |5|[@rikenbit](https://github.com/rikenbit)/[**OnlinePCA.jl**](https://github.com/rikenbit/OnlinePCA.jl)|Online Principal Component Analysis||
 |5|[@vchuravy](https://github.com/vchuravy)/[**IACA.jl**](https://github.com/vchuravy/IACA.jl)|A wrapper for Intel Architecture Code Analyzer for Julia||
 |5|[@vchuravy](https://github.com/vchuravy)/[**IEEEFloat16.jl**](https://github.com/vchuravy/IEEEFloat16.jl)|||
-|4|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**SVMLightLoader.jl**](https://github.com/IshitaTakeshi/SVMLightLoader.jl)|Loader of svmlight / liblinear format files||
 |4|[@bicycle1885](https://github.com/bicycle1885)/[**ANMS.jl**](https://github.com/bicycle1885/ANMS.jl)|Adaptive Nelder-Mead Simplex Optimization||
 |4|[@bicycle1885](https://github.com/bicycle1885)/[**CodecZstd.jl**](https://github.com/bicycle1885/CodecZstd.jl)|A zstd codec for TranscodingStreams.jl.||
 |4|[@bicycle1885](https://github.com/bicycle1885)/[**IntArrays.jl**](https://github.com/bicycle1885/IntArrays.jl)|Packed Integer Arrays||

@@ -24,6 +24,7 @@
 |7|[@kiridaruma](https://github.com/kiridaruma)/[**kisaragi**](https://github.com/kiridaruma/kisaragi)|Realtime Web service framework きさらぎ(kisaragi)||
 |6|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**KanaKanjiConversion**](https://github.com/IshitaTakeshi/KanaKanjiConversion)|Statistical Kana Kanji Conversion||
 |6|[@Pctg-x8](https://github.com/Pctg-x8)/[**nanovg-d**](https://github.com/Pctg-x8/nanovg-d)|NanoVG porting for dlang||
+|6|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-graphviz**](https://github.com/ShigekiKarita/d-graphviz)|Graphviz utility for D||
 |6|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**numir**](https://github.com/ShigekiKarita/numir)|numpy-like API wrappers of mir||
 |6|[@alphaKAI](https://github.com/alphaKAI)/[**unlocker**](https://github.com/alphaKAI/unlocker)|unlock/lock your PC by touching with FeliCa||
 |6|[@karahiyo](https://github.com/karahiyo)/[**btrace**](https://github.com/karahiyo/btrace)|[https://kenai.com/projects/btrace/]'s project.||
@@ -38,7 +39,6 @@
 |5|[@koji-kojiro](https://github.com/koji-kojiro)/[**matplotlib-d**](https://github.com/koji-kojiro/matplotlib-d)|||
 |5|[@kubo39](https://github.com/kubo39)/[**rikka**](https://github.com/kubo39/rikka)|anothor document database written in D||
 |4|[@MakeNowJust](https://github.com/MakeNowJust)/[**AnalF_ck**](https://github.com/MakeNowJust/AnalF_ck)|淫夢プログラミング言語||
-|4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-graphviz**](https://github.com/ShigekiKarita/d-graphviz)|Graphviz utility for D||
 |4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-speech**](https://github.com/ShigekiKarita/d-speech)||[:arrow_upper_right:](https://shigekikarita.github.io/d-speech/dspeech.html)|
 |4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**mir-pybind**](https://github.com/ShigekiKarita/mir-pybind)|python binding generator for D||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dpmatch**](https://github.com/alphaKAI/dpmatch)|[WIP] Pattern Matching for D, by compile time parsing with pegged and code generating||

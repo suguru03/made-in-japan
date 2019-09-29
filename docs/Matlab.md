@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|523|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
-|338|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
-|171|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
-|105|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
+|525|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
+|340|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
+|174|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
+|106|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
 |72|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
-|40|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**ClassifierToolbox**](https://github.com/hiroyuki-kasai/ClassifierToolbox)|A MATLAB toolbox for classifier: Version 1.0.7||
+|41|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**ClassifierToolbox**](https://github.com/hiroyuki-kasai/ClassifierToolbox)|A MATLAB toolbox for classifier: Version 1.0.7||
 |37|[@ikuwow](https://github.com/ikuwow)/[**PatchMatch**](https://github.com/ikuwow/PatchMatch)|The PatchMatch algorithm on MATLAB||
 |27|[@vanhuyz](https://github.com/vanhuyz)/[**coursera-ml**](https://github.com/vanhuyz/coursera-ml)|For study purpose only||
 |26|[@meshgi](https://github.com/meshgi)/[**RGBD_Particle_Filter_Tracker**](https://github.com/meshgi/RGBD_Particle_Filter_Tracker)|Enhancing Probabilistic Appearance-Based Object Tracking with Depth Information: Multiple Object Tracking under Occlusion||
@@ -39,6 +39,7 @@
 |3|[@LysandreJik](https://github.com/LysandreJik)/[**MatlabCNN**](https://github.com/LysandreJik/MatlabCNN)|Convolutional Neural Network created in Matlab without any toolbox/libraries||
 |3|[@junichiro](https://github.com/junichiro)/[**ml-programming-assignments**](https://github.com/junichiro/ml-programming-assignments)|||
 |3|[@kyamagu](https://github.com/kyamagu)/[**matlab-fscache**](https://github.com/kyamagu/matlab-fscache)|File-system based cache for Matlab.||
+|3|[@kyamagu](https://github.com/kyamagu)/[**matlab-tcpip**](https://github.com/kyamagu/matlab-tcpip)|TCP/IP server and client for Matlab||
 |3|[@mavenzer](https://github.com/mavenzer)/[**Player-Action-Detection**](https://github.com/mavenzer/Player-Action-Detection)|||
 |3|[@s-kajita](https://github.com/s-kajita)/[**BasicGaitGen**](https://github.com/s-kajita/BasicGaitGen)|Matlab code for basic gait generator for students||
 |3|[@utatti](https://github.com/utatti)/[**coursera-machine-learning**](https://github.com/utatti/coursera-machine-learning)|Programming assignments of the Machine Learning course in Coursera|[:arrow_upper_right:](https://github.com/utatti/coursera-machine-learning)|

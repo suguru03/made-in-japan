@@ -8,7 +8,6 @@
 |10|[@r-plus](https://github.com/r-plus)/[**CloakStatus**](https://github.com/r-plus/CloakStatus)|iOS statusbar item manager.||
 |9|[@r-plus](https://github.com/r-plus)/[**PullBulletin**](https://github.com/r-plus/PullBulletin)|Pull to clear all bulletin.||
 |8|[@r-plus](https://github.com/r-plus)/[**SwitcherCleaner**](https://github.com/r-plus/SwitcherCleaner)|Show only running apps with quit button for iOS AppSwitcher.||
-|6|[@coord-e](https://github.com/coord-e)/[**CopyBundleID**](https://github.com/coord-e/CopyBundleID)|This Tweak adds a quick action shortcut to every app that will copy the app's bundle identifier.||
 |6|[@r-plus](https://github.com/r-plus)/[**Diclose**](https://github.com/r-plus/Diclose)|Swipe to close iOS system-wide 'Look Up' modal view.||
 |6|[@r-plus](https://github.com/r-plus)/[**MenuSupport**](https://github.com/r-plus/MenuSupport)|Simply plugin loader for iOS system menu.||
 |5|[@masui](https://github.com/masui)/[**Gear**](https://github.com/masui/Gear)|「超ナビゲーション」 - ダイヤル/ローラー/パドルなどだけで何でもブラウズする||

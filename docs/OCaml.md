@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3898|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
+|3902|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
 |644|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
 |87|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |86|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
@@ -48,11 +48,11 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |8|[@mzp](https://github.com/mzp)/[**scheme-abc**](https://github.com/mzp/scheme-abc)|Scheme compiler for ActionScript3 Bytecode/Flash|[:arrow_upper_right:](http://happyabc.org)|
 |8|[@shrynx](https://github.com/shrynx)/[**reasonz**](https://github.com/shrynx/reasonz)|A Haskell fan fiction for ReasonML||
 |8|[@zick](https://github.com/zick)/[**OCamLisp**](https://github.com/zick/OCamLisp)|Lisp implementation in OCaml||
+|7|[@AltGr](https://github.com/AltGr)/[**opam-lock**](https://github.com/AltGr/opam-lock)|Create locked opam files to share build environments across hosts||
 |7|[@UnixJunkie](https://github.com/UnixJunkie)/[**orxgboost**](https://github.com/UnixJunkie/orxgboost)|Gradient boosting for OCaml using the R xgboost package under the carpet||
 |7|[@adrianmcli](https://github.com/adrianmcli)/[**rehydrate-workshop**](https://github.com/adrianmcli/rehydrate-workshop)|A small collection of basic components built with Rehydrate 💧.||
 |7|[@komamitsu](https://github.com/komamitsu)/[**OCatra**](https://github.com/komamitsu/OCatra)|Simple web server library for OCaml like Sinatra||
 |6|[@AltGr](https://github.com/AltGr)/[**Contre-jour**](https://github.com/AltGr/Contre-jour)|A toy image gallery application for OPA||
-|6|[@AltGr](https://github.com/AltGr)/[**opam-lock**](https://github.com/AltGr/opam-lock)|Create locked opam files to share build environments across hosts||
 |6|[@UnixJunkie](https://github.com/UnixJunkie)/[**dokeysto**](https://github.com/UnixJunkie/dokeysto)|The dumb OCaml key-value store||
 |6|[@kuy](https://github.com/kuy)/[**nada.re**](https://github.com/kuy/nada.re)|Visualization of Abelian sandpile model written in Reason + Obelisk.js.||
 |6|[@masashi-y](https://github.com/masashi-y)/[**abduction_kbc**](https://github.com/masashi-y/abduction_kbc)|||

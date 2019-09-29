@@ -11,7 +11,7 @@
 |27|[@jinjor](https://github.com/jinjor)/[**elm-book**](https://github.com/jinjor/elm-book)|||
 |26|[@shuhei](https://github.com/shuhei)/[**pixelm**](https://github.com/shuhei/pixelm)|A pixel art editor written in Elm|[:arrow_upper_right:](http://shuheikagawa.com/pixelm/)|
 |23|[@3tty0n](https://github.com/3tty0n)/[**elm-online-markdown-editor**](https://github.com/3tty0n/elm-online-markdown-editor)|An online markdown editor written in Elm.|[:arrow_upper_right:](https://3tty0n.github.io/elm-online-markdown-editor/)|
-|15|[@jinjor](https://github.com/jinjor)/[**elm-diff**](https://github.com/jinjor/elm-diff)|A diff implementation for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-diff/latest)|
+|16|[@jinjor](https://github.com/jinjor)/[**elm-diff**](https://github.com/jinjor/elm-diff)|A diff implementation for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-diff/latest)|
 |14|[@jinjor](https://github.com/jinjor)/[**elm-contextmenu**](https://github.com/jinjor/elm-contextmenu)|Flexible context menu for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-contextmenu/latest)|
 |14|[@jinjor](https://github.com/jinjor)/[**elm-inline-hover**](https://github.com/jinjor/elm-inline-hover)|An utility for using :hover by inline style|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-inline-hover/latest)|
 |14|[@jinjor](https://github.com/jinjor)/[**elm-xml-parser**](https://github.com/jinjor/elm-xml-parser)|XML parser for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-xml-parser/latest)|
@@ -32,6 +32,7 @@
 |5|[@arowM](https://github.com/arowM)/[**elm-form-validator**](https://github.com/arowM/elm-form-validator)|This Elm library provides a scalable way to validate a form by combining primitive validators.|[:arrow_upper_right:](http://package.elm-lang.org/packages/arowM/elm-form-validator/latest)|
 |5|[@arowM](https://github.com/arowM)/[**elm-time-machine**](https://github.com/arowM/elm-time-machine)|A module empowering any model to undo/redo in elm architecture way||
 |5|[@dfordivam](https://github.com/dfordivam)/[**elm-mind-map**](https://github.com/dfordivam/elm-mind-map)|Elm based mind mapping||
+|5|[@jinjor](https://github.com/jinjor)/[**elm-break-dom**](https://github.com/jinjor/elm-break-dom)||[:arrow_upper_right:](https://elm-break-dom.netlify.com/)|
 |5|[@jinjor](https://github.com/jinjor)/[**elm-reversi**](https://github.com/jinjor/elm-reversi)|Just for joy|[:arrow_upper_right:](https://jinjor.github.io/elm-reversi/)|
 |5|[@jinjor](https://github.com/jinjor)/[**elm-teapp**](https://github.com/jinjor/elm-teapp)||[:arrow_upper_right:](https://elm-teapp.netlify.com/)|
 |5|[@suzuki-shin](https://github.com/suzuki-shin)/[**elm-chartjs**](https://github.com/suzuki-shin/elm-chartjs)|Elm bindings for Chart.js||

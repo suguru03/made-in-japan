@@ -43,6 +43,7 @@
 |4|[@Saqoosha](https://github.com/Saqoosha)/[**SimpleHTTPServer**](https://github.com/Saqoosha/SimpleHTTPServer)|GUI Frontend for python's SimpleHTTPServer module.|[:arrow_upper_right:](http://saqoo.sh/a)|
 |4|[@glassesfactory](https://github.com/glassesfactory)/[**GFWindowObserver**](https://github.com/glassesfactory/GFWindowObserver)|SWF が本当に非アクティブになったかどうか調べるクラス|[:arrow_upper_right:](http://blog.glasses-factory.net/2010/11/14/GFWindowObserver)|
 |4|[@hadashiA](https://github.com/hadashiA)/[**suzuri-actionscript-client**](https://github.com/hadashiA/suzuri-actionscript-client)|||
+|4|[@ics-creative](https://github.com/ics-creative)/[**project-refuse-deleter-air**](https://github.com/ics-creative/project-refuse-deleter-air)|オープンソースのユーティリティーアプリ「カス削除くん」の開発用リポジトリ||
 |4|[@itoz](https://github.com/itoz)/[**ErrorDialog**](https://github.com/itoz/ErrorDialog)|[as3] Modal Error Dialog クラス|[:arrow_upper_right:](http://blog.romatica.com/2011/04/21/modal_errordialog/)|
 |4|[@itoz](https://github.com/itoz)/[**itoz.jp_RTMFP-serverless-**](https://github.com/itoz/itoz.jp_RTMFP-serverless-)|サーバーレスモードRTMFPライブラリ||
 |4|[@itoz](https://github.com/itoz)/[**itoz_jp_AS3**](https://github.com/itoz/itoz_jp_AS3)|itozAS3Class|[:arrow_upper_right:](http://www.itoz.jp)|
@@ -54,7 +55,6 @@
 |4|[@tkmr](https://github.com/tkmr)/[**as2js**](https://github.com/tkmr/as2js)|Object bridge from ActionScript 3.0 to JavaScript|[:arrow_upper_right:](http://blog.tkmr.org/as2js-test.html?twitter=tkmr&ustream=tkmr)|
 |3|[@MineAP](https://github.com/MineAP)/[**NNDDClient**](https://github.com/MineAP/NNDDClient)|NNDD Clientは、モバイル向けAdobe AIR上で動作する、NNDD Serverのクライアントアプリケーションです。||
 |3|[@axcelwork](https://github.com/axcelwork)/[**AXCELAS3**](https://github.com/axcelwork/AXCELAS3)|ASDoc : http://www.shift-style.org/asdoc|[:arrow_upper_right:](http://shift-style.org/blog)|
-|3|[@ics-creative](https://github.com/ics-creative)/[**project-refuse-deleter-air**](https://github.com/ics-creative/project-refuse-deleter-air)|オープンソースのユーティリティーアプリ「カス削除くん」の開発用リポジトリ||
 |3|[@lyokato](https://github.com/lyokato)/[**as3mixivoice**](https://github.com/lyokato/as3mixivoice)|ActionScript 3.0 mixi voice client library||
 |3|[@mackato](https://github.com/mackato)/[**rialy-flex-framework**](https://github.com/mackato/rialy-flex-framework)|RIALY(from "Building RIAs Easily") is a lightweight design pattern tool kit for Adobe Flex.|[:arrow_upper_right:](http://github.com/mackato/rialy-flex-framework)|
 |3|[@nazo](https://github.com/nazo)/[**as3gamelib**](https://github.com/nazo/as3gamelib)|||

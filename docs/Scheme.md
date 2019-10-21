@@ -5,9 +5,9 @@
 |31|[@kana](https://github.com/kana)/[**sicp**](https://github.com/kana/sicp)|||
 |15|[@mokehehe](https://github.com/mokehehe)/[**backend-to-frontend**](https://github.com/mokehehe/backend-to-frontend)|Compilers: Backend to Frontend and Back to Front Again by Abdulaziz Ghuloum||
 |14|[@higepon](https://github.com/higepon)/[**spon**](https://github.com/higepon/spon)|Scheme Portable Library Network|[:arrow_upper_right:](http://wiki.monaos.org/pukiwiki.php?R6RS%2F%BD%B8%C0%D1%BD%EA%2F%B7%C7%BC%A8%C8%C4)|
+|13|[@cynthia](https://github.com/cynthia)/[**art_of_fighting_neogeo_mvs**](https://github.com/cynthia/art_of_fighting_neogeo_mvs)|Archive of the original source code for Art of Fighting (Neo-Geo and MVS).||
 |13|[@okuoku](https://github.com/okuoku)/[**yuni**](https://github.com/okuoku/yuni)|R6RS/R7RS portability library||
 |13|[@uents](https://github.com/uents)/[**sicp**](https://github.com/uents/sicp)|Reading "Structure and Interpretation of Computer Programs"||
-|12|[@cynthia](https://github.com/cynthia)/[**art_of_fighting_neogeo_mvs**](https://github.com/cynthia/art_of_fighting_neogeo_mvs)|Archive of the original source code for Art of Fighting (Neo-Geo and MVS).||
 |10|[@suharahiromichi](https://github.com/suharahiromichi)/[**doc**](https://github.com/suharahiromichi/doc)|Documents||
 |9|[@matschaffer](https://github.com/matschaffer)/[**eulermonday**](https://github.com/matschaffer/eulermonday)|A shared repo to get peoples submissions for CIM's #eulermonday|[:arrow_upper_right:](http://projecteuler.net)|
 |8|[@okuoku](https://github.com/okuoku)/[**nausicaa**](https://github.com/okuoku/nausicaa)|collection of libraries for R6RS Scheme supporting Ikarus, Larceny, Mosh, Petite Chez, Vicare and Ypsilon|[:arrow_upper_right:](http://marcomaggi.github.com/nausicaa.html)|

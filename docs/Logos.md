@@ -14,6 +14,7 @@
 |4|[@r-plus](https://github.com/r-plus)/[**Fascy**](https://github.com/r-plus/Fascy)|Fast scroll fixity.||
 |3|[@r-plus](https://github.com/r-plus)/[**Dictator**](https://github.com/r-plus/Dictator)|Force dictation language to use in all keyboard type.||
 |3|[@r-plus](https://github.com/r-plus)/[**Mesalation**](https://github.com/r-plus/Mesalation)|Default passcode grace period with TouchID.||
+|3|[@r-plus](https://github.com/r-plus)/[**NewTabSearch**](https://github.com/r-plus/NewTabSearch)|Search behavior from current to new.||
 |3|[@wakinchan](https://github.com/wakinchan)/[**CCNowPlaying**](https://github.com/wakinchan/CCNowPlaying)|Post #NowPlaying from Control Center||
 |3|[@yvt](https://github.com/yvt)/[**BloodyKart**](https://github.com/yvt/BloodyKart)|my very old work (quite incomplete)|[:arrow_upper_right:](http://yvt.jp/pages/games/bloodykart)|
 

@@ -25,6 +25,7 @@
 |5|[@pocketberserker](https://github.com/pocketberserker)/[**PEGStudy**](https://github.com/pocketberserker/PEGStudy)|PEGと構文解析に関するアレコレの勉強会 Vol.1用に作ったもの置き場||
 |5|[@pocketberserker](https://github.com/pocketberserker)/[**free-monad-fsharp**](https://github.com/pocketberserker/free-monad-fsharp)|||
 |4|[@teramonagi](https://github.com/teramonagi)/[**ArithmeticEvaluation**](https://github.com/teramonagi/ArithmeticEvaluation)|Simple Calculator||
+|3|[@0918nobita](https://github.com/0918nobita)/[**jvm-lang**](https://github.com/0918nobita/jvm-lang)|F# で実装する JVM 言語のコンパイラ||
 |3|[@callmekohei](https://github.com/callmekohei)/[**Neovimfs**](https://github.com/callmekohei/Neovimfs)|Neovimfs is a web app hosted on local Suave server and it provides auto completion list for F# code.||
 |3|[@pocketberserker](https://github.com/pocketberserker)/[**ContMonadStudy**](https://github.com/pocketberserker/ContMonadStudy)|継続モナド勉強用のなんとか||
 |3|[@pocketberserker](https://github.com/pocketberserker)/[**FCure**](https://github.com/pocketberserker/FCure)|||

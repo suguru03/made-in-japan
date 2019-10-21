@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|108|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
-|24|[@kazunori279](https://github.com/kazunori279)/[**CPU32**](https://github.com/kazunori279/CPU32)|Tiny MIPS for Terasic DE0||
+|113|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
+|25|[@kazunori279](https://github.com/kazunori279)/[**CPU32**](https://github.com/kazunori279/CPU32)|Tiny MIPS for Terasic DE0||
 |24|[@osafune](https://github.com/osafune)/[**peridot**](https://github.com/osafune/peridot)|'PERIDOT' - Simple & Compact FPGA board||
-|9|[@stffrdhrn](https://github.com/stffrdhrn)/[**uart**](https://github.com/stffrdhrn/uart)|Verilog uart receiver and transmitter modules for De0 Nano||
+|10|[@stffrdhrn](https://github.com/stffrdhrn)/[**uart**](https://github.com/stffrdhrn/uart)|Verilog uart receiver and transmitter modules for De0 Nano||
 |7|[@mshr-h](https://github.com/mshr-h)/[**motion_estimation_processor_fullsearch**](https://github.com/mshr-h/motion_estimation_processor_fullsearch)|Fullsearch based Motion Estimation Processor written in Verilog-HDL||
 |7|[@mzp](https://github.com/mzp)/[**lambda**](https://github.com/mzp/lambda)|simple typed lambda calculus on Coq|[:arrow_upper_right:](http://d.hatena.ne.jp/mzp/)|
 |6|[@ksksue](https://github.com/ksksue)/[**Android-FPGA-FIFO-Transfer**](https://github.com/ksksue/Android-FPGA-FIFO-Transfer)|Android-FPGA FIFO Transfer||

@@ -1,138 +1,138 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3787|[@neuecc](https://github.com/neuecc)/[**UniRx**](https://github.com/neuecc/UniRx)|Reactive Extensions for Unity||
-|2166|[@neuecc](https://github.com/neuecc)/[**MessagePack-CSharp**](https://github.com/neuecc/MessagePack-CSharp)|Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]||
-|1897|[@shimat](https://github.com/shimat)/[**opencvsharp**](https://github.com/shimat/opencvsharp)|.NET Framework wrapper for OpenCV ||
-|1802|[@neuecc](https://github.com/neuecc)/[**ZeroFormatter**](https://github.com/neuecc/ZeroFormatter)|Infinitely Fast Deserializer for .NET, .NET Core and Unity.||
-|1736|[@keijiro](https://github.com/keijiro)/[**Skinner**](https://github.com/keijiro/Skinner)|Special Effects with Skinned Mesh in Unity||
-|1459|[@mob-sakai](https://github.com/mob-sakai)/[**UIEffect**](https://github.com/mob-sakai/UIEffect)| UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!|[:arrow_upper_right:](https://github.com/mob-sakai/UIEffect)|
-|1430|[@neuecc](https://github.com/neuecc)/[**Utf8Json**](https://github.com/neuecc/Utf8Json)|Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).||
-|1324|[@i-saint](https://github.com/i-saint)/[**Unity5Effects**](https://github.com/i-saint/Unity5Effects)|||
-|1168|[@keijiro](https://github.com/keijiro)/[**KinoGlitch**](https://github.com/keijiro/KinoGlitch)|Video glitch effects for Unity||
-|1090|[@keijiro](https://github.com/keijiro)/[**Klak**](https://github.com/keijiro/Klak)|Creative coding library for Unity||
+|3801|[@neuecc](https://github.com/neuecc)/[**UniRx**](https://github.com/neuecc/UniRx)|Reactive Extensions for Unity||
+|2185|[@neuecc](https://github.com/neuecc)/[**MessagePack-CSharp**](https://github.com/neuecc/MessagePack-CSharp)|Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]||
+|1913|[@shimat](https://github.com/shimat)/[**opencvsharp**](https://github.com/shimat/opencvsharp)|.NET Framework wrapper for OpenCV ||
+|1814|[@neuecc](https://github.com/neuecc)/[**ZeroFormatter**](https://github.com/neuecc/ZeroFormatter)|Infinitely Fast Deserializer for .NET, .NET Core and Unity.||
+|1750|[@keijiro](https://github.com/keijiro)/[**Skinner**](https://github.com/keijiro/Skinner)|Special Effects with Skinned Mesh in Unity||
+|1479|[@mob-sakai](https://github.com/mob-sakai)/[**UIEffect**](https://github.com/mob-sakai/UIEffect)| UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!|[:arrow_upper_right:](https://github.com/mob-sakai/UIEffect)|
+|1467|[@neuecc](https://github.com/neuecc)/[**Utf8Json**](https://github.com/neuecc/Utf8Json)|Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).||
+|1331|[@i-saint](https://github.com/i-saint)/[**Unity5Effects**](https://github.com/i-saint/Unity5Effects)|||
+|1173|[@keijiro](https://github.com/keijiro)/[**KinoGlitch**](https://github.com/keijiro/KinoGlitch)|Video glitch effects for Unity||
+|1096|[@keijiro](https://github.com/keijiro)/[**Klak**](https://github.com/keijiro/Klak)|Creative coding library for Unity||
 |877|[@Grabacr07](https://github.com/Grabacr07)/[**KanColleViewer**](https://github.com/Grabacr07/KanColleViewer)|艦これブラウザーのようなもの|[:arrow_upper_right:](http://grabacr.net/kancolleviewer)|
-|858|[@keijiro](https://github.com/keijiro)/[**KvantSpray**](https://github.com/keijiro/KvantSpray)|Object instancing/particle animation system for Unity||
-|808|[@unity3d-jp](https://github.com/unity3d-jp)/[**unitychan-crs**](https://github.com/unity3d-jp/unitychan-crs)|Unity-Chan "Candy Rock Star" Live Demo|[:arrow_upper_right:](http://unity-chan.com/events/c86/WebPlayer/)|
-|774|[@keijiro](https://github.com/keijiro)/[**Pix2Pix**](https://github.com/keijiro/Pix2Pix)|Real-time pix2pix implementation with Unity||
-|765|[@keijiro](https://github.com/keijiro)/[**Reaktion**](https://github.com/keijiro/Reaktion)|Audio reactive animation toolkit for Unity||
-|746|[@keijiro](https://github.com/keijiro)/[**Voxelman**](https://github.com/keijiro/Voxelman)|Unity ECS + C# Job System example||
-|651|[@keijiro](https://github.com/keijiro)/[**ShaderGraphExamples**](https://github.com/keijiro/ShaderGraphExamples)|Simple examples of Unity shader graphs.||
-|590|[@EsProgram](https://github.com/EsProgram)/[**InkPainter**](https://github.com/EsProgram/InkPainter)|Texture-Paint on Unity.|[:arrow_upper_right:](https://esprogram.github.io/InkPainterDocument/)|
-|580|[@mob-sakai](https://github.com/mob-sakai)/[**ParticleEffectForUGUI**](https://github.com/mob-sakai/ParticleEffectForUGUI)|This plugin provide a component to render particle effect for uGUI in Unity 2018.2 or later. The particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.||
+|859|[@keijiro](https://github.com/keijiro)/[**KvantSpray**](https://github.com/keijiro/KvantSpray)|Object instancing/particle animation system for Unity||
+|815|[@unity3d-jp](https://github.com/unity3d-jp)/[**unitychan-crs**](https://github.com/unity3d-jp/unitychan-crs)|Unity-Chan "Candy Rock Star" Live Demo|[:arrow_upper_right:](http://unity-chan.com/events/c86/WebPlayer/)|
+|778|[@keijiro](https://github.com/keijiro)/[**Pix2Pix**](https://github.com/keijiro/Pix2Pix)|Real-time pix2pix implementation with Unity||
+|772|[@keijiro](https://github.com/keijiro)/[**Reaktion**](https://github.com/keijiro/Reaktion)|Audio reactive animation toolkit for Unity||
+|749|[@keijiro](https://github.com/keijiro)/[**Voxelman**](https://github.com/keijiro/Voxelman)|Unity ECS + C# Job System example||
+|652|[@keijiro](https://github.com/keijiro)/[**ShaderGraphExamples**](https://github.com/keijiro/ShaderGraphExamples)|Simple examples of Unity shader graphs.||
+|603|[@mob-sakai](https://github.com/mob-sakai)/[**ParticleEffectForUGUI**](https://github.com/mob-sakai/ParticleEffectForUGUI)|This plugin provide a component to render particle effect for uGUI in Unity 2018.2 or later. The particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.||
+|593|[@EsProgram](https://github.com/EsProgram)/[**InkPainter**](https://github.com/EsProgram/InkPainter)|Texture-Paint on Unity.|[:arrow_upper_right:](https://esprogram.github.io/InkPainterDocument/)|
 |572|[@unity3d-jp](https://github.com/unity3d-jp)/[**AssetGraph**](https://github.com/unity3d-jp/AssetGraph)|Visual Workflow Automation Tool for Unity|[:arrow_upper_right:](https://bitbucket.org/Unity-Technologies/assetbundlegraphtool)|
-|558|[@hecomi](https://github.com/hecomi)/[**uRaymarching**](https://github.com/hecomi/uRaymarching)|Raymarching Shader Generator in Unity|[:arrow_upper_right:](http://tips.hecomi.com/entry/2019/01/27/233137)|
-|557|[@keijiro](https://github.com/keijiro)/[**FFmpegOut**](https://github.com/keijiro/FFmpegOut)|Video capture plugin for Unity with FFmpeg.||
-|557|[@setchi](https://github.com/setchi)/[**FancyScrollView**](https://github.com/setchi/FancyScrollView)|A scrollview component that can implement highly flexible animation.|[:arrow_upper_right:](https://setchi.jp/FancyScrollView)|
+|564|[@setchi](https://github.com/setchi)/[**FancyScrollView**](https://github.com/setchi/FancyScrollView)|A scrollview component that can implement highly flexible animation.|[:arrow_upper_right:](https://setchi.jp/FancyScrollView)|
+|562|[@hecomi](https://github.com/hecomi)/[**uRaymarching**](https://github.com/hecomi/uRaymarching)|Raymarching Shader Generator in Unity|[:arrow_upper_right:](http://tips.hecomi.com/entry/2019/01/27/233137)|
+|560|[@keijiro](https://github.com/keijiro)/[**FFmpegOut**](https://github.com/keijiro/FFmpegOut)|Video capture plugin for Unity with FFmpeg.||
+|551|[@mattatz](https://github.com/mattatz)/[**unity-voxel**](https://github.com/mattatz/unity-voxel)|Mesh voxelization for Unity.||
 |550|[@neuecc](https://github.com/neuecc)/[**MagicOnion**](https://github.com/neuecc/MagicOnion)|gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.||
-|547|[@mattatz](https://github.com/mattatz)/[**unity-voxel**](https://github.com/mattatz/unity-voxel)|Mesh voxelization for Unity.||
-|543|[@keijiro](https://github.com/keijiro)/[**KinoBloom**](https://github.com/keijiro/KinoBloom)|Bloom effect for Unity||
-|520|[@keijiro](https://github.com/keijiro)/[**Pcx**](https://github.com/keijiro/Pcx)|Point cloud importer & renderer for Unity||
-|518|[@keijiro](https://github.com/keijiro)/[**Retro3D**](https://github.com/keijiro/Retro3D)|A shader that imitates low grade 3D graphics.||
+|546|[@keijiro](https://github.com/keijiro)/[**KinoBloom**](https://github.com/keijiro/KinoBloom)|Bloom effect for Unity||
+|523|[@keijiro](https://github.com/keijiro)/[**Pcx**](https://github.com/keijiro/Pcx)|Point cloud importer & renderer for Unity||
+|521|[@keijiro](https://github.com/keijiro)/[**Retro3D**](https://github.com/keijiro/Retro3D)|A shader that imitates low grade 3D graphics.||
+|514|[@keijiro](https://github.com/keijiro)/[**Kino**](https://github.com/keijiro/Kino)|A collection of custom post processing effects for Unity||
 |514|[@keijiro](https://github.com/keijiro)/[**PuppetTest**](https://github.com/keijiro/PuppetTest)|An experiment in procedural dance animation||
-|508|[@keijiro](https://github.com/keijiro)/[**Kino**](https://github.com/keijiro/Kino)|A collection of custom post processing effects for Unity||
 |492|[@runceel](https://github.com/runceel)/[**ReactiveProperty**](https://github.com/runceel/ReactiveProperty)|ReactiveProperty provides MVVM and asynchronous support features under Reactive Extensions. Target framework is .NET Standard 2.0.||
-|481|[@onevcat](https://github.com/onevcat)/[**XUPorter**](https://github.com/onevcat/XUPorter)|Add files and frameworks to your Xcode project after it is generated by Unity 3D.|[:arrow_upper_right:](http://onevcat.com/2012/12/xuporter/)|
-|457|[@keijiro](https://github.com/keijiro)/[**Swarm**](https://github.com/keijiro/Swarm)|An example of use of compute shaders and procedural instancing.||
+|482|[@onevcat](https://github.com/onevcat)/[**XUPorter**](https://github.com/onevcat/XUPorter)|Add files and frameworks to your Xcode project after it is generated by Unity 3D.|[:arrow_upper_right:](http://onevcat.com/2012/12/xuporter/)|
+|460|[@keijiro](https://github.com/keijiro)/[**Swarm**](https://github.com/keijiro/Swarm)|An example of use of compute shaders and procedural instancing.||
 |453|[@mayuki](https://github.com/mayuki)/[**Kurukuru**](https://github.com/mayuki/Kurukuru)|Terminal Spinner for .NET Core/Standard||
 |447|[@neuecc](https://github.com/neuecc)/[**LINQ-to-GameObject-for-Unity**](https://github.com/neuecc/LINQ-to-GameObject-for-Unity)|LINQ to GameObject - Traverse GameObject Hierarchy by LINQ||
-|418|[@keijiro](https://github.com/keijiro)/[**Firefly**](https://github.com/keijiro/Firefly)|Unity ECS example for special effects||
-|412|[@keijiro](https://github.com/keijiro)/[**KinoFog**](https://github.com/keijiro/KinoFog)|Global fog effect for Unity||
-|402|[@keijiro](https://github.com/keijiro)/[**KinoMotion**](https://github.com/keijiro/KinoMotion)|Motion blur post-processing effect for Unity||
-|400|[@keijiro](https://github.com/keijiro)/[**MidiJack**](https://github.com/keijiro/MidiJack)|MIDI input plugin for Unity||
-|386|[@takuya-takeuchi](https://github.com/takuya-takeuchi)/[**FaceRecognitionDotNet**](https://github.com/takuya-takeuchi/FaceRecognitionDotNet)|The world's simplest facial recognition api for .NET on Windows, MacOS and Linux||
-|385|[@keijiro](https://github.com/keijiro)/[**Rsvfx**](https://github.com/keijiro/Rsvfx)|An example that shows how to connect RealSense depth camera to Unity VFX Graph||
+|420|[@keijiro](https://github.com/keijiro)/[**Firefly**](https://github.com/keijiro/Firefly)|Unity ECS example for special effects||
+|413|[@keijiro](https://github.com/keijiro)/[**KinoFog**](https://github.com/keijiro/KinoFog)|Global fog effect for Unity||
+|404|[@keijiro](https://github.com/keijiro)/[**KinoMotion**](https://github.com/keijiro/KinoMotion)|Motion blur post-processing effect for Unity||
+|401|[@keijiro](https://github.com/keijiro)/[**MidiJack**](https://github.com/keijiro/MidiJack)|MIDI input plugin for Unity||
+|391|[@takuya-takeuchi](https://github.com/takuya-takeuchi)/[**FaceRecognitionDotNet**](https://github.com/takuya-takeuchi/FaceRecognitionDotNet)|The world's simplest facial recognition api for .NET on Windows, MacOS and Linux||
+|390|[@keijiro](https://github.com/keijiro)/[**Rsvfx**](https://github.com/keijiro/Rsvfx)|An example that shows how to connect RealSense depth camera to Unity VFX Graph||
 |381|[@keijiro](https://github.com/keijiro)/[**KvantGrass**](https://github.com/keijiro/KvantGrass)|Animating grass shader for Unity||
-|378|[@keijiro](https://github.com/keijiro)/[**KvantWig**](https://github.com/keijiro/KvantWig)|Non-realistic hair simulation in Unity||
-|375|[@amay077](https://github.com/amay077)/[**Xamarin.Forms.GoogleMaps**](https://github.com/amay077/Xamarin.Forms.GoogleMaps)|Map library for Xamarin.Forms using Google maps API|[:arrow_upper_right:](https://www.nuget.org/packages/Xamarin.Forms.GoogleMaps/)|
-|370|[@Implem](https://github.com/Implem)/[**Implem.Pleasanter**](https://github.com/Implem/Implem.Pleasanter)|Pleasanter \| Business application platform||
+|379|[@keijiro](https://github.com/keijiro)/[**KvantWig**](https://github.com/keijiro/KvantWig)|Non-realistic hair simulation in Unity||
+|378|[@amay077](https://github.com/amay077)/[**Xamarin.Forms.GoogleMaps**](https://github.com/amay077/Xamarin.Forms.GoogleMaps)|Map library for Xamarin.Forms using Google maps API|[:arrow_upper_right:](https://www.nuget.org/packages/Xamarin.Forms.GoogleMaps/)|
+|369|[@Implem](https://github.com/Implem)/[**Implem.Pleasanter**](https://github.com/Implem/Implem.Pleasanter)|Pleasanter \| Business application platform||
 |367|[@keijiro](https://github.com/keijiro)/[**MiniEngineAO**](https://github.com/keijiro/MiniEngineAO)|SSAO image effect from Microsoft MiniEngine, ported to Unity.||
-|332|[@hecomi](https://github.com/hecomi)/[**uREPL**](https://github.com/hecomi/uREPL)|In-game powerful REPL environment for Unity3D.|[:arrow_upper_right:](http://tips.hecomi.com/entry/2015/12/05/003000)|
-|329|[@keijiro](https://github.com/keijiro)/[**Flipbook**](https://github.com/keijiro/Flipbook)|Flip book effect example for Unity||
+|333|[@hecomi](https://github.com/hecomi)/[**uREPL**](https://github.com/hecomi/uREPL)|In-game powerful REPL environment for Unity3D.|[:arrow_upper_right:](http://tips.hecomi.com/entry/2015/12/05/003000)|
+|331|[@keijiro](https://github.com/keijiro)/[**Flipbook**](https://github.com/keijiro/Flipbook)|Flip book effect example for Unity||
 |306|[@keijiro](https://github.com/keijiro)/[**KinoBokeh**](https://github.com/keijiro/KinoBokeh)|Depth of field effect for Unity||
 |306|[@keijiro](https://github.com/keijiro)/[**unity-dither4444**](https://github.com/keijiro/unity-dither4444)|AssetPostProcessor for making high-quality 16-bit color textures in Unity.||
-|301|[@keijiro](https://github.com/keijiro)/[**KinoContour**](https://github.com/keijiro/KinoContour)|Contour line filter for Unity||
-|301|[@keijiro](https://github.com/keijiro)/[**StableFluids**](https://github.com/keijiro/StableFluids)|A straightforward GPU implementation of Jos Stam's "Stable Fluids" on Unity.||
-|301|[@unity3d-jp](https://github.com/unity3d-jp)/[**NVIDIAHairWorksIntegration**](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration)|NVIDIA Hair Works Integration for Unity||
-|300|[@keijiro](https://github.com/keijiro)/[**CloudSkybox**](https://github.com/keijiro/CloudSkybox)|Skybox shader with volumetric clouds||
-|297|[@keijiro](https://github.com/keijiro)/[**KvantStream**](https://github.com/keijiro/KvantStream)|A simple GPU particle system for Unity||
+|304|[@keijiro](https://github.com/keijiro)/[**CloudSkybox**](https://github.com/keijiro/CloudSkybox)|Skybox shader with volumetric clouds||
+|303|[@keijiro](https://github.com/keijiro)/[**KinoContour**](https://github.com/keijiro/KinoContour)|Contour line filter for Unity||
+|302|[@keijiro](https://github.com/keijiro)/[**StableFluids**](https://github.com/keijiro/StableFluids)|A straightforward GPU implementation of Jos Stam's "Stable Fluids" on Unity.||
+|302|[@unity3d-jp](https://github.com/unity3d-jp)/[**NVIDIAHairWorksIntegration**](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration)|NVIDIA Hair Works Integration for Unity||
+|298|[@keijiro](https://github.com/keijiro)/[**KvantStream**](https://github.com/keijiro/KvantStream)|A simple GPU particle system for Unity||
+|288|[@keijiro](https://github.com/keijiro)/[**RippleEffect**](https://github.com/keijiro/RippleEffect)|Water surface ripple effect for Unity||
 |287|[@keijiro](https://github.com/keijiro)/[**KvantSwarm**](https://github.com/keijiro/KvantSwarm)|Flowing line renderer for Unity||
-|285|[@keijiro](https://github.com/keijiro)/[**RippleEffect**](https://github.com/keijiro/RippleEffect)|Water surface ripple effect for Unity||
 |277|[@keijiro](https://github.com/keijiro)/[**SkyboxPlus**](https://github.com/keijiro/SkyboxPlus)|Basic skybox extensions for Unity||
 |277|[@keijiro](https://github.com/keijiro)/[**SonarFx**](https://github.com/keijiro/SonarFx)|Sonar effect for Unity||
-|272|[@keijiro](https://github.com/keijiro)/[**Prisma**](https://github.com/keijiro/Prisma)|Pepper's ghost live visuals for VRDG #4||
-|265|[@keijiro](https://github.com/keijiro)/[**Retro3DPipeline**](https://github.com/keijiro/Retro3DPipeline)|A minimal example of a custom render pipeline with the Retro3D shader.||
-|264|[@keijiro](https://github.com/keijiro)/[**KinoObscurance**](https://github.com/keijiro/KinoObscurance)|Screen Space Ambient Obscurance image effect for Unity||
-|262|[@mob-sakai](https://github.com/mob-sakai)/[**SoftMaskForUGUI**](https://github.com/mob-sakai/SoftMaskForUGUI)|Soft masking for uGUI elements in Unity.||
+|273|[@keijiro](https://github.com/keijiro)/[**Prisma**](https://github.com/keijiro/Prisma)|Pepper's ghost live visuals for VRDG #4||
+|269|[@mob-sakai](https://github.com/mob-sakai)/[**SoftMaskForUGUI**](https://github.com/mob-sakai/SoftMaskForUGUI)|Soft masking for uGUI elements in Unity.||
+|268|[@keijiro](https://github.com/keijiro)/[**Retro3DPipeline**](https://github.com/keijiro/Retro3DPipeline)|A minimal example of a custom render pipeline with the Retro3D shader.||
+|265|[@keijiro](https://github.com/keijiro)/[**KinoObscurance**](https://github.com/keijiro/KinoObscurance)|Screen Space Ambient Obscurance image effect for Unity||
 |261|[@Grabacr07](https://github.com/Grabacr07)/[**MetroRadiance**](https://github.com/Grabacr07/MetroRadiance)|Modern WPF Themes (like Visual Studio 2012 or later).|[:arrow_upper_right:](http://grabacr.net/archives/1105)|
-|255|[@buchizo](https://github.com/buchizo)/[**ClaudiaIDE**](https://github.com/buchizo/ClaudiaIDE)|This extension change the background image of editor.|[:arrow_upper_right:](http://visualstudiogallery.msdn.microsoft.com/9ba50f8d-f30c-4e33-ab19-bfd9f56eb817)|
-|251|[@mattak](https://github.com/mattak)/[**Unidux**](https://github.com/mattak/Unidux)|Redux Architecture for Unity 🎩||
+|256|[@buchizo](https://github.com/buchizo)/[**ClaudiaIDE**](https://github.com/buchizo/ClaudiaIDE)|This extension change the background image of editor.|[:arrow_upper_right:](http://visualstudiogallery.msdn.microsoft.com/9ba50f8d-f30c-4e33-ab19-bfd9f56eb817)|
+|254|[@mattak](https://github.com/mattak)/[**Unidux**](https://github.com/mattak/Unidux)|Redux Architecture for Unity 🎩||
 |251|[@xen2](https://github.com/xen2)/[**SharpLang**](https://github.com/xen2/SharpLang)|Compiles .NET/C# to native code using LLVM framework. No longer active, consider migrating to https://github.com/dotnet/corert||
 |249|[@keijiro](https://github.com/keijiro)/[**KvantWall**](https://github.com/keijiro/KvantWall)|GPU accelerated object array animator for Unity||
 |248|[@keijiro](https://github.com/keijiro)/[**PostProcessingUtilities**](https://github.com/keijiro/PostProcessingUtilities)|Utility scripts for the post processing stack||
 |248|[@mattatz](https://github.com/mattatz)/[**unity-teddy**](https://github.com/mattatz/unity-teddy)|Teddy algorithm implementation in Unity.||
-|245|[@IndieVisualLab](https://github.com/IndieVisualLab)/[**UnityGraphicsProgramming**](https://github.com/IndieVisualLab/UnityGraphicsProgramming)|書籍「UnityGraphicsProgramming vol.1」のサンプルコードリポジトリ|[:arrow_upper_right:](https://indievisuallab.github.io/)|
-|242|[@keijiro](https://github.com/keijiro)/[**ChromaPack**](https://github.com/keijiro/ChromaPack)|ChromaPack -- A lossy texture compression plugin for Unity.||
-|242|[@keijiro](https://github.com/keijiro)/[**Cloner**](https://github.com/keijiro/Cloner)|An example of use of procedural instancing.||
-|240|[@EsProgram](https://github.com/EsProgram)/[**uSpringBone**](https://github.com/EsProgram/uSpringBone)|High performance SpringBone using ECS and JobSystem in Unity.||
-|239|[@keijiro](https://github.com/keijiro)/[**Ngx**](https://github.com/keijiro/Ngx)|Ngx - Neural network based visual generator and mixer||
-|235|[@mattatz](https://github.com/mattatz)/[**unity-triangulation2D**](https://github.com/mattatz/unity-triangulation2D)|Ruppert's Delaunay Refinement Algorithm in Unity||
-|232|[@keijiro](https://github.com/keijiro)/[**KinoDatamosh**](https://github.com/keijiro/KinoDatamosh)|An image effect for Unity that simulates video compression artifacts||
+|246|[@IndieVisualLab](https://github.com/IndieVisualLab)/[**UnityGraphicsProgramming**](https://github.com/IndieVisualLab/UnityGraphicsProgramming)|書籍「UnityGraphicsProgramming vol.1」のサンプルコードリポジトリ|[:arrow_upper_right:](https://indievisuallab.github.io/)|
+|243|[@keijiro](https://github.com/keijiro)/[**ChromaPack**](https://github.com/keijiro/ChromaPack)|ChromaPack -- A lossy texture compression plugin for Unity.||
+|243|[@keijiro](https://github.com/keijiro)/[**Cloner**](https://github.com/keijiro/Cloner)|An example of use of procedural instancing.||
+|243|[@keijiro](https://github.com/keijiro)/[**Ngx**](https://github.com/keijiro/Ngx)|Ngx - Neural network based visual generator and mixer||
+|241|[@EsProgram](https://github.com/EsProgram)/[**uSpringBone**](https://github.com/EsProgram/uSpringBone)|High performance SpringBone using ECS and JobSystem in Unity.||
+|238|[@mattatz](https://github.com/mattatz)/[**unity-triangulation2D**](https://github.com/mattatz/unity-triangulation2D)|Ruppert's Delaunay Refinement Algorithm in Unity||
+|233|[@keijiro](https://github.com/keijiro)/[**KinoDatamosh**](https://github.com/keijiro/KinoDatamosh)|An image effect for Unity that simulates video compression artifacts||
 |232|[@keijiro](https://github.com/keijiro)/[**VideoPlayerEffects**](https://github.com/keijiro/VideoPlayerEffects)|Experimental special effects for VideoPlayer (Unity 5.6 new feature)||
+|231|[@keijiro](https://github.com/keijiro)/[**RDSystem**](https://github.com/keijiro/RDSystem)|Reaction-diffusion system with CustomRenderTexture.||
 |229|[@keijiro](https://github.com/keijiro)/[**KvantLattice**](https://github.com/keijiro/KvantLattice)|A GPU accelerated fractal terrain renderer for Unity||
-|229|[@keijiro](https://github.com/keijiro)/[**RDSystem**](https://github.com/keijiro/RDSystem)|Reaction-diffusion system with CustomRenderTexture.||
-|225|[@keijiro](https://github.com/keijiro)/[**KlakNDI**](https://github.com/keijiro/KlakNDI)|NewTek NDI™ plugin for Unity|[:arrow_upper_right:](http://ndi.newtek.com/)|
-|225|[@keijiro](https://github.com/keijiro)/[**NoiseBall**](https://github.com/keijiro/NoiseBall)|Mesh deforming shader example (Unity)||
-|223|[@n-yoda](https://github.com/n-yoda)/[**unity-vertex-effects**](https://github.com/n-yoda/unity-vertex-effects)|Beautiful text outline for Unity UI.||
-|218|[@keijiro](https://github.com/keijiro)/[**ColorSuite**](https://github.com/keijiro/ColorSuite)|Multifunctional color adjustment plugin for Unity.||
+|227|[@keijiro](https://github.com/keijiro)/[**KlakNDI**](https://github.com/keijiro/KlakNDI)|NewTek NDI™ plugin for Unity|[:arrow_upper_right:](http://ndi.newtek.com/)|
+|226|[@keijiro](https://github.com/keijiro)/[**NoiseBall**](https://github.com/keijiro/NoiseBall)|Mesh deforming shader example (Unity)||
+|224|[@n-yoda](https://github.com/n-yoda)/[**unity-vertex-effects**](https://github.com/n-yoda/unity-vertex-effects)|Beautiful text outline for Unity UI.||
+|219|[@keijiro](https://github.com/keijiro)/[**ColorSuite**](https://github.com/keijiro/ColorSuite)|Multifunctional color adjustment plugin for Unity.||
 |217|[@Grabacr07](https://github.com/Grabacr07)/[**VirtualDesktop**](https://github.com/Grabacr07/VirtualDesktop)|Wrapper for API to Virtual Desktop on Windows 10.||
 |214|[@keijiro](https://github.com/keijiro)/[**TimelineParticleControl**](https://github.com/keijiro/TimelineParticleControl)|An example of controlling particle system from timeline.||
-|204|[@sugi-cho](https://github.com/sugi-cho)/[**Animation-Texture-Baker**](https://github.com/sugi-cho/Animation-Texture-Baker)|頂点の位置と法線を、Texture2Dに保存しておく。ARGBFloatとか、HDR Textureを使用したバージョン||
+|206|[@sugi-cho](https://github.com/sugi-cho)/[**Animation-Texture-Baker**](https://github.com/sugi-cho/Animation-Texture-Baker)|頂点の位置と法線を、Texture2Dに保存しておく。ARGBFloatとか、HDR Textureを使用したバージョン||
 |202|[@mayuki](https://github.com/mayuki)/[**Rin**](https://github.com/mayuki/Rin)|Request/response Inspector middleware for ASP.NET Core||
-|198|[@mattatz](https://github.com/mattatz)/[**unity-volume-rendering**](https://github.com/mattatz/unity-volume-rendering)|Volume rendering by object space raymarching for Unity||
+|199|[@mattatz](https://github.com/mattatz)/[**unity-volume-rendering**](https://github.com/mattatz/unity-volume-rendering)|Volume rendering by object space raymarching for Unity||
+|199|[@takuya-takeuchi](https://github.com/takuya-takeuchi)/[**DlibDotNet**](https://github.com/takuya-takeuchi/DlibDotNet)|Dlib .NET wrapper written in C++ and C# for Windows, MacOS and Linux||
+|198|[@keijiro](https://github.com/keijiro)/[**Smrvfx**](https://github.com/keijiro/Smrvfx)|An example that shows how to pass data from a skinned mesh renderer to a visual effect graph.||
 |197|[@kekyo](https://github.com/kekyo)/[**IL2C**](https://github.com/kekyo/IL2C)|IL2C - A translator for ECMA-335 CIL/MSIL to C language.||
-|197|[@takuya-takeuchi](https://github.com/takuya-takeuchi)/[**DlibDotNet**](https://github.com/takuya-takeuchi/DlibDotNet)|Dlib .NET wrapper written in C++ and C# for Windows, MacOS and Linux||
 |194|[@imkira](https://github.com/imkira)/[**unity-sysfont**](https://github.com/imkira/unity-sysfont)|unity-sysfont is a Unity3D plugin for rendering dynamic text using the fonts available on the mobile device/computer. ||
-|194|[@keijiro](https://github.com/keijiro)/[**Smrvfx**](https://github.com/keijiro/Smrvfx)|An example that shows how to pass data from a skinned mesh renderer to a visual effect graph.||
 |192|[@keijiro](https://github.com/keijiro)/[**PerlinNoise**](https://github.com/keijiro/PerlinNoise)|1D/2D/3D Perlin noise function for Unity||
+|190|[@mob-sakai](https://github.com/mob-sakai)/[**UpmGitExtension**](https://github.com/mob-sakai/UpmGitExtension)|Git extension for Unity Package Manager (UPM)||
 |189|[@Grabacr07](https://github.com/Grabacr07)/[**SylphyHorn**](https://github.com/Grabacr07/SylphyHorn)|Virtual Desktop Tools for Windows 10.||
-|189|[@mob-sakai](https://github.com/mob-sakai)/[**UpmGitExtension**](https://github.com/mob-sakai/UpmGitExtension)|Git extension for Unity Package Manager (UPM)||
 |188|[@i-saint](https://github.com/i-saint)/[**BatchRenderer**](https://github.com/i-saint/BatchRenderer)|||
 |187|[@keijiro](https://github.com/keijiro)/[**CosineGradient**](https://github.com/keijiro/CosineGradient)|Cosine gradient generator for Unity||
 |187|[@unity3d-jp](https://github.com/unity3d-jp)/[**UnityChanSpringBone**](https://github.com/unity3d-jp/UnityChanSpringBone)|UnityChan Sping Bone System for lightweight secondary animations||
 |186|[@neuecc](https://github.com/neuecc)/[**MasterMemory**](https://github.com/neuecc/MasterMemory)|Embedded Readonly In-Memory Document Database for .NET, .NET Core and Unity||
-|181|[@mattatz](https://github.com/mattatz)/[**unity-procedural-tree**](https://github.com/mattatz/unity-procedural-tree)|Procedural tree builder for Unity||
-|177|[@anoyetta](https://github.com/anoyetta)/[**ACT.Hojoring**](https://github.com/anoyetta/ACT.Hojoring)|Advanced Combat Tracker の FFXIV向けプラグインです。トリガ、TTSの拡張、HUDの拡張など。||
+|183|[@mattatz](https://github.com/mattatz)/[**unity-procedural-tree**](https://github.com/mattatz/unity-procedural-tree)|Procedural tree builder for Unity||
+|180|[@anoyetta](https://github.com/anoyetta)/[**ACT.Hojoring**](https://github.com/anoyetta/ACT.Hojoring)|Advanced Combat Tracker の FFXIV向けプラグインです。トリガ、TTSの拡張、HUDの拡張など。||
 |176|[@keijiro](https://github.com/keijiro)/[**ContactShadows**](https://github.com/keijiro/ContactShadows)|Experimental implementation of contact shadows for Unity.||
 |176|[@keijiro](https://github.com/keijiro)/[**ProceduralMotionTrack**](https://github.com/keijiro/ProceduralMotionTrack)|Simple procedural motion with Unity Timeline.||
 |175|[@i-saint](https://github.com/i-saint)/[**MassParticle**](https://github.com/i-saint/MassParticle)|||
-|174|[@mattatz](https://github.com/mattatz)/[**CellularGrowth**](https://github.com/mattatz/CellularGrowth)|GPU-based cellular growth simulation in Unity. 🧠||
-|172|[@beinteractive](https://github.com/beinteractive)/[**UrMotion**](https://github.com/beinteractive/UrMotion)|Flexible motion engine for non time-based animation in Unity.||
+|175|[@mattatz](https://github.com/mattatz)/[**CellularGrowth**](https://github.com/mattatz/CellularGrowth)|GPU-based cellular growth simulation in Unity. 🧠||
+|173|[@beinteractive](https://github.com/beinteractive)/[**UrMotion**](https://github.com/beinteractive/UrMotion)|Flexible motion engine for non time-based animation in Unity.||
 |171|[@karno](https://github.com/karno)/[**StarryEyes**](https://github.com/karno/StarryEyes)|Krile StarryEyes, development has been abandoned.||
-|164|[@keijiro](https://github.com/keijiro)/[**OscJack**](https://github.com/keijiro/OscJack)|Lightweight implementation of OSC server/client in C# (Unity)||
+|165|[@keijiro](https://github.com/keijiro)/[**OscJack**](https://github.com/keijiro/OscJack)|Lightweight implementation of OSC server/client in C# (Unity)||
 |162|[@keijiro](https://github.com/keijiro)/[**KinoVision**](https://github.com/keijiro/KinoVision)|Frame visualization utility for Unity||
+|159|[@keijiro](https://github.com/keijiro)/[**NoiseBall2**](https://github.com/keijiro/NoiseBall2)|A small example of procedural modeling with compute shaders.||
 |158|[@keijiro](https://github.com/keijiro)/[**Mirage**](https://github.com/keijiro/Mirage)|Holographic live visuals with the Pepper's ghost technique||
-|158|[@keijiro](https://github.com/keijiro)/[**NoiseBall2**](https://github.com/keijiro/NoiseBall2)|A small example of procedural modeling with compute shaders.||
 |158|[@keijiro](https://github.com/keijiro)/[**Teatro**](https://github.com/keijiro/Teatro)|Visual software made for Takamatsu media art festival||
-|155|[@craftzdog](https://github.com/craftzdog)/[**react-native-sqlite-2**](https://github.com/craftzdog/react-native-sqlite-2)|SQLite3 Native Plugin for React Native for iOS, Android and Windows.||
-|155|[@unity3d-jp](https://github.com/unity3d-jp)/[**AnotherThread**](https://github.com/unity3d-jp/AnotherThread)|Sample game for Unite 2016 Tokyo.||
+|157|[@craftzdog](https://github.com/craftzdog)/[**react-native-sqlite-2**](https://github.com/craftzdog/react-native-sqlite-2)|SQLite3 Native Plugin for React Native for iOS, Android and Windows.||
+|156|[@unity3d-jp](https://github.com/unity3d-jp)/[**AnotherThread**](https://github.com/unity3d-jp/AnotherThread)|Sample game for Unite 2016 Tokyo.||
 |151|[@runceel](https://github.com/runceel)/[**Livet**](https://github.com/runceel/Livet)|WPF MVVM Infrastructure.||
 |150|[@keijiro](https://github.com/keijiro)/[**Boids**](https://github.com/keijiro/Boids)|Flocking behavior simulation (Unity)|[:arrow_upper_right:](https://vimeo.com/87151096)|
 |149|[@neuecc](https://github.com/neuecc)/[**LightNode**](https://github.com/neuecc/LightNode)|Micro RPC/REST Framework built on OWIN|[:arrow_upper_right:](http://neuecc.github.io/LightNode)|
 |149|[@unity3d-jp](https://github.com/unity3d-jp)/[**WaveShooter**](https://github.com/unity3d-jp/WaveShooter)|Demo for Unite 2017 Tokyo||
 |147|[@makoto-unity](https://github.com/makoto-unity)/[**OneStepEffects**](https://github.com/makoto-unity/OneStepEffects)|You can add beautiful image effects by one step.||
+|145|[@EsProgram](https://github.com/EsProgram)/[**WaveformProvider**](https://github.com/EsProgram/WaveformProvider)|Provide a texture to simulate waves with Unity. Require InkPainter(nv1.2.1 or later).|[:arrow_upper_right:](https://github.com/EsProgram/InkPainter)|
 |145|[@setchi](https://github.com/setchi)/[**NoteEditor**](https://github.com/setchi/NoteEditor)|Note editor for rhythm games.||
-|144|[@EsProgram](https://github.com/EsProgram)/[**WaveformProvider**](https://github.com/EsProgram/WaveformProvider)|Provide a texture to simulate waves with Unity. Require InkPainter(nv1.2.1 or later).|[:arrow_upper_right:](https://github.com/EsProgram/InkPainter)|
+|143|[@mob-sakai](https://github.com/mob-sakai)/[**ShinyEffectForUGUI**](https://github.com/mob-sakai/ShinyEffectForUGUI)|Shiny effect of uGUI, which does not need mask or normal map.|[:arrow_upper_right:](https://github.com/mob-sakai/ShinyEffectForUGUI)|
+|142|[@keijiro](https://github.com/keijiro)/[**LaspVfx**](https://github.com/keijiro/LaspVfx)|Audio reactive Unity VFX with LASP||
 |142|[@keijiro](https://github.com/keijiro)/[**SpektrLightning**](https://github.com/keijiro/SpektrLightning)|Lightning effect for Unity||
-|142|[@mob-sakai](https://github.com/mob-sakai)/[**ShinyEffectForUGUI**](https://github.com/mob-sakai/ShinyEffectForUGUI)|Shiny effect of uGUI, which does not need mask or normal map.|[:arrow_upper_right:](https://github.com/mob-sakai/ShinyEffectForUGUI)|
-|141|[@keijiro](https://github.com/keijiro)/[**LaspVfx**](https://github.com/keijiro/LaspVfx)|Audio reactive Unity VFX with LASP||
+|140|[@keijiro](https://github.com/keijiro)/[**DFVolume**](https://github.com/keijiro/DFVolume)|Distance-field volume generator for Unity||
 |140|[@ugaya40](https://github.com/ugaya40)/[**Livet**](https://github.com/ugaya40/Livet)|WPF MVVM Infrastructure.||
 |139|[@keijiro](https://github.com/keijiro)/[**KlakLasp**](https://github.com/keijiro/KlakLasp)|An extension for the Klak Wiring system to create audio reactive behaviors.||
 |139|[@kyubuns](https://github.com/kyubuns)/[**Baum2**](https://github.com/kyubuns/Baum2)|Psd to Unity UI(uGUI)||
-|138|[@keijiro](https://github.com/keijiro)/[**DFVolume**](https://github.com/keijiro/DFVolume)|Distance-field volume generator for Unity||
 |138|[@keijiro](https://github.com/keijiro)/[**KinoIsoline**](https://github.com/keijiro/KinoIsoline)|Isoline image effect for Unity||
-|136|[@beinteractive](https://github.com/beinteractive)/[**LWRPAmbientOcclusion**](https://github.com/beinteractive/LWRPAmbientOcclusion)|Post-Processing Stack v2 Ambient Occlusion works on Lightweight Render Pipeline||
-|136|[@mob-sakai](https://github.com/mob-sakai)/[**UnmaskForUGUI**](https://github.com/mob-sakai/UnmaskForUGUI)|Reverse mask for uGUI element in Unity.|[:arrow_upper_right:](https://github.com/mob-sakai/UnmaskForUGUI)|
-|134|[@keijiro](https://github.com/keijiro)/[**FadeToSkybox**](https://github.com/keijiro/FadeToSkybox)|Fade-to-skybox fog effect for Unity||
+|137|[@beinteractive](https://github.com/beinteractive)/[**LWRPAmbientOcclusion**](https://github.com/beinteractive/LWRPAmbientOcclusion)|Post-Processing Stack v2 Ambient Occlusion works on Lightweight Render Pipeline||
+|137|[@mob-sakai](https://github.com/mob-sakai)/[**UnmaskForUGUI**](https://github.com/mob-sakai/UnmaskForUGUI)|Reverse mask for uGUI element in Unity.|[:arrow_upper_right:](https://github.com/mob-sakai/UnmaskForUGUI)|
+|135|[@keijiro](https://github.com/keijiro)/[**FadeToSkybox**](https://github.com/keijiro/FadeToSkybox)|Fade-to-skybox fog effect for Unity||
 |133|[@keijiro](https://github.com/keijiro)/[**KinoBinary**](https://github.com/keijiro/KinoBinary)|Binary image effect for Unity||
 |131|[@keijiro](https://github.com/keijiro)/[**VJUI**](https://github.com/keijiro/VJUI)|Custom UI controls for VJing with Unity||
 |130|[@keijiro](https://github.com/keijiro)/[**KinoFeedback**](https://github.com/keijiro/KinoFeedback)|Oldskool frame buffer feedback effect for Unity||
@@ -140,31 +140,31 @@
 |127|[@keijiro](https://github.com/keijiro)/[**KvantTunnel**](https://github.com/keijiro/KvantTunnel)|GPU accelerated fractal tunnel renderer for Unity||
 |127|[@miyabi](https://github.com/miyabi)/[**unity-swift**](https://github.com/miyabi/unity-swift)|Native plugin to write native code in Swift for Unity.||
 |126|[@hibara](https://github.com/hibara)/[**MarkDownSharpEditor**](https://github.com/hibara/MarkDownSharpEditor)|Markdown text ediotr for Windows and multi bytes character|[:arrow_upper_right:](http://hibara.org/software/markdownsharpeditor/)|
-|125|[@keijiro](https://github.com/keijiro)/[**SkinnedVertexModifier**](https://github.com/keijiro/SkinnedVertexModifier)|A Unity example showing how to modify vertex positions and recalculate normals of an animating skinned mesh.||
+|126|[@keijiro](https://github.com/keijiro)/[**SkinnedVertexModifier**](https://github.com/keijiro/SkinnedVertexModifier)|A Unity example showing how to modify vertex positions and recalculate normals of an animating skinned mesh.||
 |123|[@shibayan](https://github.com/shibayan)/[**Sharprompt**](https://github.com/shibayan/Sharprompt)|Interactive command line interface toolkit for .NET Core||
-|121|[@mattatz](https://github.com/mattatz)/[**unity-procedural-flower**](https://github.com/mattatz/unity-procedural-flower)|Procedural flower generator for Unity.||
+|122|[@mattatz](https://github.com/mattatz)/[**unity-procedural-flower**](https://github.com/mattatz/unity-procedural-flower)|Procedural flower generator for Unity.||
 |119|[@keijiro](https://github.com/keijiro)/[**KinoTube**](https://github.com/keijiro/KinoTube)|An image effect simulating analog video artifacts in Unity.||
 |118|[@unity3d-jp](https://github.com/unity3d-jp)/[**playgrownd**](https://github.com/unity3d-jp/playgrownd)|Free Unity assets for level design|[:arrow_upper_right:](http://unity3d.com/jp)|
+|114|[@keijiro](https://github.com/keijiro)/[**AsyncCaptureTest**](https://github.com/keijiro/AsyncCaptureTest)|Non-blocking screen capture example with asynchronous GPU readback||
 |114|[@keijiro](https://github.com/keijiro)/[**KinoStreak**](https://github.com/keijiro/KinoStreak)|Anamorphic lens flare effect for Unity||
-|113|[@runceel](https://github.com/runceel)/[**PrismEdu**](https://github.com/runceel/PrismEdu)|Japanese Prism library learning memo.||
-|112|[@keijiro](https://github.com/keijiro)/[**AsyncCaptureTest**](https://github.com/keijiro/AsyncCaptureTest)|Non-blocking screen capture example with asynchronous GPU readback||
+|114|[@runceel](https://github.com/runceel)/[**PrismEdu**](https://github.com/runceel/PrismEdu)|Japanese Prism library learning memo.||
 |112|[@keijiro](https://github.com/keijiro)/[**CMUMocap**](https://github.com/keijiro/CMUMocap)|Unity humanoid animations converted from the Carnegie Mellon University Motion Capture Database||
 |112|[@keijiro](https://github.com/keijiro)/[**KinoSlitscan**](https://github.com/keijiro/KinoSlitscan)|Slit-scan image effect for Unity||
 |112|[@shibayan](https://github.com/shibayan)/[**appservice-acmebot**](https://github.com/shibayan/appservice-acmebot)|Automated Let's Encrypt issuer for Azure App Service (Web Apps / Functions / Containers)||
+|111|[@keijiro](https://github.com/keijiro)/[**ShurikenPlus**](https://github.com/keijiro/ShurikenPlus)|A collection of custom shaders for Unity particle system (Shuriken).||
 |111|[@thedoritos](https://github.com/thedoritos)/[**unimgpicker**](https://github.com/thedoritos/unimgpicker)|Image picker for Unity iOS/Android||
-|110|[@keijiro](https://github.com/keijiro)/[**ShurikenPlus**](https://github.com/keijiro/ShurikenPlus)|A collection of custom shaders for Unity particle system (Shuriken).||
+|108|[@keijiro](https://github.com/keijiro)/[**NoiseBall3**](https://github.com/keijiro/NoiseBall3)|A Unity example that shows how to use the new implementation of DrawProcedural.||
+|108|[@kyubuns](https://github.com/kyubuns)/[**AnimeRx**](https://github.com/kyubuns/AnimeRx)|Rx Tween Animation Library for Unity||
+|107|[@keijiro](https://github.com/keijiro)/[**Akvfx**](https://github.com/keijiro/Akvfx)|Azure Kinect plugin for Unity VFX Graph||
 |107|[@keijiro](https://github.com/keijiro)/[**GeoVfx**](https://github.com/keijiro/GeoVfx)|Examples of geographical data visualization with Unity VFX Graph||
+|107|[@mattatz](https://github.com/mattatz)/[**unity-verlet-simulator**](https://github.com/mattatz/unity-verlet-simulator)|Simple verlet integration simulator for Unity.||
+|107|[@neuecc](https://github.com/neuecc)/[**MicroResolver**](https://github.com/neuecc/MicroResolver)|Extremely Fast Dependency Injection Library.||
 |107|[@pierre3](https://github.com/pierre3)/[**LineMessagingApi**](https://github.com/pierre3/LineMessagingApi)|LINE Messaging API for .Net||
-|106|[@mattatz](https://github.com/mattatz)/[**unity-verlet-simulator**](https://github.com/mattatz/unity-verlet-simulator)|Simple verlet integration simulator for Unity.||
-|106|[@neuecc](https://github.com/neuecc)/[**MicroResolver**](https://github.com/neuecc/MicroResolver)|Extremely Fast Dependency Injection Library.||
-|105|[@keijiro](https://github.com/keijiro)/[**NoiseBall3**](https://github.com/keijiro/NoiseBall3)|A Unity example that shows how to use the new implementation of DrawProcedural.||
-|105|[@kyubuns](https://github.com/kyubuns)/[**AnimeRx**](https://github.com/kyubuns/AnimeRx)|Rx Tween Animation Library for Unity||
-|104|[@neuecc](https://github.com/neuecc)/[**MarkdownGenerator**](https://github.com/neuecc/MarkdownGenerator)|Generate markdown from C# binary & xml document for GitHub Wiki.||
-|103|[@harujoh](https://github.com/harujoh)/[**KelpNet**](https://github.com/harujoh/KelpNet)|Pure C# deep learning framework||
-|103|[@keijiro](https://github.com/keijiro)/[**Akvfx**](https://github.com/keijiro/Akvfx)|Azure Kinect plugin for Unity VFX Graph||
+|106|[@neuecc](https://github.com/neuecc)/[**MarkdownGenerator**](https://github.com/neuecc/MarkdownGenerator)|Generate markdown from C# binary & xml document for GitHub Wiki.||
+|104|[@harujoh](https://github.com/harujoh)/[**KelpNet**](https://github.com/harujoh/KelpNet)|Pure C# deep learning framework||
+|103|[@keijiro](https://github.com/keijiro)/[**unity-audio-spectrum**](https://github.com/keijiro/unity-audio-spectrum)|Provides spectrum data with audio output (Unity, C#)||
 |103|[@mattatz](https://github.com/mattatz)/[**unity-mesh-smoothing**](https://github.com/mattatz/unity-mesh-smoothing)|Mesh smoothing algorithm for Unity.||
 |103|[@neuecc](https://github.com/neuecc)/[**CloudStructures**](https://github.com/neuecc/CloudStructures)|Redis Client based on StackExchange.Redis.||
-|102|[@keijiro](https://github.com/keijiro)/[**unity-audio-spectrum**](https://github.com/keijiro/unity-audio-spectrum)|Provides spectrum data with audio output (Unity, C#)||
 |100|[@beinteractive](https://github.com/beinteractive)/[**Uween**](https://github.com/beinteractive/Uween)|Lightweight tween library for Unity.||
 |99|[@keijiro](https://github.com/keijiro)/[**NeuronAnimator**](https://github.com/keijiro/NeuronAnimator)|A minimal subset of Perception Neuron SDK for Unity||
 |98|[@neuecc](https://github.com/neuecc)/[**AsyncOAuth**](https://github.com/neuecc/AsyncOAuth)|Portable Client Library and HttpClient based OAuth library, including all platform(for PCL).||
@@ -180,11 +180,11 @@
 |93|[@keijiro](https://github.com/keijiro)/[**MoonAndEarth**](https://github.com/keijiro/MoonAndEarth)|Realistic Moon and Earth for Unity||
 |93|[@mob-sakai](https://github.com/mob-sakai)/[**StaticBluredScreen**](https://github.com/mob-sakai/StaticBluredScreen)|Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs.||
 |92|[@hecomi](https://github.com/hecomi)/[**MMD4Mecanim-LipSync-Plugin**](https://github.com/hecomi/MMD4Mecanim-LipSync-Plugin)|LipSync and TTS Plugin for MMD4Mecanim|[:arrow_upper_right:](http://tips.hecomi.com/entry/20131208/1386514048)|
-|91|[@neuecc](https://github.com/neuecc)/[**PhotonWire**](https://github.com/neuecc/PhotonWire)|Typed Asynchronous RPC Layer for Photon Server + Unity||
+|92|[@neuecc](https://github.com/neuecc)/[**PhotonWire**](https://github.com/neuecc/PhotonWire)|Typed Asynchronous RPC Layer for Photon Server + Unity||
+|90|[@keijiro](https://github.com/keijiro)/[**UnityCubes**](https://github.com/keijiro/UnityCubes)|Projection mapping on the Unity cube||
 |90|[@kitasenjudesign](https://github.com/kitasenjudesign)/[**UnityARFaceDeformation**](https://github.com/kitasenjudesign/UnityARFaceDeformation)|AR Face Deformation with Unity ARKit Plugin||
 |90|[@shiwano](https://github.com/shiwano)/[**submarine**](https://github.com/shiwano/submarine)|:whale: A mobile game that is made with Unity3D, RoR, and WebSocket server written in Go.||
 |89|[@guitarrapc](https://github.com/guitarrapc)/[**AzureFunctionsIntroduction**](https://github.com/guitarrapc/AzureFunctionsIntroduction)|Sample Code for Azure Functions|[:arrow_upper_right:](http://tech.guitarrapc.com/archive/category/AzureFunctions)|
-|89|[@keijiro](https://github.com/keijiro)/[**UnityCubes**](https://github.com/keijiro/UnityCubes)|Projection mapping on the Unity cube||
 |88|[@keijiro](https://github.com/keijiro)/[**SenselExamples**](https://github.com/keijiro/SenselExamples)|Examples of use of the Sensel Morph with Unity||
 |88|[@neuecc](https://github.com/neuecc)/[**SerializableDictionary**](https://github.com/neuecc/SerializableDictionary)|SerializableCollections(SerializableDictionary, SerializableLookup, SerializableTuple) for Unity||
 |88|[@sugi-cho](https://github.com/sugi-cho)/[**Unity-GPU-Particle**](https://github.com/sugi-cho/Unity-GPU-Particle)|gpu particle for unity||
@@ -192,45 +192,45 @@
 |87|[@keijiro](https://github.com/keijiro)/[**GameViewLayouter**](https://github.com/keijiro/GameViewLayouter)|A utility script that layouts game views with multiple displays.||
 |87|[@keijiro](https://github.com/keijiro)/[**ProcAmp**](https://github.com/keijiro/ProcAmp)|A utility shader for adjusting videos.||
 |86|[@i-saint](https://github.com/i-saint)/[**RaymarchingOnUnity5**](https://github.com/i-saint/RaymarchingOnUnity5)|||
-|84|[@beinteractive](https://github.com/beinteractive)/[**SVGMeshUnity**](https://github.com/beinteractive/SVGMeshUnity)|Generates mesh from SVG path in realtime for Unity.||
+|85|[@beinteractive](https://github.com/beinteractive)/[**SVGMeshUnity**](https://github.com/beinteractive/SVGMeshUnity)|Generates mesh from SVG path in realtime for Unity.||
 |84|[@keijiro](https://github.com/keijiro)/[**TrailBoids**](https://github.com/keijiro/TrailBoids)|Just tried making boids with particle trails.||
+|82|[@asus4](https://github.com/asus4)/[**unity-taptic-plugin**](https://github.com/asus4/unity-taptic-plugin)|iOS TAPTIC Engine Bridge for Unity||
 |82|[@brymck](https://github.com/brymck)/[**finansu**](https://github.com/brymck/finansu)|[No longer actively maintained.] Financial tools for Excel||
 |82|[@nickjanssen](https://github.com/nickjanssen)/[**UnityToThreeExporter**](https://github.com/nickjanssen/UnityToThreeExporter)|Export Unity scenes to three.js|[:arrow_upper_right:](https://threejsexporter.nickjanssen.com/)|
 |82|[@setchi](https://github.com/setchi)/[**BezierCanvas**](https://github.com/setchi/BezierCanvas)|Adobe Illustrator's pen tool style bezier editor on Unity.|[:arrow_upper_right:](http://setchi.hatenablog.com/entry/2017/04/08/191455)|
 |81|[@atsushieno](https://github.com/atsushieno)/[**managed-midi**](https://github.com/atsushieno/managed-midi)|Cross-platform MIDI processing library for mono and .NET (ALSA, CoreMIDI, Android, WinMM and UWP).||
+|81|[@keijiro](https://github.com/keijiro)/[**Dkvfx**](https://github.com/keijiro/Dkvfx)|An example that shows how to use recorded Depthkit footage with Unity VFX Graph ||
 |81|[@unity3d-jp](https://github.com/unity3d-jp)/[**fuze-vj-kit**](https://github.com/unity3d-jp/fuze-vj-kit)|VJKit for fuZe||
-|80|[@asus4](https://github.com/asus4)/[**unity-taptic-plugin**](https://github.com/asus4/unity-taptic-plugin)|iOS TAPTIC Engine Bridge for Unity||
-|79|[@keijiro](https://github.com/keijiro)/[**Dkvfx**](https://github.com/keijiro/Dkvfx)|An example that shows how to use recorded Depthkit footage with Unity VFX Graph ||
 |79|[@keijiro](https://github.com/keijiro)/[**WavTexture**](https://github.com/keijiro/WavTexture)|A Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader.||
-|78|[@mntone](https://github.com/mntone)/[**SvgForXaml**](https://github.com/mntone/SvgForXaml)|Draw image from svg file with Win2D||
+|79|[@mntone](https://github.com/mntone)/[**SvgForXaml**](https://github.com/mntone/SvgForXaml)|Draw image from svg file with Win2D||
+|78|[@mob-sakai](https://github.com/mob-sakai)/[**MeshEffectForTextMeshPro**](https://github.com/mob-sakai/MeshEffectForTextMeshPro)|Mesh effect components for TextMeshPro in Unity.||
+|78|[@setchi](https://github.com/setchi)/[**Unity-LineSegmentsIntersection**](https://github.com/setchi/Unity-LineSegmentsIntersection)|Line segments intersection for Unity.|[:arrow_upper_right:](http://setchi.hatenablog.com/entry/2017/07/12/202756)|
+|78|[@shimat](https://github.com/shimat)/[**opencvsharp_samples**](https://github.com/shimat/opencvsharp_samples)|||
 |77|[@Nordes](https://github.com/Nordes)/[**IdentityServer4.LdapExtension**](https://github.com/Nordes/IdentityServer4.LdapExtension)|IdentityServer4 Ldap Extension (OpenLdap or ActiveDirectory)||
+|77|[@keijiro](https://github.com/keijiro)/[**FFmpegRecorder**](https://github.com/keijiro/FFmpegRecorder)|FFmpeg extension for Unity Recorder||
 |77|[@mattatz](https://github.com/mattatz)/[**unity-gpu-particle-system**](https://github.com/mattatz/unity-gpu-particle-system)|GPU Particle System for Unity (require DirectX environment)||
-|77|[@mob-sakai](https://github.com/mob-sakai)/[**MeshEffectForTextMeshPro**](https://github.com/mob-sakai/MeshEffectForTextMeshPro)|Mesh effect components for TextMeshPro in Unity.||
-|77|[@shimat](https://github.com/shimat)/[**opencvsharp_samples**](https://github.com/shimat/opencvsharp_samples)|||
 |76|[@keijiro](https://github.com/keijiro)/[**unity-alphamask**](https://github.com/keijiro/unity-alphamask)|Unity でアルファマスクを使う||
-|76|[@setchi](https://github.com/setchi)/[**Unity-LineSegmentsIntersection**](https://github.com/setchi/Unity-LineSegmentsIntersection)|Line segments intersection for Unity.|[:arrow_upper_right:](http://setchi.hatenablog.com/entry/2017/07/12/202756)|
 |75|[@Mazyod](https://github.com/Mazyod)/[**PhoenixSharp**](https://github.com/Mazyod/PhoenixSharp)|C# Phoenix Channels client. Unity Compatible.||
 |75|[@keijiro](https://github.com/keijiro)/[**DepthCamFx**](https://github.com/keijiro/DepthCamFx)|||
 |75|[@keijiro](https://github.com/keijiro)/[**KinoFringe**](https://github.com/keijiro/KinoFringe)|Chromatic aberration image effect for Unity||
+|75|[@mattatz](https://github.com/mattatz)/[**UNN**](https://github.com/mattatz/UNN)|GPU-based neural network implementation in Unity.||
 |74|[@anoyetta](https://github.com/anoyetta)/[**ACT.SpecialSpellTimer**](https://github.com/anoyetta/ACT.SpecialSpellTimer)|ACTのFFXIV向けプラグイン 見た目を改善したスペルタイマーを提供します|[:arrow_upper_right:](https://discord.gg/n6Mut3F)|
 |74|[@keijiro](https://github.com/keijiro)/[**AudioPreviewTrack**](https://github.com/keijiro/AudioPreviewTrack)|Instant audio playback (scrubbing) in preview mode of Unity Timeline editor.||
-|74|[@mattatz](https://github.com/mattatz)/[**UNN**](https://github.com/mattatz/UNN)|GPU-based neural network implementation in Unity.||
+|74|[@shibayan](https://github.com/shibayan)/[**keyvault-acmebot**](https://github.com/shibayan/keyvault-acmebot)|Automated Let's Encrypt issuer for Azure Key Vault||
+|74|[@xin9le](https://github.com/xin9le)/[**FastEnum**](https://github.com/xin9le/FastEnum)|The world fastest enum utilities for C#/.NET||
+|73|[@keijiro](https://github.com/keijiro)/[**AdamPlaneReflection**](https://github.com/keijiro/AdamPlaneReflection)|Planar reflection effect from the Adam Interior Environment package.|[:arrow_upper_right:](https://www.assetstore.unity3d.com/en/#!/content/74965)|
 |73|[@keijiro](https://github.com/keijiro)/[**NeoLowMan**](https://github.com/keijiro/NeoLowMan)|Yet another low-poly man||
 |73|[@keijiro](https://github.com/keijiro)/[**Phantom**](https://github.com/keijiro/Phantom)|Visuals for Phantom Sketch Mod.|[:arrow_upper_right:](https://no-maps.jp/event/2016_int_psm)|
 |73|[@neuecc](https://github.com/neuecc)/[**HyperMapper**](https://github.com/neuecc/HyperMapper)|An alternative to AutoMapper, Hyper fast object-to-object mapper built on fastest serializer technology.||
-|73|[@xin9le](https://github.com/xin9le)/[**FastEnum**](https://github.com/xin9le/FastEnum)|The world fastest enum utilities for C#/.NET||
-|72|[@keijiro](https://github.com/keijiro)/[**AdamPlaneReflection**](https://github.com/keijiro/AdamPlaneReflection)|Planar reflection effect from the Adam Interior Environment package.|[:arrow_upper_right:](https://www.assetstore.unity3d.com/en/#!/content/74965)|
+|72|[@shibayan](https://github.com/shibayan)/[**WinQuickLook**](https://github.com/shibayan/WinQuickLook)|"Quick Look" like Windows Explorer file viewer.||
 |71|[@keijiro](https://github.com/keijiro)/[**DeferredAO**](https://github.com/keijiro/DeferredAO)|SSAO image effect for deferred shading||
-|71|[@keijiro](https://github.com/keijiro)/[**FFmpegRecorder**](https://github.com/keijiro/FFmpegRecorder)|FFmpeg extension for Unity Recorder||
-|71|[@shibayan](https://github.com/shibayan)/[**WinQuickLook**](https://github.com/shibayan/WinQuickLook)|"Quick Look" like Windows Explorer file viewer.||
-|71|[@shibayan](https://github.com/shibayan)/[**keyvault-acmebot**](https://github.com/shibayan/keyvault-acmebot)|Automated Let's Encrypt issuer for Azure Key Vault||
-|70|[@keijiro](https://github.com/keijiro)/[**GlitchFx**](https://github.com/keijiro/GlitchFx)|Digital Glitch VFX||
+|71|[@keijiro](https://github.com/keijiro)/[**GlitchFx**](https://github.com/keijiro/GlitchFx)|Digital Glitch VFX||
 |70|[@keijiro](https://github.com/keijiro)/[**KinoRamp**](https://github.com/keijiro/KinoRamp)|Color gradient overlay image effect for Unity||
 |69|[@mattatz](https://github.com/mattatz)/[**Dendrite**](https://github.com/mattatz/Dendrite)|GPU-based dendrite patterns generator with a space colonization algorithm in Unity.||
+|68|[@i-saint](https://github.com/i-saint)/[**DeferredShading**](https://github.com/i-saint/DeferredShading)|||
 |68|[@keijiro](https://github.com/keijiro)/[**PSlicer**](https://github.com/keijiro/PSlicer)|hi||
 |68|[@setchi](https://github.com/setchi)/[**uGUI-Hypertext**](https://github.com/setchi/uGUI-Hypertext)|Hypertext for uGUI|[:arrow_upper_right:](http://setchi.hatenablog.com/entry/2016/07/31/234204)|
 |68|[@ufcpp](https://github.com/ufcpp)/[**UfcppSample**](https://github.com/ufcpp/UfcppSample)|http://ufcpp.net/ 向けのサンプル||
-|67|[@i-saint](https://github.com/i-saint)/[**DeferredShading**](https://github.com/i-saint/DeferredShading)|||
 |66|[@neuecc](https://github.com/neuecc)/[**RuntimeUnitTestToolkit**](https://github.com/neuecc/RuntimeUnitTestToolkit)|Unity unit test framework focused on run play time and actual machine||
 |65|[@keijiro](https://github.com/keijiro)/[**MidiKlak**](https://github.com/keijiro/MidiKlak)|MIDI extension for Klak||
 |65|[@keijiro](https://github.com/keijiro)/[**TextAnimation**](https://github.com/keijiro/TextAnimation)|A prototype of text animation shader||
@@ -245,8 +245,8 @@
 |61|[@kamanii24](https://github.com/kamanii24)/[**AssetBundleManager**](https://github.com/kamanii24/AssetBundleManager)|This script for easily use AssetBundle.||
 |60|[@keijiro](https://github.com/keijiro)/[**MidiAnimImporter**](https://github.com/keijiro/MidiAnimImporter)|A custom importer that imports a .mid file (SMF; Standard MIDI File) into an animation clip.||
 |60|[@mattatz](https://github.com/mattatz)/[**unity-path-finding**](https://github.com/mattatz/unity-path-finding)|Shortest path finding with Dijkstra's algorithm for Unity.||
+|60|[@mattatz](https://github.com/mattatz)/[**unity-volume-sampler**](https://github.com/mattatz/unity-volume-sampler)|Mesh volume sampler with voxelizer & 3D poisson disk sampling for Unity.||
 |59|[@keijiro](https://github.com/keijiro)/[**KinoVignette**](https://github.com/keijiro/KinoVignette)|Natural vignetting effect for Unity||
-|59|[@mattatz](https://github.com/mattatz)/[**unity-volume-sampler**](https://github.com/mattatz/unity-volume-sampler)|Mesh volume sampler with voxelizer & 3D poisson disk sampling for Unity.||
 |58|[@NicolasDorier](https://github.com/NicolasDorier)/[**BCCSpliter**](https://github.com/NicolasDorier/BCCSpliter)|A command line utility to send split BTC from your BCC||
 |58|[@hecomi](https://github.com/hecomi)/[**VrGrabber**](https://github.com/hecomi/VrGrabber)|VR Grabber components for Unity|[:arrow_upper_right:](http://tips.hecomi.com/entry/2017/07/30/234658)|
 |58|[@mob-sakai](https://github.com/mob-sakai)/[**MirrorReflectionEffectForUGUI**](https://github.com/mob-sakai/MirrorReflectionEffectForUGUI)|A simple mirror reflection effect for a uGUI without reflection probes or shaders.||
@@ -257,23 +257,24 @@
 |55|[@BYVoid](https://github.com/BYVoid)/[**MidiToSheetMusic**](https://github.com/BYVoid/MidiToSheetMusic)|A tiny tool for conversion from MIDI file to sheet music image file||
 |55|[@axzxs2001](https://github.com/axzxs2001)/[**AuthorizePolicy.JWT**](https://github.com/axzxs2001/AuthorizePolicy.JWT)|A custome policy of jwt authorize standard library for asp.net core 2.0||
 |55|[@ytabuchi](https://github.com/ytabuchi)/[**XamarinHOL**](https://github.com/ytabuchi/XamarinHOL)|Xamarin ハンズオン用のレポジトリ＆ドキュメントです。||
+|54|[@mattatz](https://github.com/mattatz)/[**unity-photo-particle-system**](https://github.com/mattatz/unity-photo-particle-system)|GPU Particle System (using Vertex Texture Fetch techniques) with Texture2DArray for Unity.||
 |54|[@n-yoda](https://github.com/n-yoda)/[**unity-midi**](https://github.com/n-yoda/unity-midi)|Play MIDI (SMF) on Unity, using C# Synth Project.||
 |53|[@hecomi](https://github.com/hecomi)/[**uOSC**](https://github.com/hecomi/uOSC)|OSC server / client implementation for Unity|[:arrow_upper_right:](http://tips.hecomi.com/entry/2017/08/20/193823)|
 |53|[@hecomi](https://github.com/hecomi)/[**uRaymarchingExamples**](https://github.com/hecomi/uRaymarchingExamples)|Examples using uRaymarching (https://github.com/hecomi/uRaymarching)||
+|53|[@hecomi](https://github.com/hecomi)/[**uShaderTemplate**](https://github.com/hecomi/uShaderTemplate)|Unity editor extension to generate shaders from template files.|[:arrow_upper_right:](http://tips.hecomi.com/entry/2017/10/24/014057)|
 |53|[@keijiro](https://github.com/keijiro)/[**Trinity**](https://github.com/keijiro/Trinity)|Live visuals for Channel #17, made with Unity.|[:arrow_upper_right:](https://www.super-deluxe.com/room/4329/)|
-|53|[@mattatz](https://github.com/mattatz)/[**unity-photo-particle-system**](https://github.com/mattatz/unity-photo-particle-system)|GPU Particle System (using Vertex Texture Fetch techniques) with Texture2DArray for Unity.||
-|52|[@hecomi](https://github.com/hecomi)/[**uShaderTemplate**](https://github.com/hecomi/uShaderTemplate)|Unity editor extension to generate shaders from template files.|[:arrow_upper_right:](http://tips.hecomi.com/entry/2017/10/24/014057)|
 |52|[@keijiro](https://github.com/keijiro)/[**ProbePolisher**](https://github.com/keijiro/ProbePolisher)|Light probe editor for Unity.||
 |52|[@mattatz](https://github.com/mattatz)/[**unity-transform-control**](https://github.com/mattatz/unity-transform-control)|Transform controller in Game View for Unity.||
 |52|[@mayuki](https://github.com/mayuki)/[**Beatrice**](https://github.com/mayuki/Beatrice)|Everything is a smart home device works with Google Home/Assistant.||
 |52|[@mob-sakai](https://github.com/mob-sakai)/[**ProjectBuilder**](https://github.com/mob-sakai/ProjectBuilder)|A tool for easy automating and customizing build process for Unity.||
 |52|[@veigr](https://github.com/veigr)/[**BattleInfoPlugin**](https://github.com/veigr/BattleInfoPlugin)|戦闘情報を表示する KanColleViewer プラグインです。||
 |51|[@keijiro](https://github.com/keijiro)/[**Flipper**](https://github.com/keijiro/Flipper)|Live visuals for ADIRECTOR Channel, made with Unity||
+|51|[@keijiro](https://github.com/keijiro)/[**SlicerFx**](https://github.com/keijiro/SlicerFx)|Surface Slicing Full Screen Effect||
+|51|[@kyubuns](https://github.com/kyubuns)/[**OnionRingUnity**](https://github.com/kyubuns/OnionRingUnity)|Auto 9 slice sprite generator on Unity|[:arrow_upper_right:](http://qiita.com/kyubuns/items/4327bb38ff22989ba7ed)|
+|51|[@mob-sakai](https://github.com/mob-sakai)/[**GitDependencyResolverForUnity**](https://github.com/mob-sakai/GitDependencyResolverForUnity)|This plugin resolves git url dependencies in the package for Unity Package Manager. You can use a git url as a package dependency!||
 |50|[@IndieVisualLab](https://github.com/IndieVisualLab)/[**UnityGraphicsProgramming3**](https://github.com/IndieVisualLab/UnityGraphicsProgramming3)|書籍「UnityGraphicsProgramming vol.3」のサンプルコードリポジトリ||
 |50|[@hecomi](https://github.com/hecomi)/[**uDllExporter**](https://github.com/hecomi/uDllExporter)|Tool to build DLLs in Unity.|[:arrow_upper_right:](http://tips.hecomi.com/entry/2018/04/16/004749)|
-|50|[@keijiro](https://github.com/keijiro)/[**SlicerFx**](https://github.com/keijiro/SlicerFx)|Surface Slicing Full Screen Effect||
 |50|[@keijiro](https://github.com/keijiro)/[**VfxPyro**](https://github.com/keijiro/VfxPyro)|Fireworks particle effect with Unity VFX Graph||
-|50|[@mob-sakai](https://github.com/mob-sakai)/[**GitDependencyResolverForUnity**](https://github.com/mob-sakai/GitDependencyResolverForUnity)|This plugin resolves git url dependencies in the package for Unity Package Manager. You can use a git url as a package dependency!||
 |49|[@Kintaro](https://github.com/Kintaro)/[**SnappySharp**](https://github.com/Kintaro/SnappySharp)|A native C# portation of Google's snappy compression/decompression library|[:arrow_upper_right:](http://think-in-co.de)|
 |49|[@axzxs2001](https://github.com/axzxs2001)/[**GUISUVPay**](https://github.com/axzxs2001/GUISUVPay)|本项目是用asp.net core（for .net framework）实现的支付宝当面付（扫码支付和条码支付），微信扫码支付和刷卡支付。||
 |49|[@keijiro](https://github.com/keijiro)/[**Text2Man**](https://github.com/keijiro/Text2Man)|i have no idea what im making||
@@ -281,16 +282,15 @@
 |49|[@keijiro](https://github.com/keijiro)/[**smflite**](https://github.com/keijiro/smflite)|A minimal class library for handling standard MIDI files on Unity.||
 |49|[@keijiro](https://github.com/keijiro)/[**unity-midi-input**](https://github.com/keijiro/unity-midi-input)|NOTE: This project has been already discontinued. Use MidiJack instead.|[:arrow_upper_right:](https://github.com/keijiro/MidiJack)|
 |49|[@mattak](https://github.com/mattak)/[**Unibus**](https://github.com/mattak/Unibus)|Unibus is event passing system for Unity3D. 🚀||
+|49|[@mattatz](https://github.com/mattatz)/[**unity-procedural-skinned-animator**](https://github.com/mattatz/unity-procedural-skinned-animator)|Procedural skinned mesh animation 🐍 for Unity.||
 |49|[@nobnak](https://github.com/nobnak)/[**MeshSimplification**](https://github.com/nobnak/MeshSimplification)|||
 |48|[@keijiro](https://github.com/keijiro)/[**Evp3**](https://github.com/keijiro/Evp3)|Volumetric visual effects program used in Unite Shanghai 2019||
 |48|[@keijiro](https://github.com/keijiro)/[**UnityMrtTest**](https://github.com/keijiro/UnityMrtTest)|A simple example of MRT (multi render targets) with Unity||
-|48|[@mattatz](https://github.com/mattatz)/[**unity-procedural-skinned-animator**](https://github.com/mattatz/unity-procedural-skinned-animator)|Procedural skinned mesh animation 🐍 for Unity.||
 |48|[@shibayan](https://github.com/shibayan)/[**azure-keyvault-letsencrypt**](https://github.com/shibayan/azure-keyvault-letsencrypt)|Automated Let's Encrypt issuer for Azure Key Vault||
 |47|[@keijiro](https://github.com/keijiro)/[**SpektrScatter**](https://github.com/keijiro/SpektrScatter)|||
-|47|[@kyubuns](https://github.com/kyubuns)/[**OnionRingUnity**](https://github.com/kyubuns/OnionRingUnity)|Auto 9 slice sprite generator on Unity|[:arrow_upper_right:](http://qiita.com/kyubuns/items/4327bb38ff22989ba7ed)|
+|47|[@keijiro](https://github.com/keijiro)/[**VJ04**](https://github.com/keijiro/VJ04)|Live performance visuals at Channel X.|[:arrow_upper_right:](https://www.youtube.com/watch?v=jLmbjudThlA)|
 |46|[@bitrinjani](https://github.com/bitrinjani)/[**rinjani**](https://github.com/bitrinjani/rinjani)|Rinjani Bitcoin Arbitrager is a Proof-Of-Concept prototype of an automatic arbitrage trading system.||
 |46|[@keijiro](https://github.com/keijiro)/[**SmoothingTest**](https://github.com/keijiro/SmoothingTest)|Critically damped spring smoothing||
-|46|[@keijiro](https://github.com/keijiro)/[**VJ04**](https://github.com/keijiro/VJ04)|Live performance visuals at Channel X.|[:arrow_upper_right:](https://www.youtube.com/watch?v=jLmbjudThlA)|
 |46|[@keijiro](https://github.com/keijiro)/[**unity-midi-bridge**](https://github.com/keijiro/unity-midi-bridge)|NOTE: This project has been already discontinued. Use MidiJack instead.|[:arrow_upper_right:](https://github.com/keijiro/MidiJack)|
 |46|[@mob-sakai](https://github.com/mob-sakai)/[**AtlasImage**](https://github.com/mob-sakai/AtlasImage)| AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector.|[:arrow_upper_right:](https://github.com/mob-sakai/AtlasImage)|
 |45|[@chomado](https://github.com/chomado)/[**Xamalist**](https://github.com/chomado/Xamalist)|Xamarin製アプリ一覧アプリ。iOS/Android アプリを、クライアントは Xamarin、サーバサイドは Azure を使って開発します||
@@ -309,19 +309,19 @@
 |42|[@ume05rw](https://github.com/ume05rw)/[**SharpCifs.Std**](https://github.com/ume05rw/SharpCifs.Std)|SharpCifs.Std is a port from SharpCifs to .NET Standard. Original SharpCifs: https://github.com/zinkpad/SharpCifs||
 |41|[@keijiro](https://github.com/keijiro)/[**DepthkitTest**](https://github.com/keijiro/DepthkitTest)|An attempt at integrating custom effects and HAP video player to the Depthkit workflow.||
 |41|[@keijiro](https://github.com/keijiro)/[**unity-oblique-projection**](https://github.com/keijiro/unity-oblique-projection)|Provides an oblique projection matrix for a camera.||
+|41|[@m2wasabi](https://github.com/m2wasabi)/[**LiveAvatar**](https://github.com/m2wasabi/LiveAvatar)|Digital puppet application without HMD||
 |41|[@yaneurao](https://github.com/yaneurao)/[**MyShogi**](https://github.com/yaneurao/MyShogi)|マイナビさんから発売するやねうら王の将棋用GUIです。ライセンスについては考え中。|[:arrow_upper_right:](http://yaneuraou.yaneu.com)|
 |40|[@keijiro](https://github.com/keijiro)/[**unity-adbanner-example**](https://github.com/keijiro/unity-adbanner-example)|Unity で iAd (iOS) と AdMob (Android) を共用する場合の実装例||
+|40|[@kitasenjudesign](https://github.com/kitasenjudesign)/[**UnityGpuInstancing**](https://github.com/kitasenjudesign/UnityGpuInstancing)|GPU Instancing + Boids + Animation Texture Baker||
 |40|[@kyubuns](https://github.com/kyubuns)/[**prefab_in_prefab**](https://github.com/kyubuns/prefab_in_prefab)|[deprecated]||
-|40|[@m2wasabi](https://github.com/m2wasabi)/[**LiveAvatar**](https://github.com/m2wasabi/LiveAvatar)|Digital puppet application without HMD||
 |40|[@mob-sakai](https://github.com/mob-sakai)/[**DissolveEffectForTMPro**](https://github.com/mob-sakai/DissolveEffectForTMPro)|DissolveEffectForTMPro provide dissolve effect component for TextMeshPro in Unity.||
 |39|[@ReiiYuki](https://github.com/ReiiYuki)/[**Intel-Realsense-Hand-Toolkit-Unity**](https://github.com/ReiiYuki/Intel-Realsense-Hand-Toolkit-Unity)|Intel Realsense Toolkit for Hand tracking and Gestural Recognition on Unity3D||
+|39|[@beinteractive](https://github.com/beinteractive)/[**UrFairy**](https://github.com/beinteractive/UrFairy)|C# extensions for Unity development||
 |39|[@keijiro](https://github.com/keijiro)/[**NoiseTools**](https://github.com/keijiro/NoiseTools)|A small library of noise functions||
 |39|[@kenakamu](https://github.com/kenakamu)/[**line-bot-sdk-csharp**](https://github.com/kenakamu/line-bot-sdk-csharp)|SDK of the LINE Messaging API for C#||
-|39|[@kitasenjudesign](https://github.com/kitasenjudesign)/[**UnityGpuInstancing**](https://github.com/kitasenjudesign/UnityGpuInstancing)|GPU Instancing + Boids + Animation Texture Baker||
 |39|[@mattak](https://github.com/mattak)/[**Unicache**](https://github.com/mattak/Unicache)|Cache management system for Unity3D 🐷||
 |39|[@naichilab](https://github.com/naichilab)/[**Unity-FadeManager**](https://github.com/naichilab/Unity-FadeManager)|||
 |38|[@IndieVisualLab](https://github.com/IndieVisualLab)/[**UnityGraphicsProgramming4**](https://github.com/IndieVisualLab/UnityGraphicsProgramming4)|書籍「UnityGraphicsProgramming vol.4」のサンプルコードリポジトリ||
-|38|[@beinteractive](https://github.com/beinteractive)/[**UrFairy**](https://github.com/beinteractive/UrFairy)|C# extensions for Unity development||
 |38|[@keijiro](https://github.com/keijiro)/[**DFNoiseTest**](https://github.com/keijiro/DFNoiseTest)|Some experiments on a divergence-free noise function (Unity)||
 |38|[@keijiro](https://github.com/keijiro)/[**SpektrSubatomic**](https://github.com/keijiro/SpektrSubatomic)|Geometric mirroring effect for Unity||
 |38|[@unity3d-jp](https://github.com/unity3d-jp)/[**DojoUI1**](https://github.com/unity3d-jp/DojoUI1)|Unity道場「モダンなUIの提案と実装」||
@@ -331,34 +331,34 @@
 |37|[@keijiro](https://github.com/keijiro)/[**TemporalReprojectionTest**](https://github.com/keijiro/TemporalReprojectionTest)|A testbed for temporal reprojection techniques.||
 |37|[@nabehiro](https://github.com/nabehiro)/[**HttpAuthModule**](https://github.com/nabehiro/HttpAuthModule)|Http Basic, Digest Authentication Module with IP Restriction||
 |37|[@nkjzm](https://github.com/nkjzm)/[**Unity-SafeAreaCanvas**](https://github.com/nkjzm/Unity-SafeAreaCanvas)|The unity asset is that for adjusting the size automatically and preview in Editor.||
-|37|[@unity3d-jp](https://github.com/unity3d-jp)/[**AngryChicken**](https://github.com/unity3d-jp/AngryChicken)|||
+|37|[@nukata](https://github.com/nukata)/[**lisp-in-cs**](https://github.com/nukata/lisp-in-cs)|A Lisp interpreter in C# 7||
+|36|[@hiroki-o](https://github.com/hiroki-o)/[**VoxHands**](https://github.com/hiroki-o/VoxHands)|Humanoid Finger Controller Plugin for Unity||
+|36|[@mattatz](https://github.com/mattatz)/[**unity-lut-generator**](https://github.com/mattatz/unity-lut-generator)|LookUpTable generator for Unity.||
 |36|[@mattatz](https://github.com/mattatz)/[**unity-procedural-volumetric-fire**](https://github.com/mattatz/unity-procedural-volumetric-fire)|Unity implementation of Real-time procedural volumetric fire.||
 |36|[@mob-sakai](https://github.com/mob-sakai)/[**DissolveEffectForUGUI**](https://github.com/mob-sakai/DissolveEffectForUGUI)|A dissolve effect for uGUI, without material instancing. Please star and watch this project :)|[:arrow_upper_right:](https://github.com/mob-sakai/DissolveEffectForUGUI)|
 |36|[@neuecc](https://github.com/neuecc)/[**NotifyPropertyChangedGenerator**](https://github.com/neuecc/NotifyPropertyChangedGenerator)|Roslyn Analyzer/Generator for avoid boring boilerplate INotifyPropertyChanged implementation.||
-|36|[@nukata](https://github.com/nukata)/[**lisp-in-cs**](https://github.com/nukata/lisp-in-cs)|A Lisp interpreter in C# 7||
 |36|[@sugi-cho](https://github.com/sugi-cho)/[**ProjectionMapping-unity**](https://github.com/sugi-cho/ProjectionMapping-unity)|this project is work in progress||
+|36|[@unity3d-jp](https://github.com/unity3d-jp)/[**AngryChicken**](https://github.com/unity3d-jp/AngryChicken)|||
 |36|[@unity3d-jp](https://github.com/unity3d-jp)/[**SeparatedAssetBundleBuild**](https://github.com/unity3d-jp/SeparatedAssetBundleBuild)|Workaround for long time to build many AssetBundles.||
 |36|[@unity3d-jp](https://github.com/unity3d-jp)/[**SurfingGame**](https://github.com/unity3d-jp/SurfingGame)|Unity tutorial game project with Oculus Rift.||
 |36|[@unity3d-jp](https://github.com/unity3d-jp)/[**WebGLNativeInputField**](https://github.com/unity3d-jp/WebGLNativeInputField)|WebGLでIME入力を可能にします||
 |36|[@xin9le](https://github.com/xin9le)/[**DeclarativeSql**](https://github.com/xin9le/DeclarativeSql)|Attribute-based database access||
 |35|[@IndieVisualLab](https://github.com/IndieVisualLab)/[**UnityGraphicsProgrammingFrontCover**](https://github.com/IndieVisualLab/UnityGraphicsProgrammingFrontCover)|技術同人誌「Unity Graphics Programming vol.1」 表紙グラフィックス作成のためのUnityプロジェクト||
-|35|[@hiroki-o](https://github.com/hiroki-o)/[**VoxHands**](https://github.com/hiroki-o/VoxHands)|Humanoid Finger Controller Plugin for Unity||
 |35|[@keijiro](https://github.com/keijiro)/[**FrameDump**](https://github.com/keijiro/FrameDump)|A small utility for exporting image sequence from Unity||
 |35|[@makoto-unity](https://github.com/makoto-unity)/[**PanoramaVideoWithUnity**](https://github.com/makoto-unity/PanoramaVideoWithUnity)|It shows panorama video using Unity.||
+|35|[@neuecc](https://github.com/neuecc)/[**MySqlSharp**](https://github.com/neuecc/MySqlSharp)|Extremely Fast MySQL Driver for C#, work in progress.||
 |34|[@amay077](https://github.com/amay077)/[**StopWatchSample**](https://github.com/amay077/StopWatchSample)|RxJava+Java あるいは Reactive Extensions + Xamarin による Rx+MVVM な Android/iOS 対応ストップウォッチアプリのサンプル|[:arrow_upper_right:](http://qiita.com/amay077/items/8464a22e3063642112ed)|
+|34|[@dalance](https://github.com/dalance)/[**D2dControl**](https://github.com/dalance/D2dControl)|WPF Control for Direct2D with SharpDX||
+|34|[@keijiro](https://github.com/keijiro)/[**unity-osc**](https://github.com/keijiro/unity-osc)|A minimal OSC receiver implementation for Unity.||
 |34|[@keijiro](https://github.com/keijiro)/[**unity-pvr-cleaner**](https://github.com/keijiro/unity-pvr-cleaner)|アルファ入りの PVRTC を奇麗にするコツ||
 |34|[@m2wasabi](https://github.com/m2wasabi)/[**VRMLoaderUI**](https://github.com/m2wasabi/VRMLoaderUI)|VRM Loader UI||
-|34|[@mattatz](https://github.com/mattatz)/[**unity-lut-generator**](https://github.com/mattatz/unity-lut-generator)|LookUpTable generator for Unity.||
 |34|[@mob-sakai](https://github.com/mob-sakai)/[**ShinyEffectForTMPro**](https://github.com/mob-sakai/ShinyEffectForTMPro)|ShinyEffectForTMPro provide shiny effect component for TextMeshPro in Unity.||
 |34|[@moxuse](https://github.com/moxuse)/[**tidal-unity**](https://github.com/moxuse/tidal-unity)|||
 |34|[@neuecc](https://github.com/neuecc)/[**DatadogSharp**](https://github.com/neuecc/DatadogSharp)|Yet another C# Datadog client that supports DogStatsD and APM.||
-|34|[@neuecc](https://github.com/neuecc)/[**MySqlSharp**](https://github.com/neuecc/MySqlSharp)|Extremely Fast MySQL Driver for C#, work in progress.||
 |33|[@ProjectLovewing](https://github.com/ProjectLovewing)/[**Lovewing**](https://github.com/ProjectLovewing/Lovewing)|School Idol Festival. Redefined.||
 |33|[@TsudaKageyu](https://github.com/TsudaKageyu)/[**IconExtractor**](https://github.com/TsudaKageyu/IconExtractor)|Icon Extractor Library for .NET||
-|33|[@dalance](https://github.com/dalance)/[**D2dControl**](https://github.com/dalance/D2dControl)|WPF Control for Direct2D with SharpDX||
 |33|[@keijiro](https://github.com/keijiro)/[**Emgen**](https://github.com/keijiro/Emgen)|Basic mesh generator library for Unity||
 |33|[@keijiro](https://github.com/keijiro)/[**OctaneUnityTest**](https://github.com/keijiro/OctaneUnityTest)|Some examples of use of Octane for Unity||
-|33|[@keijiro](https://github.com/keijiro)/[**unity-osc**](https://github.com/keijiro/unity-osc)|A minimal OSC receiver implementation for Unity.||
 |33|[@kenmaz](https://github.com/kenmaz)/[**TempleRun-Unity**](https://github.com/kenmaz/TempleRun-Unity)|TempleRun clone with Unity||
 |33|[@mattatz](https://github.com/mattatz)/[**unity-mesh-builder**](https://github.com/mattatz/unity-mesh-builder)|Primitive mesh builder for Unity.||
 |33|[@takeshik](https://github.com/takeshik)/[**yacq**](https://github.com/takeshik/yacq)|Yet Another Compilable Query Language for .NET, based on Expression Trees API|[:arrow_upper_right:](http://yacq.net/)|
@@ -367,13 +367,13 @@
 |32|[@keijiro](https://github.com/keijiro)/[**MovecControlTrack**](https://github.com/keijiro/MovecControlTrack)|Control motion vector generation from timeline||
 |32|[@neuecc](https://github.com/neuecc)/[**OwinRequestScopeContext**](https://github.com/neuecc/OwinRequestScopeContext)|Owin Middleware it is possible to RequestScopeContext like HttpContext.Current but no dependent System.Web.||
 |32|[@sugi-cho](https://github.com/sugi-cho)/[**Animated-Mesh-Surface-Position-Texture-Generator**](https://github.com/sugi-cho/Animated-Mesh-Surface-Position-Texture-Generator)|||
+|31|[@hecomi](https://github.com/hecomi)/[**uHomography**](https://github.com/hecomi/uHomography)|Homography Transformation Image Effect for Unity.|[:arrow_upper_right:](http://tips.hecomi.com/entry/2017/09/30/145734)|
 |31|[@keijiro](https://github.com/keijiro)/[**unity-sunburst-effects**](https://github.com/keijiro/unity-sunburst-effects)|Sunburst effects with mesh animation (Unity, C#)||
 |31|[@mattatz](https://github.com/mattatz)/[**unity-cellular-automaton-based-ink-simulation**](https://github.com/mattatz/unity-cellular-automaton-based-ink-simulation)|2D Cellular automaton based ink simulation for Unity.||
 |31|[@mattatz](https://github.com/mattatz)/[**unity-mesh-slicing**](https://github.com/mattatz/unity-mesh-slicing)|View-aligned mesh slicing for Unity.||
 |31|[@setchi](https://github.com/setchi)/[**EasingCore**](https://github.com/setchi/EasingCore)|Simple easing implementation for Unity.||
 |31|[@unity3d-jp](https://github.com/unity3d-jp)/[**AnotherThreadVR**](https://github.com/unity3d-jp/AnotherThreadVR)|||
 |31|[@unity3d-jp](https://github.com/unity3d-jp)/[**piranhan**](https://github.com/unity3d-jp/piranhan)|「ピラニアン」 ("Piranhan") -  Retro-style 2D shooting game made with Unity|[:arrow_upper_right:](http://unity3d-jp.github.io/piranhan/)|
-|30|[@hecomi](https://github.com/hecomi)/[**uHomography**](https://github.com/hecomi/uHomography)|Homography Transformation Image Effect for Unity.|[:arrow_upper_right:](http://tips.hecomi.com/entry/2017/09/30/145734)|
 |30|[@keijiro](https://github.com/keijiro)/[**Seido**](https://github.com/keijiro/Seido)|Visuals for Matsuura Masaya's live performance in Osaka and Tokyo.||
 |30|[@keijiro](https://github.com/keijiro)/[**VJ05**](https://github.com/keijiro/VJ05)|Visual performance software developed for Channel #12||
 |30|[@kyubuns](https://github.com/kyubuns)/[**Kuchen**](https://github.com/kyubuns/Kuchen)|Pub/Sub for Unity||
@@ -399,22 +399,22 @@
 |27|[@chomado](https://github.com/chomado)/[**TwitterBot_InCSharp**](https://github.com/chomado/TwitterBot_InCSharp)|Twitter bot を C# で書きます。他の人も clone して (４行設定書き換えたら) 簡単に使えるように設計しています||
 |27|[@i-saint](https://github.com/i-saint)/[**OpenSubdivForUnity**](https://github.com/i-saint/OpenSubdivForUnity)|||
 |27|[@keijiro](https://github.com/keijiro)/[**InstancedMotionVector**](https://github.com/keijiro/InstancedMotionVector)|Shows how to support rendering per-instance motion vectors within Indirect instanced drawing of Unity.||
+|27|[@mattatz](https://github.com/mattatz)/[**unity-immediate-color-picker**](https://github.com/mattatz/unity-immediate-color-picker)|Color picker for Unity in immediate GUI mode||
 |27|[@mob-sakai](https://github.com/mob-sakai)/[**CompositeToggle**](https://github.com/mob-sakai/CompositeToggle)|Composite toggle system for unity||
 |27|[@naichilab](https://github.com/naichilab)/[**unityroom-tweet**](https://github.com/naichilab/unityroom-tweet)|WebGLからツイートするサンプル||
 |27|[@nkjzm](https://github.com/nkjzm)/[**VTuberKit**](https://github.com/nkjzm/VTuberKit)|Live2Dで拡張性の高いVTuber配信システムを作成するためのプロジェクトです。||
 |26|[@Eskat0n](https://github.com/Eskat0n)/[**TabulaRasa**](https://github.com/Eskat0n/TabulaRasa)|TabulaRasa is a .NET library which provides a fluent API for generating, changing and templating documents in OpenXML format.|[:arrow_upper_right:](https://nuget.org/packages/TabulaRasa)|
 |26|[@keijiro](https://github.com/keijiro)/[**Pincushion**](https://github.com/keijiro/Pincushion)|Unity example: drawing something like a pincushion||
 |26|[@kodai100](https://github.com/kodai100)/[**Unity_GPUNearestNeighbor**](https://github.com/kodai100/Unity_GPUNearestNeighbor)|Spatial Hashing Algorithm with GPU Acceleration|[:arrow_upper_right:](http://creativeuniverse.tokyo/portfolio)|
-|26|[@mattatz](https://github.com/mattatz)/[**unity-immediate-color-picker**](https://github.com/mattatz/unity-immediate-color-picker)|Color picker for Unity in immediate GUI mode||
 |26|[@mob-sakai](https://github.com/mob-sakai)/[**SubAssetEditor**](https://github.com/mob-sakai/SubAssetEditor)|Editor for SubAsset in unity project.|[:arrow_upper_right:](https://github.com/mob-sakai/SubAssetEditor)|
 |26|[@mob-sakai](https://github.com/mob-sakai)/[**UITransition**](https://github.com/mob-sakai/UITransition)|||
+|26|[@naichilab](https://github.com/naichilab)/[**unity-simple-ranking**](https://github.com/naichilab/unity-simple-ranking)|||
 |26|[@neuecc](https://github.com/neuecc)/[**ReMotion**](https://github.com/neuecc/ReMotion)|Hyper Fast Reactive Tween Engine for Unity||
 |26|[@ytabuchi](https://github.com/ytabuchi)/[**XamarinFormsTemplate**](https://github.com/ytabuchi/XamarinFormsTemplate)|Xamarin.Forms Template for Visual Studio 2017||
 |25|[@keijiro](https://github.com/keijiro)/[**Beta**](https://github.com/keijiro/Beta)|A live coding session at Channel 16||
 |25|[@keijiro](https://github.com/keijiro)/[**CustomShadowTest**](https://github.com/keijiro/CustomShadowTest)|||
 |25|[@keijiro](https://github.com/keijiro)/[**InfiniteScan**](https://github.com/keijiro/InfiniteScan)|3D head scan model from Infinite-Realities||
 |25|[@mattatz](https://github.com/mattatz)/[**EvolvingVirtualCreatures**](https://github.com/mattatz/EvolvingVirtualCreatures)|Karl Sims, Evolving Virtual Creatures by Unity.||
-|25|[@naichilab](https://github.com/naichilab)/[**unity-simple-ranking**](https://github.com/naichilab/unity-simple-ranking)|||
 |25|[@nobnak](https://github.com/nobnak)/[**SmokeBlur**](https://github.com/nobnak/SmokeBlur)|||
 |25|[@obushi](https://github.com/obushi)/[**ProceduralWaterfall**](https://github.com/obushi/ProceduralWaterfall)|An experimental Unity project of interactive and procedural waterfall simulation||
 |25|[@reinforce-lab](https://github.com/reinforce-lab)/[**com.ReinforceLab.MonoTouch.Controls**](https://github.com/reinforce-lab/com.ReinforceLab.MonoTouch.Controls)|Some useful ui controllers for MonoTouch.
@@ -422,6 +422,7 @@
 |25|[@sugi-cho](https://github.com/sugi-cho)/[**UdpData-Unity**](https://github.com/sugi-cho/UdpData-Unity)|send and receive udp data||
 |24|[@LightGive](https://github.com/LightGive)/[**TransitionManager**](https://github.com/LightGive/TransitionManager)|It is a manager of scene transitions using Unity's uGUI.||
 |24|[@coppra](https://github.com/coppra)/[**flappy_bird**](https://github.com/coppra/flappy_bird)|Flappy Bird in Unity||
+|24|[@fand](https://github.com/fand)/[**BRDG20180827**](https://github.com/fand/BRDG20180827)|A Unity-VJ system created for ADIRECTOR CHANNEL, 2018-08-27.||
 |24|[@hecomi](https://github.com/hecomi)/[**HoloLensPlayground**](https://github.com/hecomi/HoloLensPlayground)|My playground for HoloLens.|[:arrow_upper_right:](http://tips.hecomi.com/entry/2017/02/12/211458)|
 |24|[@imaginejp](https://github.com/imaginejp)/[**datascience**](https://github.com/imaginejp/datascience)|||
 |24|[@keijiro](https://github.com/keijiro)/[**FaceBaker**](https://github.com/keijiro/FaceBaker)|||
@@ -443,7 +444,6 @@
 |22|[@atsushieno](https://github.com/atsushieno)/[**sf2xrni**](https://github.com/atsushieno/sf2xrni)|Converts SoundFont sf2 file to Renoise XRNI files||
 |22|[@axzxs2001](https://github.com/axzxs2001)/[**AuthorizePolicy**](https://github.com/axzxs2001/AuthorizePolicy)|A custome policy of authorize standard library for asp.net core 2.0||
 |22|[@dnek](https://github.com/dnek)/[**Pidet**](https://github.com/dnek/Pidet)|IDE for Piet.||
-|22|[@fand](https://github.com/fand)/[**BRDG20180827**](https://github.com/fand/BRDG20180827)|A Unity-VJ system created for ADIRECTOR CHANNEL, 2018-08-27.||
 |22|[@keijiro](https://github.com/keijiro)/[**AudioJack**](https://github.com/keijiro/AudioJack)|External Audio Analyzer for Unity||
 |22|[@keijiro](https://github.com/keijiro)/[**ImageSequenceOut**](https://github.com/keijiro/ImageSequenceOut)|Image sequence output utility for Unity||
 |22|[@mayuki](https://github.com/mayuki)/[**PlatformStatusTracker**](https://github.com/mayuki/PlatformStatusTracker)|Tracker for the Web browser platform statuses|[:arrow_upper_right:](https://platformstatus.io/)|
@@ -471,14 +471,15 @@
 |20|[@keijiro](https://github.com/keijiro)/[**UnityBasicTransitionFx**](https://github.com/keijiro/UnityBasicTransitionFx)|Simple fading effects for Unity.||
 |20|[@mob-sakai](https://github.com/mob-sakai)/[**ButtonEx**](https://github.com/mob-sakai/ButtonEx)|||
 |20|[@nobnak](https://github.com/nobnak)/[**BlendedOIT**](https://github.com/nobnak/BlendedOIT)|||
+|20|[@shibayan](https://github.com/shibayan)/[**IISManager**](https://github.com/shibayan/IISManager)|IIS Manager Extension for Azure Web Apps||
 |20|[@sugi-cho](https://github.com/sugi-cho)/[**GPU-Particle**](https://github.com/sugi-cho/GPU-Particle)|using ComputeShader||
 |20|[@thorikawa](https://github.com/thorikawa)/[**unity-opencv-android**](https://github.com/thorikawa/unity-opencv-android)|Unity+OpenCV+Android||
 |19|[@atsushieno](https://github.com/atsushieno)/[**monodroid-schema-gen**](https://github.com/atsushieno/monodroid-schema-gen)|IT IS A DEAD PROJECT, obsoleted by https://github.com/atsushieno/xamarin-android-shema-generator||
 |19|[@axzxs2001](https://github.com/axzxs2001)/[**ConsulSharp**](https://github.com/axzxs2001/ConsulSharp)|A set of c# API to call the consul HTTP API!||
 |19|[@kairera0467](https://github.com/kairera0467)/[**TJAP2fPC**](https://github.com/kairera0467/TJAP2fPC)|Social experiment using tja|[:arrow_upper_right:](https://sites.google.com/site/kaitaikopro/)|
+|19|[@kitasenjudesign](https://github.com/kitasenjudesign)/[**UnityVertexDeformation**](https://github.com/kitasenjudesign/UnityVertexDeformation)|Mesh Deformation with Vertex Shader||
 |19|[@mattatz](https://github.com/mattatz)/[**FastVoxelTraversalTest**](https://github.com/mattatz/FastVoxelTraversalTest)|Fast Voxel Traversal testing in Unity.||
 |19|[@neuecc](https://github.com/neuecc)/[**Open-on-GitHub**](https://github.com/neuecc/Open-on-GitHub)|Visual Studio Extension for opening files on GitHub.com||
-|19|[@shibayan](https://github.com/shibayan)/[**IISManager**](https://github.com/shibayan/IISManager)|IIS Manager Extension for Azure Web Apps||
 |19|[@ugaya40](https://github.com/ugaya40)/[**RxFlow**](https://github.com/ugaya40/RxFlow)|Simple Flow Control Library with Rx(Reactive Extensions).||
 |19|[@unity3d-jp](https://github.com/unity3d-jp)/[**DynamicPluginSample**](https://github.com/unity3d-jp/DynamicPluginSample)|Dynamic load/unload plugin on Editor sample.||
 |19|[@unity3d-jp](https://github.com/unity3d-jp)/[**ProfilerReader**](https://github.com/unity3d-jp/ProfilerReader)|The library that read Unity profiler binary log directly||
@@ -491,7 +492,8 @@
 |18|[@hecomi](https://github.com/hecomi)/[**StereoAR-for-Unity**](https://github.com/hecomi/StereoAR-for-Unity)|Oculus Rift にて 2 つの Playstation Eye を通じて現実世界を立体視し、更にそこへ AR を重畳するプロジェクトです。||
 |18|[@keijiro](https://github.com/keijiro)/[**ComputePrngTest**](https://github.com/keijiro/ComputePrngTest)|A simple test project for a pseudo random number generator designed for compute shaders.||
 |18|[@keijiro](https://github.com/keijiro)/[**PostProcessingDemo**](https://github.com/keijiro/PostProcessingDemo)|A demo project used in the post-processing stack presentation at Unite 2017 Tokyo.||
-|18|[@kitasenjudesign](https://github.com/kitasenjudesign)/[**UnityVertexDeformation**](https://github.com/kitasenjudesign/UnityVertexDeformation)|Mesh Deformation with Vertex Shader||
+|18|[@kodai100](https://github.com/kodai100)/[**Unity_TCP**](https://github.com/kodai100/Unity_TCP)|async/await TCP socket implementation for Unity3d.||
+|18|[@kyubuns](https://github.com/kyubuns)/[**AnimeTask**](https://github.com/kyubuns/AnimeTask)|Task Animation Library for Unity||
 |18|[@mattatz](https://github.com/mattatz)/[**Channel18**](https://github.com/mattatz/Channel18)|VJ set at CHANNEL#18 with Unity.||
 |18|[@mayuki](https://github.com/mayuki)/[**AppleWirelessKeyboardHelper**](https://github.com/mayuki/AppleWirelessKeyboardHelper)|||
 |18|[@nobnak](https://github.com/nobnak)/[**Gist**](https://github.com/nobnak/Gist)|||
@@ -522,13 +524,14 @@
 |16|[@keijiro](https://github.com/keijiro)/[**StanfordLucy**](https://github.com/keijiro/StanfordLucy)|Unity: "Lucy" from The Stanford 3D Scanning Repository||
 |16|[@keijiro](https://github.com/keijiro)/[**unity-native-array**](https://github.com/keijiro/unity-native-array)|Passing C# array to a native plug-in.||
 |16|[@keijiro](https://github.com/keijiro)/[**unitychan-crs-gyrocam**](https://github.com/keijiro/unitychan-crs-gyrocam)|GyroCam sample application with UnityChan CRS.||
-|16|[@kodai100](https://github.com/kodai100)/[**Unity_TCP**](https://github.com/kodai100/Unity_TCP)|async/await TCP socket implementation for Unity3d.||
 |16|[@m2wasabi](https://github.com/m2wasabi)/[**VRMQuickMetaLoader**](https://github.com/m2wasabi/VRMQuickMetaLoader)|load quick VRM.Meta information||
 |16|[@makoto-unity](https://github.com/makoto-unity)/[**UnityIconCustomizer**](https://github.com/makoto-unity/UnityIconCustomizer)|You can customize your app icon with this. Like adding version number, 'BETA' and so on.||
 |16|[@marccarre](https://github.com/marccarre)/[**DependencyGraph**](https://github.com/marccarre/DependencyGraph)|C# Dependency Graph based on Reflection||
 |16|[@mntone](https://github.com/mntone)/[**OpenNiconico2**](https://github.com/mntone/OpenNiconico2)|OpenNiconico2 は C# で書かれた Windows 向けの niconico コンポーネントです。||
 |16|[@mob-sakai](https://github.com/mob-sakai)/[**BlurringAtlasForUGUI**](https://github.com/mob-sakai/BlurringAtlasForUGUI)|A blur effect for uGUI in Unity, that is effective even for atlas images including dynamic fonts.||
 |16|[@mob-sakai](https://github.com/mob-sakai)/[**UISystem**](https://github.com/mob-sakai/UISystem)|||
+|16|[@nkjzm](https://github.com/nkjzm)/[**Mirror**](https://github.com/nkjzm/Mirror)|Unityで使えるシンプルな鏡アセットです||
+|16|[@nobnak](https://github.com/nobnak)/[**GPUMergeSortForUnity**](https://github.com/nobnak/GPUMergeSortForUnity)|||
 |16|[@reinforchu](https://github.com/reinforchu)/[**NachtWal**](https://github.com/reinforchu/NachtWal)|Reinforced Mitigation Security Filter|[:arrow_upper_right:](https://nachtwal.azurewebsites.net/)|
 |16|[@srndpty](https://github.com/srndpty)/[**CodeGen**](https://github.com/srndpty/CodeGen)|Unity Code Generator|[:arrow_upper_right:](http://q7z.hatenablog.com/entry/2017/05/29/231904)|
 |16|[@xen2](https://github.com/xen2)/[**Xenko.ClientServerSample**](https://github.com/xen2/Xenko.ClientServerSample)|Xenko Game sample + headless server||
@@ -542,17 +545,15 @@
 |15|[@keijiro](https://github.com/keijiro)/[**ColorTemperature**](https://github.com/keijiro/ColorTemperature)|A C# implementation of the color temperature curve function.||
 |15|[@keijiro](https://github.com/keijiro)/[**unity-linewidth-plugin**](https://github.com/keijiro/unity-linewidth-plugin)|Call glLineWidth from Unity (OS X)||
 |15|[@koike](https://github.com/koike)/[**hsp.rtm**](https://github.com/koike/hsp.rtm)|Visual Studio Code Extension for Real-Time Debugging in HSP|[:arrow_upper_right:](http://o8o.jp/hsp)|
-|15|[@kyubuns](https://github.com/kyubuns)/[**AnimeTask**](https://github.com/kyubuns/AnimeTask)|Task Animation Library for Unity||
 |15|[@kyubuns](https://github.com/kyubuns)/[**UniClipboard**](https://github.com/kyubuns/UniClipboard)|Clipboard for Unity ( support PC/Mac/iOS )||
 |15|[@mattak](https://github.com/mattak)/[**Nodux**](https://github.com/mattak/Nodux)|Node base redux inspired framework||
 |15|[@mono0926](https://github.com/mono0926)/[**Professional-ASP.NET-Design-Patterns**](https://github.com/mono0926/Professional-ASP.NET-Design-Patterns)|||
 |15|[@nakamura001](https://github.com/nakamura001)/[**Unity-ScreenRecorder**](https://github.com/nakamura001/Unity-ScreenRecorder)| Unity の実行画面を画像ファイルに連番で書き出し。透過にも対応。||
-|15|[@nkjzm](https://github.com/nkjzm)/[**Mirror**](https://github.com/nkjzm/Mirror)|Unityで使えるシンプルな鏡アセットです||
-|15|[@nobnak](https://github.com/nobnak)/[**GPUMergeSortForUnity**](https://github.com/nobnak/GPUMergeSortForUnity)|||
 |15|[@pierre3](https://github.com/pierre3)/[**GistsApi**](https://github.com/pierre3/GistsApi)|Gists API v3 Library for .Net||
 |15|[@pocketberserker](https://github.com/pocketberserker)/[**MessagePack.FSharpExtensions**](https://github.com/pocketberserker/MessagePack.FSharpExtensions)|MessagePack Extensions for F#. / msgpack.org[F#] ||
 |15|[@sugi-cho](https://github.com/sugi-cho)/[**RealSense-Touch**](https://github.com/sugi-cho/RealSense-Touch)|||
 |15|[@takezoux2](https://github.com/takezoux2)/[**unity-orm**](https://github.com/takezoux2/unity-orm)|Unity O/R Mapper for sqlite.||
+|15|[@ufcpp](https://github.com/ufcpp)/[**BitFields**](https://github.com/ufcpp/BitFields)|||
 |14|[@Eskat0n](https://github.com/Eskat0n)/[**Sphinx.Client**](https://github.com/Eskat0n/Sphinx.Client)|Open source .NET library which provides advanced client API to use Sphinx search server services, using Sphinx native binary protocol.|[:arrow_upper_right:](http://codeparts.net/products/sphinx)|
 |14|[@Grabacr07](https://github.com/Grabacr07)/[**AvalonShell**](https://github.com/Grabacr07/AvalonShell)|WPF で Windows PowerShell コンソールを再現します。|[:arrow_upper_right:](http://grabacr.net/archives/7331)|
 |14|[@IndieVisualLab](https://github.com/IndieVisualLab)/[**UnityGraphicsProgramming2FrontCover**](https://github.com/IndieVisualLab/UnityGraphicsProgramming2FrontCover)|技術同人誌「Unity Graphics Programming vol.2」 表紙グラフィックス作成のためのUnityプロジェクト||
@@ -580,9 +581,9 @@
 |14|[@runceel](https://github.com/runceel)/[**samples**](https://github.com/runceel/samples)|sample applications||
 |14|[@sugi-cho](https://github.com/sugi-cho)/[**Unity-ParticleSystem-GPUUpdate**](https://github.com/sugi-cho/Unity-ParticleSystem-GPUUpdate)|Update built-in ParticleSystem with ComputeShader||
 |14|[@sugi-cho](https://github.com/sugi-cho)/[**UnityGraphicsPrograming**](https://github.com/sugi-cho/UnityGraphicsPrograming)|Creating Mesh and Shader||
-|14|[@ufcpp](https://github.com/ufcpp)/[**BitFields**](https://github.com/ufcpp/BitFields)|||
 |14|[@xen2](https://github.com/xen2)/[**Xenko.CodeOnlySample**](https://github.com/xen2/Xenko.CodeOnlySample)|||
 |13|[@TsuyoshiUshio](https://github.com/TsuyoshiUshio)/[**AzureServiceFabricSample**](https://github.com/TsuyoshiUshio/AzureServiceFabricSample)|Unofficial source sample for Programming Microsoft Azure Service Fabric||
+|13|[@atsushieno](https://github.com/atsushieno)/[**nfluidsynth**](https://github.com/atsushieno/nfluidsynth)|libfluidsynth C# binding||
 |13|[@chomado](https://github.com/chomado)/[**SimpleList**](https://github.com/chomado/SimpleList)|簡単な Xamarin.Forms アプリハンズオン資料||
 |13|[@hibara](https://github.com/hibara)/[**AttacheCase3**](https://github.com/hibara/AttacheCase3)|File encryption software for Windows|[:arrow_upper_right:](https://hibara.org/software/attachecase/)|
 |13|[@kazukioishi](https://github.com/kazukioishi)/[**TaskViewGestureToolkit**](https://github.com/kazukioishi/TaskViewGestureToolkit)|Windows10のタスクビューをタッチパッドを使いMac OS XのMission Control風に操作出来るようにするアプリケーション||
@@ -605,7 +606,6 @@
 |13|[@ytabuchi](https://github.com/ytabuchi)/[**AppCenterSample**](https://github.com/ytabuchi/AppCenterSample)|Microsoft App Center Hands On||
 |12|[@abarth500](https://github.com/abarth500)/[**csharp-websocket-javascript**](https://github.com/abarth500/csharp-websocket-javascript)|||
 |12|[@akuukka](https://github.com/akuukka)/[**ExpressionSolver**](https://github.com/akuukka/ExpressionSolver)|A C# mathematical expression solver with Unity3D compatibility||
-|12|[@atsushieno](https://github.com/atsushieno)/[**nfluidsynth**](https://github.com/atsushieno/nfluidsynth)|libfluidsynth C# binding||
 |12|[@edom18](https://github.com/edom18)/[**Unity-CurlNoiseParticle**](https://github.com/edom18/Unity-CurlNoiseParticle)|Unity CurlNoise particle sample||
 |12|[@i-saint](https://github.com/i-saint)/[**SIMDExample**](https://github.com/i-saint/SIMDExample)|||
 |12|[@keijiro](https://github.com/keijiro)/[**Doodle**](https://github.com/keijiro/Doodle)|||
@@ -646,8 +646,10 @@
 |11|[@kobake](https://github.com/kobake)/[**BitflyerBotSample**](https://github.com/kobake/BitflyerBotSample)|bitFlyer 自動売買システムのサンプル||
 |11|[@kodai100](https://github.com/kodai100)/[**Unity_PositionBasedFluid**](https://github.com/kodai100/Unity_PositionBasedFluid)|||
 |11|[@kyubuns](https://github.com/kyubuns)/[**UniMail**](https://github.com/kyubuns/UniMail)|Send mail (with image) from unity||
+|11|[@makoto-unity](https://github.com/makoto-unity)/[**UnityChanBallRoll**](https://github.com/makoto-unity/UnityChanBallRoll)|||
 |11|[@mayuki](https://github.com/mayuki)/[**BraviaControl**](https://github.com/mayuki/BraviaControl)|Sony BRAVIA remote control API client for .NET||
 |11|[@mob-sakai](https://github.com/mob-sakai)/[**ScrollEx**](https://github.com/mob-sakai/ScrollEx)|||
+|11|[@nkjzm](https://github.com/nkjzm)/[**VMotion**](https://github.com/nkjzm/VMotion)|VRMを読み込んでモーションを再生するアプリケーション|[:arrow_upper_right:](https://nkjzm.booth.pm/items/1165048)|
 |11|[@nobnak](https://github.com/nobnak)/[**BlendingUnity**](https://github.com/nobnak/BlendingUnity)|||
 |11|[@nobnak](https://github.com/nobnak)/[**VolumetricShadow**](https://github.com/nobnak/VolumetricShadow)|||
 |11|[@sugi-cho](https://github.com/sugi-cho)/[**Multi-Projector-Overlap-Blending-QuadWarp**](https://github.com/sugi-cho/Multi-Projector-Overlap-Blending-QuadWarp)|||
@@ -662,12 +664,10 @@
 |10|[@kaorun55](https://github.com/kaorun55)/[**KinectSdkIntroduction**](https://github.com/kaorun55/KinectSdkIntroduction)|||
 |10|[@keijiro](https://github.com/keijiro)/[**GfxCapsView**](https://github.com/keijiro/GfxCapsView)|A small utility to check Unity graphics capability.||
 |10|[@keijiro](https://github.com/keijiro)/[**HdrpAovTest**](https://github.com/keijiro/HdrpAovTest)|Custom post processing effect with the AOV output feature of HDRP||
-|10|[@makoto-unity](https://github.com/makoto-unity)/[**UnityChanBallRoll**](https://github.com/makoto-unity/UnityChanBallRoll)|||
 |10|[@mattak](https://github.com/mattak)/[**GeoHex.cs**](https://github.com/mattak/GeoHex.cs)|GeoHex C# script 🦋||
 |10|[@mayuki](https://github.com/mayuki)/[**Cartelet**](https://github.com/mayuki/Cartelet)|.NET Framework向けHTMLパーサー/フィルターライブラリ||
 |10|[@mimura1133](https://github.com/mimura1133)/[**vstex**](https://github.com/mimura1133/vstex)|TeX Support for Visual Studio 2015|[:arrow_upper_right:](http://mimumimu.net/)|
 |10|[@nkjzm](https://github.com/nkjzm)/[**OVREmulator**](https://github.com/nkjzm/OVREmulator)|OculusGoのコントローラーをUnity上でエミュレートする拡張機能||
-|10|[@nkjzm](https://github.com/nkjzm)/[**VMotion**](https://github.com/nkjzm/VMotion)|VRMを読み込んでモーションを再生するアプリケーション|[:arrow_upper_right:](https://nkjzm.booth.pm/items/1165048)|
 |10|[@nobnak](https://github.com/nobnak)/[**ColorCorrection**](https://github.com/nobnak/ColorCorrection)|||
 |10|[@nobnak](https://github.com/nobnak)/[**WireframeShaderUnity**](https://github.com/nobnak/WireframeShaderUnity)|||
 |10|[@nossey](https://github.com/nossey)/[**UndoRedo**](https://github.com/nossey/UndoRedo)|This project produces simple undo/redo functions for C#.||
@@ -691,6 +691,8 @@
 |9|[@keijiro](https://github.com/keijiro)/[**Cortina**](https://github.com/keijiro/Cortina)|||
 |9|[@keijiro](https://github.com/keijiro)/[**CustomTrackTest**](https://github.com/keijiro/CustomTrackTest)|||
 |9|[@keijiro](https://github.com/keijiro)/[**unity-audiobridge**](https://github.com/keijiro/unity-audiobridge)|External audio spectrum analyzer plug-in for Unity||
+|9|[@keijiro](https://github.com/keijiro)/[**unity-touchosc-test**](https://github.com/keijiro/unity-touchosc-test)|A sample project using TouchOSC with Unity.||
+|9|[@kenakamu](https://github.com/kenakamu)/[**LINEChannelConnector**](https://github.com/kenakamu/LINEChannelConnector)|LINE Channel Connector for BotBuilder||
 |9|[@mattak](https://github.com/mattak)/[**LineSample**](https://github.com/mattak/LineSample)|Unity line mesh sample||
 |9|[@neuecc](https://github.com/neuecc)/[**ObserveEveryValueChanged**](https://github.com/neuecc/ObserveEveryValueChanged)|Voodoo Magic for WPF.||
 |9|[@nobnak](https://github.com/nobnak)/[**KdTree**](https://github.com/nobnak/KdTree)|K-Nearest Neighbors search for Unity||
@@ -716,7 +718,9 @@
 |8|[@chitoku-k](https://github.com/chitoku-k)/[**NowPlayingLib**](https://github.com/chitoku-k/NowPlayingLib)|NowPlaying Library||
 |8|[@codeyu](https://github.com/codeyu)/[**NODConverter**](https://github.com/codeyu/NODConverter)|NODConverter  is a pure .NET library written in C# and is a port of JODConverter.||
 |8|[@codeyu](https://github.com/codeyu)/[**UnidecodeSharpCore**](https://github.com/codeyu/UnidecodeSharpCore)|US-ASCII transliterations of Unicode text. It supports almost all unicode letters, including Chinese, Cyrillic, Umlauts and etc. ||
+|8|[@edom18](https://github.com/edom18)/[**SimpleNoiseEffect**](https://github.com/edom18/SimpleNoiseEffect)|This is simple to use CurlNoise effect for Unity.||
 |8|[@hecomi](https://github.com/hecomi)/[**uNetVoice**](https://github.com/hecomi/uNetVoice)|Tiny voice chat implementation for Unity.||
+|8|[@hiroakioishi](https://github.com/hiroakioishi)/[**UnityGPUBitonicSort**](https://github.com/hiroakioishi/UnityGPUBitonicSort)|||
 |8|[@hiroki-o](https://github.com/hiroki-o)/[**ColladaAnimationGenerator**](https://github.com/hiroki-o/ColladaAnimationGenerator)|AssetGraph extension to export legacy animation to collada file.||
 |8|[@kamanii24](https://github.com/kamanii24)/[**Unity-IAPManager**](https://github.com/kamanii24/Unity-IAPManager)|UnityIAPを個人的に使いやすくまとめたものです。||
 |8|[@kamanii24](https://github.com/kamanii24)/[**VRBaseRaycaster**](https://github.com/kamanii24/VRBaseRaycaster)|VRでよく使う視点選択機能を使いやすくまとめたスクリプトです。||
@@ -724,8 +728,6 @@
 |8|[@keijiro](https://github.com/keijiro)/[**KvantLine**](https://github.com/keijiro/KvantLine)|||
 |8|[@keijiro](https://github.com/keijiro)/[**ShaderKeywordTest**](https://github.com/keijiro/ShaderKeywordTest)|||
 |8|[@keijiro](https://github.com/keijiro)/[**UnityTurntable**](https://github.com/keijiro/UnityTurntable)|An attempt on making a turntablism thing in Unity.||
-|8|[@keijiro](https://github.com/keijiro)/[**unity-touchosc-test**](https://github.com/keijiro/unity-touchosc-test)|A sample project using TouchOSC with Unity.||
-|8|[@kenakamu](https://github.com/kenakamu)/[**LINEChannelConnector**](https://github.com/kenakamu/LINEChannelConnector)|LINE Channel Connector for BotBuilder||
 |8|[@kitasenjudesign](https://github.com/kitasenjudesign)/[**UnitySlitScan**](https://github.com/kitasenjudesign/UnitySlitScan)|simple time-displacement filter (slit-scan) on Unity||
 |8|[@kodai100](https://github.com/kodai100)/[**Unity_YouTubeLive**](https://github.com/kodai100/Unity_YouTubeLive)|||
 |8|[@kyubuns](https://github.com/kyubuns)/[**DataBinderForNGUI**](https://github.com/kyubuns/DataBinderForNGUI)|NGUIのWidgetに勝手に値いれてくれるやつ||
@@ -733,6 +735,7 @@
 |8|[@masaru-b-cl](https://github.com/masaru-b-cl)/[**GistSharp**](https://github.com/masaru-b-cl/GistSharp)|Gist APIのC#ラッパーです。これを利用したVS拡張GistSharpExtensionも含んでいます。|[:arrow_upper_right:](http://visualstudiogallery.msdn.microsoft.com/7bc8d695-ffdc-44aa-8abf-51251600f3cc)|
 |8|[@mattatz](https://github.com/mattatz)/[**GPUMatrixMultiplicationTest**](https://github.com/mattatz/GPUMatrixMultiplicationTest)|GPU matrix multiplication in Unity.||
 |8|[@mattatz](https://github.com/mattatz)/[**unity-generative-tree**](https://github.com/mattatz/unity-generative-tree)|Generative Tree for Unity3D||
+|8|[@mob-sakai](https://github.com/mob-sakai)/[**UniIx**](https://github.com/mob-sakai/UniIx)|Interactive Extensions for Unity for Unity||
 |8|[@mob-sakai](https://github.com/mob-sakai)/[**VertexTextureFetchForUGUI**](https://github.com/mob-sakai/VertexTextureFetchForUGUI)|||
 |8|[@naichilab](https://github.com/naichilab)/[**Unity-BgmManager**](https://github.com/naichilab/Unity-BgmManager)|||
 |8|[@neuecc](https://github.com/neuecc)/[**MemcachedTranscoder**](https://github.com/neuecc/MemcachedTranscoder)|C# Memcached Transcoders||
@@ -771,7 +774,6 @@
 |7|[@chomado](https://github.com/chomado)/[**MeetingResponseServer**](https://github.com/chomado/MeetingResponseServer)|Graph API + スマートスピーカー。自分のスケジュールを Office から参照できる||
 |7|[@dddnuts](https://github.com/dddnuts)/[**Unifty**](https://github.com/dddnuts/Unifty)|Bridge Swift and Objective-C for Unity native plugins||
 |7|[@edom18](https://github.com/edom18)/[**CurlNoise-unity**](https://github.com/edom18/CurlNoise-unity)|||
-|7|[@hiroakioishi](https://github.com/hiroakioishi)/[**UnityGPUBitonicSort**](https://github.com/hiroakioishi/UnityGPUBitonicSort)|||
 |7|[@hiroakioishi](https://github.com/hiroakioishi)/[**UnitySimpleComputeShaderExamples**](https://github.com/hiroakioishi/UnitySimpleComputeShaderExamples)|||
 |7|[@itn3000](https://github.com/itn3000)/[**mo-gen**](https://github.com/itn3000/mo-gen)|MagicOnion client code generator (https://github.com/neuecc/MagicOnion)||
 |7|[@kaorun55](https://github.com/kaorun55)/[**KinectSensorProgramming**](https://github.com/kaorun55/KinectSensorProgramming)|書籍「KINECTセンサープログラミング」のサンプルコード|[:arrow_upper_right:](http://www.shuwasystem.co.jp/products/7980html/2981.html)|
@@ -793,7 +795,6 @@
 |7|[@mattatz](https://github.com/mattatz)/[**unity-sketchbook**](https://github.com/mattatz/unity-sketchbook)|Sketching utility like Processing for Unity.||
 |7|[@mattn](https://github.com/mattn)/[**startmenu-vim**](https://github.com/mattn/startmenu-vim)|||
 |7|[@mayuki](https://github.com/mayuki)/[**LetterWriter**](https://github.com/mayuki/LetterWriter)|Unity向けの日本語テキスト表示ライブラリ||
-|7|[@mob-sakai](https://github.com/mob-sakai)/[**UniIx**](https://github.com/mob-sakai/UniIx)|Interactive Extensions for Unity for Unity||
 |7|[@n-yoda](https://github.com/n-yoda)/[**unity-off**](https://github.com/n-yoda/unity-off)|Import/Export OFF (Object File Format) 3D models.||
 |7|[@n-yoda](https://github.com/n-yoda)/[**unity-transform**](https://github.com/n-yoda/unity-transform)|UnityのTransformが行う座標変換の模倣と、Matrix4x4のPropertyDrawer。||
 |7|[@naichilab](https://github.com/naichilab)/[**unity-radarchart**](https://github.com/naichilab/unity-radarchart)|Unity uGUI用レーダーチャート描画クラス||
@@ -908,7 +909,6 @@
 |5|[@divide-by-zero](https://github.com/divide-by-zero)/[**ADBB**](https://github.com/divide-by-zero/ADBB)|ADB GUI Bridge||
 |5|[@divide-by-zero](https://github.com/divide-by-zero)/[**GSSA**](https://github.com/divide-by-zero/GSSA)|||
 |5|[@edom18](https://github.com/edom18)/[**SimpleBehaviorTree**](https://github.com/edom18/SimpleBehaviorTree)|||
-|5|[@edom18](https://github.com/edom18)/[**SimpleNoiseEffect**](https://github.com/edom18/SimpleNoiseEffect)|This is simple to use CurlNoise effect for Unity.||
 |5|[@edom18](https://github.com/edom18)/[**Unity-GaussianBlur**](https://github.com/edom18/Unity-GaussianBlur)|||
 |5|[@ft-lab](https://github.com/ft-lab)/[**SAOShaderTest**](https://github.com/ft-lab/SAOShaderTest)|UnityでのImageEffectのSAO(Scalable Ambient Obscurance)勉強用です。||
 |5|[@gpsnmeajp](https://github.com/gpsnmeajp)/[**EasyOpenVRActionInput**](https://github.com/gpsnmeajp/EasyOpenVRActionInput)|SteamVR Action Inputを扱うラッパーライブラリです。||
@@ -1041,6 +1041,7 @@
 |4|[@itn3000](https://github.com/itn3000)/[**PooledStream**](https://github.com/itn3000/PooledStream)|MemoryStream with ArrayPool||
 |4|[@juwalbose](https://github.com/juwalbose)/[**UnityIsometricHexagonalSokoban**](https://github.com/juwalbose/UnityIsometricHexagonalSokoban)|Tile based sokoban now in Isometric & hexagonal views||
 |4|[@kaorun55](https://github.com/kaorun55)/[**Kinect22Scratch**](https://github.com/kaorun55/Kinect22Scratch)|Kinect2 -> Scratch||
+|4|[@kaorun55](https://github.com/kaorun55)/[**PerceptionSamples**](https://github.com/kaorun55/PerceptionSamples)|||
 |4|[@karno](https://github.com/karno)/[**Typict**](https://github.com/karno/Typict)|This application helps sorting pictures with keyboard.|[:arrow_upper_right:](http://starwing.net/products/typict.html)|
 |4|[@katabame](https://github.com/katabame)/[**SURVEY_PROGRAM_UNINSTALLER**](https://github.com/katabame/SURVEY_PROGRAM_UNINSTALLER)|Absolutely truly safe DELTARUNE uninstaller||
 |4|[@kazuki](https://github.com/kazuki)/[**opencl.net**](https://github.com/kazuki/opencl.net)|OpenCL binding for C#/.NET|[:arrow_upper_right:](https://oikw.org/software/opencl)|
@@ -1050,7 +1051,9 @@
 |4|[@keijiro](https://github.com/keijiro)/[**Sphaera**](https://github.com/keijiro/Sphaera)|||
 |4|[@keijiro](https://github.com/keijiro)/[**UnsafeOperationTest**](https://github.com/keijiro/UnsafeOperationTest)|Examples/benchmarks on Unity's unsafe utility functions||
 |4|[@keijiro](https://github.com/keijiro)/[**VideoTester**](https://github.com/keijiro/VideoTester)|A small utility for testing video capture/playback.||
+|4|[@keijiro](https://github.com/keijiro)/[**unity-audio-filters**](https://github.com/keijiro/unity-audio-filters)|C# audio filter implementations for Unity.||
 |4|[@kekyo](https://github.com/kekyo)/[**FlexTasks**](https://github.com/kekyo/FlexTasks)|.NET Task / ValueTask helpers for compositioning frustration free.||
+|4|[@kekyo](https://github.com/kekyo)/[**MeCab.DotNet**](https://github.com/kekyo/MeCab.DotNet)|A Japanese morphological analysis engine for .NET Core.||
 |4|[@kekyo](https://github.com/kekyo)/[**decode2019_CM12**](https://github.com/kekyo/decode2019_CM12)|「de:code 2019」のセッション「CM12: .NET Core マルチプラットフォームの本質」に対応するサンプルコードと解説|[:arrow_upper_right:](https://www.microsoft.com/ja-jp/events/decode/2019session/detail.aspx?sid=CM12)|
 |4|[@kenakamu](https://github.com/kenakamu)/[**UCWABot**](https://github.com/kenakamu/UCWABot)|UCWA 2.0 sample which connects to BotFramework via DirectLine||
 |4|[@kenakamu](https://github.com/kenakamu)/[**generator-line-bot**](https://github.com/kenakamu/generator-line-bot)|yeoman template for LINE Bot||
@@ -1095,6 +1098,7 @@
 |4|[@sakapon](https://github.com/sakapon)/[**Zipangu**](https://github.com/sakapon/Zipangu)|A library for compatibility about Japan.||
 |4|[@sazameki](https://github.com/sazameki)/[**unity_tcp-udp-receive-sample**](https://github.com/sazameki/unity_tcp-udp-receive-sample)|UnityでTCP/UDPのメッセージを受信するサンプル||
 |4|[@setchi](https://github.com/setchi)/[**kagaribi**](https://github.com/setchi/kagaribi)|火の玉をスワイプで操作して、できるだけ多く白い枠をくぐるシンプルなゲーム||
+|4|[@shibayan](https://github.com/shibayan)/[**azure-functions-boilerplate**](https://github.com/shibayan/azure-functions-boilerplate)|A boilerplate project for getting started with Azure Functions v2||
 |4|[@shibayan](https://github.com/shibayan)/[**webauthn-aspnet-demo**](https://github.com/shibayan/webauthn-aspnet-demo)|Demo Application for Windows Hello (Web Authn API)||
 |4|[@srndpty](https://github.com/srndpty)/[**GestureRenderer**](https://github.com/srndpty/GestureRenderer)|This is a sample Unity project draws a line folloing your gesture.||
 |4|[@sugi-cho](https://github.com/sugi-cho)/[**Line-Texture-Baker**](https://github.com/sugi-cho/Line-Texture-Baker)|||
@@ -1202,7 +1206,6 @@
 |3|[@kagikn](https://github.com/kagikn)/[**StuntBonusV**](https://github.com/kagikn/StuntBonusV)|A .NET script for GTA V, which shows stunt results and gives the player money when a good stunt is made||
 |3|[@kaorun55](https://github.com/kaorun55)/[**KinectAudioPositioning**](https://github.com/kaorun55/KinectAudioPositioning)|Kinect Audio Positioning( http://kinectaudioposition.codeplex.com/ )のV1.0対応版です||
 |3|[@kaorun55](https://github.com/kaorun55)/[**LeapMotionIntroduction**](https://github.com/kaorun55/LeapMotionIntroduction)|Leap Motion の解説記事サンプルです||
-|3|[@kaorun55](https://github.com/kaorun55)/[**PerceptionSamples**](https://github.com/kaorun55/PerceptionSamples)|||
 |3|[@kaorun55](https://github.com/kaorun55)/[**RealSenseUnitySamples**](https://github.com/kaorun55/RealSenseUnitySamples)|RealSenseのUnityサンプルです||
 |3|[@kaorun55](https://github.com/kaorun55)/[**TmcnPerfume**](https://github.com/kaorun55/TmcnPerfume)|TMCNメンバーを3Dスキャンして、Perfumeのモーションを当ててみました||
 |3|[@karno](https://github.com/karno)/[**Lycanthrope**](https://github.com/karno/Lycanthrope)|Krile version 2|[:arrow_upper_right:](http://krile2.starwing.net)|
@@ -1222,11 +1225,10 @@
 |3|[@keijiro](https://github.com/keijiro)/[**PostProcessingTest**](https://github.com/keijiro/PostProcessingTest)|A personal test suite for Unity's Post-processing Stack||
 |3|[@keijiro](https://github.com/keijiro)/[**TextureGatherTest**](https://github.com/keijiro/TextureGatherTest)|A simple test case for the texture gather instructions of SM 5.0.||
 |3|[@keijiro](https://github.com/keijiro)/[**Turntablism**](https://github.com/keijiro/Turntablism)|A prototype for making a pattern matching game with a turntable.||
-|3|[@keijiro](https://github.com/keijiro)/[**unity-audio-filters**](https://github.com/keijiro/unity-audio-filters)|C# audio filter implementations for Unity.||
 |3|[@keijiro](https://github.com/keijiro)/[**unity-osc-duration**](https://github.com/keijiro/unity-osc-duration)|A sample project using Duration with Unity.||
 |3|[@kekyo](https://github.com/kekyo)/[**CenterCLR.NamingFormatter**](https://github.com/kekyo/CenterCLR.NamingFormatter)|NamingFormatter can apply .NET format-string use named key-value arguments.||
-|3|[@kekyo](https://github.com/kekyo)/[**MeCab.DotNet**](https://github.com/kekyo/MeCab.DotNet)|A Japanese morphological analysis engine for .NET Core.||
 |3|[@kenakamu](https://github.com/kenakamu)/[**decode2016-CRM-App**](https://github.com/kenakamu/decode2016-CRM-App)|||
+|3|[@kenakamu](https://github.com/kenakamu)/[**line-pay-csharp**](https://github.com/kenakamu/line-pay-csharp)|LINE Pay SDK for .NET Core C#||
 |3|[@kkrnt](https://github.com/kkrnt)/[**ext2conv**](https://github.com/kkrnt/ext2conv)|||
 |3|[@kkrnt](https://github.com/kkrnt)/[**pde.gif**](https://github.com/kkrnt/pde.gif)|||
 |3|[@kmc-jp](https://github.com/kmc-jp)/[**BounceWars**](https://github.com/kmc-jp/BounceWars)|みんげー2019 Project||
@@ -1339,5 +1341,5 @@
 |3|[@yamachu](https://github.com/yamachu)/[**RealmNetCoreSample**](https://github.com/yamachu/RealmNetCoreSample)|ASP.NET Core 2.0 を使った Realm Object Server との連携サンプル||
 |3|[@ytabuchi](https://github.com/ytabuchi)/[**MvvmPhoneword**](https://github.com/ytabuchi/MvvmPhoneword)|Xamarin ハンズオンで作る Phoneword を Mvvm で作りました。||
 |3|[@yuka1984](https://github.com/yuka1984)/[**azure-functions-extensions-swashbuckle**](https://github.com/yuka1984/azure-functions-extensions-swashbuckle)|||
-|3|[@yvt](https://github.com/yvt)/[**queen-compiler**](https://github.com/yvt/queen-compiler)|Q-Language Compiler which mainly targets .NET output||
+|3|[@yvt](https://github.com/yvt)/[**queen-compiler**](https://github.com/yvt/queen-compiler)|Not so useful compiler that mainly targets .NET output||
 

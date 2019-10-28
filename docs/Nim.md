@@ -14,11 +14,11 @@
 |7|[@2vg](https://github.com/2vg)/[**msh**](https://github.com/2vg/msh)|msh is minimal shell of Nim.||
 |7|[@2vg](https://github.com/2vg)/[**nhttp**](https://github.com/2vg/nhttp)|simple http server implemented by Nim.||
 |7|[@2vg](https://github.com/2vg)/[**nim-wasm-example**](https://github.com/2vg/nim-wasm-example)|example "Nim to wasm".||
+|7|[@t-sin](https://github.com/t-sin)/[**nutslisp**](https://github.com/t-sin/nutslisp)|Trivial Lisp-2 Interpreter (and my first Lisp!) https://t-sin.github.io/nutslisp/||
 |6|[@CORDEA](https://github.com/CORDEA)/[**spotify**](https://github.com/CORDEA/spotify)|A Nim wrapper for the Spotify Web API||
 |6|[@jinjor](https://github.com/jinjor)/[**nim-todo-issue**](https://github.com/jinjor/nim-todo-issue)|Search TODOs related to closed issues.||
-|6|[@t-sin](https://github.com/t-sin)/[**nutslisp**](https://github.com/t-sin/nutslisp)|Trivial Lisp-2 Interpreter (and my first Lisp!) https://t-sin.github.io/nutslisp/||
+|6|[@t-sin](https://github.com/t-sin)/[**altair**](https://github.com/t-sin/altair)|Little Programmable Synthesizer||
 |4|[@2vg](https://github.com/2vg)/[**mofuhttputils**](https://github.com/2vg/mofuhttputils)|useful minimal http server utils.||
-|4|[@t-sin](https://github.com/t-sin)/[**altair**](https://github.com/t-sin/altair)|Little Programmable Synthesizer||
 |4|[@ucpr](https://github.com/ucpr)/[**httpstat**](https://github.com/ucpr/httpstat)|"curl statistics made simple " in Nim||
 |3|[@2vg](https://github.com/2vg)/[**MAPLE**](https://github.com/2vg/MAPLE)|🍁Mini Async Processing Library Engine🍁||
 |3|[@2vg](https://github.com/2vg)/[**chick**](https://github.com/2vg/chick)|🐤🐤🐤...♪*ﾟ||

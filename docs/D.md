@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|49|[@repeatedly](https://github.com/repeatedly)/[**mustache-d**](https://github.com/repeatedly/mustache-d)|Mustache template engine for D|[:arrow_upper_right:](http://mustache.github.com/)|
-|48|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**grain**](https://github.com/ShigekiKarita/grain)|autograd mir and CUDA library for dynamic neural networks in D.|[:arrow_upper_right:](https://shigekikarita.github.io/grain)|
+|49|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**grain**](https://github.com/ShigekiKarita/grain)|autograd mir and CUDA library for dynamic neural networks in D.|[:arrow_upper_right:](https://shigekikarita.github.io/grain)|
+|48|[@repeatedly](https://github.com/repeatedly)/[**mustache-d**](https://github.com/repeatedly/mustache-d)|Mustache template engine for D|[:arrow_upper_right:](http://mustache.github.com/)|
 |43|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
 |30|[@Rayerd](https://github.com/Rayerd)/[**dfl**](https://github.com/Rayerd/dfl)|This unofficial project for D2.x is a migration of D Forms Library (DFL) that is managed on SVN. DFL is a Win32 windowing library for the D programming language. We support only D2 HEAD.|[:arrow_upper_right:](http://wiki.dprogramming.com/Dfl/HomePage)|
 |27|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
@@ -9,8 +9,8 @@
 |19|[@kotet](https://github.com/kotet)/[**progress**](https://github.com/kotet/progress)|Easy progress reporting for D||
 |17|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**Louds-Trie**](https://github.com/IshitaTakeshi/Louds-Trie)|Implementation of the Trie data structure in D and Python.||
 |14|[@repeatedly](https://github.com/repeatedly)/[**xxhash-d**](https://github.com/repeatedly/xxhash-d)|D implementation of xxhash||
-|13|[@repeatedly](https://github.com/repeatedly)/[**yajl-d**](https://github.com/repeatedly/yajl-d)|YAJL binding for D||
 |12|[@alphaKAI](https://github.com/alphaKAI)/[**tvm**](https://github.com/alphaKAI/tvm)|Toy virtual machine and JIT Engine with JavaScript Like Syntax||
+|12|[@repeatedly](https://github.com/repeatedly)/[**yajl-d**](https://github.com/repeatedly/yajl-d)|YAJL binding for D||
 |11|[@alphaKAI](https://github.com/alphaKAI)/[**ChickenClisp**](https://github.com/alphaKAI/ChickenClisp)|ChickenClisp is a Scheme like language and interpreter. An Implementation of Orelang in D||
 |10|[@repeatedly](https://github.com/repeatedly)/[**d-volkswagen**](https://github.com/repeatedly/d-volkswagen)|Volkswagen detects when your tests are being run in a CI server, and makes them pass.||
 |10|[@tanitta](https://github.com/tanitta)/[**easing**](https://github.com/tanitta/easing)|easing is a library that add flavor to motion in D programming language.||
@@ -43,7 +43,6 @@
 |4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-speech**](https://github.com/ShigekiKarita/d-speech)||[:arrow_upper_right:](https://shigekikarita.github.io/d-speech/dspeech.html)|
 |4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**mir-pybind**](https://github.com/ShigekiKarita/mir-pybind)|python binding generator for D||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dpmatch**](https://github.com/alphaKAI/dpmatch)|[WIP] Pattern Matching for D, by compile time parsing with pegged and code generating||
-|4|[@alphaKAI](https://github.com/alphaKAI)/[**workermanager**](https://github.com/alphaKAI/workermanager)|Multi-thread based asynchronized worker manager||
 |4|[@repeatedly](https://github.com/repeatedly)/[**ltsv-d**](https://github.com/repeatedly/ltsv-d)|LTSV implemetation for D||
 |4|[@repeatedly](https://github.com/repeatedly)/[**siphash-d**](https://github.com/repeatedly/siphash-d)|D implementation of SipHash||
 |4|[@youz](https://github.com/youz)/[**grasses**](https://github.com/youz/grasses)|Various implementations of 'Grass' the grass-planting programming language||
@@ -59,6 +58,7 @@
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**fss**](https://github.com/alphaKAI/fss)|Fast file searcher with locate command||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**jsonParser**](https://github.com/alphaKAI/jsonParser)|Yet Another JSON parser for D.||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**libnotify4d**](https://github.com/alphaKAI/libnotify4d)|A D binding for libnotify||
+|3|[@alphaKAI](https://github.com/alphaKAI)/[**workermanager**](https://github.com/alphaKAI/workermanager)|Multi-thread based asynchronized worker manager||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**xhvm**](https://github.com/alphaKAI/xhvm)|The Xhyve VM Manager||
 |3|[@hekk](https://github.com/hekk)/[**sprint_workshop**](https://github.com/hekk/sprint_workshop)|社内勉強会で作ったもの||
 |3|[@kubo39](https://github.com/kubo39)/[**fastersort**](https://github.com/kubo39/fastersort)|||

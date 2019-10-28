@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|163|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
+|164|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
 |75|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
 |44|[@vchuravy](https://github.com/vchuravy)/[**GPUifyLoops.jl**](https://github.com/vchuravy/GPUifyLoops.jl)|||
 |43|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
@@ -26,13 +26,13 @@
 |6|[@vchuravy](https://github.com/vchuravy)/[**UProbes.jl**](https://github.com/vchuravy/UProbes.jl)|||
 |5|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**KSVD.jl**](https://github.com/IshitaTakeshi/KSVD.jl)|K-SVD in Julia||
 |5|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**SVMLightLoader.jl**](https://github.com/IshitaTakeshi/SVMLightLoader.jl)|Loader of svmlight / liblinear format files||
+|5|[@bicycle1885](https://github.com/bicycle1885)/[**CodecBase.jl**](https://github.com/bicycle1885/CodecBase.jl)|Base 16/32/64 codecs for TranscodingStreams.jl||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**CodecZstd.jl**](https://github.com/bicycle1885/CodecZstd.jl)|A zstd codec for TranscodingStreams.jl.||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**Snappy.jl**](https://github.com/bicycle1885/Snappy.jl)|A fast compressor/decompressor||
 |5|[@rikenbit](https://github.com/rikenbit)/[**OnlinePCA.jl**](https://github.com/rikenbit/OnlinePCA.jl)|Online Principal Component Analysis||
 |5|[@vchuravy](https://github.com/vchuravy)/[**IACA.jl**](https://github.com/vchuravy/IACA.jl)|A wrapper for Intel Architecture Code Analyzer for Julia||
 |5|[@vchuravy](https://github.com/vchuravy)/[**IEEEFloat16.jl**](https://github.com/vchuravy/IEEEFloat16.jl)|||
 |4|[@bicycle1885](https://github.com/bicycle1885)/[**ANMS.jl**](https://github.com/bicycle1885/ANMS.jl)|Adaptive Nelder-Mead Simplex Optimization||
-|4|[@bicycle1885](https://github.com/bicycle1885)/[**CodecBase.jl**](https://github.com/bicycle1885/CodecBase.jl)|Base 16/32/64 codecs for TranscodingStreams.jl||
 |4|[@bicycle1885](https://github.com/bicycle1885)/[**IntArrays.jl**](https://github.com/bicycle1885/IntArrays.jl)|Packed Integer Arrays||
 |4|[@bicycle1885](https://github.com/bicycle1885)/[**JSoC2015**](https://github.com/bicycle1885/JSoC2015)|Proposal for Julia Summer of Code 2015||
 |4|[@hydrocoast](https://github.com/hydrocoast)/[**visclaw_julia**](https://github.com/hydrocoast/visclaw_julia)|Visualization of the Clawpack simulations||

@@ -7,7 +7,7 @@
 |17|[@PuceBaboon](https://github.com/PuceBaboon)/[**Share_the_Warmth**](https://github.com/PuceBaboon/Share_the_Warmth)|A PIC18F27J53 based, forced-air circulation controller, written in JALv2.||
 |8|[@stffrdhrn](https://github.com/stffrdhrn)/[**kicad-spice-demo**](https://github.com/stffrdhrn/kicad-spice-demo)|Demo of simulating kicad schematics in spice||
 |5|[@PuceBaboon](https://github.com/PuceBaboon)/[**ESP8266-AI-Yellow**](https://github.com/PuceBaboon/ESP8266-AI-Yellow)|Repository of ESP8266 demo programmes specific to the AI-Thinker "Yellow Development Board"||
-|4|[@plenprojectcompany](https://github.com/plenprojectcompany)/[**plen-ControlBoard**](https://github.com/plenprojectcompany/plen-ControlBoard)|PLEN2's control board, schematic & circuit.||
+|5|[@plenprojectcompany](https://github.com/plenprojectcompany)/[**plen-ControlBoard**](https://github.com/plenprojectcompany/plen-ControlBoard)|PLEN2's control board, schematic & circuit.||
 |4|[@reinforce-lab](https://github.com/reinforce-lab)/[**iOSPhysicalComputing01**](https://github.com/reinforce-lab/iOSPhysicalComputing01)|||
 |3|[@spiralray](https://github.com/spiralray)/[**kondo**](https://github.com/spiralray/kondo)|A ROS node to provide access to KONDO KRS servo motors||
 

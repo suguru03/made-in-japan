@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|164|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
+|167|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
 |75|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
-|44|[@vchuravy](https://github.com/vchuravy)/[**GPUifyLoops.jl**](https://github.com/vchuravy/GPUifyLoops.jl)|||
+|45|[@vchuravy](https://github.com/vchuravy)/[**GPUifyLoops.jl**](https://github.com/vchuravy/GPUifyLoops.jl)|||
 |43|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
 |34|[@bicycle1885](https://github.com/bicycle1885)/[**TranscodingStreams.jl**](https://github.com/bicycle1885/TranscodingStreams.jl)|Simple, consistent interfaces for any codec.||
 |33|[@r9y9](https://github.com/r9y9)/[**VoiceConversion.jl**](https://github.com/r9y9/VoiceConversion.jl)|[Deprecated] Statistical Voice Conversion in Julia. See the website link for new library|[:arrow_upper_right:](https://github.com/r9y9/nnmnkwii)|
@@ -14,7 +14,7 @@
 |19|[@takuti](https://github.com/takuti)/[**Recommendation.jl**](https://github.com/takuti/Recommendation.jl)|Building recommender systems in Julia|[:arrow_upper_right:](https://takuti.github.io/Recommendation.jl/latest/)|
 |19|[@vchuravy](https://github.com/vchuravy)/[**MCAnalyzer.jl**](https://github.com/vchuravy/MCAnalyzer.jl)|A set of tools for machine code analyzing of Julia code||
 |18|[@bicycle1885](https://github.com/bicycle1885)/[**CodecZlib.jl**](https://github.com/bicycle1885/CodecZlib.jl)|zlib codecs for TranscodingStreams.jl.||
-|17|[@r9y9](https://github.com/r9y9)/[**MelGeneralizedCepstrums.jl**](https://github.com/r9y9/MelGeneralizedCepstrums.jl)|Mel-Generalized Cepstrum analysis||
+|18|[@r9y9](https://github.com/r9y9)/[**MelGeneralizedCepstrums.jl**](https://github.com/r9y9/MelGeneralizedCepstrums.jl)|Mel-Generalized Cepstrum analysis||
 |14|[@chezou](https://github.com/chezou)/[**TinySegmenter.jl**](https://github.com/chezou/TinySegmenter.jl)|Julia version of TinySegmenter, compact Japanese tokenizer||
 |13|[@r9y9](https://github.com/r9y9)/[**SynthesisFilters.jl**](https://github.com/r9y9/SynthesisFilters.jl)|Speech waveform synthesis filters||
 |11|[@r9y9](https://github.com/r9y9)/[**SPTK.jl**](https://github.com/r9y9/SPTK.jl)|A thin Julia wrapper for Speech Signal Processing Toolkit (SPTK) API||
@@ -28,6 +28,7 @@
 |5|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**SVMLightLoader.jl**](https://github.com/IshitaTakeshi/SVMLightLoader.jl)|Loader of svmlight / liblinear format files||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**CodecBase.jl**](https://github.com/bicycle1885/CodecBase.jl)|Base 16/32/64 codecs for TranscodingStreams.jl||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**CodecZstd.jl**](https://github.com/bicycle1885/CodecZstd.jl)|A zstd codec for TranscodingStreams.jl.||
+|5|[@bicycle1885](https://github.com/bicycle1885)/[**Leiden.jl**](https://github.com/bicycle1885/Leiden.jl)|A Julia implementation of the Leiden algorithm for community detection.||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**Snappy.jl**](https://github.com/bicycle1885/Snappy.jl)|A fast compressor/decompressor||
 |5|[@rikenbit](https://github.com/rikenbit)/[**OnlinePCA.jl**](https://github.com/rikenbit/OnlinePCA.jl)|Online Principal Component Analysis||
 |5|[@vchuravy](https://github.com/vchuravy)/[**IACA.jl**](https://github.com/vchuravy/IACA.jl)|A wrapper for Intel Architecture Code Analyzer for Julia||

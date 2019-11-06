@@ -9,11 +9,11 @@
 |8|[@kenakamu](https://github.com/kenakamu)/[**Microsoft.PowerBI.PowerShell**](https://github.com/kenakamu/Microsoft.PowerBI.PowerShell)|PowerShell mobule for PowerBI||
 |7|[@guitarrapc](https://github.com/guitarrapc)/[**DSCSample**](https://github.com/guitarrapc/DSCSample)|DSC Sample for Windows PowerShell||
 |7|[@guitarrapc](https://github.com/guitarrapc)/[**WinCredManager**](https://github.com/guitarrapc/WinCredManager)|PowerShell Credential Store wrapper to use Windows Credential Manager||
+|5|[@guitarrapc](https://github.com/guitarrapc)/[**ScoopPlaybook**](https://github.com/guitarrapc/ScoopPlaybook)|PowerShell Module to Play Scoop like Ansible|[:arrow_upper_right:](https://www.powershellgallery.com/packages/ScoopPlaybook)|
 |5|[@kenakamu](https://github.com/kenakamu)/[**Microsoft.ADAL.PowerShell**](https://github.com/kenakamu/Microsoft.ADAL.PowerShell)|PowerShell module wrapping Azure Active Directory Authentication Library (ADAL)||
 |5|[@runceel](https://github.com/runceel)/[**uwptodoapp**](https://github.com/runceel/uwptodoapp)|todo app||
 |5|[@stknohg](https://github.com/stknohg)/[**PSCoreUpdate**](https://github.com/stknohg/PSCoreUpdate)|PowerShell Core update tool.||
 |4|[@TsuyoshiUshio](https://github.com/TsuyoshiUshio)/[**NomadClusterARM**](https://github.com/TsuyoshiUshio/NomadClusterARM)|HashiCorp Nomad Cluster by ARM||
-|4|[@guitarrapc](https://github.com/guitarrapc)/[**ScoopPlaybook**](https://github.com/guitarrapc/ScoopPlaybook)|PowerShell Module to Play Scoop like Ansible|[:arrow_upper_right:](https://www.powershellgallery.com/packages/ScoopPlaybook)|
 |4|[@muziyoshiz](https://github.com/muziyoshiz)/[**admiral_stats_exporter**](https://github.com/muziyoshiz/admiral_stats_exporter)|艦これアーケードのプレイデータをエクスポートするツール||
 |4|[@zaki-yama](https://github.com/zaki-yama)/[**win10-vm-with-vagrant-ansible**](https://github.com/zaki-yama/win10-vm-with-vagrant-ansible)|||
 |3|[@eldhoabe](https://github.com/eldhoabe)/[**ElasticSearch_Redis_Mvc**](https://github.com/eldhoabe/ElasticSearch_Redis_Mvc)|A sample project with elastic search and redis ||

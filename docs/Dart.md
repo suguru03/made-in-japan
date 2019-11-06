@@ -1,18 +1,18 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|446|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
-|245|[@tortuvshin](https://github.com/tortuvshin)/[**open-source-flutter-apps**](https://github.com/tortuvshin/open-source-flutter-apps)|:iphone: List of open source Flutter applications :octocat:||
-|104|[@skkallayath](https://github.com/skkallayath)/[**photofilters**](https://github.com/skkallayath/photofilters)|photofilters library for flutter||
-|96|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(1)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dev/packages/bloc_provider)|
-|70|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
-|59|[@droibit](https://github.com/droibit)/[**flutter_custom_tabs**](https://github.com/droibit/flutter_custom_tabs)|A Flutter plugin to use Chrome Custom Tabs.|[:arrow_upper_right:](https://pub.dartlang.org/packages/flutter_custom_tabs)|
+|447|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
+|246|[@tortuvshin](https://github.com/tortuvshin)/[**open-source-flutter-apps**](https://github.com/tortuvshin/open-source-flutter-apps)|:iphone: List of open source Flutter applications :octocat:||
+|105|[@skkallayath](https://github.com/skkallayath)/[**photofilters**](https://github.com/skkallayath/photofilters)|photofilters library for flutter||
+|99|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(1)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dev/packages/bloc_provider)|
+|71|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
+|60|[@droibit](https://github.com/droibit)/[**flutter_custom_tabs**](https://github.com/droibit/flutter_custom_tabs)|A Flutter plugin to use Chrome Custom Tabs.|[:arrow_upper_right:](https://pub.dartlang.org/packages/flutter_custom_tabs)|
 |56|[@nukata](https://github.com/nukata)/[**lisp-in-dart**](https://github.com/nukata/lisp-in-dart)|A fast Lisp interpreter in Dart||
 |26|[@mono0926](https://github.com/mono0926)/[**widget-quiz**](https://github.com/mono0926/widget-quiz)|Flutter Widget Quiz, made for Flutter Create (Source code size is limited to 5KB)|[:arrow_upper_right:](https://medium.com/flutter-jp/flutter-create-a85a29fdb918)|
 |25|[@sh4869](https://github.com/sh4869)/[**twitter.dart**](https://github.com/sh4869/twitter.dart)|Twitter API Library in Dart|[:arrow_upper_right:](https://pub.dartlang.org/packages/twitter)|
-|20|[@sakebook](https://github.com/sakebook)/[**flutter_native_ads**](https://github.com/sakebook/flutter_native_ads)|Show AdMob Native Ads use PlatformView|[:arrow_upper_right:](https://pub.dev/packages/native_ads)|
-|18|[@mono0926](https://github.com/mono0926)/[**flutter-flavor-example**](https://github.com/mono0926/flutter-flavor-example)|||
+|24|[@sakebook](https://github.com/sakebook)/[**flutter_native_ads**](https://github.com/sakebook/flutter_native_ads)|Show AdMob Native Ads use PlatformView|[:arrow_upper_right:](https://pub.dev/packages/native_ads)|
+|20|[@mono0926](https://github.com/mono0926)/[**flutter_mono_kit**](https://github.com/mono0926/flutter_mono_kit)|A collection of convenient widgets and utils made by mono.|[:arrow_upper_right:](https://pub.dev/packages/mono_kit)|
+|19|[@mono0926](https://github.com/mono0926)/[**flutter-flavor-example**](https://github.com/mono0926/flutter-flavor-example)|||
 |17|[@kikuchy](https://github.com/kikuchy)/[**crashlytics**](https://github.com/kikuchy/crashlytics)|Flutter plugin for (Fabric) Crashlytics on Android and iOS. (Unofficial)||
-|17|[@mono0926](https://github.com/mono0926)/[**flutter_mono_kit**](https://github.com/mono0926/flutter_mono_kit)|A collection of convenient widgets and utils made by mono.|[:arrow_upper_right:](https://pub.dev/packages/mono_kit)|
 |17|[@ntaoo](https://github.com/ntaoo)/[**material2_dart**](https://github.com/ntaoo/material2_dart)|angular/material2 for Dart.||
 |15|[@mono0926](https://github.com/mono0926)/[**flutter-animations**](https://github.com/mono0926/flutter-animations)||[:arrow_upper_right:](https://medium.com/flutter-jp/implicit-animation-b9d4b7358c28)|
 |13|[@ehr174](https://github.com/ehr174)/[**dartstrap**](https://github.com/ehr174/dartstrap)|||
@@ -44,6 +44,7 @@
 |6|[@kui](https://github.com/kui)/[**ansi_pixels**](https://github.com/kui/ansi_pixels)|A Polymer.dart application to edit ANSI art|[:arrow_upper_right:](https://kui.github.io/ansi_pixels/)|
 |6|[@kyorohiro](https://github.com/kyorohiro)/[**dart_hetimatorrent**](https://github.com/kyorohiro/dart_hetimatorrent)|deprecated dart torrent library||
 |6|[@kyorohiro](https://github.com/kyorohiro)/[**hello_skyengine**](https://github.com/kyorohiro/hello_skyengine)|deprecated: https://www.gitbook.com/book/kyorohiro/hello_skyengine/details |[:arrow_upper_right:](https://kyorohiro.github.io/umiuni2d/web/index.html)|
+|6|[@mono0926](https://github.com/mono0926)/[**flutter_navigation_example**](https://github.com/mono0926/flutter_navigation_example)|||
 |6|[@mono0926](https://github.com/mono0926)/[**google-tasks-clone**](https://github.com/mono0926/google-tasks-clone)|||
 |6|[@tnantoka](https://github.com/tnantoka)/[**flutter_box2d**](https://github.com/tnantoka/flutter_box2d)|Physics example with Flutter.||
 |6|[@wakasakina](https://github.com/wakasakina)/[**lokv**](https://github.com/wakasakina/lokv)|LoKV is a platform-independent embedded key-value database.||
@@ -64,6 +65,7 @@
 |4|[@michilu](https://github.com/michilu)/[**dart-cca-example**](https://github.com/michilu/dart-cca-example)|An example of Cordova Chrome Apps written in AngularDart.||
 |4|[@mono0926](https://github.com/mono0926)/[**flutter_firestore_ref**](https://github.com/mono0926/flutter_firestore_ref)|Cross-platform(including web) Firestore type-safe wrapper.|[:arrow_upper_right:](https://pub.dev/packages/firestore_ref)|
 |4|[@mono0926](https://github.com/mono0926)/[**inherited_widget_explanation**](https://github.com/mono0926/inherited_widget_explanation)|||
+|4|[@mono0926](https://github.com/mono0926)/[**pedantic_mono**](https://github.com/mono0926/pedantic_mono)|[mono edition] How to get the most value from Dart static analysis.|[:arrow_upper_right:](https://pub.dev/packages/pedantic_mono)|
 |4|[@mono0926](https://github.com/mono0926)/[**vsync_provider**](https://github.com/mono0926/vsync_provider)|VsyncProvider provides vsync for AnimationController. This works with provider package.|[:arrow_upper_right:](https://pub.dev/packages/vsync_provider)|
 |4|[@ntaoo](https://github.com/ntaoo)/[**hacker_news_light**](https://github.com/ntaoo/hacker_news_light)|Made with Flutter, for the hands-on. Moved to https://github.com/dartlang-users-jp/hacker_news_light||
 |4|[@sayonetech](https://github.com/sayonetech)/[**flutter_circular_layout**](https://github.com/sayonetech/flutter_circular_layout)|||
@@ -84,8 +86,6 @@
 |3|[@mono0926](https://github.com/mono0926)/[**arc-flutter**](https://github.com/mono0926/arc-flutter)|||
 |3|[@mono0926](https://github.com/mono0926)/[**emoji-scavenger-hunt**](https://github.com/mono0926/emoji-scavenger-hunt)|||
 |3|[@mono0926](https://github.com/mono0926)/[**flutter-codelabs**](https://github.com/mono0926/flutter-codelabs)|||
-|3|[@mono0926](https://github.com/mono0926)/[**flutter_navigation_example**](https://github.com/mono0926/flutter_navigation_example)|||
-|3|[@mono0926](https://github.com/mono0926)/[**pedantic_mono**](https://github.com/mono0926/pedantic_mono)|[mono edition] How to get the most value from Dart static analysis.|[:arrow_upper_right:](https://pub.dev/packages/pedantic_mono)|
 |3|[@ntaoo](https://github.com/ntaoo)/[**game_of_life.dart**](https://github.com/ntaoo/game_of_life.dart)|implementation of http://en.wikipedia.org/wiki/Conway's_Game_of_Life||
 |3|[@zaq1tomo](https://github.com/zaq1tomo)/[**my-first-flutter**](https://github.com/zaq1tomo/my-first-flutter)|My First Flutter||
 |3|[@zick](https://github.com/zick)/[**DartLisp**](https://github.com/zick/DartLisp)|Lisp implementation in Dart||

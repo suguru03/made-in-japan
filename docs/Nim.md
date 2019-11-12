@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|114|[@2vg](https://github.com/2vg)/[**mofuw**](https://github.com/2vg/mofuw)|mofuw is *MO*re *F*aster, *U*ltra minimal *W*ebserver.||
+|115|[@2vg](https://github.com/2vg)/[**mofuw**](https://github.com/2vg/mofuw)|mofuw is *MO*re *F*aster, *U*ltra minimal *W*ebserver.||
 |32|[@loloiccl](https://github.com/loloiccl)/[**nimly**](https://github.com/loloiccl/nimly)|Lexer Generator And Parser Generator as a library in Nim.||
 |24|[@CORDEA](https://github.com/CORDEA)/[**oauth**](https://github.com/CORDEA/oauth)|OAuth library for nim||
 |16|[@2vg](https://github.com/2vg)/[**mofuparser**](https://github.com/2vg/mofuparser)|mofuparser is hyper minimal ultra fast http parser.||

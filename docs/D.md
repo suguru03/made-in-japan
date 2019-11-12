@@ -8,7 +8,7 @@
 |24|[@thorikawa](https://github.com/thorikawa)/[**AndroidObjectRecognition**](https://github.com/thorikawa/AndroidObjectRecognition)|App to demo using android camera and recognize specific object.||
 |19|[@kotet](https://github.com/kotet)/[**progress**](https://github.com/kotet/progress)|Easy progress reporting for D||
 |17|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**Louds-Trie**](https://github.com/IshitaTakeshi/Louds-Trie)|Implementation of the Trie data structure in D and Python.||
-|14|[@repeatedly](https://github.com/repeatedly)/[**xxhash-d**](https://github.com/repeatedly/xxhash-d)|D implementation of xxhash||
+|15|[@repeatedly](https://github.com/repeatedly)/[**xxhash-d**](https://github.com/repeatedly/xxhash-d)|D implementation of xxhash||
 |12|[@alphaKAI](https://github.com/alphaKAI)/[**tvm**](https://github.com/alphaKAI/tvm)|Toy virtual machine and JIT Engine with JavaScript Like Syntax||
 |12|[@repeatedly](https://github.com/repeatedly)/[**yajl-d**](https://github.com/repeatedly/yajl-d)|YAJL binding for D||
 |11|[@alphaKAI](https://github.com/alphaKAI)/[**ChickenClisp**](https://github.com/alphaKAI/ChickenClisp)|ChickenClisp is a Scheme like language and interpreter. An Implementation of Orelang in D||

@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |330|[@fjolnir](https://github.com/fjolnir)/[**Tranquil**](https://github.com/fjolnir/Tranquil)|A language built on top of the Objective-C runtime, and ABI compatible with Objective-C.||
-|144|[@remirobert](https://github.com/remirobert)/[**Facemotion**](https://github.com/remirobert/Facemotion)|:eyes: Face detection and recognition iOS app with OpenCV||
+|145|[@remirobert](https://github.com/remirobert)/[**Facemotion**](https://github.com/remirobert/Facemotion)|:eyes: Face detection and recognition iOS app with OpenCV||
 |97|[@craftzdog](https://github.com/craftzdog)/[**caffe-ios-sample**](https://github.com/craftzdog/caffe-ios-sample)|An example of XCode project using Caffe: a fast open framework for deep learning||
 |89|[@noradaiko](https://github.com/noradaiko)/[**caffe-ios-sample**](https://github.com/noradaiko/caffe-ios-sample)|An example of XCode project using Caffe: a fast open framework for deep learning||
 |20|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxDisplayConf**](https://github.com/Akira-Hayasaka/ofxDisplayConf)|openFrameworks addon for display/projector configuration using CoreGraphics (private) API.||
@@ -9,12 +9,12 @@
 |13|[@Wizcorp](https://github.com/Wizcorp)/[**WebViewForUnity3D**](https://github.com/Wizcorp/WebViewForUnity3D)|Android & iOS webview plugin for unity3D||
 |13|[@furushchev](https://github.com/furushchev)/[**ROSiOS**](https://github.com/furushchev/ROSiOS)|This is a bootstrap package for creating iOS App using ROS(Robot Operating System).||
 |12|[@motoishmz](https://github.com/motoishmz)/[**ofxDisplayLayout**](https://github.com/motoishmz/ofxDisplayLayout)|ofxDisplayLayout grabs the display unique id, and aligns your displays vertically/horizontally||
+|12|[@n-yoda](https://github.com/n-yoda)/[**metal-without-xcode**](https://github.com/n-yoda/metal-without-xcode)|A command-line-compilable example of Metal.||
 |11|[@safx](https://github.com/safx)/[**liquidfun-ios-sample**](https://github.com/safx/liquidfun-ios-sample)|a sample project for LiquidFun.|[:arrow_upper_right:](http://safx-dev.blogspot.jp/search/label/liquidfun)|
 |11|[@tekezo](https://github.com/tekezo)/[**osx-event-observer-examples**](https://github.com/tekezo/osx-event-observer-examples)|||
 |10|[@dropcontrol](https://github.com/dropcontrol)/[**ofxiBeacon**](https://github.com/dropcontrol/ofxiBeacon)|openFrameworks addon for handling iBeacon.||
 |9|[@hisui](https://github.com/hisui)/[**scrapingkit**](https://github.com/hisui/scrapingkit)|ObjC library: easy DOM traversing in jQuery-like API for web scraping.||
 |9|[@miyabi](https://github.com/miyabi)/[**unity-ios-keyboard-patch**](https://github.com/miyabi/unity-ios-keyboard-patch)|Adjusts position and height of input field above keyboard when status bar is shown in iOS 7 or later.||
-|9|[@n-yoda](https://github.com/n-yoda)/[**metal-without-xcode**](https://github.com/n-yoda/metal-without-xcode)|A command-line-compilable example of Metal.||
 |9|[@seanchas116](https://github.com/seanchas116)/[**transparent-titlebar**](https://github.com/seanchas116/transparent-titlebar)|Transparent title bar with native title label in Electron for Mac||
 |8|[@ashikase](https://github.com/ashikase)/[**libcrashreport**](https://github.com/ashikase/libcrashreport)|Library for parsing and symbolicating iOS crash log files.||
 |7|[@2bbb](https://github.com/2bbb)/[**ofxBonjour**](https://github.com/2bbb/ofxBonjour)|use Bonjour in openFrameowkrs||

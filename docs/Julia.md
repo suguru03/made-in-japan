@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|167|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
+|172|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
 |75|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
 |45|[@vchuravy](https://github.com/vchuravy)/[**GPUifyLoops.jl**](https://github.com/vchuravy/GPUifyLoops.jl)|||
 |43|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
@@ -10,8 +10,8 @@
 |23|[@bicycle1885](https://github.com/bicycle1885)/[**RandomForests.jl**](https://github.com/bicycle1885/RandomForests.jl)|Random Forests in Julia||
 |23|[@vchuravy](https://github.com/vchuravy)/[**PProf.jl**](https://github.com/vchuravy/PProf.jl)|Export Julia profiles to the pprof fromat||
 |20|[@r9y9](https://github.com/r9y9)/[**WORLD.jl**](https://github.com/r9y9/WORLD.jl)|A lightweight julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system|[:arrow_upper_right:](http://r9y9.github.io/WORLD.jl/latest/)|
+|20|[@takuti](https://github.com/takuti)/[**Recommendation.jl**](https://github.com/takuti/Recommendation.jl)|Building recommender systems in Julia|[:arrow_upper_right:](https://takuti.github.io/Recommendation.jl/latest/)|
 |19|[@chezou](https://github.com/chezou)/[**MeCab.jl**](https://github.com/chezou/MeCab.jl)|Julia binding of Japanese morphological analyzer MeCab||
-|19|[@takuti](https://github.com/takuti)/[**Recommendation.jl**](https://github.com/takuti/Recommendation.jl)|Building recommender systems in Julia|[:arrow_upper_right:](https://takuti.github.io/Recommendation.jl/latest/)|
 |19|[@vchuravy](https://github.com/vchuravy)/[**MCAnalyzer.jl**](https://github.com/vchuravy/MCAnalyzer.jl)|A set of tools for machine code analyzing of Julia code||
 |18|[@bicycle1885](https://github.com/bicycle1885)/[**CodecZlib.jl**](https://github.com/bicycle1885/CodecZlib.jl)|zlib codecs for TranscodingStreams.jl.||
 |18|[@r9y9](https://github.com/r9y9)/[**MelGeneralizedCepstrums.jl**](https://github.com/r9y9/MelGeneralizedCepstrums.jl)|Mel-Generalized Cepstrum analysis||
@@ -30,6 +30,7 @@
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**CodecZstd.jl**](https://github.com/bicycle1885/CodecZstd.jl)|A zstd codec for TranscodingStreams.jl.||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**Leiden.jl**](https://github.com/bicycle1885/Leiden.jl)|A Julia implementation of the Leiden algorithm for community detection.||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**Snappy.jl**](https://github.com/bicycle1885/Snappy.jl)|A fast compressor/decompressor||
+|5|[@r9y9](https://github.com/r9y9)/[**REAPER.jl**](https://github.com/r9y9/REAPER.jl)|A Julia interface for REAPER (Robust Epoch And Pitch EstimatoR)||
 |5|[@rikenbit](https://github.com/rikenbit)/[**OnlinePCA.jl**](https://github.com/rikenbit/OnlinePCA.jl)|Online Principal Component Analysis||
 |5|[@vchuravy](https://github.com/vchuravy)/[**IACA.jl**](https://github.com/vchuravy/IACA.jl)|A wrapper for Intel Architecture Code Analyzer for Julia||
 |5|[@vchuravy](https://github.com/vchuravy)/[**IEEEFloat16.jl**](https://github.com/vchuravy/IEEEFloat16.jl)|||
@@ -39,7 +40,6 @@
 |4|[@hydrocoast](https://github.com/hydrocoast)/[**visclaw_julia**](https://github.com/hydrocoast/visclaw_julia)|Visualization of the Clawpack simulations||
 |4|[@lcolaholicl](https://github.com/lcolaholicl)/[**Akagera.jl**](https://github.com/lcolaholicl/Akagera.jl)|Cursor animator for Julialang.||
 |4|[@r9y9](https://github.com/r9y9)/[**Libfreenect2.jl**](https://github.com/r9y9/Libfreenect2.jl)|A Julia wrapper for libfreenect2||
-|4|[@r9y9](https://github.com/r9y9)/[**REAPER.jl**](https://github.com/r9y9/REAPER.jl)|A Julia interface for REAPER (Robust Epoch And Pitch EstimatoR)||
 |4|[@r9y9](https://github.com/r9y9)/[**RobustPCA.jl**](https://github.com/r9y9/RobustPCA.jl)|Robust Principal Component Analysis in Julia||
 |4|[@r9y9](https://github.com/r9y9)/[**julia-nmf-ss-toy**](https://github.com/r9y9/julia-nmf-ss-toy)|NMF-based Music Source Separation Demo in Julia||
 |3|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**JuliaCompetitiveProgramming**](https://github.com/AtsushiSakai/JuliaCompetitiveProgramming)|Julia samples for competitive programming||

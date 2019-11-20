@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|104|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance. Supports multi-install. Lightest WSL distribution.|[:arrow_upper_right:](https://git.io/alpwsl)|
+|106|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance. Supports multi-install. Lightest WSL distribution.|[:arrow_upper_right:](https://git.io/alpwsl)|
 |85|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
 |53|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
 |47|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
@@ -27,10 +27,10 @@
 |12|[@user340](https://github.com/user340)/[**fdgw2**](https://github.com/user340/fdgw2)|Minimal NetBSD Distribution Making Tool||
 |12|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiSocketIOClient**](https://github.com/yagitoshiro/TiSocketIOClient)|Socket.io client for Appcelerator Titanium||
 |11|[@leo-project](https://github.com/leo-project)/[**notes**](https://github.com/leo-project/notes)|The note of LeoFS' developers and LeoFS' benchmark report to developers and users|[:arrow_upper_right:](https://github.com/leo-project/leofs)|
+|11|[@syumai](https://github.com/syumai)/[**go-wasm-sizes**](https://github.com/syumai/go-wasm-sizes)|compare WebAssembly build size depends on imported package.||
 |10|[@gfngfn](https://github.com/gfngfn)/[**cs-thesis**](https://github.com/gfngfn/cs-thesis)|A SATySFi class file for writing CS master thesis||
 |10|[@knakayama](https://github.com/knakayama)/[**cfn-ci-cd-demo**](https://github.com/knakayama/cfn-ci-cd-demo)|||
 |10|[@nariakiiwatani](https://github.com/nariakiiwatani)/[**ofxWatchFile**](https://github.com/nariakiiwatani/ofxWatchFile)|automatically reload a file if it is modified||
-|10|[@syumai](https://github.com/syumai)/[**go-wasm-sizes**](https://github.com/syumai/go-wasm-sizes)|compare WebAssembly build size depends on imported package.||
 |10|[@tomohiro](https://github.com/tomohiro)/[**air**](https://github.com/tomohiro/air)|Command-line AirPlay video client for Apple TV||
 |10|[@wadahiro](https://github.com/wadahiro)/[**gitlab-ecs-cloudformation**](https://github.com/wadahiro/gitlab-ecs-cloudformation)|||
 |9|[@daitomanabe](https://github.com/daitomanabe)/[**ofxTinySingleton**](https://github.com/daitomanabe/ofxTinySingleton)|tiny and simple singleton in C++11 way (for learning C++11||
@@ -67,6 +67,7 @@
 |4|[@kazuho](https://github.com/kazuho)/[**draft-kazuho-httpbis-priority**](https://github.com/kazuho/draft-kazuho-httpbis-priority)|||
 |4|[@kazuho](https://github.com/kazuho)/[**quic-perf-metrics**](https://github.com/kazuho/quic-perf-metrics)|||
 |4|[@linyows](https://github.com/linyows)/[**tomohisaoda.com**](https://github.com/linyows/tomohisaoda.com)|📝 my blog|[:arrow_upper_right:](http://tomohisaoda.com)|
+|4|[@liquidz](https://github.com/liquidz)/[**docker-asciidoctor-jp**](https://github.com/liquidz/docker-asciidoctor-jp)|||
 |4|[@nobu](https://github.com/nobu)/[**build-files**](https://github.com/nobu/build-files)|||
 |4|[@tork-a](https://github.com/tork-a)/[**live-cd2**](https://github.com/tork-a/live-cd2)|||
 |4|[@ueokande](https://github.com/ueokande)/[**tex-makefile**](https://github.com/ueokande/tex-makefile)|Makefile to compile TeX document.||
@@ -83,7 +84,6 @@
 |3|[@kdmsnr](https://github.com/kdmsnr)/[**NexusGuide**](https://github.com/kdmsnr/NexusGuide)|||
 |3|[@koji](https://github.com/koji)/[**oF-shader-boilerplate**](https://github.com/koji/oF-shader-boilerplate)|||
 |3|[@lambdalisue](https://github.com/lambdalisue)/[**docker-neovim-themis**](https://github.com/lambdalisue/docker-neovim-themis)|Alpine image for running vim-themis on Neovim|[:arrow_upper_right:](https://hub.docker.com/r/lambdalisue/neovim-themis/)|
-|3|[@liquidz](https://github.com/liquidz)/[**docker-asciidoctor-jp**](https://github.com/liquidz/docker-asciidoctor-jp)|||
 |3|[@mordiford](https://github.com/mordiford)/[**device_zuk_z2_plus**](https://github.com/mordiford/device_zuk_z2_plus)|IceCold Device configuration for Lenovo/ZUK Z2 Plus||
 |3|[@pei0804](https://github.com/pei0804)/[**direnv-example**](https://github.com/pei0804/direnv-example)|||
 |3|[@progrhyme](https://github.com/progrhyme)/[**bash-logger**](https://github.com/progrhyme/bash-logger)|Logger library for Bash||

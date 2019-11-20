@@ -1,22 +1,22 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3915|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
-|668|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|3920|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
+|670|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
 |88|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
-|86|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
+|87|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |71|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
-|56|[@taikomatsu](https://github.com/taikomatsu)/[**SeExprMeshMaya**](https://github.com/taikomatsu/SeExprMeshMaya)|Polygon deformer node plugin for Maya that using Disney's SeExpr||
+|57|[@taikomatsu](https://github.com/taikomatsu)/[**SeExprMeshMaya**](https://github.com/taikomatsu/SeExprMeshMaya)|Polygon deformer node plugin for Maya that using Disney's SeExpr||
 |36|[@coord-e](https://github.com/coord-e)/[**mlml**](https://github.com/coord-e/mlml)|self-hosted compiler for a subset of OCaml||
 |34|[@mzp](https://github.com/mzp)/[**ocaml-hoogle**](https://github.com/mzp/ocaml-hoogle)|OCaml API search allows you to search many standard O'Caml libraries by either function name, or by approximate type signature. It is similar to Hoogle, which is a Haskell API search engine.
 
 You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)|
 |33|[@ksuenaga](https://github.com/ksuenaga)/[**IoPLMaterials**](https://github.com/ksuenaga/IoPLMaterials)|Materials for the class "Implementation of Programming Languages" in Kyoto University.||
-|27|[@keigoi](https://github.com/keigoi)/[**session-ocaml**](https://github.com/keigoi/session-ocaml)|An implementation of binary session types in OCaml||
+|30|[@keigoi](https://github.com/keigoi)/[**session-ocaml**](https://github.com/keigoi/session-ocaml)|An implementation of binary session types in OCaml||
 |27|[@kuy](https://github.com/kuy)/[**reason-of-life**](https://github.com/kuy/reason-of-life)|Conway's Lifegame in Reason + reason-react with webpack + bs-loader.||
+|25|[@mzp](https://github.com/mzp)/[**bs-lwt**](https://github.com/mzp/bs-lwt)|BuckleScript bindings for Lwt||
 |24|[@BYVoid](https://github.com/BYVoid)/[**Dlist**](https://github.com/BYVoid/Dlist)|Difference list library for OCaml||
 |24|[@UnixJunkie](https://github.com/UnixJunkie)/[**dolog**](https://github.com/UnixJunkie/dolog)|A dumb OCaml logger||
 |24|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
-|23|[@mzp](https://github.com/mzp)/[**bs-lwt**](https://github.com/mzp/bs-lwt)|BuckleScript bindings for Lwt||
 |21|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|Parallelize _anything_ //||
 |20|[@AltGr](https://github.com/AltGr)/[**opam-bundle**](https://github.com/AltGr/opam-bundle)|A tool that creates stand-alone source bundles from opam packages||
 |19|[@kogai](https://github.com/kogai)/[**typed_i18n**](https://github.com/kogai/typed_i18n)|Generate strictly typed definition of TFunction from own i18next-locale file||
@@ -25,6 +25,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |16|[@ksk](https://github.com/ksk)/[**Rho**](https://github.com/ksk/Rho)|Programs for checking the ρ property||
 |15|[@UnixJunkie](https://github.com/UnixJunkie)/[**bisec-tree**](https://github.com/UnixJunkie/bisec-tree)|Bisector tree implementation in OCaml||
 |15|[@mzp](https://github.com/mzp)/[**websocket-ocaml**](https://github.com/mzp/websocket-ocaml)|WebSocket Server for OCaml|[:arrow_upper_right:](http://eva-lu-ator.net/redmine/projects/websocket-ocaml)|
+|14|[@keigoi](https://github.com/keigoi)/[**linocaml**](https://github.com/keigoi/linocaml)|Monad-based linear types in OCaml, with a few syntax extensions||
 |14|[@theoldmoon0602](https://github.com/theoldmoon0602)/[**silk**](https://github.com/theoldmoon0602/silk)|||
 |13|[@AltGr](https://github.com/AltGr)/[**Camelus**](https://github.com/AltGr/Camelus)|Bot posting reports on opam-repository pull-request using a web hook||
 |13|[@mzp](https://github.com/mzp)/[**msgpack-ocaml**](https://github.com/mzp/msgpack-ocaml)|MessagePack for OCaml/Coq|[:arrow_upper_right:](http://mzp.github.com/msgpack-ocaml/refman)|
@@ -38,7 +39,6 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |10|[@UnixJunkie](https://github.com/UnixJunkie)/[**cpmlib**](https://github.com/UnixJunkie/cpmlib)|Classification and Regression Performance Metrics library||
 |9|[@0zat](https://github.com/0zat)/[**bs-dom**](https://github.com/0zat/bs-dom)|A DOM Library for BuckleScript||
 |9|[@AltGr](https://github.com/AltGr)/[**opam-ed**](https://github.com/AltGr/opam-ed)|A small  command-line tool to help with mechanical edition of opam files||
-|9|[@keigoi](https://github.com/keigoi)/[**linocaml**](https://github.com/keigoi/linocaml)|Monad-based linear types in OCaml, with a few syntax extensions||
 |9|[@shrynx](https://github.com/shrynx)/[**reasonz**](https://github.com/shrynx/reasonz)|A Haskell fan fiction for ReasonML||
 |8|[@UnixJunkie](https://github.com/UnixJunkie)/[**interval-tree**](https://github.com/UnixJunkie/interval-tree)|tree for float intervals||
 |8|[@UnixJunkie](https://github.com/UnixJunkie)/[**phashtbl**](https://github.com/UnixJunkie/phashtbl)|Minimalist persistent hashtbl OCaml library||

@@ -5,13 +5,13 @@
 |381|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
 |328|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
 |268|[@kawasima](https://github.com/kawasima)/[**jagrid**](https://github.com/kawasima/jagrid)|Japanese-styled grid framework.||
-|152|[@runexec](https://github.com/runexec)/[**chp**](https://github.com/runexec/chp)|ClojureHomePage is a Compojure based web framework that allows you to write the backend and frontend with Clojure.|[:arrow_upper_right:](https://github.com/runexec/chp/)|
+|151|[@runexec](https://github.com/runexec)/[**chp**](https://github.com/runexec/chp)|ClojureHomePage is a Compojure based web framework that allows you to write the backend and frontend with Clojure.|[:arrow_upper_right:](https://github.com/runexec/chp/)|
 |128|[@yokolet](https://github.com/yokolet)/[**clementine**](https://github.com/yokolet/clementine)|Gem for ClojureScript on Rails Asset Pipeline||
 |112|[@liquidz](https://github.com/liquidz)/[**clj-jwt**](https://github.com/liquidz/clj-jwt)|Clojure library for JSON Web Token(JWT)||
 |93|[@athos](https://github.com/athos)/[**kitchen-async**](https://github.com/athos/kitchen-async)|A Promise library for ClojureScript, or a poor man's core.async||
 |90|[@athos](https://github.com/athos)/[**Pinpointer**](https://github.com/athos/Pinpointer)|Pinpointer is yet another clojure.spec error reporter based on a precise error analysis||
 |87|[@runexec](https://github.com/runexec)/[**Static-Prime**](https://github.com/runexec/Static-Prime)|A static website editor and server written in Clojure and ClojureScript.||
-|79|[@kawasima](https://github.com/kawasima)/[**back-channeling**](https://github.com/kawasima/back-channeling)|A thread floating typed chat system.||
+|78|[@kawasima](https://github.com/kawasima)/[**back-channeling**](https://github.com/kawasima/back-channeling)|A thread floating typed chat system.||
 |64|[@liquidz](https://github.com/liquidz)/[**jubot**](https://github.com/liquidz/jubot)|Chatbot framework in Clojure||
 |51|[@athos](https://github.com/athos)/[**JiSE**](https://github.com/athos/JiSE)|JiSE: Java in S-Expression||
 |49|[@runexec](https://github.com/runexec)/[**equate**](https://github.com/runexec/equate)|A Clojure fact management library||
@@ -115,6 +115,7 @@
 |5|[@nyampass](https://github.com/nyampass)/[**conceit**](https://github.com/nyampass/conceit)|A full stack web framework for Clojure.||
 |5|[@syou6162](https://github.com/syou6162)/[**hmm-clj**](https://github.com/syou6162/hmm-clj)|||
 |5|[@ympbyc](https://github.com/ympbyc)/[**reductor**](https://github.com/ympbyc/reductor)|A toy language that shows how simple and elegant the concepts behind concatenative languages are.||
+|4|[@KeenS](https://github.com/KeenS)/[**b11d**](https://github.com/KeenS/b11d)|A toy DSP|[:arrow_upper_right:](http://keens.github.io/slide/ClojuredeDSPwotsukuttahanashi/)|
 |4|[@athos](https://github.com/athos)/[**iasm**](https://github.com/athos/iasm)|inline assembly macros for Clojure||
 |4|[@athos](https://github.com/athos)/[**igv-client**](https://github.com/athos/igv-client)|Clojure implementation of IGV client to control IGV via its Port Commands||
 |4|[@athos](https://github.com/athos)/[**maeni**](https://github.com/athos/maeni)|A toy implementation of the programming language Forth written in Clojure||
@@ -134,7 +135,6 @@
 |4|[@syobochim](https://github.com/syobochim)/[**jyoshiryoku-bot**](https://github.com/syobochim/jyoshiryoku-bot)|||
 |4|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**argparse4clj**](https://github.com/tatsuhiro-t/argparse4clj)|The command line argument parser library for Clojure|[:arrow_upper_right:](http://argparse4clj.sourceforge.net/)|
 |4|[@ympbyc](https://github.com/ympbyc)/[**iclojure-notebook**](https://github.com/ympbyc/iclojure-notebook)|Totally unofficial Clojure/conj hackathon||
-|3|[@KeenS](https://github.com/KeenS)/[**b11d**](https://github.com/KeenS/b11d)|A toy DSP|[:arrow_upper_right:](http://keens.github.io/slide/ClojuredeDSPwotsukuttahanashi/)|
 |3|[@Quantisan](https://github.com/Quantisan)/[**clj-exercises**](https://github.com/Quantisan/clj-exercises)|collection of exercises done in clojure||
 |3|[@asukiaaa](https://github.com/asukiaaa)/[**re-natal-esp32control-app**](https://github.com/asukiaaa/re-natal-esp32control-app)|A re-natal (clojure script on react-js) project to control esp32 over BLE connection.||
 |3|[@athos](https://github.com/athos)/[**AR-sample**](https://github.com/athos/AR-sample)|AR sample project using AR.js from ClojureScript||

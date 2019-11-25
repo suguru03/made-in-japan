@@ -13,8 +13,8 @@
 |11|[@safx](https://github.com/safx)/[**liquidfun-ios-sample**](https://github.com/safx/liquidfun-ios-sample)|a sample project for LiquidFun.|[:arrow_upper_right:](http://safx-dev.blogspot.jp/search/label/liquidfun)|
 |11|[@tekezo](https://github.com/tekezo)/[**osx-event-observer-examples**](https://github.com/tekezo/osx-event-observer-examples)|||
 |10|[@dropcontrol](https://github.com/dropcontrol)/[**ofxiBeacon**](https://github.com/dropcontrol/ofxiBeacon)|openFrameworks addon for handling iBeacon.||
+|10|[@miyabi](https://github.com/miyabi)/[**unity-ios-keyboard-patch**](https://github.com/miyabi/unity-ios-keyboard-patch)|Adjusts position and height of input field above keyboard when status bar is shown in iOS 7 or later.||
 |9|[@hisui](https://github.com/hisui)/[**scrapingkit**](https://github.com/hisui/scrapingkit)|ObjC library: easy DOM traversing in jQuery-like API for web scraping.||
-|9|[@miyabi](https://github.com/miyabi)/[**unity-ios-keyboard-patch**](https://github.com/miyabi/unity-ios-keyboard-patch)|Adjusts position and height of input field above keyboard when status bar is shown in iOS 7 or later.||
 |9|[@seanchas116](https://github.com/seanchas116)/[**transparent-titlebar**](https://github.com/seanchas116/transparent-titlebar)|Transparent title bar with native title label in Electron for Mac||
 |8|[@ashikase](https://github.com/ashikase)/[**libcrashreport**](https://github.com/ashikase/libcrashreport)|Library for parsing and symbolicating iOS crash log files.||
 |7|[@2bbb](https://github.com/2bbb)/[**ofxBonjour**](https://github.com/2bbb/ofxBonjour)|use Bonjour in openFrameowkrs||

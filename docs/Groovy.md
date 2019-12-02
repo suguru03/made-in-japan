@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |276|[@int128](https://github.com/int128)/[**gradle-ssh-plugin**](https://github.com/int128/gradle-ssh-plugin)|Gradle SSH Plugin|[:arrow_upper_right:](https://gradle-ssh-plugin.github.io)|
-|262|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
-|239|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|👨‍🔧 gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
-|141|[@int128](https://github.com/int128)/[**gradle-swagger-generator-plugin**](https://github.com/int128/gradle-swagger-generator-plugin)|Gradle plugin for OpenAPI YAML validation, code generation and API document publishing||
+|263|[@konifar](https://github.com/konifar)/[**gradle-unused-resources-remover-plugin**](https://github.com/konifar/gradle-unused-resources-remover-plugin)|Gradle Plugin that removes unused resources in Android projects.|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.konifar.gradle.unused-resources-remover)|
+|240|[@kt3k](https://github.com/kt3k)/[**coveralls-gradle-plugin**](https://github.com/kt3k/coveralls-gradle-plugin)|👨‍🔧 gradle plugin for coveralls|[:arrow_upper_right:](https://plugins.gradle.org/plugin/com.github.kt3k.coveralls)|
+|144|[@int128](https://github.com/int128)/[**gradle-swagger-generator-plugin**](https://github.com/int128/gradle-swagger-generator-plugin)|Gradle plugin for OpenAPI YAML validation, code generation and API document publishing||
 |127|[@ksoichiro](https://github.com/ksoichiro)/[**gradle-eclipse-aar-plugin**](https://github.com/ksoichiro/gradle-eclipse-aar-plugin)|Gradle plugin to use Android AAR libraries on Eclipse.||
 |106|[@aurae](https://github.com/aurae)/[**android-junit5**](https://github.com/aurae/android-junit5)|Unit Testing with JUnit 5 for Android.||
 |99|[@tmiyamon](https://github.com/tmiyamon)/[**gradle-config**](https://github.com/tmiyamon/gradle-config)|Gradle plugin to add multi-variants yaml settings to Android.||

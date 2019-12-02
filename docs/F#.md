@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |89|[@0918nobita](https://github.com/0918nobita)/[**psyche**](https://github.com/0918nobita/psyche)|Programming language||
-|81|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.FusionTasks**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
+|82|[@kekyo](https://github.com/kekyo)/[**FSharp.Control.FusionTasks**](https://github.com/kekyo/FSharp.Control.FusionTasks)|F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.||
 |55|[@vain0](https://github.com/vain0)/[**VainZero.Friends**](https://github.com/vain0/VainZero.Friends)|PL for friends in the Japaripark (ジャパリパークのフレンズのためのプログラミング言語)||
 |55|[@vain0](https://github.com/vain0)/[**friends-lang**](https://github.com/vain0/friends-lang)|PL for friends in the Japaripark (ジャパリパークのフレンズのためのプログラミング言語)||
 |38|[@bleis-tift](https://github.com/bleis-tift)/[**FsYaml**](https://github.com/bleis-tift/FsYaml)|Typed Yaml Library for F#|[:arrow_upper_right:](http://bleis-tift.github.com/FsYaml)|

@@ -3,8 +3,8 @@
 |107|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance. Supports multi-install. Lightest WSL distribution.|[:arrow_upper_right:](https://git.io/alpwsl)|
 |85|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
 |53|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
+|47|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |47|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
-|46|[@dae](https://github.com/dae)/[**ankidocs**](https://github.com/dae/ankidocs)|Source files for Anki's documentation||
 |37|[@halogenandtoast](https://github.com/halogenandtoast)/[**excelsior**](https://github.com/halogenandtoast/excelsior)|||
 |34|[@satoruhiga](https://github.com/satoruhiga)/[**ofxShaderRunner**](https://github.com/satoruhiga/ofxShaderRunner)|||
 |29|[@moznion](https://github.com/moznion)/[**aws-lambda-perl5-layer**](https://github.com/moznion/aws-lambda-perl5-layer)|Perl5 layer for AWS Lambda with runtime API||
@@ -94,6 +94,7 @@
 |3|[@smizy](https://github.com/smizy)/[**docker-keras-tensorflow**](https://github.com/smizy/docker-keras-tensorflow)|Python3 Tensorflow backended Keras with Jupyter docker image based on alpine ||
 |3|[@smizy](https://github.com/smizy)/[**docker-keras-theano**](https://github.com/smizy/docker-keras-theano)|Python3 Theano backended Keras with Jupyter docker image based on alpine ||
 |3|[@snmsts](https://github.com/snmsts)/[**docker-cl-pack**](https://github.com/snmsts/docker-cl-pack)|||
+|3|[@stffrdhrn](https://github.com/stffrdhrn)/[**tls-examples**](https://github.com/stffrdhrn/tls-examples)|TLS access example code snippets||
 |3|[@tado](https://github.com/tado)/[**dltccs17**](https://github.com/tado/dltccs17)|Creative Coding School code examples||
 |3|[@tokuhirom](https://github.com/tokuhirom)/[**setusergroups**](https://github.com/tokuhirom/setusergroups)|set uid/pid/supplementary groups||
 |3|[@wakita](https://github.com/wakita)/[**fp2018**](https://github.com/wakita/fp2018)|Functional Programming|[:arrow_upper_right:](https://wakita.github.io/fp2018/)|

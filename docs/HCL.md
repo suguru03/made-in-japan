@@ -4,9 +4,9 @@
 |49|[@freedomofkeima](https://github.com/freedomofkeima)/[**terraform-docker-ecs**](https://github.com/freedomofkeima/terraform-docker-ecs)|Manage your ASG + ECS Cluster (Docker) with Terraform||
 |47|[@int128](https://github.com/int128)/[**terraform-aws-kops-alb**](https://github.com/int128/terraform-aws-kops-alb)|Terraform module for ALB, Route53 and nginx-ingress with kops on AWS|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/kops-alb)|
 |39|[@int128](https://github.com/int128)/[**kops-terraform-starter**](https://github.com/int128/kops-terraform-starter)|A template of Kubernetes with nginx-ingress and ALB on AWS (using kops and Terraform)||
+|24|[@knakayama](https://github.com/knakayama)/[**aws-terraform-playground**](https://github.com/knakayama/aws-terraform-playground)|terraform examples on AWS||
 |24|[@shufo](https://github.com/shufo)/[**terraform-boilerplate-ecs-alb**](https://github.com/shufo/terraform-boilerplate-ecs-alb)|Terraform boilerplate for ECS with ALB.||
 |24|[@wata727](https://github.com/wata727)/[**tf_aws_ecs_on_spotfleet**](https://github.com/wata727/tf_aws_ecs_on_spotfleet)|A Terraform module for create ECS on Spot Fleet.||
-|23|[@knakayama](https://github.com/knakayama)/[**aws-terraform-playground**](https://github.com/knakayama/aws-terraform-playground)|terraform examples on AWS||
 |21|[@shogomuranushi](https://github.com/shogomuranushi)/[**oreno-terraform**](https://github.com/shogomuranushi/oreno-terraform)|||
 |14|[@ToruMakabe](https://github.com/ToruMakabe)/[**Understanding-K8s**](https://github.com/ToruMakabe/Understanding-K8s)|[翔泳社 しくみがわかる Kubernetes] サンプルコード||
 |12|[@inokappa](https://github.com/inokappa)/[**oreno-terraform-ecs**](https://github.com/inokappa/oreno-terraform-ecs)|||
@@ -28,6 +28,7 @@
 |4|[@making](https://github.com/making)/[**cfcr-aws**](https://github.com/making/cfcr-aws)|How to deploy Cloud Foundry Container Runtime (formerly known as Kubo/Kubernete on BOSH) on AWS||
 |4|[@tcnksm](https://github.com/tcnksm)/[**tf-dnsimple-gh-pages**](https://github.com/tcnksm/tf-dnsimple-gh-pages)|Setup custom apex domain for your GitHub pages with Terraform||
 |4|[@toshimaru](https://github.com/toshimaru)/[**terraform-digitalocean-rails**](https://github.com/toshimaru/terraform-digitalocean-rails)|A terraform simple sample on DigitalOcean for Ruby on Rails.||
+|3|[@int128](https://github.com/int128)/[**terraform-aws-nat-instance**](https://github.com/int128/terraform-aws-nat-instance)|Terraform module to provision a NAT instance using an auto scaling group and spot instance from $1/month|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/nat-instance/aws/)|
 |3|[@jun06t](https://github.com/jun06t)/[**terraform-sample**](https://github.com/jun06t/terraform-sample)|terraform examples||
 |3|[@matsuu](https://github.com/matsuu)/[**terraform-pixiv-isucon2016**](https://github.com/matsuu/terraform-pixiv-isucon2016)|Terraform configuration files for building Pixiv ISUCON 2016 environment||
 |3|[@superbrothers](https://github.com/superbrothers)/[**prometheus-up-and-running-ja-examples**](https://github.com/superbrothers/prometheus-up-and-running-ja-examples)|『入門 Prometheus』9章 コンテナとKubernetes サンプルファイル Kubernetes 1.13 対応版|[:arrow_upper_right:](https://www.oreilly.co.jp/books/9784873118772/)|

@@ -2,7 +2,7 @@
 |---|---|---|---|
 |616|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
 |503|[@parroty](https://github.com/parroty)/[**excoveralls**](https://github.com/parroty/excoveralls)|Coverage report tool for Elixir with coveralls.io integration.||
-|473|[@parroty](https://github.com/parroty)/[**exvcr**](https://github.com/parroty/exvcr)|HTTP request/response recording library for elixir, inspired by VCR.||
+|475|[@parroty](https://github.com/parroty)/[**exvcr**](https://github.com/parroty/exvcr)|HTTP request/response recording library for elixir, inspired by VCR.||
 |332|[@parroty](https://github.com/parroty)/[**extwitter**](https://github.com/parroty/extwitter)|Twitter client library for elixir. ||
 |300|[@parroty](https://github.com/parroty)/[**excheck**](https://github.com/parroty/excheck)|Property-based testing library for Elixir (QuickCheck style).||
 |240|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
@@ -17,7 +17,7 @@
 |82|[@tuvistavie](https://github.com/tuvistavie)/[**opencov**](https://github.com/tuvistavie/opencov)|Open source code coverage history webapp|[:arrow_upper_right:](http://demo.opencov.com)|
 |70|[@parroty](https://github.com/parroty)/[**exfirebase**](https://github.com/parroty/exfirebase)|An elixir library for accessing the Firebase REST API.||
 |67|[@chvanikoff](https://github.com/chvanikoff)/[**apns4ex**](https://github.com/chvanikoff/apns4ex)|APNS for Elixir||
-|65|[@melpon](https://github.com/melpon)/[**memoize**](https://github.com/melpon/memoize)|A method caching macro for elixir using CAS on ETS.|[:arrow_upper_right:](https://hex.pm/packages/memoize)|
+|66|[@melpon](https://github.com/melpon)/[**memoize**](https://github.com/melpon/memoize)|A method caching macro for elixir using CAS on ETS.|[:arrow_upper_right:](https://hex.pm/packages/memoize)|
 |65|[@mururu](https://github.com/mururu)/[**msgpack-elixir**](https://github.com/mururu/msgpack-elixir)|MessagePack Implementation for Elixir / msgpack.org[Elixir]||
 |65|[@tuvistavie](https://github.com/tuvistavie)/[**pushex**](https://github.com/tuvistavie/pushex)|Push notifications for Elixir|[:arrow_upper_right:](https://hexdocs.pm/pushex)|
 |60|[@chvanikoff](https://github.com/chvanikoff)/[**reph**](https://github.com/chvanikoff/reph)|React/Redux + Phoenix (Elixir)||
@@ -64,6 +64,7 @@
 |14|[@yujikawa](https://github.com/yujikawa)/[**numexy**](https://github.com/yujikawa/numexy)|numexy is a library like Python's numpy. It is a library for matrix calculation.||
 |13|[@deadcheat](https://github.com/deadcheat)/[**erande**](https://github.com/deadcheat/erande)|||
 |12|[@ma2gedev](https://github.com/ma2gedev)/[**mix-star**](https://github.com/ma2gedev/mix-star)|Elixir Mix task to starring GitHub repository with `mix deps.get`ting dependent library||
+|12|[@ne-sachirou](https://github.com/ne-sachirou)/[**ex_komachi_heartbeat**](https://github.com/ne-sachirou/ex_komachi_heartbeat)|🚅Vital monitoring Elixir Web application.🚄||
 |11|[@ma2gedev](https://github.com/ma2gedev)/[**luhn_ex**](https://github.com/ma2gedev/luhn_ex)|Luhn algorithm in Elixir||
 |10|[@faithandbrave](https://github.com/faithandbrave)/[**excelion**](https://github.com/faithandbrave/excelion)|Excel (xlsx) file reader for Elixir||
 |10|[@lyokato](https://github.com/lyokato)/[**the_end**](https://github.com/lyokato/the_end)|Elixir Library: provides a graceful shutdown support for your Phoenix, or plain Plug application||
@@ -77,7 +78,6 @@
 |8|[@keichan34](https://github.com/keichan34)/[**b2_client**](https://github.com/keichan34/b2_client)|Backblaze B2 client for Elixir||
 |8|[@keichan34](https://github.com/keichan34)/[**exfile-b2**](https://github.com/keichan34/exfile-b2)|A Backblaze B2 backend for Exfile||
 |8|[@marocchino](https://github.com/marocchino)/[**ffaker**](https://github.com/marocchino/ffaker)|elixir porting of https://github.com/ffaker/ffaker||
-|8|[@ne-sachirou](https://github.com/ne-sachirou)/[**ex_komachi_heartbeat**](https://github.com/ne-sachirou/ex_komachi_heartbeat)|🚅Vital monitoring Elixir Web application.🚄||
 |8|[@ne-sachirou](https://github.com/ne-sachirou)/[**redis_z**](https://github.com/ne-sachirou/redis_z)|Pooling & sharding support parallel Redis adapter base on Redix.|[:arrow_upper_right:](https://hex.pm/packages/redis_z)|
 |8|[@niku](https://github.com/niku)/[**hobot**](https://github.com/niku/hobot)|A bot framework working on Erlang VM(BEAM)||
 |8|[@rramsden](https://github.com/rramsden)/[**scribe**](https://github.com/rramsden/scribe)|A database migration library for Elixir||
@@ -93,6 +93,7 @@
 |7|[@ne-sachirou](https://github.com/ne-sachirou)/[**inner_cotton**](https://github.com/ne-sachirou/inner_cotton)|Collection of recommended Elixir check utilities.||
 |7|[@parroty](https://github.com/parroty)/[**spawn_viewer**](https://github.com/parroty/spawn_viewer)|Trial implementation to visualize process spawning.||
 |7|[@ryo33](https://github.com/ryo33)/[**Parselix**](https://github.com/ryo33/Parselix)|A parser combinator library for Elixir.|[:arrow_upper_right:](https://hex.pm/packages/parselix)|
+|7|[@shufo](https://github.com/shufo)/[**plug_rate_limit_redis**](https://github.com/shufo/plug_rate_limit_redis)|An Elixir plug rate limiting with redis|[:arrow_upper_right:](https://hex.pm/packages/plug_rate_limit_redis)|
 |6|[@Joe-noh](https://github.com/Joe-noh)/[**yomel**](https://github.com/Joe-noh/yomel)|読める、読めるぞぉ!!||
 |6|[@archSeer](https://github.com/archSeer)/[**colibri-server**](https://github.com/archSeer/colibri-server)|The Elixir API backend for Colibri.||
 |6|[@archseer](https://github.com/archseer)/[**colibri-server**](https://github.com/archseer/colibri-server)|The Elixir API backend for Colibri.||
@@ -102,7 +103,6 @@
 |6|[@ma2gedev](https://github.com/ma2gedev)/[**gimei_ex**](https://github.com/ma2gedev/gimei_ex)||[:arrow_upper_right:](https://github.com/ma2gedev/gimei_ex)|
 |6|[@ma2gedev](https://github.com/ma2gedev)/[**isucon4-qual-phoenix**](https://github.com/ma2gedev/isucon4-qual-phoenix)|||
 |6|[@ma2gedev](https://github.com/ma2gedev)/[**qiita_ex**](https://github.com/ma2gedev/qiita_ex)|Qiita API v2 Interface for Elixir||
-|6|[@shufo](https://github.com/shufo)/[**plug_rate_limit_redis**](https://github.com/shufo/plug_rate_limit_redis)|An Elixir plug rate limiting with redis|[:arrow_upper_right:](https://hex.pm/packages/plug_rate_limit_redis)|
 |6|[@ymtszw](https://github.com/ymtszw)/[**hipchat_elixir**](https://github.com/ymtszw/hipchat_elixir)|[DISCONTINUED] HipChat client library for Elixir||
 |6|[@yoavlt](https://github.com/yoavlt)/[**tubex**](https://github.com/yoavlt/tubex)|Elixir lightweight wrapper of YouTube Data v3||
 |5|[@Joe-noh](https://github.com/Joe-noh)/[**pepabo.ex**](https://github.com/Joe-noh/pepabo.ex)|Elixir勉強会 演習問題解答例||
@@ -147,6 +147,7 @@
 |3|[@melpon](https://github.com/melpon)/[**libxml**](https://github.com/melpon/libxml)|Thin wrapper for Libxml2 using NIF by Elixir|[:arrow_upper_right:](https://hex.pm/packages/libxml)|
 |3|[@mururu](https://github.com/mururu)/[**elixir-calendar**](https://github.com/mururu/elixir-calendar)|A date and time library for Elixir.||
 |3|[@mururu](https://github.com/mururu)/[**fluent-logger-elixir**](https://github.com/mururu/fluent-logger-elixir)|fluent-logger-elixir||
+|3|[@niku](https://github.com/niku)/[**earmark_hashed_link**](https://github.com/niku/earmark_hashed_link)|Adding link to hashed text in a markdown using Earmak's AST||
 |3|[@niku](https://github.com/niku)/[**pgroonga-with-phoenix**](https://github.com/niku/pgroonga-with-phoenix)| How to use PGroonga with PhoenixFramework|[:arrow_upper_right:](http://niku.name/articles/2015/11/12/PhoenixFramework%E3%81%A7PostgreSQL%E3%81%A8PGroonga%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A8%E6%96%87%E6%A4%9C%E7%B4%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)|
 |3|[@nithinbekal](https://github.com/nithinbekal)/[**google_books.ex**](https://github.com/nithinbekal/google_books.ex)|An Elixir wrapper to the Google Books API||
 |3|[@otiai10](https://github.com/otiai10)/[**good**](https://github.com/otiai10/good)|Early Return for Elixir||

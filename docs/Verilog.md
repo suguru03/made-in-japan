@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|115|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
-|27|[@kazunori279](https://github.com/kazunori279)/[**CPU32**](https://github.com/kazunori279/CPU32)|Tiny MIPS for Terasic DE0||
+|117|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
+|26|[@kazunori279](https://github.com/kazunori279)/[**CPU32**](https://github.com/kazunori279/CPU32)|Tiny MIPS for Terasic DE0||
 |24|[@osafune](https://github.com/osafune)/[**peridot**](https://github.com/osafune/peridot)|'PERIDOT' - Simple & Compact FPGA board||
 |9|[@stffrdhrn](https://github.com/stffrdhrn)/[**uart**](https://github.com/stffrdhrn/uart)|Verilog uart receiver and transmitter modules for De0 Nano||
 |7|[@mshr-h](https://github.com/mshr-h)/[**motion_estimation_processor_fullsearch**](https://github.com/mshr-h/motion_estimation_processor_fullsearch)|Fullsearch based Motion Estimation Processor written in Verilog-HDL||
@@ -20,5 +20,6 @@
 |3|[@danielthank](https://github.com/danielthank)/[**VoiceTransformer**](https://github.com/danielthank/VoiceTransformer)|Voice transformer in verilog||
 |3|[@imaoca](https://github.com/imaoca)/[**dl166**](https://github.com/imaoca/dl166)|4 BIT Original CPU||
 |3|[@kawasin73](https://github.com/kawasin73)/[**computer-architecture-3s**](https://github.com/kawasin73/computer-architecture-3s)|東京大学工学部電子情報学科のコンピュータアーキテクチャの課題。CPUとアセンブラを作ります。||
+|3|[@kazunori279](https://github.com/kazunori279)/[**hdllesson**](https://github.com/kazunori279/hdllesson)|HDL Lesson||
 |3|[@mzp](https://github.com/mzp)/[**GC**](https://github.com/mzp/GC)|Proof of Garbage Collector||
 

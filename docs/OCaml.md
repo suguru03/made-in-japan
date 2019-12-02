@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3923|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
-|671|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
-|88|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
+|3926|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
+|672|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|89|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |87|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
-|71|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
+|72|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
 |57|[@taikomatsu](https://github.com/taikomatsu)/[**SeExprMeshMaya**](https://github.com/taikomatsu/SeExprMeshMaya)|Polygon deformer node plugin for Maya that using Disney's SeExpr||
 |36|[@coord-e](https://github.com/coord-e)/[**mlml**](https://github.com/coord-e/mlml)|self-hosted compiler for a subset of OCaml||
 |34|[@mzp](https://github.com/mzp)/[**ocaml-hoogle**](https://github.com/mzp/ocaml-hoogle)|OCaml API search allows you to search many standard O'Caml libraries by either function name, or by approximate type signature. It is similar to Hoogle, which is a Haskell API search engine.
@@ -16,8 +16,8 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |26|[@UnixJunkie](https://github.com/UnixJunkie)/[**dolog**](https://github.com/UnixJunkie/dolog)|A dumb OCaml logger||
 |25|[@mzp](https://github.com/mzp)/[**bs-lwt**](https://github.com/mzp/bs-lwt)|BuckleScript bindings for Lwt||
 |24|[@BYVoid](https://github.com/BYVoid)/[**Dlist**](https://github.com/BYVoid/Dlist)|Difference list library for OCaml||
+|24|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|Parallelize _anything_ //||
 |24|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
-|23|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|Parallelize _anything_ //||
 |21|[@AltGr](https://github.com/AltGr)/[**opam-bundle**](https://github.com/AltGr/opam-bundle)|A tool that creates stand-alone source bundles from opam packages||
 |19|[@UnixJunkie](https://github.com/UnixJunkie)/[**daft**](https://github.com/UnixJunkie/daft)|DAFT Allows File Transfers||
 |19|[@kogai](https://github.com/kogai)/[**typed_i18n**](https://github.com/kogai/typed_i18n)|Generate strictly typed definition of TFunction from own i18next-locale file||
@@ -43,6 +43,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |8|[@UnixJunkie](https://github.com/UnixJunkie)/[**interval-tree**](https://github.com/UnixJunkie/interval-tree)|tree for float intervals||
 |8|[@UnixJunkie](https://github.com/UnixJunkie)/[**phashtbl**](https://github.com/UnixJunkie/phashtbl)|Minimalist persistent hashtbl OCaml library||
 |8|[@aigarashi](https://github.com/aigarashi)/[**copl-tools**](https://github.com/aigarashi/copl-tools)|tools for the book "Concepts of Programming Languages"||
+|8|[@gfngfn](https://github.com/gfngfn)/[**toy-macro-ml**](https://github.com/gfngfn/toy-macro-ml)|An implementation of MacroML [Ganz, Sabry & Taha 2001]||
 |8|[@mzp](https://github.com/mzp)/[**coq-for-ipad**](https://github.com/mzp/coq-for-ipad)|||
 |8|[@mzp](https://github.com/mzp)/[**min-caml**](https://github.com/mzp/min-caml)|min-caml[forked]|[:arrow_upper_right:](http://min-caml.sourceforge.net/)|
 |8|[@mzp](https://github.com/mzp)/[**scheme-abc**](https://github.com/mzp/scheme-abc)|Scheme compiler for ActionScript3 Bytecode/Flash|[:arrow_upper_right:](http://happyabc.org)|
@@ -53,7 +54,6 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |7|[@adrianmcli](https://github.com/adrianmcli)/[**rehydrate-workshop**](https://github.com/adrianmcli/rehydrate-workshop)|A small collection of basic components built with Rehydrate 💧.||
 |7|[@komamitsu](https://github.com/komamitsu)/[**OCatra**](https://github.com/komamitsu/OCatra)|Simple web server library for OCaml like Sinatra||
 |6|[@AltGr](https://github.com/AltGr)/[**Contre-jour**](https://github.com/AltGr/Contre-jour)|A toy image gallery application for OPA||
-|6|[@gfngfn](https://github.com/gfngfn)/[**toy-macro-ml**](https://github.com/gfngfn/toy-macro-ml)|An implementation of MacroML [Ganz, Sabry & Taha 2001]||
 |6|[@kuy](https://github.com/kuy)/[**nada.re**](https://github.com/kuy/nada.re)|Visualization of Abelian sandpile model written in Reason + Obelisk.js.||
 |6|[@masashi-y](https://github.com/masashi-y)/[**abduction_kbc**](https://github.com/masashi-y/abduction_kbc)|||
 |6|[@master-q](https://github.com/master-q)/[**readPurelyFunctionalDataStructures**](https://github.com/master-q/readPurelyFunctionalDataStructures)|||
@@ -63,6 +63,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |5|[@UnixJunkie](https://github.com/UnixJunkie)/[**consent**](https://github.com/UnixJunkie/consent)|ligand-based virtual screening with consensus queries||
 |5|[@UnixJunkie](https://github.com/UnixJunkie)/[**get_line**](https://github.com/UnixJunkie/get_line)|get line at index i from file f (a missing unix command); will crash early and loud if any problem on the contrary to awk||
 |5|[@UnixJunkie](https://github.com/UnixJunkie)/[**opmer**](https://github.com/UnixJunkie/opmer)|OPAM repository tree fingerprinter and differ using a Merkle tree||
+|5|[@UnixJunkie](https://github.com/UnixJunkie)/[**pardi**](https://github.com/UnixJunkie/pardi)|Parallel and Distributed execution of command lines, pardi !||
 |5|[@kaznum](https://github.com/kaznum)/[**programming_in_ocaml_exercise**](https://github.com/kaznum/programming_in_ocaml_exercise)|Practical Exercise of the book 'Programming in OCaml'||
 |5|[@komamitsu](https://github.com/komamitsu)/[**OCaml-minilisp**](https://github.com/komamitsu/OCaml-minilisp)|mini lisp in OCaml||
 |5|[@mzp](https://github.com/mzp)/[**coq-ide-for-ios**](https://github.com/mzp/coq-ide-for-ios)|||
@@ -81,7 +82,6 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**lz4-chans**](https://github.com/UnixJunkie/lz4-chans)|open/close binary channels with LZ4 compression in the background||
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**okdt**](https://github.com/UnixJunkie/okdt)|OCaml implementation of a kd-tree||
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**orsvm-e1071**](https://github.com/UnixJunkie/orsvm-e1071)|Access the Linear or RBF kernel SVM from OCaml using the R e1071 or svmpath packages||
-|4|[@UnixJunkie](https://github.com/UnixJunkie)/[**pardi**](https://github.com/UnixJunkie/pardi)|Parallel and Distributed execution of command lines, pardi !||
 |4|[@UnixJunkie](https://github.com/UnixJunkie)/[**parpair**](https://github.com/UnixJunkie/parpair)|compute in parallel the application of one (or two) function(s) on a pair of elements||
 |4|[@hsk](https://github.com/hsk)/[**min-caml-js**](https://github.com/hsk/min-caml-js)|OCaml subset to JavaScript translator|[:arrow_upper_right:](https://github.com/hsk/min-caml-js)|
 |4|[@kiranps](https://github.com/kiranps)/[**learn-reasonml**](https://github.com/kiranps/learn-reasonml)|interactive playground for learning reasonml|[:arrow_upper_right:](https://learn-reasonml.now.sh/#/playground)|

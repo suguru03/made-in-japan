@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1319|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|1318|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
 |239|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
 |193|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |78|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
@@ -56,13 +56,13 @@
 |7|[@cooldaemon](https://github.com/cooldaemon)/[**rabbitmq-http-proxy**](https://github.com/cooldaemon/rabbitmq-http-proxy)|HTTP Proxy in RabbitMQ.||
 |7|[@jj1bdx](https://github.com/jj1bdx)/[**exs64**](https://github.com/jj1bdx/exs64)|Xorshift64star for Erlang||
 |7|[@jj1bdx](https://github.com/jj1bdx)/[**nsplit**](https://github.com/jj1bdx/nsplit)|Erlang mapping function library splitting a job to n-process concurrent execution||
+|7|[@leo-project](https://github.com/leo-project)/[**leo_logger**](https://github.com/leo-project/leo_logger)|leo_logger is a logging library for LeoFS and other Erlang applications. It has plugin-mechanism.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |7|[@sile](https://github.com/sile)/[**logi**](https://github.com/sile/logi)|A Logger Interface Library for Erlang/OTP||
 |7|[@sile](https://github.com/sile)/[**rafte**](https://github.com/sile/rafte)|An Erlang implementation of the Raft consensus algorithm||
 |7|[@yahoojapan](https://github.com/yahoojapan)/[**big3store**](https://github.com/yahoojapan/big3store)|||
 |6|[@cooldaemon](https://github.com/cooldaemon)/[**BasicStudyForErlang**](https://github.com/cooldaemon/BasicStudyForErlang)|I study the Erlang over from the basics.||
 |6|[@cooldaemon](https://github.com/cooldaemon)/[**yamd**](https://github.com/cooldaemon/yamd)|Yet Another Memcached.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/20071113/1194943502)|
 |6|[@jj1bdx](https://github.com/jj1bdx)/[**v6hex**](https://github.com/jj1bdx/v6hex)|IPv6 hex address library for Erlang||
-|6|[@leo-project](https://github.com/leo-project)/[**leo_logger**](https://github.com/leo-project/leo_logger)|leo_logger is a logging library for LeoFS and other Erlang applications. It has plugin-mechanism.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@leo-project](https://github.com/leo-project)/[**leo_ordning_reda**](https://github.com/leo-project/leo_ordning_reda)|leo_ordning_reda is a library to stack objects and  send stacked objects with async.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@leo-project](https://github.com/leo-project)/[**leo_pod**](https://github.com/leo-project/leo_pod)|leo_pod - A Fast Erlang worker pool manager|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@leo-project](https://github.com/leo-project)/[**leo_statistics**](https://github.com/leo-project/leo_statistics)|leo_statistics collects Erlang VM’s statistics and application’s statistics.|[:arrow_upper_right:](http://leo-project.net/leofs)|

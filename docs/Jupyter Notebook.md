@@ -1,39 +1,39 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|7366|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**PythonRobotics**](https://github.com/AtsushiSakai/PythonRobotics)|Python sample codes for robotics algorithms.|[:arrow_upper_right:](https://atsushisakai.github.io/PythonRobotics/)|
-|4387|[@ctgk](https://github.com/ctgk)/[**PRML**](https://github.com/ctgk/PRML)|PRML algorithms implemented in Python||
-|3366|[@BrambleXu](https://github.com/BrambleXu)/[**pydata-notebook**](https://github.com/BrambleXu/pydata-notebook)|利用Python进行数据分析 第二版 (2017) 中文翻译笔记||
-|2669|[@jrjohansson](https://github.com/jrjohansson)/[**scientific-python-lectures**](https://github.com/jrjohansson/scientific-python-lectures)|Lectures on scientific computing with python, as IPython notebooks.||
-|2499|[@shaoanlu](https://github.com/shaoanlu)/[**faceswap-GAN**](https://github.com/shaoanlu/faceswap-GAN)|A denoising autoencoder + adversarial losses and attention mechanisms for face swapping.||
-|1233|[@Hironsan](https://github.com/Hironsan)/[**awesome-embedding-models**](https://github.com/Hironsan/awesome-embedding-models)|A curated list of awesome embedding models tutorials, projects and communities.||
-|1041|[@tatsuyah](https://github.com/tatsuyah)/[**vehicle-detection**](https://github.com/tatsuyah/vehicle-detection)|Vehicle detection using machine learning and computer vision techniques for Udacity's Self-Driving Car Engineer Nanodegree.||
-|760|[@nyoki-mtl](https://github.com/nyoki-mtl)/[**pytorch-EverybodyDanceNow**](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)|Implementation of Everybody Dance Now by pytorch||
+|7529|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**PythonRobotics**](https://github.com/AtsushiSakai/PythonRobotics)|Python sample codes for robotics algorithms.|[:arrow_upper_right:](https://atsushisakai.github.io/PythonRobotics/)|
+|4410|[@ctgk](https://github.com/ctgk)/[**PRML**](https://github.com/ctgk/PRML)|PRML algorithms implemented in Python||
+|3392|[@BrambleXu](https://github.com/BrambleXu)/[**pydata-notebook**](https://github.com/BrambleXu/pydata-notebook)|利用Python进行数据分析 第二版 (2017) 中文翻译笔记||
+|2675|[@jrjohansson](https://github.com/jrjohansson)/[**scientific-python-lectures**](https://github.com/jrjohansson/scientific-python-lectures)|Lectures on scientific computing with python, as IPython notebooks.||
+|2512|[@shaoanlu](https://github.com/shaoanlu)/[**faceswap-GAN**](https://github.com/shaoanlu/faceswap-GAN)|A denoising autoencoder + adversarial losses and attention mechanisms for face swapping.||
+|1234|[@Hironsan](https://github.com/Hironsan)/[**awesome-embedding-models**](https://github.com/Hironsan/awesome-embedding-models)|A curated list of awesome embedding models tutorials, projects and communities.||
+|1042|[@tatsuyah](https://github.com/tatsuyah)/[**vehicle-detection**](https://github.com/tatsuyah/vehicle-detection)|Vehicle detection using machine learning and computer vision techniques for Udacity's Self-Driving Car Engineer Nanodegree.||
+|761|[@nyoki-mtl](https://github.com/nyoki-mtl)/[**pytorch-EverybodyDanceNow**](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)|Implementation of Everybody Dance Now by pytorch||
+|646|[@philipperemy](https://github.com/philipperemy)/[**keras-tcn**](https://github.com/philipperemy/keras-tcn)|Keras Temporal Convolutional Network.||
 |645|[@chengstone](https://github.com/chengstone)/[**movie_recommender**](https://github.com/chengstone/movie_recommender)|MovieLens based recommender system.使用MovieLens数据集训练的电影推荐系统。||
-|632|[@philipperemy](https://github.com/philipperemy)/[**keras-tcn**](https://github.com/philipperemy/keras-tcn)|Keras Temporal Convolutional Network.||
-|509|[@shaoanlu](https://github.com/shaoanlu)/[**fewshot-face-translation-GAN**](https://github.com/shaoanlu/fewshot-face-translation-GAN)|Generative adversarial networks integrating modules from FUNIT and SPADE for face-swapping.||
-|485|[@quolc](https://github.com/quolc)/[**neural-collage**](https://github.com/quolc/neural-collage)|Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration||
-|406|[@Joker316701882](https://github.com/Joker316701882)/[**Additive-Margin-Softmax**](https://github.com/Joker316701882/Additive-Margin-Softmax)|This is the implementation of paper <Additive Margin Softmax for Face Verification>||
-|366|[@r9y9](https://github.com/r9y9)/[**gantts**](https://github.com/r9y9/gantts)|PyTorch implementation of GAN-based text-to-speech synthesis and voice conversion (VC)||
+|521|[@shaoanlu](https://github.com/shaoanlu)/[**fewshot-face-translation-GAN**](https://github.com/shaoanlu/fewshot-face-translation-GAN)|Generative adversarial networks integrating modules from FUNIT and SPADE for face-swapping.||
+|490|[@quolc](https://github.com/quolc)/[**neural-collage**](https://github.com/quolc/neural-collage)|Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration||
+|408|[@Joker316701882](https://github.com/Joker316701882)/[**Additive-Margin-Softmax**](https://github.com/Joker316701882/Additive-Margin-Softmax)|This is the implementation of paper <Additive Margin Softmax for Face Verification>||
+|368|[@r9y9](https://github.com/r9y9)/[**gantts**](https://github.com/r9y9/gantts)|PyTorch implementation of GAN-based text-to-speech synthesis and voice conversion (VC)||
 |288|[@soskek](https://github.com/soskek)/[**attention_is_all_you_need**](https://github.com/soskek/attention_is_all_you_need)|Transformer of "Attention Is All You Need" (Vaswani et al. 2017) by Chainer. ||
 |287|[@TsingJyujing](https://github.com/TsingJyujing)/[**xhamster_analysis**](https://github.com/TsingJyujing/xhamster_analysis)|The data analysiser and predictor of https://xhamster.com/ ||
-|268|[@chengstone](https://github.com/chengstone)/[**kaggle_criteo_ctr_challenge-**](https://github.com/chengstone/kaggle_criteo_ctr_challenge-)|This is a kaggle challenge project called Display Advertising Challenge by CriteoLabs at 2014.这是2014年由CriteoLabs在kaggle上发起的广告点击率预估挑战项目。||
-|261|[@applenob](https://github.com/applenob)/[**RNN-for-Joint-NLU**](https://github.com/applenob/RNN-for-Joint-NLU)|Tensorflow implementation of "Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling" (https://arxiv.org/abs/1609.01454)||
+|272|[@chengstone](https://github.com/chengstone)/[**kaggle_criteo_ctr_challenge-**](https://github.com/chengstone/kaggle_criteo_ctr_challenge-)|This is a kaggle challenge project called Display Advertising Challenge by CriteoLabs at 2014.这是2014年由CriteoLabs在kaggle上发起的广告点击率预估挑战项目。||
+|262|[@applenob](https://github.com/applenob)/[**RNN-for-Joint-NLU**](https://github.com/applenob/RNN-for-Joint-NLU)|Tensorflow implementation of "Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling" (https://arxiv.org/abs/1609.01454)||
 |250|[@naokishibuya](https://github.com/naokishibuya)/[**car-finding-lane-lines**](https://github.com/naokishibuya/car-finding-lane-lines)|Finding Lane Lines using Python and OpenCV||
-|243|[@nyoki-mtl](https://github.com/nyoki-mtl)/[**keras-facenet**](https://github.com/nyoki-mtl/keras-facenet)|Facenet implementation by Keras2||
+|242|[@nyoki-mtl](https://github.com/nyoki-mtl)/[**keras-facenet**](https://github.com/nyoki-mtl/keras-facenet)|Facenet implementation by Keras2||
 |230|[@nzw0301](https://github.com/nzw0301)/[**keras-examples**](https://github.com/nzw0301/keras-examples)|||
-|221|[@reiinakano](https://github.com/reiinakano)/[**neural-painters**](https://github.com/reiinakano/neural-painters)|Code for "Neural Painters: A learned differentiable constraint for generating brushstroke paintings"|[:arrow_upper_right:](https://arxiv.org/abs/1904.08410)|
-|219|[@icoxfog417](https://github.com/icoxfog417)/[**baby-steps-of-rl-ja**](https://github.com/icoxfog417/baby-steps-of-rl-ja)|Pythonで学ぶ強化学習 -入門から実践まで- サンプルコード||
-|189|[@chengstone](https://github.com/chengstone)/[**LotteryPredict**](https://github.com/chengstone/LotteryPredict)|TensorFlow实战，使用LSTM预测彩票||
-|177|[@icoxfog417](https://github.com/icoxfog417)/[**graph-convolution-nlp**](https://github.com/icoxfog417/graph-convolution-nlp)|Graph Convolution Network for NLP||
+|222|[@reiinakano](https://github.com/reiinakano)/[**neural-painters**](https://github.com/reiinakano/neural-painters)|Code for "Neural Painters: A learned differentiable constraint for generating brushstroke paintings"|[:arrow_upper_right:](https://arxiv.org/abs/1904.08410)|
+|221|[@icoxfog417](https://github.com/icoxfog417)/[**baby-steps-of-rl-ja**](https://github.com/icoxfog417/baby-steps-of-rl-ja)|Pythonで学ぶ強化学習 -入門から実践まで- サンプルコード||
+|190|[@chengstone](https://github.com/chengstone)/[**LotteryPredict**](https://github.com/chengstone/LotteryPredict)|TensorFlow实战，使用LSTM预测彩票||
+|178|[@icoxfog417](https://github.com/icoxfog417)/[**graph-convolution-nlp**](https://github.com/icoxfog417/graph-convolution-nlp)|Graph Convolution Network for NLP||
 |176|[@r9y9](https://github.com/r9y9)/[**tacotron_pytorch**](https://github.com/r9y9/tacotron_pytorch)|PyTorch implementation of Tacotron speech synthesis model.|[:arrow_upper_right:](http://nbviewer.jupyter.org/github/r9y9/tacotron_pytorch/blob/master/notebooks/Test%20Tacotron.ipynb)|
 |169|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-for-absolute-beginners**](https://github.com/kazunori279/TensorFlow-for-absolute-beginners)|TensorFlow for absolute beginners: a 3-hour codelab for self-learning neural network basics without hard math.||
-|157|[@applenob](https://github.com/applenob)/[**rl_learn**](https://github.com/applenob/rl_learn)|我的强化学习笔记和学习材料:book:  still updating ... ...||
+|160|[@applenob](https://github.com/applenob)/[**rl_learn**](https://github.com/applenob/rl_learn)|我的强化学习笔记和学习材料:book:  still updating ... ...||
+|142|[@YutaroOgawa](https://github.com/YutaroOgawa)/[**pytorch_advanced**](https://github.com/YutaroOgawa/pytorch_advanced)|書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです||
 |142|[@bicycle1885](https://github.com/bicycle1885)/[**Julia-Tutorial**](https://github.com/bicycle1885/Julia-Tutorial)|高速でJuliaを学ぶ入門チュートリアル||
 |139|[@philipperemy](https://github.com/philipperemy)/[**tensorflow-multi-dimensional-lstm**](https://github.com/philipperemy/tensorflow-multi-dimensional-lstm)|Multi dimensional LSTM as described in Alex Graves' Paper https://arxiv.org/pdf/0705.2011.pdf||
-|136|[@YutaroOgawa](https://github.com/YutaroOgawa)/[**pytorch_advanced**](https://github.com/YutaroOgawa/pytorch_advanced)|書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです||
-|132|[@mattn](https://github.com/mattn)/[**go-tflite**](https://github.com/mattn/go-tflite)|Go binding for TensorFlow Lite||
-|111|[@naokishibuya](https://github.com/naokishibuya)/[**deep-learning**](https://github.com/naokishibuya/deep-learning)|Deep Learning Application Examples||
-|107|[@chezou](https://github.com/chezou)/[**julia-100-exercises**](https://github.com/chezou/julia-100-exercises)|julia version of 100 numpy exercises||
+|131|[@mattn](https://github.com/mattn)/[**go-tflite**](https://github.com/mattn/go-tflite)|Go binding for TensorFlow Lite||
+|112|[@naokishibuya](https://github.com/naokishibuya)/[**deep-learning**](https://github.com/naokishibuya/deep-learning)|Deep Learning Application Examples||
+|106|[@chezou](https://github.com/chezou)/[**julia-100-exercises**](https://github.com/chezou/julia-100-exercises)|julia version of 100 numpy exercises||
 |99|[@chakki-works](https://github.com/chakki-works)/[**chariot**](https://github.com/chakki-works/chariot)|Deliver the ready-to-train data to your NLP model.|[:arrow_upper_right:](https://chakki-works.github.io/chariot/)|
 |96|[@knjcode](https://github.com/knjcode)/[**mxnet-finetuner**](https://github.com/knjcode/mxnet-finetuner)|An all-in-one Deep Learning toolkit for image classification to fine-tuning pretrained models using MXNet.||
 |94|[@shaoanlu](https://github.com/shaoanlu)/[**deeplearning.ai-Convolutional-Neural-Networks**](https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks)|Completed assignment jupyter notebook of Foundations of Convolutional Neural Networks, deeplearning.ai coursera course||
@@ -42,44 +42,44 @@
 |89|[@Kosuke-Szk](https://github.com/Kosuke-Szk)/[**ja_text_bert**](https://github.com/Kosuke-Szk/ja_text_bert)|日本語WikipediaコーパスでBERTのPre-Trainedモデルを生成するためのリポジトリ||
 |86|[@YutaroOgawa](https://github.com/YutaroOgawa)/[**Deep-Reinforcement-Learning-Book**](https://github.com/YutaroOgawa/Deep-Reinforcement-Learning-Book)|書籍「つくりながら学ぶ！深層強化学習」のサポートリポジトリです||
 |86|[@mitmul](https://github.com/mitmul)/[**chainer-handson**](https://github.com/mitmul/chainer-handson)|CAUTION: This is not maintained anymore. Visit https://github.com/chainer-community/chainer-colab-notebook/||
-|82|[@Ceruleanacg](https://github.com/Ceruleanacg)/[**Learning-Notes**](https://github.com/Ceruleanacg/Learning-Notes)|💡 Repo of learning notes in DRL and DL, theory, codes, models and notes maybe.||
-|78|[@shaoanlu](https://github.com/shaoanlu)/[**face_toolbox_keras**](https://github.com/shaoanlu/face_toolbox_keras)|A collection of deep learning frameworks ported to Keras for face analysis.||
+|82|[@shaoanlu](https://github.com/shaoanlu)/[**face_toolbox_keras**](https://github.com/shaoanlu/face_toolbox_keras)|A collection of deep learning frameworks ported to Keras for face analysis.||
+|81|[@Ceruleanacg](https://github.com/Ceruleanacg)/[**Learning-Notes**](https://github.com/Ceruleanacg/Learning-Notes)|💡 Repo of learning notes in DRL and DL, theory, codes, models and notes maybe.||
 |75|[@oist](https://github.com/oist)/[**Usiigaci**](https://github.com/oist/Usiigaci)|Usiigaci: stain-free cell tracking in phase contrast microscopy enabled by supervised machine learning||
-|73|[@chakki-works](https://github.com/chakki-works)/[**chABSA-dataset**](https://github.com/chakki-works/chABSA-dataset)|chakki's Aspect-Based Sentiment Analysis dataset||
+|74|[@chakki-works](https://github.com/chakki-works)/[**chABSA-dataset**](https://github.com/chakki-works/chABSA-dataset)|chakki's Aspect-Based Sentiment Analysis dataset||
 |70|[@kamalkraj](https://github.com/kamalkraj)/[**DATA-SCIENCE-BOWL-2018**](https://github.com/kamalkraj/DATA-SCIENCE-BOWL-2018)|DATA-SCIENCE-BOWL-2018 Find the nuclei in divergent images to advance medical discovery|[:arrow_upper_right:](https://www.kaggle.com/c/data-science-bowl-2018)|
 |69|[@Hironsan](https://github.com/Hironsan)/[**HateSonar**](https://github.com/Hironsan/HateSonar)|Hate Speech Detection Library for Python.|[:arrow_upper_right:](https://hatesonar.herokuapp.com/)|
+|68|[@dsh0416](https://github.com/dsh0416)/[**quantum-i-ching**](https://github.com/dsh0416/quantum-i-ching)|A Quantum 爻 System Implementation for Divination ||
 |68|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow-Intro**](https://github.com/kazunori279/TensorFlow-Intro)|An easy TensorFlow introduction for all ML newbies.||
-|66|[@moskomule](https://github.com/moskomule)/[**ewc.pytorch**](https://github.com/moskomule/ewc.pytorch)|An implementation of EWC with PyTorch||
-|65|[@kyamagu](https://github.com/kyamagu)/[**paperdoll**](https://github.com/kyamagu/paperdoll)|Paper doll parser implementation from ICCV 2013|[:arrow_upper_right:](http://vision.is.tohoku.ac.jp/~kyamagu/research/paperdoll/)|
+|67|[@moskomule](https://github.com/moskomule)/[**ewc.pytorch**](https://github.com/moskomule/ewc.pytorch)|An implementation of EWC with PyTorch||
+|66|[@kyamagu](https://github.com/kyamagu)/[**paperdoll**](https://github.com/kyamagu/paperdoll)|Paper doll parser implementation from ICCV 2013|[:arrow_upper_right:](http://vision.is.tohoku.ac.jp/~kyamagu/research/paperdoll/)|
 |63|[@neubig](https://github.com/neubig)/[**yrsnlp-2016**](https://github.com/neubig/yrsnlp-2016)|Structured Neural Networks for NLP: From Idea to Code||
 |63|[@shaoanlu](https://github.com/shaoanlu)/[**AdamW-and-SGDW**](https://github.com/shaoanlu/AdamW-and-SGDW)|keras implementation of AdamW from Fixing Weight Decay Regularization in Adam (https://arxiv.org/abs/1711.05101)||
 |62|[@PINTO0309](https://github.com/PINTO0309)/[**Keras-OneClassAnomalyDetection**](https://github.com/PINTO0309/Keras-OneClassAnomalyDetection)|[5 FPS - 150 FPS] Learning Deep Features for One-Class Classification (AnomalyDetection). Corresponds RaspberryPi3. Convert to Tensorflow, ONNX, Caffe, PyTorch. Implementation by Python + OpenVINO/Tensorflow Lite.|[:arrow_upper_right:](https://qiita.com/shinmura0)|
 |62|[@peaceiris](https://github.com/peaceiris)/[**emoji-ime-dictionary**](https://github.com/peaceiris/emoji-ime-dictionary)|日本語で絵文字入力をするための IME 追加辞書 📙 Google 日本語入力などで日本語から絵文字への変換を可能にする IME 拡張辞書です||
-|58|[@BrambleXu](https://github.com/BrambleXu)/[**Automate-the-Boring-Stuff-with-Python-Solutions**](https://github.com/BrambleXu/Automate-the-Boring-Stuff-with-Python-Solutions)|Solutions for Automate the Boring Stuff with Python|[:arrow_upper_right:](https://automatetheboringstuff.com/#toc)|
-|57|[@jojonki](https://github.com/jojonki)/[**MultiWOZ-Parser**](https://github.com/jojonki/MultiWOZ-Parser)|A parser of the Multi-Domain Wizard-of-Oz dataset (MultiWOZ)|[:arrow_upper_right:](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/)|
-|54|[@BrambleXu](https://github.com/BrambleXu)/[**nlp-beginner-guide-keras**](https://github.com/BrambleXu/nlp-beginner-guide-keras)|NLP model implementations with keras for beginner||
+|60|[@BrambleXu](https://github.com/BrambleXu)/[**Automate-the-Boring-Stuff-with-Python-Solutions**](https://github.com/BrambleXu/Automate-the-Boring-Stuff-with-Python-Solutions)|Solutions for Automate the Boring Stuff with Python|[:arrow_upper_right:](https://automatetheboringstuff.com/#toc)|
+|58|[@jojonki](https://github.com/jojonki)/[**MultiWOZ-Parser**](https://github.com/jojonki/MultiWOZ-Parser)|A parser of the Multi-Domain Wizard-of-Oz dataset (MultiWOZ)|[:arrow_upper_right:](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/)|
+|55|[@BrambleXu](https://github.com/BrambleXu)/[**nlp-beginner-guide-keras**](https://github.com/BrambleXu/nlp-beginner-guide-keras)|NLP model implementations with keras for beginner||
 |53|[@r9y9](https://github.com/r9y9)/[**nnmnkwii_gallery**](https://github.com/r9y9/nnmnkwii_gallery)|A collection of examples demonstrating how we can build speech synthesis systems using nnmnkwii.|[:arrow_upper_right:](https://github.com/r9y9/nnmnkwii)|
-|52|[@shaoanlu](https://github.com/shaoanlu)/[**MUNIT-keras**](https://github.com/shaoanlu/MUNIT-keras)|A keras (tensorflow) reimplementation of MUNIT: Multimodal Unsupervised Image-to-Image Translation https://arxiv.org/abs/1804.04732||
-|50|[@dsh0416](https://github.com/dsh0416)/[**quantum-i-ching**](https://github.com/dsh0416/quantum-i-ching)|A Quantum 爻 System Implementation for Divination ||
-|50|[@upura](https://github.com/upura)/[**knnFeat**](https://github.com/upura/knnFeat)|Python Implementation of Feature Extraction with K-Nearest Neighbor|[:arrow_upper_right:](https://upura.hatenablog.com/entry/2018/06/23/165855)|
-|49|[@istellartech](https://github.com/istellartech)/[**OpenMOMO**](https://github.com/istellartech/OpenMOMO)|Sounding Rocket "MOMO"||
+|51|[@istellartech](https://github.com/istellartech)/[**OpenMOMO**](https://github.com/istellartech/OpenMOMO)|Sounding Rocket "MOMO"||
+|51|[@shaoanlu](https://github.com/shaoanlu)/[**MUNIT-keras**](https://github.com/shaoanlu/MUNIT-keras)|A keras (tensorflow) reimplementation of MUNIT: Multimodal Unsupervised Image-to-Image Translation https://arxiv.org/abs/1804.04732||
+|51|[@upura](https://github.com/upura)/[**knnFeat**](https://github.com/upura/knnFeat)|Python Implementation of Feature Extraction with K-Nearest Neighbor|[:arrow_upper_right:](https://upura.hatenablog.com/entry/2018/06/23/165855)|
 |47|[@BrambleXu](https://github.com/BrambleXu)/[**word2vec-movies**](https://github.com/BrambleXu/word2vec-movies)|Bag of words meets bags of popcorn in Python 3 中文教程||
-|46|[@philipperemy](https://github.com/philipperemy)/[**n-beats**](https://github.com/philipperemy/n-beats)|Pytorch implementation of N-BEATS: Neural basis expansion analysis for interpretable time series forecasting.||
-|44|[@ryuichiueda](https://github.com/ryuichiueda)/[**probrobo_practice**](https://github.com/ryuichiueda/probrobo_practice)|確率ロボティクスのアルゴリズム解説（こちらに最新・もっと正確なバージョンがあります->）|[:arrow_upper_right:](https://github.com/ryuichiueda/LNPR)|
+|46|[@philipperemy](https://github.com/philipperemy)/[**n-beats**](https://github.com/philipperemy/n-beats)|Pytorch/Keras implementation of N-BEATS: Neural basis expansion analysis for interpretable time series forecasting.||
+|45|[@ryuichiueda](https://github.com/ryuichiueda)/[**probrobo_practice**](https://github.com/ryuichiueda/probrobo_practice)|確率ロボティクスのアルゴリズム解説（こちらに最新・もっと正確なバージョンがあります->）|[:arrow_upper_right:](https://github.com/ryuichiueda/LNPR)|
 |44|[@tatsuyah](https://github.com/tatsuyah)/[**Lane-Lines-Detection-Python-OpenCV**](https://github.com/tatsuyah/Lane-Lines-Detection-Python-OpenCV)|Lane Lines Detection using Python and OpenCV for self-driving car||
 |42|[@wanasit](https://github.com/wanasit)/[**katakana**](https://github.com/wanasit/katakana)|Training machine to write Katakana using Sequence-to-Sequence technique||
 |39|[@buntyke](https://github.com/buntyke)/[**pytorch-hed**](https://github.com/buntyke/pytorch-hed)|||
 |39|[@shaoanlu](https://github.com/shaoanlu)/[**Conditional-Analogy-GAN-keras**](https://github.com/shaoanlu/Conditional-Analogy-GAN-keras)|keras implementation of CAGAN and its variants. The Conditional Analogy GAN: Swapping Fashion Articles on People Images||
 |38|[@nyoki-mtl](https://github.com/nyoki-mtl)/[**pytorch-discriminative-loss**](https://github.com/nyoki-mtl/pytorch-discriminative-loss)|Implementation of discriminative loss for instance segmentation  by pytorch||
 |38|[@takerum](https://github.com/takerum)/[**adversarial_autoencoder**](https://github.com/takerum/adversarial_autoencoder)|Implementation of Adversarial Autoencoder with Theano||
-|34|[@jaseg](https://github.com/jaseg)/[**gerbolyze**](https://github.com/jaseg/gerbolyze)|Render high-resolution bitmap images to PCB gerber files|[:arrow_upper_right:](https://gerbolyze.jaseg.net/)|
+|35|[@jaseg](https://github.com/jaseg)/[**gerbolyze**](https://github.com/jaseg/gerbolyze)|Render high-resolution bitmap images to PCB gerber files|[:arrow_upper_right:](https://gerbolyze.jaseg.net/)|
 |34|[@ozt-ca](https://github.com/ozt-ca)/[**tjo.hatenablog.samples**](https://github.com/ozt-ca/tjo.hatenablog.samples)|Samples for tjo.hatenablog||
 |34|[@rahulremanan](https://github.com/rahulremanan)/[**python_tutorial**](https://github.com/rahulremanan/python_tutorial)|Python 3 tutorial for machine learning and natural language processing.||
 |33|[@shaoanlu](https://github.com/shaoanlu)/[**face-segmentation-keras**](https://github.com/shaoanlu/face-segmentation-keras)|A port of YuvalNirkin/face_segmentation repo to keras.||
-|32|[@chokkan](https://github.com/chokkan)/[**deeplearning**](https://github.com/chokkan/deeplearning)|ART.T458: "Machine Learning" in Tokyo Institute of Technology|[:arrow_upper_right:](https://chokkan.github.io/deeplearning/)|
 |32|[@ikegami-yukino](https://github.com/ikegami-yukino)/[**misc**](https://github.com/ikegami-yukino/misc)|Machine Learning / Randomized Algorithm and more||
 |32|[@miyamotok0105](https://github.com/miyamotok0105)/[**pytorch_handbook**](https://github.com/miyamotok0105/pytorch_handbook)|pytorch_handbook||
 |31|[@chezou](https://github.com/chezou)/[**notebooks**](https://github.com/chezou/notebooks)|||
+|31|[@chokkan](https://github.com/chokkan)/[**deeplearning**](https://github.com/chokkan/deeplearning)|ART.T458: "Machine Learning" in Tokyo Institute of Technology|[:arrow_upper_right:](https://chokkan.github.io/deeplearning/)|
 |31|[@harusametime](https://github.com/harusametime)/[**sagemaker-notebooks**](https://github.com/harusametime/sagemaker-notebooks)|Amazon SageMaker examples with Japanese comments: SageMakerのサンプルです||
 |31|[@jojonki](https://github.com/jojonki)/[**key-value-memory-networks**](https://github.com/jojonki/key-value-memory-networks)|Key-Value Memory Networks for Directly Reading Documents, Alexander Miller, Adam Fisch, Jesse Dodge, Amir-Hossein Karimi, Antoine Bordes, Jason Weston https://arxiv.org/abs/1606.03126||
 |31|[@moskomule](https://github.com/moskomule)/[**l0.pytorch**](https://github.com/moskomule/l0.pytorch)|an implementation of L0 regularization with PyTorch||
@@ -98,7 +98,7 @@
 |23|[@icoxfog417](https://github.com/icoxfog417)/[**baby_steps_of_machine_learning**](https://github.com/icoxfog417/baby_steps_of_machine_learning)|basic tutorial for machine learning implementation||
 |23|[@kazunori279](https://github.com/kazunori279)/[**cloudml-demo**](https://github.com/kazunori279/cloudml-demo)|||
 |22|[@Ceruleanacg](https://github.com/Ceruleanacg)/[**Quantitative-Trading**](https://github.com/Ceruleanacg/Quantitative-Trading)|💸 Papers and Code Implements for Quantitative-Trading||
-|21|[@jojonki](https://github.com/jojonki)/[**AutoEncoders**](https://github.com/jojonki/AutoEncoders)|AE, VAE, and CVAE in PyTorch||
+|22|[@jojonki](https://github.com/jojonki)/[**AutoEncoders**](https://github.com/jojonki/AutoEncoders)|AE, VAE, and CVAE in PyTorch||
 |21|[@mitmul](https://github.com/mitmul)/[**chainer-notebooks**](https://github.com/mitmul/chainer-notebooks)|Jupyter notebooks for Chainer hands-on||
 |20|[@himkt](https://github.com/himkt)/[**nlp-100knock**](https://github.com/himkt/nlp-100knock)|⚾ 2015 nlp-100knock (言語処理100本ノック): Archive of my solutions|[:arrow_upper_right:](http://www.cl.ecei.tohoku.ac.jp/nlp100/)|
 |19|[@Gin04gh](https://github.com/Gin04gh)/[**datascience**](https://github.com/Gin04gh/datascience)|||
@@ -108,28 +108,29 @@
 |19|[@yuifu](https://github.com/yuifu)/[**ajacs68**](https://github.com/yuifu/ajacs68)|Materials for tutorial at ajacs68 (Japanese)||
 |18|[@c-bata](https://github.com/c-bata)/[**datascience-notebook**](https://github.com/c-bata/datascience-notebook)|Data Science Notebooks in Python3||
 |18|[@ianlewis](https://github.com/ianlewis)/[**tensorflow-examples**](https://github.com/ianlewis/tensorflow-examples)|Some Tensorflow examples and Jupyter notebooks||
+|18|[@reiinakano](https://github.com/reiinakano)/[**invariant-risk-minimization**](https://github.com/reiinakano/invariant-risk-minimization)|Implementation of Invariant Risk Minimization https://arxiv.org/abs/1907.02893||
 |17|[@ctgk](https://github.com/ctgk)/[**bayesnet**](https://github.com/ctgk/bayesnet)|Bayesian method library for Python||
+|17|[@minhpqn](https://github.com/minhpqn)/[**DeepLunch**](https://github.com/minhpqn/DeepLunch)|Repository for Deep Learning study group at FTI (FPT)||
 |17|[@oyamad](https://github.com/oyamad)/[**game_theory_models**](https://github.com/oyamad/game_theory_models)|Python code for game theory modeling||
 |16|[@cftang0827](https://github.com/cftang0827)/[**face_gender**](https://github.com/cftang0827/face_gender)|A simple demo of gender classifier by using dlib face recognition model as a feature extractor||
-|16|[@minhpqn](https://github.com/minhpqn)/[**DeepLunch**](https://github.com/minhpqn/DeepLunch)|Repository for Deep Learning study group at FTI (FPT)||
 |16|[@neubig](https://github.com/neubig)/[**howtocode-2017**](https://github.com/neubig/howtocode-2017)|An example of DyNet autobatching for the NIPS "how to code a paper" workshop||
-|16|[@reiinakano](https://github.com/reiinakano)/[**invariant-risk-minimization**](https://github.com/reiinakano/invariant-risk-minimization)|Implementation of Invariant Risk Minimization https://arxiv.org/abs/1907.02893||
 |16|[@shaoanlu](https://github.com/shaoanlu)/[**GazeML-keras**](https://github.com/shaoanlu/GazeML-keras)|A keras port of swook/GazeML for pupil, iris and eye-lid detection||
 |16|[@shaoanlu](https://github.com/shaoanlu)/[**dogs-vs-cats-redux**](https://github.com/shaoanlu/dogs-vs-cats-redux)|Dogs vs. Cats Redux on floydhub|[:arrow_upper_right:](https://shaoanlu.wordpress.com/2017/04/22/deep-learning-on-floyd-dogs-vs-cats-redux-kaggle-competition/)|
 |16|[@yukitsuji](https://github.com/yukitsuji)/[**Traffic_Signs_Recognition_cnn**](https://github.com/yukitsuji/Traffic_Signs_Recognition_cnn)|Traffic Sign Recognition by Convolutional Neural Network (TensorFlow)||
 |16|[@yunabe](https://github.com/yunabe)/[**codelab**](https://github.com/yunabe/codelab)|practice||
 |14|[@icoxfog417](https://github.com/icoxfog417)/[**cv_tutorial**](https://github.com/icoxfog417/cv_tutorial)|OpenCV Tutorial||
+|14|[@philipperemy](https://github.com/philipperemy)/[**lead-lag**](https://github.com/philipperemy/lead-lag)|Estimation of the lead-lag parameter from non-synchronous data.||
+|14|[@ryuichiueda](https://github.com/ryuichiueda)/[**LNPR**](https://github.com/ryuichiueda/LNPR)|completed codes of "lecture notes of probabilistic robotics"|[:arrow_upper_right:](https://www.amazon.co.jp/dp/4065170060)|
+|14|[@sinhrks](https://github.com/sinhrks)/[**pydetect**](https://github.com/sinhrks/pydetect)|Change point and anomaly detections for time-series||
 |14|[@takuti](https://github.com/takuti)/[**incremental-sgd**](https://github.com/takuti/incremental-sgd)|Incremental matrix factorization with incremental SGD algorithm [J. Vinagre, et al., 2014]||
 |14|[@wolfv](https://github.com/wolfv)/[**suggestr**](https://github.com/wolfv/suggestr)|A typo correction and word prediction borrowed from Android, made for Python, Linux, Mac, Windows ...||
 |13|[@aidiary](https://github.com/aidiary)/[**urban-sound-classification-keras**](https://github.com/aidiary/urban-sound-classification-keras)|||
 |13|[@applenob](https://github.com/applenob)/[**algorithm_note**](https://github.com/applenob/algorithm_note)|算法和数据结构学习笔记||
 |13|[@applenob](https://github.com/applenob)/[**machine_learning_basic**](https://github.com/applenob/machine_learning_basic)|my machine learning notes||
+|13|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow2-for-absolute-beginners**](https://github.com/kazunori279/TensorFlow2-for-absolute-beginners)|||
 |13|[@moskomule](https://github.com/moskomule)/[**pytorch.detection.learning**](https://github.com/moskomule/pytorch.detection.learning)|learning object detection using pytorch||
-|13|[@philipperemy](https://github.com/philipperemy)/[**lead-lag**](https://github.com/philipperemy/lead-lag)|Estimation of the lead-lag parameter from non-synchronous data.||
-|13|[@ryuichiueda](https://github.com/ryuichiueda)/[**LNPR**](https://github.com/ryuichiueda/LNPR)|completed codes of "lecture notes of probabilistic robotics"|[:arrow_upper_right:](https://www.amazon.co.jp/dp/4065170060)|
 |13|[@ryuichiueda](https://github.com/ryuichiueda)/[**LectureOfProbabilisticRobotics**](https://github.com/ryuichiueda/LectureOfProbabilisticRobotics)|Codes for lectures in 2018, ... and for a book||
 |13|[@shaoanlu](https://github.com/shaoanlu)/[**GroupNormalization-keras**](https://github.com/shaoanlu/GroupNormalization-keras)|keras implementation of group normalization. https://arxiv.org/abs/1803.08494||
-|13|[@sinhrks](https://github.com/sinhrks)/[**pydetect**](https://github.com/sinhrks/pydetect)|Change point and anomaly detections for time-series||
 |13|[@statefb](https://github.com/statefb)/[**singular-spectrum-transformation**](https://github.com/statefb/singular-spectrum-transformation)|fast implementation of singular spectrum transformation (change point detection algorithm)||
 |13|[@takuti](https://github.com/takuti)/[**stream-anomaly-detect**](https://github.com/takuti/stream-anomaly-detect)|Implementation of algorithms proposed by [Huang and Kasiviswanathan]||
 |13|[@uchihashikenshi](https://github.com/uchihashikenshi)/[**attention_time**](https://github.com/uchihashikenshi/attention_time)|Python implementation of a time-series model with (optional) attention where the encoder is CNN, decoder is LSTM, and more.||
@@ -137,7 +138,6 @@
 |12|[@TsingJyujing](https://github.com/TsingJyujing)/[**tf.js-on-flink**](https://github.com/TsingJyujing/tf.js-on-flink)|Tensorflow.js on Flink||
 |12|[@araobp](https://github.com/araobp)/[**nlan**](https://github.com/araobp/nlan)|Interactive SDN/IOT with tega db and Jupyter/IPython||
 |12|[@chezou](https://github.com/chezou)/[**ibis-demo**](https://github.com/chezou/ibis-demo)|Demo notebook of Ibis for "Spark + Python + Dita science Festival"||
-|12|[@kazunori279](https://github.com/kazunori279)/[**TensorFlow2-for-absolute-beginners**](https://github.com/kazunori279/TensorFlow2-for-absolute-beginners)|||
 |12|[@suvoooo](https://github.com/suvoooo)/[**Machine_Learning**](https://github.com/suvoooo/Machine_Learning)|Some fundamental machine learning and data-analysis techniques are revisited here. ||
 |12|[@vchuravy](https://github.com/vchuravy)/[**julia-performance**](https://github.com/vchuravy/julia-performance)|Julia workshop with a focus on understandable performance||
 |11|[@GINK03](https://github.com/GINK03)/[**real-estate-value-prediction**](https://github.com/GINK03/real-estate-value-prediction)|Awesome real estate value prediction with machine-learnings.||
@@ -164,6 +164,7 @@
 |8|[@ShibataLab](https://github.com/ShibataLab)/[**kinect_baxter_calibration**](https://github.com/ShibataLab/kinect_baxter_calibration)|||
 |8|[@cocodrips](https://github.com/cocodrips)/[**ipynb-writing**](https://github.com/cocodrips/ipynb-writing)|||
 |8|[@dominhhai](https://github.com/dominhhai)/[**dominhhai.github.io**](https://github.com/dominhhai/dominhhai.github.io)|My Blog|[:arrow_upper_right:](https://dominhhai.github.io/)|
+|8|[@domitry](https://github.com/domitry)/[**matascii**](https://github.com/domitry/matascii)|ASCII back-end for matplotlib||
 |8|[@fakufaku](https://github.com/fakufaku)/[**separake**](https://github.com/fakufaku/separake)|Echo aware source separation||
 |8|[@icoxfog417](https://github.com/icoxfog417)/[**scikit-learn-notebook**](https://github.com/icoxfog417/scikit-learn-notebook)|japanese scikit-learn tutorial||
 |8|[@leemengtaiwan](https://github.com/leemengtaiwan)/[**tiny-imagenet**](https://github.com/leemengtaiwan/tiny-imagenet)|Build image classifiers using Tiny ImageNet and Pytorch||
@@ -177,7 +178,6 @@
 |7|[@applenob](https://github.com/applenob)/[**nlp_projects**](https://github.com/applenob/nlp_projects)|my nlp projects notebook||
 |7|[@butsugiri](https://github.com/butsugiri)/[**chainer-abcnn**](https://github.com/butsugiri/chainer-abcnn)|Re-implementation of Attention-Based Convolutional Neural Network (ABCNN) by Chainer||
 |7|[@cutGordianKnot](https://github.com/cutGordianKnot)/[**PRML**](https://github.com/cutGordianKnot/PRML)|PRML algorithms implemented in Python||
-|7|[@domitry](https://github.com/domitry)/[**matascii**](https://github.com/domitry/matascii)|ASCII back-end for matplotlib||
 |7|[@kenchan](https://github.com/kenchan)/[**memory**](https://github.com/kenchan/memory)|Kenchan's Memory||
 |7|[@mattn](https://github.com/mattn)/[**go-knn-iris**](https://github.com/mattn/go-knn-iris)|Implementation of KNN in Go||
 |7|[@naotokui](https://github.com/naotokui)/[**ChainerPainter**](https://github.com/naotokui/ChainerPainter)|Image Regression in Chainer||
@@ -308,6 +308,7 @@
 |3|[@shoji9x9](https://github.com/shoji9x9)/[**train-yolov3-on-google-colaboratory**](https://github.com/shoji9x9/train-yolov3-on-google-colaboratory)|Train YOLOv3 on Google Colaboratory||
 |3|[@smallerhand](https://github.com/smallerhand)/[**Vertical-Farm**](https://github.com/smallerhand/Vertical-Farm)|Grow quality food, By automatic process, Inside the building. (We are studying and dreaming for a better life with a healthy planet)||
 |3|[@snaga](https://github.com/snaga)/[**blockchain**](https://github.com/snaga/blockchain)|A simple blockchain in Python with Jupyter||
+|3|[@tsu-nera](https://github.com/tsu-nera)/[**JLeague-signate**](https://github.com/tsu-nera/JLeague-signate)|||
 |3|[@uchihashikenshi](https://github.com/uchihashikenshi)/[**gibbsCNN**](https://github.com/uchihashikenshi/gibbsCNN)|Pixel-level classification model which uses two convolutional neural networks and gibbs sampling.||
 |3|[@ugo-nama-kun](https://github.com/ugo-nama-kun)/[**pydata_okinawa2017**](https://github.com/ugo-nama-kun/pydata_okinawa2017)|||
 |3|[@upura](https://github.com/upura)/[**spoana-tutorial**](https://github.com/upura/spoana-tutorial)|2019年2月24日開催「Sports Analyst Meetup #1」の「初心者向けスポーツ分析チュートリアル」のサンプルコード|[:arrow_upper_right:](https://connpass.com/event/113586/)|

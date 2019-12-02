@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|174|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
-|75|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
+|177|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
+|74|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
 |46|[@vchuravy](https://github.com/vchuravy)/[**GPUifyLoops.jl**](https://github.com/vchuravy/GPUifyLoops.jl)|||
 |43|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
 |35|[@bicycle1885](https://github.com/bicycle1885)/[**TranscodingStreams.jl**](https://github.com/bicycle1885/TranscodingStreams.jl)|Simple, consistent interfaces for any codec.||
@@ -21,9 +21,9 @@
 |11|[@sorami](https://github.com/sorami)/[**DependencyParser.jl**](https://github.com/sorami/DependencyParser.jl)|Dependency parser written in Julia.||
 |8|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**SoftConfidenceWeighted.jl**](https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl)|Exact Soft Confidence-Weighted Learning||
 |8|[@vchuravy](https://github.com/vchuravy)/[**Hydrozoa.jl**](https://github.com/vchuravy/Hydrozoa.jl)|||
+|7|[@bicycle1885](https://github.com/bicycle1885)/[**Leiden.jl**](https://github.com/bicycle1885/Leiden.jl)|A Julia implementation of the Leiden algorithm for community detection.||
 |7|[@r9y9](https://github.com/r9y9)/[**ConstantQ.jl**](https://github.com/r9y9/ConstantQ.jl)|A fast constant-q transform in Julia||
 |6|[@bicycle1885](https://github.com/bicycle1885)/[**ConcurrentCalls.jl**](https://github.com/bicycle1885/ConcurrentCalls.jl)|Call functions concurrently.||
-|6|[@bicycle1885](https://github.com/bicycle1885)/[**Leiden.jl**](https://github.com/bicycle1885/Leiden.jl)|A Julia implementation of the Leiden algorithm for community detection.||
 |6|[@vchuravy](https://github.com/vchuravy)/[**UProbes.jl**](https://github.com/vchuravy/UProbes.jl)|||
 |5|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**KSVD.jl**](https://github.com/IshitaTakeshi/KSVD.jl)|K-SVD in Julia||
 |5|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**SVMLightLoader.jl**](https://github.com/IshitaTakeshi/SVMLightLoader.jl)|Loader of svmlight / liblinear format files||

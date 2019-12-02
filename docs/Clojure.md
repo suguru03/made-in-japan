@@ -13,10 +13,10 @@
 |87|[@runexec](https://github.com/runexec)/[**Static-Prime**](https://github.com/runexec/Static-Prime)|A static website editor and server written in Clojure and ClojureScript.||
 |78|[@kawasima](https://github.com/kawasima)/[**back-channeling**](https://github.com/kawasima/back-channeling)|A thread floating typed chat system.||
 |64|[@liquidz](https://github.com/liquidz)/[**jubot**](https://github.com/liquidz/jubot)|Chatbot framework in Clojure||
-|51|[@athos](https://github.com/athos)/[**JiSE**](https://github.com/athos/JiSE)|JiSE: Java in S-Expression||
+|52|[@athos](https://github.com/athos)/[**JiSE**](https://github.com/athos/JiSE)|JiSE: Java in S-Expression||
 |49|[@runexec](https://github.com/runexec)/[**equate**](https://github.com/runexec/equate)|A Clojure fact management library||
+|47|[@hellonico](https://github.com/hellonico)/[**origami**](https://github.com/hellonico/origami)|OpenCV 4.1.1 Clojure Wrapper||
 |47|[@yokolet](https://github.com/yokolet)/[**hiccup-samples**](https://github.com/yokolet/hiccup-samples)|hiccup samples for clojure cookbook||
-|46|[@hellonico](https://github.com/hellonico)/[**origami**](https://github.com/hellonico/origami)|OpenCV 4.1.1 Clojure Wrapper||
 |45|[@federkasten](https://github.com/federkasten)/[**butler**](https://github.com/federkasten/butler)|Bring Web Workers to ClojureScript||
 |37|[@federkasten](https://github.com/federkasten)/[**clucie**](https://github.com/federkasten/clucie)|Clojure for the Lucene||
 |36|[@dvcrn](https://github.com/dvcrn)/[**ajom**](https://github.com/dvcrn/ajom)|atom plugins in clojurescript||
@@ -119,8 +119,11 @@
 |4|[@athos](https://github.com/athos)/[**iasm**](https://github.com/athos/iasm)|inline assembly macros for Clojure||
 |4|[@athos](https://github.com/athos)/[**igv-client**](https://github.com/athos/igv-client)|Clojure implementation of IGV client to control IGV via its Port Commands||
 |4|[@athos](https://github.com/athos)/[**maeni**](https://github.com/athos/maeni)|A toy implementation of the programming language Forth written in Clojure||
+|4|[@ayato-p](https://github.com/ayato-p)/[**impl-http-server**](https://github.com/ayato-p/impl-http-server)|HTTP Serverを実装する||
 |4|[@boxp](https://github.com/boxp)/[**sample-github-spa**](https://github.com/boxp/sample-github-spa)|A high performance spa sample written in clojure. https://sample-github-spa.now.sh||
 |4|[@gpsoft](https://github.com/gpsoft)/[**kunya**](https://github.com/gpsoft/kunya)|A minimal app with Electron, ClojureScript, Boot, Reagent and re-frame.||
+|4|[@hellonico](https://github.com/hellonico)/[**opencv-fun**](https://github.com/hellonico/opencv-fun)|||
+|4|[@hellonico](https://github.com/hellonico)/[**origami-dnn**](https://github.com/hellonico/origami-dnn)|||
 |4|[@k2nr](https://github.com/k2nr)/[**dokkaa-builder**](https://github.com/k2nr/dokkaa-builder)|||
 |4|[@liquidz](https://github.com/liquidz)/[**clj-vimhelp**](https://github.com/liquidz/clj-vimhelp)|Vim help file parser/convertor written by Clojure||
 |4|[@liquidz](https://github.com/liquidz)/[**clj-xmas**](https://github.com/liquidz/clj-xmas)|:christmas_tree: :christmas_tree: :christmas_tree:||
@@ -149,8 +152,6 @@
 |3|[@haruyama](https://github.com/haruyama)/[**matrix-factorization-with-clojure**](https://github.com/haruyama/matrix-factorization-with-clojure)|||
 |3|[@hayamiz](https://github.com/hayamiz)/[**clj-match**](https://github.com/hayamiz/clj-match)|A port of Andrew Wright's pattern matching macro library for Clojure|[:arrow_upper_right:](http://d.hatena.ne.jp/hayamiz/)|
 |3|[@hellonico](https://github.com/hellonico)/[**clj-todoist**](https://github.com/hellonico/clj-todoist)|Clojure Todoist API||
-|3|[@hellonico](https://github.com/hellonico)/[**opencv-fun**](https://github.com/hellonico/opencv-fun)|||
-|3|[@hellonico](https://github.com/hellonico)/[**origami-dnn**](https://github.com/hellonico/origami-dnn)|||
 |3|[@kawasima](https://github.com/kawasima)/[**gring**](https://github.com/kawasima/gring)|Git server for ring.||
 |3|[@lagenorhynque](https://github.com/lagenorhynque)/[**aqoursql**](https://github.com/lagenorhynque/aqoursql)|AqoursQL, an example GraphQL API based on Lacinia-Pedestal & Duct||
 |3|[@lagenorhynque](https://github.com/lagenorhynque)/[**microservices-with-clojure**](https://github.com/lagenorhynque/microservices-with-clojure)|Study notes on Microservices with Clojure||

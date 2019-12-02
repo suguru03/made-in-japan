@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |330|[@fjolnir](https://github.com/fjolnir)/[**Tranquil**](https://github.com/fjolnir/Tranquil)|A language built on top of the Objective-C runtime, and ABI compatible with Objective-C.||
-|145|[@remirobert](https://github.com/remirobert)/[**Facemotion**](https://github.com/remirobert/Facemotion)|:eyes: Face detection and recognition iOS app with OpenCV||
+|144|[@remirobert](https://github.com/remirobert)/[**Facemotion**](https://github.com/remirobert/Facemotion)|:eyes: Face detection and recognition iOS app with OpenCV||
 |97|[@craftzdog](https://github.com/craftzdog)/[**caffe-ios-sample**](https://github.com/craftzdog/caffe-ios-sample)|An example of XCode project using Caffe: a fast open framework for deep learning||
 |89|[@noradaiko](https://github.com/noradaiko)/[**caffe-ios-sample**](https://github.com/noradaiko/caffe-ios-sample)|An example of XCode project using Caffe: a fast open framework for deep learning||
 |20|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxDisplayConf**](https://github.com/Akira-Hayasaka/ofxDisplayConf)|openFrameworks addon for display/projector configuration using CoreGraphics (private) API.||
@@ -10,7 +10,7 @@
 |13|[@furushchev](https://github.com/furushchev)/[**ROSiOS**](https://github.com/furushchev/ROSiOS)|This is a bootstrap package for creating iOS App using ROS(Robot Operating System).||
 |12|[@motoishmz](https://github.com/motoishmz)/[**ofxDisplayLayout**](https://github.com/motoishmz/ofxDisplayLayout)|ofxDisplayLayout grabs the display unique id, and aligns your displays vertically/horizontally||
 |12|[@n-yoda](https://github.com/n-yoda)/[**metal-without-xcode**](https://github.com/n-yoda/metal-without-xcode)|A command-line-compilable example of Metal.||
-|11|[@safx](https://github.com/safx)/[**liquidfun-ios-sample**](https://github.com/safx/liquidfun-ios-sample)|a sample project for LiquidFun.|[:arrow_upper_right:](http://safx-dev.blogspot.jp/search/label/liquidfun)|
+|12|[@safx](https://github.com/safx)/[**liquidfun-ios-sample**](https://github.com/safx/liquidfun-ios-sample)|a sample project for LiquidFun.|[:arrow_upper_right:](http://safx-dev.blogspot.jp/search/label/liquidfun)|
 |11|[@tekezo](https://github.com/tekezo)/[**osx-event-observer-examples**](https://github.com/tekezo/osx-event-observer-examples)|||
 |10|[@dropcontrol](https://github.com/dropcontrol)/[**ofxiBeacon**](https://github.com/dropcontrol/ofxiBeacon)|openFrameworks addon for handling iBeacon.||
 |10|[@miyabi](https://github.com/miyabi)/[**unity-ios-keyboard-patch**](https://github.com/miyabi/unity-ios-keyboard-patch)|Adjusts position and height of input field above keyboard when status bar is shown in iOS 7 or later.||

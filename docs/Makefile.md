@@ -19,11 +19,11 @@
 |16|[@nyuichi](https://github.com/nyuichi)/[**satysfi-lib**](https://github.com/nyuichi/satysfi-lib)|complementary collection of useful functions and modules for SATySFi||
 |15|[@keiji](https://github.com/keiji)/[**farewell-adt-book**](https://github.com/keiji/farewell-adt-book)|Android Studio完全移行ガイド||
 |15|[@omochi](https://github.com/omochi)/[**JavaScriptCore-android-build**](https://github.com/omochi/JavaScriptCore-android-build)|Build JavaScriptCore for Android||
+|13|[@nnao45](https://github.com/nnao45)/[**zsh-kubectl-completion**](https://github.com/nnao45/zsh-kubectl-completion)|Rich zsh completion for the kubectl command.|[:arrow_upper_right:](https://medium.com/@n4sekai5y/kubectl-completion-zsh%E3%82%92%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%86%8D%E7%99%BA%E6%98%8E%E3%81%97%E3%81%9F-da6c5345263f)|
 |12|[@JotaroS](https://github.com/JotaroS)/[**ofxWiggleStereoscopy**](https://github.com/JotaroS/ofxWiggleStereoscopy)|openFrameworks addon for wiggle stereoscopy effect.||
 |12|[@akafugu](https://github.com/akafugu)/[**vetinari_clock**](https://github.com/akafugu/vetinari_clock)|A clock that ticks irregularly, yet keeps accurate time.||
 |12|[@kenhys](https://github.com/kenhys)/[**debian-leapmotion**](https://github.com/kenhys/debian-leapmotion)|||
 |12|[@mumoshu](https://github.com/mumoshu)/[**kube-fluentd**](https://github.com/mumoshu/kube-fluentd)|An ubuntu-slim/s6-overlay/confd based docker image for running fluentd in Kubernetes pods/daemonsets||
-|12|[@nnao45](https://github.com/nnao45)/[**zsh-kubectl-completion**](https://github.com/nnao45/zsh-kubectl-completion)|Rich zsh completion for the kubectl command.|[:arrow_upper_right:](https://medium.com/@n4sekai5y/kubectl-completion-zsh%E3%82%92%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%86%8D%E7%99%BA%E6%98%8E%E3%81%97%E3%81%9F-da6c5345263f)|
 |12|[@user340](https://github.com/user340)/[**fdgw2**](https://github.com/user340/fdgw2)|Minimal NetBSD Distribution Making Tool||
 |12|[@yagitoshiro](https://github.com/yagitoshiro)/[**TiSocketIOClient**](https://github.com/yagitoshiro/TiSocketIOClient)|Socket.io client for Appcelerator Titanium||
 |11|[@leo-project](https://github.com/leo-project)/[**notes**](https://github.com/leo-project/notes)|The note of LeoFS' developers and LeoFS' benchmark report to developers and users|[:arrow_upper_right:](https://github.com/leo-project/leofs)|
@@ -42,6 +42,7 @@
 |7|[@enukane](https://github.com/enukane)/[**c90-plan9-assembler-handbook**](https://github.com/enukane/c90-plan9-assembler-handbook)|C90で頒布した "Plan 9 Assembler Handbook" の文章データ||
 |7|[@haruyama](https://github.com/haruyama)/[**ssh_rfc_ja**](https://github.com/haruyama/ssh_rfc_ja)|Japanese translations of SSH RFCs and Internet Drafts|[:arrow_upper_right:](http://www.unixuser.org/~haruyama/RFC/ssh/)|
 |7|[@kt3k](https://github.com/kt3k)/[**lambda-deno-runtime-wip**](https://github.com/kt3k/lambda-deno-runtime-wip)|Run deno in AWS Lambda environment (WIP)|[:arrow_upper_right:](https://6e2y19fu3j.execute-api.ap-northeast-1.amazonaws.com/default/deno_v2)|
+|7|[@lambdalisue](https://github.com/lambdalisue)/[**docker-neovim-ci**](https://github.com/lambdalisue/docker-neovim-ci)|Alpine image for Neovim in CI|[:arrow_upper_right:](https://hub.docker.com/r/lambdalisue/neovim-ci/)|
 |7|[@lestrrat](https://github.com/lestrrat)/[**CatalystX-AppBuilder**](https://github.com/lestrrat/CatalystX-AppBuilder)|Programatically Build Your Catalyst Apps||
 |7|[@sk2sat](https://github.com/sk2sat)/[**haribote-os**](https://github.com/sk2sat/haribote-os)|はりぼてOSをもう一度作ってみるやつ||
 |6|[@TemTemmie](https://github.com/TemTemmie)/[**3Camera**](https://github.com/TemTemmie/3Camera)|A camera homebrew for the Nintendo 3DS.||
@@ -69,6 +70,7 @@
 |4|[@linyows](https://github.com/linyows)/[**tomohisaoda.com**](https://github.com/linyows/tomohisaoda.com)|📝 my blog|[:arrow_upper_right:](http://tomohisaoda.com)|
 |4|[@liquidz](https://github.com/liquidz)/[**docker-asciidoctor-jp**](https://github.com/liquidz/docker-asciidoctor-jp)|||
 |4|[@nobu](https://github.com/nobu)/[**build-files**](https://github.com/nobu/build-files)|||
+|4|[@stffrdhrn](https://github.com/stffrdhrn)/[**tls-examples**](https://github.com/stffrdhrn/tls-examples)|TLS access example code snippets||
 |4|[@tork-a](https://github.com/tork-a)/[**live-cd2**](https://github.com/tork-a/live-cd2)|||
 |4|[@ueokande](https://github.com/ueokande)/[**tex-makefile**](https://github.com/ueokande/tex-makefile)|Makefile to compile TeX document.||
 |4|[@yantene](https://github.com/yantene)/[**sushiemoji**](https://github.com/yantene/sushiemoji)|High-quality sushi emoji set||
@@ -94,7 +96,6 @@
 |3|[@smizy](https://github.com/smizy)/[**docker-keras-tensorflow**](https://github.com/smizy/docker-keras-tensorflow)|Python3 Tensorflow backended Keras with Jupyter docker image based on alpine ||
 |3|[@smizy](https://github.com/smizy)/[**docker-keras-theano**](https://github.com/smizy/docker-keras-theano)|Python3 Theano backended Keras with Jupyter docker image based on alpine ||
 |3|[@snmsts](https://github.com/snmsts)/[**docker-cl-pack**](https://github.com/snmsts/docker-cl-pack)|||
-|3|[@stffrdhrn](https://github.com/stffrdhrn)/[**tls-examples**](https://github.com/stffrdhrn/tls-examples)|TLS access example code snippets||
 |3|[@tado](https://github.com/tado)/[**dltccs17**](https://github.com/tado/dltccs17)|Creative Coding School code examples||
 |3|[@tokuhirom](https://github.com/tokuhirom)/[**setusergroups**](https://github.com/tokuhirom/setusergroups)|set uid/pid/supplementary groups||
 |3|[@wakita](https://github.com/wakita)/[**fp2018**](https://github.com/wakita/fp2018)|Functional Programming|[:arrow_upper_right:](https://wakita.github.io/fp2018/)|

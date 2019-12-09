@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |3926|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
-|672|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
-|89|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
+|674|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|90|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |87|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |72|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
-|57|[@taikomatsu](https://github.com/taikomatsu)/[**SeExprMeshMaya**](https://github.com/taikomatsu/SeExprMeshMaya)|Polygon deformer node plugin for Maya that using Disney's SeExpr||
-|36|[@coord-e](https://github.com/coord-e)/[**mlml**](https://github.com/coord-e/mlml)|self-hosted compiler for a subset of OCaml||
+|56|[@taikomatsu](https://github.com/taikomatsu)/[**SeExprMeshMaya**](https://github.com/taikomatsu/SeExprMeshMaya)|Polygon deformer node plugin for Maya that using Disney's SeExpr||
+|37|[@coord-e](https://github.com/coord-e)/[**mlml**](https://github.com/coord-e/mlml)|self-hosted compiler for a subset of OCaml||
 |34|[@mzp](https://github.com/mzp)/[**ocaml-hoogle**](https://github.com/mzp/ocaml-hoogle)|OCaml API search allows you to search many standard O'Caml libraries by either function name, or by approximate type signature. It is similar to Hoogle, which is a Haskell API search engine.
 
 You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)|
@@ -20,7 +20,6 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |24|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
 |21|[@AltGr](https://github.com/AltGr)/[**opam-bundle**](https://github.com/AltGr/opam-bundle)|A tool that creates stand-alone source bundles from opam packages||
 |19|[@UnixJunkie](https://github.com/UnixJunkie)/[**daft**](https://github.com/UnixJunkie/daft)|DAFT Allows File Transfers||
-|19|[@kogai](https://github.com/kogai)/[**typed_i18n**](https://github.com/kogai/typed_i18n)|Generate strictly typed definition of TFunction from own i18next-locale file||
 |18|[@UnixJunkie](https://github.com/UnixJunkie)/[**bisec-tree**](https://github.com/UnixJunkie/bisec-tree)|Bisector tree implementation in OCaml||
 |17|[@BYVoid](https://github.com/BYVoid)/[**OCamlProblems**](https://github.com/BYVoid/OCamlProblems)|Solutions of Problems in OCaml||
 |16|[@ksk](https://github.com/ksk)/[**Rho**](https://github.com/ksk/Rho)|Programs for checking the ρ property||
@@ -31,9 +30,9 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |13|[@AltGr](https://github.com/AltGr)/[**Camelus**](https://github.com/AltGr/Camelus)|Bot posting reports on opam-repository pull-request using a web hook||
 |13|[@UnixJunkie](https://github.com/UnixJunkie)/[**ACPC**](https://github.com/UnixJunkie/ACPC)|Chemoinformatics tool for ligand-based virtual screening||
 |13|[@mzp](https://github.com/mzp)/[**msgpack-ocaml**](https://github.com/mzp/msgpack-ocaml)|MessagePack for OCaml/Coq|[:arrow_upper_right:](http://mzp.github.com/msgpack-ocaml/refman)|
+|12|[@UnixJunkie](https://github.com/UnixJunkie)/[**minicli**](https://github.com/UnixJunkie/minicli)|Minimalist OCaml library for command line parsing||
 |12|[@hanazuki](https://github.com/hanazuki)/[**miniml**](https://github.com/hanazuki/miniml)|Tiny ML interpreter||
 |12|[@ymyzk](https://github.com/ymyzk)/[**lambda-dti**](https://github.com/ymyzk/lambda-dti)|Interpreter of the ITGL with dynamic type inference||
-|11|[@UnixJunkie](https://github.com/UnixJunkie)/[**minicli**](https://github.com/UnixJunkie/minicli)|Minimalist OCaml library for command line parsing||
 |11|[@mzp](https://github.com/mzp)/[**coq-ruby**](https://github.com/mzp/coq-ruby)|||
 |11|[@mzp](https://github.com/mzp)/[**trello.md**](https://github.com/mzp/trello.md)|📋Copy trello board information to clipboard as markdown format.|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/trellomd/ibjelhogbfmmcpdblpjipdpmaocngjdm)|
 |10|[@UnixJunkie](https://github.com/UnixJunkie)/[**cpmlib**](https://github.com/UnixJunkie/cpmlib)|Classification and Regression Performance Metrics library||
@@ -54,6 +53,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |7|[@adrianmcli](https://github.com/adrianmcli)/[**rehydrate-workshop**](https://github.com/adrianmcli/rehydrate-workshop)|A small collection of basic components built with Rehydrate 💧.||
 |7|[@komamitsu](https://github.com/komamitsu)/[**OCatra**](https://github.com/komamitsu/OCatra)|Simple web server library for OCaml like Sinatra||
 |6|[@AltGr](https://github.com/AltGr)/[**Contre-jour**](https://github.com/AltGr/Contre-jour)|A toy image gallery application for OPA||
+|6|[@UnixJunkie](https://github.com/UnixJunkie)/[**slist**](https://github.com/UnixJunkie/slist)|Skip list implementation in OCaml||
 |6|[@kuy](https://github.com/kuy)/[**nada.re**](https://github.com/kuy/nada.re)|Visualization of Abelian sandpile model written in Reason + Obelisk.js.||
 |6|[@masashi-y](https://github.com/masashi-y)/[**abduction_kbc**](https://github.com/masashi-y/abduction_kbc)|||
 |6|[@master-q](https://github.com/master-q)/[**readPurelyFunctionalDataStructures**](https://github.com/master-q/readPurelyFunctionalDataStructures)|||

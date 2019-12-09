@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|44|[@naotokui](https://github.com/naotokui)/[**RhythmVAE_M4L**](https://github.com/naotokui/RhythmVAE_M4L)|Max for Live(M4L) Rhythm generator using Variational Autoencoder(VAE) ||
+|46|[@naotokui](https://github.com/naotokui)/[**RhythmVAE_M4L**](https://github.com/naotokui/RhythmVAE_M4L)|Max for Live(M4L) Rhythm generator using Variational Autoencoder(VAE) ||
 |13|[@2bbb](https://github.com/2bbb)/[**ofxAbletonLink**](https://github.com/2bbb/ofxAbletonLink)|ableton link for openFrameworks||
 |9|[@nama-gatsuo](https://github.com/nama-gatsuo)/[**ELVJ**](https://github.com/nama-gatsuo/ELVJ)|||
 |8|[@tomoyanonymous](https://github.com/tomoyanonymous)/[**IR_measurement_toolbox**](https://github.com/tomoyanonymous/IR_measurement_toolbox)|Impulse response measurement Patch made with Max/MSP/Jitter/Gen||

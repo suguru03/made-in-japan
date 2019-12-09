@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|16665|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|2019|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
-|462|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
-|392|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
+|16738|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|2021|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|463|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
+|397|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
 |240|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |192|[@stanaka](https://github.com/stanaka)/[**lightroom-google-photo-plugin**](https://github.com/stanaka/lightroom-google-photo-plugin)|||
 |134|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
@@ -89,6 +89,7 @@
 |3|[@koron](https://github.com/koron)/[**redis-qdigest**](https://github.com/koron/redis-qdigest)|||
 |3|[@mah0x211](https://github.com/mah0x211)/[**lua-cache-resty-dict**](https://github.com/mah0x211/lua-cache-resty-dict)|lua_shared_dict storage plugin for lua-cache module.||
 |3|[@mah0x211](https://github.com/mah0x211)/[**lua-halo**](https://github.com/mah0x211/lua-halo)|Simple OOP Library For Lua||
+|3|[@mah0x211](https://github.com/mah0x211)/[**lua-table-flatten**](https://github.com/mah0x211/lua-table-flatten)|flatten a table into a single-depth table||
 |3|[@msakuta](https://github.com/msakuta)/[**Factorio-NaturalTreeExpansion-Mod**](https://github.com/msakuta/Factorio-NaturalTreeExpansion-Mod)|A Mod for Factorio that automatically expand forests gradually||
 |3|[@randrew](https://github.com/randrew)/[**infscroll**](https://github.com/randrew/infscroll)|Demo of infinite scrolling list using Scaleform Studio and Stingray||
 

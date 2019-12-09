@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|281|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Perfect Docker Image for Media Streaming Expert User||
+|283|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Perfect Docker Image for Media Streaming Expert User||
 |138|[@atyenoria](https://github.com/atyenoria)/[**webrtc-transcoding-experimentation**](https://github.com/atyenoria/webrtc-transcoding-experimentation)|[wip] Docker Image for Media Streaming Expert User. Janus WebRTC Docker Image||
 |123|[@Quantisan](https://github.com/Quantisan)/[**docker-clojure**](https://github.com/Quantisan/docker-clojure)|Official Docker image for Clojure|[:arrow_upper_right:](https://hub.docker.com/_/clojure/)|
 |106|[@vvakame](https://github.com/vvakame)/[**docker-review**](https://github.com/vvakame/docker-review)|Re:VIEW build container by docker||
 |82|[@codesuki](https://github.com/codesuki)/[**ecs-nginx-proxy**](https://github.com/codesuki/ecs-nginx-proxy)|Reverse proxy for AWS ECS. Lets you address your docker containers by sub domain.||
-|45|[@Lewuathe](https://github.com/Lewuathe)/[**docker-presto-cluster**](https://github.com/Lewuathe/docker-presto-cluster)|Multiple node presto cluster on docker container||
+|46|[@Lewuathe](https://github.com/Lewuathe)/[**docker-presto-cluster**](https://github.com/Lewuathe/docker-presto-cluster)|Multiple node presto cluster on docker container||
 |44|[@mumoshu](https://github.com/mumoshu)/[**kube-ssm-agent**](https://github.com/mumoshu/kube-ssm-agent)|Secure, access-controlled, and audited terminal sessions to EKS nodes without SSH||
 |41|[@uetchy](https://github.com/uetchy)/[**dockerfile-machinelearning**](https://github.com/uetchy/dockerfile-machinelearning)|🐳🤖 Dockerfile for ML researchers.||
 |40|[@knqyf263](https://github.com/knqyf263)/[**CVE-2019-6340**](https://github.com/knqyf263/CVE-2019-6340)|Environment for CVE-2019-6340 (Drupal)||
@@ -27,9 +27,9 @@
 |12|[@micnncim](https://github.com/micnncim)/[**docker-grpc-gateway**](https://github.com/micnncim/docker-grpc-gateway)| Dockerfile for grpc-gateway and golang||
 |12|[@pottava](https://github.com/pottava)/[**dockerized-ecr-credential-helper**](https://github.com/pottava/dockerized-ecr-credential-helper)||[:arrow_upper_right:](https://hub.docker.com/r/pottava/amazon-ecr-credential-helper/)|
 |12|[@smizy](https://github.com/smizy)/[**docker-scikit-learn**](https://github.com/smizy/docker-scikit-learn)|Python3 scikit-learn with Jupyter docker image based on alpine ||
+|12|[@tk0miya](https://github.com/tk0miya)/[**sphinx-docker**](https://github.com/tk0miya/sphinx-docker)|||
 |11|[@blueimp](https://github.com/blueimp)/[**chromedriver**](https://github.com/blueimp/chromedriver)|Chromedriver Dockerfile|[:arrow_upper_right:](https://github.com/blueimp/nightwatch)|
 |11|[@k1LoW](https://github.com/k1LoW)/[**docker-alpine-pandoc-ja**](https://github.com/k1LoW/docker-alpine-pandoc-ja)|Pandoc for Japanese based on Alpine Linux||
-|11|[@tk0miya](https://github.com/tk0miya)/[**sphinx-docker**](https://github.com/tk0miya/sphinx-docker)|||
 |10|[@hakatashi](https://github.com/hakatashi)/[**esolang-box**](https://github.com/hakatashi/esolang-box)|Easy and standardized docker images for 200+ esoteric (and non-esoteric) languages.|[:arrow_upper_right:](https://hub.docker.com/u/esolang/)|
 |10|[@sr229](https://github.com/sr229)/[**code-server-openshift**](https://github.com/sr229/code-server-openshift)|Coder in your Kube/Docker/OpenShift cluster||
 |9|[@blueimp](https://github.com/blueimp)/[**basedriver**](https://github.com/blueimp/basedriver)|Base Webdriver Dockerfile|[:arrow_upper_right:](https://github.com/blueimp/nightwatch)|
@@ -39,7 +39,6 @@
 |8|[@mtsmfm](https://github.com/mtsmfm)/[**docker-rails-dev-box**](https://github.com/mtsmfm/docker-rails-dev-box)|A docker environment for Ruby on Rails core development||
 |8|[@okwrtdsh](https://github.com/okwrtdsh)/[**anaconda3**](https://github.com/okwrtdsh/anaconda3)|Anaconda3, Jupyter Notebook, OpenCV3, TensorFlow and Keras2 for Deep Learning🐳|[:arrow_upper_right:](https://hub.docker.com/r/okwrtdsh/anaconda3/)|
 |8|[@tkrs](https://github.com/tkrs)/[**maxmind-geoipupdate**](https://github.com/tkrs/maxmind-geoipupdate)|||
-|7|[@lambdalisue](https://github.com/lambdalisue)/[**docker-neovim-ci**](https://github.com/lambdalisue/docker-neovim-ci)|Alpine image for Neovim in CI|[:arrow_upper_right:](https://hub.docker.com/r/lambdalisue/neovim-ci/)|
 |7|[@matsuu](https://github.com/matsuu)/[**docker-azure-cli**](https://github.com/matsuu/docker-azure-cli)|Dockerfile for azure-cli on Alpine Linux|[:arrow_upper_right:](https://hub.docker.com/r/matsuu/azure-cli-python/)|
 |7|[@moremagic](https://github.com/moremagic)/[**keycloak-jdbc-ping**](https://github.com/moremagic/keycloak-jdbc-ping)|keycloak Dockerfile(jdbc-ping, postgres)||
 |7|[@nwtgck](https://github.com/nwtgck)/[**docker-nginx-http3**](https://github.com/nwtgck/docker-nginx-http3)|Docker image for Nginx + HTTP/3 powered by Quiche||
@@ -65,6 +64,7 @@
 |4|[@izumin5210](https://github.com/izumin5210)/[**actions-reviewdog**](https://github.com/izumin5210/actions-reviewdog)|||
 |4|[@linyows](https://github.com/linyows)/[**vault-yawaraka**](https://github.com/linyows/vault-yawaraka)|||
 |4|[@peaceiris](https://github.com/peaceiris)/[**actions-pixela**](https://github.com/peaceiris/actions-pixela)|GitHub Actions for Pixela (a-know/pi)||
+|4|[@peaceiris](https://github.com/peaceiris)/[**hugo-extended-docker**](https://github.com/peaceiris/hugo-extended-docker)|Hugo alpine base Docker image (Hugo extended and Hugo Modules)|[:arrow_upper_right:](https://hub.docker.com/r/peaceiris/hugo)|
 |4|[@pyohei](https://github.com/pyohei)/[**docker-cgi-python**](https://github.com/pyohei/docker-cgi-python)|🐳Docker file for cgi using python2.7, 3.6 and 3.7🐍|[:arrow_upper_right:](https://medium.com/@pyohei/create-the-simple-image-server-with-python-f8b4b8607485?source=friends_link&sk=684aadf8462ae0f2facb5ce3a737c860)|
 |4|[@shimizukawa](https://github.com/shimizukawa)/[**docker-python-all**](https://github.com/shimizukawa/docker-python-all)|Ubuntu and Python 2.4, 2.5, 2.6, 2.7, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, pypy||
 |4|[@superbrothers](https://github.com/superbrothers)/[**devbox**](https://github.com/superbrothers/devbox)|A Docker image for my development environment||

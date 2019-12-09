@@ -26,6 +26,7 @@
 |4|[@keita](https://github.com/keita)/[**project_euler**](https://github.com/keita/project_euler)|solutions for project euler's problems||
 |4|[@liquidz](https://github.com/liquidz)/[**gauche**](https://github.com/liquidz/gauche)|source for gauche||
 |4|[@mokehehe](https://github.com/mokehehe)/[**bulletsml**](https://github.com/mokehehe/bulletsml)|BulletML on S expression, language for shoot'em up bullet behavior||
+|4|[@motemen](https://github.com/motemen)/[**www-futaba-nijiura**](https://github.com/motemen/www-futaba-nijiura)|www.futaba.nijiura (for Gauche)||
 |4|[@mtakuya](https://github.com/mtakuya)/[**gauche-yahoo-jp**](https://github.com/mtakuya/gauche-yahoo-jp)|Gauche module - Yahoo! Japan Developer Network API Module||
 |4|[@rust](https://github.com/rust)/[**sicp-exercise**](https://github.com/rust/sicp-exercise)|SICP exercises||
 |4|[@tabe](https://github.com/tabe)/[**Gauche-TeX**](https://github.com/tabe/Gauche-TeX)|A package of Gauche Scheme implementation for TeX|[:arrow_upper_right:](http://fixedpoint.jp/)|
@@ -39,7 +40,6 @@
 |3|[@masaedw](https://github.com/masaedw)/[**sicp**](https://github.com/masaedw/sicp)|Try answering all questions||
 |3|[@mhayashi1120](https://github.com/mhayashi1120)/[**Gauche-net-oauth**](https://github.com/mhayashi1120/Gauche-net-oauth)|OAuth library for Gauche||
 |3|[@motemen](https://github.com/motemen)/[**rfc-pseudo-irc-server**](https://github.com/motemen/rfc-pseudo-irc-server)|Pseudo IRC server module for Gauche||
-|3|[@motemen](https://github.com/motemen)/[**www-futaba-nijiura**](https://github.com/motemen/www-futaba-nijiura)|www.futaba.nijiura (for Gauche)||
 |3|[@tabe](https://github.com/tabe)/[**sxml**](https://github.com/tabe/sxml)|An R6RS library for SXML|[:arrow_upper_right:](http://fixedpoint.jp/)|
 |3|[@takano32](https://github.com/takano32)/[**scheme**](https://github.com/takano32/scheme)|My Scheme Scripts|[:arrow_upper_right:](http://taka.no32.tk/)|
 |3|[@tom-lpsd](https://github.com/tom-lpsd)/[**gs3**](https://github.com/tom-lpsd/gs3)|Amazon S3 client written in scheme||

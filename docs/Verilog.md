@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|118|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
+|125|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
 |26|[@kazunori279](https://github.com/kazunori279)/[**CPU32**](https://github.com/kazunori279/CPU32)|Tiny MIPS for Terasic DE0||
 |24|[@osafune](https://github.com/osafune)/[**peridot**](https://github.com/osafune/peridot)|'PERIDOT' - Simple & Compact FPGA board||
 |9|[@stffrdhrn](https://github.com/stffrdhrn)/[**uart**](https://github.com/stffrdhrn/uart)|Verilog uart receiver and transmitter modules for De0 Nano||
+|7|[@ksksue](https://github.com/ksksue)/[**Android-FPGA-FIFO-Transfer**](https://github.com/ksksue/Android-FPGA-FIFO-Transfer)|Android-FPGA FIFO Transfer||
 |7|[@mshr-h](https://github.com/mshr-h)/[**motion_estimation_processor_fullsearch**](https://github.com/mshr-h/motion_estimation_processor_fullsearch)|Fullsearch based Motion Estimation Processor written in Verilog-HDL||
 |7|[@mzp](https://github.com/mzp)/[**lambda**](https://github.com/mzp/lambda)|simple typed lambda calculus on Coq|[:arrow_upper_right:](http://d.hatena.ne.jp/mzp/)|
-|6|[@ksksue](https://github.com/ksksue)/[**Android-FPGA-FIFO-Transfer**](https://github.com/ksksue/Android-FPGA-FIFO-Transfer)|Android-FPGA FIFO Transfer||
 |5|[@HoshinoTouko](https://github.com/HoshinoTouko)/[**MonocycleCPU_MIPS**](https://github.com/HoshinoTouko/MonocycleCPU_MIPS)|||
 |5|[@asi1024](https://github.com/asi1024)/[**simpleArchitecture**](https://github.com/asi1024/simpleArchitecture)|Architecture of SIxteen-bit MicroProcessor for Laboratory Experiment in Verilog-HDL||
 |5|[@stffrdhrn](https://github.com/stffrdhrn)/[**ac97**](https://github.com/stffrdhrn/ac97)|opencores ac97 controller verilog core|[:arrow_upper_right:](http://opencores.org/project,ac97)|
@@ -21,5 +21,7 @@
 |3|[@imaoca](https://github.com/imaoca)/[**dl166**](https://github.com/imaoca/dl166)|4 BIT Original CPU||
 |3|[@kawasin73](https://github.com/kawasin73)/[**computer-architecture-3s**](https://github.com/kawasin73/computer-architecture-3s)|東京大学工学部電子情報学科のコンピュータアーキテクチャの課題。CPUとアセンブラを作ります。||
 |3|[@kazunori279](https://github.com/kazunori279)/[**hdllesson**](https://github.com/kazunori279/hdllesson)|HDL Lesson||
+|3|[@mshr-h](https://github.com/mshr-h)/[**motion_estimation_processor_breakingoff**](https://github.com/mshr-h/motion_estimation_processor_breakingoff)|Breakingoff based Motion Estimation Processor written in Verilog-HDL||
 |3|[@mzp](https://github.com/mzp)/[**GC**](https://github.com/mzp/GC)|Proof of Garbage Collector||
+|3|[@stffrdhrn](https://github.com/stffrdhrn)/[**wb_dma**](https://github.com/stffrdhrn/wb_dma)|Wishbone dma/bridge controller in verily||
 

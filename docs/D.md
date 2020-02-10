@@ -30,8 +30,8 @@
 |6|[@karahiyo](https://github.com/karahiyo)/[**btrace**](https://github.com/karahiyo/btrace)|[https://kenai.com/projects/btrace/]'s project.||
 |6|[@kubo39](https://github.com/kubo39)/[**elfhook.d**](https://github.com/kubo39/elfhook.d)|monkey patching for shared object.||
 |6|[@shawnps](https://github.com/shawnps)/[**kanjihub**](https://github.com/shawnps/kanjihub)|a hub for kanji||
+|5|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-speech**](https://github.com/ShigekiKarita/d-speech)||[:arrow_upper_right:](https://shigekikarita.github.io/d-speech/dspeech.html)|
 |5|[@alphaKAI](https://github.com/alphaKAI)/[**HindleyMilnerD**](https://github.com/alphaKAI/HindleyMilnerD)|A HindleyMilner Type Inference System for mini-ML in D.||
-|5|[@alphaKAI](https://github.com/alphaKAI)/[**dilo**](https://github.com/alphaKAI/dilo)|A minimal Text Editor in D Language, ported from Kilo||
 |5|[@alphaKAI](https://github.com/alphaKAI)/[**twitnotify**](https://github.com/alphaKAI/twitnotify)|The Twitter Notification tool. Written in D.||
 |5|[@kazoo04](https://github.com/kazoo04)/[**Redplanet**](https://github.com/kazoo04/Redplanet)|Twitter client written in the D programming language.||
 |5|[@kazoo04](https://github.com/kazoo04)/[**libarow-d**](https://github.com/kazoo04/libarow-d)|A library for AROW linear classification||
@@ -40,8 +40,8 @@
 |5|[@kubo39](https://github.com/kubo39)/[**rikka**](https://github.com/kubo39/rikka)|anothor document database written in D||
 |5|[@repeatedly](https://github.com/repeatedly)/[**zstd-d**](https://github.com/repeatedly/zstd-d)|D binding for Zstandard||
 |4|[@MakeNowJust](https://github.com/MakeNowJust)/[**AnalF_ck**](https://github.com/MakeNowJust/AnalF_ck)|淫夢プログラミング言語||
-|4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-speech**](https://github.com/ShigekiKarita/d-speech)||[:arrow_upper_right:](https://shigekikarita.github.io/d-speech/dspeech.html)|
 |4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**mir-pybind**](https://github.com/ShigekiKarita/mir-pybind)|python binding generator for D||
+|4|[@alphaKAI](https://github.com/alphaKAI)/[**dilo**](https://github.com/alphaKAI/dilo)|A minimal Text Editor in D Language, ported from Kilo||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dpmatch**](https://github.com/alphaKAI/dpmatch)|[WIP] Pattern Matching for D, by compile time parsing with pegged and code generating||
 |4|[@repeatedly](https://github.com/repeatedly)/[**ltsv-d**](https://github.com/repeatedly/ltsv-d)|LTSV implemetation for D||
 |4|[@repeatedly](https://github.com/repeatedly)/[**siphash-d**](https://github.com/repeatedly/siphash-d)|D implementation of SipHash||
@@ -62,8 +62,9 @@
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**xhvm**](https://github.com/alphaKAI/xhvm)|The Xhyve VM Manager||
 |3|[@hekk](https://github.com/hekk)/[**sprint_workshop**](https://github.com/hekk/sprint_workshop)|社内勉強会で作ったもの||
 |3|[@kubo39](https://github.com/kubo39)/[**fastersort**](https://github.com/kubo39/fastersort)|||
-|3|[@kubo39](https://github.com/kubo39)/[**sharedlib**](https://github.com/kubo39/sharedlib)|||
+|3|[@kubo39](https://github.com/kubo39)/[**sharedlib**](https://github.com/kubo39/sharedlib)|Deprecated: moved to https://github.com/kubo39/libloading ||
 |3|[@kubo39](https://github.com/kubo39)/[**stm32f407discovery**](https://github.com/kubo39/stm32f407discovery)|STM32F407DISCOVERY dev board library for LDC.||
+|3|[@matsubara0507](https://github.com/matsubara0507)/[**dlisp**](https://github.com/matsubara0507/dlisp)|Pure Lisp on D Language||
 |3|[@nanase](https://github.com/nanase)/[**dux**](https://github.com/nanase/dux)|ux implementation for D||
 |3|[@tanitta](https://github.com/tanitta)/[**mastodon-d**](https://github.com/tanitta/mastodon-d)|mastodon API Wrapper for dlang||
 |3|[@tanitta](https://github.com/tanitta)/[**unitro**](https://github.com/tanitta/unitro)|||

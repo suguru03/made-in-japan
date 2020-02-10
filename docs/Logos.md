@@ -10,8 +10,8 @@
 |8|[@r-plus](https://github.com/r-plus)/[**SwitcherCleaner**](https://github.com/r-plus/SwitcherCleaner)|Show only running apps with quit button for iOS AppSwitcher.||
 |6|[@r-plus](https://github.com/r-plus)/[**Diclose**](https://github.com/r-plus/Diclose)|Swipe to close iOS system-wide 'Look Up' modal view.||
 |6|[@r-plus](https://github.com/r-plus)/[**MenuSupport**](https://github.com/r-plus/MenuSupport)|Simply plugin loader for iOS system menu.||
-|5|[@masui](https://github.com/masui)/[**Gear**](https://github.com/masui/Gear)|「超ナビゲーション」 - ダイヤル/ローラー/パドルなどだけで何でもブラウズする||
 |4|[@r-plus](https://github.com/r-plus)/[**Fascy**](https://github.com/r-plus/Fascy)|Fast scroll fixity.||
+|3|[@oguna](https://github.com/oguna)/[**AssimpSharp**](https://github.com/oguna/AssimpSharp)|This is the library to parse some 3d formats written in C#.||
 |3|[@r-plus](https://github.com/r-plus)/[**Dictator**](https://github.com/r-plus/Dictator)|Force dictation language to use in all keyboard type.||
 |3|[@r-plus](https://github.com/r-plus)/[**Mesalation**](https://github.com/r-plus/Mesalation)|Default passcode grace period with TouchID.||
 |3|[@r-plus](https://github.com/r-plus)/[**NewTabSearch**](https://github.com/r-plus/NewTabSearch)|Search behavior from current to new.||

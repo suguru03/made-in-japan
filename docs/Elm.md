@@ -1,14 +1,14 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |170|[@cotoami](https://github.com/cotoami)/[**cotoami**](https://github.com/cotoami/cotoami)|Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.|[:arrow_upper_right:](https://medium.com/@cotoami/cotoami-an-experimental-note-taking-app-focusing-on-connecting-734928d53d2c)|
-|91|[@arowM](https://github.com/arowM)/[**elm-form-decoder**](https://github.com/arowM/elm-form-decoder)|This library provides a scalable way to decode user inputs into neat structure.|[:arrow_upper_right:](https://package.elm-lang.org/packages/arowM/elm-form-decoder/latest/)|
+|91|[@arowM](https://github.com/arowM)/[**elm-form-decoder**](https://github.com/arowM/elm-form-decoder)|Scalable way to decode user inputs into neat structure.|[:arrow_upper_right:](https://package.elm-lang.org/packages/arowM/elm-form-decoder/latest/)|
 |77|[@jinjor](https://github.com/jinjor)/[**elm-time-travel**](https://github.com/jinjor/elm-time-travel)|An experimental debugger for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-time-travel/latest)|
 |65|[@yang-wei](https://github.com/yang-wei)/[**elmflux**](https://github.com/yang-wei/elmflux)|Visualization of Elm Signals|[:arrow_upper_right:](http://yang-wei.github.io/elmflux/)|
 |53|[@jinjor](https://github.com/jinjor)/[**elm-devtool**](https://github.com/jinjor/elm-devtool)|An attempt to use Elm's debugger on Chrome DevTools||
 |45|[@jinjor](https://github.com/jinjor)/[**elm-html-parser**](https://github.com/jinjor/elm-html-parser)|Parse HTML in Elm!|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-html-parser/latest)|
-|42|[@jinjor](https://github.com/jinjor)/[**elm-drill**](https://github.com/jinjor/elm-drill)|手を動かしながら Elm に慣れるためのドリルです。||
+|43|[@jinjor](https://github.com/jinjor)/[**elm-drill**](https://github.com/jinjor/elm-drill)|手を動かしながら Elm に慣れるためのドリルです。||
+|32|[@jinjor](https://github.com/jinjor)/[**elm-debounce**](https://github.com/jinjor/elm-debounce)|Yet another debouncer for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-debounce/latest/)|
 |31|[@jinjor](https://github.com/jinjor)/[**elm-book**](https://github.com/jinjor/elm-book)|||
-|31|[@jinjor](https://github.com/jinjor)/[**elm-debounce**](https://github.com/jinjor/elm-debounce)|Yet another debouncer for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-debounce/latest/)|
 |29|[@shuhei](https://github.com/shuhei)/[**pixelm**](https://github.com/shuhei/pixelm)|A pixel art editor written in Elm|[:arrow_upper_right:](http://shuheikagawa.com/pixelm/)|
 |23|[@3tty0n](https://github.com/3tty0n)/[**elm-online-markdown-editor**](https://github.com/3tty0n/elm-online-markdown-editor)|An online markdown editor written in Elm.|[:arrow_upper_right:](https://3tty0n.github.io/elm-online-markdown-editor/)|
 |17|[@jinjor](https://github.com/jinjor)/[**elm-diff**](https://github.com/jinjor/elm-diff)|A diff implementation for Elm|[:arrow_upper_right:](http://package.elm-lang.org/packages/jinjor/elm-diff/latest)|

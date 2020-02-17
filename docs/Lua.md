@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|17291|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|2029|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|17360|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|2033|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
 |475|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
 |409|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
 |241|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
@@ -24,7 +24,7 @@
 |25|[@kengonakajima](https://github.com/kengonakajima)/[**luvit-mysql**](https://github.com/kengonakajima/luvit-mysql)|Luvit port of node-mysql||
 |22|[@tenntenn](https://github.com/tenntenn)/[**lupe**](https://github.com/tenntenn/lupe)|LUPE - Lua Debugger||
 |21|[@hetima](https://github.com/hetima)/[**hammerspoon-foundation_remapping**](https://github.com/hetima/hammerspoon-foundation_remapping)|Hammerspoon configuration script which remaps any keys for Sierra.||
-|20|[@knu](https://github.com/knu)/[**hs-knu**](https://github.com/knu/hs-knu)|My Hammerspoon modules, mainly for keyboard customization||
+|21|[@knu](https://github.com/knu)/[**hs-knu**](https://github.com/knu/hs-knu)|My Hammerspoon modules, mainly for keyboard customization||
 |19|[@kenchan](https://github.com/kenchan)/[**dotfiles**](https://github.com/kenchan/dotfiles)|kenchan's dotfiles.||
 |18|[@DavidFeng](https://github.com/DavidFeng)/[**lua-flatbuffers**](https://github.com/DavidFeng/lua-flatbuffers)|flatbuffers library for Lua||
 |17|[@clear-code](https://github.com/clear-code)/[**xmlua**](https://github.com/clear-code/xmlua)|An user-friendly XML/HTML processing library for Lua based on libxml2|[:arrow_upper_right:](https://clear-code.github.io/xmlua/)|

@@ -1,20 +1,20 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |164|[@ziyan](https://github.com/ziyan)/[**spider**](https://github.com/ziyan/spider)|Web Content Extraction Through Machine Learning|[:arrow_upper_right:](https://www.ziyan.net/2014/04/web-content-extraction-through-machine-learning/)|
-|157|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hypervisor**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
+|158|[@syuu1228](https://github.com/syuu1228)/[**howto_implement_hypervisor**](https://github.com/syuu1228/howto_implement_hypervisor)|Software Design誌の連載「ハイパーバイザの作り方」の原稿公開用リポジトリ||
 |123|[@y-yu](https://github.com/y-yu)/[**trpl-2nd-pdf**](https://github.com/y-yu/trpl-2nd-pdf)|移動しました！ Move to 👉|[:arrow_upper_right:](https://github.com/rust-lang-ja/book-ja-pdf)|
 |91|[@neubig](https://github.com/neubig)/[**naacl18tutorial**](https://github.com/neubig/naacl18tutorial)|NAACL 2018 Tutorial: Modelling Natural Language, Programs, and their Intersection||
 |71|[@vvakame](https://github.com/vvakame)/[**graphql-with-go-book**](https://github.com/vvakame/graphql-with-go-book)||[:arrow_upper_right:](https://vvakame.booth.pm/items/1055228)|
-|69|[@kmaed](https://github.com/kmaed)/[**kmbeamer**](https://github.com/kmaed/kmbeamer)|My themes for Beamer.||
+|70|[@kmaed](https://github.com/kmaed)/[**kmbeamer**](https://github.com/kmaed/kmbeamer)|My themes for Beamer.||
 |59|[@tkamishima](https://github.com/tkamishima)/[**recsysdoc**](https://github.com/tkamishima/recsysdoc)|Algorithms of Recommender Systems : A survey paper of recommender systems (written in Japanese)|[:arrow_upper_right:](http://www.kamishima.net/archive/recsysdoc.pdf)|
 |57|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
+|54|[@guicho271828](https://github.com/guicho271828)/[**aaai-template**](https://github.com/guicho271828/aaai-template)|latex template for various conferences||
 |54|[@hamano](https://github.com/hamano)/[**the-little-mongodb-book**](https://github.com/hamano/the-little-mongodb-book)|MongoDBの薄い本(The Little MongoDB Book)|[:arrow_upper_right:](http://www.cuspy.org/diary/2012-04-17)|
-|53|[@guicho271828](https://github.com/guicho271828)/[**aaai-template**](https://github.com/guicho271828/aaai-template)|latex template for various conferences||
 |53|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing|[:arrow_upper_right:](https://arxiv.org/abs/1811.03388)|
 |47|[@mizzy](https://github.com/mizzy)/[**serverspec-thesis**](https://github.com/mizzy/serverspec-thesis)|||
 |36|[@pi8027](https://github.com/pi8027)/[**typeinfer**](https://github.com/pi8027/typeinfer)|Type inference in OCaml|[:arrow_upper_right:](https://github.com/pi8027/typeinfer)|
 |35|[@vvakame](https://github.com/vvakame)/[**graphql-schema-guide**](https://github.com/vvakame/graphql-schema-guide)|GraphQLスキーマのあれこれをいい感じにする本||
-|31|[@oist](https://github.com/oist)/[**LaTeX-templates**](https://github.com/oist/LaTeX-templates)|Graduate School LaTeX templates for Lab rotation proposal + report, OIST beamer and Thesis + thesis proposal||
+|32|[@oist](https://github.com/oist)/[**LaTeX-templates**](https://github.com/oist/LaTeX-templates)|Graduate School LaTeX templates for Lab rotation proposal + report, OIST beamer and Thesis + thesis proposal||
 |28|[@vvakame](https://github.com/vvakame)/[**review-css-typesetting**](https://github.com/vvakame/review-css-typesetting)|CSS組版やっていき！||
 |26|[@jilljenn](https://github.com/jilljenn)/[**business-card**](https://github.com/jilljenn/business-card)|A business card in LaTeX||
 |22|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
@@ -24,9 +24,9 @@
 |17|[@Runnrairu](https://github.com/Runnrairu)/[**machinelearning_text**](https://github.com/Runnrairu/machinelearning_text)|||
 |17|[@hitode909](https://github.com/hitode909)/[**soturon**](https://github.com/hitode909/soturon)|卒論||
 |16|[@acgotaku](https://github.com/acgotaku)/[**USTC-SSE-THESIS**](https://github.com/acgotaku/USTC-SSE-THESIS)|适用于中科大软件学院工程硕士的Latex模板||
+|14|[@laysakura](https://github.com/laysakura)/[**TheoryOfComputation**](https://github.com/laysakura/TheoryOfComputation)|A memo of a lecture on Theory of Computation in the University of Tokyo.||
 |14|[@orthez](https://github.com/orthez)/[**business-cards-latex**](https://github.com/orthez/business-cards-latex)|Business cards template in latex. Duplex (doubleside) printable. Two languages (back/front) supported. Optimized to be easily extensible.||
 |13|[@hamano](https://github.com/hamano)/[**zguide-ja**](https://github.com/hamano/zguide-ja)|||
-|13|[@laysakura](https://github.com/laysakura)/[**TheoryOfComputation**](https://github.com/laysakura/TheoryOfComputation)|A memo of a lecture on Theory of Computation in the University of Tokyo.||
 |13|[@okomok](https://github.com/okomok)/[**strcat**](https://github.com/okomok/strcat)|TeX files for summary of category theory||
 |13|[@vvakame](https://github.com/vvakame)/[**apollo-swamped-book**](https://github.com/vvakame/apollo-swamped-book)|||
 |12|[@ueokande](https://github.com/ueokande)/[**jletteraddress**](https://github.com/ueokande/jletteraddress)|A document class of LaTeX for address side of the Japanese letter.||

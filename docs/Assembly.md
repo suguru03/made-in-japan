@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|45385|[@chrislgarry](https://github.com/chrislgarry)/[**Apollo-11**](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.||
-|2276|[@nemasu](https://github.com/nemasu)/[**asmttpd**](https://github.com/nemasu/asmttpd)|Web server for Linux written in amd64 assembly.||
+|45473|[@chrislgarry](https://github.com/chrislgarry)/[**Apollo-11**](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.||
+|2274|[@nemasu](https://github.com/nemasu)/[**asmttpd**](https://github.com/nemasu/asmttpd)|Web server for Linux written in amd64 assembly.||
 |32|[@kubo39](https://github.com/kubo39)/[**tinycr**](https://github.com/kubo39/tinycr)|The challenge for creating a tiny binary in crystal.||
 |26|[@gyuque](https://github.com/gyuque)/[**snes-m7**](https://github.com/gyuque/snes-m7)|SNES Mode 7 demo||
 |19|[@marcan](https://github.com/marcan)/[**sigmafix**](https://github.com/marcan/sigmafix)|Make old Sigma lenses work on newer Canon bodies.||
@@ -16,6 +16,7 @@
 |6|[@cho45](https://github.com/cho45)/[**blosxasm-arm-linux-eabi**](https://github.com/cho45/blosxasm-arm-linux-eabi)|||
 |6|[@keijiro](https://github.com/keijiro)/[**unity-admob-example**](https://github.com/keijiro/unity-admob-example)|CAUTION! This example is deprecated. Use "unity-adbanner-example" (see URL below) instead.|[:arrow_upper_right:](https://github.com/keijiro/unity-adbanner-example)|
 |6|[@osoumen](https://github.com/osoumen)/[**playercode**](https://github.com/osoumen/playercode)|||
+|5|[@CAFxX](https://github.com/CAFxX)/[**atomics**](https://github.com/CAFxX/atomics)|All the missing AMD64 atomic instructions||
 |5|[@keita](https://github.com/keita)/[**ruby-asm-xml**](https://github.com/keita/ruby-asm-xml)|ruby-asm-xml is a wrapper library for AsmXml||
 |5|[@yutopp](https://github.com/yutopp)/[**sekki**](https://github.com/yutopp/sekki)|||
 |4|[@2vg](https://github.com/2vg)/[**llnim**](https://github.com/2vg/llnim)|low layer Nim.||
@@ -23,7 +24,6 @@
 |4|[@pollenjp](https://github.com/pollenjp)/[**myHariboteOS**](https://github.com/pollenjp/myHariboteOS)|||
 |4|[@y-mitsui](https://github.com/y-mitsui)/[**fastKDE**](https://github.com/y-mitsui/fastKDE)|Kernel density estimation which was optimized by the fast Gauss transform. ||
 |3|[@173210](https://github.com/173210)/[**spider**](https://github.com/173210/spider)|Spider Exploit with CVE-2013-2842||
-|3|[@CAFxX](https://github.com/CAFxX)/[**atomics**](https://github.com/CAFxX/atomics)|All the missing AMD64 atomic instructions||
 |3|[@ImNotAVirus](https://github.com/ImNotAVirus)/[**BF-Interpreter**](https://github.com/ImNotAVirus/BF-Interpreter)|A basic Brainf*ck interpreter written in ASM (NASM)||
 |3|[@gunyarakun](https://github.com/gunyarakun)/[**snes-games**](https://github.com/gunyarakun/snes-games)|Games written in 65816 assembler for SNES (Super Famicom)||
 |3|[@gyuque](https://github.com/gyuque)/[**SNESJumpTest**](https://github.com/gyuque/SNESJumpTest)|||

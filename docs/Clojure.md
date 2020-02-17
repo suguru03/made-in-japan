@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |909|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
-|573|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
+|572|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
 |385|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
 |328|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
 |269|[@kawasima](https://github.com/kawasima)/[**jagrid**](https://github.com/kawasima/jagrid)|Japanese-styled grid framework.||
@@ -9,18 +9,18 @@
 |128|[@yokolet](https://github.com/yokolet)/[**clementine**](https://github.com/yokolet/clementine)|Gem for ClojureScript on Rails Asset Pipeline||
 |114|[@liquidz](https://github.com/liquidz)/[**clj-jwt**](https://github.com/liquidz/clj-jwt)|Clojure library for JSON Web Token(JWT)||
 |101|[@athos](https://github.com/athos)/[**kitchen-async**](https://github.com/athos/kitchen-async)|A Promise library for ClojureScript, or a poor man's core.async||
-|90|[@athos](https://github.com/athos)/[**Pinpointer**](https://github.com/athos/Pinpointer)|Pinpointer is yet another clojure.spec error reporter based on a precise error analysis||
+|91|[@athos](https://github.com/athos)/[**Pinpointer**](https://github.com/athos/Pinpointer)|Pinpointer is yet another clojure.spec error reporter based on a precise error analysis||
 |87|[@runexec](https://github.com/runexec)/[**Static-Prime**](https://github.com/runexec/Static-Prime)|A static website editor and server written in Clojure and ClojureScript.||
 |79|[@kawasima](https://github.com/kawasima)/[**back-channeling**](https://github.com/kawasima/back-channeling)|A thread floating typed chat system.||
-|65|[@athos](https://github.com/athos)/[**Postmortem**](https://github.com/athos/Postmortem)|A tiny value-oriented debugging tool for Clojure(Script), powered by transducers||
+|69|[@athos](https://github.com/athos)/[**Postmortem**](https://github.com/athos/Postmortem)|A tiny value-oriented debugging tool for Clojure(Script), powered by transducers||
 |65|[@liquidz](https://github.com/liquidz)/[**jubot**](https://github.com/liquidz/jubot)|Chatbot framework in Clojure||
 |58|[@liquidz](https://github.com/liquidz)/[**dad**](https://github.com/liquidz/dad)|Small configuration management tool for Clojure||
-|54|[@athos](https://github.com/athos)/[**JiSE**](https://github.com/athos/JiSE)|JiSE: Java in S-Expression||
+|55|[@athos](https://github.com/athos)/[**JiSE**](https://github.com/athos/JiSE)|JiSE: Java in S-Expression||
 |49|[@hellonico](https://github.com/hellonico)/[**origami**](https://github.com/hellonico/origami)|OpenCV 4 Clojure Wrapper||
 |49|[@runexec](https://github.com/runexec)/[**equate**](https://github.com/runexec/equate)|A Clojure fact management library||
 |47|[@yokolet](https://github.com/yokolet)/[**hiccup-samples**](https://github.com/yokolet/hiccup-samples)|hiccup samples for clojure cookbook||
 |45|[@federkasten](https://github.com/federkasten)/[**butler**](https://github.com/federkasten/butler)|Bring Web Workers to ClojureScript||
-|40|[@federkasten](https://github.com/federkasten)/[**clucie**](https://github.com/federkasten/clucie)|Clojure for the Lucene||
+|41|[@federkasten](https://github.com/federkasten)/[**clucie**](https://github.com/federkasten/clucie)|Clojure for the Lucene||
 |36|[@dvcrn](https://github.com/dvcrn)/[**ajom**](https://github.com/dvcrn/ajom)|atom plugins in clojurescript||
 |32|[@hellonico](https://github.com/hellonico)/[**niclojure**](https://github.com/hellonico/niclojure)|Candid whitebook on Clojure ecosystem||
 |31|[@kawasima](https://github.com/kawasima)/[**darzana**](https://github.com/kawasima/darzana)| a DSL for backends-for-frontends (BFF)||
@@ -86,6 +86,7 @@
 |7|[@hellonico](https://github.com/hellonico)/[**cortex-tutorial**](https://github.com/hellonico/cortex-tutorial)|||
 |7|[@lagenorhynque](https://github.com/lagenorhynque)/[**spec-examples**](https://github.com/lagenorhynque/spec-examples)|clojure.spec examples||
 |7|[@syou6162](https://github.com/syou6162)/[**lda_clj**](https://github.com/syou6162/lda_clj)|Latent Dirichlet Allocation library written in clojure||
+|6|[@KeenS](https://github.com/KeenS)/[**s7p**](https://github.com/KeenS/s7p)|sexp version of s6p; a toy SSP.||
 |6|[@athos](https://github.com/athos)/[**aintegrant**](https://github.com/athos/aintegrant)|Aintegrant ain't Integrant, it's Async Integrant!||
 |6|[@athos](https://github.com/athos)/[**pogonos**](https://github.com/athos/pogonos)|another Clojure implementation of Mustache template engine||
 |6|[@ayato-p](https://github.com/ayato-p)/[**intro-web-clojure**](https://github.com/ayato-p/intro-web-clojure)|Introduction to web application development in Clojure||
@@ -102,7 +103,6 @@
 |6|[@mattn](https://github.com/mattn)/[**clj-ezoe**](https://github.com/mattn/clj-ezoe)|質問ではない。||
 |6|[@nyampass](https://github.com/nyampass)/[**BeginningClojure**](https://github.com/nyampass/BeginningClojure)|工学社「はじめてのClojure」のサンプルソースです||
 |6|[@runexec](https://github.com/runexec)/[**Moov**](https://github.com/runexec/Moov)|(TMDB)The Movie Database API Wrapper||
-|5|[@KeenS](https://github.com/KeenS)/[**s7p**](https://github.com/KeenS/s7p)|sexp version of s6p; a toy SSP.||
 |5|[@athos](https://github.com/athos)/[**intro-to-prejenter**](https://github.com/athos/intro-to-prejenter)|||
 |5|[@ayamada](https://github.com/ayamada)/[**vnctst-audio3**](https://github.com/ayamada/vnctst-audio3)|audio playback library for html5 game||
 |5|[@ayato-p](https://github.com/ayato-p)/[**bulkhead**](https://github.com/ayato-p/bulkhead)|||

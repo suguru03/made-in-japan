@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |616|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
-|517|[@parroty](https://github.com/parroty)/[**excoveralls**](https://github.com/parroty/excoveralls)|Coverage report tool for Elixir with coveralls.io integration.||
-|476|[@parroty](https://github.com/parroty)/[**exvcr**](https://github.com/parroty/exvcr)|HTTP request/response recording library for elixir, inspired by VCR.||
-|340|[@parroty](https://github.com/parroty)/[**extwitter**](https://github.com/parroty/extwitter)|Twitter client library for elixir. ||
+|519|[@parroty](https://github.com/parroty)/[**excoveralls**](https://github.com/parroty/excoveralls)|Coverage report tool for Elixir with coveralls.io integration.||
+|480|[@parroty](https://github.com/parroty)/[**exvcr**](https://github.com/parroty/exvcr)|HTTP request/response recording library for elixir, inspired by VCR.||
+|341|[@parroty](https://github.com/parroty)/[**extwitter**](https://github.com/parroty/extwitter)|Twitter client library for elixir. ||
 |304|[@parroty](https://github.com/parroty)/[**excheck**](https://github.com/parroty/excheck)|Property-based testing library for Elixir (QuickCheck style).||
 |240|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
-|219|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
+|220|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
 |197|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
 |194|[@ma2gedev](https://github.com/ma2gedev)/[**power_assert_ex**](https://github.com/ma2gedev/power_assert_ex)|Power Assert in Elixir. Shows evaluation results each expression.|[:arrow_upper_right:](https://github.com/ma2gedev/power_assert_ex)|
 |125|[@parroty](https://github.com/parroty)/[**exprof**](https://github.com/parroty/exprof)|A simple code profiler for Elixir using eprof.||
@@ -16,7 +16,7 @@
 |82|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
 |82|[@tuvistavie](https://github.com/tuvistavie)/[**opencov**](https://github.com/tuvistavie/opencov)|Open source code coverage history webapp|[:arrow_upper_right:](http://demo.opencov.com)|
 |72|[@parroty](https://github.com/parroty)/[**exfirebase**](https://github.com/parroty/exfirebase)|An elixir library for accessing the Firebase REST API.||
-|68|[@melpon](https://github.com/melpon)/[**memoize**](https://github.com/melpon/memoize)|A method caching macro for elixir using CAS on ETS.|[:arrow_upper_right:](https://hex.pm/packages/memoize)|
+|69|[@melpon](https://github.com/melpon)/[**memoize**](https://github.com/melpon/memoize)|A method caching macro for elixir using CAS on ETS.|[:arrow_upper_right:](https://hex.pm/packages/memoize)|
 |67|[@chvanikoff](https://github.com/chvanikoff)/[**apns4ex**](https://github.com/chvanikoff/apns4ex)|APNS for Elixir||
 |66|[@mururu](https://github.com/mururu)/[**msgpack-elixir**](https://github.com/mururu/msgpack-elixir)|MessagePack Implementation for Elixir / msgpack.org[Elixir]||
 |65|[@tuvistavie](https://github.com/tuvistavie)/[**pushex**](https://github.com/tuvistavie/pushex)|Push notifications for Elixir|[:arrow_upper_right:](https://hexdocs.pm/pushex)|
@@ -24,9 +24,9 @@
 |56|[@parroty](https://github.com/parroty)/[**oauth2ex**](https://github.com/parroty/oauth2ex)|An OAuth 2.0 client library for elixir.||
 |54|[@mururu](https://github.com/mururu)/[**mongoex**](https://github.com/mururu/mongoex)|Elixir ODM-like module for MongoDB||
 |51|[@shufo](https://github.com/shufo)/[**log_viewer**](https://github.com/shufo/log_viewer)|An Web based Log Viewer for Elixir and Phoenix|[:arrow_upper_right:](https://hex.pm/packages/log_viewer)|
-|46|[@KazuCocoa](https://github.com/KazuCocoa)/[**http_proxy**](https://github.com/KazuCocoa/http_proxy)|http proxy with Elixir. wait request with multi port and forward to each URIs||
+|47|[@KazuCocoa](https://github.com/KazuCocoa)/[**http_proxy**](https://github.com/KazuCocoa/http_proxy)|http proxy with Elixir. wait request with multi port and forward to each URIs||
+|43|[@tatsuya6502](https://github.com/tatsuya6502)/[**recon_ex**](https://github.com/tatsuya6502/recon_ex)|Elixir wrapper for Recon, tools to diagnose Erlang VM safely in production||
 |43|[@tuvistavie](https://github.com/tuvistavie)/[**elixir-browser**](https://github.com/tuvistavie/elixir-browser)|Browser detection for Elixir|[:arrow_upper_right:](https://hex.pm/packages/browser)|
-|42|[@tatsuya6502](https://github.com/tatsuya6502)/[**recon_ex**](https://github.com/tatsuya6502/recon_ex)|Elixir wrapper for Recon, tools to diagnose Erlang VM safely in production||
 |41|[@tuvistavie](https://github.com/tuvistavie)/[**phoenix-active-link**](https://github.com/tuvistavie/phoenix-active-link)|Elixir/Phoenix view helper to manage "active" state of a link|[:arrow_upper_right:](https://hex.pm/packages/phoenix_active_link)|
 |37|[@shufo](https://github.com/shufo)/[**fcmex**](https://github.com/shufo/fcmex)|A Firebase Cloud Message client for Elixir|[:arrow_upper_right:](https://hex.pm/packages/fcmex)|
 |33|[@tuvistavie](https://github.com/tuvistavie)/[**elixir-temp**](https://github.com/tuvistavie/elixir-temp)|Temporary files and directories for Elixir|[:arrow_upper_right:](https://hex.pm/packages/temp)|
@@ -55,9 +55,9 @@
 |16|[@niku](https://github.com/niku)/[**ff_stack_chat_example**](https://github.com/niku/ff_stack_chat_example)|A chat example build on FF(Elixir/Phoenix/Mithril) Stack||
 |15|[@archSeer](https://github.com/archSeer)/[**elixir.nvim**](https://github.com/archSeer/elixir.nvim)|A repackage of awetzel/vim-elixir with only the neovim bits + support for deoplete.||
 |15|[@archseer](https://github.com/archseer)/[**elixir.nvim**](https://github.com/archseer/elixir.nvim)|A repackage of awetzel/vim-elixir with only the neovim bits + support for deoplete.||
+|15|[@dvcrn](https://github.com/dvcrn)/[**binance.ex**](https://github.com/dvcrn/binance.ex)|Elixir wrapper for the Binance public API||
 |15|[@tatsuya6502](https://github.com/tatsuya6502)/[**elixir_rust_interop_demo**](https://github.com/tatsuya6502/elixir_rust_interop_demo)|Demonstrate calling Rust functions from Elixir using Erlang NIF interface||
 |14|[@ImNotAVirus](https://github.com/ImNotAVirus)/[**ElvenGard_V2**](https://github.com/ImNotAVirus/ElvenGard_V2)|MMORPG Game Server toolkit written in Elixir||
-|14|[@dvcrn](https://github.com/dvcrn)/[**binance.ex**](https://github.com/dvcrn/binance.ex)|Elixir wrapper for the Binance public API||
 |14|[@expede](https://github.com/expede)/[**operator**](https://github.com/expede/operator)|Helpers for defining Elixir operators||
 |14|[@lyokato](https://github.com/lyokato)/[**redlock**](https://github.com/lyokato/redlock)|Elixir Library: Redis Distributed Lock implementation||
 |14|[@ne-sachirou](https://github.com/ne-sachirou)/[**ex_komachi_heartbeat**](https://github.com/ne-sachirou/ex_komachi_heartbeat)|🚅Vital monitoring Elixir Web application.🚄||
@@ -69,7 +69,7 @@
 |11|[@ma2gedev](https://github.com/ma2gedev)/[**luhn_ex**](https://github.com/ma2gedev/luhn_ex)|Luhn algorithm in Elixir||
 |10|[@faithandbrave](https://github.com/faithandbrave)/[**excelion**](https://github.com/faithandbrave/excelion)|Excel (xlsx) file reader for Elixir||
 |10|[@ma2gedev](https://github.com/ma2gedev)/[**ltsvex**](https://github.com/ma2gedev/ltsvex)|LTSV parser implementation in Elixir||
-|10|[@ne-sachirou](https://github.com/ne-sachirou)/[**inner_cotton**](https://github.com/ne-sachirou/inner_cotton)|Collection of recommended Elixir check utilities.||
+|10|[@ne-sachirou](https://github.com/ne-sachirou)/[**inner_cotton**](https://github.com/ne-sachirou/inner_cotton)|Collection of recommended Elixir check utilities.|[:arrow_upper_right:](https://hex.pm/packages/inner_cotton)|
 |10|[@ne-sachirou](https://github.com/ne-sachirou)/[**redis_z**](https://github.com/ne-sachirou/redis_z)|Pooling & sharding support parallel Redis adapter base on Redix.|[:arrow_upper_right:](https://hex.pm/packages/redis_z)|
 |10|[@umurgdk](https://github.com/umurgdk)/[**elixir-feedme**](https://github.com/umurgdk/elixir-feedme)|Elixir RSS/Atom parser||
 |10|[@xeejp](https://github.com/xeejp)/[**xee**](https://github.com/xeejp/xee)|A server framework for experimental economics|[:arrow_upper_right:](https://xee.jp)|

@@ -16,6 +16,7 @@
 |5|[@cdepillabout](https://github.com/cdepillabout)/[**purescript-boxes**](https://github.com/cdepillabout/purescript-boxes)|||
 |5|[@oreshinya](https://github.com/oreshinya)/[**purescript-cherry**](https://github.com/oreshinya/purescript-cherry)|No longer maintenance||
 |5|[@oreshinya](https://github.com/oreshinya)/[**purescript-simple-jwt**](https://github.com/oreshinya/purescript-simple-jwt)|Simple JWT encoder and decoder for PureScript.||
+|4|[@bouzuya](https://github.com/bouzuya)/[**node-hatena-fotolife-cli**](https://github.com/bouzuya/node-hatena-fotolife-cli)|Hatena::Fotolife command line interface (unofficial)||
 |4|[@bouzuya](https://github.com/bouzuya)/[**purescript-css-dsl**](https://github.com/bouzuya/purescript-css-dsl)|See: https://github.com/paulyoung/purescript-style/||
 |4|[@cdepillabout](https://github.com/cdepillabout)/[**purescript-email-validate**](https://github.com/cdepillabout/purescript-email-validate)|Validating an email address string against RFC 5322||
 |4|[@noraesae](https://github.com/noraesae)/[**purescript-halogen-free-html**](https://github.com/noraesae/purescript-halogen-free-html)|Free monad for Halogen HTML||
@@ -23,7 +24,6 @@
 |4|[@oreshinya](https://github.com/oreshinya)/[**purescript-mysql**](https://github.com/oreshinya/purescript-mysql)|Bindings mysql for PureScript||
 |4|[@philopon](https://github.com/philopon)/[**purescript-html**](https://github.com/philopon/purescript-html)|middle level virtual-dom binding for purescript||
 |3|[@b123400](https://github.com/b123400)/[**purescript-pux-form**](https://github.com/b123400/purescript-pux-form)|Generate form with lens in Pux||
-|3|[@bouzuya](https://github.com/bouzuya)/[**node-hatena-fotolife-cli**](https://github.com/bouzuya/node-hatena-fotolife-cli)|Hatena::Fotolife command line interface (unofficial)||
 |3|[@bouzuya](https://github.com/bouzuya)/[**tamaru**](https://github.com/bouzuya/tamaru)|||
 |3|[@moxuse](https://github.com/moxuse)/[**Yodaka**](https://github.com/moxuse/Yodaka)|||
 |3|[@nonbili](https://github.com/nonbili)/[**purescript-halogen-transition**](https://github.com/nonbili/purescript-halogen-transition)|A component that toggles enter/leave class when visibility changes|[:arrow_upper_right:](https://nonbili.github.io/purescript-halogen-transition/#Simple)|

@@ -28,6 +28,7 @@
 |6|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**numir**](https://github.com/ShigekiKarita/numir)|numpy-like API wrappers of mir||
 |6|[@alphaKAI](https://github.com/alphaKAI)/[**unlocker**](https://github.com/alphaKAI/unlocker)|unlock/lock your PC by touching with FeliCa||
 |6|[@karahiyo](https://github.com/karahiyo)/[**btrace**](https://github.com/karahiyo/btrace)|[https://kenai.com/projects/btrace/]'s project.||
+|6|[@koji-kojiro](https://github.com/koji-kojiro)/[**matplotlib-d**](https://github.com/koji-kojiro/matplotlib-d)|||
 |6|[@kubo39](https://github.com/kubo39)/[**elfhook.d**](https://github.com/kubo39/elfhook.d)|monkey patching for shared object.||
 |6|[@shawnps](https://github.com/shawnps)/[**kanjihub**](https://github.com/shawnps/kanjihub)|a hub for kanji||
 |5|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-speech**](https://github.com/ShigekiKarita/d-speech)||[:arrow_upper_right:](https://shigekikarita.github.io/d-speech/dspeech.html)|
@@ -36,7 +37,6 @@
 |5|[@kazoo04](https://github.com/kazoo04)/[**Redplanet**](https://github.com/kazoo04/Redplanet)|Twitter client written in the D programming language.||
 |5|[@kazoo04](https://github.com/kazoo04)/[**libarow-d**](https://github.com/kazoo04/libarow-d)|A library for AROW linear classification||
 |5|[@kazoo04](https://github.com/kazoo04)/[**progress-d**](https://github.com/kazoo04/progress-d)|||
-|5|[@koji-kojiro](https://github.com/koji-kojiro)/[**matplotlib-d**](https://github.com/koji-kojiro/matplotlib-d)|||
 |5|[@kubo39](https://github.com/kubo39)/[**rikka**](https://github.com/kubo39/rikka)|anothor document database written in D||
 |5|[@repeatedly](https://github.com/repeatedly)/[**zstd-d**](https://github.com/repeatedly/zstd-d)|D binding for Zstandard||
 |4|[@MakeNowJust](https://github.com/MakeNowJust)/[**AnalF_ck**](https://github.com/MakeNowJust/AnalF_ck)|淫夢プログラミング言語||
@@ -62,6 +62,7 @@
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**xhvm**](https://github.com/alphaKAI/xhvm)|The Xhyve VM Manager||
 |3|[@hekk](https://github.com/hekk)/[**sprint_workshop**](https://github.com/hekk/sprint_workshop)|社内勉強会で作ったもの||
 |3|[@kubo39](https://github.com/kubo39)/[**fastersort**](https://github.com/kubo39/fastersort)|||
+|3|[@kubo39](https://github.com/kubo39)/[**libloading**](https://github.com/kubo39/libloading)|A dynamic library loading library.||
 |3|[@kubo39](https://github.com/kubo39)/[**sharedlib**](https://github.com/kubo39/sharedlib)|Deprecated: moved to https://github.com/kubo39/libloading ||
 |3|[@kubo39](https://github.com/kubo39)/[**stm32f407discovery**](https://github.com/kubo39/stm32f407discovery)|STM32F407DISCOVERY dev board library for LDC.||
 |3|[@matsubara0507](https://github.com/matsubara0507)/[**dlisp**](https://github.com/matsubara0507/dlisp)|Pure Lisp on D Language||

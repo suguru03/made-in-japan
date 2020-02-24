@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|459|[@lmiller1990](https://github.com/lmiller1990)/[**vue-testing-handbook**](https://github.com/lmiller1990/vue-testing-handbook)|A guide on testing Vue components and applications|[:arrow_upper_right:](https://lmiller1990.github.io/vue-testing-handbook/)|
+|460|[@lmiller1990](https://github.com/lmiller1990)/[**vue-testing-handbook**](https://github.com/lmiller1990/vue-testing-handbook)|A guide on testing Vue components and applications|[:arrow_upper_right:](https://lmiller1990.github.io/vue-testing-handbook/)|
 |439|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
 |253|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
-|245|[@moreta](https://github.com/moreta)/[**vue-search-select**](https://github.com/moreta/vue-search-select)|A Vue.js search select component|[:arrow_upper_right:](https://vue-search-select.netlify.com)|
+|246|[@moreta](https://github.com/moreta)/[**vue-search-select**](https://github.com/moreta/vue-search-select)|A Vue.js search select component|[:arrow_upper_right:](https://vue-search-select.netlify.com)|
 |210|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
-|150|[@nishinoshake](https://github.com/nishinoshake)/[**aws-rough**](https://github.com/nishinoshake/aws-rough)|AWSの料金を、日本円でざっくり|[:arrow_upper_right:](https://aws-rough.cc)|
-|122|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://vue-fixed-header.potato4d.dev/)|
+|151|[@nishinoshake](https://github.com/nishinoshake)/[**aws-rough**](https://github.com/nishinoshake/aws-rough)|AWSの料金を、日本円でざっくり|[:arrow_upper_right:](https://aws-rough.cc)|
+|124|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://vue-fixed-header.potato4d.dev/)|
 |107|[@hanhdt](https://github.com/hanhdt)/[**vue-trix**](https://github.com/hanhdt/vue-trix)|Trix text editor component for Vue.js||
 |106|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
-|100|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
+|101|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
 |56|[@nwtgck](https://github.com/nwtgck)/[**nipp**](https://github.com/nwtgck/nipp)|🎒 Portable Programmable Text Convertor Hosted on URL:  https://nwtgck.github.io/nipp||
 |48|[@andoshin11](https://github.com/andoshin11)/[**vue-cli-plugin-nuxt-starter-template**](https://github.com/andoshin11/vue-cli-plugin-nuxt-starter-template)|Nuxt.js starter project template for vue-cli v3. https://starter.nuxtjs.org||
 |48|[@miyaoka](https://github.com/miyaoka)/[**grid-generator**](https://github.com/miyaoka/grid-generator)|CSS Grid Layout generator|[:arrow_upper_right:](https://vue-grid-generator.netlify.com/)|
@@ -33,10 +33,10 @@
 |19|[@syumai](https://github.com/syumai)/[**trollo**](https://github.com/syumai/trollo)|Simple Trello clone implemented with Vue.js and Vuex|[:arrow_upper_right:](https://syumai.github.io/trollo/)|
 |19|[@ukatama](https://github.com/ukatama)/[**nekotaku**](https://github.com/ukatama/nekotaku)|ねこ卓：モバイルフレンドリーなオンラインセッション支援ツール|[:arrow_upper_right:](https://nekotaku.nekometer.info)|
 |18|[@nishinoshake](https://github.com/nishinoshake)/[**javascript-listener**](https://github.com/nishinoshake/javascript-listener)|JavaScriptのイベントをたくさん見られるサイト|[:arrow_upper_right:](https://listener.noplan.cc)|
+|18|[@nwtgck](https://github.com/nwtgck)/[**piping-screen-share-web**](https://github.com/nwtgck/piping-screen-share-web)|🖥️ Screen Share via Piping Server with End-to-End Encryption https://piping-screen-share.netlify.com||
 |18|[@potato4d](https://github.com/potato4d)/[**preloaders**](https://github.com/potato4d/preloaders)|My preloader collection using CSS Animation.|[:arrow_upper_right:](https://preloaders.potato4d.me)|
 |17|[@fiahfy](https://github.com/fiahfy)/[**hosty**](https://github.com/fiahfy/hosty)|Hosts File Manager based on Electron||
 |17|[@mya-ake](https://github.com/mya-ake)/[**vuejs-spa-dev-env**](https://github.com/mya-ake/vuejs-spa-dev-env)|Vue.js 2.0でSPA(Single Page Application)作るための開発環境的なやつ|[:arrow_upper_right:](https://mya-ake.com/samples/vuejs-spa/)|
-|17|[@nwtgck](https://github.com/nwtgck)/[**piping-screen-share-web**](https://github.com/nwtgck/piping-screen-share-web)|🖥️ Screen Share via Piping Server with End-to-End Encryption https://piping-screen-share.netlify.com||
 |17|[@sin-tanaka](https://github.com/sin-tanaka)/[**vue-quagga**](https://github.com/sin-tanaka/vue-quagga)|quaggaJS's wrapper Barcode Reader/Scanner component for Vue.js.||
 |17|[@y-nk](https://github.com/y-nk)/[**vue-whiteroom**](https://github.com/y-nk/vue-whiteroom)|developer sandbox for vue components||
 |16|[@sunya9](https://github.com/sunya9)/[**beta**](https://github.com/sunya9/beta)|pnut.io web client.|[:arrow_upper_right:](https://beta.pnut.io)|
@@ -57,9 +57,9 @@
 |10|[@miyaoka](https://github.com/miyaoka)/[**metro**](https://github.com/miyaoka/metro)|SVG drawing like Mini Metro|[:arrow_upper_right:](https://metro.netlify.com/)|
 |10|[@morizyun](https://github.com/morizyun)/[**nuxt-edge-serverless-firebase-auth-template**](https://github.com/morizyun/nuxt-edge-serverless-firebase-auth-template)|||
 |9|[@ixkaito](https://github.com/ixkaito)/[**viewportscaler**](https://github.com/ixkaito/viewportscaler)|Fluid-responsive value/calculation generator for CSS/Sass. To linearly scale font-size, margin, padding, etc. across viewport widths.|[:arrow_upper_right:](https://ixkaito.github.io/viewportscaler/)|
+|9|[@potato4d](https://github.com/potato4d)/[**docker-multi-stage-build-on-nuxt**](https://github.com/potato4d/docker-multi-stage-build-on-nuxt)||[:arrow_upper_right:](https://nuxt-meetup.connpass.com/event/135514/)|
 |8|[@YCAMInterlab](https://github.com/YCAMInterlab)/[**dna-of-forests**](https://github.com/YCAMInterlab/dna-of-forests)|Field Guide “DNA of Forests” - YCAM Bio Research|[:arrow_upper_right:](http://dna-of-forests.ycam.jp/en/)|
 |8|[@ktsn](https://github.com/ktsn)/[**typescript-webpack-simple**](https://github.com/ktsn/typescript-webpack-simple)|A simple TypeScript + Webpack + vue-loader setup.||
-|8|[@potato4d](https://github.com/potato4d)/[**docker-multi-stage-build-on-nuxt**](https://github.com/potato4d/docker-multi-stage-build-on-nuxt)||[:arrow_upper_right:](https://nuxt-meetup.connpass.com/event/135514/)|
 |8|[@tkc](https://github.com/tkc)/[**nuxt-ethereum-wallet**](https://github.com/tkc/nuxt-ethereum-wallet)|web3 wallet on nuxt.js||
 |7|[@1000ch](https://github.com/1000ch)/[**vue-trim**](https://github.com/1000ch/vue-trim)|Vue.js component for trimming images using Cropper.js.|[:arrow_upper_right:](https://1000ch.github.io/vue-trim/)|
 |7|[@CYBAI](https://github.com/CYBAI)/[**vue-mdl-datepicker**](https://github.com/CYBAI/vue-mdl-datepicker)|Material Design Datepicker for Vue.js||
@@ -83,6 +83,8 @@
 |5|[@argelius](https://github.com/argelius)/[**vue-onsenui-sample**](https://github.com/argelius/vue-onsenui-sample)|A sample app using Vue.js 2.0 and Onsen UI 2.0||
 |5|[@asus4](https://github.com/asus4)/[**facial-landmark-annotation**](https://github.com/asus4/facial-landmark-annotation)|Facial landmark annotation tool|[:arrow_upper_right:](https://asus4.github.io/facial-landmark-annotation/)|
 |5|[@aytdm](https://github.com/aytdm)/[**hello-nuxt**](https://github.com/aytdm/hello-nuxt)|This is a example application of Nuxt.js + Element-ui + axios.||
+|5|[@dsh0416](https://github.com/dsh0416)/[**petri-editor**](https://github.com/dsh0416/petri-editor)|An Visual Editor for Petri Net||
+|5|[@hakatashi](https://github.com/hakatashi)/[**tokyo-olym.pics**](https://github.com/hakatashi/tokyo-olym.pics)||[:arrow_upper_right:](https://tokyo-olym.pics/)|
 |5|[@hypermkt](https://github.com/hypermkt)/[**vuejs-samples**](https://github.com/hypermkt/vuejs-samples)|||
 |5|[@jacoyutorius](https://github.com/jacoyutorius)/[**vue-cognito-graphql**](https://github.com/jacoyutorius/vue-cognito-graphql)|AWS Amplify + AppSync + VueでDynamodBを参照するアプリケーションのサンプル。  画面からPOSTした内容をGraphQLのsubscriptionで受け取る。||
 |5|[@jiyuujin](https://github.com/jiyuujin)/[**admin**](https://github.com/jiyuujin/admin)|Web猫ブログの問い合わせや技術情報の蓄積、フライトログなど|[:arrow_upper_right:](https://admin.nekohack.app/)|
@@ -103,9 +105,7 @@
 |4|[@MasterHiei](https://github.com/MasterHiei)/[**masterhiei.com**](https://github.com/MasterHiei/masterhiei.com)|:beginner:Still developing. :zap:Powered by Nuxt.js, Express and TypeScript.||
 |4|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**nuxt-firebase-hosting-sample**](https://github.com/YuheiNakasaka/nuxt-firebase-hosting-sample)|||
 |4|[@asus4](https://github.com/asus4)/[**real-emoji**](https://github.com/asus4/real-emoji)||[:arrow_upper_right:](https://facial-emoji.netlify.com/)|
-|4|[@dsh0416](https://github.com/dsh0416)/[**petri-editor**](https://github.com/dsh0416/petri-editor)|An Visual Editor for Petri Net||
 |4|[@hakatashi](https://github.com/hakatashi)/[**coupling.moe**](https://github.com/hakatashi/coupling.moe)|全てのカップリングを応援します|[:arrow_upper_right:](https://coupling.moe/)|
-|4|[@hakatashi](https://github.com/hakatashi)/[**tokyo-olym.pics**](https://github.com/hakatashi/tokyo-olym.pics)||[:arrow_upper_right:](https://tokyo-olym.pics/)|
 |4|[@hashrock](https://github.com/hashrock)/[**canvas-lff**](https://github.com/hashrock/canvas-lff)|Single stroke font rendering example|[:arrow_upper_right:](http://hashrock.github.io/canvas-lff/)|
 |4|[@hukusuke1007](https://github.com/hukusuke1007)/[**workshop-nem-wallet**](https://github.com/hukusuke1007/workshop-nem-wallet)|||
 |4|[@iwasaki-kenta](https://github.com/iwasaki-kenta)/[**blockflare-relay**](https://github.com/iwasaki-kenta/blockflare-relay)|EOS HK Hackathon - Relay client.||

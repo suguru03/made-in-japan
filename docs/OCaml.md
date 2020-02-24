@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |3926|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
-|703|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
-|94|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
+|705|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|95|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |87|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |73|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
-|59|[@taikomatsu](https://github.com/taikomatsu)/[**SeExprMeshMaya**](https://github.com/taikomatsu/SeExprMeshMaya)|Polygon deformer node plugin for Maya that using Disney's SeExpr||
+|58|[@taikomatsu](https://github.com/taikomatsu)/[**SeExprMeshMaya**](https://github.com/taikomatsu/SeExprMeshMaya)|Polygon deformer node plugin for Maya that using Disney's SeExpr||
 |40|[@coord-e](https://github.com/coord-e)/[**mlml**](https://github.com/coord-e/mlml)|self-hosted compiler for a subset of OCaml||
 |35|[@mzp](https://github.com/mzp)/[**ocaml-hoogle**](https://github.com/mzp/ocaml-hoogle)|OCaml API search allows you to search many standard O'Caml libraries by either function name, or by approximate type signature. It is similar to Hoogle, which is a Haskell API search engine.
 
@@ -100,6 +100,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |3|[@dvtrung](https://github.com/dvtrung)/[**ml-interpreter**](https://github.com/dvtrung/ml-interpreter)|ML interpreter written in OCaml||
 |3|[@keigoi](https://github.com/keigoi)/[**olt_ocaml**](https://github.com/keigoi/olt_ocaml)|An encoding of Ordered Linear Types in OCaml||
 |3|[@khibino](https://github.com/khibino)/[**pfds**](https://github.com/khibino/pfds)|Codes for the book "Purely Functional Data Structure"|[:arrow_upper_right:](http://twitter.com/khibino)|
+|3|[@komamitsu](https://github.com/komamitsu)/[**oraft**](https://github.com/komamitsu/oraft)|Library of Raft consensus algorithm implemented in OCaml||
 |3|[@kw-udon](https://github.com/kw-udon)/[**min-rt-c**](https://github.com/kw-udon/min-rt-c)|Port of min-rt to ANSI-C||
 |3|[@mzp](https://github.com/mzp)/[**asig**](https://github.com/mzp/asig)|AsakusaSatellite IRC Gateway|[:arrow_upper_right:](https://github.com/mzp/asig/wiki)|
 |3|[@mzp](https://github.com/mzp)/[**happyabc**](https://github.com/mzp/happyabc)|HappyABC driver & release script|[:arrow_upper_right:](http://happyabc.org)|

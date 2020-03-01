@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|543|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
-|355|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
-|227|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
-|111|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
+|545|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
+|356|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
+|228|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
+|112|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
 |72|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
-|43|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**ClassifierToolbox**](https://github.com/hiroyuki-kasai/ClassifierToolbox)|A MATLAB toolbox for classifier: Version 1.0.7||
+|44|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**ClassifierToolbox**](https://github.com/hiroyuki-kasai/ClassifierToolbox)|A MATLAB toolbox for classifier: Version 1.0.7||
 |39|[@ikuwow](https://github.com/ikuwow)/[**PatchMatch**](https://github.com/ikuwow/PatchMatch)|The PatchMatch algorithm on MATLAB||
-|32|[@vanhuyz](https://github.com/vanhuyz)/[**coursera-ml**](https://github.com/vanhuyz/coursera-ml)|For study purpose only||
+|33|[@vanhuyz](https://github.com/vanhuyz)/[**coursera-ml**](https://github.com/vanhuyz/coursera-ml)|For study purpose only||
 |26|[@meshgi](https://github.com/meshgi)/[**RGBD_Particle_Filter_Tracker**](https://github.com/meshgi/RGBD_Particle_Filter_Tracker)|Enhancing Probabilistic Appearance-Based Object Tracking with Depth Information: Multiple Object Tracking under Occlusion||
 |22|[@jmlipman](https://github.com/jmlipman)/[**LAID**](https://github.com/jmlipman/LAID)|Lipman's Artificial Intelligence Directory||
 |21|[@KamitaniLab](https://github.com/KamitaniLab)/[**VBCCA**](https://github.com/KamitaniLab/VBCCA)|Variational Bayesian Canonical Correlation Analysis||

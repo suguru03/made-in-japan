@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |423|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
-|343|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
+|350|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
 |115|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
 |88|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
 |66|[@Ryo-N7](https://github.com/Ryo-N7)/[**tvthemes**](https://github.com/Ryo-N7/tvthemes)|ggplot2 themes and palettes based on your favorite TV shows|[:arrow_upper_right:](https://ryo-n7.github.io/tvthemes/)|
@@ -10,8 +10,8 @@
 |38|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
 |38|[@ymattu](https://github.com/ymattu)/[**MlBayesOpt**](https://github.com/ymattu/MlBayesOpt)|R package to tune parameters for machine learning(Support Vector Machine, Random Forest, and Xgboost), using bayesian optimization with gaussian process||
 |31|[@hoxo-m](https://github.com/hoxo-m)/[**easyRFM**](https://github.com/hoxo-m/easyRFM)|An easy way to RFM analysis by R||
+|30|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
-|29|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
 |25|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](https://uribo.github.io/jpmesh)|
 |20|[@uribo](https://github.com/uribo)/[**zipangu**](https://github.com/uribo/zipangu)|Japanese utility functions and data|[:arrow_upper_right:](https://uribo.github.io/zipangu)|
 |17|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
@@ -73,6 +73,7 @@
 |5|[@uribo](https://github.com/uribo)/[**bucky**](https://github.com/uribo/bucky)|Helpers for literature management as GitHub actions||
 |5|[@uribo](https://github.com/uribo)/[**fgdr**](https://github.com/uribo/fgdr)|Utilities for Fundamental Geospatial Data|[:arrow_upper_right:](https://uribo.github.io/fgdr/)|
 |5|[@uribo](https://github.com/uribo)/[**tst**](https://github.com/uribo/tst)|🔭 Precision Instrument for Geo Spatial Data 🌎||
+|5|[@yutannihilation](https://github.com/yutannihilation)/[**qiitr**](https://github.com/yutannihilation/qiitr)|R binding for Qiita API v2|[:arrow_upper_right:](https://yutannihilation.github.io/qiitr/)|
 |4|[@TomKellyGenetics](https://github.com/TomKellyGenetics)/[**heatmap.2x**](https://github.com/TomKellyGenetics/heatmap.2x)|Enhancements to Heatmap.2 from the gplots R package||
 |4|[@chezou](https://github.com/chezou)/[**sparklytd**](https://github.com/chezou/sparklytd)|spaklyr plugin for td-spark to connect TD from R||
 |4|[@dritoshi](https://github.com/dritoshi)/[**QuGAcomp**](https://github.com/dritoshi/QuGAcomp)|R package for quantitative comparison of genome annotations||
@@ -88,7 +89,6 @@
 |4|[@yuifu](https://github.com/yuifu)/[**Hayashi2018**](https://github.com/yuifu/Hayashi2018)|Custom codes for Hayashi et al. (2018)||
 |4|[@yukiyanai](https://github.com/yukiyanai)/[**rm2-Bayes**](https://github.com/yukiyanai/rm2-Bayes)|Course materials for Research Methods in Political Science II at Kobe University||
 |4|[@yutannihilation](https://github.com/yutannihilation)/[**ansible-playbook-r**](https://github.com/yutannihilation/ansible-playbook-r)|An Ansible Playbook to deploy RStudio Server||
-|4|[@yutannihilation](https://github.com/yutannihilation)/[**qiitr**](https://github.com/yutannihilation/qiitr)|R binding for Qiita API v2|[:arrow_upper_right:](https://yutannihilation.github.io/qiitr/)|
 |3|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**WebScraping**](https://github.com/IshidaMotohiro/WebScraping)|C&R社『Rによるウェブスレクイピング』掲載スクリプト||
 |3|[@TomKellyGenetics](https://github.com/TomKellyGenetics)/[**vioplotx**](https://github.com/TomKellyGenetics/vioplotx)|A development version of the vioplot R package. This has been migrated to "vioplot" as version 0.3.||
 |3|[@advaitha](https://github.com/advaitha)/[**German-credit-default-analysis**](https://github.com/advaitha/German-credit-default-analysis)|Loan default analysis of German credit dataset||

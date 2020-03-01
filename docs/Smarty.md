@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|77|[@jhorology](https://github.com/jhorology)/[**nks-presets-collection**](https://github.com/jhorology/nks-presets-collection)|NKS(Native Kontrol Standard) presets collection||
+|80|[@jhorology](https://github.com/jhorology)/[**nks-presets-collection**](https://github.com/jhorology/nks-presets-collection)|NKS(Native Kontrol Standard) presets collection||
 |70|[@int128](https://github.com/int128)/[**devops-kompose**](https://github.com/int128/devops-kompose)|DevOps tools on Kubernetes with Helm charts||
 |36|[@int128](https://github.com/int128)/[**kubernetes-dashboard-proxy**](https://github.com/int128/kubernetes-dashboard-proxy)|[DEPRECATED] Helm chart with OpenID Connect Proxy for Kubernetes Dashboard||
 |27|[@clicktx](https://github.com/clicktx)/[**eccube-on-bootstrap3**](https://github.com/clicktx/eccube-on-bootstrap3)|Bootstrap3を使ったEC-CUBE用のデザインテンプレート||

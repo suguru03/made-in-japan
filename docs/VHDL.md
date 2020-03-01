@@ -4,9 +4,9 @@
 |26|[@ziyan](https://github.com/ziyan)/[**altera-de2-ann**](https://github.com/ziyan/altera-de2-ann)|Artificial Neural Network on Altera DE2||
 |25|[@chenxiao07](https://github.com/chenxiao07)/[**vhdl-nes**](https://github.com/chenxiao07/vhdl-nes)|nes emulator based on VHDL||
 |10|[@ikwzm](https://github.com/ikwzm)/[**msgpack-vhdl**](https://github.com/ikwzm/msgpack-vhdl)|MessagePack  implementation for VHDL||
-|8|[@ikwzm](https://github.com/ikwzm)/[**SECURE_HASH**](https://github.com/ikwzm/SECURE_HASH)|SHA-1,SHA-256,SHA-512 Secure Hash Generator written in VHDL(RTL) for FPGA(Xilinx and Altera).||
 |8|[@nyuichi](https://github.com/nyuichi)/[**GAIA3**](https://github.com/nyuichi/GAIA3)|GAIA Processor||
 |7|[@ikwzm](https://github.com/ikwzm)/[**MT32_Rand_Gen**](https://github.com/ikwzm/MT32_Rand_Gen)|Mersenne Twister Pseudo Random Number Generator written in VHDL(RTL) for FPGA(Xilinx and Altera).||
+|7|[@ikwzm](https://github.com/ikwzm)/[**SECURE_HASH**](https://github.com/ikwzm/SECURE_HASH)|SHA-1,SHA-256,SHA-512 Secure Hash Generator written in VHDL(RTL) for FPGA(Xilinx and Altera).||
 |4|[@ikwzm](https://github.com/ikwzm)/[**PipeWork**](https://github.com/ikwzm/PipeWork)|Pipework components is VHDL library for NoC(Network on Chip). ||
 |4|[@ikwzm](https://github.com/ikwzm)/[**qconv-strip-vhdl**](https://github.com/ikwzm/qconv-strip-vhdl)|This repository provides VHDL code for performing quantized convolution for deep neural networks on FPGA/ASIC.||
 |4|[@osafune](https://github.com/osafune)/[**max10_famimachime**](https://github.com/osafune/max10_famimachime)|||

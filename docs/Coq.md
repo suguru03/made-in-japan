@@ -11,6 +11,7 @@
 |4|[@yoshihiro503](https://github.com/yoshihiro503)/[**coqQuickCheck**](https://github.com/yoshihiro503/coqQuickCheck)|QuickCheck for Coq||
 |3|[@OKU1987](https://github.com/OKU1987)/[**FJ_whoas**](https://github.com/OKU1987/FJ_whoas)|||
 |3|[@myuon](https://github.com/myuon)/[**CatQ**](https://github.com/myuon/CatQ)|Formalization of Setoids-enriched Category Theory||
+|3|[@pi8027](https://github.com/pi8027)/[**mczify**](https://github.com/pi8027/mczify)|||
 |3|[@pi8027](https://github.com/pi8027)/[**sandpit**](https://github.com/pi8027/sandpit)|||
 |3|[@yoshihiro503](https://github.com/yoshihiro503)/[**coqio**](https://github.com/yoshihiro503/coqio)|Coq IO||
 

@@ -3,7 +3,7 @@
 |114|[@2vg](https://github.com/2vg)/[**mofuw**](https://github.com/2vg/mofuw)|mofuw is *MO*re *F*aster, *U*ltra minimal *W*ebserver.||
 |32|[@loloiccl](https://github.com/loloiccl)/[**nimly**](https://github.com/loloiccl/nimly)|Lexer Generator And Parser Generator as a library in Nim.||
 |24|[@CORDEA](https://github.com/CORDEA)/[**oauth**](https://github.com/CORDEA/oauth)|OAuth library for nim||
-|16|[@2vg](https://github.com/2vg)/[**mofuparser**](https://github.com/2vg/mofuparser)|mofuparser is hyper minimal ultra fast http parser.||
+|15|[@2vg](https://github.com/2vg)/[**mofuparser**](https://github.com/2vg/mofuparser)|mofuparser is hyper minimal ultra fast http parser.||
 |10|[@2vg](https://github.com/2vg)/[**nim-wasm-example**](https://github.com/2vg/nim-wasm-example)|example "Nim to wasm".||
 |10|[@2vg](https://github.com/2vg)/[**nimuv**](https://github.com/2vg/nimuv)|nimuv is libuv dynamic bind for nim.||
 |9|[@ucpr](https://github.com/ucpr)/[**Dach**](https://github.com/ucpr/Dach)|wip: SecHack365.||

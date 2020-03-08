@@ -1,29 +1,28 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|468|[@lmiller1990](https://github.com/lmiller1990)/[**vue-testing-handbook**](https://github.com/lmiller1990/vue-testing-handbook)|A guide on testing Vue components and applications|[:arrow_upper_right:](https://lmiller1990.github.io/vue-testing-handbook/)|
-|440|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
+|471|[@lmiller1990](https://github.com/lmiller1990)/[**vue-testing-handbook**](https://github.com/lmiller1990/vue-testing-handbook)|A guide on testing Vue components and applications|[:arrow_upper_right:](https://lmiller1990.github.io/vue-testing-handbook/)|
+|443|[@potato4d](https://github.com/potato4d)/[**nuxt-firebase-sns-example**](https://github.com/potato4d/nuxt-firebase-sns-example)|Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.|[:arrow_upper_right:](https://nuxt-firebase-sns-example.potato4d.me/)|
 |253|[@lepture](https://github.com/lepture)/[**vui**](https://github.com/lepture/vui)|A UI framework for mobile, built with Vue.|[:arrow_upper_right:](https://vui.github.io)|
-|248|[@moreta](https://github.com/moreta)/[**vue-search-select**](https://github.com/moreta/vue-search-select)|A Vue.js search select component|[:arrow_upper_right:](https://vue-search-select.netlify.com)|
-|215|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
-|151|[@nishinoshake](https://github.com/nishinoshake)/[**aws-rough**](https://github.com/nishinoshake/aws-rough)|AWSの料金を、日本円でざっくり|[:arrow_upper_right:](https://aws-rough.cc)|
+|249|[@moreta](https://github.com/moreta)/[**vue-search-select**](https://github.com/moreta/vue-search-select)|A Vue.js search select component|[:arrow_upper_right:](https://vue-search-select.netlify.com)|
+|216|[@kkeisuke](https://github.com/kkeisuke)/[**plantuml-editor**](https://github.com/kkeisuke/plantuml-editor)|PlantUML online demo client|[:arrow_upper_right:](https://plantuml-editor.kkeisuke.com)|
 |125|[@potato4d](https://github.com/potato4d)/[**vue-fixed-header**](https://github.com/potato4d/vue-fixed-header)|Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.|[:arrow_upper_right:](https://vue-fixed-header.potato4d.dev/)|
 |115|[@hanhdt](https://github.com/hanhdt)/[**vue-trix**](https://github.com/hanhdt/vue-trix)|Trix text editor component for Vue.js||
-|106|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
+|107|[@potato4d](https://github.com/potato4d)/[**nuxt-beginners-guide**](https://github.com/potato4d/nuxt-beginners-guide)|Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content.|[:arrow_upper_right:](https://nuxt-beginners-guide.elevenback.jp/)|
 |101|[@YuheiNakasaka](https://github.com/YuheiNakasaka)/[**vue-twitter-client**](https://github.com/YuheiNakasaka/vue-twitter-client)|Twitter client created with Vue.js + Electron||
 |56|[@nwtgck](https://github.com/nwtgck)/[**nipp**](https://github.com/nwtgck/nipp)|🎒 Portable Programmable Text Convertor Hosted on URL:  https://nwtgck.github.io/nipp||
+|49|[@miyaoka](https://github.com/miyaoka)/[**grid-generator**](https://github.com/miyaoka/grid-generator)|CSS Grid Layout generator|[:arrow_upper_right:](https://vue-grid-generator.netlify.com/)|
 |48|[@andoshin11](https://github.com/andoshin11)/[**vue-cli-plugin-nuxt-starter-template**](https://github.com/andoshin11/vue-cli-plugin-nuxt-starter-template)|Nuxt.js starter project template for vue-cli v3. https://starter.nuxtjs.org||
-|48|[@miyaoka](https://github.com/miyaoka)/[**grid-generator**](https://github.com/miyaoka/grid-generator)|CSS Grid Layout generator|[:arrow_upper_right:](https://vue-grid-generator.netlify.com/)|
 |44|[@meganetaaan](https://github.com/meganetaaan)/[**vue-maze**](https://github.com/meganetaaan/vue-maze)|A Vue.js component of a simple maze game.||
 |40|[@sunya9](https://github.com/sunya9)/[**reveal-editor**](https://github.com/sunya9/reveal-editor)|Electron+Vue+bulma+SimpleMDE+reveal.js = Reveal editor||
-|37|[@hisasann](https://github.com/hisasann)/[**typescript-nuxtjs-boilerplate**](https://github.com/hisasann/typescript-nuxtjs-boilerplate)|Deprecated: :bento: Nuxt.js with TypeScript and Run with docker and docker-compose|[:arrow_upper_right:](https://typescript-nuxtjs-boilerplate.netlify.com/example)|
-|32|[@potato4d](https://github.com/potato4d)/[**how-to-safety-env-use-in-nuxt**](https://github.com/potato4d/how-to-safety-env-use-in-nuxt)|Safe env vars handling sample by Nuxt.js project||
+|38|[@hisasann](https://github.com/hisasann)/[**typescript-nuxtjs-boilerplate**](https://github.com/hisasann/typescript-nuxtjs-boilerplate)|Deprecated: :bento: Nuxt.js with TypeScript and Run with docker and docker-compose|[:arrow_upper_right:](https://typescript-nuxtjs-boilerplate.netlify.com/example)|
+|33|[@potato4d](https://github.com/potato4d)/[**how-to-safety-env-use-in-nuxt**](https://github.com/potato4d/how-to-safety-env-use-in-nuxt)|Safe env vars handling sample by Nuxt.js project||
 |29|[@miyaoka](https://github.com/miyaoka)/[**gh-blog**](https://github.com/miyaoka/gh-blog)|GitHub Issue as Blog|[:arrow_upper_right:](https://gh-blog.netlify.com/)|
 |28|[@YanceyOfficial](https://github.com/YanceyOfficial)/[**taobao-shopping-cart**](https://github.com/YanceyOfficial/taobao-shopping-cart)|A shopping cart  by Vue.js|[:arrow_upper_right:](https://shopping-cart.yancey.app)|
 |27|[@hibiyasleep](https://github.com/hibiyasleep)/[**ikegami**](https://github.com/hibiyasleep/ikegami)|Horizontal FFXIV Miniparse Overlay||
 |26|[@Pitu](https://github.com/Pitu)/[**vue-isyourpasswordsafe**](https://github.com/Pitu/vue-isyourpasswordsafe)|A small utility written in Vue that checks if the given password has been leaked against the Have I Been Pwned API.|[:arrow_upper_right:](https://pitu.github.io/vue-isyourpasswordsafe)|
+|25|[@ktsn](https://github.com/ktsn)/[**vue-ast-explorer**](https://github.com/ktsn/vue-ast-explorer)|Vue template AST explorer https://ktsn.github.io/vue-ast-explorer/||
 |25|[@mysticatea](https://github.com/mysticatea)/[**vue-eslint-editor**](https://github.com/mysticatea/vue-eslint-editor)|A code editor component to play ESLint.|[:arrow_upper_right:](http://vue-eslint-editor.mysticatea.dev/)|
 |25|[@potato4d](https://github.com/potato4d)/[**vue-dev-template**](https://github.com/potato4d/vue-dev-template)|[deprecated] Vue.js development template.|[:arrow_upper_right:](http://qiita.com/potato4d/items/55a60f21c26bf889afd5)|
-|24|[@ktsn](https://github.com/ktsn)/[**vue-ast-explorer**](https://github.com/ktsn/vue-ast-explorer)|Vue template AST explorer https://ktsn.github.io/vue-ast-explorer/||
 |24|[@lmiller1990](https://github.com/lmiller1990)/[**grahql-vue-example**](https://github.com/lmiller1990/grahql-vue-example)|An article showing how to make a GraphQL server and query with vue|[:arrow_upper_right:](https://medium.com/@lachlanmiller_52885/graphql-basics-and-practical-examples-with-vue-6b649b9685e0)|
 |23|[@LISTEN-moe](https://github.com/LISTEN-moe)/[**desktop-app**](https://github.com/LISTEN-moe/desktop-app)|Official LISTEN.moe Desktop Client|[:arrow_upper_right:](https://listen.moe/apps)|
 |21|[@frandiox](https://github.com/frandiox)/[**vue-onsenui-kitchensink**](https://github.com/frandiox/vue-onsenui-kitchensink)|Vue.js + Onsen UI Kitchen Sink Example||
@@ -42,8 +41,8 @@
 |16|[@sunya9](https://github.com/sunya9)/[**beta**](https://github.com/sunya9/beta)|pnut.io web client.|[:arrow_upper_right:](https://beta.pnut.io)|
 |16|[@yamakadi](https://github.com/yamakadi)/[**expense-tracker**](https://github.com/yamakadi/expense-tracker)|An open source PWA for expense/income tracking|[:arrow_upper_right:](https://expense-tracker-demo-1.firebaseapp.com/)|
 |15|[@azu](https://github.com/azu)/[**github-ribbon-generator**](https://github.com/azu/github-ribbon-generator)|GitHub Ribbon Generator on Web.|[:arrow_upper_right:](https://azu.github.io/github-ribbon-generator/)|
+|14|[@andoshin11](https://github.com/andoshin11)/[**nuxt-typescript-example**](https://github.com/andoshin11/nuxt-typescript-example)|Example Application with Nuxt.js + TypeScript||
 |14|[@nwtgck](https://github.com/nwtgck)/[**piping-ui-web**](https://github.com/nwtgck/piping-ui-web)|Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP|[:arrow_upper_right:](https://piping-ui.org)|
-|13|[@andoshin11](https://github.com/andoshin11)/[**nuxt-typescript-example**](https://github.com/andoshin11/nuxt-typescript-example)|Example Application with Nuxt.js + TypeScript||
 |13|[@planethouki](https://github.com/planethouki)/[**nem2-test-wallet-nuxt**](https://github.com/planethouki/nem2-test-wallet-nuxt)|NEM2 test wallet||
 |13|[@potato4d](https://github.com/potato4d)/[**vue-typescript-adcal-examples**](https://github.com/potato4d/vue-typescript-adcal-examples)|||
 |13|[@sho-yamane](https://github.com/sho-yamane)/[**vue-bento**](https://github.com/sho-yamane/vue-bento)|CSS framework 'MUSUBii' for Vue.js (Atomic Design)||
@@ -73,6 +72,7 @@
 |7|[@utatti](https://github.com/utatti)/[**futaba**](https://github.com/utatti/futaba)|Image personalization with TensorFlow.js|[:arrow_upper_right:](https://github.com/utatti/futaba)|
 |7|[@ysakasin](https://github.com/ysakasin)/[**saipage**](https://github.com/ysakasin/saipage)|A diceroll tool for TRPG|[:arrow_upper_right:](https://ysakasin.github.io/saipage/)|
 |6|[@argelius](https://github.com/argelius)/[**vue-onsenui**](https://github.com/argelius/vue-onsenui)|Vue components for Onsen UI||
+|6|[@dsh0416](https://github.com/dsh0416)/[**petri-editor**](https://github.com/dsh0416/petri-editor)|An Visual Editor for Petri Net||
 |6|[@long-af](https://github.com/long-af)/[**website**](https://github.com/long-af/website)|||
 |6|[@nakajmg](https://github.com/nakajmg)/[**cgmd-browser**](https://github.com/nakajmg/cgmd-browser)|Realtime preview for codegrid-markdown||
 |6|[@nwtgck](https://github.com/nwtgck)/[**piping-draw-web**](https://github.com/nwtgck/piping-draw-web)|🎨 End-to-End Encryption Share Drawing via Piping Server  https://piping-draw.netlify.com||
@@ -83,7 +83,6 @@
 |5|[@argelius](https://github.com/argelius)/[**vue-onsenui-sample**](https://github.com/argelius/vue-onsenui-sample)|A sample app using Vue.js 2.0 and Onsen UI 2.0||
 |5|[@asus4](https://github.com/asus4)/[**facial-landmark-annotation**](https://github.com/asus4/facial-landmark-annotation)|Facial landmark annotation tool|[:arrow_upper_right:](https://asus4.github.io/facial-landmark-annotation/)|
 |5|[@aytdm](https://github.com/aytdm)/[**hello-nuxt**](https://github.com/aytdm/hello-nuxt)|This is a example application of Nuxt.js + Element-ui + axios.||
-|5|[@dsh0416](https://github.com/dsh0416)/[**petri-editor**](https://github.com/dsh0416/petri-editor)|An Visual Editor for Petri Net||
 |5|[@hakatashi](https://github.com/hakatashi)/[**tokyo-olym.pics**](https://github.com/hakatashi/tokyo-olym.pics)||[:arrow_upper_right:](https://tokyo-olym.pics/)|
 |5|[@hypermkt](https://github.com/hypermkt)/[**vuejs-samples**](https://github.com/hypermkt/vuejs-samples)|||
 |5|[@jacoyutorius](https://github.com/jacoyutorius)/[**vue-cognito-graphql**](https://github.com/jacoyutorius/vue-cognito-graphql)|AWS Amplify + AppSync + VueでDynamodBを参照するアプリケーションのサンプル。  画面からPOSTした内容をGraphQLのsubscriptionで受け取る。||
@@ -123,6 +122,7 @@
 |3|[@fukuokago](https://github.com/fukuokago)/[**fukuokago.dev**](https://github.com/fukuokago/fukuokago.dev)|The portal for Fukuoka.go||
 |3|[@hibiyasleep](https://github.com/hibiyasleep)/[**teruteru**](https://github.com/hibiyasleep/teruteru)|Eorzea Weather Reporter||
 |3|[@jacoyutorius](https://github.com/jacoyutorius)/[**nuxt_firebase_kpt**](https://github.com/jacoyutorius/nuxt_firebase_kpt)|KPT by Nuxt + Firebase||
+|3|[@junkboy0315](https://github.com/junkboy0315)/[**vue-responsive-youtube**](https://github.com/junkboy0315/vue-responsive-youtube)|Vue component for embedding responsive YouTube iframes||
 |3|[@miyaoka](https://github.com/miyaoka)/[**siro-memo**](https://github.com/miyaoka/siro-memo)|Siro blog with Contentful & Nuxt|[:arrow_upper_right:](https://siro-memo.netlify.com/)|
 |3|[@n11sh1](https://github.com/n11sh1)/[**vue-pwa-tutorial**](https://github.com/n11sh1/vue-pwa-tutorial)|Vue CLI 3 + PWA|[:arrow_upper_right:](https://vue-pwa-tutorial.firebaseapp.com/)|
 |3|[@pixelgram](https://github.com/pixelgram)/[**official2017**](https://github.com/pixelgram/official2017)|official site|[:arrow_upper_right:](https://pixelgram.jp)|

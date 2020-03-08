@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|545|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
-|356|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
-|228|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
+|546|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
+|357|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
+|232|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
 |112|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
 |72|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
 |44|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**ClassifierToolbox**](https://github.com/hiroyuki-kasai/ClassifierToolbox)|A MATLAB toolbox for classifier: Version 1.0.7||
@@ -14,8 +14,8 @@
 |20|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**GDLibrary**](https://github.com/hiroyuki-kasai/GDLibrary)|Matlab library for gradient descent algorithms: Version 1.0.1||
 |20|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**SparseGDLibrary**](https://github.com/hiroyuki-kasai/SparseGDLibrary)|MATLAB library of gradient descent algorithms for sparse modeling: Version 1.0.3||
 |17|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**OLSTEC**](https://github.com/hiroyuki-kasai/OLSTEC)|OnLine Low-rank Subspace tracking by TEnsor CP Decomposition in Matlab: Version 1.0.1||
+|15|[@ikuwow](https://github.com/ikuwow)/[**inpainting_criminisi2004**](https://github.com/ikuwow/inpainting_criminisi2004)|MATLAB Implementation of inpainting Algorithm by A. Criminisi (2004)||
 |14|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**HybridPrecodingOpt**](https://github.com/hiroyuki-kasai/HybridPrecodingOpt)|Optimization algorithms for hybrid precoding in mmWave MIMO systems: Version 1.1.0||
-|14|[@ikuwow](https://github.com/ikuwow)/[**inpainting_criminisi2004**](https://github.com/ikuwow/inpainting_criminisi2004)|MATLAB Implementation of inpainting Algorithm by A. Criminisi (2004)||
 |13|[@ymatsunaga](https://github.com/ymatsunaga)/[**mdtoolbox**](https://github.com/ymatsunaga/mdtoolbox)|MDToolbox: A MATLAB/Octave toolbox for statistical analysis of molecular dynamics trajectories|[:arrow_upper_right:](http://mdtoolbox.readthedocs.org/)|
 |10|[@bobbens](https://github.com/bobbens)/[**gfmm**](https://github.com/bobbens/gfmm)|Code for the paper 'Geodesic Finite Mixture Model'.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/gfmm/)|
 |10|[@meshgi](https://github.com/meshgi)/[**Histogram_of_Color_Advancements**](https://github.com/meshgi/Histogram_of_Color_Advancements)|A Comparison for Performance of Different Variations of Histogram of Colors and Corresponding Distance Measure||

@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|68|[@nekop](https://github.com/nekop)/[**openshift-sandbox**](https://github.com/nekop/openshift-sandbox)|||
-|56|[@odashi](https://github.com/odashi)/[**small_parallel_enja**](https://github.com/odashi/small_parallel_enja)|50k English-Japanese Parallel Corpus for Machine Translation Benchmark.||
+|69|[@nekop](https://github.com/nekop)/[**openshift-sandbox**](https://github.com/nekop/openshift-sandbox)|||
+|57|[@odashi](https://github.com/odashi)/[**small_parallel_enja**](https://github.com/odashi/small_parallel_enja)|50k English-Japanese Parallel Corpus for Machine Translation Benchmark.||
 |36|[@ryuichiueda](https://github.com/ryuichiueda)/[**ShellGeiData**](https://github.com/ryuichiueda/ShellGeiData)|Files for practice of shellgei||
 |6|[@maoe](https://github.com/maoe)/[**sensu-run**](https://github.com/maoe/sensu-run)|A tool to send command execution results to Sensu||
 |5|[@FREEWING-JP](https://github.com/FREEWING-JP)/[**OrangePi_GPU**](https://github.com/FREEWING-JP/OrangePi_GPU)|Mali400,Mali450||

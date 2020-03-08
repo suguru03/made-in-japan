@@ -10,17 +10,16 @@
 |57|[@hamano](https://github.com/hamano)/[**explore-flask-ja**](https://github.com/hamano/explore-flask-ja)|Explore Flask 日本語版||
 |55|[@guicho271828](https://github.com/guicho271828)/[**aaai-template**](https://github.com/guicho271828/aaai-template)|latex template for various conferences||
 |54|[@hamano](https://github.com/hamano)/[**the-little-mongodb-book**](https://github.com/hamano/the-little-mongodb-book)|MongoDBの薄い本(The Little MongoDB Book)|[:arrow_upper_right:](http://www.cuspy.org/diary/2012-04-17)|
-|54|[@jilljenn](https://github.com/jilljenn)/[**ktm**](https://github.com/jilljenn/ktm)|Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing|[:arrow_upper_right:](https://arxiv.org/abs/1811.03388)|
 |47|[@mizzy](https://github.com/mizzy)/[**serverspec-thesis**](https://github.com/mizzy/serverspec-thesis)|||
-|38|[@vvakame](https://github.com/vvakame)/[**graphql-schema-guide**](https://github.com/vvakame/graphql-schema-guide)|GraphQLスキーマのあれこれをいい感じにする本||
+|39|[@vvakame](https://github.com/vvakame)/[**graphql-schema-guide**](https://github.com/vvakame/graphql-schema-guide)|GraphQLスキーマのあれこれをいい感じにする本||
 |36|[@pi8027](https://github.com/pi8027)/[**typeinfer**](https://github.com/pi8027/typeinfer)|Type inference in OCaml|[:arrow_upper_right:](https://github.com/pi8027/typeinfer)|
 |32|[@oist](https://github.com/oist)/[**LaTeX-templates**](https://github.com/oist/LaTeX-templates)|Graduate School LaTeX templates for Lab rotation proposal + report, OIST beamer and Thesis + thesis proposal||
 |28|[@vvakame](https://github.com/vvakame)/[**review-css-typesetting**](https://github.com/vvakame/review-css-typesetting)|CSS組版やっていき！||
 |26|[@jilljenn](https://github.com/jilljenn)/[**business-card**](https://github.com/jilljenn/business-card)|A business card in LaTeX||
 |22|[@hakatashi](https://github.com/hakatashi)/[**UT-notebooks**](https://github.com/hakatashi/UT-notebooks)|Collection of my notebooks taken in UT||
 |21|[@takahashim](https://github.com/takahashim)/[**review-sample-book**](https://github.com/takahashim/review-sample-book)|ReVIEWの書籍サンプルデータです。||
+|20|[@uribo](https://github.com/uribo)/[**lab.note**](https://github.com/uribo/lab.note)|:notebook_with_decorative_cover: Create Laboratory Note and Report Using R Markdown||
 |19|[@kentaro](https://github.com/kentaro)/[**Bancor_Protocol_Whitepaper_ja**](https://github.com/kentaro/Bancor_Protocol_Whitepaper_ja)|Japanese Translation of The Bancor Protocol Whitepaper||
-|19|[@uribo](https://github.com/uribo)/[**lab.note**](https://github.com/uribo/lab.note)|:notebook_with_decorative_cover: Create Laboratory Note and Report Using R Markdown||
 |17|[@Runnrairu](https://github.com/Runnrairu)/[**machinelearning_text**](https://github.com/Runnrairu/machinelearning_text)|||
 |17|[@acgotaku](https://github.com/acgotaku)/[**USTC-SSE-THESIS**](https://github.com/acgotaku/USTC-SSE-THESIS)|适用于中科大软件学院工程硕士的Latex模板||
 |17|[@hitode909](https://github.com/hitode909)/[**soturon**](https://github.com/hitode909/soturon)|卒論||
@@ -29,9 +28,9 @@
 |14|[@vvakame](https://github.com/vvakame)/[**apollo-swamped-book**](https://github.com/vvakame/apollo-swamped-book)|||
 |13|[@hamano](https://github.com/hamano)/[**zguide-ja**](https://github.com/hamano/zguide-ja)|||
 |13|[@okomok](https://github.com/okomok)/[**strcat**](https://github.com/okomok/strcat)|TeX files for summary of category theory||
+|12|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**PythonRoboticsPaper**](https://github.com/AtsushiSakai/PythonRoboticsPaper)|PythonRoboticsPaper||
 |12|[@ueokande](https://github.com/ueokande)/[**jletteraddress**](https://github.com/ueokande/jletteraddress)|A document class of LaTeX for address side of the Japanese letter.||
 |12|[@unaoya](https://github.com/unaoya)/[**math_pdf**](https://github.com/unaoya/math_pdf)|||
-|11|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**PythonRoboticsPaper**](https://github.com/AtsushiSakai/PythonRoboticsPaper)|PythonRoboticsPaper||
 |11|[@nabettu](https://github.com/nabettu)/[**firestore-manual**](https://github.com/nabettu/firestore-manual)|Webサービスを作る本Firestore移行マニュアル||
 |10|[@2K20TC](https://github.com/2K20TC)/[**data-structures-tutorial**](https://github.com/2K20TC/data-structures-tutorial)|HackerEarth Data Structures practice series||
 |10|[@kmaed](https://github.com/kmaed)/[**biblatex-japanese**](https://github.com/kmaed/biblatex-japanese)|Japanese language support for biblatex||
@@ -53,6 +52,7 @@
 |5|[@frandiox](https://github.com/frandiox)/[**Nipponline**](https://github.com/frandiox/Nipponline)|||
 |5|[@frankdiox](https://github.com/frankdiox)/[**Nipponline**](https://github.com/frankdiox/Nipponline)|||
 |5|[@ken0nek](https://github.com/ken0nek)/[**thesis-sample**](https://github.com/ken0nek/thesis-sample)|卒業論文のテンプレート|[:arrow_upper_right:](http://qiita.com/ken0nek/items/f98f88c9c45d8499786e)|
+|5|[@kmuto](https://github.com/kmuto)/[**review-covermaker**](https://github.com/kmuto/review-covermaker)|Re:VIEW cover maker||
 |5|[@leios](https://github.com/leios)/[**CompPhys**](https://github.com/leios/CompPhys)|An open source computational physics book||
 |5|[@masui](https://github.com/masui)/[**Gear**](https://github.com/masui/Gear)|「超ナビゲーション」 - ダイヤル/ローラー/パドルなどだけで何でもブラウズする||
 |5|[@tdtds](https://github.com/tdtds)/[**free_as_in_freedom_2.0_ja**](https://github.com/tdtds/free_as_in_freedom_2.0_ja)|Free as in Freedom (2.0)の日本語訳をEPUB化してみる||
@@ -61,8 +61,8 @@
 |4|[@gfngfn](https://github.com/gfngfn)/[**expandparams**](https://github.com/gfngfn/expandparams)|(La)TeX packages that makes you save the cost of writing thousands of \expandafter.||
 |4|[@golangtokyo](https://github.com/golangtokyo)/[**shoten7**](https://github.com/golangtokyo/shoten7)|技術書典7に出したい原稿||
 |4|[@kazuito](https://github.com/kazuito)/[**jkreport**](https://github.com/kazuito/jkreport)|A LaTeX style file for "Jokkō" students.||
-|4|[@kmuto](https://github.com/kmuto)/[**review-covermaker**](https://github.com/kmuto/review-covermaker)|Re:VIEW cover maker||
 |4|[@liyang](https://github.com/liyang)/[**thesis**](https://github.com/liyang/thesis)|Compiling Concurrency Correctly—Verifying Software Transactional Memory||
+|4|[@ljvmiranda921](https://github.com/ljvmiranda921)/[**cv**](https://github.com/ljvmiranda921/cv)|Curriculum vitae of Lester James V. Miranda|[:arrow_upper_right:](https://www.dropbox.com/s/kmexsi1zxpa4829/LJMiranda_CV-latest.pdf?dl=0)|
 |4|[@natmark](https://github.com/natmark)/[**TeX-Textlint**](https://github.com/natmark/TeX-Textlint)|TeX auto calibration using textlint + prh||
 |4|[@ntddk](https://github.com/ntddk)/[**paper**](https://github.com/ntddk/paper)|LaTeX template||
 |4|[@nulab](https://github.com/nulab)/[**book-template**](https://github.com/nulab/book-template)||[:arrow_upper_right:](https://nulab-inc.com/ja/blog/nulab/infra-engineer-book/)|
@@ -77,7 +77,6 @@
 |3|[@inokappa](https://github.com/inokappa)/[**software_engineering**](https://github.com/inokappa/software_engineering)|放送大学大学院文化科学研究科 / ソフトウェア工学||
 |3|[@kurokis](https://github.com/kurokis)/[**FlightViewer**](https://github.com/kurokis/FlightViewer)|Analyzer / 2D-3D visualizer for multicopter flight log data developed for NEDO project||
 |3|[@leios](https://github.com/leios)/[**cv**](https://github.com/leios/cv)|A simple CV||
-|3|[@ljvmiranda921](https://github.com/ljvmiranda921)/[**cv**](https://github.com/ljvmiranda921/cv)|Curriculum vitae of Lester James V. Miranda|[:arrow_upper_right:](https://www.dropbox.com/s/kmexsi1zxpa4829/LJMiranda_CV-latest.pdf?dl=0)|
 |3|[@ljvmiranda921](https://github.com/ljvmiranda921)/[**thesis-manuscript**](https://github.com/ljvmiranda921/thesis-manuscript)|Thesis manuscript for Master Degree in Waseda University|[:arrow_upper_right:](http://bit.ly/ThesisManuscript-Miranda)|
 |3|[@masayukig](https://github.com/masayukig)/[**better-testing-through-statistics**](https://github.com/masayukig/better-testing-through-statistics)|||
 |3|[@nichiyoubi](https://github.com/nichiyoubi)/[**temporal_logic_ml**](https://github.com/nichiyoubi/temporal_logic_ml)|時相論理勉強会/Haskell勉強会 用リポジトリ||

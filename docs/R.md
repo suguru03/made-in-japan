@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|425|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
-|352|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
+|426|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
+|361|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
 |114|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
-|88|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
-|67|[@Ryo-N7](https://github.com/Ryo-N7)/[**tvthemes**](https://github.com/Ryo-N7/tvthemes)|ggplot2 themes and palettes based on your favorite TV shows|[:arrow_upper_right:](https://ryo-n7.github.io/tvthemes/)|
+|90|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
+|68|[@Ryo-N7](https://github.com/Ryo-N7)/[**tvthemes**](https://github.com/Ryo-N7/tvthemes)|ggplot2 themes and palettes based on your favorite TV shows|[:arrow_upper_right:](https://ryo-n7.github.io/tvthemes/)|
 |41|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
 |39|[@yutannihilation](https://github.com/yutannihilation)/[**ggsflabel**](https://github.com/yutannihilation/ggsflabel)|Labels for 'sf' with 'ggplot2'|[:arrow_upper_right:](https://yutannihilation.github.io/ggsflabel/)|
 |38|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
@@ -13,17 +13,17 @@
 |31|[@teramonagi](https://github.com/teramonagi)/[**fitbitr**](https://github.com/teramonagi/fitbitr)|Interact with Fitbit data in R using Fitbit API||
 |29|[@hoxo-m](https://github.com/hoxo-m)/[**SparkRext**](https://github.com/hoxo-m/SparkRext)|SparkR extension for closer to dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/SparkRext)|
 |25|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](https://uribo.github.io/jpmesh)|
-|20|[@uribo](https://github.com/uribo)/[**zipangu**](https://github.com/uribo/zipangu)|Japanese utility functions and data|[:arrow_upper_right:](https://uribo.github.io/zipangu)|
+|21|[@uribo](https://github.com/uribo)/[**zipangu**](https://github.com/uribo/zipangu)|Japanese utility functions and data|[:arrow_upper_right:](https://uribo.github.io/zipangu)|
 |17|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
 |17|[@yutannihilation](https://github.com/yutannihilation)/[**tiedr**](https://github.com/yutannihilation/tiedr)|Experimental package (not yet existent) for multi-gather() and multi-spread()||
 |16|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
 |16|[@yutannihilation](https://github.com/yutannihilation)/[**kokudosuuchi**](https://github.com/yutannihilation/kokudosuuchi)|国土数値情報ダウンロードサービスWeb APIからデータを取得するためのRパッケージです||
 |15|[@Quantisan](https://github.com/Quantisan)/[**nullwave**](https://github.com/Quantisan/nullwave)|active noise control for free||
 |15|[@hoxo-m](https://github.com/hoxo-m)/[**dplyrr**](https://github.com/hoxo-m/dplyrr)|Utilities for comfortable use of dplyr with databases||
+|14|[@hoxo-m](https://github.com/hoxo-m)/[**dplyr.teradata**](https://github.com/hoxo-m/dplyr.teradata)|A Teradata Backend for dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/dplyr.teradata)|
 |14|[@yutannihilation](https://github.com/yutannihilation)/[**estatapi**](https://github.com/yutannihilation/estatapi)|R package for e-Stat API in Japan||
 |14|[@yutannihilation](https://github.com/yutannihilation)/[**mediumr**](https://github.com/yutannihilation/mediumr)|R Interface to Medium API||
 |13|[@TomKellyGenetics](https://github.com/TomKellyGenetics)/[**leiden**](https://github.com/TomKellyGenetics/leiden)|Implementation of the Leiden algorithm called by reticulate in R. (CRAN)|[:arrow_upper_right:](https://leidenalg.readthedocs.io)|
-|13|[@hoxo-m](https://github.com/hoxo-m)/[**dplyr.teradata**](https://github.com/hoxo-m/dplyr.teradata)|A Teradata Backend for dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/dplyr.teradata)|
 |13|[@uribo](https://github.com/uribo)/[**volcano**](https://github.com/uribo/volcano)|Japan Volcano Rayshader 🌋||
 |11|[@hoxo-m](https://github.com/hoxo-m)/[**sGMRFmix**](https://github.com/hoxo-m/sGMRFmix)|Sparse Gaussian Markov Random Field Mixtures for Anomaly Detection||
 |11|[@kazutan](https://github.com/kazutan)/[**tubeplayR**](https://github.com/kazutan/tubeplayR)|play youtube by R||
@@ -47,20 +47,20 @@
 |8|[@wolfv](https://github.com/wolfv)/[**xtensor-showcase**](https://github.com/wolfv/xtensor-showcase)|A little demo how to bind an advanced data science algorithms to 4 different languages||
 |7|[@IshidaMotohiro](https://github.com/IshidaMotohiro)/[**TextMining**](https://github.com/IshidaMotohiro/TextMining)|||
 |7|[@PhDMeiwp](https://github.com/PhDMeiwp)/[**basicTrendline**](https://github.com/PhDMeiwp/basicTrendline)|💎(on CRAN) an R package for adding trendline and confidence interval of basic linear or nonlinear models and show equation to plot.|[:arrow_upper_right:](https://cran.r-project.org/web/packages/basicTrendline/index.html)|
+|7|[@chezou](https://github.com/chezou)/[**spacyr-sparklyr**](https://github.com/chezou/spacyr-sparklyr)|Example code of spacyr with sparklyr||
 |7|[@chezou](https://github.com/chezou)/[**sparklyr-distribute**](https://github.com/chezou/sparklyr-distribute)|Example code of spark_apply with sparklyr for CDH||
 |7|[@smallerhand](https://github.com/smallerhand)/[**portfolio**](https://github.com/smallerhand/portfolio)|my portfolios||
 |7|[@uribo](https://github.com/uribo)/[**Japan.useR**](https://github.com/uribo/Japan.useR)|:crossed_flags:Japanese R user community materials and information datasets||
 |7|[@uribo](https://github.com/uribo)/[**japan_pollinosis**](https://github.com/uribo/japan_pollinosis)|||
+|7|[@uribo](https://github.com/uribo)/[**urbanspacemap**](https://github.com/uribo/urbanspacemap)|46都道府県の県庁所在駅周辺の道路・鉄道網||
 |6|[@PhDMeiwp](https://github.com/PhDMeiwp)/[**Steel.Dwass.test**](https://github.com/PhDMeiwp/Steel.Dwass.test)|🍀an R package for Steel.Dwass.test (Non-parametric method, a post-hoc test after Kruskal-Wallis Test)||
 |6|[@ShotaOchi](https://github.com/ShotaOchi)/[**magickGUI**](https://github.com/ShotaOchi/magickGUI)|an R package that provides GUI tools for interactive image processing with the R package 'magick'||
 |6|[@TomKellyGenetics](https://github.com/TomKellyGenetics)/[**vioplot**](https://github.com/TomKellyGenetics/vioplot)|Development version of vioplot R package (CRAN maintainer)|[:arrow_upper_right:](https://CRAN.R-project.org/package=vioplot)|
-|6|[@chezou](https://github.com/chezou)/[**spacyr-sparklyr**](https://github.com/chezou/spacyr-sparklyr)|Example code of spacyr with sparklyr||
 |6|[@dichika](https://github.com/dichika)/[**jaguchi**](https://github.com/dichika/jaguchi)|||
 |6|[@dritoshi](https://github.com/dritoshi)/[**genesearchr**](https://github.com/dritoshi/genesearchr)|Fast full-text search in NCBI RefSeq, UniProt-KB and Genome DNA sequence||
 |6|[@lindsayrutter](https://github.com/lindsayrutter)/[**ggenealogy**](https://github.com/lindsayrutter/ggenealogy)|R package for visualizing genealogy datasets|[:arrow_upper_right:](https://cran.r-project.org/web/packages/ggenealogy)|
 |6|[@teramonagi](https://github.com/teramonagi)/[**oandar**](https://github.com/teramonagi/oandar)|R wrapper for the OANDA REST API (http://developer.oanda.com/rest-live/introduction/)||
 |6|[@uribo](https://github.com/uribo)/[**textlintr**](https://github.com/uribo/textlintr)|✅ Natural Language Linter Tools for 'R Markdown' and R Code 💯|[:arrow_upper_right:](https://uribo.github.io/textlintr/)|
-|6|[@uribo](https://github.com/uribo)/[**urbanspacemap**](https://github.com/uribo/urbanspacemap)|46都道府県の県庁所在駅周辺の道路・鉄道網||
 |6|[@uribo](https://github.com/uribo)/[**wakatimer**](https://github.com/uribo/wakatimer)|:hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.||
 |6|[@ymattu](https://github.com/ymattu)/[**rjumanpp**](https://github.com/ymattu/rjumanpp)|R Interface to JUMAN++||
 |6|[@yuifu](https://github.com/yuifu)/[**millefy**](https://github.com/yuifu/millefy)|Millefy: Genome browser-like visualization of single-cell RNA-seq dataset||

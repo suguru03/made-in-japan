@@ -2,31 +2,30 @@
 |---|---|---|---|
 |909|[@dvcrn](https://github.com/dvcrn)/[**markright**](https://github.com/dvcrn/markright)|➡ Electron powered markdown editor with live preview||
 |572|[@dvcrn](https://github.com/dvcrn)/[**proton**](https://github.com/dvcrn/proton)|space-atom. spacemacs and sublimious style editing in atom||
-|382|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
+|381|[@karad](https://github.com/karad)/[**lein_template_descjop**](https://github.com/karad/lein_template_descjop)|A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell).|[:arrow_upper_right:](http://descjop.org)|
 |328|[@liquidz](https://github.com/liquidz)/[**misaki**](https://github.com/liquidz/misaki)|Jekyll inspired static site generator in Clojure|[:arrow_upper_right:](http://liquidz.github.com/misaki/)|
 |269|[@kawasima](https://github.com/kawasima)/[**jagrid**](https://github.com/kawasima/jagrid)|Japanese-styled grid framework.||
 |153|[@runexec](https://github.com/runexec)/[**chp**](https://github.com/runexec/chp)|ClojureHomePage is a Compojure based web framework that allows you to write the backend and frontend with Clojure.|[:arrow_upper_right:](https://github.com/runexec/chp/)|
 |128|[@yokolet](https://github.com/yokolet)/[**clementine**](https://github.com/yokolet/clementine)|Gem for ClojureScript on Rails Asset Pipeline||
-|126|[@Quantisan](https://github.com/Quantisan)/[**docker-clojure**](https://github.com/Quantisan/docker-clojure)|Official Docker image for Clojure|[:arrow_upper_right:](https://hub.docker.com/_/clojure/)|
 |114|[@liquidz](https://github.com/liquidz)/[**clj-jwt**](https://github.com/liquidz/clj-jwt)|Clojure library for JSON Web Token(JWT)||
-|105|[@athos](https://github.com/athos)/[**kitchen-async**](https://github.com/athos/kitchen-async)|A Promise library for ClojureScript, or a poor man's core.async||
-|91|[@athos](https://github.com/athos)/[**Pinpointer**](https://github.com/athos/Pinpointer)|Pinpointer is yet another clojure.spec error reporter based on a precise error analysis||
+|107|[@athos](https://github.com/athos)/[**kitchen-async**](https://github.com/athos/kitchen-async)|A Promise library for ClojureScript, or a poor man's core.async||
+|93|[@athos](https://github.com/athos)/[**Pinpointer**](https://github.com/athos/Pinpointer)|Pinpointer is yet another clojure.spec error reporter based on a precise error analysis||
 |87|[@runexec](https://github.com/runexec)/[**Static-Prime**](https://github.com/runexec/Static-Prime)|A static website editor and server written in Clojure and ClojureScript.||
 |79|[@kawasima](https://github.com/kawasima)/[**back-channeling**](https://github.com/kawasima/back-channeling)|A thread floating typed chat system.||
+|71|[@athos](https://github.com/athos)/[**Postmortem**](https://github.com/athos/Postmortem)|A tiny value-oriented debugging tool for Clojure(Script), powered by transducers||
 |70|[@liquidz](https://github.com/liquidz)/[**dad**](https://github.com/liquidz/dad)|Small configuration management tool for Clojure||
-|69|[@athos](https://github.com/athos)/[**Postmortem**](https://github.com/athos/Postmortem)|A tiny value-oriented debugging tool for Clojure(Script), powered by transducers||
 |65|[@liquidz](https://github.com/liquidz)/[**jubot**](https://github.com/liquidz/jubot)|Chatbot framework in Clojure||
-|55|[@athos](https://github.com/athos)/[**JiSE**](https://github.com/athos/JiSE)|JiSE: Java in S-Expression||
-|55|[@hellonico](https://github.com/hellonico)/[**origami**](https://github.com/hellonico/origami)|OpenCV 4 Clojure Wrapper||
+|57|[@athos](https://github.com/athos)/[**JiSE**](https://github.com/athos/JiSE)|JiSE: Java in S-Expression||
+|56|[@hellonico](https://github.com/hellonico)/[**origami**](https://github.com/hellonico/origami)|OpenCV 4 Clojure Wrapper||
 |49|[@runexec](https://github.com/runexec)/[**equate**](https://github.com/runexec/equate)|A Clojure fact management library||
 |47|[@yokolet](https://github.com/yokolet)/[**hiccup-samples**](https://github.com/yokolet/hiccup-samples)|hiccup samples for clojure cookbook||
 |46|[@federkasten](https://github.com/federkasten)/[**butler**](https://github.com/federkasten/butler)|Bring Web Workers to ClojureScript||
 |41|[@federkasten](https://github.com/federkasten)/[**clucie**](https://github.com/federkasten/clucie)|Clojure for the Lucene||
 |36|[@dvcrn](https://github.com/dvcrn)/[**ajom**](https://github.com/dvcrn/ajom)|atom plugins in clojurescript||
 |32|[@hellonico](https://github.com/hellonico)/[**niclojure**](https://github.com/hellonico/niclojure)|Candid whitebook on Clojure ecosystem||
+|31|[@athos](https://github.com/athos)/[**Drains**](https://github.com/athos/Drains)|A new abstraction for flexible and efficient sequence aggregation in Clojure(Script)||
 |31|[@kawasima](https://github.com/kawasima)/[**darzana**](https://github.com/kawasima/darzana)| a DSL for backends-for-frontends (BFF)||
 |31|[@liquidz](https://github.com/liquidz)/[**cuma**](https://github.com/liquidz/cuma)|Extensible micro template engine for Clojure||
-|29|[@athos](https://github.com/athos)/[**Drains**](https://github.com/athos/Drains)|A new abstraction for flexible and efficient sequence aggregation in Clojure(Script)||
 |27|[@fukamachi](https://github.com/fukamachi)/[**L5**](https://github.com/fukamachi/L5)|Yet Another Presentation Tool for Lispers|[:arrow_upper_right:](http://e-arrows.sakura.ne.jp/l5/)|
 |26|[@kawasima](https://github.com/kawasima)/[**supreme-uploading**](https://github.com/kawasima/supreme-uploading)|至高のアップロード機能づくり||
 |25|[@kawasima](https://github.com/kawasima)/[**axebomber-clj**](https://github.com/kawasima/axebomber-clj)|The generator for Excel grid sheet (so-called Excel方眼紙).||
@@ -85,6 +84,7 @@
 |7|[@guillaume-nargeot](https://github.com/guillaume-nargeot)/[**project-euler-clojure**](https://github.com/guillaume-nargeot/project-euler-clojure)|My Clojure solutions to Project Euler||
 |7|[@halcat0x15a](https://github.com/halcat0x15a)/[**cljmacs**](https://github.com/halcat0x15a/cljmacs)|Emacs like editor.||
 |7|[@hellonico](https://github.com/hellonico)/[**cortex-tutorial**](https://github.com/hellonico/cortex-tutorial)|||
+|7|[@hellonico](https://github.com/hellonico)/[**zebra**](https://github.com/hellonico/zebra)|Google's ortools with Clojure||
 |7|[@lagenorhynque](https://github.com/lagenorhynque)/[**spec-examples**](https://github.com/lagenorhynque/spec-examples)|clojure.spec examples||
 |7|[@liquidz](https://github.com/liquidz)/[**testdoc**](https://github.com/liquidz/testdoc)|Yet another doctest implementation in Clojure||
 |7|[@syou6162](https://github.com/syou6162)/[**lda_clj**](https://github.com/syou6162/lda_clj)|Latent Dirichlet Allocation library written in clojure||
@@ -96,7 +96,6 @@
 |6|[@boxp](https://github.com/boxp)/[**puppeteer**](https://github.com/boxp/puppeteer)|A Slackbot for Deploying microservices to GKE Cluster.||
 |6|[@federkasten](https://github.com/federkasten)/[**ring-websocket-example**](https://github.com/federkasten/ring-websocket-example)|An example project for websocket server using ring-jetty/lein-ring-jetty||
 |6|[@haruyama](https://github.com/haruyama)/[**unixuser-clojure-commons**](https://github.com/haruyama/unixuser-clojure-commons)|a Clojure library.||
-|6|[@hellonico](https://github.com/hellonico)/[**zebra**](https://github.com/hellonico/zebra)|Google's ortools with Clojure||
 |6|[@kawasima](https://github.com/kawasima)/[**clj-jpa**](https://github.com/kawasima/clj-jpa)|The JPA library in the Clojure way||
 |6|[@liquidz](https://github.com/liquidz)/[**clj-text-decoration**](https://github.com/liquidz/clj-text-decoration)|Text decoration library||
 |6|[@liquidz](https://github.com/liquidz)/[**clj-xmas**](https://github.com/liquidz/clj-xmas)|:christmas_tree: :christmas_tree: :christmas_tree:||

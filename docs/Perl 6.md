@@ -1,6 +1,5 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|65|[@tokuhirom](https://github.com/tokuhirom)/[**p6-Crust**](https://github.com/tokuhirom/p6-Crust)|PSGI library stack for Perl6||
 |42|[@skaji](https://github.com/skaji)/[**mi6**](https://github.com/skaji/mi6)|minimal authoring tool for Raku|[:arrow_upper_right:](https://modules.raku.org/dist/App::Mi6:cpan:SKAJI)|
 |17|[@scmorrison](https://github.com/scmorrison)/[**uzu**](https://github.com/scmorrison/uzu)|Uzu is a static site generator with built-in web server, file modification watcher, live reload, i18n, themes, multi-page support, inject external data via local Perl 6 module, and external pre/post command execution.||
 |16|[@tokuhirom](https://github.com/tokuhirom)/[**p6-HTTP-Server-Tiny**](https://github.com/tokuhirom/p6-HTTP-Server-Tiny)|Web application server for Perl6||

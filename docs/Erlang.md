@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1333|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|1334|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
 |239|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
 |200|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |78|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
@@ -17,18 +17,18 @@
 |25|[@jj1bdx](https://github.com/jj1bdx)/[**tinymt-erlang**](https://github.com/jj1bdx/tinymt-erlang)|This software is no longer maintained. For archive/reference use only. -- Tiny Mersenne Twister (TinyMT) for Erlang||
 |22|[@rramsden](https://github.com/rramsden)/[**gen_gossip**](https://github.com/rramsden/gen_gossip)|Interface for implementing Gossip Protocols in Erlang||
 |21|[@cooldaemon](https://github.com/cooldaemon)/[**ermlia**](https://github.com/cooldaemon/ermlia)|The ermlia is Erlang implementation of Kademlia. This is easy key-value store.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/)|
-|21|[@higepon](https://github.com/higepon)/[**memcached-client**](https://github.com/higepon/memcached-client)|A memcached client library for Erlang.||
 |21|[@norton](https://github.com/norton)/[**qc**](https://github.com/norton/qc)|Wrappers for QuickCheck and PropEr testing tools||
+|20|[@higepon](https://github.com/higepon)/[**memcached-client**](https://github.com/higepon/memcached-client)|A memcached client library for Erlang.||
 |20|[@shino](https://github.com/shino)/[**kai**](https://github.com/shino/kai)|Kai is a distributed key-value datastore mainly inspired by Amazon's Dynamo. (fork from sourceforge)|[:arrow_upper_right:](https://sourceforge.net/apps/mediawiki/kai/index.php?title=Main_Page)|
 |19|[@voluntas](https://github.com/voluntas)/[**erlang_otp_self_study**](https://github.com/voluntas/erlang_otp_self_study)|||
 |17|[@sile](https://github.com/sile)/[**ppg**](https://github.com/sile/ppg)|Plumtree based Distributed Process Group||
 |16|[@jj1bdx](https://github.com/jj1bdx)/[**erltrek**](https://github.com/jj1bdx/erltrek)|An Erlang Star Trek game|[:arrow_upper_right:](http://jj1bdx.github.io/erltrek)|
+|15|[@everpeace](https://github.com/everpeace)/[**programming-erlang-code**](https://github.com/everpeace/programming-erlang-code)|erlang codes in "Programming Erlang" http://pragprog.com/book/jaerlang/programming-erlang||
 |15|[@kuenishi](https://github.com/kuenishi)/[**erezrdfh**](https://github.com/kuenishi/erezrdfh)|MessagePack MessageQueue without AMQP||
 |15|[@leo-project](https://github.com/leo-project)/[**leo_storage**](https://github.com/leo-project/leo_storage)|🚫 DEPRECATED: leo_storage was merged into leo-project/leofs|[:arrow_upper_right:](https://github.com/leo-project/leofs/tree/master/apps/leo_storage)|
 |15|[@mururu](https://github.com/mururu)/[**erlang-mruby**](https://github.com/mururu/erlang-mruby)|[WIP] mruby on erlang||
 |15|[@norton](https://github.com/norton)/[**asciiedoc**](https://github.com/norton/asciiedoc)|EDoc extension for generating HTML or GitHub-flavored Markdown from AsciiDoc sources||
 |14|[@chvanikoff](https://github.com/chvanikoff)/[**githubizer**](https://github.com/chvanikoff/githubizer)|automatic deploy from github to server||
-|14|[@everpeace](https://github.com/everpeace)/[**programming-erlang-code**](https://github.com/everpeace/programming-erlang-code)|erlang codes in "Programming Erlang" http://pragprog.com/book/jaerlang/programming-erlang||
 |14|[@leo-project](https://github.com/leo-project)/[**leo_object_storage**](https://github.com/leo-project/leo_object_storage)|leo_object_storage is a log-structured object/BLOB storage.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |13|[@chvanikoff](https://github.com/chvanikoff)/[**cowboyd**](https://github.com/chvanikoff/cowboyd)|Daemonized Cowboy web server||
 |12|[@kuenishi](https://github.com/kuenishi)/[**fluent-logger-erlang**](https://github.com/kuenishi/fluent-logger-erlang)|Moved.|[:arrow_upper_right:](https://github.com/fluent/fluent-logger-erlang)|

@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|17580|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|2036|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|17714|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|2039|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
 |476|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
-|417|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
+|423|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
 |241|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |206|[@stanaka](https://github.com/stanaka)/[**lightroom-google-photo-plugin**](https://github.com/stanaka/lightroom-google-photo-plugin)|||
 |134|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |105|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
 |68|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
 |60|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-driver-detection**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
-|57|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
+|58|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
 |46|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb**](https://github.com/nagadomi/kaggle-ndsb)|Code for National Data Science Bowl. 10th place.||
 |46|[@umegaya](https://github.com/umegaya)/[**ffiex**](https://github.com/umegaya/ffiex)|extend luajit ffi module to give more affinity to C codes||
 |43|[@hnakamur](https://github.com/hnakamur)/[**luajit-examples**](https://github.com/hnakamur/luajit-examples)|my example codes for LuaJIT||
@@ -22,13 +22,13 @@
 |27|[@nitoyon](https://github.com/nitoyon)/[**lua-console-lightroom-plugin**](https://github.com/nitoyon/lua-console-lightroom-plugin)|"Lua Console" plugin for Lightroom 3.0+||
 |26|[@safx](https://github.com/safx)/[**LightroomPlugin-ClarifaiTagger**](https://github.com/safx/LightroomPlugin-ClarifaiTagger)|A Lightroom plugin suggests keywords of photo for you||
 |25|[@kengonakajima](https://github.com/kengonakajima)/[**luvit-mysql**](https://github.com/kengonakajima/luvit-mysql)|Luvit port of node-mysql||
+|24|[@knu](https://github.com/knu)/[**hs-knu**](https://github.com/knu/hs-knu)|My Hammerspoon modules, mainly for keyboard customization||
 |22|[@tenntenn](https://github.com/tenntenn)/[**lupe**](https://github.com/tenntenn/lupe)|LUPE - Lua Debugger||
 |21|[@hetima](https://github.com/hetima)/[**hammerspoon-foundation_remapping**](https://github.com/hetima/hammerspoon-foundation_remapping)|Hammerspoon configuration script which remaps any keys for Sierra.||
-|21|[@knu](https://github.com/knu)/[**hs-knu**](https://github.com/knu/hs-knu)|My Hammerspoon modules, mainly for keyboard customization||
 |19|[@kenchan](https://github.com/kenchan)/[**dotfiles**](https://github.com/kenchan/dotfiles)|kenchan's dotfiles.||
 |18|[@DavidFeng](https://github.com/DavidFeng)/[**lua-flatbuffers**](https://github.com/DavidFeng/lua-flatbuffers)|flatbuffers library for Lua||
+|18|[@clear-code](https://github.com/clear-code)/[**xmlua**](https://github.com/clear-code/xmlua)|An user-friendly XML/HTML processing library for Lua based on libxml2|[:arrow_upper_right:](https://clear-code.github.io/xmlua/)|
 |17|[@10sr](https://github.com/10sr)/[**editorconfig-micro**](https://github.com/10sr/editorconfig-micro)|EditorConfig Plugin for micro Editor||
-|17|[@clear-code](https://github.com/clear-code)/[**xmlua**](https://github.com/clear-code/xmlua)|An user-friendly XML/HTML processing library for Lua based on libxml2|[:arrow_upper_right:](https://clear-code.github.io/xmlua/)|
 |14|[@fang2hou](https://github.com/fang2hou)/[**ElvUI_WindTools**](https://github.com/fang2hou/ElvUI_WindTools)|Enhanced Features for ElvUI||
 |14|[@miurahr](https://github.com/miurahr)/[**lua-nginx-osm**](https://github.com/miurahr/lua-nginx-osm)|OpenStreetMap extension for Nginx Lua module||
 |11|[@mzyy94](https://github.com/mzyy94)/[**ECHONET-Lite-dissector**](https://github.com/mzyy94/ECHONET-Lite-dissector)|ECHONET Lite プロトコル解析器 for Wireshark||

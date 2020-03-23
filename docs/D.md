@@ -23,12 +23,12 @@
 |7|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-graphviz**](https://github.com/ShigekiKarita/d-graphviz)|Graphviz utility for D||
 |7|[@alphaKAI](https://github.com/alphaKAI)/[**doco**](https://github.com/alphaKAI/doco)|Yet another fuzzy text selector.||
 |7|[@kiridaruma](https://github.com/kiridaruma)/[**kisaragi**](https://github.com/kiridaruma/kisaragi)|Realtime Web service framework きさらぎ(kisaragi)||
+|7|[@koji-kojiro](https://github.com/koji-kojiro)/[**matplotlib-d**](https://github.com/koji-kojiro/matplotlib-d)|||
 |6|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**KanaKanjiConversion**](https://github.com/IshitaTakeshi/KanaKanjiConversion)|Statistical Kana Kanji Conversion||
 |6|[@Pctg-x8](https://github.com/Pctg-x8)/[**nanovg-d**](https://github.com/Pctg-x8/nanovg-d)|NanoVG porting for dlang||
 |6|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**numir**](https://github.com/ShigekiKarita/numir)|numpy-like API wrappers of mir||
 |6|[@alphaKAI](https://github.com/alphaKAI)/[**unlocker**](https://github.com/alphaKAI/unlocker)|unlock/lock your PC by touching with FeliCa||
 |6|[@karahiyo](https://github.com/karahiyo)/[**btrace**](https://github.com/karahiyo/btrace)|[https://kenai.com/projects/btrace/]'s project.||
-|6|[@koji-kojiro](https://github.com/koji-kojiro)/[**matplotlib-d**](https://github.com/koji-kojiro/matplotlib-d)|||
 |6|[@kubo39](https://github.com/kubo39)/[**elfhook.d**](https://github.com/kubo39/elfhook.d)|monkey patching for shared object.||
 |6|[@shawnps](https://github.com/shawnps)/[**kanjihub**](https://github.com/shawnps/kanjihub)|a hub for kanji||
 |5|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-speech**](https://github.com/ShigekiKarita/d-speech)||[:arrow_upper_right:](https://shigekikarita.github.io/d-speech/dspeech.html)|

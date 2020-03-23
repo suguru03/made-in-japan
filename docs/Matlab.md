@@ -1,19 +1,19 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|546|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
-|357|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
-|232|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
-|112|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
+|550|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
+|359|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
+|237|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
+|113|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
 |72|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
-|44|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**ClassifierToolbox**](https://github.com/hiroyuki-kasai/ClassifierToolbox)|A MATLAB toolbox for classifier: Version 1.0.7||
+|45|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**ClassifierToolbox**](https://github.com/hiroyuki-kasai/ClassifierToolbox)|A MATLAB toolbox for classifier: Version 1.0.7||
 |39|[@ikuwow](https://github.com/ikuwow)/[**PatchMatch**](https://github.com/ikuwow/PatchMatch)|The PatchMatch algorithm on MATLAB||
-|33|[@vanhuyz](https://github.com/vanhuyz)/[**coursera-ml**](https://github.com/vanhuyz/coursera-ml)|For study purpose only||
+|34|[@vanhuyz](https://github.com/vanhuyz)/[**coursera-ml**](https://github.com/vanhuyz/coursera-ml)|For study purpose only||
 |26|[@meshgi](https://github.com/meshgi)/[**RGBD_Particle_Filter_Tracker**](https://github.com/meshgi/RGBD_Particle_Filter_Tracker)|Enhancing Probabilistic Appearance-Based Object Tracking with Depth Information: Multiple Object Tracking under Occlusion||
+|22|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**GDLibrary**](https://github.com/hiroyuki-kasai/GDLibrary)|Matlab library for gradient descent algorithms: Version 1.0.1||
 |22|[@jmlipman](https://github.com/jmlipman)/[**LAID**](https://github.com/jmlipman/LAID)|Lipman's Artificial Intelligence Directory||
 |21|[@KamitaniLab](https://github.com/KamitaniLab)/[**VBCCA**](https://github.com/KamitaniLab/VBCCA)|Variational Bayesian Canonical Correlation Analysis||
-|20|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**GDLibrary**](https://github.com/hiroyuki-kasai/GDLibrary)|Matlab library for gradient descent algorithms: Version 1.0.1||
-|20|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**SparseGDLibrary**](https://github.com/hiroyuki-kasai/SparseGDLibrary)|MATLAB library of gradient descent algorithms for sparse modeling: Version 1.0.3||
-|17|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**OLSTEC**](https://github.com/hiroyuki-kasai/OLSTEC)|OnLine Low-rank Subspace tracking by TEnsor CP Decomposition in Matlab: Version 1.0.1||
+|21|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**SparseGDLibrary**](https://github.com/hiroyuki-kasai/SparseGDLibrary)|MATLAB library of gradient descent algorithms for sparse modeling: Version 1.0.3||
+|18|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**OLSTEC**](https://github.com/hiroyuki-kasai/OLSTEC)|OnLine Low-rank Subspace tracking by TEnsor CP Decomposition in Matlab: Version 1.0.1||
 |15|[@ikuwow](https://github.com/ikuwow)/[**inpainting_criminisi2004**](https://github.com/ikuwow/inpainting_criminisi2004)|MATLAB Implementation of inpainting Algorithm by A. Criminisi (2004)||
 |14|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**HybridPrecodingOpt**](https://github.com/hiroyuki-kasai/HybridPrecodingOpt)|Optimization algorithms for hybrid precoding in mmWave MIMO systems: Version 1.1.0||
 |13|[@ymatsunaga](https://github.com/ymatsunaga)/[**mdtoolbox**](https://github.com/ymatsunaga/mdtoolbox)|MDToolbox: A MATLAB/Octave toolbox for statistical analysis of molecular dynamics trajectories|[:arrow_upper_right:](http://mdtoolbox.readthedocs.org/)|

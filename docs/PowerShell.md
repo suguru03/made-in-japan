@@ -10,9 +10,9 @@
 |7|[@guitarrapc](https://github.com/guitarrapc)/[**DSCSample**](https://github.com/guitarrapc/DSCSample)|DSC Sample for Windows PowerShell||
 |7|[@guitarrapc](https://github.com/guitarrapc)/[**WinCredManager**](https://github.com/guitarrapc/WinCredManager)|PowerShell Credential Store wrapper to use Windows Credential Manager||
 |6|[@guitarrapc](https://github.com/guitarrapc)/[**ScoopPlaybook**](https://github.com/guitarrapc/ScoopPlaybook)|PowerShell Module to Play Scoop like Ansible|[:arrow_upper_right:](https://www.powershellgallery.com/packages/ScoopPlaybook)|
+|5|[@TsuyoshiUshio](https://github.com/TsuyoshiUshio)/[**NomadClusterARM**](https://github.com/TsuyoshiUshio/NomadClusterARM)|HashiCorp Nomad Cluster by ARM||
 |5|[@runceel](https://github.com/runceel)/[**uwptodoapp**](https://github.com/runceel/uwptodoapp)|todo app||
 |5|[@stknohg](https://github.com/stknohg)/[**PSCoreUpdate**](https://github.com/stknohg/PSCoreUpdate)|PowerShell Core update tool.||
-|4|[@TsuyoshiUshio](https://github.com/TsuyoshiUshio)/[**NomadClusterARM**](https://github.com/TsuyoshiUshio/NomadClusterARM)|HashiCorp Nomad Cluster by ARM||
 |4|[@kenakamu](https://github.com/kenakamu)/[**Microsoft.ADAL.PowerShell**](https://github.com/kenakamu/Microsoft.ADAL.PowerShell)|PowerShell module wrapping Azure Active Directory Authentication Library (ADAL)||
 |4|[@muziyoshiz](https://github.com/muziyoshiz)/[**admiral_stats_exporter**](https://github.com/muziyoshiz/admiral_stats_exporter)|艦これアーケードのプレイデータをエクスポートするツール||
 |4|[@zaki-yama](https://github.com/zaki-yama)/[**win10-vm-with-vagrant-ansible**](https://github.com/zaki-yama/win10-vm-with-vagrant-ansible)|||

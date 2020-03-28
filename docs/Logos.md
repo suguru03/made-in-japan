@@ -12,9 +12,10 @@
 |7|[@r-plus](https://github.com/r-plus)/[**MenuSupport**](https://github.com/r-plus/MenuSupport)|Simply plugin loader for iOS system menu.||
 |4|[@r-plus](https://github.com/r-plus)/[**Fascy**](https://github.com/r-plus/Fascy)|Fast scroll fixity.||
 |3|[@oguna](https://github.com/oguna)/[**AssimpSharp**](https://github.com/oguna/AssimpSharp)|This is the library to parse some 3d formats written in C#.||
+|3|[@r-plus](https://github.com/r-plus)/[**AnyKeyTrackpad**](https://github.com/r-plus/AnyKeyTrackpad)|Enter trackpad mode by long press anykey||
 |3|[@r-plus](https://github.com/r-plus)/[**AppListFixer**](https://github.com/r-plus/AppListFixer)|Fix crash when get large size of icon image via AppList on iOS 13. Address to https://github.com/rpetrich/AppList/issues/36||
 |3|[@r-plus](https://github.com/r-plus)/[**Dictator**](https://github.com/r-plus/Dictator)|Force dictation language to use in all keyboard type.||
-|3|[@r-plus](https://github.com/r-plus)/[**Mesalation**](https://github.com/r-plus/Mesalation)|Default passcode grace period with TouchID.||
+|3|[@r-plus](https://github.com/r-plus)/[**Mesalation**](https://github.com/r-plus/Mesalation)|Default passcode grace period with TouchID/FaceID.||
 |3|[@r-plus](https://github.com/r-plus)/[**NewTabSearch**](https://github.com/r-plus/NewTabSearch)|Search behavior from current to new.||
 |3|[@wakinchan](https://github.com/wakinchan)/[**CCNowPlaying**](https://github.com/wakinchan/CCNowPlaying)|Post #NowPlaying from Control Center||
 |3|[@yvt](https://github.com/yvt)/[**BloodyKart**](https://github.com/yvt/BloodyKart)|my very old work (quite incomplete)|[:arrow_upper_right:](http://yvt.jp/pages/games/bloodykart)|

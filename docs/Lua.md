@@ -1,20 +1,20 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|17714|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
-|2039|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
-|476|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
-|423|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
+|17750|[@nagadomi](https://github.com/nagadomi)/[**waifu2x**](https://github.com/nagadomi/waifu2x)|Image Super-Resolution for Anime-Style Art||
+|2040|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2016_colorization**](https://github.com/satoshiiizuka/siggraph2016_colorization)|Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. |[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/)|
+|477|[@satoshiiizuka](https://github.com/satoshiiizuka)/[**siggraph2017_inpainting**](https://github.com/satoshiiizuka/siggraph2017_inpainting)|Code for the paper 'Globally and Locally Consistent Image Completion'. http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/||
+|424|[@bobbens](https://github.com/bobbens)/[**sketch_simplification**](https://github.com/bobbens/sketch_simplification)|Models and code related to sketch simplification of rough sketches.|[:arrow_upper_right:](https://esslab.jp/~ess/research/sketch_master/)|
 |241|[@nagadomi](https://github.com/nagadomi)/[**kaggle-cifar10-torch7**](https://github.com/nagadomi/kaggle-cifar10-torch7)|Code for Kaggle-CIFAR10 competition. 5th place.||
 |206|[@stanaka](https://github.com/stanaka)/[**lightroom-google-photo-plugin**](https://github.com/stanaka/lightroom-google-photo-plugin)|||
 |134|[@fjolnir](https://github.com/fjolnir)/[**TLC**](https://github.com/fjolnir/TLC)|The Tiny Lua Cocoa Bridge||
 |105|[@umegaya](https://github.com/umegaya)/[**lua-aws**](https://github.com/umegaya/lua-aws)|pure-lua implementation of aws REST APIs||
 |68|[@bobbens](https://github.com/bobbens)/[**cvpr2016_stylenet**](https://github.com/bobbens/cvpr2016_stylenet)|Code for our CVPR 2016 paper on Fashion styles in 128 floats.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/stylenet/)|
 |60|[@toshi-k](https://github.com/toshi-k)/[**kaggle-distracted-driver-detection**](https://github.com/toshi-k/kaggle-distracted-driver-detection)|10th place solution in "State Farm Distracted Driver Detection"||
-|58|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
+|59|[@toshi-k](https://github.com/toshi-k)/[**kaggle-denoising-dirty-documents**](https://github.com/toshi-k/kaggle-denoising-dirty-documents)|6th place solution in "Denoising Dirty Documents"||
 |46|[@nagadomi](https://github.com/nagadomi)/[**kaggle-ndsb**](https://github.com/nagadomi/kaggle-ndsb)|Code for National Data Science Bowl. 10th place.||
 |46|[@umegaya](https://github.com/umegaya)/[**ffiex**](https://github.com/umegaya/ffiex)|extend luajit ffi module to give more affinity to C codes||
-|43|[@hnakamur](https://github.com/hnakamur)/[**luajit-examples**](https://github.com/hnakamur/luajit-examples)|my example codes for LuaJIT||
-|42|[@kengonakajima](https://github.com/kengonakajima)/[**lua-msgpack**](https://github.com/kengonakajima/lua-msgpack)|msgpack implementation by pure Lua (5.1) works without LuajJIT and FFI.||
+|44|[@hnakamur](https://github.com/hnakamur)/[**luajit-examples**](https://github.com/hnakamur/luajit-examples)|my example codes for LuaJIT||
+|43|[@kengonakajima](https://github.com/kengonakajima)/[**lua-msgpack**](https://github.com/kengonakajima/lua-msgpack)|msgpack implementation by pure Lua (5.1) works without LuajJIT and FFI.||
 |41|[@farseerfc](https://github.com/farseerfc)/[**dotfiles**](https://github.com/farseerfc/dotfiles)|My dotfiles controlled by GNU Stow||
 |37|[@toritori0318](https://github.com/toritori0318)/[**lua-resty-r3**](https://github.com/toritori0318/lua-resty-r3)|libr3 Lua-Openresty implementation||
 |35|[@hetima](https://github.com/hetima)/[**hammerspoon-hyperex**](https://github.com/hetima/hammerspoon-hyperex)|Hammerspoon configuration library which provides yet another modifier key.||
@@ -31,9 +31,9 @@
 |17|[@10sr](https://github.com/10sr)/[**editorconfig-micro**](https://github.com/10sr/editorconfig-micro)|EditorConfig Plugin for micro Editor||
 |14|[@fang2hou](https://github.com/fang2hou)/[**ElvUI_WindTools**](https://github.com/fang2hou/ElvUI_WindTools)|Enhanced Features for ElvUI||
 |14|[@miurahr](https://github.com/miurahr)/[**lua-nginx-osm**](https://github.com/miurahr/lua-nginx-osm)|OpenStreetMap extension for Nginx Lua module||
+|11|[@ahq1993](https://github.com/ahq1993)/[**Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction**](https://github.com/ahq1993/Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction)|Multimodal Deep Q-Network (MDQN) for modelling human-like social intelligence.  ||
 |11|[@mzyy94](https://github.com/mzyy94)/[**ECHONET-Lite-dissector**](https://github.com/mzyy94/ECHONET-Lite-dissector)|ECHONET Lite プロトコル解析器 for Wireshark||
 |11|[@toshi-k](https://github.com/toshi-k)/[**kaggle-santander-customer-satisfaction**](https://github.com/toshi-k/kaggle-santander-customer-satisfaction)|44th place solution in "Santander Customer Satisfaction"||
-|10|[@ahq1993](https://github.com/ahq1993)/[**Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction**](https://github.com/ahq1993/Multimodal-Deep-Q-Network-for-Social-Human-Robot-Interaction)|Multimodal Deep Q-Network (MDQN) for modelling human-like social intelligence.  ||
 |10|[@tacigar](https://github.com/tacigar)/[**maidroid**](https://github.com/tacigar/maidroid)|:video_game: Minetest modpack: Provides cute maid robots||
 |9|[@kengonakajima](https://github.com/kengonakajima)/[**luajit-mysql**](https://github.com/kengonakajima/luajit-mysql)|MySQL binding for LuaJIT with FFI||
 |9|[@mah0x211](https://github.com/mah0x211)/[**lua-etcd-resty**](https://github.com/mah0x211/lua-etcd-resty)|etcd client module for OpenResty.||
@@ -57,6 +57,7 @@
 |6|[@mah0x211](https://github.com/mah0x211)/[**lua-coevent**](https://github.com/mah0x211/lua-coevent)|coroutine based kqueue/epoll module||
 |6|[@takahashim](https://github.com/takahashim)/[**review-pandoc**](https://github.com/takahashim/review-pandoc)|Re:VIEW Writer for Pandoc||
 |6|[@zick](https://github.com/zick)/[**LuaLisp**](https://github.com/zick/LuaLisp)|Lisp implementation in Lua||
+|5|[@FMS-Cat](https://github.com/FMS-Cat)/[**obj2ms3dascii**](https://github.com/FMS-Cat/obj2ms3dascii)|Wavefront .obj to Milkshape 3d Ascii conversion script||
 |5|[@hnakamur](https://github.com/hnakamur)/[**nginx-lua-saml-service-provider**](https://github.com/hnakamur/nginx-lua-saml-service-provider)|||
 |5|[@kitao](https://github.com/kitao)/[**pico8-libs**](https://github.com/kitao/pico8-libs)|Lua utility libraries for PICO-8||
 |5|[@mah0x211](https://github.com/mah0x211)/[**lua-act**](https://github.com/mah0x211/lua-act)|coroutine based synchronously non-blocking operations module||
@@ -67,7 +68,6 @@
 |5|[@randrew](https://github.com/randrew)/[**layoutexample**](https://github.com/randrew/layoutexample)|Example use of Layout in a Stingray project||
 |5|[@rhenium](https://github.com/rhenium)/[**awesome-battmon**](https://github.com/rhenium/awesome-battmon)|A simple battery monitor for awesome WM||
 |5|[@umegaya](https://github.com/umegaya)/[**luby**](https://github.com/umegaya/luby)|ruby syntax + luajit performance & ffi||
-|4|[@FMS-Cat](https://github.com/FMS-Cat)/[**obj2ms3dascii**](https://github.com/FMS-Cat/obj2ms3dascii)|Wavefront .obj to Milkshape 3d Ascii conversion script||
 |4|[@MasWag](https://github.com/MasWag)/[**pandoc-satysfi-template**](https://github.com/MasWag/pandoc-satysfi-template)|A pandoc custom writer and template for SATySFi||
 |4|[@ahq1993](https://github.com/ahq1993)/[**Perceivable-Human-Robot-Interaction-using-Neural-Attention-Q-Networks**](https://github.com/ahq1993/Perceivable-Human-Robot-Interaction-using-Neural-Attention-Q-Networks)|Multimodal Deep Attention Recurrent Q-Network for perceivable social human-robot interaction. ||
 |4|[@clear-code](https://github.com/clear-code)/[**lua-web-driver**](https://github.com/clear-code/lua-web-driver)|Mirror repository|[:arrow_upper_right:](https://gitlab.com/clear-code/lua-web-driver)|

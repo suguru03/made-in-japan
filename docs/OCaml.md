@@ -2,11 +2,11 @@
 |---|---|---|---|
 |3926|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
 |714|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
-|96|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
+|97|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |87|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |73|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
 |58|[@taikomatsu](https://github.com/taikomatsu)/[**SeExprMeshMaya**](https://github.com/taikomatsu/SeExprMeshMaya)|Polygon deformer node plugin for Maya that using Disney's SeExpr||
-|40|[@coord-e](https://github.com/coord-e)/[**mlml**](https://github.com/coord-e/mlml)|self-hosted compiler for a subset of OCaml||
+|41|[@coord-e](https://github.com/coord-e)/[**mlml**](https://github.com/coord-e/mlml)|self-hosted compiler for a subset of OCaml||
 |35|[@mzp](https://github.com/mzp)/[**ocaml-hoogle**](https://github.com/mzp/ocaml-hoogle)|OCaml API search allows you to search many standard O'Caml libraries by either function name, or by approximate type signature. It is similar to Hoogle, which is a Haskell API search engine.
 
 You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)|
@@ -19,8 +19,8 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |24|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|Parallelize _anything_ //||
 |24|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
 |21|[@AltGr](https://github.com/AltGr)/[**opam-bundle**](https://github.com/AltGr/opam-bundle)|A tool that creates stand-alone source bundles from opam packages||
+|21|[@gfngfn](https://github.com/gfngfn)/[**toy-macro-ml**](https://github.com/gfngfn/toy-macro-ml)|An implementation of MacroML [Ganz, Sabry & Taha 2001]||
 |20|[@UnixJunkie](https://github.com/UnixJunkie)/[**daft**](https://github.com/UnixJunkie/daft)|DAFT Allows File Transfers||
-|20|[@gfngfn](https://github.com/gfngfn)/[**toy-macro-ml**](https://github.com/gfngfn/toy-macro-ml)|An implementation of MacroML [Ganz, Sabry & Taha 2001]||
 |18|[@UnixJunkie](https://github.com/UnixJunkie)/[**bisec-tree**](https://github.com/UnixJunkie/bisec-tree)|Bisector tree implementation in OCaml||
 |18|[@keigoi](https://github.com/keigoi)/[**linocaml**](https://github.com/keigoi/linocaml)|Monad-based linear types in OCaml, with a few syntax extensions||
 |17|[@BYVoid](https://github.com/BYVoid)/[**OCamlProblems**](https://github.com/BYVoid/OCamlProblems)|Solutions of Problems in OCaml||
@@ -92,7 +92,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |4|[@yutopp](https://github.com/yutopp)/[**sounanda**](https://github.com/yutopp/sounanda)|||
 |3|[@0918nobita](https://github.com/0918nobita)/[**9cc**](https://github.com/0918nobita/9cc)|9cc を C言語 / OCaml で実装する||
 |3|[@AltGr](https://github.com/AltGr)/[**ocp-indent-tests**](https://github.com/AltGr/ocp-indent-tests)|automatic testing of ocp-indent against real-world code||
-|3|[@UnixJunkie](https://github.com/UnixJunkie)/[**gram-matrix-bench**](https://github.com/UnixJunkie/gram-matrix-bench)|Performance benchmark for Parmap, Parany and Multicore-OCaml||
+|3|[@UnixJunkie](https://github.com/UnixJunkie)/[**gram-matrix-bench**](https://github.com/UnixJunkie/gram-matrix-bench)|Performance benchmark for Parmap and Parany||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**orc4**](https://github.com/UnixJunkie/orc4)|RC4 implementation in OCaml||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**vector3**](https://github.com/UnixJunkie/vector3)|module for 3D vectors (implemented as a record of x, y and z floats)||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**hcc**](https://github.com/alphaKAI/hcc)|Tiny lisp compiler for hvm (https://github.com/alphaKAI/cplayground/blob/master/minilisp.c)||

@@ -1,17 +1,17 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |465|[@konifar](https://github.com/konifar)/[**droidkaigi2018-flutter**](https://github.com/konifar/droidkaigi2018-flutter)|The unofficial conference app for DroidKaigi 2018 Tokyo|[:arrow_upper_right:](https://itunes.apple.com/app/id1341774412)|
-|429|[@tortuvshin](https://github.com/tortuvshin)/[**open-source-flutter-apps**](https://github.com/tortuvshin/open-source-flutter-apps)|:iphone: List of open source Flutter applications :octocat:||
-|136|[@skkallayath](https://github.com/skkallayath)/[**photofilters**](https://github.com/skkallayath/photofilters)|photofilters library for flutter||
-|106|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(1)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dev/packages/bloc_provider)|
-|86|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
-|64|[@nukata](https://github.com/nukata)/[**lisp-in-dart**](https://github.com/nukata/lisp-in-dart)|A fast Lisp interpreter in Dart||
-|63|[@droibit](https://github.com/droibit)/[**flutter_custom_tabs**](https://github.com/droibit/flutter_custom_tabs)|A Flutter plugin to use Chrome Custom Tabs.|[:arrow_upper_right:](https://pub.dartlang.org/packages/flutter_custom_tabs)|
-|42|[@axross](https://github.com/axross)/[**aqua**](https://github.com/axross/aqua)| ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.||
+|453|[@tortuvshin](https://github.com/tortuvshin)/[**open-source-flutter-apps**](https://github.com/tortuvshin/open-source-flutter-apps)|:iphone: List of open source Flutter applications :octocat:||
+|147|[@skkallayath](https://github.com/skkallayath)/[**photofilters**](https://github.com/skkallayath/photofilters)|photofilters library for flutter||
+|107|[@mono0926](https://github.com/mono0926)/[**bloc_provider**](https://github.com/mono0926/bloc_provider)|Provides bloc to descendant widget (O(1)), and the bloc is disposed appropriately by state that the bloc_provider holds internally.|[:arrow_upper_right:](https://pub.dev/packages/bloc_provider)|
+|88|[@mono0926](https://github.com/mono0926)/[**wdb106-flutter**](https://github.com/mono0926/wdb106-flutter)|WEB+DB PRESS Vol.106のAndroid・iOSアプリ設計のサンプルをFlutterではどう書くかというサンプル https://www.amazon.co.jp/dp/4774199435?tag=mono0926-22||
+|68|[@nukata](https://github.com/nukata)/[**lisp-in-dart**](https://github.com/nukata/lisp-in-dart)|A fast Lisp interpreter in Dart||
+|64|[@droibit](https://github.com/droibit)/[**flutter_custom_tabs**](https://github.com/droibit/flutter_custom_tabs)|A Flutter plugin to use Chrome Custom Tabs.|[:arrow_upper_right:](https://pub.dartlang.org/packages/flutter_custom_tabs)|
+|45|[@axross](https://github.com/axross)/[**aqua**](https://github.com/axross/aqua)| ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.||
 |42|[@sakebook](https://github.com/sakebook)/[**flutter_native_ads**](https://github.com/sakebook/flutter_native_ads)|Show AdMob Native Ads use PlatformView|[:arrow_upper_right:](https://pub.dev/packages/native_ads)|
 |37|[@mono0926](https://github.com/mono0926)/[**widget-quiz**](https://github.com/mono0926/widget-quiz)|Flutter Widget Quiz, made for Flutter Create (Source code size is limited to 5KB)|[:arrow_upper_right:](https://medium.com/flutter-jp/flutter-create-a85a29fdb918)|
 |31|[@mono0926](https://github.com/mono0926)/[**flutter-animations**](https://github.com/mono0926/flutter-animations)||[:arrow_upper_right:](https://medium.com/flutter-jp/implicit-animation-b9d4b7358c28)|
-|29|[@mono0926](https://github.com/mono0926)/[**flutter_youtube_player**](https://github.com/mono0926/flutter_youtube_player)||[:arrow_upper_right:](https://twitter.com/_mono/status/1224653352128008192)|
+|30|[@mono0926](https://github.com/mono0926)/[**flutter_youtube_player**](https://github.com/mono0926/flutter_youtube_player)||[:arrow_upper_right:](https://twitter.com/_mono/status/1224653352128008192)|
 |28|[@mono0926](https://github.com/mono0926)/[**flutter_mono_kit**](https://github.com/mono0926/flutter_mono_kit)|A collection of convenient widgets and utils made by mono.|[:arrow_upper_right:](https://pub.dev/packages/mono_kit)|
 |26|[@mono0926](https://github.com/mono0926)/[**flutter-flavor-example**](https://github.com/mono0926/flutter-flavor-example)|||
 |25|[@kikuchy](https://github.com/kikuchy)/[**lantern**](https://github.com/kikuchy/lantern)|Cloud Firestore's data structure definition language and code generator. Lantern lights bright future of your project.  🔆|[:arrow_upper_right:](https://pub.dev/packages/lantern)|
@@ -20,21 +20,21 @@
 |17|[@kikuchy](https://github.com/kikuchy)/[**crashlytics**](https://github.com/kikuchy/crashlytics)|Flutter plugin for (Fabric) Crashlytics on Android and iOS. (Unofficial)||
 |17|[@mono0926](https://github.com/mono0926)/[**vsync_provider**](https://github.com/mono0926/vsync_provider)|VsyncProvider provides vsync for AnimationController. This works with provider package.|[:arrow_upper_right:](https://pub.dev/packages/vsync_provider)|
 |17|[@ntaoo](https://github.com/ntaoo)/[**material2_dart**](https://github.com/ntaoo/material2_dart)|angular/material2 for Dart.||
+|16|[@mono0926](https://github.com/mono0926)/[**pedantic_mono**](https://github.com/mono0926/pedantic_mono)|[mono edition] How to get the most value from Dart static analysis.|[:arrow_upper_right:](https://pub.dev/packages/pedantic_mono)|
+|14|[@mono0926](https://github.com/mono0926)/[**google-tasks-clone**](https://github.com/mono0926/google-tasks-clone)|||
+|13|[@KazuCocoa](https://github.com/KazuCocoa)/[**appium_dart**](https://github.com/KazuCocoa/appium_dart)|Appium client in Dart based on webdriver.dart|[:arrow_upper_right:](https://pub.dev/packages/appium_driver)|
 |13|[@KazuCocoa](https://github.com/KazuCocoa)/[**proto-flutter-driver-server**](https://github.com/KazuCocoa/proto-flutter-driver-server)|prototype to handle flutter-driver via WebDriverURL||
 |13|[@ehr174](https://github.com/ehr174)/[**dartstrap**](https://github.com/ehr174/dartstrap)|||
 |13|[@konifar](https://github.com/konifar)/[**flutter-for-non-engineers**](https://github.com/konifar/flutter-for-non-engineers)|エンジニア以外の職種の方がFlutterでの開発を通してなんとなくアプリ開発について知るためのリポジトリです||
-|13|[@mono0926](https://github.com/mono0926)/[**google-tasks-clone**](https://github.com/mono0926/google-tasks-clone)|||
-|13|[@mono0926](https://github.com/mono0926)/[**pedantic_mono**](https://github.com/mono0926/pedantic_mono)|[mono edition] How to get the most value from Dart static analysis.|[:arrow_upper_right:](https://pub.dev/packages/pedantic_mono)|
+|13|[@mono0926](https://github.com/mono0926)/[**adaptive_dialog**](https://github.com/mono0926/adaptive_dialog)|Show alert dialog or modal action sheet adaptively according to platform.|[:arrow_upper_right:](https://pub.dev/packages/adaptive_dialog)|
 |13|[@najeira](https://github.com/najeira)/[**flutter-video-player**](https://github.com/najeira/flutter-video-player)|[deprecated] A Flutter plugin for iOS and Android for video using ExoPlayer||
-|12|[@KazuCocoa](https://github.com/KazuCocoa)/[**appium_dart**](https://github.com/KazuCocoa/appium_dart)|Appium client in Dart based on webdriver.dart|[:arrow_upper_right:](https://pub.dev/packages/appium_driver)|
 |12|[@kikuchy](https://github.com/kikuchy)/[**all-about-test-of-flutter**](https://github.com/kikuchy/all-about-test-of-flutter)|Sample codes of my session at DroidKaigi 2019 Day.2||
 |12|[@moznion](https://github.com/moznion)/[**dart-grec-minimal**](https://github.com/moznion/dart-grec-minimal)|A minimal parser/generator of Google Calendar recurrence rule for dart|[:arrow_upper_right:](https://pub.dartlang.org/packages/grec_minimal)|
+|11|[@mono0926](https://github.com/mono0926)/[**flutter_firestore_ref**](https://github.com/mono0926/flutter_firestore_ref)|Cross-platform(including web) Firestore type-safe wrapper.|[:arrow_upper_right:](https://pub.dev/packages/firestore_ref)|
 |11|[@mono0926](https://github.com/mono0926)/[**instagram-flutter**](https://github.com/mono0926/instagram-flutter)|||
 |11|[@sayonetech](https://github.com/sayonetech)/[**flutter_calculator**](https://github.com/sayonetech/flutter_calculator)|||
 |11|[@tnantoka](https://github.com/tnantoka)/[**flutter_shapes**](https://github.com/tnantoka/flutter_shapes)|Paint various shapes on canvas with Flutter CustomPainter|[:arrow_upper_right:](https://tnantoka.github.io/flutter_shapes/)|
 |11|[@vinbhai4u](https://github.com/vinbhai4u)/[**flutter_social_app**](https://github.com/vinbhai4u/flutter_social_app)|||
-|10|[@mono0926](https://github.com/mono0926)/[**adaptive_dialog**](https://github.com/mono0926/adaptive_dialog)|Show alert dialog or modal action sheet adaptively according to platform.|[:arrow_upper_right:](https://pub.dev/packages/adaptive_dialog)|
-|10|[@mono0926](https://github.com/mono0926)/[**flutter_firestore_ref**](https://github.com/mono0926/flutter_firestore_ref)|Cross-platform(including web) Firestore type-safe wrapper.|[:arrow_upper_right:](https://pub.dev/packages/firestore_ref)|
 |10|[@mono0926](https://github.com/mono0926)/[**route_observer_mixin**](https://github.com/mono0926/route_observer_mixin)|RouteObserveMixin provides easy access to didPush/didPop/didPushNext/didPopNext.|[:arrow_upper_right:](https://pub.dev/packages/route_observer_mixin/versions/1.0.0)|
 |10|[@ntaoo](https://github.com/ntaoo)/[**bloc_chat**](https://github.com/ntaoo/bloc_chat)|||
 |10|[@vvakame](https://github.com/vvakame)/[**teaolive**](https://github.com/vvakame/teaolive)|BDD Test Framework for Dart. it was inspired by the Jasmine(JavaScript).||
@@ -61,6 +61,7 @@
 |5|[@MiCHiLU](https://github.com/MiCHiLU)/[**dart-cca-example**](https://github.com/MiCHiLU/dart-cca-example)|An example of Cordova Chrome Apps written in AngularDart.||
 |5|[@jtakakura](https://github.com/jtakakura)/[**spine_core**](https://github.com/jtakakura/spine_core)|2D skeletal animation runtimes for Spine.||
 |5|[@jtakakura](https://github.com/jtakakura)/[**spine_flutter**](https://github.com/jtakakura/spine_flutter)|2D skeletal animation runtimes for Spine. ||
+|5|[@kikuchy](https://github.com/kikuchy)/[**enum_string_value**](https://github.com/kikuchy/enum_string_value)|Now your enum classes have String values!!|[:arrow_upper_right:](https://pub.dev/packages/enum_string_value_generator)|
 |5|[@kiruto](https://github.com/kiruto)/[**curl**](https://github.com/kiruto/curl)|||
 |5|[@kuronekomichael](https://github.com/kuronekomichael)/[**SafetyStreamBuilder**](https://github.com/kuronekomichael/SafetyStreamBuilder)|Custom StreamBuilder for Flutter/Dart|[:arrow_upper_right:](https://pub.dartlang.org/packages/safety_stream_builder)|
 |5|[@kyorohiro](https://github.com/kyorohiro)/[**memo_flutter_2019**](https://github.com/kyorohiro/memo_flutter_2019)|Flutter Render API Sample||
@@ -75,7 +76,6 @@
 |5|[@zaki50](https://github.com/zaki50)/[**uuid_dart**](https://github.com/zaki50/uuid_dart)|||
 |4|[@dsh0416](https://github.com/dsh0416)/[**euc-jp**](https://github.com/dsh0416/euc-jp)|EUC-JP Encoding and Decoding Library for Dart Language||
 |4|[@eoinfogarty](https://github.com/eoinfogarty)/[**flutter_giphy_redux**](https://github.com/eoinfogarty/flutter_giphy_redux)|Flutter App built in Redux with ThunkAction||
-|4|[@kikuchy](https://github.com/kikuchy)/[**enum_string_value**](https://github.com/kikuchy/enum_string_value)|Now your enum classes have String values!!|[:arrow_upper_right:](https://pub.dev/packages/enum_string_value_generator)|
 |4|[@kyorohiro](https://github.com/kyorohiro)/[**doc_2dgame**](https://github.com/kyorohiro/doc_2dgame)|deprecated: https://www.gitbook.com/book/kyorohiro/hello_skyengine/details|[:arrow_upper_right:](https://kyorohiro.github.io/umiuni2d/web/index.html)|
 |4|[@michilu](https://github.com/michilu)/[**dart-cca-example**](https://github.com/michilu/dart-cca-example)|An example of Cordova Chrome Apps written in AngularDart.||
 |4|[@mono0926](https://github.com/mono0926)/[**inherited_widget_explanation**](https://github.com/mono0926/inherited_widget_explanation)|||

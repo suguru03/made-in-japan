@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|129|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
+|130|[@stffrdhrn](https://github.com/stffrdhrn)/[**sdram-controller**](https://github.com/stffrdhrn/sdram-controller)|Verilog SDRAM memory controller ||
 |26|[@kazunori279](https://github.com/kazunori279)/[**CPU32**](https://github.com/kazunori279/CPU32)|Tiny MIPS for Terasic DE0||
 |24|[@osafune](https://github.com/osafune)/[**peridot**](https://github.com/osafune/peridot)|'PERIDOT' - Simple & Compact FPGA board||
 |9|[@stffrdhrn](https://github.com/stffrdhrn)/[**uart**](https://github.com/stffrdhrn/uart)|Verilog uart receiver and transmitter modules for De0 Nano||
@@ -23,5 +23,6 @@
 |3|[@kazunori279](https://github.com/kazunori279)/[**hdllesson**](https://github.com/kazunori279/hdllesson)|HDL Lesson||
 |3|[@mshr-h](https://github.com/mshr-h)/[**motion_estimation_processor_breakingoff**](https://github.com/mshr-h/motion_estimation_processor_breakingoff)|Breakingoff based Motion Estimation Processor written in Verilog-HDL||
 |3|[@mzp](https://github.com/mzp)/[**GC**](https://github.com/mzp/GC)|Proof of Garbage Collector||
+|3|[@stffrdhrn](https://github.com/stffrdhrn)/[**adc_interface**](https://github.com/stffrdhrn/adc_interface)|Verilog ADC interface for adc128s022 found in De0 Nano||
 |3|[@stffrdhrn](https://github.com/stffrdhrn)/[**wb_dma**](https://github.com/stffrdhrn/wb_dma)|Wishbone dma/bridge controller in verily||
 

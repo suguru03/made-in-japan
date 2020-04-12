@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |3926|[@BYVoid](https://github.com/BYVoid)/[**Batsh**](https://github.com/BYVoid/Batsh)|A language that compiles to Bash and Windows Batch|[:arrow_upper_right:](http://batsh.org)|
-|714|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
+|716|[@gfngfn](https://github.com/gfngfn)/[**SATySFi**](https://github.com/gfngfn/SATySFi)|A statically-typed, functional typesetting system||
 |97|[@shrynx](https://github.com/shrynx)/[**99.re**](https://github.com/shrynx/99.re)|99 problems with reason(able) solutions.||
 |87|[@yutopp](https://github.com/yutopp)/[**rill**](https://github.com/yutopp/rill)|Statically typed system programming language for 文鳥|[:arrow_upper_right:](https://yutopp.github.io/rill-docs/)|
 |73|[@yoshihiro503](https://github.com/yoshihiro503)/[**ocamltter**](https://github.com/yoshihiro503/ocamltter)|ocamltter is a Twitter client in OCaml. This client run on the OCaml toplevel interpreter. Then each operation on the client is just a OCaml function and you can develop a twitter program interactively.|[:arrow_upper_right:](http:/proofcafe.org/wiki/ocamltter)|
@@ -18,19 +18,19 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |24|[@BYVoid](https://github.com/BYVoid)/[**Dlist**](https://github.com/BYVoid/Dlist)|Difference list library for OCaml||
 |24|[@UnixJunkie](https://github.com/UnixJunkie)/[**parany**](https://github.com/UnixJunkie/parany)|Parallelize _anything_ //||
 |24|[@amutake](https://github.com/amutake)/[**actario**](https://github.com/amutake/actario)|Verification Framework for Actor Systems on Coq||
+|23|[@gfngfn](https://github.com/gfngfn)/[**toy-macro-ml**](https://github.com/gfngfn/toy-macro-ml)|An implementation of MacroML [Ganz, Sabry & Taha 2001]||
 |21|[@AltGr](https://github.com/AltGr)/[**opam-bundle**](https://github.com/AltGr/opam-bundle)|A tool that creates stand-alone source bundles from opam packages||
-|21|[@gfngfn](https://github.com/gfngfn)/[**toy-macro-ml**](https://github.com/gfngfn/toy-macro-ml)|An implementation of MacroML [Ganz, Sabry & Taha 2001]||
 |20|[@UnixJunkie](https://github.com/UnixJunkie)/[**daft**](https://github.com/UnixJunkie/daft)|DAFT Allows File Transfers||
 |18|[@UnixJunkie](https://github.com/UnixJunkie)/[**bisec-tree**](https://github.com/UnixJunkie/bisec-tree)|Bisector tree implementation in OCaml||
 |18|[@keigoi](https://github.com/keigoi)/[**linocaml**](https://github.com/keigoi/linocaml)|Monad-based linear types in OCaml, with a few syntax extensions||
 |17|[@BYVoid](https://github.com/BYVoid)/[**OCamlProblems**](https://github.com/BYVoid/OCamlProblems)|Solutions of Problems in OCaml||
 |16|[@ksk](https://github.com/ksk)/[**Rho**](https://github.com/ksk/Rho)|Programs for checking the ρ property||
 |15|[@mzp](https://github.com/mzp)/[**websocket-ocaml**](https://github.com/mzp/websocket-ocaml)|WebSocket Server for OCaml|[:arrow_upper_right:](http://eva-lu-ator.net/redmine/projects/websocket-ocaml)|
+|14|[@AltGr](https://github.com/AltGr)/[**Camelus**](https://github.com/AltGr/Camelus)|Bot posting reports on opam-repository pull-request using a web hook||
 |14|[@UnixJunkie](https://github.com/UnixJunkie)/[**minicli**](https://github.com/UnixJunkie/minicli)|Minimalist OCaml library for command line parsing||
 |14|[@UnixJunkie](https://github.com/UnixJunkie)/[**vp-tree**](https://github.com/UnixJunkie/vp-tree)|Vantage point tree implementation in OCaml||
 |14|[@shrynx](https://github.com/shrynx)/[**reasonz**](https://github.com/shrynx/reasonz)|A Haskell fan fiction for ReasonML||
 |14|[@theoldmoon0602](https://github.com/theoldmoon0602)/[**silk**](https://github.com/theoldmoon0602/silk)|||
-|13|[@AltGr](https://github.com/AltGr)/[**Camelus**](https://github.com/AltGr/Camelus)|Bot posting reports on opam-repository pull-request using a web hook||
 |13|[@UnixJunkie](https://github.com/UnixJunkie)/[**ACPC**](https://github.com/UnixJunkie/ACPC)|Chemoinformatics tool for ligand-based virtual screening||
 |13|[@mzp](https://github.com/mzp)/[**msgpack-ocaml**](https://github.com/mzp/msgpack-ocaml)|MessagePack for OCaml/Coq|[:arrow_upper_right:](http://mzp.github.com/msgpack-ocaml/refman)|
 |12|[@hanazuki](https://github.com/hanazuki)/[**miniml**](https://github.com/hanazuki/miniml)|Tiny ML interpreter||
@@ -95,7 +95,7 @@ You could use this on Web browser.|[:arrow_upper_right:](http://search.ocaml.jp)
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**gram-matrix-bench**](https://github.com/UnixJunkie/gram-matrix-bench)|Performance benchmark for Parmap and Parany||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**orc4**](https://github.com/UnixJunkie/orc4)|RC4 implementation in OCaml||
 |3|[@UnixJunkie](https://github.com/UnixJunkie)/[**vector3**](https://github.com/UnixJunkie/vector3)|module for 3D vectors (implemented as a record of x, y and z floats)||
-|3|[@alphaKAI](https://github.com/alphaKAI)/[**hcc**](https://github.com/alphaKAI/hcc)|Tiny lisp compiler for hvm (https://github.com/alphaKAI/cplayground/blob/master/minilisp.c)||
+|3|[@alphaKAI](https://github.com/alphaKAI)/[**hcc**](https://github.com/alphaKAI/hcc)|Tiny lisp compiler for hvm (https://github.com/alphaKAI/hvm)||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**opml**](https://github.com/alphaKAI/opml)|A proof assistant for modal logic in OCaml (ported from: https://github.com/sndtkrh/hpml)||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**otenki**](https://github.com/alphaKAI/otenki)|Command line weather forecast viewer||
 |3|[@dvtrung](https://github.com/dvtrung)/[**ml-interpreter**](https://github.com/dvtrung/ml-interpreter)|ML interpreter written in OCaml||

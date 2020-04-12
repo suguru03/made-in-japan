@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |329|[@fjolnir](https://github.com/fjolnir)/[**Tranquil**](https://github.com/fjolnir/Tranquil)|A language built on top of the Objective-C runtime, and ABI compatible with Objective-C.||
-|144|[@remirobert](https://github.com/remirobert)/[**Facemotion**](https://github.com/remirobert/Facemotion)|:eyes: Face detection and recognition iOS app with OpenCV||
+|145|[@remirobert](https://github.com/remirobert)/[**Facemotion**](https://github.com/remirobert/Facemotion)|:eyes: Face detection and recognition iOS app with OpenCV||
 |98|[@craftzdog](https://github.com/craftzdog)/[**caffe-ios-sample**](https://github.com/craftzdog/caffe-ios-sample)|An example of XCode project using Caffe: a fast open framework for deep learning||
 |89|[@noradaiko](https://github.com/noradaiko)/[**caffe-ios-sample**](https://github.com/noradaiko/caffe-ios-sample)|An example of XCode project using Caffe: a fast open framework for deep learning||
-|20|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxDisplayConf**](https://github.com/Akira-Hayasaka/ofxDisplayConf)|openFrameworks addon for display/projector configuration using CoreGraphics (private) API.||
+|21|[@Akira-Hayasaka](https://github.com/Akira-Hayasaka)/[**ofxDisplayConf**](https://github.com/Akira-Hayasaka/ofxDisplayConf)|openFrameworks addon for display/projector configuration using CoreGraphics (private) API.||
 |18|[@keichi](https://github.com/keichi)/[**osx-tag**](https://github.com/keichi/osx-tag)|A node.js module to operate tags on macOS||
 |16|[@Wizcorp](https://github.com/Wizcorp)/[**WebViewForUnity3D**](https://github.com/Wizcorp/WebViewForUnity3D)|Android & iOS webview plugin for unity3D||
 |15|[@n-yoda](https://github.com/n-yoda)/[**metal-without-xcode**](https://github.com/n-yoda/metal-without-xcode)|A command-line-compilable example of Metal.||

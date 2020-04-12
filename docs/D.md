@@ -2,7 +2,7 @@
 |---|---|---|---|
 |49|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**grain**](https://github.com/ShigekiKarita/grain)|autograd mir and CUDA library for dynamic neural networks in D.|[:arrow_upper_right:](https://shigekikarita.github.io/grain)|
 |49|[@repeatedly](https://github.com/repeatedly)/[**mustache-d**](https://github.com/repeatedly/mustache-d)|Mustache template engine for D|[:arrow_upper_right:](http://mustache.github.com/)|
-|45|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
+|43|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
 |30|[@Rayerd](https://github.com/Rayerd)/[**dfl**](https://github.com/Rayerd/dfl)|This unofficial project for D2.x is a migration of D Forms Library (DFL) that is managed on SVN. DFL is a Win32 windowing library for the D programming language. We support only D2 HEAD.|[:arrow_upper_right:](http://wiki.dprogramming.com/Dfl/HomePage)|
 |27|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
 |24|[@thorikawa](https://github.com/thorikawa)/[**AndroidObjectRecognition**](https://github.com/thorikawa/AndroidObjectRecognition)|App to demo using android camera and recognize specific object.||
@@ -12,11 +12,11 @@
 |12|[@alphaKAI](https://github.com/alphaKAI)/[**ChickenClisp**](https://github.com/alphaKAI/ChickenClisp)|ChickenClisp is a Scheme like language and interpreter. An Implementation of Orelang in D||
 |12|[@alphaKAI](https://github.com/alphaKAI)/[**tvm**](https://github.com/alphaKAI/tvm)|Toy virtual machine and JIT Engine with JavaScript Like Syntax||
 |12|[@repeatedly](https://github.com/repeatedly)/[**yajl-d**](https://github.com/repeatedly/yajl-d)|YAJL binding for D||
+|10|[@kubo39](https://github.com/kubo39)/[**syscall-d**](https://github.com/kubo39/syscall-d)|syscall interface for D.|[:arrow_upper_right:](http://code.dlang.org/packages/syscall-d)|
 |10|[@repeatedly](https://github.com/repeatedly)/[**d-volkswagen**](https://github.com/repeatedly/d-volkswagen)|Volkswagen detects when your tests are being run in a CI server, and makes them pass.||
 |10|[@tanitta](https://github.com/tanitta)/[**easing**](https://github.com/tanitta/easing)|easing is a library that add flavor to motion in D programming language.||
 |9|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**snck**](https://github.com/ShigekiKarita/snck)|tqdm-like progress bar for D||
 |9|[@alphaKAI](https://github.com/alphaKAI)/[**dadt**](https://github.com/alphaKAI/dadt)|[WIP] Algebraic Data Type for D,  by compile time parsing with pegged and code generating||
-|9|[@kubo39](https://github.com/kubo39)/[**syscall-d**](https://github.com/kubo39/syscall-d)|syscall interface for D.|[:arrow_upper_right:](http://code.dlang.org/packages/syscall-d)|
 |9|[@repeatedly](https://github.com/repeatedly)/[**reed**](https://github.com/repeatedly/reed)|Arango Driver for D||
 |8|[@namachan10777](https://github.com/namachan10777)/[**dmatch**](https://github.com/namachan10777/dmatch)|Pattern match for D Language.||
 |8|[@repeatedly](https://github.com/repeatedly)/[**Mongo-D-Driver**](https://github.com/repeatedly/Mongo-D-Driver)|Mongo Driver for D|[:arrow_upper_right:](http://www.mongodb.org/)|
@@ -46,7 +46,7 @@
 |4|[@repeatedly](https://github.com/repeatedly)/[**ltsv-d**](https://github.com/repeatedly/ltsv-d)|LTSV implemetation for D||
 |4|[@repeatedly](https://github.com/repeatedly)/[**siphash-d**](https://github.com/repeatedly/siphash-d)|D implementation of SipHash||
 |4|[@youz](https://github.com/youz)/[**grasses**](https://github.com/youz/grasses)|Various implementations of 'Grass' the grass-planting programming language||
-|3|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**DTrie**](https://github.com/IshitaTakeshi/DTrie)|The dictionary representation of Trie||
+|3|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**DTrie**](https://github.com/IshitaTakeshi/DTrie)|Trie data structure in dlang||
 |3|[@Pctg-x8](https://github.com/Pctg-x8)/[**objective-gl**](https://github.com/Pctg-x8/objective-gl)|High-level OpenGL Wrapper/Helper||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-fsa**](https://github.com/ShigekiKarita/d-fsa)|Finite State Automata Library for D including CTFE regex||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-nv**](https://github.com/ShigekiKarita/d-nv)|NVRTC (CUDA runtime compiler) wrapper for D||

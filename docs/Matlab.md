@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|550|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
-|360|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
-|238|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
+|551|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
+|366|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
+|240|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
 |113|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
-|72|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
+|71|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
 |46|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**ClassifierToolbox**](https://github.com/hiroyuki-kasai/ClassifierToolbox)|A MATLAB toolbox for classifier: Version 1.0.7||
 |39|[@ikuwow](https://github.com/ikuwow)/[**PatchMatch**](https://github.com/ikuwow/PatchMatch)|The PatchMatch algorithm on MATLAB||
 |34|[@vanhuyz](https://github.com/vanhuyz)/[**coursera-ml**](https://github.com/vanhuyz/coursera-ml)|For study purpose only||
@@ -15,7 +15,7 @@
 |21|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**SparseGDLibrary**](https://github.com/hiroyuki-kasai/SparseGDLibrary)|MATLAB library of gradient descent algorithms for sparse modeling: Version 1.0.3||
 |18|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**OLSTEC**](https://github.com/hiroyuki-kasai/OLSTEC)|OnLine Low-rank Subspace tracking by TEnsor CP Decomposition in Matlab: Version 1.0.1||
 |16|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**HybridPrecodingOpt**](https://github.com/hiroyuki-kasai/HybridPrecodingOpt)|Optimization algorithms for hybrid precoding in mmWave MIMO systems: Version 1.1.0||
-|15|[@ikuwow](https://github.com/ikuwow)/[**inpainting_criminisi2004**](https://github.com/ikuwow/inpainting_criminisi2004)|MATLAB Implementation of inpainting Algorithm by A. Criminisi (2004)||
+|16|[@ikuwow](https://github.com/ikuwow)/[**inpainting_criminisi2004**](https://github.com/ikuwow/inpainting_criminisi2004)|MATLAB Implementation of inpainting Algorithm by A. Criminisi (2004)||
 |13|[@ymatsunaga](https://github.com/ymatsunaga)/[**mdtoolbox**](https://github.com/ymatsunaga/mdtoolbox)|MDToolbox: A MATLAB/Octave toolbox for statistical analysis of molecular dynamics trajectories|[:arrow_upper_right:](http://mdtoolbox.readthedocs.org/)|
 |10|[@bobbens](https://github.com/bobbens)/[**gfmm**](https://github.com/bobbens/gfmm)|Code for the paper 'Geodesic Finite Mixture Model'.|[:arrow_upper_right:](http://hi.cs.waseda.ac.jp/~esimo/research/gfmm/)|
 |10|[@meshgi](https://github.com/meshgi)/[**Histogram_of_Color_Advancements**](https://github.com/meshgi/Histogram_of_Color_Advancements)|A Comparison for Performance of Different Variations of Histogram of Colors and Corresponding Distance Measure||

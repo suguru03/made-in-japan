@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|23|[@rnons](https://github.com/rnons)/[**purescript-halogen-storybook**](https://github.com/rnons/purescript-halogen-storybook)|A library to assemble examples or develop components separately.|[:arrow_upper_right:](https://rnons.github.io/purescript-halogen-storybook/)|
+|26|[@rnons](https://github.com/rnons)/[**purescript-halogen-storybook**](https://github.com/rnons/purescript-halogen-storybook)|A library to assemble examples or develop components separately.|[:arrow_upper_right:](https://rnons.github.io/purescript-halogen-storybook/)|
 |13|[@philopon](https://github.com/philopon)/[**purescript-json**](https://github.com/philopon/purescript-json)|JSON parsing library like aeson for purescript.||
 |13|[@philopon](https://github.com/philopon)/[**purescript-json-deprecated**](https://github.com/philopon/purescript-json-deprecated)|DEPRECATED: please use https://github.com/purescript-contrib/purescript-argonaut||
 |12|[@rnons](https://github.com/rnons)/[**purescript-halogen-day-picker**](https://github.com/rnons/purescript-halogen-day-picker)|A day picker written in purescript halogen|[:arrow_upper_right:](https://rnons.github.io/purescript-halogen-day-picker)|

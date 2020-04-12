@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|196|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
-|82|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
+|201|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
+|83|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
 |55|[@vchuravy](https://github.com/vchuravy)/[**GPUifyLoops.jl**](https://github.com/vchuravy/GPUifyLoops.jl)|||
-|47|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
+|48|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
 |35|[@bicycle1885](https://github.com/bicycle1885)/[**TranscodingStreams.jl**](https://github.com/bicycle1885/TranscodingStreams.jl)|Simple, consistent interfaces for any codec.||
 |35|[@vchuravy](https://github.com/vchuravy)/[**PProf.jl**](https://github.com/vchuravy/PProf.jl)|Export Julia profiles to the pprof fromat||
 |33|[@r9y9](https://github.com/r9y9)/[**VoiceConversion.jl**](https://github.com/r9y9/VoiceConversion.jl)|[Deprecated] Statistical Voice Conversion in Julia. See the website link for new library|[:arrow_upper_right:](https://github.com/r9y9/nnmnkwii)|
@@ -30,6 +30,7 @@
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**CodecBase.jl**](https://github.com/bicycle1885/CodecBase.jl)|Base 16/32/64 codecs for TranscodingStreams.jl||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**CodecZstd.jl**](https://github.com/bicycle1885/CodecZstd.jl)|A zstd codec for TranscodingStreams.jl.||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**Snappy.jl**](https://github.com/bicycle1885/Snappy.jl)|A fast compressor/decompressor||
+|5|[@nzw0301](https://github.com/nzw0301)/[**TopicModels.jl**](https://github.com/nzw0301/TopicModels.jl)|||
 |5|[@r9y9](https://github.com/r9y9)/[**REAPER.jl**](https://github.com/r9y9/REAPER.jl)|A Julia interface for REAPER (Robust Epoch And Pitch EstimatoR)||
 |5|[@rikenbit](https://github.com/rikenbit)/[**OnlinePCA.jl**](https://github.com/rikenbit/OnlinePCA.jl)|Online Principal Component Analysis||
 |5|[@vchuravy](https://github.com/vchuravy)/[**IACA.jl**](https://github.com/vchuravy/IACA.jl)|A wrapper for Intel Architecture Code Analyzer for Julia||
@@ -39,7 +40,6 @@
 |4|[@bicycle1885](https://github.com/bicycle1885)/[**JSoC2015**](https://github.com/bicycle1885/JSoC2015)|Proposal for Julia Summer of Code 2015||
 |4|[@hydrocoast](https://github.com/hydrocoast)/[**visclaw_julia**](https://github.com/hydrocoast/visclaw_julia)|Visualization of the Clawpack simulations||
 |4|[@lcolaholicl](https://github.com/lcolaholicl)/[**Akagera.jl**](https://github.com/lcolaholicl/Akagera.jl)|Cursor animator for Julialang.||
-|4|[@nzw0301](https://github.com/nzw0301)/[**TopicModels.jl**](https://github.com/nzw0301/TopicModels.jl)|||
 |4|[@r9y9](https://github.com/r9y9)/[**Libfreenect2.jl**](https://github.com/r9y9/Libfreenect2.jl)|A Julia wrapper for libfreenect2||
 |4|[@r9y9](https://github.com/r9y9)/[**RobustPCA.jl**](https://github.com/r9y9/RobustPCA.jl)|Robust Principal Component Analysis in Julia||
 |4|[@r9y9](https://github.com/r9y9)/[**julia-nmf-ss-toy**](https://github.com/r9y9/julia-nmf-ss-toy)|NMF-based Music Source Separation Demo in Julia||

@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |107|[@yahoojapan](https://github.com/yahoojapan)/[**hosted-danger**](https://github.com/yahoojapan/hosted-danger)|:zap: Danger as a Service :zap:||
-|57|[@MakeNowJust](https://github.com/MakeNowJust)/[**crustache**](https://github.com/MakeNowJust/crustache)|{{Mustache}} for Crystal :gem:|[:arrow_upper_right:](https://mustache.github.io)|
+|58|[@MakeNowJust](https://github.com/MakeNowJust)/[**crustache**](https://github.com/MakeNowJust/crustache)|{{Mustache}} for Crystal :gem:|[:arrow_upper_right:](https://mustache.github.io)|
 |37|[@rosylilly](https://github.com/rosylilly)/[**power_assert.cr**](https://github.com/rosylilly/power_assert.cr)|PowerAssert provides the more powerful assertion to you.|[:arrow_upper_right:](https://github.com/rosylilly/power_assert.cr)|
 |32|[@MakeNowJust](https://github.com/MakeNowJust)/[**crake**](https://github.com/MakeNowJust/crake)|CRystal mAKE library||
 |31|[@tbpgr](https://github.com/tbpgr)/[**crystal_samples**](https://github.com/tbpgr/crystal_samples)|||
-|29|[@MakeNowJust](https://github.com/MakeNowJust)/[**crystal-diff**](https://github.com/MakeNowJust/crystal-diff)|A Crystal sequence differencing implementation||
+|30|[@MakeNowJust](https://github.com/MakeNowJust)/[**crystal-diff**](https://github.com/MakeNowJust/crystal-diff)|A Crystal sequence differencing implementation||
 |26|[@rhysd](https://github.com/rhysd)/[**Crisp**](https://github.com/rhysd/Crisp)|Lisp dialect implemented with Crystal||
 |26|[@umurgdk](https://github.com/umurgdk)/[**haydari**](https://github.com/umurgdk/haydari)|Parser combinator library for crystal programming language.||
 |25|[@S-YOU](https://github.com/S-YOU)/[**h2o.cr**](https://github.com/S-YOU/h2o.cr)|h2o bindings for Crystal||
@@ -27,10 +27,10 @@
 |5|[@karupanerura](https://github.com/karupanerura)/[**router-simple.cr**](https://github.com/karupanerura/router-simple.cr)|simple path router inspired by Router::Simple.||
 |4|[@dsh0416](https://github.com/dsh0416)/[**crystal-boy**](https://github.com/dsh0416/crystal-boy)|An Game boy Emulator Built with Crystal||
 |4|[@dtan4](https://github.com/dtan4)/[**aws4_signer.cr**](https://github.com/dtan4/aws4_signer.cr)|||
+|4|[@nwtgck](https://github.com/nwtgck)/[**math2img**](https://github.com/nwtgck/math2img)|Convert LaTeX Math to image||
 |3|[@MakeNowJust](https://github.com/MakeNowJust)/[**amorphous**](https://github.com/MakeNowJust/amorphous)|The most beautiful parser library||
 |3|[@MakeNowJust](https://github.com/MakeNowJust)/[**serialport**](https://github.com/MakeNowJust/serialport)|serial port library for Crystal||
 |3|[@namusyaka](https://github.com/namusyaka)/[**crystal-tsort**](https://github.com/namusyaka/crystal-tsort)|Topological sort implementation for Crystal||
-|3|[@nwtgck](https://github.com/nwtgck)/[**math2img**](https://github.com/nwtgck/math2img)|Convert LaTeX Math to image||
 |3|[@pine](https://github.com/pine)/[**crystal-lua**](https://github.com/pine/crystal-lua)|[EXPERIMENTAL] Lua embedded in Crystal||
 |3|[@rosylilly](https://github.com/rosylilly)/[**semver**](https://github.com/rosylilly/semver)|Semantic Versioning module for Crystal|[:arrow_upper_right:](https://github.com/rosylilly/semver)|
 |3|[@tbpgr](https://github.com/tbpgr)/[**vup**](https://github.com/tbpgr/vup)|Crystal bumpup version tool||

@@ -14,10 +14,10 @@
 |12|[@repeatedly](https://github.com/repeatedly)/[**yajl-d**](https://github.com/repeatedly/yajl-d)|YAJL binding for D||
 |10|[@kubo39](https://github.com/kubo39)/[**syscall-d**](https://github.com/kubo39/syscall-d)|syscall interface for D.|[:arrow_upper_right:](http://code.dlang.org/packages/syscall-d)|
 |10|[@repeatedly](https://github.com/repeatedly)/[**d-volkswagen**](https://github.com/repeatedly/d-volkswagen)|Volkswagen detects when your tests are being run in a CI server, and makes them pass.||
+|10|[@repeatedly](https://github.com/repeatedly)/[**reed**](https://github.com/repeatedly/reed)|Arango Driver for D||
 |10|[@tanitta](https://github.com/tanitta)/[**easing**](https://github.com/tanitta/easing)|easing is a library that add flavor to motion in D programming language.||
 |9|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**snck**](https://github.com/ShigekiKarita/snck)|tqdm-like progress bar for D||
 |9|[@alphaKAI](https://github.com/alphaKAI)/[**dadt**](https://github.com/alphaKAI/dadt)|[WIP] Algebraic Data Type for D,  by compile time parsing with pegged and code generating||
-|9|[@repeatedly](https://github.com/repeatedly)/[**reed**](https://github.com/repeatedly/reed)|Arango Driver for D||
 |8|[@namachan10777](https://github.com/namachan10777)/[**dmatch**](https://github.com/namachan10777/dmatch)|Pattern match for D Language.||
 |8|[@repeatedly](https://github.com/repeatedly)/[**Mongo-D-Driver**](https://github.com/repeatedly/Mongo-D-Driver)|Mongo Driver for D|[:arrow_upper_right:](http://www.mongodb.org/)|
 |7|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-graphviz**](https://github.com/ShigekiKarita/d-graphviz)|Graphviz utility for D||
@@ -43,6 +43,7 @@
 |4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**mir-pybind**](https://github.com/ShigekiKarita/mir-pybind)|python binding generator for D||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dilo**](https://github.com/alphaKAI/dilo)|A minimal Text Editor in D Language, ported from Kilo||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dpmatch**](https://github.com/alphaKAI/dpmatch)|[WIP] Pattern Matching for D, by compile time parsing with pegged and code generating||
+|4|[@matsubara0507](https://github.com/matsubara0507)/[**dlisp**](https://github.com/matsubara0507/dlisp)|Pure Lisp on D Language||
 |4|[@repeatedly](https://github.com/repeatedly)/[**ltsv-d**](https://github.com/repeatedly/ltsv-d)|LTSV implemetation for D||
 |4|[@repeatedly](https://github.com/repeatedly)/[**siphash-d**](https://github.com/repeatedly/siphash-d)|D implementation of SipHash||
 |4|[@youz](https://github.com/youz)/[**grasses**](https://github.com/youz/grasses)|Various implementations of 'Grass' the grass-planting programming language||
@@ -53,6 +54,7 @@
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-ssvm**](https://github.com/ShigekiKarita/d-ssvm)|dlang w/ mir implementation of structural support vector machines (SSVM)||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-svm**](https://github.com/ShigekiKarita/d-svm)|minimal svm implementation||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-tree**](https://github.com/ShigekiKarita/d-tree)|Decision tree library for D||
+|3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**tfd**](https://github.com/ShigekiKarita/tfd)|Tensorflow wrapper for D||
 |3|[@Tosuke](https://github.com/Tosuke)/[**dpromise**](https://github.com/Tosuke/dpromise)|ES2015 like Promises for dlang||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**dsh**](https://github.com/alphaKAI/dsh)|The D Shell.||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**fss**](https://github.com/alphaKAI/fss)|Fast file searcher with locate command||
@@ -65,7 +67,6 @@
 |3|[@kubo39](https://github.com/kubo39)/[**libloading**](https://github.com/kubo39/libloading)|A dynamic library loading library.||
 |3|[@kubo39](https://github.com/kubo39)/[**sharedlib**](https://github.com/kubo39/sharedlib)|Deprecated: moved to https://github.com/kubo39/libloading ||
 |3|[@kubo39](https://github.com/kubo39)/[**stm32f407discovery**](https://github.com/kubo39/stm32f407discovery)|STM32F407DISCOVERY dev board library for LDC.||
-|3|[@matsubara0507](https://github.com/matsubara0507)/[**dlisp**](https://github.com/matsubara0507/dlisp)|Pure Lisp on D Language||
 |3|[@nanase](https://github.com/nanase)/[**dux**](https://github.com/nanase/dux)|ux implementation for D||
 |3|[@tanitta](https://github.com/tanitta)/[**mastodon-d**](https://github.com/tanitta/mastodon-d)|mastodon API Wrapper for dlang||
 |3|[@tanitta](https://github.com/tanitta)/[**unitro**](https://github.com/tanitta/unitro)|||

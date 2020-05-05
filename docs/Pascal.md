@@ -23,7 +23,6 @@
 |5|[@tobynet](https://github.com/tobynet)/[**o3-layered-window**](https://github.com/tobynet/o3-layered-window)|Library of layered window for Delphi|[:arrow_upper_right:](http://tobysoft.net/wiki/index.php?Delphi%2FO3LayeredWindow)|
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**BezierConverter**](https://github.com/LUXOPHIA/BezierConverter)|||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**CameraFaces**](https://github.com/LUXOPHIA/CameraFaces)|OpenCV を用いて、カメラの映像から顔を認識する方法。||
-|4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**Fractals**](https://github.com/LUXOPHIA/Fractals)|Learn while rendering the Mandelbrot-set as a motif, comparing ObjectPascal and C++.||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**GammaFunc**](https://github.com/LUXOPHIA/GammaFunc)|How to compute the Gamma function.||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**MarchingCubes**](https://github.com/LUXOPHIA/MarchingCubes)|３Ｄボリュームデータの等値面をポリゴン化する方法。||
 |4|[@LUXOPHIA](https://github.com/LUXOPHIA)/[**NablaField2D**](https://github.com/LUXOPHIA/NablaField2D)|ポテンシャル分布からベクトル場を生成する方法。||

@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |78|[@r7kamura](https://github.com/r7kamura)/[**mastodon-terraform**](https://github.com/r7kamura/mastodon-terraform)|Boilerplate for running Mastodon on AWS using Terraform and CircleCI.||
-|51|[@freedomofkeima](https://github.com/freedomofkeima)/[**terraform-docker-ecs**](https://github.com/freedomofkeima/terraform-docker-ecs)|Manage your ASG + ECS Cluster (Docker) with Terraform||
+|52|[@freedomofkeima](https://github.com/freedomofkeima)/[**terraform-docker-ecs**](https://github.com/freedomofkeima/terraform-docker-ecs)|Manage your ASG + ECS Cluster (Docker) with Terraform||
 |47|[@int128](https://github.com/int128)/[**terraform-aws-kops-alb**](https://github.com/int128/terraform-aws-kops-alb)|Terraform module for ALB, Route53 and nginx-ingress with kops on AWS|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/kops-alb)|
 |39|[@int128](https://github.com/int128)/[**kops-terraform-starter**](https://github.com/int128/kops-terraform-starter)|A template of Kubernetes with nginx-ingress and ALB on AWS (using kops and Terraform)||
 |25|[@knakayama](https://github.com/knakayama)/[**aws-terraform-playground**](https://github.com/knakayama/aws-terraform-playground)|terraform examples on AWS||
 |24|[@shufo](https://github.com/shufo)/[**terraform-boilerplate-ecs-alb**](https://github.com/shufo/terraform-boilerplate-ecs-alb)|Terraform boilerplate for ECS with ALB.||
 |24|[@wata727](https://github.com/wata727)/[**tf_aws_ecs_on_spotfleet**](https://github.com/wata727/tf_aws_ecs_on_spotfleet)|A Terraform module for create ECS on Spot Fleet.||
 |21|[@shogomuranushi](https://github.com/shogomuranushi)/[**oreno-terraform**](https://github.com/shogomuranushi/oreno-terraform)|||
+|16|[@int128](https://github.com/int128)/[**terraform-aws-nat-instance**](https://github.com/int128/terraform-aws-nat-instance)|Terraform module to provision a NAT Instance using an Auto Scaling Group and Spot Instance from $1/month|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/nat-instance/aws/)|
 |14|[@ToruMakabe](https://github.com/ToruMakabe)/[**Understanding-K8s**](https://github.com/ToruMakabe/Understanding-K8s)|[翔泳社 しくみがわかる Kubernetes] サンプルコード||
-|14|[@int128](https://github.com/int128)/[**terraform-aws-nat-instance**](https://github.com/int128/terraform-aws-nat-instance)|Terraform module to provision a NAT Instance using an Auto Scaling Group and Spot Instance from $1/month|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/nat-instance/aws/)|
 |13|[@knakayama](https://github.com/knakayama)/[**terraform-circleci-demo**](https://github.com/knakayama/terraform-circleci-demo)|||
 |12|[@inokappa](https://github.com/inokappa)/[**oreno-terraform-ecs**](https://github.com/inokappa/oreno-terraform-ecs)|||
 |8|[@knakayama](https://github.com/knakayama)/[**blue-green-deployment-with-codedeploy-and-terraform**](https://github.com/knakayama/blue-green-deployment-with-codedeploy-and-terraform)|||
@@ -29,6 +29,8 @@
 |4|[@cotoami](https://github.com/cotoami)/[**cotoami-infra**](https://github.com/cotoami/cotoami-infra)|Cotoami infrastructure for cotoa.me||
 |4|[@tcnksm](https://github.com/tcnksm)/[**tf-dnsimple-gh-pages**](https://github.com/tcnksm/tf-dnsimple-gh-pages)|Setup custom apex domain for your GitHub pages with Terraform||
 |4|[@toshimaru](https://github.com/toshimaru)/[**terraform-digitalocean-rails**](https://github.com/toshimaru/terraform-digitalocean-rails)|A terraform simple sample on DigitalOcean for Ruby on Rails.||
+|3|[@cookpad](https://github.com/cookpad)/[**terraform-aws-eks**](https://github.com/cookpad/terraform-aws-eks)|A Terraform module to Provision AWS Elastic Kubernetes (EKS) clusters and worker nodes||
+|3|[@int128](https://github.com/int128)/[**terraform-aws-kubernetes-irsa**](https://github.com/int128/terraform-aws-kubernetes-irsa)|Terraform module for IAM Roles for Service Accounts (IRSA) on self-hosted Kubernetes cluster such as kops|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/kubernetes-irsa/aws)|
 |3|[@jun06t](https://github.com/jun06t)/[**terraform-sample**](https://github.com/jun06t/terraform-sample)|terraform examples||
 |3|[@knakayama](https://github.com/knakayama)/[**serverless-url-shortener**](https://github.com/knakayama/serverless-url-shortener)|||
 |3|[@matsuu](https://github.com/matsuu)/[**terraform-pixiv-isucon2016**](https://github.com/matsuu/terraform-pixiv-isucon2016)|Terraform configuration files for building Pixiv ISUCON 2016 environment||

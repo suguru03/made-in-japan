@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|428|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
-|370|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
+|430|[@sinhrks](https://github.com/sinhrks)/[**ggfortify**](https://github.com/sinhrks/ggfortify)|Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.||
+|389|[@yutannihilation](https://github.com/yutannihilation)/[**gghighlight**](https://github.com/yutannihilation/gghighlight)|Highlight points and lines in ggplot2|[:arrow_upper_right:](https://yutannihilation.github.io/gghighlight/)|
 |114|[@Keiku](https://github.com/Keiku)/[**kaggle-airbnb-recruiting-new-user-bookings**](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)|2nd Place Solution in Kaggle Airbnb New User Bookings competition||
-|90|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
-|70|[@Ryo-N7](https://github.com/Ryo-N7)/[**tvthemes**](https://github.com/Ryo-N7/tvthemes)|ggplot2 themes and palettes based on your favorite TV shows|[:arrow_upper_right:](https://ryo-n7.github.io/tvthemes/)|
-|41|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
+|93|[@sinhrks](https://github.com/sinhrks)/[**stan-statespace**](https://github.com/sinhrks/stan-statespace)|Stan models for state space time series||
+|72|[@Ryo-N7](https://github.com/Ryo-N7)/[**tvthemes**](https://github.com/Ryo-N7/tvthemes)|ggplot2 themes and palettes based on your favorite TV shows|[:arrow_upper_right:](https://ryo-n7.github.io/tvthemes/)|
+|42|[@hoxo-m](https://github.com/hoxo-m)/[**githubinstall**](https://github.com/hoxo-m/githubinstall)|A Helpful Way to Install R Packages Hosted on GitHub|[:arrow_upper_right:](http://hoxo-m.github.io/githubinstall/)|
 |40|[@yutannihilation](https://github.com/yutannihilation)/[**ggsflabel**](https://github.com/yutannihilation/ggsflabel)|Labels for 'sf' with 'ggplot2'|[:arrow_upper_right:](https://yutannihilation.github.io/ggsflabel/)|
 |38|[@hoxo-m](https://github.com/hoxo-m)/[**pforeach**](https://github.com/hoxo-m/pforeach)|Easy to parallel processing in R||
 |38|[@ymattu](https://github.com/ymattu)/[**MlBayesOpt**](https://github.com/ymattu/MlBayesOpt)|R package to tune parameters for machine learning(Support Vector Machine, Random Forest, and Xgboost), using bayesian optimization with gaussian process||
@@ -15,22 +15,22 @@
 |28|[@uribo](https://github.com/uribo)/[**jpmesh**](https://github.com/uribo/jpmesh)|:white_square_button: Utilities for Japanese mesh code|[:arrow_upper_right:](https://uribo.github.io/jpmesh)|
 |23|[@uribo](https://github.com/uribo)/[**zipangu**](https://github.com/uribo/zipangu)|Japanese utility functions and data|[:arrow_upper_right:](https://uribo.github.io/zipangu)|
 |17|[@hoxo-m](https://github.com/hoxo-m)/[**magicfor**](https://github.com/hoxo-m/magicfor)|Magic Functions to Obtain Results from for Loops in R|[:arrow_upper_right:](https://github.com/hoxo-m/magicfor)|
+|17|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
+|17|[@yutannihilation](https://github.com/yutannihilation)/[**kokudosuuchi**](https://github.com/yutannihilation/kokudosuuchi)|国土数値情報ダウンロードサービスWeb APIからデータを取得するためのRパッケージです||
 |17|[@yutannihilation](https://github.com/yutannihilation)/[**tiedr**](https://github.com/yutannihilation/tiedr)|Experimental package (not yet existent) for multi-gather() and multi-spread()||
-|16|[@toshi-k](https://github.com/toshi-k)/[**kaggle-bosch-production-line-performance**](https://github.com/toshi-k/kaggle-bosch-production-line-performance)|57th place solution in "Bosch Production Line Performance"||
-|16|[@yutannihilation](https://github.com/yutannihilation)/[**kokudosuuchi**](https://github.com/yutannihilation/kokudosuuchi)|国土数値情報ダウンロードサービスWeb APIからデータを取得するためのRパッケージです||
 |15|[@Quantisan](https://github.com/Quantisan)/[**nullwave**](https://github.com/Quantisan/nullwave)|active noise control for free||
+|15|[@hoxo-m](https://github.com/hoxo-m)/[**dplyr.teradata**](https://github.com/hoxo-m/dplyr.teradata)|A Teradata Backend for dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/dplyr.teradata)|
 |15|[@hoxo-m](https://github.com/hoxo-m)/[**dplyrr**](https://github.com/hoxo-m/dplyrr)|Utilities for comfortable use of dplyr with databases||
-|14|[@hoxo-m](https://github.com/hoxo-m)/[**dplyr.teradata**](https://github.com/hoxo-m/dplyr.teradata)|A Teradata Backend for dplyr|[:arrow_upper_right:](https://github.com/hoxo-m/dplyr.teradata)|
-|14|[@yutannihilation](https://github.com/yutannihilation)/[**estatapi**](https://github.com/yutannihilation/estatapi)|R package for e-Stat API in Japan||
-|14|[@yutannihilation](https://github.com/yutannihilation)/[**mediumr**](https://github.com/yutannihilation/mediumr)|R Interface to Medium API||
+|15|[@yutannihilation](https://github.com/yutannihilation)/[**mediumr**](https://github.com/yutannihilation/mediumr)|R Interface to Medium API||
+|14|[@yutannihilation](https://github.com/yutannihilation)/[**estatapi**](https://github.com/yutannihilation/estatapi)|R package for e-Stat API in Japan|[:arrow_upper_right:](https://yutannihilation.github.io/estatapi/)|
 |13|[@TomKellyGenetics](https://github.com/TomKellyGenetics)/[**leiden**](https://github.com/TomKellyGenetics/leiden)|Implementation of the Leiden algorithm called by reticulate in R. (CRAN)|[:arrow_upper_right:](https://leidenalg.readthedocs.io)|
+|13|[@uribo](https://github.com/uribo)/[**jpndistrict**](https://github.com/uribo/jpndistrict)|🗾 Create Japansese Administration Area Maps|[:arrow_upper_right:](http://uribo.github.io/jpndistrict)|
 |13|[@uribo](https://github.com/uribo)/[**volcano**](https://github.com/uribo/volcano)|Japan Volcano Rayshader 🌋||
 |11|[@chezou](https://github.com/chezou)/[**sparkavro**](https://github.com/chezou/sparkavro)|Load Avro data into Spark with sparklyr||
 |11|[@hoxo-m](https://github.com/hoxo-m)/[**sGMRFmix**](https://github.com/hoxo-m/sGMRFmix)|Sparse Gaussian Markov Random Field Mixtures for Anomaly Detection||
 |11|[@kazutan](https://github.com/kazutan)/[**tubeplayR**](https://github.com/kazutan/tubeplayR)|play youtube by R||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RFinanceJ**](https://github.com/teramonagi/RFinanceJ)|Get the data related to finance in Japan using variety types of data sources||
 |11|[@teramonagi](https://github.com/teramonagi)/[**RODBCDBI**](https://github.com/teramonagi/RODBCDBI)|An implementation of R's DBI interface using ODBC package as a back-end. This allows R to connect to any DBMS that has a ODBC driver.|[:arrow_upper_right:](https://cran.r-project.org/web/packages/RODBCDBI/index.html)|
-|11|[@uribo](https://github.com/uribo)/[**jpndistrict**](https://github.com/uribo/jpndistrict)|🗾 Create Japansese Administration Area Maps|[:arrow_upper_right:](http://uribo.github.io/jpndistrict)|
 |11|[@yutannihilation](https://github.com/yutannihilation)/[**highstockR**](https://github.com/yutannihilation/highstockR)|An R package to draw highstock charts. This is for demonstration purpose of htmlwidgets at 46th Tokyo.R meeting.||
 |11|[@yutannihilation](https://github.com/yutannihilation)/[**rstudioconf2019**](https://github.com/yutannihilation/rstudioconf2019)|Materials for rstudio::conf 2019||
 |10|[@hoxo-m](https://github.com/hoxo-m)/[**densratio**](https://github.com/hoxo-m/densratio)|An R Package for Density Ratio Estimation|[:arrow_upper_right:](https://github.com/hoxo-m/densratio)|
@@ -61,6 +61,7 @@
 |6|[@lindsayrutter](https://github.com/lindsayrutter)/[**ggenealogy**](https://github.com/lindsayrutter/ggenealogy)|R package for visualizing genealogy datasets|[:arrow_upper_right:](https://cran.r-project.org/web/packages/ggenealogy)|
 |6|[@teramonagi](https://github.com/teramonagi)/[**oandar**](https://github.com/teramonagi/oandar)|R wrapper for the OANDA REST API (http://developer.oanda.com/rest-live/introduction/)||
 |6|[@uribo](https://github.com/uribo)/[**bucky**](https://github.com/uribo/bucky)|Helpers for literature management as GitHub actions||
+|6|[@uribo](https://github.com/uribo)/[**kuniezu**](https://github.com/uribo/kuniezu)|Assistance on the National Geography of Japan|[:arrow_upper_right:](https://uribo.github.io/kuniezu)|
 |6|[@uribo](https://github.com/uribo)/[**textlintr**](https://github.com/uribo/textlintr)|✅ Natural Language Linter Tools for 'R Markdown' and R Code 💯|[:arrow_upper_right:](https://uribo.github.io/textlintr/)|
 |6|[@uribo](https://github.com/uribo)/[**wakatimer**](https://github.com/uribo/wakatimer)|:hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.||
 |6|[@ymattu](https://github.com/ymattu)/[**rjumanpp**](https://github.com/ymattu/rjumanpp)|R Interface to JUMAN++||
@@ -86,6 +87,8 @@
 |4|[@uribo](https://github.com/uribo)/[**30DayMapChallenge**](https://github.com/uribo/30DayMapChallenge)|||
 |4|[@uribo](https://github.com/uribo)/[**designer**](https://github.com/uribo/designer)|:art: tools for design with R||
 |4|[@uribo](https://github.com/uribo)/[**dpp-cookbook**](https://github.com/uribo/dpp-cookbook)|Baked your data :)|[:arrow_upper_right:](https://uribo.github.io/dpp-cookbook/)|
+|4|[@uribo](https://github.com/uribo)/[**japan-covid19**](https://github.com/uribo/japan-covid19)|||
+|4|[@uribo](https://github.com/uribo)/[**tabularmaps**](https://github.com/uribo/tabularmaps)|Make 'tabular' Tile-Grid Geographical Maps||
 |4|[@yuifu](https://github.com/yuifu)/[**Hayashi2018**](https://github.com/yuifu/Hayashi2018)|Custom codes for Hayashi et al. (2018)||
 |4|[@yukiyanai](https://github.com/yukiyanai)/[**rm2-Bayes**](https://github.com/yukiyanai/rm2-Bayes)|Course materials for Research Methods in Political Science II at Kobe University||
 |4|[@yutannihilation](https://github.com/yutannihilation)/[**ansible-playbook-r**](https://github.com/yutannihilation/ansible-playbook-r)|An Ansible Playbook to deploy RStudio Server||
@@ -109,8 +112,6 @@
 |3|[@teramonagi](https://github.com/teramonagi)/[**GlobalTokyoR1**](https://github.com/teramonagi/GlobalTokyoR1)|Souce codes for study meeting "Global Tokyo.R 1"||
 |3|[@teramonagi](https://github.com/teramonagi)/[**R-FRBData**](https://github.com/teramonagi/R-FRBData)|Download data from FRB's website||
 |3|[@teramonagi](https://github.com/teramonagi)/[**scdv**](https://github.com/teramonagi/scdv)|SCDV (Sparse Composite Document Vectors) implementation in R||
-|3|[@uribo](https://github.com/uribo)/[**japan-covid19**](https://github.com/uribo/japan-covid19)|||
-|3|[@uribo](https://github.com/uribo)/[**tabularmaps**](https://github.com/uribo/tabularmaps)|Make 'tabular' Tile-Grid Geographical Maps||
 |3|[@ymyzk](https://github.com/ymyzk)/[**RTConnect**](https://github.com/ymyzk/RTConnect)|Tools for analyzing sales report files of iTunes Connect.|[:arrow_upper_right:](http://cran.r-project.org/web/packages/RTConnect/index.html)|
 |3|[@yutannihilation](https://github.com/yutannihilation)/[**K9**](https://github.com/yutannihilation/K9)|Affirmative, Master!!!|[:arrow_upper_right:](https://yutannihilation.github.io/K9/)|
 |3|[@yutannihilation](https://github.com/yutannihilation)/[**kntnr**](https://github.com/yutannihilation/kntnr)|R client for kintone|[:arrow_upper_right:](https://yutannihilation.github.io/kntnr/)|

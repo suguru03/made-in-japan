@@ -6,9 +6,9 @@
 |12|[@NicolasDorier](https://github.com/NicolasDorier)/[**lightning-charge-docker**](https://github.com/NicolasDorier/lightning-charge-docker)|Docker-Compose for production (Let's encrypt + NGINX + lightning charged + C-Lightning + Bitcoin Core)||
 |11|[@guitarrapc](https://github.com/guitarrapc)/[**WindowsCredentialVault**](https://github.com/guitarrapc/WindowsCredentialVault)|Windows 8 Store App style Windows Credential Management Module for Windows PowerShell||
 |9|[@Itsukara](https://github.com/Itsukara)/[**WpfZoo**](https://github.com/Itsukara/WpfZoo)|Display almost all WPF controls by PowerShell for demonstration of WPF controls||
+|8|[@guitarrapc](https://github.com/guitarrapc)/[**WinCredManager**](https://github.com/guitarrapc/WinCredManager)|PowerShell Credential Store wrapper to use Windows Credential Manager||
 |8|[@kenakamu](https://github.com/kenakamu)/[**Microsoft.PowerBI.PowerShell**](https://github.com/kenakamu/Microsoft.PowerBI.PowerShell)|PowerShell mobule for PowerBI||
 |7|[@guitarrapc](https://github.com/guitarrapc)/[**DSCSample**](https://github.com/guitarrapc/DSCSample)|DSC Sample for Windows PowerShell||
-|7|[@guitarrapc](https://github.com/guitarrapc)/[**WinCredManager**](https://github.com/guitarrapc/WinCredManager)|PowerShell Credential Store wrapper to use Windows Credential Manager||
 |6|[@guitarrapc](https://github.com/guitarrapc)/[**ScoopPlaybook**](https://github.com/guitarrapc/ScoopPlaybook)|PowerShell Module to Play Scoop like Ansible|[:arrow_upper_right:](https://www.powershellgallery.com/packages/ScoopPlaybook)|
 |5|[@TsuyoshiUshio](https://github.com/TsuyoshiUshio)/[**NomadClusterARM**](https://github.com/TsuyoshiUshio/NomadClusterARM)|HashiCorp Nomad Cluster by ARM||
 |5|[@runceel](https://github.com/runceel)/[**uwptodoapp**](https://github.com/runceel/uwptodoapp)|todo app||

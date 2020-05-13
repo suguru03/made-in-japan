@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|553|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
+|558|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
 |374|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
-|244|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
+|249|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
 |113|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
 |71|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
 |47|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**ClassifierToolbox**](https://github.com/hiroyuki-kasai/ClassifierToolbox)|A MATLAB toolbox for classifier: Version 1.0.7||
@@ -21,10 +21,10 @@
 |10|[@chrislgarry](https://github.com/chrislgarry)/[**KalmanFilter**](https://github.com/chrislgarry/KalmanFilter)|MATLAB implementation of a simple Kalman filter.||
 |10|[@meshgi](https://github.com/meshgi)/[**Histogram_of_Color_Advancements**](https://github.com/meshgi/Histogram_of_Color_Advancements)|A Comparison for Performance of Different Variations of Histogram of Colors and Corresponding Distance Measure||
 |10|[@noagarcia](https://github.com/noagarcia)/[**dresstar**](https://github.com/noagarcia/dresstar)|Video retrieval from query images||
+|8|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**SimpleDeepNetToolbox**](https://github.com/hiroyuki-kasai/SimpleDeepNetToolbox)|Simple MATLAB toolbox for deep learning network: Version 1.0.3||
 |8|[@slabua](https://github.com/slabua)/[**robotics-filters**](https://github.com/slabua/robotics-filters)|Kalman, Particle and SLAM Filters implemented for the 2012/2013 Robotics exam.||
 |8|[@sonots](https://github.com/sonots)/[**cvprtoolbox**](https://github.com/sonots/cvprtoolbox)|Yet Another MATLAB Computer Vision and Pattern Recognition toolbox||
 |7|[@0todd0000](https://github.com/0todd0000)/[**spm1dmatlab**](https://github.com/0todd0000/spm1dmatlab)|One-Dimensional Statistical Parametric Mapping in Matlab.||
-|7|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**SimpleDeepNetToolbox**](https://github.com/hiroyuki-kasai/SimpleDeepNetToolbox)|Simple MATLAB toolbox for deep learning network: Version 1.0.3||
 |7|[@maxime](https://github.com/maxime)/[**narrative-gps**](https://github.com/maxime/narrative-gps)|An attempt to read the GPS Snapshot files from the Narrative Camera with Matlab||
 |7|[@noagarcia](https://github.com/noagarcia)/[**SimNet**](https://github.com/noagarcia/SimNet)|SimNet: Learning Non-Metric Visual Similarity for Image Retrieval||
 |6|[@ugo-nama-kun](https://github.com/ugo-nama-kun)/[**RL_nyu-mon**](https://github.com/ugo-nama-kun/RL_nyu-mon)|||

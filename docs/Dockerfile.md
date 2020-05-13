@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|401|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Perfect Docker Image for Media Streaming Expert User ( https://github.com/meetecho/janus-gateway )||
+|407|[@atyenoria](https://github.com/atyenoria)/[**janus-webrtc-gateway-docker**](https://github.com/atyenoria/janus-webrtc-gateway-docker)|Perfect Docker Image for Media Streaming Expert User ( https://github.com/meetecho/janus-gateway )||
 |138|[@atyenoria](https://github.com/atyenoria)/[**webrtc-transcoding-experimentation**](https://github.com/atyenoria/webrtc-transcoding-experimentation)|[wip] Docker Image for Media Streaming Expert User. Janus WebRTC Docker Image||
 |129|[@Quantisan](https://github.com/Quantisan)/[**docker-clojure**](https://github.com/Quantisan/docker-clojure)|Official Docker image for Clojure|[:arrow_upper_right:](https://hub.docker.com/_/clojure/)|
 |117|[@vvakame](https://github.com/vvakame)/[**docker-review**](https://github.com/vvakame/docker-review)|Re:VIEW build container by docker||
 |89|[@codesuki](https://github.com/codesuki)/[**ecs-nginx-proxy**](https://github.com/codesuki/ecs-nginx-proxy)|Reverse proxy for AWS ECS. Lets you address your docker containers by sub domain.||
-|57|[@mumoshu](https://github.com/mumoshu)/[**kube-ssm-agent**](https://github.com/mumoshu/kube-ssm-agent)|Secure, access-controlled, and audited terminal sessions to EKS nodes without SSH||
+|58|[@mumoshu](https://github.com/mumoshu)/[**kube-ssm-agent**](https://github.com/mumoshu/kube-ssm-agent)|Secure, access-controlled, and audited terminal sessions to EKS nodes without SSH||
 |44|[@uetchy](https://github.com/uetchy)/[**dockerfile-machinelearning**](https://github.com/uetchy/dockerfile-machinelearning)|🐳🤖 Dockerfile for ML researchers.||
 |41|[@knqyf263](https://github.com/knqyf263)/[**CVE-2019-6340**](https://github.com/knqyf263/CVE-2019-6340)|Environment for CVE-2019-6340 (Drupal)||
 |36|[@m2wasabi](https://github.com/m2wasabi)/[**docker-compose-template-laravel**](https://github.com/m2wasabi/docker-compose-template-laravel)|Docker template for Laravel developer||
@@ -16,12 +16,12 @@
 |25|[@windyakin](https://github.com/windyakin)/[**docker-unity-cache-server**](https://github.com/windyakin/docker-unity-cache-server)|Unity Cache Server Docker images|[:arrow_upper_right:](https://hub.docker.com/r/windyakin/docker-unity-cache-server)|
 |20|[@kawasin73](https://github.com/kawasin73)/[**pipenv-docker-development**](https://github.com/kawasin73/pipenv-docker-development)|docker template for fast development using pipenv.||
 |20|[@localhost9292](https://github.com/localhost9292)/[**kubernetes.rb**](https://github.com/localhost9292/kubernetes.rb)|||
-|20|[@norio-nomura](https://github.com/norio-nomura)/[**docker-swift**](https://github.com/norio-nomura/docker-swift)|Docker image of Swift for Linux on Ubuntu 16.04|[:arrow_upper_right:](https://hub.docker.com/r/norionomura/swift/)|
+|19|[@norio-nomura](https://github.com/norio-nomura)/[**docker-swift**](https://github.com/norio-nomura/docker-swift)|Docker image of Swift for Linux on Ubuntu 16.04|[:arrow_upper_right:](https://hub.docker.com/r/norionomura/swift/)|
+|18|[@myui](https://github.com/myui)/[**dockernized-digdag-server**](https://github.com/myui/dockernized-digdag-server)|Dockerfile to run digdag-server on Amazon ECS||
 |18|[@uphy](https://github.com/uphy)/[**ubuntu-desktop-jp**](https://github.com/uphy/ubuntu-desktop-jp)|日本人向けのUbuntuデスクトップ環境のDockerイメージです。||
-|17|[@myui](https://github.com/myui)/[**dockernized-digdag-server**](https://github.com/myui/dockernized-digdag-server)|Dockerfile to run digdag-server on Amazon ECS||
+|16|[@hakatashi](https://github.com/hakatashi)/[**esolang-box**](https://github.com/hakatashi/esolang-box)|Easy and standardized docker images for 200+ esoteric (and non-esoteric) languages.|[:arrow_upper_right:](https://hub.docker.com/u/esolang/)|
 |16|[@n1215](https://github.com/n1215)/[**roadrunner-docker-skeleton**](https://github.com/n1215/roadrunner-docker-skeleton)|local docker environment skeleton for RoadRunner||
 |16|[@nooptr](https://github.com/nooptr)/[**docker-rails-mysql**](https://github.com/nooptr/docker-rails-mysql)|Docker Official Image packaging for Ruby on Rails and MySQL||
-|14|[@hakatashi](https://github.com/hakatashi)/[**esolang-box**](https://github.com/hakatashi/esolang-box)|Easy and standardized docker images for 200+ esoteric (and non-esoteric) languages.|[:arrow_upper_right:](https://hub.docker.com/u/esolang/)|
 |14|[@k1LoW](https://github.com/k1LoW)/[**docker-alpine-pandoc-ja**](https://github.com/k1LoW/docker-alpine-pandoc-ja)|Pandoc for Japanese based on Alpine Linux||
 |14|[@nwtgck](https://github.com/nwtgck)/[**docker-nginx-http3**](https://github.com/nwtgck/docker-nginx-http3)|Docker image for Nginx + HTTP/3 powered by Quiche||
 |14|[@tk0miya](https://github.com/tk0miya)/[**sphinx-docker**](https://github.com/tk0miya/sphinx-docker)|||
@@ -53,6 +53,7 @@
 |5|[@bungoume](https://github.com/bungoume)/[**log-sender**](https://github.com/bungoume/log-sender)|collect access_log, alert_log, action_log. and send to log-aggregator||
 |5|[@chezou](https://github.com/chezou)/[**docker-sphinx-recommonmark**](https://github.com/chezou/docker-sphinx-recommonmark)|Sphinx documentation toolchain, including latex and recommonmark in an Ubuntu docker container.||
 |5|[@knqyf263](https://github.com/knqyf263)/[**CVE-2019-5420**](https://github.com/knqyf263/CVE-2019-5420)|CVE-2019-5420 (Ruby on Rails)||
+|5|[@laysakura](https://github.com/laysakura)/[**riscv64imac-hello-rs**](https://github.com/laysakura/riscv64imac-hello-rs)|A "Hellow World!" running on RISC-V (riscv64imac) written in Rust.||
 |5|[@matsuu](https://github.com/matsuu)/[**docker-nethack**](https://github.com/matsuu/docker-nethack)|Dockerfile for Nethack 3.6.6|[:arrow_upper_right:](https://hub.docker.com/r/matsuu/nethack/)|
 |5|[@meganetaaan](https://github.com/meganetaaan)/[**moddable-boilerplate**](https://github.com/meganetaaan/moddable-boilerplate)|Yet another moddableSDK project boilerplate with typescript, eslint and prettier.||
 |5|[@peaceiris](https://github.com/peaceiris)/[**actions-hugo-link-check**](https://github.com/peaceiris/actions-hugo-link-check)|GitHub Actions to check broken links for Hugo||
@@ -65,10 +66,10 @@
 |4|[@cognitom](https://github.com/cognitom)/[**coder2-docker**](https://github.com/cognitom/coder2-docker)|||
 |4|[@hibariya](https://github.com/hibariya)/[**dockerfiles**](https://github.com/hibariya/dockerfiles)|Dockerfiles I use on my development environments.|[:arrow_upper_right:](https://hub.docker.com/u/hibariya/)|
 |4|[@izumin5210](https://github.com/izumin5210)/[**actions-reviewdog**](https://github.com/izumin5210/actions-reviewdog)|||
-|4|[@laysakura](https://github.com/laysakura)/[**riscv64imac-hello-rs**](https://github.com/laysakura/riscv64imac-hello-rs)|A "Hellow World!" running on RISC-V (riscv64imac) written in Rust.||
 |4|[@linyows](https://github.com/linyows)/[**vault-yawaraka**](https://github.com/linyows/vault-yawaraka)|||
 |4|[@pyohei](https://github.com/pyohei)/[**docker-cgi-python**](https://github.com/pyohei/docker-cgi-python)|🐳Docker file for cgi using python2.7, 3.6 and 3.7🐍|[:arrow_upper_right:](https://medium.com/@pyohei/create-the-simple-image-server-with-python-f8b4b8607485?source=friends_link&sk=684aadf8462ae0f2facb5ce3a737c860)|
 |4|[@shimizukawa](https://github.com/shimizukawa)/[**docker-python-all**](https://github.com/shimizukawa/docker-python-all)|Ubuntu and Python 2.4, 2.5, 2.6, 2.7, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, pypy||
+|4|[@smizy](https://github.com/smizy)/[**docker-mecab**](https://github.com/smizy/docker-mecab)|MeCab docker image based on alpine||
 |4|[@uphy](https://github.com/uphy)/[**eclipse-vscode-jp**](https://github.com/uphy/eclipse-vscode-jp)|日本人向けの開発環境用のデスクトップ環境Dockerイメージです。||
 |4|[@uzyexe](https://github.com/uzyexe)/[**dockerfile-serverspec**](https://github.com/uzyexe/dockerfile-serverspec)|Serverspec Dockerfile||
 |4|[@vochicong](https://github.com/vochicong)/[**lc0-docker**](https://github.com/vochicong/lc0-docker)|lc0docker: run lc0 chess client and lichess bot under Docker and Kubernetes||
@@ -92,7 +93,6 @@
 |3|[@nwtgck](https://github.com/nwtgck)/[**docker-mkp224o**](https://github.com/nwtgck/docker-mkp224o)|Docker image for mkp224o - generate vanity onion v3 address||
 |3|[@peaceiris](https://github.com/peaceiris)/[**actions-liche**](https://github.com/peaceiris/actions-liche)|GitHub Actions for liche (Fast Link Checker for Markdown and HTML in Go)||
 |3|[@shunk031](https://github.com/shunk031)/[**mecab-neologd-py3**](https://github.com/shunk031/mecab-neologd-py3)|:whale: My dockernized mecab-ipadic-neologd with mecab-python3 :snake:||
-|3|[@smizy](https://github.com/smizy)/[**docker-mecab**](https://github.com/smizy/docker-mecab)|MeCab docker image based on alpine||
 |3|[@syumai](https://github.com/syumai)/[**deno-docker**](https://github.com/syumai/deno-docker)|Docker image to run deno in safe place.|[:arrow_upper_right:](https://hub.docker.com/r/syumai/deno/)|
 |3|[@takeyuweb](https://github.com/takeyuweb)/[**MTDK**](https://github.com/takeyuweb/MTDK)|MT7開発環境構築をdockerで手軽にやりたい||
 |3|[@tenkoma](https://github.com/tenkoma)/[**cakephp3-app-skeleton**](https://github.com/tenkoma/cakephp3-app-skeleton)|||

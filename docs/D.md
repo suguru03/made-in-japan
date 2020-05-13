@@ -41,6 +41,7 @@
 |5|[@repeatedly](https://github.com/repeatedly)/[**zstd-d**](https://github.com/repeatedly/zstd-d)|D binding for Zstandard||
 |4|[@MakeNowJust](https://github.com/MakeNowJust)/[**AnalF_ck**](https://github.com/MakeNowJust/AnalF_ck)|淫夢プログラミング言語||
 |4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**mir-pybind**](https://github.com/ShigekiKarita/mir-pybind)|python binding generator for D||
+|4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**tfd**](https://github.com/ShigekiKarita/tfd)|Tensorflow wrapper for D||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dilo**](https://github.com/alphaKAI/dilo)|A minimal Text Editor in D Language, ported from Kilo||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dpmatch**](https://github.com/alphaKAI/dpmatch)|[WIP] Pattern Matching for D, by compile time parsing with pegged and code generating||
 |4|[@matsubara0507](https://github.com/matsubara0507)/[**dlisp**](https://github.com/matsubara0507/dlisp)|Pure Lisp on D Language||
@@ -54,7 +55,7 @@
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-ssvm**](https://github.com/ShigekiKarita/d-ssvm)|dlang w/ mir implementation of structural support vector machines (SSVM)||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-svm**](https://github.com/ShigekiKarita/d-svm)|minimal svm implementation||
 |3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-tree**](https://github.com/ShigekiKarita/d-tree)|Decision tree library for D||
-|3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**tfd**](https://github.com/ShigekiKarita/tfd)|Tensorflow wrapper for D||
+|3|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**tupleops**](https://github.com/ShigekiKarita/tupleops)|Tuple operations for D language||
 |3|[@Tosuke](https://github.com/Tosuke)/[**dpromise**](https://github.com/Tosuke/dpromise)|ES2015 like Promises for dlang||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**dsh**](https://github.com/alphaKAI/dsh)|The D Shell.||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**fss**](https://github.com/alphaKAI/fss)|Fast file searcher with locate command||

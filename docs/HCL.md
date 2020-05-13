@@ -8,7 +8,7 @@
 |24|[@shufo](https://github.com/shufo)/[**terraform-boilerplate-ecs-alb**](https://github.com/shufo/terraform-boilerplate-ecs-alb)|Terraform boilerplate for ECS with ALB.||
 |24|[@wata727](https://github.com/wata727)/[**tf_aws_ecs_on_spotfleet**](https://github.com/wata727/tf_aws_ecs_on_spotfleet)|A Terraform module for create ECS on Spot Fleet.||
 |21|[@shogomuranushi](https://github.com/shogomuranushi)/[**oreno-terraform**](https://github.com/shogomuranushi/oreno-terraform)|||
-|16|[@int128](https://github.com/int128)/[**terraform-aws-nat-instance**](https://github.com/int128/terraform-aws-nat-instance)|Terraform module to provision a NAT Instance using an Auto Scaling Group and Spot Instance from $1/month|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/nat-instance/aws/)|
+|20|[@int128](https://github.com/int128)/[**terraform-aws-nat-instance**](https://github.com/int128/terraform-aws-nat-instance)|Terraform module to provision a NAT Instance using an Auto Scaling Group and Spot Instance from $1/month|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/nat-instance/aws/)|
 |14|[@ToruMakabe](https://github.com/ToruMakabe)/[**Understanding-K8s**](https://github.com/ToruMakabe/Understanding-K8s)|[翔泳社 しくみがわかる Kubernetes] サンプルコード||
 |13|[@knakayama](https://github.com/knakayama)/[**terraform-circleci-demo**](https://github.com/knakayama/terraform-circleci-demo)|||
 |12|[@inokappa](https://github.com/inokappa)/[**oreno-terraform-ecs**](https://github.com/inokappa/oreno-terraform-ecs)|||

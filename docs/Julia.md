@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|215|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
+|216|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
 |85|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
-|55|[@vchuravy](https://github.com/vchuravy)/[**GPUifyLoops.jl**](https://github.com/vchuravy/GPUifyLoops.jl)|||
+|54|[@vchuravy](https://github.com/vchuravy)/[**GPUifyLoops.jl**](https://github.com/vchuravy/GPUifyLoops.jl)|||
 |51|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
 |35|[@bicycle1885](https://github.com/bicycle1885)/[**TranscodingStreams.jl**](https://github.com/bicycle1885/TranscodingStreams.jl)|Simple, consistent interfaces for any codec.||
 |35|[@vchuravy](https://github.com/vchuravy)/[**PProf.jl**](https://github.com/vchuravy/PProf.jl)|Export Julia profiles to the pprof fromat||
@@ -25,11 +25,11 @@
 |8|[@vchuravy](https://github.com/vchuravy)/[**Hydrozoa.jl**](https://github.com/vchuravy/Hydrozoa.jl)|||
 |7|[@bicycle1885](https://github.com/bicycle1885)/[**ConcurrentCalls.jl**](https://github.com/bicycle1885/ConcurrentCalls.jl)|Call functions concurrently.||
 |7|[@vchuravy](https://github.com/vchuravy)/[**UProbes.jl**](https://github.com/vchuravy/UProbes.jl)|||
+|6|[@bicycle1885](https://github.com/bicycle1885)/[**Snappy.jl**](https://github.com/bicycle1885/Snappy.jl)|A fast compressor/decompressor||
 |5|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**KSVD.jl**](https://github.com/IshitaTakeshi/KSVD.jl)|K-SVD in Julia||
 |5|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**SVMLightLoader.jl**](https://github.com/IshitaTakeshi/SVMLightLoader.jl)|Loader of svmlight / liblinear format files||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**CodecBase.jl**](https://github.com/bicycle1885/CodecBase.jl)|Base 16/32/64 codecs for TranscodingStreams.jl||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**CodecZstd.jl**](https://github.com/bicycle1885/CodecZstd.jl)|A zstd codec for TranscodingStreams.jl.||
-|5|[@bicycle1885](https://github.com/bicycle1885)/[**Snappy.jl**](https://github.com/bicycle1885/Snappy.jl)|A fast compressor/decompressor||
 |5|[@nzw0301](https://github.com/nzw0301)/[**TopicModels.jl**](https://github.com/nzw0301/TopicModels.jl)|||
 |5|[@r9y9](https://github.com/r9y9)/[**REAPER.jl**](https://github.com/r9y9/REAPER.jl)|A Julia interface for REAPER (Robust Epoch And Pitch EstimatoR)||
 |5|[@rikenbit](https://github.com/rikenbit)/[**OnlinePCA.jl**](https://github.com/rikenbit/OnlinePCA.jl)|Online Principal Component Analysis||

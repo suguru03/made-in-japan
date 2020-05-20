@@ -14,7 +14,6 @@
 |3|[@skaji](https://github.com/skaji)/[**perl6-tail**](https://github.com/skaji/perl6-tail)|||
 |3|[@sugyan](https://github.com/sugyan)/[**ISUxi-perl6**](https://github.com/sugyan/ISUxi-perl6)|||
 |3|[@sugyan](https://github.com/sugyan)/[**p6-Acme-HexaSymbolizer**](https://github.com/sugyan/p6-Acme-HexaSymbolizer)|translates perl6 code to equivalent code which uses 6 kind symbols||
-|3|[@tokuhirom](https://github.com/tokuhirom)/[**Perl6-Renshu**](https://github.com/tokuhirom/Perl6-Renshu)|||
 |3|[@tokuhirom](https://github.com/tokuhirom)/[**p6-Getopt-Tiny**](https://github.com/tokuhirom/p6-Getopt-Tiny)|||
 |3|[@tokuhirom](https://github.com/tokuhirom)/[**p6-Raw-Socket**](https://github.com/tokuhirom/p6-Raw-Socket)|(DEPRECATED)||
 |3|[@tokuhirom](https://github.com/tokuhirom)/[**p6-Test-Base**](https://github.com/tokuhirom/p6-Test-Base)|Data driven development for Perl6||

@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|118|[@higepon](https://github.com/higepon)/[**mosh**](https://github.com/higepon/mosh)|Mosh is a free and fast interpreter for Scheme as specified in the R6RS.  |[:arrow_upper_right:](http://mosh.monaos.org/)|
+|117|[@higepon](https://github.com/higepon)/[**mosh**](https://github.com/higepon/mosh)|Mosh is a free and fast interpreter for Scheme as specified in the R6RS.  |[:arrow_upper_right:](http://mosh.monaos.org/)|
 |60|[@ympbyc](https://github.com/ympbyc)/[**Carrot**](https://github.com/ympbyc/Carrot)|Purely functional lisp featuring: default currying, left-associative s-expression, lazy evaluation, static type system, and statically determined multimethods.||
 |33|[@kana](https://github.com/kana)/[**sicp**](https://github.com/kana/sicp)|||
 |15|[@cynthia](https://github.com/cynthia)/[**art_of_fighting_neogeo_mvs**](https://github.com/cynthia/art_of_fighting_neogeo_mvs)|Archive of the original source code for Art of Fighting (Neo-Geo and MVS).||
@@ -10,6 +10,7 @@
 |13|[@uents](https://github.com/uents)/[**sicp**](https://github.com/uents/sicp)|Reading "Structure and Interpretation of Computer Programs"||
 |10|[@suharahiromichi](https://github.com/suharahiromichi)/[**doc**](https://github.com/suharahiromichi/doc)|Documents||
 |9|[@matschaffer](https://github.com/matschaffer)/[**eulermonday**](https://github.com/matschaffer/eulermonday)|A shared repo to get peoples submissions for CIM's #eulermonday|[:arrow_upper_right:](http://projecteuler.net)|
+|8|[@mhayashi1120](https://github.com/mhayashi1120)/[**Gauche-dbd-sqlite3**](https://github.com/mhayashi1120/Gauche-dbd-sqlite3)|sqlite3 module||
 |8|[@mhayashi1120](https://github.com/mhayashi1120)/[**Gauche-net-twitter**](https://github.com/mhayashi1120/Gauche-net-twitter)|Twitter API access library for Gauche|[:arrow_upper_right:](http://practical-scheme.net/gauche/)|
 |8|[@okuoku](https://github.com/okuoku)/[**nausicaa**](https://github.com/okuoku/nausicaa)|collection of libraries for R6RS Scheme supporting Ikarus, Larceny, Mosh, Petite Chez, Vicare and Ypsilon|[:arrow_upper_right:](http://marcomaggi.github.com/nausicaa.html)|
 |8|[@okuoku](https://github.com/okuoku)/[**r7rs-bridge**](https://github.com/okuoku/r7rs-bridge)|R7RS libraries in R6RS library format||
@@ -41,6 +42,7 @@
 |3|[@mhayashi1120](https://github.com/mhayashi1120)/[**Gauche-net-oauth**](https://github.com/mhayashi1120/Gauche-net-oauth)|OAuth library for Gauche||
 |3|[@motemen](https://github.com/motemen)/[**rfc-pseudo-irc-server**](https://github.com/motemen/rfc-pseudo-irc-server)|Pseudo IRC server module for Gauche||
 |3|[@nukata](https://github.com/nukata)/[**little-scheme**](https://github.com/nukata/little-scheme)|A meta-circular interpreter of a subset of Scheme||
+|3|[@nyuichi](https://github.com/nyuichi)/[**r7expander**](https://github.com/nyuichi/r7expander)|R7RS expander||
 |3|[@tabe](https://github.com/tabe)/[**sxml**](https://github.com/tabe/sxml)|An R6RS library for SXML|[:arrow_upper_right:](http://fixedpoint.jp/)|
 |3|[@takano32](https://github.com/takano32)/[**scheme**](https://github.com/takano32/scheme)|My Scheme Scripts|[:arrow_upper_right:](http://taka.no32.tk/)|
 |3|[@tom-lpsd](https://github.com/tom-lpsd)/[**gs3**](https://github.com/tom-lpsd/gs3)|Amazon S3 client written in scheme||

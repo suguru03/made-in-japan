@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1335|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
+|1334|[@leo-project](https://github.com/leo-project)/[**leofs**](https://github.com/leo-project/leofs)|The LeoFS Storage System|[:arrow_upper_right:](https://leo-project.net/leofs/)|
 |247|[@hibari](https://github.com/hibari)/[**hibari**](https://github.com/hibari/hibari)|Hibari is a production-ready, distributed, ordered key-value, big data store. Hibari uses chain replication for strong consistency, high-availability, and durability. Hibari has excellent performance especially for read and large value operations.||
-|205|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
+|206|[@sile](https://github.com/sile)/[**jsone**](https://github.com/sile/jsone)|Erlang JSON library||
 |78|[@tatsuhiro-t](https://github.com/tatsuhiro-t)/[**lucid**](https://github.com/tatsuhiro-t/lucid)|HTTP/2 server written in Erlang||
 |66|[@jj1bdx](https://github.com/jj1bdx)/[**sfmt-erlang**](https://github.com/jj1bdx/sfmt-erlang)|sfmt-erlang: SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang|[:arrow_upper_right:](http://jj1bdx.github.io/sfmt-erlang/)|
 |40|[@chvanikoff](https://github.com/chvanikoff)/[**cowboy_session**](https://github.com/chvanikoff/cowboy_session)|Cowboy session management||
@@ -67,7 +67,9 @@
 |6|[@leo-project](https://github.com/leo-project)/[**leo_statistics**](https://github.com/leo-project/leo_statistics)|leo_statistics collects Erlang VM’s statistics and application’s statistics.|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |6|[@sile](https://github.com/sile)/[**erl-creole**](https://github.com/sile/erl-creole)|Converting strings between multibyte encodings and Unicode.||
 |6|[@sile](https://github.com/sile)/[**erl-rtmpmsg**](https://github.com/sile/erl-rtmpmsg)|An Erlang library to encode/decode RTMP message||
+|6|[@sile](https://github.com/sile)/[**jaeger_passage**](https://github.com/sile/jaeger_passage)|Jaeger client library for Erlang||
 |6|[@sile](https://github.com/sile)/[**otp_passage**](https://github.com/sile/otp_passage)|OpenTracing instrumentation library for the Erlang/OTP standard modules||
+|6|[@sile](https://github.com/sile)/[**proxy**](https://github.com/sile/proxy)|An Erlang Process Proxy Library||
 |6|[@ytakano](https://github.com/ytakano)/[**ermdia**](https://github.com/ytakano/ermdia)|An implementation of DHT in Erlang.||
 |5|[@cooldaemon](https://github.com/cooldaemon)/[**BasicStudyForErlang**](https://github.com/cooldaemon/BasicStudyForErlang)|I study the Erlang over from the basics.||
 |5|[@cooldaemon](https://github.com/cooldaemon)/[**yamd**](https://github.com/cooldaemon/yamd)|Yet Another Memcached.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/20071113/1194943502)|
@@ -76,9 +78,7 @@
 |5|[@kuenishi](https://github.com/kuenishi)/[**colloxy**](https://github.com/kuenishi/colloxy)|Pluggable http proxy. Write your filter and hooks.||
 |5|[@leo-project](https://github.com/leo-project)/[**leo_cache**](https://github.com/leo-project/leo_cache)|leo_cache is an object caching server into RAM and Disc (SSD)|[:arrow_upper_right:](http://leo-project.net/leofs)|
 |5|[@leo-project](https://github.com/leo-project)/[**leo_commons**](https://github.com/leo-project/leo_commons)|leo_commons include common modules for LeoFS and other Erlang applications.|[:arrow_upper_right:](http://leo-project.net/leofs)|
-|5|[@sile](https://github.com/sile)/[**jaeger_passage**](https://github.com/sile/jaeger_passage)|Jaeger client library for Erlang||
 |5|[@sile](https://github.com/sile)/[**passage**](https://github.com/sile/passage)|OpenTracing API for Erlang||
-|5|[@sile](https://github.com/sile)/[**proxy**](https://github.com/sile/proxy)|An Erlang Process Proxy Library||
 |5|[@yoichiro](https://github.com/yoichiro)/[**mixi-staging**](https://github.com/yoichiro/mixi-staging)|||
 |4|[@amutake](https://github.com/amutake)/[**synchronizers**](https://github.com/amutake/synchronizers)|Synchronizer algorithms in Erlang||
 |4|[@cooldaemon](https://github.com/cooldaemon)/[**ssd**](https://github.com/cooldaemon/ssd)|The Simple Storage Daemon. It has a RESTfull I/F.|[:arrow_upper_right:](http://d.hatena.ne.jp/cooldaemon/20080206/1202265372)|
@@ -94,6 +94,7 @@
 |4|[@sile](https://github.com/sile)/[**gen_cop**](https://github.com/sile/gen_cop)|Generic Connection-Oriented Protocol Behaviour (experimentail)||
 |4|[@sile](https://github.com/sile)/[**mqttm**](https://github.com/sile/mqttm)|An Erlang library for encoding/decoding MQTT message ||
 |4|[@sile](https://github.com/sile)/[**pfun**](https://github.com/sile/pfun)|Erlang Portable Functions||
+|4|[@sile](https://github.com/sile)/[**thrift_protocol**](https://github.com/sile/thrift_protocol)|An Erlang implementation of Thrift protocol||
 |4|[@tkyk](https://github.com/tkyk)/[**erlang-exercise---**](https://github.com/tkyk/erlang-exercise---)|Programing Erlang 8.１１ exercise|[:arrow_upper_right:](http://wp.serpere.info/)|
 |4|[@voluntas](https://github.com/voluntas)/[**kappa**](https://github.com/voluntas/kappa)|kappa ("河童") is erlang hook application.||
 |4|[@voluntas](https://github.com/voluntas)/[**mnesia_key_cache**](https://github.com/voluntas/mnesia_key_cache)|Mnesia Key Cache||
@@ -118,7 +119,6 @@
 |3|[@sile](https://github.com/sile)/[**hashtrie**](https://github.com/sile/hashtrie)|Hash like trie||
 |3|[@sile](https://github.com/sile)/[**mqttc**](https://github.com/sile/mqttc)|An Erlang MQTT Client||
 |3|[@sile](https://github.com/sile)/[**recvbench**](https://github.com/sile/recvbench)|gen_tcp:recv banchmark ( Erlang)||
-|3|[@sile](https://github.com/sile)/[**thrift_protocol**](https://github.com/sile/thrift_protocol)|An Erlang implementation of Thrift protocol||
 |3|[@simulacre](https://github.com/simulacre)/[**rabbitmq-events**](https://github.com/simulacre/rabbitmq-events)|RabbitMQ plugin that publishes internal events||
 |3|[@siritori](https://github.com/siritori)/[**recrio**](https://github.com/siritori/recrio)|An open implementation MIPS R3000 in Erlang||
 |3|[@voluntas](https://github.com/voluntas)/[**satori**](https://github.com/voluntas/satori)|satori(覚) is type base binary converter.||

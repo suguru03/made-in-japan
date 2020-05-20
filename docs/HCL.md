@@ -27,10 +27,10 @@
 |5|[@yamamoto-febc](https://github.com/yamamoto-febc)/[**nomad-on-sakuracloud**](https://github.com/yamamoto-febc/nomad-on-sakuracloud)|Terraform templates to build nomad + consul + consul-template + nginx environments on さくらのクラウド||
 |4|[@containerdaysjp](https://github.com/containerdaysjp)/[**showks-terraform**](https://github.com/containerdaysjp/showks-terraform)|Terraform configurations to provision showk environments.||
 |4|[@cotoami](https://github.com/cotoami)/[**cotoami-infra**](https://github.com/cotoami/cotoami-infra)|Cotoami infrastructure for cotoa.me||
+|4|[@int128](https://github.com/int128)/[**terraform-aws-kubernetes-irsa**](https://github.com/int128/terraform-aws-kubernetes-irsa)|Terraform module for IAM Roles for Service Accounts (IRSA) on self-hosted Kubernetes cluster such as kops|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/kubernetes-irsa/aws)|
 |4|[@tcnksm](https://github.com/tcnksm)/[**tf-dnsimple-gh-pages**](https://github.com/tcnksm/tf-dnsimple-gh-pages)|Setup custom apex domain for your GitHub pages with Terraform||
 |4|[@toshimaru](https://github.com/toshimaru)/[**terraform-digitalocean-rails**](https://github.com/toshimaru/terraform-digitalocean-rails)|A terraform simple sample on DigitalOcean for Ruby on Rails.||
 |3|[@cookpad](https://github.com/cookpad)/[**terraform-aws-eks**](https://github.com/cookpad/terraform-aws-eks)|A Terraform module to Provision AWS Elastic Kubernetes (EKS) clusters and worker nodes||
-|3|[@int128](https://github.com/int128)/[**terraform-aws-kubernetes-irsa**](https://github.com/int128/terraform-aws-kubernetes-irsa)|Terraform module for IAM Roles for Service Accounts (IRSA) on self-hosted Kubernetes cluster such as kops|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/kubernetes-irsa/aws)|
 |3|[@jun06t](https://github.com/jun06t)/[**terraform-sample**](https://github.com/jun06t/terraform-sample)|terraform examples||
 |3|[@knakayama](https://github.com/knakayama)/[**serverless-url-shortener**](https://github.com/knakayama/serverless-url-shortener)|||
 |3|[@matsuu](https://github.com/matsuu)/[**terraform-pixiv-isucon2016**](https://github.com/matsuu/terraform-pixiv-isucon2016)|Terraform configuration files for building Pixiv ISUCON 2016 environment||

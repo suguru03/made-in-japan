@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|284|[@glassesfactory](https://github.com/glassesfactory)/[**glassesfactory**](https://github.com/glassesfactory/glassesfactory)|俺々ライブラリ|[:arrow_upper_right:](http://blog.glasses-factory.net)|
+|283|[@glassesfactory](https://github.com/glassesfactory)/[**glassesfactory**](https://github.com/glassesfactory/glassesfactory)|俺々ライブラリ|[:arrow_upper_right:](http://blog.glasses-factory.net)|
 |47|[@Saqoosha](https://github.com/Saqoosha)/[**SAQAS3**](https://github.com/Saqoosha/SAQAS3)|Saqoosha's AS3 Library|[:arrow_upper_right:](http://saqoo.sh/a/)|
 |42|[@nihen](https://github.com/nihen)/[**JSocket**](https://github.com/nihen/JSocket)|Socket on Javascript(use flash)||
 |34|[@euske](https://github.com/euske)/[**planpathplat**](https://github.com/euske/planpathplat)|Experimental Path Planning for Platformer||
@@ -12,7 +12,7 @@
 |13|[@hanamura](https://github.com/hanamura)/[**as3tf**](https://github.com/hanamura/as3tf)|Various classes and functions for Flash/ActionScript programming.||
 |12|[@Saqoosha](https://github.com/Saqoosha)/[**FLARToolKit**](https://github.com/Saqoosha/FLARToolKit)|||
 |11|[@akio0911](https://github.com/akio0911)/[**hcrepos**](https://github.com/akio0911/hcrepos)|Hacker's Cafe Repository|[:arrow_upper_right:](http://blog.hackers-cafe.net/)|
-|11|[@dotneet](https://github.com/dotneet)/[**as3-lua**](https://github.com/dotneet/as3-lua)|ActionScript3.0(AS3) implementation by Lua that is intend to be used as a game script.||
+|11|[@dotneet](https://github.com/dotneet)/[**as3-lua**](https://github.com/dotneet/as3-lua)|ActionScript3.0(AS3) implementation of Lua that is intend to be used as a game script.||
 |11|[@juwalbose](https://github.com/juwalbose)/[**DynamicAtlasCreator**](https://github.com/juwalbose/DynamicAtlasCreator)|Helps create Starling Texture Atlas dynamically from a single super atlas (2048, ipad retina screen width based)||
 |11|[@motemen](https://github.com/motemen)/[**as3-klt**](https://github.com/motemen/as3-klt)|Kanade-Lucas-Tomasi feature tracker implementation in as3||
 |11|[@takumus](https://github.com/takumus)/[**ListUI-for-as3**](https://github.com/takumus/ListUI-for-as3)|||

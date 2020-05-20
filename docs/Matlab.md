@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|558|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
-|374|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
-|249|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
+|559|[@kyamagu](https://github.com/kyamagu)/[**mexopencv**](https://github.com/kyamagu/mexopencv)|Collection and a development kit of matlab mex functions for OpenCV library|[:arrow_upper_right:](http://kyamagu.github.io/mexopencv)|
+|377|[@everpeace](https://github.com/everpeace)/[**ml-class-assignments**](https://github.com/everpeace/ml-class-assignments)|Programming Exercises on http://ml-class.org|[:arrow_upper_right:](http://github.com/everpeace/ml-class-assignments)|
+|253|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**MATLABRobotics**](https://github.com/AtsushiSakai/MATLABRobotics)|MATLAB sample codes for mobile robot navigation||
 |113|[@HidekiKawahara](https://github.com/HidekiKawahara)/[**legacy_STRAIGHT**](https://github.com/HidekiKawahara/legacy_STRAIGHT)|A vocoder framework which had been widely used in research community since 1999.||
 |71|[@maxime](https://github.com/maxime)/[**ChinaMapDeviation**](https://github.com/maxime/ChinaMapDeviation)|A method to correct the China Map Deviation, written as an Objective-C category on CLLocation||
 |47|[@hiroyuki-kasai](https://github.com/hiroyuki-kasai)/[**ClassifierToolbox**](https://github.com/hiroyuki-kasai/ClassifierToolbox)|A MATLAB toolbox for classifier: Version 1.0.7||

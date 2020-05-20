@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
+|50|[@repeatedly](https://github.com/repeatedly)/[**mustache-d**](https://github.com/repeatedly/mustache-d)|Mustache template engine for D|[:arrow_upper_right:](http://mustache.github.com/)|
 |49|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**grain**](https://github.com/ShigekiKarita/grain)|autograd mir and CUDA library for dynamic neural networks in D.|[:arrow_upper_right:](https://shigekikarita.github.io/grain)|
-|49|[@repeatedly](https://github.com/repeatedly)/[**mustache-d**](https://github.com/repeatedly/mustache-d)|Mustache template engine for D|[:arrow_upper_right:](http://mustache.github.com/)|
 |43|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
 |30|[@Rayerd](https://github.com/Rayerd)/[**dfl**](https://github.com/Rayerd/dfl)|This unofficial project for D2.x is a migration of D Forms Library (DFL) that is managed on SVN. DFL is a Win32 windowing library for the D programming language. We support only D2 HEAD.|[:arrow_upper_right:](http://wiki.dprogramming.com/Dfl/HomePage)|
 |27|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
@@ -33,6 +33,7 @@
 |6|[@kubo39](https://github.com/kubo39)/[**elfhook.d**](https://github.com/kubo39/elfhook.d)|monkey patching for shared object.||
 |6|[@shawnps](https://github.com/shawnps)/[**kanjihub**](https://github.com/shawnps/kanjihub)|a hub for kanji||
 |5|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**d-speech**](https://github.com/ShigekiKarita/d-speech)||[:arrow_upper_right:](https://shigekikarita.github.io/d-speech/dspeech.html)|
+|5|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**tfd**](https://github.com/ShigekiKarita/tfd)|Tensorflow wrapper for D||
 |5|[@alphaKAI](https://github.com/alphaKAI)/[**twitnotify**](https://github.com/alphaKAI/twitnotify)|The Twitter Notification tool. Written in D.||
 |5|[@kazoo04](https://github.com/kazoo04)/[**Redplanet**](https://github.com/kazoo04/Redplanet)|Twitter client written in the D programming language.||
 |5|[@kazoo04](https://github.com/kazoo04)/[**libarow-d**](https://github.com/kazoo04/libarow-d)|A library for AROW linear classification||
@@ -41,7 +42,6 @@
 |5|[@repeatedly](https://github.com/repeatedly)/[**zstd-d**](https://github.com/repeatedly/zstd-d)|D binding for Zstandard||
 |4|[@MakeNowJust](https://github.com/MakeNowJust)/[**AnalF_ck**](https://github.com/MakeNowJust/AnalF_ck)|淫夢プログラミング言語||
 |4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**mir-pybind**](https://github.com/ShigekiKarita/mir-pybind)|python binding generator for D||
-|4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**tfd**](https://github.com/ShigekiKarita/tfd)|Tensorflow wrapper for D||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dilo**](https://github.com/alphaKAI/dilo)|A minimal Text Editor in D Language, ported from Kilo||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dpmatch**](https://github.com/alphaKAI/dpmatch)|[WIP] Pattern Matching for D, by compile time parsing with pegged and code generating||
 |4|[@matsubara0507](https://github.com/matsubara0507)/[**dlisp**](https://github.com/matsubara0507/dlisp)|Pure Lisp on D Language||

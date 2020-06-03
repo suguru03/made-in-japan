@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|326|[@yuk7](https://github.com/yuk7)/[**CentWSL**](https://github.com/yuk7/CentWSL)|CentOS as a WSL Instance. Supports multiple install.|[:arrow_upper_right:](https://git.io/centwsl)|
-|145|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance. Supports multi-install. Lightest WSL distribution.|[:arrow_upper_right:](https://git.io/alpwsl)|
-|92|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
+|347|[@yuk7](https://github.com/yuk7)/[**CentWSL**](https://github.com/yuk7/CentWSL)|CentOS as a WSL Instance. Supports multiple install.|[:arrow_upper_right:](https://git.io/centwsl)|
+|150|[@yuk7](https://github.com/yuk7)/[**AlpineWSL**](https://github.com/yuk7/AlpineWSL)|Alpine Linux as a WSL Instance. Supports multi-install. Lightest WSL distribution.|[:arrow_upper_right:](https://git.io/alpwsl)|
+|94|[@fd00](https://github.com/fd00)/[**yacp**](https://github.com/fd00/yacp)|Yet Another Cygwin Ports||
 |61|[@Lewuathe](https://github.com/Lewuathe)/[**docker-presto-cluster**](https://github.com/Lewuathe/docker-presto-cluster)|Multiple node presto cluster on docker container||
 |56|[@everpeace](https://github.com/everpeace)/[**kube-openmpi**](https://github.com/everpeace/kube-openmpi)|Open MPI jobs on Kubernetes||
 |53|[@tkruse](https://github.com/tkruse)/[**build-bench**](https://github.com/tkruse/build-bench)|Benchmarks for Java buildystems http://tkruse.github.io/build-bench||
@@ -20,10 +20,10 @@
 |22|[@norton](https://github.com/norton)/[**erlang-starter-kit**](https://github.com/norton/erlang-starter-kit)|Provide a basic set of Erlang/OTP tools for development and for testing||
 |18|[@kazuki](https://github.com/kazuki)/[**mediacodec.wasm**](https://github.com/kazuki/mediacodec.wasm)|Audio/Video Codec in WebAssembly||
 |16|[@nyuichi](https://github.com/nyuichi)/[**satysfi-lib**](https://github.com/nyuichi/satysfi-lib)|complementary collection of useful functions and modules for SATySFi||
+|15|[@gfngfn](https://github.com/gfngfn)/[**cs-thesis**](https://github.com/gfngfn/cs-thesis)|A SATySFi class file for writing CS master thesis at The University of Tokyo||
 |15|[@keiji](https://github.com/keiji)/[**farewell-adt-book**](https://github.com/keiji/farewell-adt-book)|Android Studio完全移行ガイド||
 |15|[@omochi](https://github.com/omochi)/[**JavaScriptCore-android-build**](https://github.com/omochi/JavaScriptCore-android-build)|Build JavaScriptCore for Android||
 |14|[@mumoshu](https://github.com/mumoshu)/[**kube-fluentd**](https://github.com/mumoshu/kube-fluentd)|An ubuntu-slim/s6-overlay/confd based docker image for running fluentd in Kubernetes pods/daemonsets||
-|13|[@gfngfn](https://github.com/gfngfn)/[**cs-thesis**](https://github.com/gfngfn/cs-thesis)|A SATySFi class file for writing CS master thesis at The University of Tokyo||
 |13|[@knakayama](https://github.com/knakayama)/[**cfn-ci-cd-demo**](https://github.com/knakayama/cfn-ci-cd-demo)|||
 |12|[@JotaroS](https://github.com/JotaroS)/[**ofxWiggleStereoscopy**](https://github.com/JotaroS/ofxWiggleStereoscopy)|openFrameworks addon for wiggle stereoscopy effect.||
 |12|[@akafugu](https://github.com/akafugu)/[**vetinari_clock**](https://github.com/akafugu/vetinari_clock)|A clock that ticks irregularly, yet keeps accurate time.||
@@ -40,11 +40,12 @@
 |9|[@puripuri2100](https://github.com/puripuri2100)/[**stjarticle**](https://github.com/puripuri2100/stjarticle)|SATySFi's package||
 |9|[@wadahiro](https://github.com/wadahiro)/[**gitlab-ecs-cloudformation**](https://github.com/wadahiro/gitlab-ecs-cloudformation)|||
 |8|[@2bbb](https://github.com/2bbb)/[**ofxCrushAppsUsingOfxOscReceiver**](https://github.com/2bbb/ofxCrushAppsUsingOfxOscReceiver)|if you wanna be no.1 in exhibition everyone use openFrameworks!||
+|8|[@ariarijp](https://github.com/ariarijp)/[**list-of-companies-using-redash**](https://github.com/ariarijp/list-of-companies-using-redash)|List of companies using Redash.||
 |8|[@lambdalisue](https://github.com/lambdalisue)/[**docker-neovim-ci**](https://github.com/lambdalisue/docker-neovim-ci)|Alpine image for Neovim in CI|[:arrow_upper_right:](https://hub.docker.com/r/lambdalisue/neovim-ci/)|
+|8|[@skanehira](https://github.com/skanehira)/[**fk**](https://github.com/skanehira/fk)|Kill specific processes with fuzzy finder||
 |8|[@stffrdhrn](https://github.com/stffrdhrn)/[**tls-examples**](https://github.com/stffrdhrn/tls-examples)|TLS access example code snippets||
 |7|[@Tomohiro](https://github.com/Tomohiro)/[**air**](https://github.com/Tomohiro/air)|Command-line AirPlay video client for Apple TV||
 |7|[@abcang](https://github.com/abcang)/[**azpainter-mac**](https://github.com/abcang/azpainter-mac)|AzPainter for Mac||
-|7|[@ariarijp](https://github.com/ariarijp)/[**list-of-companies-using-redash**](https://github.com/ariarijp/list-of-companies-using-redash)|List of companies using Redash.||
 |7|[@enukane](https://github.com/enukane)/[**c90-plan9-assembler-handbook**](https://github.com/enukane/c90-plan9-assembler-handbook)|C90で頒布した "Plan 9 Assembler Handbook" の文章データ||
 |7|[@haruyama](https://github.com/haruyama)/[**ssh_rfc_ja**](https://github.com/haruyama/ssh_rfc_ja)|Japanese translations of SSH RFCs and Internet Drafts|[:arrow_upper_right:](http://www.unixuser.org/~haruyama/RFC/ssh/)|
 |7|[@kt3k](https://github.com/kt3k)/[**lambda-deno-runtime-wip**](https://github.com/kt3k/lambda-deno-runtime-wip)|Run deno in AWS Lambda environment (WIP)|[:arrow_upper_right:](https://6e2y19fu3j.execute-api.ap-northeast-1.amazonaws.com/default/deno_v2)|

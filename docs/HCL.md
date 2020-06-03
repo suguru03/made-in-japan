@@ -7,14 +7,15 @@
 |25|[@knakayama](https://github.com/knakayama)/[**aws-terraform-playground**](https://github.com/knakayama/aws-terraform-playground)|terraform examples on AWS||
 |24|[@shufo](https://github.com/shufo)/[**terraform-boilerplate-ecs-alb**](https://github.com/shufo/terraform-boilerplate-ecs-alb)|Terraform boilerplate for ECS with ALB.||
 |24|[@wata727](https://github.com/wata727)/[**tf_aws_ecs_on_spotfleet**](https://github.com/wata727/tf_aws_ecs_on_spotfleet)|A Terraform module for create ECS on Spot Fleet.||
+|21|[@int128](https://github.com/int128)/[**terraform-aws-nat-instance**](https://github.com/int128/terraform-aws-nat-instance)|Terraform module to provision a NAT Instance using an Auto Scaling Group and Spot Instance from $1/month|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/nat-instance/aws/)|
 |21|[@shogomuranushi](https://github.com/shogomuranushi)/[**oreno-terraform**](https://github.com/shogomuranushi/oreno-terraform)|||
-|20|[@int128](https://github.com/int128)/[**terraform-aws-nat-instance**](https://github.com/int128/terraform-aws-nat-instance)|Terraform module to provision a NAT Instance using an Auto Scaling Group and Spot Instance from $1/month|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/nat-instance/aws/)|
 |14|[@ToruMakabe](https://github.com/ToruMakabe)/[**Understanding-K8s**](https://github.com/ToruMakabe/Understanding-K8s)|[翔泳社 しくみがわかる Kubernetes] サンプルコード||
 |13|[@knakayama](https://github.com/knakayama)/[**terraform-circleci-demo**](https://github.com/knakayama/terraform-circleci-demo)|||
 |12|[@inokappa](https://github.com/inokappa)/[**oreno-terraform-ecs**](https://github.com/inokappa/oreno-terraform-ecs)|||
 |8|[@knakayama](https://github.com/knakayama)/[**blue-green-deployment-with-codedeploy-and-terraform**](https://github.com/knakayama/blue-green-deployment-with-codedeploy-and-terraform)|||
 |8|[@zembutsu](https://github.com/zembutsu)/[**sakura-terraform**](https://github.com/zembutsu/sakura-terraform)|Terraform for Sakura Cloud samples||
 |6|[@ToruMakabe](https://github.com/ToruMakabe)/[**Terraform_Azure_Sample**](https://github.com/ToruMakabe/Terraform_Azure_Sample)|||
+|6|[@int128](https://github.com/int128)/[**terraform-aws-kubernetes-irsa**](https://github.com/int128/terraform-aws-kubernetes-irsa)|Terraform module for IAM Roles for Service Accounts (IRSA) on self-hosted Kubernetes cluster such as kops|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/kubernetes-irsa/aws)|
 |6|[@knakayama](https://github.com/knakayama)/[**tf-alb-demo**](https://github.com/knakayama/tf-alb-demo)|||
 |6|[@mizzy](https://github.com/mizzy)/[**spinnaker-playground**](https://github.com/mizzy/spinnaker-playground)|||
 |6|[@nasum](https://github.com/nasum)/[**container-era-terraform**](https://github.com/nasum/container-era-terraform)|||
@@ -27,7 +28,6 @@
 |5|[@yamamoto-febc](https://github.com/yamamoto-febc)/[**nomad-on-sakuracloud**](https://github.com/yamamoto-febc/nomad-on-sakuracloud)|Terraform templates to build nomad + consul + consul-template + nginx environments on さくらのクラウド||
 |4|[@containerdaysjp](https://github.com/containerdaysjp)/[**showks-terraform**](https://github.com/containerdaysjp/showks-terraform)|Terraform configurations to provision showk environments.||
 |4|[@cotoami](https://github.com/cotoami)/[**cotoami-infra**](https://github.com/cotoami/cotoami-infra)|Cotoami infrastructure for cotoa.me||
-|4|[@int128](https://github.com/int128)/[**terraform-aws-kubernetes-irsa**](https://github.com/int128/terraform-aws-kubernetes-irsa)|Terraform module for IAM Roles for Service Accounts (IRSA) on self-hosted Kubernetes cluster such as kops|[:arrow_upper_right:](https://registry.terraform.io/modules/int128/kubernetes-irsa/aws)|
 |4|[@tcnksm](https://github.com/tcnksm)/[**tf-dnsimple-gh-pages**](https://github.com/tcnksm/tf-dnsimple-gh-pages)|Setup custom apex domain for your GitHub pages with Terraform||
 |4|[@toshimaru](https://github.com/toshimaru)/[**terraform-digitalocean-rails**](https://github.com/toshimaru/terraform-digitalocean-rails)|A terraform simple sample on DigitalOcean for Ruby on Rails.||
 |3|[@cookpad](https://github.com/cookpad)/[**terraform-aws-eks**](https://github.com/cookpad/terraform-aws-eks)|A Terraform module to Provision AWS Elastic Kubernetes (EKS) clusters and worker nodes||

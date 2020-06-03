@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|27|[@rnons](https://github.com/rnons)/[**purescript-halogen-storybook**](https://github.com/rnons/purescript-halogen-storybook)|A library to assemble examples or develop components separately.|[:arrow_upper_right:](https://rnons.github.io/purescript-halogen-storybook/)|
+|28|[@rnons](https://github.com/rnons)/[**purescript-halogen-storybook**](https://github.com/rnons/purescript-halogen-storybook)|A library to assemble examples or develop components separately.|[:arrow_upper_right:](https://rnons.github.io/purescript-halogen-storybook/)|
 |14|[@philopon](https://github.com/philopon)/[**purescript-json-deprecated**](https://github.com/philopon/purescript-json-deprecated)|DEPRECATED: please use https://github.com/purescript-contrib/purescript-argonaut||
 |13|[@philopon](https://github.com/philopon)/[**purescript-json**](https://github.com/philopon/purescript-json)|JSON parsing library like aeson for purescript.||
 |12|[@rnons](https://github.com/rnons)/[**purescript-halogen-day-picker**](https://github.com/rnons/purescript-halogen-day-picker)|A day picker written in purescript halogen|[:arrow_upper_right:](https://rnons.github.io/purescript-halogen-day-picker)|
@@ -19,13 +19,13 @@
 |5|[@oreshinya](https://github.com/oreshinya)/[**purescript-simple-jwt**](https://github.com/oreshinya/purescript-simple-jwt)|Simple JWT encoder and decoder for PureScript.||
 |4|[@bouzuya](https://github.com/bouzuya)/[**node-hatena-fotolife-cli**](https://github.com/bouzuya/node-hatena-fotolife-cli)|Hatena::Fotolife command line interface (unofficial)||
 |4|[@bouzuya](https://github.com/bouzuya)/[**purescript-css-dsl**](https://github.com/bouzuya/purescript-css-dsl)|See: https://github.com/paulyoung/purescript-style/||
+|4|[@moxuse](https://github.com/moxuse)/[**Yodaka**](https://github.com/moxuse/Yodaka)|||
 |4|[@noraesae](https://github.com/noraesae)/[**purescript-halogen-free-html**](https://github.com/noraesae/purescript-halogen-free-html)|Free monad for Halogen HTML||
 |4|[@oreshinya](https://github.com/oreshinya)/[**purescript-crypto**](https://github.com/oreshinya/purescript-crypto)|PureScript wrapper for crypto module of NodeJS||
 |4|[@oreshinya](https://github.com/oreshinya)/[**purescript-mysql**](https://github.com/oreshinya/purescript-mysql)|Bindings mysql for PureScript||
 |4|[@philopon](https://github.com/philopon)/[**purescript-html**](https://github.com/philopon/purescript-html)|middle level virtual-dom binding for purescript||
 |3|[@b123400](https://github.com/b123400)/[**purescript-pux-form**](https://github.com/b123400/purescript-pux-form)|Generate form with lens in Pux||
 |3|[@bouzuya](https://github.com/bouzuya)/[**tamaru**](https://github.com/bouzuya/tamaru)|||
-|3|[@moxuse](https://github.com/moxuse)/[**Yodaka**](https://github.com/moxuse/Yodaka)|||
 |3|[@nonbili](https://github.com/nonbili)/[**purescript-halogen-transition**](https://github.com/nonbili/purescript-halogen-transition)|A component that toggles enter/leave class when visibility changes|[:arrow_upper_right:](https://nonbili.github.io/purescript-halogen-transition/#Simple)|
 |3|[@oreshinya](https://github.com/oreshinya)/[**purescript-conveyor**](https://github.com/oreshinya/purescript-conveyor)|Simple RPC framework||
 |3|[@oreshinya](https://github.com/oreshinya)/[**purescript-identy**](https://github.com/oreshinya/purescript-identy)|An opinionated UI state management utilities for purescript-freedom.||

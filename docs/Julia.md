@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|216|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
+|221|[@AtsushiSakai](https://github.com/AtsushiSakai)/[**HybridAStarTrailer**](https://github.com/AtsushiSakai/HybridAStarTrailer)|A path planning algorithm based on Hybrid A* for trailer truck|[:arrow_upper_right:](https://atsushisakai.github.io/HybridAStarTrailer/)|
 |85|[@bicycle1885](https://github.com/bicycle1885)/[**TableReader.jl**](https://github.com/bicycle1885/TableReader.jl)|A fast and simple CSV parser||
 |54|[@vchuravy](https://github.com/vchuravy)/[**GPUifyLoops.jl**](https://github.com/vchuravy/GPUifyLoops.jl)|||
 |51|[@bicycle1885](https://github.com/bicycle1885)/[**EzXML.jl**](https://github.com/bicycle1885/EzXML.jl)|XML/HTML handling tools for primates||
@@ -19,13 +19,13 @@
 |13|[@r9y9](https://github.com/r9y9)/[**SynthesisFilters.jl**](https://github.com/r9y9/SynthesisFilters.jl)|Speech waveform synthesis filters||
 |11|[@r9y9](https://github.com/r9y9)/[**SPTK.jl**](https://github.com/r9y9/SPTK.jl)|A thin Julia wrapper for Speech Signal Processing Toolkit (SPTK) API||
 |11|[@sorami](https://github.com/sorami)/[**DependencyParser.jl**](https://github.com/sorami/DependencyParser.jl)|Dependency parser written in Julia.||
-|9|[@bicycle1885](https://github.com/bicycle1885)/[**Leiden.jl**](https://github.com/bicycle1885/Leiden.jl)|A Julia implementation of the Leiden algorithm for community detection.||
+|10|[@bicycle1885](https://github.com/bicycle1885)/[**Leiden.jl**](https://github.com/bicycle1885/Leiden.jl)|A Julia implementation of the Leiden algorithm for community detection.||
 |8|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**SoftConfidenceWeighted.jl**](https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl)|Exact Soft Confidence-Weighted Learning||
 |8|[@r9y9](https://github.com/r9y9)/[**ConstantQ.jl**](https://github.com/r9y9/ConstantQ.jl)|A fast constant-q transform in Julia||
 |8|[@vchuravy](https://github.com/vchuravy)/[**Hydrozoa.jl**](https://github.com/vchuravy/Hydrozoa.jl)|||
 |7|[@bicycle1885](https://github.com/bicycle1885)/[**ConcurrentCalls.jl**](https://github.com/bicycle1885/ConcurrentCalls.jl)|Call functions concurrently.||
+|7|[@bicycle1885](https://github.com/bicycle1885)/[**Snappy.jl**](https://github.com/bicycle1885/Snappy.jl)|A fast compressor/decompressor||
 |7|[@vchuravy](https://github.com/vchuravy)/[**UProbes.jl**](https://github.com/vchuravy/UProbes.jl)|||
-|6|[@bicycle1885](https://github.com/bicycle1885)/[**Snappy.jl**](https://github.com/bicycle1885/Snappy.jl)|A fast compressor/decompressor||
 |5|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**KSVD.jl**](https://github.com/IshitaTakeshi/KSVD.jl)|K-SVD in Julia||
 |5|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**SVMLightLoader.jl**](https://github.com/IshitaTakeshi/SVMLightLoader.jl)|Loader of svmlight / liblinear format files||
 |5|[@bicycle1885](https://github.com/bicycle1885)/[**CodecBase.jl**](https://github.com/bicycle1885/CodecBase.jl)|Base 16/32/64 codecs for TranscodingStreams.jl||

@@ -10,7 +10,7 @@
 |26|[@rhysd](https://github.com/rhysd)/[**Crisp**](https://github.com/rhysd/Crisp)|Lisp dialect implemented with Crystal||
 |26|[@umurgdk](https://github.com/umurgdk)/[**haydari**](https://github.com/umurgdk/haydari)|Parser combinator library for crystal programming language.||
 |25|[@S-YOU](https://github.com/S-YOU)/[**h2o.cr**](https://github.com/S-YOU/h2o.cr)|h2o bindings for Crystal||
-|20|[@MakeNowJust](https://github.com/MakeNowJust)/[**noir**](https://github.com/MakeNowJust/noir)|NOIR - Syntax Highlight Library for Crystal||
+|21|[@MakeNowJust](https://github.com/MakeNowJust)/[**noir**](https://github.com/MakeNowJust/noir)|NOIR - Syntax Highlight Library for Crystal||
 |16|[@ne-sachirou](https://github.com/ne-sachirou)/[**git-cleanup-branch**](https://github.com/ne-sachirou/git-cleanup-branch)|[Deprecated] Cleanup Git merged branches interactively at both local and remote.|[:arrow_upper_right:](https://github.com/ne-sachirou/git-cleanup-branch/issues/6)|
 |15|[@kubo39](https://github.com/kubo39)/[**syscall.cr**](https://github.com/kubo39/syscall.cr)|syscall interface for Crystal||
 |12|[@5t111111](https://github.com/5t111111)/[**ruby_extension_with_crystal**](https://github.com/5t111111/ruby_extension_with_crystal)|Write Ruby extensions with Crystal||

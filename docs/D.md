@@ -5,11 +5,11 @@
 |42|[@tanitta](https://github.com/tanitta)/[**armos**](https://github.com/tanitta/armos)|A free and open source library for creative coding in D programming language.||
 |30|[@Rayerd](https://github.com/Rayerd)/[**dfl**](https://github.com/Rayerd/dfl)|This unofficial project for D2.x is a migration of D Forms Library (DFL) that is managed on SVN. DFL is a Win32 windowing library for the D programming language. We support only D2 HEAD.|[:arrow_upper_right:](http://wiki.dprogramming.com/Dfl/HomePage)|
 |27|[@alphaKAI](https://github.com/alphaKAI)/[**twitter4d**](https://github.com/alphaKAI/twitter4d)|The Simple Twitter API Wrapper Library For D Programming Language.||
+|25|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**tfd**](https://github.com/ShigekiKarita/tfd)|Tensorflow wrapper for D||
 |24|[@thorikawa](https://github.com/thorikawa)/[**AndroidObjectRecognition**](https://github.com/thorikawa/AndroidObjectRecognition)|App to demo using android camera and recognize specific object.||
 |19|[@kotet](https://github.com/kotet)/[**progress**](https://github.com/kotet/progress)|Easy progress reporting for D||
 |17|[@IshitaTakeshi](https://github.com/IshitaTakeshi)/[**Louds-Trie**](https://github.com/IshitaTakeshi/Louds-Trie)|Implementation of the Trie data structure in D and Python.||
 |15|[@repeatedly](https://github.com/repeatedly)/[**xxhash-d**](https://github.com/repeatedly/xxhash-d)|D implementation of xxhash||
-|14|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**tfd**](https://github.com/ShigekiKarita/tfd)|Tensorflow wrapper for D||
 |12|[@alphaKAI](https://github.com/alphaKAI)/[**tvm**](https://github.com/alphaKAI/tvm)|Toy virtual machine and JIT Engine with JavaScript Like Syntax||
 |12|[@repeatedly](https://github.com/repeatedly)/[**yajl-d**](https://github.com/repeatedly/yajl-d)|YAJL binding for D||
 |11|[@alphaKAI](https://github.com/alphaKAI)/[**ChickenClisp**](https://github.com/alphaKAI/ChickenClisp)|ChickenClisp is a Scheme like language and interpreter. An Implementation of Orelang in D||
@@ -44,7 +44,9 @@
 |4|[@ShigekiKarita](https://github.com/ShigekiKarita)/[**mir-pybind**](https://github.com/ShigekiKarita/mir-pybind)|python binding generator for D||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dilo**](https://github.com/alphaKAI/dilo)|A minimal Text Editor in D Language, ported from Kilo||
 |4|[@alphaKAI](https://github.com/alphaKAI)/[**dpmatch**](https://github.com/alphaKAI/dpmatch)|[WIP] Pattern Matching for D, by compile time parsing with pegged and code generating||
+|4|[@kubo39](https://github.com/kubo39)/[**fastersort**](https://github.com/kubo39/fastersort)|||
 |4|[@matsubara0507](https://github.com/matsubara0507)/[**dlisp**](https://github.com/matsubara0507/dlisp)|Pure Lisp on D Language||
+|4|[@repeatedly](https://github.com/repeatedly)/[**colored-logger**](https://github.com/repeatedly/colored-logger)|Colored logger for TTY||
 |4|[@repeatedly](https://github.com/repeatedly)/[**ltsv-d**](https://github.com/repeatedly/ltsv-d)|LTSV implemetation for D||
 |4|[@repeatedly](https://github.com/repeatedly)/[**siphash-d**](https://github.com/repeatedly/siphash-d)|D implementation of SipHash||
 |4|[@youz](https://github.com/youz)/[**grasses**](https://github.com/youz/grasses)|Various implementations of 'Grass' the grass-planting programming language||
@@ -64,7 +66,6 @@
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**workermanager**](https://github.com/alphaKAI/workermanager)|Multi-thread based asynchronized worker manager||
 |3|[@alphaKAI](https://github.com/alphaKAI)/[**xhvm**](https://github.com/alphaKAI/xhvm)|The Xhyve VM Manager||
 |3|[@hekk](https://github.com/hekk)/[**sprint_workshop**](https://github.com/hekk/sprint_workshop)|社内勉強会で作ったもの||
-|3|[@kubo39](https://github.com/kubo39)/[**fastersort**](https://github.com/kubo39/fastersort)|||
 |3|[@kubo39](https://github.com/kubo39)/[**libloading**](https://github.com/kubo39/libloading)|A dynamic library loading library.||
 |3|[@kubo39](https://github.com/kubo39)/[**sharedlib**](https://github.com/kubo39/sharedlib)|Deprecated: moved to https://github.com/kubo39/libloading ||
 |3|[@kubo39](https://github.com/kubo39)/[**stm32f407discovery**](https://github.com/kubo39/stm32f407discovery)|STM32F407DISCOVERY dev board library for LDC.||

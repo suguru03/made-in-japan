@@ -5,21 +5,21 @@
 |13|[@philopon](https://github.com/philopon)/[**purescript-json**](https://github.com/philopon/purescript-json)|JSON parsing library like aeson for purescript.||
 |12|[@rnons](https://github.com/rnons)/[**purescript-halogen-day-picker**](https://github.com/rnons/purescript-halogen-day-picker)|A day picker written in purescript halogen|[:arrow_upper_right:](https://rnons.github.io/purescript-halogen-day-picker)|
 |10|[@cdepillabout](https://github.com/cdepillabout)/[**purescript-email-validate**](https://github.com/cdepillabout/purescript-email-validate)|Validating an email address string against RFC 5322||
-|8|[@rnons](https://github.com/rnons)/[**purescript-html-parser-halogen**](https://github.com/rnons/purescript-html-parser-halogen)|A library to render HTML string into Halogen views|[:arrow_upper_right:](https://rnons.github.io/purescript-html-parser-halogen/)|
+|10|[@rnons](https://github.com/rnons)/[**purescript-html-parser-halogen**](https://github.com/rnons/purescript-html-parser-halogen)|A library to render HTML string into Halogen views|[:arrow_upper_right:](https://rnons.github.io/purescript-html-parser-halogen/)|
+|8|[@rnons](https://github.com/rnons)/[**purescript-svg-parser-halogen**](https://github.com/rnons/purescript-svg-parser-halogen)|A library to inline SVG source string into halogen views|[:arrow_upper_right:](https://rnons.github.io/purescript-svg-parser-halogen)|
 |7|[@cdepillabout](https://github.com/cdepillabout)/[**purescript-boxes**](https://github.com/cdepillabout/purescript-boxes)|||
 |7|[@philopon](https://github.com/philopon)/[**purescript-xhr**](https://github.com/philopon/purescript-xhr)|simple XMLHttpRequest wrapper for purescript.||
-|7|[@rnons](https://github.com/rnons)/[**purescript-svg-parser-halogen**](https://github.com/rnons/purescript-svg-parser-halogen)|A library to inline SVG source string into halogen views|[:arrow_upper_right:](https://rnons.github.io/purescript-svg-parser-halogen)|
 |7|[@utatti](https://github.com/utatti)/[**purescript-halogen-free-html**](https://github.com/utatti/purescript-halogen-free-html)|Free monad for Halogen HTML||
 |6|[@fujimura](https://github.com/fujimura)/[**purescript-react-example**](https://github.com/fujimura/purescript-react-example)|PureScript + React.js example, based on https://github.com/purescript-contrib/purescript-react.||
 |6|[@nonbili](https://github.com/nonbili)/[**svgen**](https://github.com/nonbili/svgen)|Generate an icons module in purescript halogen from svg files||
 |5|[@algas](https://github.com/algas)/[**purescript-enchantjs**](https://github.com/algas/purescript-enchantjs)|PureScript interface for Enchant.js||
 |5|[@bouzuya](https://github.com/bouzuya)/[**create-purescript-react-basic**](https://github.com/bouzuya/create-purescript-react-basic)|An npm initializer for purescript-react-basic project|[:arrow_upper_right:](https://www.npmjs.com/package/@bouzuya/create-purescript-react-basic)|
-|5|[@bouzuya](https://github.com/bouzuya)/[**purescript-examples**](https://github.com/bouzuya/purescript-examples)|||
+|5|[@moxuse](https://github.com/moxuse)/[**Yodaka**](https://github.com/moxuse/Yodaka)|||
 |5|[@oreshinya](https://github.com/oreshinya)/[**purescript-cherry**](https://github.com/oreshinya/purescript-cherry)|No longer maintenance||
 |5|[@oreshinya](https://github.com/oreshinya)/[**purescript-simple-jwt**](https://github.com/oreshinya/purescript-simple-jwt)|Simple JWT encoder and decoder for PureScript.||
 |4|[@bouzuya](https://github.com/bouzuya)/[**node-hatena-fotolife-cli**](https://github.com/bouzuya/node-hatena-fotolife-cli)|Hatena::Fotolife command line interface (unofficial)||
 |4|[@bouzuya](https://github.com/bouzuya)/[**purescript-css-dsl**](https://github.com/bouzuya/purescript-css-dsl)|See: https://github.com/paulyoung/purescript-style/||
-|4|[@moxuse](https://github.com/moxuse)/[**Yodaka**](https://github.com/moxuse/Yodaka)|||
+|4|[@bouzuya](https://github.com/bouzuya)/[**purescript-examples**](https://github.com/bouzuya/purescript-examples)|||
 |4|[@noraesae](https://github.com/noraesae)/[**purescript-halogen-free-html**](https://github.com/noraesae/purescript-halogen-free-html)|Free monad for Halogen HTML||
 |4|[@oreshinya](https://github.com/oreshinya)/[**purescript-crypto**](https://github.com/oreshinya/purescript-crypto)|PureScript wrapper for crypto module of NodeJS||
 |4|[@oreshinya](https://github.com/oreshinya)/[**purescript-mysql**](https://github.com/oreshinya/purescript-mysql)|Bindings mysql for PureScript||

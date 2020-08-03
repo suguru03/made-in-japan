@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |59|[@sfja](https://github.com/sfja)/[**sfja**](https://github.com/sfja/sfja)|SoftwareFoundations(Ja)|[:arrow_upper_right:](http://proofcafe.org/sf/)|
-|49|[@pi8027](https://github.com/pi8027)/[**lambda-calculus**](https://github.com/pi8027/lambda-calculus)|A Formalization of Typed and Untyped λ-Calculi in SSReflect-Coq and Agda2||
+|57|[@pi8027](https://github.com/pi8027)/[**lambda-calculus**](https://github.com/pi8027/lambda-calculus)|A Formalization of Typed and Untyped λ-Calculi in Coq and Agda2||
 |11|[@pi8027](https://github.com/pi8027)/[**formalized-postscript**](https://github.com/pi8027/formalized-postscript)|PostScript programming in the Coq proof assistant||
 |8|[@suharahiromichi](https://github.com/suharahiromichi)/[**coq**](https://github.com/suharahiromichi/coq)|Coq Code||
 |7|[@amutake](https://github.com/amutake)/[**coq-extensible-effects**](https://github.com/amutake/coq-extensible-effects)|Extensible Effects in Coq||

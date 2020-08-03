@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |25|[@ryankanno](https://github.com/ryankanno)/[**django-vagrant**](https://github.com/ryankanno/django-vagrant)|A Vagrant instance to help you get started with the Django framework.||
-|18|[@inokappa](https://github.com/inokappa)/[**dockerfiles**](https://github.com/inokappa/dockerfiles)|||
+|19|[@inokappa](https://github.com/inokappa)/[**dockerfiles**](https://github.com/inokappa/dockerfiles)|||
 |12|[@n0ts](https://github.com/n0ts)/[**puppet-modules**](https://github.com/n0ts/puppet-modules)|My Puppet modules for CentOS 5||
 |11|[@kentaro](https://github.com/kentaro)/[**puppet-book-support**](https://github.com/kentaro/puppet-book-support)|『入門Puppet』のサポートページです。||
 |10|[@viirya](https://github.com/viirya)/[**puppet-hadoop**](https://github.com/viirya/puppet-hadoop)|Puppet module for deploying Hadoop MapReduce Next Generation (MRv2)||
@@ -11,5 +11,6 @@
 |4|[@hfm](https://github.com/hfm)/[**puppet-remi**](https://github.com/hfm/puppet-remi)|Configure the remi repository and import the GPG keys.|[:arrow_upper_right:](https://forge.puppet.com/hfm/remi)|
 |4|[@tomohiro](https://github.com/tomohiro)/[**puppet-mackerel_agent**](https://github.com/tomohiro/puppet-mackerel_agent)|Puppet module for mackerel-agent|[:arrow_upper_right:](https://forge.puppetlabs.com/tomohiro/mackerel_agent)|
 |4|[@viirya](https://github.com/viirya)/[**puppet-zookeeper**](https://github.com/viirya/puppet-zookeeper)|Puppet module for deploying Apache Zookeeper cluster||
+|3|[@hanazuki](https://github.com/hanazuki)/[**puppet-nftables**](https://github.com/hanazuki/puppet-nftables)|Puppet module to manage nftables||
 |3|[@ngs](https://github.com/ngs)/[**puppet-kaleidoscope**](https://github.com/ngs/puppet-kaleidoscope)|Kaleidoscope Puppet Module for Boxen||
 

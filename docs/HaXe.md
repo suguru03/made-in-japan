@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|537|[@deltaluca](https://github.com/deltaluca)/[**nape**](https://github.com/deltaluca/nape)|Haxe/AS3 Physics Engine|[:arrow_upper_right:](http://napephys.com)|
+|539|[@deltaluca](https://github.com/deltaluca)/[**nape**](https://github.com/deltaluca/nape)|Haxe/AS3 Physics Engine|[:arrow_upper_right:](http://napephys.com)|
 |74|[@mandel59](https://github.com/mandel59)/[**unifill**](https://github.com/mandel59/unifill)|Haxe library for Unicode string support||
 |56|[@deltaluca](https://github.com/deltaluca)/[**goodies**](https://github.com/deltaluca/goodies)|Collection of little Haxe goodies I don't yet have an official place for.||
 |24|[@deltaluca](https://github.com/deltaluca)/[**hx-ogl**](https://github.com/deltaluca/hx-ogl)|Haxe-c++ bindings for OpenGL 3.3+||
@@ -12,6 +12,7 @@
 |5|[@mizchi](https://github.com/mizchi)/[**vue-haxe**](https://github.com/mizchi/vue-haxe)|||
 |5|[@y-yu](https://github.com/y-yu)/[**hxbn**](https://github.com/y-yu/hxbn)|hxbn is Haxe implementation of jsbn (http://www-cs-students.stanford.edu/~tjw/jsbn/)||
 |5|[@zick](https://github.com/zick)/[**HaxeLisp**](https://github.com/zick/HaxeLisp)|Lisp implementation in Haxe||
+|3|[@deltaluca](https://github.com/deltaluca)/[**hx-turbulenz**](https://github.com/deltaluca/hx-turbulenz)|Haxe-JS typed externs for Turbulenz||
 |3|[@mandel59](https://github.com/mandel59)/[**hxlazy**](https://github.com/mandel59/hxlazy)|a lazy data structure||
 |3|[@seibe](https://github.com/seibe)/[**hxElectron**](https://github.com/seibe/hxElectron)|A haxe extern for Electron (Atom Shell)||
 
